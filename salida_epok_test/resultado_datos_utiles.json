@@ -1,0 +1,72 @@
+{
+  "ok": true,
+  "input": "Davila 1130, CABA",
+  "lat": -34.637417,
+  "lng": -58.448736,
+  "direccion_usig": {
+    "altura": 1130,
+    "cod_calle": 4012,
+    "cod_calle_cruce": null,
+    "cod_partido": "caba",
+    "coordenadas": {
+      "srid": 4326,
+      "x": "-58.448736",
+      "y": "-34.637417"
+    },
+    "direccion": "DAVILA 1130, CABA",
+    "nombre_calle": "DAVILA",
+    "nombre_calle_cruce": "",
+    "nombre_localidad": "CABA",
+    "nombre_partido": "CABA",
+    "tipo": "calle_altura"
+  },
+  "datos_utiles": null,
+  "reverse": null,
+  "debug": {
+    "address": "Davila 1130, CABA",
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1130,
+          "cod_calle": 4012,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.448736",
+            "y": "-34.637417"
+          },
+          "direccion": "DAVILA 1130, CABA",
+          "nombre_calle": "DAVILA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    },
+    "usig_direccion_elegida": {
+      "altura": 1130,
+      "cod_calle": 4012,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.448736",
+        "y": "-34.637417"
+      },
+      "direccion": "DAVILA 1130, CABA",
+      "nombre_calle": "DAVILA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.637417,
+      "lng": -58.448736
+    },
+    "usig_datos_utiles_error": "Expecting value: line 1 column 1 (char 0)",
+    "usig_reverse_geocoder_error": "Expecting value: line 1 column 1 (char 0)"
+  }
+}

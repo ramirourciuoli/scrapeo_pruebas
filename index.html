@@ -1,0 +1,367 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Catastro CABA — Consulta</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 980px; margin: 24px auto; padding: 0 14px; }
+    .card { border: 1px solid #ddd; border-radius: 12px; padding: 14px; margin: 12px 0; background: #fff; }
+    .row { display:flex; gap:10px; align-items:center; flex-wrap:wrap; }
+    input { flex:1; min-width:260px; padding:10px; font-size:16px; border:1px solid #bbb; border-radius:8px; }
+    button { padding:10px 14px; font-size:15px; border:0; border-radius:10px; cursor:pointer; background:#2b6cb0; color:#fff; }
+    button.secondary { background:#e2e8f0; color:#111; }
+    pre { background:#f7fafc; padding:12px; border-radius:12px; overflow:auto; border:1px solid #eee; }
+    .tiny { font-size:12px; color:#666; }
+    .ok { color:#1a7f37; font-weight:600; }
+    .err { color:#c53030; font-weight:600; }
+
+    /* dropdown autocomplete */
+    .ac-wrap { position: relative; flex: 1; min-width: 260px; }
+    .ac-list {
+      position: absolute;
+      z-index: 9999;
+      top: calc(100% + 6px);
+      left: 0;
+      right: 0;
+      background: white;
+      border: 1px solid #ddd;
+      border-radius: 10px;
+      box-shadow: 0 8px 22px rgba(0,0,0,0.08);
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      max-height: 280px;
+      overflow: auto;
+      display: none;
+    }
+    .ac-item {
+      padding: 10px 12px;
+      border-bottom: 1px solid #f0f0f0;
+      cursor: pointer;
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      align-items: center;
+    }
+    .ac-item:last-child { border-bottom: none; }
+    .ac-item:hover { background: #f7fafc; }
+    .ac-item.active { background: #e6f0ff; }
+    .pill {
+      font-size: 12px;
+      border: 1px solid #ddd;
+      border-radius: 999px;
+      padding: 2px 8px;
+      color: #444;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+    .hint { margin-top: 8px; }
+    code { background:#f2f2f2; padding: 2px 6px; border-radius: 6px; }
+
+    /* alternativas de altura */
+    .alts { margin-top: 10px; display:none; }
+    .alts-title { font-size:12px; color:#444; margin-bottom: 6px; }
+    .alts-list { display:flex; flex-wrap:wrap; gap:8px; }
+    .alt-btn {
+      background:#fff;
+      color:#111;
+      border:1px solid #ddd;
+      border-radius:999px;
+      padding:8px 10px;
+      cursor:pointer;
+      font-size:13px;
+    }
+    .alt-btn:hover { background:#f7fafc; }
+  </style>
+</head>
+<body>
+  <h2>Consulta Catastro (Backend Real)</h2>
+  <div class="tiny">
+    Un campo: escribís <b>calle + altura</b> (ej: <code>Cachimayo 1860</code>).<br>
+    Si la altura <b>no existe en Catastro</b>, el sistema te ofrece <b>alturas válidas cercanas</b>.
+  </div>
+
+  <div class="card">
+    <div class="row">
+      <div class="ac-wrap">
+        <input id="dir" placeholder="Ej: Davila 1130, CABA" autocomplete="off" />
+        <ul id="ac" class="ac-list"></ul>
+        <div class="tiny hint" id="acHint"></div>
+
+        <!-- ✅ acá aparecen alternativas cuando no hay SMP -->
+        <div class="alts" id="alts">
+          <div class="alts-title" id="altsTitle"></div>
+          <div class="alts-list" id="altsList"></div>
+        </div>
+      </div>
+
+      <button id="btnConsultar" onclick="consultar()">Consultar</button>
+      <button class="secondary" onclick="limpiar()">Limpiar</button>
+    </div>
+    <div id="status" class="tiny" style="margin-top:10px;"></div>
+  </div>
+
+  <div class="card">
+    <div class="row" style="justify-content:space-between;">
+      <strong>Respuesta (JSON)</strong>
+      <button class="secondary" onclick="copiar()">Copiar JSON</button>
+    </div>
+    <pre id="out">(sin datos)</pre>
+  </div>
+
+<script>
+  const input = document.getElementById("dir");
+  const ac = document.getElementById("ac");
+  const acHint = document.getElementById("acHint");
+
+  const alts = document.getElementById("alts");
+  const altsTitle = document.getElementById("altsTitle");
+  const altsList = document.getElementById("altsList");
+
+  let acTimer = null;
+  let acItems = [];
+  let acActive = -1;
+
+  function setStatus(msg, type="") {
+    const el = document.getElementById("status");
+    el.className = "tiny " + (type === "ok" ? "ok" : type === "err" ? "err" : "");
+    el.textContent = msg;
+  }
+
+  function render(obj) {
+    document.getElementById("out").textContent = obj ? JSON.stringify(obj, null, 2) : "(sin datos)";
+  }
+
+  function esDireccionConAltura(texto) {
+    return /\d/.test(texto || "");
+  }
+
+  function ocultarAlternativas() {
+    alts.style.display = "none";
+    altsTitle.textContent = "";
+    altsList.innerHTML = "";
+  }
+
+  function mostrarAlternativasAltura(items) {
+    altsList.innerHTML = "";
+    if (!items || !items.length) {
+      ocultarAlternativas();
+      return;
+    }
+    altsTitle.textContent = "Esa altura no existe en Catastro. Elegí una válida cercana:";
+    items.forEach((it) => {
+      const b = document.createElement("button");
+      b.className = "alt-btn";
+      b.type = "button";
+      b.textContent = it.direccion || (it.altura ? ("Altura " + it.altura) : "Opción");
+      b.addEventListener("click", () => {
+        input.value = (it.direccion || "").replace(/,\s*CABA\s*$/i, "") + ", CABA";
+        ocultarAlternativas();
+        consultar(); // ✅ reintenta
+      });
+      altsList.appendChild(b);
+    });
+    alts.style.display = "block";
+  }
+
+  function mostrarAC(items) {
+    ac.innerHTML = "";
+    acItems = items || [];
+    acActive = -1;
+
+    if (!acItems.length) {
+      ac.style.display = "none";
+      return;
+    }
+
+    acItems.forEach((item, idx) => {
+      const li = document.createElement("li");
+      li.className = "ac-item";
+
+      const left = document.createElement("span");
+      left.textContent = item.label;
+
+      const right = document.createElement("span");
+      right.className = "pill";
+      right.textContent = item.tipo || "";
+
+      li.appendChild(left);
+      li.appendChild(right);
+
+      li.addEventListener("mousedown", (e) => {
+        e.preventDefault();
+        elegirItem(idx);
+      });
+
+      ac.appendChild(li);
+    });
+
+    ac.style.display = "block";
+  }
+
+  function ocultarAC() {
+    ac.style.display = "none";
+    ac.innerHTML = "";
+    acItems = [];
+    acActive = -1;
+  }
+
+  function marcarActivo() {
+    const nodes = ac.querySelectorAll(".ac-item");
+    nodes.forEach((n, i) => n.classList.toggle("active", i === acActive));
+  }
+
+  function elegirItem(idx) {
+    const item = acItems[idx];
+    if (!item) return;
+
+    input.value = item.label; // puede ser "CALLE" o "CALLE 1234" o "CALLE 1234, CABA"
+    ocultarAC();
+
+    // hint claro
+    if (!esDireccionConAltura(item.label)) {
+      acHint.textContent = "Elegiste una calle. Ahora agregá altura (ej: “" + item.label + " 1234”).";
+    } else {
+      acHint.textContent = "Dirección con altura lista para consultar.";
+    }
+  }
+
+  async function fetchSugerencias(q) {
+    const url = `/autocomplete/calles?q=${encodeURIComponent(q)}&limit=12`;
+    const res = await fetch(url);
+    const data = await res.json();
+    return data.sugerencias || [];
+  }
+
+  // ✅ Autocomplete al tipear
+  input.addEventListener("input", () => {
+    const q = input.value.trim();
+
+    // cada vez que tipeás, limpiamos alternativas de altura
+    ocultarAlternativas();
+
+    if (q.length < 3) {
+      acHint.textContent = "";
+    } else if (!esDireccionConAltura(q)) {
+      acHint.textContent = "Escribí una calle (ej: “Moreno”) y elegí una opción. Luego agregá altura.";
+    } else {
+      acHint.textContent = "Si tu altura no existe en Catastro, te voy a ofrecer alturas válidas cercanas.";
+    }
+
+    clearTimeout(acTimer);
+    if (q.length < 3) { ocultarAC(); return; }
+
+    acTimer = setTimeout(async () => {
+      try {
+        const items = await fetchSugerencias(q);
+        mostrarAC(items);
+      } catch (e) {
+        ocultarAC();
+      }
+    }, 220);
+  });
+
+  // teclado: Enter / ↑ / ↓ / Esc
+  input.addEventListener("keydown", (e) => {
+    if (ac.style.display !== "block") {
+      if (e.key === "Enter") consultar();
+      return;
+    }
+
+    if (e.key === "ArrowDown") {
+      e.preventDefault();
+      acActive = Math.min(acItems.length - 1, acActive + 1);
+      marcarActivo();
+      return;
+    }
+    if (e.key === "ArrowUp") {
+      e.preventDefault();
+      acActive = Math.max(0, acActive - 1);
+      marcarActivo();
+      return;
+    }
+    if (e.key === "Enter") {
+      e.preventDefault();
+      if (acActive >= 0) elegirItem(acActive);
+      else ocultarAC();
+      return;
+    }
+    if (e.key === "Escape") {
+      e.preventDefault();
+      ocultarAC();
+      return;
+    }
+  });
+
+  // cerrar dropdown si clic afuera
+  document.addEventListener("click", (e) => {
+    if (e.target !== input && !ac.contains(e.target)) ocultarAC();
+  });
+
+  async function consultar() {
+    ocultarAC();
+    ocultarAlternativas();
+
+    const direccion = input.value.trim();
+    if (!direccion) { setStatus("Ingresá una dirección.", "err"); return; }
+
+    // MVP: no consultar catastro sin altura
+    if (!esDireccionConAltura(direccion)) {
+      setStatus("Primero elegí la calle (si hay varias) y agregá altura (ej: Moreno 1234).", "err");
+      return;
+    }
+
+    const direccionFinal = /caba/i.test(direccion) ? direccion : (direccion + ", CABA");
+
+    setStatus("Consultando backend…");
+    render(null);
+
+    try {
+      const res = await fetch("http://127.0.0.1:8000/api/catastro", {
+        method: "POST",
+        headers: {"Content-Type":"application/json"},
+        body: JSON.stringify({ direccion: direccionFinal })
+      });
+
+      const data = await res.json();
+      render(data);
+
+      if (data.ok) {
+        setStatus("OK. Datos recibidos.", "ok");
+        return;
+      }
+
+      // ✅ si no hay SMP, el backend trae alternativas
+      if (data.alternativas_altura && data.alternativas_altura.length) {
+        setStatus(data.error || "No se encontró parcela para esa altura.", "err");
+        mostrarAlternativasAltura(data.alternativas_altura);
+        return;
+      }
+
+      setStatus(data.error || "Error.", "err");
+
+    } catch (e) {
+      setStatus("Error: " + (e?.message || String(e)), "err");
+      render({error: String(e)});
+    }
+  }
+
+  function limpiar() {
+    input.value = "";
+    ocultarAC();
+    ocultarAlternativas();
+    acHint.textContent = "";
+    setStatus("Listo.");
+    render(null);
+  }
+
+  function copiar() {
+    navigator.clipboard.writeText(document.getElementById("out").textContent);
+    setStatus("JSON copiado.", "ok");
+  }
+
+  limpiar();
+</script>
+</body>
+</html>
