@@ -8,7 +8,7 @@ import api_datos_catastrales as adc
 from api_datos_utiles import consultar_datos_utiles
 import api_procesos_geograficos as pg
 import api_buscador_caba as abc
-
+from ciudad3d.servicio_ciudad3d import obtener_prefactibilidad_ciudad3d
 
 app = Flask(__name__)
 
@@ -72,7 +72,7 @@ def api_catastro():
                 "error": "No se encontró parcela para esa altura (dirección sin SMP).",
                 "debug": dbg
             }), 404
-
+        
         # 2️⃣ Traer parcela
         parcela = adc.catastro_parcela_by_smp(smp)
         geometria = adc.catastro_geometria_by_smp(smp)
@@ -103,8 +103,17 @@ def api_catastro():
         except Exception as e:
             dbg["datos_utiles_error"] = str(e)
 
+        # 7️⃣ Ciudad3D
+        ciudad3d_data = None
+        try:
+            ciudad3d_data = obtener_prefactibilidad_ciudad3d(address)
+        except Exception as e:
+            dbg["ciudad3d_error"] = str(e)
+
+
         return jsonify({
             "ok": True,
+            "ciudad3d": ciudad3d_data,
             "input": address,
             "smp": smp,
             "parcela": parcela,
@@ -122,7 +131,7 @@ def api_catastro():
             "error": str(e),
             "debug": dbg
         }), 500
-
+        
 
 if __name__ == "__main__":
     app.run(host="127.0.0.1", port=8000, debug=True)
