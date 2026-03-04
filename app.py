@@ -1,14 +1,12 @@
-# app.py
-
 from flask import Flask, jsonify, request, send_from_directory
 import requests
 
-# ✅ IMPORTS LOCALES (misma carpeta)
+# ✅ IMPORTS LOCALES
 import api_datos_catastrales as adc
 from api_datos_utiles import consultar_datos_utiles
 import api_procesos_geograficos as pg
 import api_buscador_caba as abc
-
+from ciudad3d.servicio_ciudad3d import obtener_prefactibilidad
 
 app = Flask(__name__)
 
@@ -46,16 +44,18 @@ def autocomplete_calles():
 
 
 # =========================
-# API CATASTRO
+# API CATASTRO + CIUDAD3D
 # =========================
 @app.post("/api/catastro")
 def api_catastro():
-
     payload = request.get_json(force=True, silent=True) or {}
     address = (payload.get("direccion") or "").strip()
 
     if not address:
-        return jsonify({"ok": False, "error": "Falta 'direccion'"}), 400
+        return jsonify({
+            "ok": False,
+            "error": "Falta 'direccion'"
+        }), 400
 
     dbg = {"address": address}
 
@@ -69,11 +69,11 @@ def api_catastro():
         if not smp:
             return jsonify({
                 "ok": False,
-                "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+                "error": "No se encontró parcela para esa altura.",
                 "debug": dbg
             }), 404
 
-        # 2️⃣ Traer parcela
+        # 2️⃣ Datos de parcela
         parcela = adc.catastro_parcela_by_smp(smp)
         geometria = adc.catastro_geometria_by_smp(smp)
 
@@ -84,25 +84,33 @@ def api_catastro():
             area_m2 = 0
             dbg["area_error"] = str(e)
 
-        # 4️⃣ Centroide XY
+        # 4️⃣ Centroide
         cx, cy = adc.geojson_centroid_xy(geometria)
         centroide_xy = {"x": cx, "y": cy}
 
-        # 5️⃣ Convertir a lon/lat
         lon, lat = pg.gkba_a_lonlat(float(cx), float(cy))
         centroide_lonlat = {"lon": lon, "lat": lat}
 
-        # 6️⃣ Datos útiles
+        # 5️⃣ Datos útiles
         datos_utiles = None
         try:
             d = (dbg.get("usig_direccion_elegida") or {})
             calle = d.get("nombre_calle")
             altura = d.get("altura")
+
             if calle and altura:
                 datos_utiles = consultar_datos_utiles(str(calle), int(altura))
         except Exception as e:
             dbg["datos_utiles_error"] = str(e)
 
+        # 6️⃣ Ciudad3D (CORREGIDO)
+        ciudad3d_data = None
+        try:
+            ciudad3d_data = obtener_prefactibilidad(smp)
+        except Exception as e:
+            dbg["ciudad3d_error"] = str(e)
+
+        # RESPUESTA FINAL
         return jsonify({
             "ok": True,
             "input": address,
@@ -113,6 +121,7 @@ def api_catastro():
             "centroide_xy": centroide_xy,
             "centroide_lonlat": centroide_lonlat,
             "datos_utiles": datos_utiles,
+            "ciudad3d": ciudad3d_data,
             "debug": dbg
         })
 
@@ -124,5 +133,8 @@ def api_catastro():
         }), 500
 
 
+# =========================
+# RUN
+# =========================
 if __name__ == "__main__":
     app.run(host="127.0.0.1", port=8000, debug=True)
