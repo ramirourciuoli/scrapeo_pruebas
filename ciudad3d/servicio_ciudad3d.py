@@ -1,8 +1,47 @@
-from ciudad3d.extraer_prefactibilidad import extraer_prefactibilidad
+import requests
 
 
-def obtener_prefactibilidad_ciudad3d(direccion: str) -> dict:
+def obtener_prefactibilidad(smp: str) -> dict:
     """
-    Punto único de entrada para Ciudad3D
+    Recibe un SMP ya resuelto y consulta directamente
+    los endpoints de CUR3D.
     """
-    return extraer_prefactibilidad(direccion)
+
+    if not smp:
+        return {
+            "ok": False,
+            "error": "SMP vacío"
+        }
+
+    try:
+        parcelas_enrase = requests.get(
+            "https://epok.buenosaires.gob.ar/cur3d/parcelas_plausibles_a_enrase/",
+            params={"smp": smp}
+        ).json()
+
+        estado_parcelario = requests.get(
+            "https://epok.buenosaires.gob.ar/cur3d/constitucion_estado_parcelario/",
+            params={"smp": smp}
+        ).json()
+
+        seccion_edificabilidad = requests.get(
+            "https://epok.buenosaires.gob.ar/cur3d/seccion_edificabilidad/",
+            params={"smp": smp}
+        ).json()
+
+        return {
+            "ok": True,
+            "smp": smp,
+            "cur3d": {
+                "parcelas_plausibles_a_enrase": parcelas_enrase,
+                "constitucion_estado_parcelario": estado_parcelario,
+                "seccion_edificabilidad": seccion_edificabilidad
+            }
+        }
+
+    except Exception as e:
+        return {
+            "ok": False,
+            "error": str(e),
+            "smp": smp
+        }
