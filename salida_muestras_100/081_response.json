@@ -1,0 +1,85 @@
+{
+  "debug": {
+    "address": "COSTA RICA 6025",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.43886435863973,
+        -34.57909994596893
+      ],
+      "direccion": "COSTA RICA 6025",
+      "fondo": "29.27",
+      "frente": "7.79",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "063",
+      "parcela": "039",
+      "pdamatriz": "404855",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "9",
+      "propiedad_horizontal": "Si",
+      "seccion": "035",
+      "smp": "035-063-039",
+      "smp_anterior": "035-063-038",
+      "smp_siguiente": "035-063-040A",
+      "srid": 4326,
+      "superficie_cubierta": "1425.00",
+      "superficie_total": "228.00",
+      "unidades_funcionales": "14",
+      "vuc": "0.00"
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "COSTA RICA",
+      "puerta": 6025
+    },
+    "usig_cod_calle_altura": {
+      "altura": 6025,
+      "cod_calle": 3183
+    },
+    "usig_direccion_elegida": {
+      "altura": 6025,
+      "cod_calle": 3183,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.439001",
+        "y": "-34.579219"
+      },
+      "direccion": "COSTA RICA 6025, CABA",
+      "nombre_calle": "COSTA RICA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.579219,
+      "lng": -58.439001
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 6025,
+          "cod_calle": 3183,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.439001",
+            "y": "-34.579219"
+          },
+          "direccion": "COSTA RICA 6025, CABA",
+          "nombre_calle": "COSTA RICA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

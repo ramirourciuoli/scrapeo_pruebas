@@ -1,0 +1,210 @@
+{
+  "area_m2": 75.72822952270508,
+  "centroide_lonlat": {
+    "lat": -34.614715,
+    "lon": -58.471738
+  },
+  "centroide_xy": {
+    "x": 99226.12423020661,
+    "y": 101614.57244280142
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. T. ÁLVAREZ",
+    "barrio": "Villa Gral. Mitre",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1416",
+    "codigo_postal_argentino": "C1416AKJ",
+    "comisaria": "50",
+    "comisaria_vecinal": "11A",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "67"
+  },
+  "debug": {
+    "address": "GENERAL JOSE GERVASIO ARTIGAS 1404",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.47173756604837,
+        -34.614714638418
+      ],
+      "direccion": "ARTIGAS, JOSE GERVASIO, GRAL. 1404",
+      "fondo": "17.59",
+      "frente": "4.32",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "076A",
+      "parcela": "001A",
+      "pdamatriz": "248547",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "067",
+      "smp": "067-076A-001A",
+      "smp_anterior": "067-076A-031",
+      "smp_siguiente": "067-076A-001B",
+      "srid": 4326,
+      "superficie_cubierta": "111.00",
+      "superficie_total": "76.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1404,
+      "cod_calle": 1125
+    },
+    "usig_direccion_elegida": {
+      "altura": 1404,
+      "cod_calle": 1125,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.471654",
+        "y": "-34.614674"
+      },
+      "direccion": "ARTIGAS, JOSE GERVASIO, GRAL. 1404, CABA",
+      "nombre_calle": "ARTIGAS, JOSE GERVASIO, GRAL.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1404,
+          "cod_calle": 1125,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.471654",
+            "y": "-34.614674"
+          },
+          "direccion": "ARTIGAS, JOSE GERVASIO, GRAL. 1404, CABA",
+          "nombre_calle": "ARTIGAS, JOSE GERVASIO, GRAL.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99227.50298929945,
+                  101609.98503006334
+                ],
+                [
+                  99227.0959893004,
+                  101609.72103006518
+                ],
+                [
+                  99224.87998930519,
+                  101608.28603007161
+                ],
+                [
+                  99223.4929893107,
+                  101610.308030065
+                ],
+                [
+                  99222.44798931498,
+                  101611.83103006269
+                ],
+                [
+                  99221.9799893172,
+                  101612.51403006102
+                ],
+                [
+                  99220.10998932419,
+                  101615.2400300549
+                ],
+                [
+                  99222.40198931852,
+                  101616.76803004823
+                ],
+                [
+                  99223.37998931599,
+                  101617.4200300469
+                ],
+                [
+                  99224.83198931317,
+                  101618.38803004296
+                ],
+                [
+                  99228.47998930539,
+                  101620.820030034
+                ],
+                [
+                  99229.7779892994,
+                  101618.84903003738
+                ],
+                [
+                  99230.84998929496,
+                  101617.22003004051
+                ],
+                [
+                  99229.60998929458,
+                  101611.35003005728
+                ],
+                [
+                  99227.50298929945,
+                  101609.98503006334
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "067-076A-001A",
+          "fecha_actualizacion": "02/02/2026",
+          "fuente": "UPDATE_FEBRERO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "GENERAL JOSE GERVASIO ARTIGAS 1404",
+  "ok": true,
+  "parcela": {
+    "centroide": [
+      -58.47173756604837,
+      -34.614714638418
+    ],
+    "direccion": "ARTIGAS, JOSE GERVASIO, GRAL. 1404",
+    "fondo": "17.59",
+    "frente": "4.32",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "076A",
+    "parcela": "001A",
+    "pdamatriz": "248547",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "seccion": "067",
+    "smp": "067-076A-001A",
+    "smp_anterior": "067-076A-031",
+    "smp_siguiente": "067-076A-001B",
+    "srid": 4326,
+    "superficie_cubierta": "111.00",
+    "superficie_total": "76.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "067-076A-001A"
+}

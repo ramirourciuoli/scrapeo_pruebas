@@ -1,0 +1,85 @@
+{
+  "debug": {
+    "address": "CUCHA CUCHA 2895",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.4692607692701,
+        -34.59915462336931
+      ],
+      "direccion": "CUCHA CUCHA 2895",
+      "fondo": "19.30",
+      "frente": "4.56",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "049",
+      "parcela": "009",
+      "pdamatriz": "242506",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "059",
+      "smp": "059-049-009",
+      "smp_anterior": "059-049-008",
+      "smp_siguiente": "059-049-010",
+      "srid": 4326,
+      "superficie_cubierta": "104.00",
+      "superficie_total": "88.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "CUCHA CUCHA",
+      "puerta": 2895
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2895,
+      "cod_calle": 3199
+    },
+    "usig_direccion_elegida": {
+      "altura": 2895,
+      "cod_calle": 3199,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.469299",
+        "y": "-34.599248"
+      },
+      "direccion": "CUCHA CUCHA 2895, CABA",
+      "nombre_calle": "CUCHA CUCHA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.599248,
+      "lng": -58.469299
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2895,
+          "cod_calle": 3199,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.469299",
+            "y": "-34.599248"
+          },
+          "direccion": "CUCHA CUCHA 2895, CABA",
+          "nombre_calle": "CUCHA CUCHA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

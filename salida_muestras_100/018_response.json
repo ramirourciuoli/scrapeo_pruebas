@@ -1,0 +1,85 @@
+{
+  "debug": {
+    "address": "MADARIAGA 6602",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.47013696114709,
+        -34.693010385749226
+      ],
+      "direccion": "GUAMINI 5509",
+      "fondo": "28.49",
+      "frente": "12.74",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "025",
+      "parcela": "012D",
+      "pdamatriz": "93810",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "082",
+      "smp": "082-025-012D",
+      "smp_anterior": "082-025-012A",
+      "smp_siguiente": "082-025-013",
+      "srid": 4326,
+      "superficie_cubierta": "208.00",
+      "superficie_total": "363.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "MADARIAGA",
+      "puerta": 6602
+    },
+    "usig_cod_calle_altura": {
+      "altura": 6602,
+      "cod_calle": 13004
+    },
+    "usig_direccion_elegida": {
+      "altura": 6602,
+      "cod_calle": 13004,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.470259",
+        "y": "-34.692942"
+      },
+      "direccion": "MADARIAGA 6602, CABA",
+      "nombre_calle": "MADARIAGA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.692942,
+      "lng": -58.470259
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 6602,
+          "cod_calle": 13004,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.470259",
+            "y": "-34.692942"
+          },
+          "direccion": "MADARIAGA 6602, CABA",
+          "nombre_calle": "MADARIAGA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

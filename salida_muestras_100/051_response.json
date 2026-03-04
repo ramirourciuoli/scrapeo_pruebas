@@ -1,0 +1,102 @@
+{
+  "debug": {
+    "address": "TIMOTEO GORDILLO 2498",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.50106838556086,
+        -34.662920664297886
+      ],
+      "direccion": "DE LOS CORRALES AV. 6599",
+      "fondo": "7.59",
+      "frente": "29.11",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "131",
+      "parcela": "016F",
+      "pdamatriz": "94431",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "076",
+      "smp": "076-131-016F",
+      "smp_anterior": "076-131-016E",
+      "smp_siguiente": "076-131-017",
+      "srid": 4326,
+      "superficie_cubierta": "196.00",
+      "superficie_total": "221.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "GORDILLO, TIMOTEO",
+      "puerta": 2498
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2498,
+      "cod_calle": 7070
+    },
+    "usig_direccion_elegida": {
+      "altura": 2498,
+      "cod_calle": 7070,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.501138",
+        "y": "-34.662959"
+      },
+      "direccion": "GORDILLO, TIMOTEO 2498, CABA",
+      "nombre_calle": "GORDILLO, TIMOTEO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.662959,
+      "lng": -58.501138
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2498,
+          "cod_calle": 7070,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.501138",
+            "y": "-34.662959"
+          },
+          "direccion": "GORDILLO, TIMOTEO 2498, CABA",
+          "nombre_calle": "GORDILLO, TIMOTEO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2498,
+          "cod_calle": 26231,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4439976083333,
+            "y": -34.7473734291667
+          },
+          "direccion": "Timoteo Gordillo 2498, Lomas de Zamora",
+          "nombre_calle": "Timoteo Gordillo",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ingeniero Budge",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

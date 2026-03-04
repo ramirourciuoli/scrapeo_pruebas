@@ -1,0 +1,85 @@
+{
+  "debug": {
+    "address": "VALLEJOS 3233",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.5053714523455,
+        -34.590320861998144
+      ],
+      "direccion": "VALLEJOS 3233",
+      "fondo": "41.22",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "248",
+      "parcela": "032",
+      "pdamatriz": "269193",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "10",
+      "propiedad_horizontal": "Si",
+      "seccion": "083",
+      "smp": "083-248-032",
+      "smp_anterior": "083-248-031",
+      "smp_siguiente": "083-248-033",
+      "srid": 4326,
+      "superficie_cubierta": "2017.00",
+      "superficie_total": "357.00",
+      "unidades_funcionales": "26",
+      "vuc": "0.00"
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "VALLEJOS",
+      "puerta": 3233
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3233,
+      "cod_calle": 23009
+    },
+    "usig_direccion_elegida": {
+      "altura": 3233,
+      "cod_calle": 23009,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.505209",
+        "y": "-34.590502"
+      },
+      "direccion": "VALLEJOS 3233, CABA",
+      "nombre_calle": "VALLEJOS",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.590502,
+      "lng": -58.505209
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3233,
+          "cod_calle": 23009,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.505209",
+            "y": "-34.590502"
+          },
+          "direccion": "VALLEJOS 3233, CABA",
+          "nombre_calle": "VALLEJOS",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

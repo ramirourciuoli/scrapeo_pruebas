@@ -1,0 +1,85 @@
+{
+  "debug": {
+    "address": "GRAL. EUGENIO GARZON 7236",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.50487231138391,
+        -34.668373758987045
+      ],
+      "direccion": "GARZON EUGENIO GENERAL 7236",
+      "fondo": "17.34",
+      "frente": "10.73",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "035",
+      "parcela": "004",
+      "pdamatriz": "36546",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "076",
+      "smp": "076-035-004",
+      "smp_anterior": "076-035-003",
+      "smp_siguiente": "076-035-005",
+      "srid": 4326,
+      "superficie_cubierta": "151.00",
+      "superficie_total": "186.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "GARZON EUGENIO GENERAL",
+      "puerta": 7236
+    },
+    "usig_cod_calle_altura": {
+      "altura": 7236,
+      "cod_calle": 7038
+    },
+    "usig_direccion_elegida": {
+      "altura": 7236,
+      "cod_calle": 7038,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.505008",
+        "y": "-34.668272"
+      },
+      "direccion": "GARZON EUGENIO GENERAL 7236, CABA",
+      "nombre_calle": "GARZON EUGENIO GENERAL",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.668272,
+      "lng": -58.505008
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 7236,
+          "cod_calle": 7038,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.505008",
+            "y": "-34.668272"
+          },
+          "direccion": "GARZON EUGENIO GENERAL 7236, CABA",
+          "nombre_calle": "GARZON EUGENIO GENERAL",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

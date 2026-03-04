@@ -1,0 +1,85 @@
+{
+  "debug": {
+    "address": "PUMACAHUA 1087",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.449802866560745,
+        -34.63743864317458
+      ],
+      "direccion": "PUMACAHUA 1087",
+      "fondo": "14.89",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "091",
+      "parcela": "029",
+      "pdamatriz": "76247",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "044",
+      "smp": "044-091-029",
+      "smp_anterior": "044-091-028",
+      "smp_siguiente": "044-091-031",
+      "srid": 4326,
+      "superficie_cubierta": "120.00",
+      "superficie_total": "129.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "PUMACAHUA",
+      "puerta": 1087
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1087,
+      "cod_calle": 17136
+    },
+    "usig_direccion_elegida": {
+      "altura": 1087,
+      "cod_calle": 17136,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.449728",
+        "y": "-34.637350"
+      },
+      "direccion": "PUMACAHUA 1087, CABA",
+      "nombre_calle": "PUMACAHUA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.63735,
+      "lng": -58.449728
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1087,
+          "cod_calle": 17136,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.449728",
+            "y": "-34.637350"
+          },
+          "direccion": "PUMACAHUA 1087, CABA",
+          "nombre_calle": "PUMACAHUA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

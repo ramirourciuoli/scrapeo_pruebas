@@ -1,0 +1,202 @@
+{
+  "area_m2": 97.65353488922119,
+  "centroide_lonlat": {
+    "lat": -34.636181,
+    "lon": -58.456588
+  },
+  "centroide_xy": {
+    "x": 100615.41778053879,
+    "y": 99233.15342985344
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. P. PIÑERO",
+    "barrio": "Flores",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1406",
+    "codigo_postal_argentino": "C1406DSF",
+    "comisaria": "38",
+    "comisaria_vecinal": "7A",
+    "comuna": "Comuna 7",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "48"
+  },
+  "debug": {
+    "address": "CARLOS ORTIZ 716",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.45658836953236,
+        -34.636181305480186
+      ],
+      "direccion": "ORTIZ, CARLOS 716",
+      "fondo": "10.62",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "112B",
+      "parcela": "003",
+      "pdamatriz": "141828",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "048",
+      "smp": "048-112B-003",
+      "smp_anterior": "048-112B-002",
+      "smp_siguiente": "048-112B-004",
+      "srid": 4326,
+      "superficie_cubierta": "119.00",
+      "superficie_total": "92.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 716,
+      "cod_calle": 16032
+    },
+    "usig_direccion_elegida": {
+      "altura": 716,
+      "cod_calle": 16032,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.456649",
+        "y": "-34.636223"
+      },
+      "direccion": "ORTIZ, CARLOS 716, CABA",
+      "nombre_calle": "ORTIZ, CARLOS",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 716,
+          "cod_calle": 16032,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.456649",
+            "y": "-34.636223"
+          },
+          "direccion": "ORTIZ, CARLOS 716, CABA",
+          "nombre_calle": "ORTIZ, CARLOS",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  100615.69998361346,
+                  99227.74603569988
+                ],
+                [
+                  100613.88798361752,
+                  99226.28103570544
+                ],
+                [
+                  100608.2909836382,
+                  99232.98003569085
+                ],
+                [
+                  100611.13798363201,
+                  99235.30703568185
+                ],
+                [
+                  100613.91398362556,
+                  99237.57703567293
+                ],
+                [
+                  100616.94298361902,
+                  99240.0530356644
+                ],
+                [
+                  100617.69998361642,
+                  99239.13503566594
+                ],
+                [
+                  100618.66498361269,
+                  99237.96503566852
+                ],
+                [
+                  100619.85698360807,
+                  99236.52103567153
+                ],
+                [
+                  100620.01598360746,
+                  99236.32803567202
+                ],
+                [
+                  100622.53798359797,
+                  99233.27203567879
+                ],
+                [
+                  100615.77798361305,
+                  99227.8090356997
+                ],
+                [
+                  100615.69998361346,
+                  99227.74603569988
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "048-112B-003",
+          "fecha_actualizacion": "02/02/2026",
+          "fuente": "UPDATE_FEBRERO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CARLOS ORTIZ 716",
+  "ok": true,
+  "parcela": {
+    "centroide": [
+      -58.45658836953236,
+      -34.636181305480186
+    ],
+    "direccion": "ORTIZ, CARLOS 716",
+    "fondo": "10.62",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "112B",
+    "parcela": "003",
+    "pdamatriz": "141828",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "seccion": "048",
+    "smp": "048-112B-003",
+    "smp_anterior": "048-112B-002",
+    "smp_siguiente": "048-112B-004",
+    "srid": 4326,
+    "superficie_cubierta": "119.00",
+    "superficie_total": "92.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "048-112B-003"
+}

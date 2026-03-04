@@ -1,0 +1,85 @@
+{
+  "debug": {
+    "address": "PIERES 362",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.51344525099998,
+        -34.64352317836514
+      ],
+      "direccion": "PIERES 362",
+      "fondo": "45.61",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "143",
+      "parcela": "031",
+      "pdamatriz": "12716",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "072",
+      "smp": "072-143-031",
+      "smp_anterior": "072-143-030",
+      "smp_siguiente": "072-143-032",
+      "srid": 4326,
+      "superficie_cubierta": "243.00",
+      "superficie_total": "395.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "PIERES",
+      "puerta": 362
+    },
+    "usig_cod_calle_altura": {
+      "altura": 362,
+      "cod_calle": 17079
+    },
+    "usig_direccion_elegida": {
+      "altura": 362,
+      "cod_calle": 17079,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.513648",
+        "y": "-34.643703"
+      },
+      "direccion": "PIERES 362, CABA",
+      "nombre_calle": "PIERES",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.643703,
+      "lng": -58.513648
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 362,
+          "cod_calle": 17079,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.513648",
+            "y": "-34.643703"
+          },
+          "direccion": "PIERES 362, CABA",
+          "nombre_calle": "PIERES",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

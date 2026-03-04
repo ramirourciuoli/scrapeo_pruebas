@@ -1,0 +1,136 @@
+{
+  "debug": {
+    "address": "COLOMBRES 954",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.41750067628438,
+        -34.62507903186368
+      ],
+      "direccion": "COLOMBRES 954",
+      "fondo": "23.67",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "126",
+      "parcela": "019",
+      "pdamatriz": "150453",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "036",
+      "smp": "036-126-019",
+      "smp_anterior": "036-126-018",
+      "smp_siguiente": "036-126-020",
+      "srid": 4326,
+      "superficie_cubierta": "320.00",
+      "superficie_total": "205.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "COLOMBRES",
+      "puerta": 954
+    },
+    "usig_cod_calle_altura": {
+      "altura": 954,
+      "cod_calle": 3145
+    },
+    "usig_direccion_elegida": {
+      "altura": 954,
+      "cod_calle": 3145,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.417671",
+        "y": "-34.625088"
+      },
+      "direccion": "COLOMBRES 954, CABA",
+      "nombre_calle": "COLOMBRES",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.625088,
+      "lng": -58.417671
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 954,
+          "cod_calle": 3145,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.417671",
+            "y": "-34.625088"
+          },
+          "direccion": "COLOMBRES 954, CABA",
+          "nombre_calle": "COLOMBRES",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 954,
+          "cod_calle": 16961,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4113573346939,
+            "y": -34.7627874551021
+          },
+          "direccion": "José Eusebio Colombres 954, Lomas de Zamora",
+          "nombre_calle": "José Eusebio Colombres",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lomas de Zamora",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 954,
+          "cod_calle": 37101,
+          "cod_calle_cruce": null,
+          "cod_partido": "moron",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5949788244898,
+            "y": -34.6547816714286
+          },
+          "direccion": "José Colombres 954, Morón",
+          "nombre_calle": "José Colombres",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Haedo",
+          "nombre_partido": "Morón",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 954,
+          "cod_calle": 55379,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_isidro",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5468787020408,
+            "y": -34.5069078020408
+          },
+          "direccion": "Colombres 954, San Isidro",
+          "nombre_calle": "Colombres",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Adelina",
+          "nombre_partido": "San Isidro",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

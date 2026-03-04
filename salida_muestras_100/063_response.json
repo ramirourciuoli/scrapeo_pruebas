@@ -1,0 +1,122 @@
+{
+  "debug": {
+    "address": "AV. GENERAL PAZ 13790",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.505234374265925,
+        -34.67110228401337
+      ],
+      "direccion": "PAZ, GRAL. AV. 13790",
+      "fondo": "17.32",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "010",
+      "parcela": "016",
+      "pdamatriz": "37517",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "076",
+      "smp": "076-010-016",
+      "smp_anterior": "076-010-015",
+      "smp_siguiente": "076-010-017A",
+      "srid": 4326,
+      "superficie_cubierta": "111.00",
+      "superficie_total": "150.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "catastro_parcela_por_latlng_aprox": {
+      "centroide": [
+        -58.505234374265925,
+        -34.67110228401337
+      ],
+      "direccion": "PAZ, GRAL. AV. 13790",
+      "fondo": "17.32",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "010",
+      "parcela": "016",
+      "pdamatriz": "37517",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "076",
+      "smp": "076-010-016",
+      "smp_anterior": "076-010-015",
+      "smp_siguiente": "076-010-017A",
+      "srid": 4326,
+      "superficie_cubierta": "111.00",
+      "superficie_total": "150.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "PAZ, GRAL. AV.",
+      "puerta": 13790
+    },
+    "usig_cod_calle_altura": {
+      "altura": 13790,
+      "cod_calle": 17041
+    },
+    "usig_direccion_elegida": {
+      "altura": 13790,
+      "cod_calle": 17041,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.505290",
+        "y": "-34.671154"
+      },
+      "direccion": "PAZ, GRAL. AV. 13790, CABA",
+      "nombre_calle": "PAZ, GRAL. AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.671154,
+      "lng": -58.50529
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 13790,
+          "cod_calle": 17041,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.505290",
+            "y": "-34.671154"
+          },
+          "direccion": "PAZ, GRAL. AV. 13790, CABA",
+          "nombre_calle": "PAZ, GRAL. AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 13790,
+          "cod_calle": 10969,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "direccion": "Avenida General Paz 13790, La Matanza",
+          "nombre_calle": "Avenida General Paz",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "La Tablada",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

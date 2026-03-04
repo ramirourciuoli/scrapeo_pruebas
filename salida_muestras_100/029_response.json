@@ -1,0 +1,85 @@
+{
+  "debug": {
+    "address": "DANEL 1454",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.410683615503864,
+        -34.62829862517905
+      ],
+      "direccion": "DANEL 1454",
+      "fondo": "36.53",
+      "frente": "8.65",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "033",
+      "parcela": "015",
+      "pdamatriz": "184375",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "030",
+      "smp": "030-033-015",
+      "smp_anterior": "030-033-014",
+      "smp_siguiente": "030-033-016",
+      "srid": 4326,
+      "superficie_cubierta": "324.00",
+      "superficie_total": "316.00",
+      "unidades_funcionales": "2",
+      "vuc": "0.00"
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "DANEL",
+      "puerta": 1454
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1454,
+      "cod_calle": 4004
+    },
+    "usig_direccion_elegida": {
+      "altura": 1454,
+      "cod_calle": 4004,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.410917",
+        "y": "-34.628312"
+      },
+      "direccion": "DANEL 1454, CABA",
+      "nombre_calle": "DANEL",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.628312,
+      "lng": -58.410917
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1454,
+          "cod_calle": 4004,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.410917",
+            "y": "-34.628312"
+          },
+          "direccion": "DANEL 1454, CABA",
+          "nombre_calle": "DANEL",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

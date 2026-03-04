@@ -1,0 +1,136 @@
+{
+  "debug": {
+    "address": "MUÑIZ 849",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.42648123404959,
+        -34.624226045723624
+      ],
+      "direccion": "MUÑIZ 849",
+      "fondo": "45.20",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "008",
+      "parcela": "036",
+      "pdamatriz": "154442",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "8",
+      "propiedad_horizontal": "Si",
+      "seccion": "036",
+      "smp": "036-008-036",
+      "smp_anterior": "036-008-035",
+      "smp_siguiente": "036-008-037",
+      "srid": 4326,
+      "superficie_cubierta": "1434.00",
+      "superficie_total": "391.00",
+      "unidades_funcionales": "13",
+      "vuc": "0.00"
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "MUÑIZ",
+      "puerta": 849
+    },
+    "usig_cod_calle_altura": {
+      "altura": 849,
+      "cod_calle": 13142
+    },
+    "usig_direccion_elegida": {
+      "altura": 849,
+      "cod_calle": 13142,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.426208",
+        "y": "-34.624189"
+      },
+      "direccion": "MUÑIZ 849, CABA",
+      "nombre_calle": "MUÑIZ",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.624189,
+      "lng": -58.426208
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 849,
+          "cod_calle": 13142,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.426208",
+            "y": "-34.624189"
+          },
+          "direccion": "MUÑIZ 849, CABA",
+          "nombre_calle": "MUÑIZ",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 849,
+          "cod_calle": 47763,
+          "cod_calle_cruce": null,
+          "cod_partido": "ituzaingo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6665321030303,
+            "y": -34.6369610030303
+          },
+          "direccion": "Eduardo Muñiz 849, Ituzaingó",
+          "nombre_calle": "Eduardo Muñiz",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ituzaingó",
+          "nombre_partido": "Ituzaingó",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 849,
+          "cod_calle": 85041,
+          "cod_calle_cruce": null,
+          "cod_partido": "lujan",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -59.1122273693878,
+            "y": -34.5717323867347
+          },
+          "direccion": "Doctor Muñíz 849, Luján",
+          "nombre_calle": "Doctor Muñíz",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Luján",
+          "nombre_partido": "Luján",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 849,
+          "cod_calle": 13226,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_isidro",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4901167744898,
+            "y": -34.4878636163265
+          },
+          "direccion": "Doctor Francisco J. Muñiz 849, San Isidro",
+          "nombre_calle": "Doctor Francisco J. Muñiz",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Martínez",
+          "nombre_partido": "San Isidro",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

@@ -1,0 +1,102 @@
+{
+  "debug": {
+    "address": "MELINCUE 4708",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.51103945128419,
+        -34.61338388933177
+      ],
+      "direccion": "JUAREZ, BENITO 2894",
+      "fondo": "18.18",
+      "frente": "11.88",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "078",
+      "parcela": "001",
+      "pdamatriz": "279145",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "087",
+      "smp": "087-078-001",
+      "smp_anterior": "087-078-039",
+      "smp_siguiente": "087-078-002",
+      "srid": 4326,
+      "superficie_cubierta": "293.00",
+      "superficie_total": "216.00",
+      "unidades_funcionales": "2",
+      "vuc": "0.00"
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "MELINCUE",
+      "puerta": 4708
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4708,
+      "cod_calle": 13064
+    },
+    "usig_direccion_elegida": {
+      "altura": 4708,
+      "cod_calle": 13064,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.511125",
+        "y": "-34.613281"
+      },
+      "direccion": "MELINCUE 4708, CABA",
+      "nombre_calle": "MELINCUE",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.613281,
+      "lng": -58.511125
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4708,
+          "cod_calle": 13064,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.511125",
+            "y": "-34.613281"
+          },
+          "direccion": "MELINCUE 4708, CABA",
+          "nombre_calle": "MELINCUE",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 4708,
+          "cod_calle": 218478,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6542028878788,
+            "y": -34.8254121818182
+          },
+          "direccion": "Melincué 4708, La Matanza",
+          "nombre_calle": "Melincué",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Virrey Del Pino",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

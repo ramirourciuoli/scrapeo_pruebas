@@ -1,0 +1,102 @@
+{
+  "debug": {
+    "address": "MANUEL ARTIGAS 5524",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.4995525684757,
+        -34.64713043478431
+      ],
+      "direccion": "ARTIGAS MANUEL DE 5524",
+      "fondo": "21.59",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "055",
+      "parcela": "002",
+      "pdamatriz": "10282",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "060",
+      "smp": "060-055-002",
+      "smp_anterior": "060-055-001B",
+      "smp_siguiente": "060-055-003",
+      "srid": 4326,
+      "superficie_cubierta": "173.00",
+      "superficie_total": "187.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "ARTIGAS MANUEL DE",
+      "puerta": 5524
+    },
+    "usig_cod_calle_altura": {
+      "altura": 5524,
+      "cod_calle": 1126
+    },
+    "usig_direccion_elegida": {
+      "altura": 5524,
+      "cod_calle": 1126,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.499677",
+        "y": "-34.647038"
+      },
+      "direccion": "ARTIGAS MANUEL DE 5524, CABA",
+      "nombre_calle": "ARTIGAS MANUEL DE",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.647038,
+      "lng": -58.499677
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 5524,
+          "cod_calle": 1126,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.499677",
+            "y": "-34.647038"
+          },
+          "direccion": "ARTIGAS MANUEL DE 5524, CABA",
+          "nombre_calle": "ARTIGAS MANUEL DE",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 5524,
+          "cod_calle": 78716,
+          "cod_calle_cruce": null,
+          "cod_partido": "malvinas_argentinas",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6682170122449,
+            "y": -34.4889186530612
+          },
+          "direccion": "Manuel Artigas 5524, Malvinas Argentinas",
+          "nombre_calle": "Manuel Artigas",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa de Mayo",
+          "nombre_partido": "Malvinas Argentinas",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

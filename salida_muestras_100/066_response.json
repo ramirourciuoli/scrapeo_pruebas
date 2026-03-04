@@ -1,0 +1,85 @@
+{
+  "debug": {
+    "address": "GIRIBONE 1932",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.46879668244567,
+        -34.57966070755822
+      ],
+      "direccion": "GIRIBONE 1932",
+      "fondo": "34.78",
+      "frente": "8.74",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "076",
+      "parcela": "004",
+      "pdamatriz": "240340",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "049",
+      "smp": "049-076-004",
+      "smp_anterior": "049-076-003",
+      "smp_siguiente": "049-076-005",
+      "srid": 4326,
+      "superficie_cubierta": "210.00",
+      "superficie_total": "304.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "GIRIBONE",
+      "puerta": 1932
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1932,
+      "cod_calle": 7052
+    },
+    "usig_direccion_elegida": {
+      "altura": 1932,
+      "cod_calle": 7052,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.468807",
+        "y": "-34.579460"
+      },
+      "direccion": "GIRIBONE 1932, CABA",
+      "nombre_calle": "GIRIBONE",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.57946,
+      "lng": -58.468807
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1932,
+          "cod_calle": 7052,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.468807",
+            "y": "-34.579460"
+          },
+          "direccion": "GIRIBONE 1932, CABA",
+          "nombre_calle": "GIRIBONE",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

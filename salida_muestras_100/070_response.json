@@ -1,0 +1,238 @@
+{
+  "area_m2": 135.38746452331543,
+  "centroide_lonlat": {
+    "lat": -34.627801,
+    "lon": -58.504345
+  },
+  "centroide_xy": {
+    "x": 96236.03712006536,
+    "y": 100162.11233823716
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Velez Sarsfield",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1407",
+    "codigo_postal_argentino": "C1407KPZ",
+    "comisaria": "43",
+    "comisaria_vecinal": "10A",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "85"
+  },
+  "debug": {
+    "address": "PEDRO CALDERON DE LA BARCA 1214",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.50434494604973,
+        -34.62780078675588
+      ],
+      "direccion": "CALDERON DE LA BARCA, PEDRO 1214",
+      "fondo": "15.36",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "006A",
+      "parcela": "022",
+      "pdamatriz": "283793",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "085",
+      "smp": "085-006A-022",
+      "smp_anterior": "085-006A-021",
+      "smp_siguiente": "085-006A-023",
+      "srid": 4326,
+      "superficie_cubierta": "123.00",
+      "superficie_total": "133.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1214,
+      "cod_calle": 3023
+    },
+    "usig_direccion_elegida": {
+      "altura": 1214,
+      "cod_calle": 3023,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.504252",
+        "y": "-34.627719"
+      },
+      "direccion": "CALDERON DE LA BARCA, PEDRO 1214, CABA",
+      "nombre_calle": "CALDERON DE LA BARCA, PEDRO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1214,
+          "cod_calle": 3023,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.504252",
+            "y": "-34.627719"
+          },
+          "direccion": "CALDERON DE LA BARCA, PEDRO 1214, CABA",
+          "nombre_calle": "CALDERON DE LA BARCA, PEDRO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96240.31899659173,
+                  100168.72503635232
+                ],
+                [
+                  96241.36599658804,
+                  100167.74203635569
+                ],
+                [
+                  96244.4679965777,
+                  100164.82803636065
+                ],
+                [
+                  96238.49899658929,
+                  100158.33703638491
+                ],
+                [
+                  96238.34999658851,
+                  100158.17503638522
+                ],
+                [
+                  96236.71499659227,
+                  100156.39703639137
+                ],
+                [
+                  96236.3609965929,
+                  100156.01203639238
+                ],
+                [
+                  96234.00699659824,
+                  100153.45203640076
+                ],
+                [
+                  96233.37299660004,
+                  100154.0290364006
+                ],
+                [
+                  96230.82499660976,
+                  100156.35103639573
+                ],
+                [
+                  96230.2169966111,
+                  100156.9060363959
+                ],
+                [
+                  96227.57899662088,
+                  100159.31003639058
+                ],
+                [
+                  96228.9349966168,
+                  100160.79403638386
+                ],
+                [
+                  96229.54799661691,
+                  100161.46603638175
+                ],
+                [
+                  96229.79199661661,
+                  100161.73303638177
+                ],
+                [
+                  96231.28899661344,
+                  100163.37203637735
+                ],
+                [
+                  96232.32999661085,
+                  100164.51103637094
+                ],
+                [
+                  96232.63499660995,
+                  100164.84503636963
+                ],
+                [
+                  96234.78799660562,
+                  100167.20303636286
+                ],
+                [
+                  96237.55099660088,
+                  100170.22803635159
+                ],
+                [
+                  96238.09099660002,
+                  100170.81903634974
+                ],
+                [
+                  96240.31899659173,
+                  100168.72503635232
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "085-006A-022",
+          "fecha_actualizacion": "02/02/2026",
+          "fuente": "UPDATE_FEBRERO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "PEDRO CALDERON DE LA BARCA 1214",
+  "ok": true,
+  "parcela": {
+    "centroide": [
+      -58.50434494604973,
+      -34.62780078675588
+    ],
+    "direccion": "CALDERON DE LA BARCA, PEDRO 1214",
+    "fondo": "15.36",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "006A",
+    "parcela": "022",
+    "pdamatriz": "283793",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "seccion": "085",
+    "smp": "085-006A-022",
+    "smp_anterior": "085-006A-021",
+    "smp_siguiente": "085-006A-023",
+    "srid": 4326,
+    "superficie_cubierta": "123.00",
+    "superficie_total": "133.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "085-006A-022"
+}

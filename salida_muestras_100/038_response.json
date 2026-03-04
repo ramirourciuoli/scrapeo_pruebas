@@ -1,0 +1,85 @@
+{
+  "debug": {
+    "address": "REPUBLICA BOLIVARIANA DE VENEZUELA 1101",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.3820954173728,
+        -34.61401896490986
+      ],
+      "direccion": "LIMA 489",
+      "fondo": "132.53",
+      "frente": "12.17",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "053",
+      "parcela": "001A",
+      "pdamatriz": "219299",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "012",
+      "smp": "012-053-001A",
+      "smp_anterior": "012-053-033A",
+      "smp_siguiente": "012-053-002",
+      "srid": 4326,
+      "superficie_cubierta": "3872.00",
+      "superficie_total": "1613.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "REPUBLICA BOLIVARIANA DE VENEZUELA",
+      "puerta": 1101
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1101,
+      "cod_calle": 23033
+    },
+    "usig_direccion_elegida": {
+      "altura": 1101,
+      "cod_calle": 23033,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.381902",
+        "y": "-34.614251"
+      },
+      "direccion": "REPUBLICA BOLIVARIANA DE VENEZUELA 1101, CABA",
+      "nombre_calle": "REPUBLICA BOLIVARIANA DE VENEZUELA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.614251,
+      "lng": -58.381902
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1101,
+          "cod_calle": 23033,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.381902",
+            "y": "-34.614251"
+          },
+          "direccion": "REPUBLICA BOLIVARIANA DE VENEZUELA 1101, CABA",
+          "nombre_calle": "REPUBLICA BOLIVARIANA DE VENEZUELA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

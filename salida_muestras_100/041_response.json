@@ -1,0 +1,102 @@
+{
+  "debug": {
+    "address": "BRAGADO 5608",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.49949855084464,
+        -34.65086934415462
+      ],
+      "direccion": "BRAGADO 5608",
+      "fondo": "12.91",
+      "frente": "8.36",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "038",
+      "parcela": "002",
+      "pdamatriz": "31176",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "062",
+      "smp": "062-038-002",
+      "smp_anterior": "062-038-001",
+      "smp_siguiente": "062-038-003",
+      "srid": 4326,
+      "superficie_cubierta": "93.00",
+      "superficie_total": "108.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "BRAGADO",
+      "puerta": 5608
+    },
+    "usig_cod_calle_altura": {
+      "altura": 5608,
+      "cod_calle": 2108
+    },
+    "usig_direccion_elegida": {
+      "altura": 5608,
+      "cod_calle": 2108,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.499581",
+        "y": "-34.650802"
+      },
+      "direccion": "BRAGADO 5608, CABA",
+      "nombre_calle": "BRAGADO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.650802,
+      "lng": -58.499581
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 5608,
+          "cod_calle": 2108,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.499581",
+            "y": "-34.650802"
+          },
+          "direccion": "BRAGADO 5608, CABA",
+          "nombre_calle": "BRAGADO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 5608,
+          "cod_calle": 56609,
+          "cod_calle_cruce": null,
+          "cod_partido": "avellaneda",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.320674584472,
+            "y": -34.6963265223912
+          },
+          "direccion": "Bragado 5608, Avellaneda",
+          "nombre_calle": "Bragado",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Wilde",
+          "nombre_partido": "Avellaneda",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

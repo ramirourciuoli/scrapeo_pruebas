@@ -1,0 +1,153 @@
+{
+  "debug": {
+    "address": "AV. BOEDO 1432",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.41572512905123,
+        -34.63060363974914
+      ],
+      "direccion": "BOEDO AV. 1432",
+      "fondo": "7.89",
+      "frente": "12.80",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "002",
+      "parcela": "009E",
+      "pdamatriz": "185521",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "030",
+      "smp": "030-002-009E",
+      "smp_anterior": "030-002-009D",
+      "smp_siguiente": "030-002-009F",
+      "srid": 4326,
+      "superficie_cubierta": "105.00",
+      "superficie_total": "101.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "BOEDO AV.",
+      "puerta": 1432
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1432,
+      "cod_calle": 2087
+    },
+    "usig_direccion_elegida": {
+      "altura": 1432,
+      "cod_calle": 2087,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.415821",
+        "y": "-34.630599"
+      },
+      "direccion": "BOEDO AV. 1432, CABA",
+      "nombre_calle": "BOEDO AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.630599,
+      "lng": -58.415821
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1432,
+          "cod_calle": 2087,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.415821",
+            "y": "-34.630599"
+          },
+          "direccion": "BOEDO AV. 1432, CABA",
+          "nombre_calle": "BOEDO AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1432,
+          "cod_calle": 114146,
+          "cod_calle_cruce": null,
+          "cod_partido": "florencio_varela",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.2464875530612,
+            "y": -34.8066043785714
+          },
+          "direccion": "Mariano Boedo 1432, Florencio Varela",
+          "nombre_calle": "Mariano Boedo",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Zeballos",
+          "nombre_partido": "Florencio Varela",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1432,
+          "cod_calle": 317911,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4174481489796,
+            "y": -34.7570859204082
+          },
+          "direccion": "Mariano Boedo 1432, Lomas de Zamora",
+          "nombre_calle": "Mariano Boedo",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lomas de Zamora",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1432,
+          "cod_calle": 146754,
+          "cod_calle_cruce": null,
+          "cod_partido": "malvinas_argentinas",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7078667816327,
+            "y": -34.5096530326531
+          },
+          "direccion": "Boedo 1432, Malvinas Argentinas",
+          "nombre_calle": "Boedo",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Los Polvorines",
+          "nombre_partido": "Malvinas Argentinas",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1432,
+          "cod_calle": 62826,
+          "cod_calle_cruce": null,
+          "cod_partido": "quilmes",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3001760734694,
+            "y": -34.7268286122449
+          },
+          "direccion": "Boedo 1432, Quilmes",
+          "nombre_calle": "Boedo",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Bernal",
+          "nombre_partido": "Quilmes",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

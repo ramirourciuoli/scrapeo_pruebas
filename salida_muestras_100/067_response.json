@@ -1,0 +1,136 @@
+{
+  "debug": {
+    "address": "MIGUEL ANGEL 1874",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.471291414025146,
+        -34.602450443995984
+      ],
+      "direccion": "MIGUEL ANGEL 1874",
+      "fondo": "19.05",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "029",
+      "parcela": "017",
+      "pdamatriz": "242992",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "059",
+      "smp": "059-029-017",
+      "smp_anterior": "059-029-016",
+      "smp_siguiente": "059-029-018",
+      "srid": 4326,
+      "superficie_cubierta": "277.00",
+      "superficie_total": "165.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "MIGUEL ANGEL",
+      "puerta": 1874
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1874,
+      "cod_calle": 13078
+    },
+    "usig_direccion_elegida": {
+      "altura": 1874,
+      "cod_calle": 13078,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.471432",
+        "y": "-34.602431"
+      },
+      "direccion": "MIGUEL ANGEL 1874, CABA",
+      "nombre_calle": "MIGUEL ANGEL",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.602431,
+      "lng": -58.471432
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1874,
+          "cod_calle": 13078,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.471432",
+            "y": "-34.602431"
+          },
+          "direccion": "MIGUEL ANGEL 1874, CABA",
+          "nombre_calle": "MIGUEL ANGEL",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1874,
+          "cod_calle": 99897,
+          "cod_calle_cruce": null,
+          "cod_partido": "esteban_echeverria",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4675321857143,
+            "y": -34.7887327959184
+          },
+          "direccion": "Miguel Ángel 1874, Esteban Echeverría",
+          "nombre_calle": "Miguel Ángel",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Luis Guillón",
+          "nombre_partido": "Esteban Echeverría",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1874,
+          "cod_calle": 46626,
+          "cod_calle_cruce": null,
+          "cod_partido": "general_san_martin",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5777213653061,
+            "y": -34.5190684530612
+          },
+          "direccion": "202 - Miguel Ángel 1874, General San Martín",
+          "nombre_calle": "202 - Miguel Ángel",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "José León Suárez",
+          "nombre_partido": "General San Martín",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1874,
+          "cod_calle": 128542,
+          "cod_calle_cruce": null,
+          "cod_partido": "moreno",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.8096341693878,
+            "y": -34.6526368653061
+          },
+          "direccion": "Miguel Ángel 1874, Moreno",
+          "nombre_calle": "Miguel Ángel",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Moreno",
+          "nombre_partido": "Moreno",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

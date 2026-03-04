@@ -1,0 +1,102 @@
+{
+  "debug": {
+    "address": "HABANA 2735",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.49791545753852,
+        -34.58795743490256
+      ],
+      "direccion": "HABANA 2735",
+      "fondo": "40.85",
+      "frente": "8.47",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "035",
+      "parcela": "024",
+      "pdamatriz": "360246",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "073",
+      "smp": "073-035-024",
+      "smp_anterior": "073-035-023",
+      "smp_siguiente": "073-035-025",
+      "srid": 4326,
+      "superficie_cubierta": "276.00",
+      "superficie_total": "346.00",
+      "unidades_funcionales": "3",
+      "vuc": "0.00"
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "HABANA",
+      "puerta": 2735
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2735,
+      "cod_calle": 8001
+    },
+    "usig_direccion_elegida": {
+      "altura": 2735,
+      "cod_calle": 8001,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.497750",
+        "y": "-34.588140"
+      },
+      "direccion": "HABANA 2735, CABA",
+      "nombre_calle": "HABANA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.58814,
+      "lng": -58.49775
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2735,
+          "cod_calle": 8001,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.497750",
+            "y": "-34.588140"
+          },
+          "direccion": "HABANA 2735, CABA",
+          "nombre_calle": "HABANA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2735,
+          "cod_calle": 47581,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_isidro",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5251717786761,
+            "y": -34.5080706143323
+          },
+          "direccion": "Habana 2735, San Isidro",
+          "nombre_calle": "Habana",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Martínez",
+          "nombre_partido": "San Isidro",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

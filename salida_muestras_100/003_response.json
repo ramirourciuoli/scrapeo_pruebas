@@ -1,0 +1,85 @@
+{
+  "debug": {
+    "address": "PALPA 2552",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.447717309449445,
+        -34.571106291782726
+      ],
+      "direccion": "PALPA 2552",
+      "fondo": "27.71",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "139",
+      "parcela": "012",
+      "pdamatriz": "409875",
+      "pisos_bajo_rasante": "1",
+      "pisos_sobre_rasante": "9",
+      "propiedad_horizontal": "Si",
+      "seccion": "037",
+      "smp": "037-139-012",
+      "smp_anterior": "037-139-011",
+      "smp_siguiente": "037-139-013",
+      "srid": 4326,
+      "superficie_cubierta": "1763.00",
+      "superficie_total": "240.00",
+      "unidades_funcionales": "26",
+      "vuc": "0.00"
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "PALPA",
+      "puerta": 2552
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2552,
+      "cod_calle": 17012
+    },
+    "usig_direccion_elegida": {
+      "altura": 2552,
+      "cod_calle": 17012,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.447878",
+        "y": "-34.571021"
+      },
+      "direccion": "PALPA 2552, CABA",
+      "nombre_calle": "PALPA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.571021,
+      "lng": -58.447878
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2552,
+          "cod_calle": 17012,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.447878",
+            "y": "-34.571021"
+          },
+          "direccion": "PALPA 2552, CABA",
+          "nombre_calle": "PALPA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

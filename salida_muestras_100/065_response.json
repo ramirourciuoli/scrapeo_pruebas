@@ -1,0 +1,85 @@
+{
+  "debug": {
+    "address": "LARRAYA 2806",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.485019314771755,
+        -34.66422794968061
+      ],
+      "direccion": "HUBAC 5896",
+      "fondo": "23.07",
+      "frente": "11.18",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "016",
+      "parcela": "006D",
+      "pdamatriz": "76115",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "064",
+      "smp": "064-016-006D",
+      "smp_anterior": "064-016-006A",
+      "smp_siguiente": "064-016-007",
+      "srid": 4326,
+      "superficie_cubierta": "432.00",
+      "superficie_total": "258.00",
+      "unidades_funcionales": "4",
+      "vuc": "0.00"
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "LARRAYA",
+      "puerta": 2806
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2806,
+      "cod_calle": 12063
+    },
+    "usig_direccion_elegida": {
+      "altura": 2806,
+      "cod_calle": 12063,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.485090",
+        "y": "-34.664336"
+      },
+      "direccion": "LARRAYA 2806, CABA",
+      "nombre_calle": "LARRAYA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.664336,
+      "lng": -58.48509
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2806,
+          "cod_calle": 12063,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.485090",
+            "y": "-34.664336"
+          },
+          "direccion": "LARRAYA 2806, CABA",
+          "nombre_calle": "LARRAYA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

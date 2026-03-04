@@ -1,0 +1,102 @@
+{
+  "debug": {
+    "address": "QUIRNO 42",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.47073264931804,
+        -34.63171119680378
+      ],
+      "direccion": "QUIRNO 42",
+      "fondo": "19.54",
+      "frente": "8.65",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "037",
+      "parcela": "028",
+      "pdamatriz": "145180",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "048",
+      "smp": "048-037-028",
+      "smp_anterior": "048-037-027",
+      "smp_siguiente": "048-037-029",
+      "srid": 4326,
+      "superficie_cubierta": "338.00",
+      "superficie_total": "169.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "QUIRNO",
+      "puerta": 42
+    },
+    "usig_cod_calle_altura": {
+      "altura": 42,
+      "cod_calle": 18014
+    },
+    "usig_direccion_elegida": {
+      "altura": 42,
+      "cod_calle": 18014,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.470864",
+        "y": "-34.631752"
+      },
+      "direccion": "QUIRNO 42, CABA",
+      "nombre_calle": "QUIRNO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.631752,
+      "lng": -58.470864
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 42,
+          "cod_calle": 18014,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.470864",
+            "y": "-34.631752"
+          },
+          "direccion": "QUIRNO 42, CABA",
+          "nombre_calle": "QUIRNO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 42,
+          "cod_calle": 12893,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_miguel",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6801274285714,
+            "y": -34.5487853346939
+          },
+          "direccion": "Quirno 42, San Miguel",
+          "nombre_calle": "Quirno",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Bella Vista",
+          "nombre_partido": "San Miguel",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

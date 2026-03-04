@@ -1,0 +1,85 @@
+{
+  "debug": {
+    "address": "BRAGADO 5042",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.49476869115528,
+        -34.64710386545546
+      ],
+      "direccion": "BRAGADO 5042",
+      "fondo": "39.15",
+      "frente": "7.79",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "123",
+      "parcela": "004",
+      "pdamatriz": "28455",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "062",
+      "smp": "062-123-004",
+      "smp_anterior": "062-123-003",
+      "smp_siguiente": "062-123-005A",
+      "srid": 4326,
+      "superficie_cubierta": "208.00",
+      "superficie_total": "305.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "BRAGADO",
+      "puerta": 5042
+    },
+    "usig_cod_calle_altura": {
+      "altura": 5042,
+      "cod_calle": 2108
+    },
+    "usig_direccion_elegida": {
+      "altura": 5042,
+      "cod_calle": 2108,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.494949",
+        "y": "-34.646955"
+      },
+      "direccion": "BRAGADO 5042, CABA",
+      "nombre_calle": "BRAGADO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.646955,
+      "lng": -58.494949
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 5042,
+          "cod_calle": 2108,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.494949",
+            "y": "-34.646955"
+          },
+          "direccion": "BRAGADO 5042, CABA",
+          "nombre_calle": "BRAGADO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

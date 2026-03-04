@@ -1,0 +1,102 @@
+{
+  "debug": {
+    "address": "OTAMENDI 95",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.43187525794329,
+        -34.61509364937506
+      ],
+      "direccion": "OTAMENDI 95",
+      "fondo": "16.11",
+      "frente": "19.18",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "125",
+      "parcela": "010",
+      "pdamatriz": "174175",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "7",
+      "propiedad_horizontal": "Si",
+      "seccion": "045",
+      "smp": "045-125-010",
+      "smp_anterior": "045-125-009",
+      "smp_siguiente": "045-125-011",
+      "srid": 4326,
+      "superficie_cubierta": "2096.00",
+      "superficie_total": "309.00",
+      "unidades_funcionales": "13",
+      "vuc": "0.00"
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "OTAMENDI",
+      "puerta": 95
+    },
+    "usig_cod_calle_altura": {
+      "altura": 95,
+      "cod_calle": 16040
+    },
+    "usig_direccion_elegida": {
+      "altura": 95,
+      "cod_calle": 16040,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.431981",
+        "y": "-34.615113"
+      },
+      "direccion": "OTAMENDI 95, CABA",
+      "nombre_calle": "OTAMENDI",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.615113,
+      "lng": -58.431981
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 95,
+          "cod_calle": 16040,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.431981",
+            "y": "-34.615113"
+          },
+          "direccion": "OTAMENDI 95, CABA",
+          "nombre_calle": "OTAMENDI",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 95,
+          "cod_calle": 64514,
+          "cod_calle_cruce": null,
+          "cod_partido": "quilmes",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.2719367354167,
+            "y": -34.7136548416667
+          },
+          "direccion": "Otamendi 95, Quilmes",
+          "nombre_calle": "Otamendi",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Bernal",
+          "nombre_partido": "Quilmes",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

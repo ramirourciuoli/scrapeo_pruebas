@@ -1,0 +1,102 @@
+{
+  "debug": {
+    "address": "QUINTINO BOCAYUVA 516",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.4223304282593,
+        -34.61798112300179
+      ],
+      "direccion": "BOCAYUVA, QUINTINO 516",
+      "fondo": "38.39",
+      "frente": "8.18",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "079",
+      "parcela": "007A",
+      "pdamatriz": "162200",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "3",
+      "propiedad_horizontal": "Si",
+      "seccion": "036",
+      "smp": "036-079-007A",
+      "smp_anterior": "036-079-006",
+      "smp_siguiente": "036-079-008",
+      "srid": 4326,
+      "superficie_cubierta": "512.00",
+      "superficie_total": "314.00",
+      "unidades_funcionales": "4",
+      "vuc": "0.00"
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "BOCAYUVA, QUINTINO",
+      "puerta": 516
+    },
+    "usig_cod_calle_altura": {
+      "altura": 516,
+      "cod_calle": 2086
+    },
+    "usig_direccion_elegida": {
+      "altura": 516,
+      "cod_calle": 2086,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.422511",
+        "y": "-34.617970"
+      },
+      "direccion": "BOCAYUVA, QUINTINO 516, CABA",
+      "nombre_calle": "BOCAYUVA, QUINTINO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.61797,
+      "lng": -58.422511
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 516,
+          "cod_calle": 2086,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.422511",
+            "y": "-34.617970"
+          },
+          "direccion": "BOCAYUVA, QUINTINO 516, CABA",
+          "nombre_calle": "BOCAYUVA, QUINTINO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 516,
+          "cod_calle": 226333,
+          "cod_calle_cruce": null,
+          "cod_partido": "hurlingham",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6364252142857,
+            "y": -34.5776769571429
+          },
+          "direccion": "Quintino Bocayuva 516, Hurlingham",
+          "nombre_calle": "Quintino Bocayuva",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Hurlingham",
+          "nombre_partido": "Hurlingham",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

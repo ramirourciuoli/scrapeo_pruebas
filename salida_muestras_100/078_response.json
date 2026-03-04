@@ -1,0 +1,226 @@
+{
+  "area_m2": 169.72757530212402,
+  "centroide_lonlat": {
+    "lat": -34.541921,
+    "lon": -58.47606
+  },
+  "centroide_xy": {
+    "x": 98828.67167341692,
+    "y": 109689.94094505206
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Saavedra",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1429",
+    "codigo_postal_argentino": "C1429EDD",
+    "comisaria": "35",
+    "comisaria_vecinal": "12A",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   X",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "43"
+  },
+  "debug": {
+    "address": "MARTIN A. MALHARRO 2634",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.476059867482746,
+        -34.54192081955114
+      ],
+      "direccion": "MALHARRO, MARTIN A. 2634",
+      "fondo": "18.15",
+      "frente": "9.20",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "164C",
+      "parcela": "002",
+      "pdamatriz": "334907",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "043",
+      "smp": "043-164C-002",
+      "smp_anterior": "043-164C-001B",
+      "smp_siguiente": "043-164C-003",
+      "srid": 4326,
+      "superficie_cubierta": "160.00",
+      "superficie_total": "167.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2634,
+      "cod_calle": 13019
+    },
+    "usig_direccion_elegida": {
+      "altura": 2634,
+      "cod_calle": 13019,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.476107",
+        "y": "-34.541822"
+      },
+      "direccion": "MALHARRO, MARTIN A. 2634, CABA",
+      "nombre_calle": "MALHARRO, MARTIN A.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2634,
+          "cod_calle": 13019,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.476107",
+            "y": "-34.541822"
+          },
+          "direccion": "MALHARRO, MARTIN A. 2634, CABA",
+          "nombre_calle": "MALHARRO, MARTIN A.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98827.30199651064,
+                  109699.13400767962
+                ],
+                [
+                  98829.603996505,
+                  109700.04700767595
+                ],
+                [
+                  98830.88899649915,
+                  109696.89500768314
+                ],
+                [
+                  98831.6539964953,
+                  109695.01800768852
+                ],
+                [
+                  98832.79699649011,
+                  109692.21600769533
+                ],
+                [
+                  98833.03999648876,
+                  109691.62000769688
+                ],
+                [
+                  98834.37399648238,
+                  109688.34900770534
+                ],
+                [
+                  98834.63799648157,
+                  109687.7000077068
+                ],
+                [
+                  98836.45599647312,
+                  109683.24300771748
+                ],
+                [
+                  98833.7779964795,
+                  109682.19000772311
+                ],
+                [
+                  98833.40599648091,
+                  109682.04300772294
+                ],
+                [
+                  98830.55399648719,
+                  109680.92200772895
+                ],
+                [
+                  98827.7909964948,
+                  109679.83500773372
+                ],
+                [
+                  98826.42099650098,
+                  109683.14400772587
+                ],
+                [
+                  98826.13299650262,
+                  109683.84000772363
+                ],
+                [
+                  98825.54099650518,
+                  109685.26800772038
+                ],
+                [
+                  98824.61099650884,
+                  109687.51300771488
+                ],
+                [
+                  98820.85699652648,
+                  109696.57900769194
+                ],
+                [
+                  98827.30199651064,
+                  109699.13400767962
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "043-164C-002",
+          "fecha_actualizacion": "02/02/2026",
+          "fuente": "UPDATE_FEBRERO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MARTIN A. MALHARRO 2634",
+  "ok": true,
+  "parcela": {
+    "centroide": [
+      -58.476059867482746,
+      -34.54192081955114
+    ],
+    "direccion": "MALHARRO, MARTIN A. 2634",
+    "fondo": "18.15",
+    "frente": "9.20",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "164C",
+    "parcela": "002",
+    "pdamatriz": "334907",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "seccion": "043",
+    "smp": "043-164C-002",
+    "smp_anterior": "043-164C-001B",
+    "smp_siguiente": "043-164C-003",
+    "srid": 4326,
+    "superficie_cubierta": "160.00",
+    "superficie_total": "167.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "043-164C-002"
+}

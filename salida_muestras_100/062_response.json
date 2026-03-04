@@ -1,0 +1,218 @@
+{
+  "area_m2": 138.92800617218018,
+  "centroide_lonlat": {
+    "lat": -34.617999,
+    "lon": -58.528486
+  },
+  "centroide_xy": {
+    "x": 94021.5134546916,
+    "y": 101248.36230034888
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Villa Real",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1408",
+    "codigo_postal_argentino": "C1408CXZ",
+    "comisaria": "44",
+    "comisaria_vecinal": "10B",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "93"
+  },
+  "debug": {
+    "address": "CORTINA 2614",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.528486028171756,
+        -34.61799861305339
+      ],
+      "direccion": "CORTINA 2614",
+      "fondo": "12.27",
+      "frente": "11.00",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "130A",
+      "parcela": "002",
+      "pdamatriz": "290469",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "093",
+      "smp": "093-130A-002",
+      "smp_anterior": "093-130A-001",
+      "smp_siguiente": "093-130A-003",
+      "srid": 4326,
+      "superficie_cubierta": "190.00",
+      "superficie_total": "135.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2614,
+      "cod_calle": 3178
+    },
+    "usig_direccion_elegida": {
+      "altura": 2614,
+      "cod_calle": 3178,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.528407",
+        "y": "-34.617925"
+      },
+      "direccion": "CORTINA 2614, CABA",
+      "nombre_calle": "CORTINA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2614,
+          "cod_calle": 3178,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.528407",
+            "y": "-34.617925"
+          },
+          "direccion": "CORTINA 2614, CABA",
+          "nombre_calle": "CORTINA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  94020.21200363577,
+                  101255.11903497847
+                ],
+                [
+                  94021.6570036323,
+                  101256.70503497304
+                ],
+                [
+                  94029.80700360436,
+                  101249.43703498715
+                ],
+                [
+                  94028.38900360752,
+                  101247.83003499289
+                ],
+                [
+                  94024.54600361467,
+                  101243.47603500768
+                ],
+                [
+                  94024.33100361527,
+                  101243.23203500861
+                ],
+                [
+                  94021.4520036202,
+                  101239.97003501983
+                ],
+                [
+                  94018.50100363107,
+                  101242.62003501496
+                ],
+                [
+                  94015.81900364038,
+                  101245.0290350102
+                ],
+                [
+                  94013.17900364893,
+                  101247.40003500585
+                ],
+                [
+                  94015.97200364394,
+                  101250.46603499475
+                ],
+                [
+                  94016.30800364344,
+                  101250.83503499342
+                ],
+                [
+                  94016.56700364251,
+                  101251.11903499244
+                ],
+                [
+                  94017.40700364074,
+                  101252.0400349893
+                ],
+                [
+                  94018.98100363763,
+                  101253.76803498337
+                ],
+                [
+                  94019.99100363631,
+                  101254.87603497953
+                ],
+                [
+                  94020.21200363577,
+                  101255.11903497847
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "093-130A-002",
+          "fecha_actualizacion": "02/02/2026",
+          "fuente": "UPDATE_FEBRERO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CORTINA 2614",
+  "ok": true,
+  "parcela": {
+    "centroide": [
+      -58.528486028171756,
+      -34.61799861305339
+    ],
+    "direccion": "CORTINA 2614",
+    "fondo": "12.27",
+    "frente": "11.00",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "130A",
+    "parcela": "002",
+    "pdamatriz": "290469",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "seccion": "093",
+    "smp": "093-130A-002",
+    "smp_anterior": "093-130A-001",
+    "smp_siguiente": "093-130A-003",
+    "srid": 4326,
+    "superficie_cubierta": "190.00",
+    "superficie_total": "135.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "093-130A-002"
+}

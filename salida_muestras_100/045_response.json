@@ -1,0 +1,186 @@
+{
+  "area_m2": 74.99877548217773,
+  "centroide_lonlat": {
+    "lat": -34.640591,
+    "lon": -58.524216
+  },
+  "centroide_xy": {
+    "x": 94414.62470682089,
+    "y": 98742.26058551269
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Liniers",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1408",
+    "codigo_postal_argentino": "C1408DTD",
+    "comisaria": "54",
+    "comisaria_vecinal": "9B",
+    "comuna": "Comuna 9",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "72"
+  },
+  "debug": {
+    "address": "MBURUCUYA 6946",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.52421626718503,
+        -34.640591261130865
+      ],
+      "direccion": "MBURUCUYA 6946",
+      "fondo": "8.66",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "071B",
+      "parcela": "006",
+      "pdamatriz": "18377",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "072",
+      "smp": "072-071B-006",
+      "smp_anterior": "072-071B-005",
+      "smp_siguiente": "072-071B-007",
+      "srid": 4326,
+      "superficie_cubierta": "118.00",
+      "superficie_total": "75.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 6946,
+      "cod_calle": 13056
+    },
+    "usig_direccion_elegida": {
+      "altura": 6946,
+      "cod_calle": 13056,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.524220",
+        "y": "-34.640535"
+      },
+      "direccion": "MBURUCUYA 6946, CABA",
+      "nombre_calle": "MBURUCUYA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 6946,
+          "cod_calle": 13056,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.524220",
+            "y": "-34.640535"
+          },
+          "direccion": "MBURUCUYA 6946, CABA",
+          "nombre_calle": "MBURUCUYA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  94410.09200065429,
+                  98746.36404172043
+                ],
+                [
+                  94411.23300065035,
+                  98746.42604171796
+                ],
+                [
+                  94414.55500064057,
+                  98746.60704171611
+                ],
+                [
+                  94418.70800062965,
+                  98746.83404171234
+                ],
+                [
+                  94419.16800062172,
+                  98738.17004173691
+                ],
+                [
+                  94415.0270006336,
+                  98737.93604174047
+                ],
+                [
+                  94410.53900064538,
+                  98737.6820417445
+                ],
+                [
+                  94410.3370006502,
+                  98741.59804173344
+                ],
+                [
+                  94410.09200065429,
+                  98746.36404172043
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "072-071B-006",
+          "fecha_actualizacion": "02/02/2026",
+          "fuente": "UPDATE_FEBRERO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MBURUCUYA 6946",
+  "ok": true,
+  "parcela": {
+    "centroide": [
+      -58.52421626718503,
+      -34.640591261130865
+    ],
+    "direccion": "MBURUCUYA 6946",
+    "fondo": "8.66",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "071B",
+    "parcela": "006",
+    "pdamatriz": "18377",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "seccion": "072",
+    "smp": "072-071B-006",
+    "smp_anterior": "072-071B-005",
+    "smp_siguiente": "072-071B-007",
+    "srid": 4326,
+    "superficie_cubierta": "118.00",
+    "superficie_total": "75.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "072-071B-006"
+}

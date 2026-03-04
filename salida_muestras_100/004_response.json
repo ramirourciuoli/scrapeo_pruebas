@@ -1,0 +1,73 @@
+{
+  "debug": {
+    "address": "TTE. MANUEL SILVESTRE PRUDAN 1329",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.40968648900091,
+        -34.6266120182259
+      ],
+      "direccion": "PRUDAN, MANUEL SILVESTRE, TTE. 1329",
+      "manzana": "045",
+      "parcela": "012",
+      "seccion": "030",
+      "smp": "030-045-012",
+      "smp_anterior": "030-045-011",
+      "smp_siguiente": "030-045-013",
+      "srid": 4326
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "PRUDAN, MANUEL SILVESTRE, TTE.",
+      "puerta": 1329
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1329,
+      "cod_calle": 17127
+    },
+    "usig_direccion_elegida": {
+      "altura": 1329,
+      "cod_calle": 17127,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.409573",
+        "y": "-34.626783"
+      },
+      "direccion": "PRUDAN, MANUEL SILVESTRE, TTE. 1329, CABA",
+      "nombre_calle": "PRUDAN, MANUEL SILVESTRE, TTE.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.626783,
+      "lng": -58.409573
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1329,
+          "cod_calle": 17127,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.409573",
+            "y": "-34.626783"
+          },
+          "direccion": "PRUDAN, MANUEL SILVESTRE, TTE. 1329, CABA",
+          "nombre_calle": "PRUDAN, MANUEL SILVESTRE, TTE.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

@@ -1,0 +1,85 @@
+{
+  "debug": {
+    "address": "DR. JUAN FELIPE ARANGUREN 2754",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.46990939614997,
+        -34.624925905094315
+      ],
+      "direccion": "ARANGUREN, JUAN F., DR. 2754",
+      "fondo": "184.00",
+      "frente": "1.50",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "045",
+      "parcela": "007A",
+      "pdamatriz": "147206",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "065",
+      "smp": "065-045-007A",
+      "smp_anterior": "065-045-006",
+      "smp_siguiente": "065-045-007B",
+      "srid": 4326,
+      "superficie_cubierta": "155.00",
+      "superficie_total": "276.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "ARANGUREN, JUAN F., DR.",
+      "puerta": 2754
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2754,
+      "cod_calle": 1094
+    },
+    "usig_direccion_elegida": {
+      "altura": 2754,
+      "cod_calle": 1094,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.470036",
+        "y": "-34.624571"
+      },
+      "direccion": "ARANGUREN, JUAN F., DR. 2754, CABA",
+      "nombre_calle": "ARANGUREN, JUAN F., DR.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.624571,
+      "lng": -58.470036
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2754,
+          "cod_calle": 1094,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.470036",
+            "y": "-34.624571"
+          },
+          "direccion": "ARANGUREN, JUAN F., DR. 2754, CABA",
+          "nombre_calle": "ARANGUREN, JUAN F., DR.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

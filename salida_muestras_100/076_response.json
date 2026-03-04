@@ -1,0 +1,73 @@
+{
+  "debug": {
+    "address": "AV. GENERAL PAZ 15714",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.482164052043025,
+        -34.688366926324534
+      ],
+      "direccion": "PAZ, GRAL. AV. 15714",
+      "manzana": "001",
+      "parcela": "010B",
+      "seccion": "080",
+      "smp": "080-001-010B",
+      "smp_anterior": "080-001-007B",
+      "smp_siguiente": "080-001-011B",
+      "srid": 4326
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "PAZ, GRAL. AV.",
+      "puerta": 15714
+    },
+    "usig_cod_calle_altura": {
+      "altura": 15714,
+      "cod_calle": 17041
+    },
+    "usig_direccion_elegida": {
+      "altura": 15714,
+      "cod_calle": 17041,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.482229",
+        "y": "-34.688387"
+      },
+      "direccion": "PAZ, GRAL. AV. 15714, CABA",
+      "nombre_calle": "PAZ, GRAL. AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.688387,
+      "lng": -58.482229
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 15714,
+          "cod_calle": 17041,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.482229",
+            "y": "-34.688387"
+          },
+          "direccion": "PAZ, GRAL. AV. 15714, CABA",
+          "nombre_calle": "PAZ, GRAL. AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

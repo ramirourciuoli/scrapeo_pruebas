@@ -1,0 +1,170 @@
+{
+  "debug": {
+    "address": "AZCUENAGA 2088",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.39390114072506,
+        -34.58601354794499
+      ],
+      "direccion": "AZCUENAGA 2088",
+      "fondo": "7.98",
+      "frente": "30.94",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "027",
+      "parcela": "001A",
+      "pdamatriz": "447694",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "13",
+      "propiedad_horizontal": "Si",
+      "seccion": "011",
+      "smp": "011-027-001A",
+      "smp_anterior": "011-027-015",
+      "smp_siguiente": "011-027-003A",
+      "srid": 4326,
+      "superficie_cubierta": "4293.00",
+      "superficie_total": "247.00",
+      "unidades_funcionales": "26",
+      "vuc": "0.00"
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "AZCUENAGA",
+      "puerta": 2088
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2088,
+      "cod_calle": 1147
+    },
+    "usig_direccion_elegida": {
+      "altura": 2088,
+      "cod_calle": 1147,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.393838",
+        "y": "-34.586056"
+      },
+      "direccion": "AZCUENAGA 2088, CABA",
+      "nombre_calle": "AZCUENAGA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.586056,
+      "lng": -58.393838
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2088,
+          "cod_calle": 1147,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.393838",
+            "y": "-34.586056"
+          },
+          "direccion": "AZCUENAGA 2088, CABA",
+          "nombre_calle": "AZCUENAGA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2088,
+          "cod_calle": 241686,
+          "cod_calle_cruce": null,
+          "cod_partido": "moreno",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7893795959184,
+            "y": -34.6668897612245
+          },
+          "direccion": "Miguel de Azcuénaga 2088, Moreno",
+          "nombre_calle": "Miguel de Azcuénaga",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Moreno",
+          "nombre_partido": "Moreno",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2088,
+          "cod_calle": 84372,
+          "cod_calle_cruce": null,
+          "cod_partido": "quilmes",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.2658623949495,
+            "y": -34.7355894050505
+          },
+          "direccion": "Azcuénaga 2088, Quilmes",
+          "nombre_calle": "Azcuénaga",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Quilmes",
+          "nombre_partido": "Quilmes",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2088,
+          "cod_calle": 147868,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_fernando",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5738257270833,
+            "y": -34.461101425
+          },
+          "direccion": "Azcuénaga 2088, San Fernando",
+          "nombre_calle": "Azcuénaga",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Virreyes",
+          "nombre_partido": "San Fernando",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2088,
+          "cod_calle": 13230,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_isidro",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5129432653061,
+            "y": -34.496224922449
+          },
+          "direccion": "Azcuénaga 2088, San Isidro",
+          "nombre_calle": "Azcuénaga",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Martínez",
+          "nombre_partido": "San Isidro",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2088,
+          "cod_calle": 11469,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_miguel",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.70715836618,
+            "y": -34.5562616455447
+          },
+          "direccion": "Azcuénaga 2088, San Miguel",
+          "nombre_calle": "Azcuénaga",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Muñiz",
+          "nombre_partido": "San Miguel",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

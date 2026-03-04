@@ -1,0 +1,102 @@
+{
+  "debug": {
+    "address": "CAÑADA DE GOMEZ 2160",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.506383394361286,
+        -34.6596089308123
+      ],
+      "direccion": "CAÑADA DE GOMEZ 2160",
+      "fondo": "42.84",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "121",
+      "parcela": "016",
+      "pdamatriz": "33973",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "076",
+      "smp": "076-121-016",
+      "smp_anterior": "076-121-015",
+      "smp_siguiente": "076-121-017A",
+      "srid": 4326,
+      "superficie_cubierta": "119.00",
+      "superficie_total": "371.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "CAÑADA DE GOMEZ",
+      "puerta": 2160
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2160,
+      "cod_calle": 3056
+    },
+    "usig_direccion_elegida": {
+      "altura": 2160,
+      "cod_calle": 3056,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.506571",
+        "y": "-34.659763"
+      },
+      "direccion": "CAÑADA DE GOMEZ 2160, CABA",
+      "nombre_calle": "CAÑADA DE GOMEZ",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.659763,
+      "lng": -58.506571
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2160,
+          "cod_calle": 3056,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.506571",
+            "y": "-34.659763"
+          },
+          "direccion": "CAÑADA DE GOMEZ 2160, CABA",
+          "nombre_calle": "CAÑADA DE GOMEZ",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2160,
+          "cod_calle": 209478,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6283039654593,
+            "y": -34.8140071992353
+          },
+          "direccion": "Cañada de Gómez 2160, La Matanza",
+          "nombre_calle": "Cañada de Gómez",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Virrey Del Pino",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

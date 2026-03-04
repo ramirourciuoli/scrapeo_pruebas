@@ -1,0 +1,153 @@
+{
+  "debug": {
+    "address": "THAMES 1078",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.43689219529232,
+        -34.59144826101063
+      ],
+      "direccion": "THAMES 1078",
+      "fondo": "33.14",
+      "frente": "8.54",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "069",
+      "parcela": "028A",
+      "pdamatriz": "423324",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "031",
+      "smp": "031-069-028A",
+      "smp_anterior": "031-069-027",
+      "smp_siguiente": "031-069-029",
+      "srid": 4326,
+      "superficie_cubierta": "517.00",
+      "superficie_total": "283.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "THAMES",
+      "puerta": 1078
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1078,
+      "cod_calle": 21024
+    },
+    "usig_direccion_elegida": {
+      "altura": 1078,
+      "cod_calle": 21024,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.436773",
+        "y": "-34.591592"
+      },
+      "direccion": "THAMES 1078, CABA",
+      "nombre_calle": "THAMES",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.591592,
+      "lng": -58.436773
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1078,
+          "cod_calle": 21024,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.436773",
+            "y": "-34.591592"
+          },
+          "direccion": "THAMES 1078, CABA",
+          "nombre_calle": "THAMES",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1078,
+          "cod_calle": 83845,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5882813877551,
+            "y": -34.6706655755102
+          },
+          "direccion": "Thames 1078, La Matanza",
+          "nombre_calle": "Thames",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Luzuriaga",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1078,
+          "cod_calle": 71957,
+          "cod_calle_cruce": null,
+          "cod_partido": "moreno",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7530854489796,
+            "y": -34.5901345204082
+          },
+          "direccion": "José Ignacio Thames 1078, Moreno",
+          "nombre_calle": "José Ignacio Thames",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Trujui",
+          "nombre_partido": "Moreno",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1078,
+          "cod_calle": 34486,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_isidro",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5506713551021,
+            "y": -34.5052397877551
+          },
+          "direccion": "Thames 1078, San Isidro",
+          "nombre_calle": "Thames",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Boulogne Sur Mer",
+          "nombre_partido": "San Isidro",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1078,
+          "cod_calle": 34486,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_isidro",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5506713551021,
+            "y": -34.5052397877551
+          },
+          "direccion": "Thames 1078, San Isidro",
+          "nombre_calle": "Thames",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Adelina",
+          "nombre_partido": "San Isidro",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

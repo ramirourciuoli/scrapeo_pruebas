@@ -1,0 +1,231 @@
+{
+  "area_m2": 148.75381660461426,
+  "centroide_lonlat": {
+    "lat": -34.581953,
+    "lon": -58.488689
+  },
+  "centroide_xy": {
+    "x": 97670.47676547171,
+    "y": 105248.75197681195
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. E. TORNÚ",
+    "barrio": "Villa Urquiza",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1431",
+    "codigo_postal_argentino": "C1431EGN",
+    "comisaria": "39",
+    "comisaria_vecinal": "12C",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "51"
+  },
+  "debug": {
+    "address": "BURELA 1988",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.488688830357724,
+        -34.58195297353087
+      ],
+      "direccion": "BURELA 1988",
+      "fondo": "15.64",
+      "frente": "9.08",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "011A",
+      "parcela": "029A",
+      "pdamatriz": "350677",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "051",
+      "smp": "051-011A-029A",
+      "smp_anterior": "051-011A-028",
+      "smp_siguiente": "051-011A-030A",
+      "srid": 4326,
+      "superficie_cubierta": "203.00",
+      "superficie_total": "142.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1988,
+      "cod_calle": 2130
+    },
+    "usig_direccion_elegida": {
+      "altura": 1988,
+      "cod_calle": 2130,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.488574",
+        "y": "-34.581893"
+      },
+      "direccion": "BURELA 1988, CABA",
+      "nombre_calle": "BURELA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1988,
+          "cod_calle": 2130,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.488574",
+            "y": "-34.581893"
+          },
+          "direccion": "BURELA 1988, CABA",
+          "nombre_calle": "BURELA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1988,
+          "cod_calle": 33948,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3668916795918,
+            "y": -34.7011451877551
+          },
+          "direccion": "Coronel Burela 1988, Lanús",
+          "nombre_calle": "Coronel Burela",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Gerli",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97660.99999643063,
+                  105247.75002104128
+                ],
+                [
+                  97665.66399641977,
+                  105250.86802102876
+                ],
+                [
+                  97666.8759964173,
+                  105251.67902102534
+                ],
+                [
+                  97667.26599641606,
+                  105251.94002102516
+                ],
+                [
+                  97668.19999641427,
+                  105252.56402102258
+                ],
+                [
+                  97671.40199640646,
+                  105254.705021014
+                ],
+                [
+                  97672.06899640529,
+                  105255.15102101176
+                ],
+                [
+                  97674.98399639865,
+                  105257.10002100412
+                ],
+                [
+                  97679.90599637936,
+                  105249.4700210219
+                ],
+                [
+                  97675.30999638922,
+                  105246.55302103414
+                ],
+                [
+                  97672.76699639553,
+                  105244.93902104051
+                ],
+                [
+                  97671.09499639914,
+                  105243.87802104407
+                ],
+                [
+                  97665.81999641201,
+                  105240.5300210581
+                ],
+                [
+                  97663.83699641976,
+                  105243.5010210512
+                ],
+                [
+                  97662.448996425,
+                  105245.57902104614
+                ],
+                [
+                  97660.99999643063,
+                  105247.75002104128
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "051-011A-029A",
+          "fecha_actualizacion": "02/02/2026",
+          "fuente": "UPDATE_FEBRERO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "BURELA 1988",
+  "ok": true,
+  "parcela": {
+    "centroide": [
+      -58.488688830357724,
+      -34.58195297353087
+    ],
+    "direccion": "BURELA 1988",
+    "fondo": "15.64",
+    "frente": "9.08",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "011A",
+    "parcela": "029A",
+    "pdamatriz": "350677",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "seccion": "051",
+    "smp": "051-011A-029A",
+    "smp_anterior": "051-011A-028",
+    "smp_siguiente": "051-011A-030A",
+    "srid": 4326,
+    "superficie_cubierta": "203.00",
+    "superficie_total": "142.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "051-011A-029A"
+}

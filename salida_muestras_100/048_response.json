@@ -1,0 +1,85 @@
+{
+  "debug": {
+    "address": "AV. HONDURAS 3934",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.41880117474553,
+        -34.594353187164245
+      ],
+      "direccion": "HONDURAS AV. 3934",
+      "fondo": "24.25",
+      "frente": "8.00",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "024",
+      "parcela": "004",
+      "pdamatriz": "424521",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "019",
+      "smp": "019-024-004",
+      "smp_anterior": "019-024-003",
+      "smp_siguiente": "019-024-005",
+      "srid": 4326,
+      "superficie_cubierta": "266.00",
+      "superficie_total": "194.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "HONDURAS AV.",
+      "puerta": 3934
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3934,
+      "cod_calle": 8020
+    },
+    "usig_direccion_elegida": {
+      "altura": 3934,
+      "cod_calle": 8020,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.418805",
+        "y": "-34.594190"
+      },
+      "direccion": "HONDURAS AV. 3934, CABA",
+      "nombre_calle": "HONDURAS AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.59419,
+      "lng": -58.418805
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3934,
+          "cod_calle": 8020,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.418805",
+            "y": "-34.594190"
+          },
+          "direccion": "HONDURAS AV. 3934, CABA",
+          "nombre_calle": "HONDURAS AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

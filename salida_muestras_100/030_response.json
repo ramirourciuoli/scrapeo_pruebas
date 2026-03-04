@@ -1,0 +1,102 @@
+{
+  "debug": {
+    "address": "CAMPILLO 3045",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.478358895324305,
+        -34.58945626798731
+      ],
+      "direccion": "CAMPILLO 3045",
+      "fondo": "42.60",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "040",
+      "parcela": "033",
+      "pdamatriz": "246324",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "061",
+      "smp": "061-040-033",
+      "smp_anterior": "061-040-032",
+      "smp_siguiente": "061-040-034",
+      "srid": 4326,
+      "superficie_cubierta": "239.00",
+      "superficie_total": "369.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "CAMPILLO",
+      "puerta": 3045
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3045,
+      "cod_calle": 3041
+    },
+    "usig_direccion_elegida": {
+      "altura": 3045,
+      "cod_calle": 3041,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.478163",
+        "y": "-34.589625"
+      },
+      "direccion": "CAMPILLO 3045, CABA",
+      "nombre_calle": "CAMPILLO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.589625,
+      "lng": -58.478163
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3045,
+          "cod_calle": 3041,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.478163",
+            "y": "-34.589625"
+          },
+          "direccion": "CAMPILLO 3045, CABA",
+          "nombre_calle": "CAMPILLO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3045,
+          "cod_calle": 36816,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5808000177084,
+            "y": -34.6698138229167
+          },
+          "direccion": "Juan del Campillo 3045, La Matanza",
+          "nombre_calle": "Juan del Campillo",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Luzuriaga",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

@@ -1,0 +1,85 @@
+{
+  "debug": {
+    "address": "AV. ELCANO 3059",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.458841550272545,
+        -34.571503040544165
+      ],
+      "direccion": "ELCANO AV. 3059",
+      "fondo": "28.50",
+      "frente": "7.65",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "092",
+      "parcela": "019",
+      "pdamatriz": "409456",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "037",
+      "smp": "037-092-019",
+      "smp_anterior": "037-092-018A",
+      "smp_siguiente": "037-092-020",
+      "srid": 4326,
+      "superficie_cubierta": "171.00",
+      "superficie_total": "218.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "ELCANO AV.",
+      "puerta": 3059
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3059,
+      "cod_calle": 5017
+    },
+    "usig_direccion_elegida": {
+      "altura": 3059,
+      "cod_calle": 5017,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.458643",
+        "y": "-34.571583"
+      },
+      "direccion": "ELCANO AV. 3059, CABA",
+      "nombre_calle": "ELCANO AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.571583,
+      "lng": -58.458643
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3059,
+          "cod_calle": 5017,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.458643",
+            "y": "-34.571583"
+          },
+          "direccion": "ELCANO AV. 3059, CABA",
+          "nombre_calle": "ELCANO AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

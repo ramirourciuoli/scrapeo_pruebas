@@ -1,0 +1,250 @@
+{
+  "area_m2": 297.7682828903198,
+  "centroide_lonlat": {
+    "lat": -34.585188,
+    "lon": -58.509706
+  },
+  "centroide_xy": {
+    "x": 95742.21831053396,
+    "y": 104889.17773054555
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. A. ZUBIZARRETA",
+    "barrio": "Villa Pueyrredon",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1419",
+    "codigo_postal_argentino": "C1419ABZ",
+    "comisaria": "47",
+    "comisaria_vecinal": "12B",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "83"
+  },
+  "debug": {
+    "address": "CUENCA 5146",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.50970618336827,
+        -34.58518808314571
+      ],
+      "direccion": "CUENCA 5146",
+      "fondo": "33.95",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "254A",
+      "parcela": "025",
+      "pdamatriz": "272026",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "083",
+      "smp": "083-254A-025",
+      "smp_anterior": "083-254A-024",
+      "smp_siguiente": "083-254A-026",
+      "srid": 4326,
+      "superficie_cubierta": "84.00",
+      "superficie_total": "294.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 5146,
+      "cod_calle": 3200
+    },
+    "usig_direccion_elegida": {
+      "altura": 5146,
+      "cod_calle": 3200,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.509525",
+        "y": "-34.585075"
+      },
+      "direccion": "CUENCA 5146, CABA",
+      "nombre_calle": "CUENCA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 5146,
+          "cod_calle": 3200,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.509525",
+            "y": "-34.585075"
+          },
+          "direccion": "CUENCA 5146, CABA",
+          "nombre_calle": "CUENCA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 5146,
+          "cod_calle": 56387,
+          "cod_calle_cruce": null,
+          "cod_partido": "quilmes",
+          "direccion": "Cuenca 5146, Quilmes",
+          "nombre_calle": "Cuenca",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ezpeleta",
+          "nombre_partido": "Quilmes",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  95754.0240015184,
+                  104901.90302344647
+                ],
+                [
+                  95756.01500151027,
+                  104899.2520234528
+                ],
+                [
+                  95758.464001501,
+                  104895.99302345957
+                ],
+                [
+                  95754.13000151089,
+                  104892.7100234722
+                ],
+                [
+                  95748.64900152344,
+                  104888.55902348831
+                ],
+                [
+                  95738.24800154615,
+                  104880.6810235178
+                ],
+                [
+                  95734.63100155463,
+                  104877.94002352876
+                ],
+                [
+                  95731.33300156155,
+                  104875.44102353751
+                ],
+                [
+                  95729.35800156943,
+                  104878.09502353158
+                ],
+                [
+                  95726.09400158146,
+                  104882.48002352248
+                ],
+                [
+                  95728.9220015759,
+                  104884.69502351398
+                ],
+                [
+                  95730.37000157258,
+                  104885.83002350951
+                ],
+                [
+                  95734.45200156285,
+                  104888.8680234976
+                ],
+                [
+                  95736.2740015594,
+                  104890.22502349227
+                ],
+                [
+                  95738.95100155353,
+                  104892.2170234852
+                ],
+                [
+                  95742.20900154568,
+                  104894.64202347578
+                ],
+                [
+                  95743.71000154248,
+                  104895.75902347118
+                ],
+                [
+                  95745.4930015383,
+                  104897.0860234666
+                ],
+                [
+                  95749.21700153031,
+                  104899.85802345589
+                ],
+                [
+                  95752.05600152364,
+                  104901.9710234477
+                ],
+                [
+                  95753.28500152116,
+                  104902.88602344424
+                ],
+                [
+                  95754.0240015184,
+                  104901.90302344647
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "083-254A-025",
+          "fecha_actualizacion": "02/02/2026",
+          "fuente": "UPDATE_FEBRERO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CUENCA 5146",
+  "ok": true,
+  "parcela": {
+    "centroide": [
+      -58.50970618336827,
+      -34.58518808314571
+    ],
+    "direccion": "CUENCA 5146",
+    "fondo": "33.95",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "254A",
+    "parcela": "025",
+    "pdamatriz": "272026",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "seccion": "083",
+    "smp": "083-254A-025",
+    "smp_anterior": "083-254A-024",
+    "smp_siguiente": "083-254A-026",
+    "srid": 4326,
+    "superficie_cubierta": "84.00",
+    "superficie_total": "294.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "083-254A-025"
+}

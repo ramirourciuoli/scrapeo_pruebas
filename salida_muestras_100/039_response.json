@@ -1,0 +1,85 @@
+{
+  "debug": {
+    "address": "ACHEGA 3180",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.50123913151129,
+        -34.57306638195639
+      ],
+      "direccion": "ACHEGA 3180",
+      "fondo": "29.22",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "008",
+      "parcela": "049",
+      "pdamatriz": "353887",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "063",
+      "smp": "063-008-049",
+      "smp_anterior": "063-008-048",
+      "smp_siguiente": "063-008-050",
+      "srid": 4326,
+      "superficie_cubierta": "195.00",
+      "superficie_total": "253.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "ACHEGA",
+      "puerta": 3180
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3180,
+      "cod_calle": 1012
+    },
+    "usig_direccion_elegida": {
+      "altura": 3180,
+      "cod_calle": 1012,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.501042",
+        "y": "-34.572955"
+      },
+      "direccion": "ACHEGA 3180, CABA",
+      "nombre_calle": "ACHEGA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.572955,
+      "lng": -58.501042
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3180,
+          "cod_calle": 1012,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.501042",
+            "y": "-34.572955"
+          },
+          "direccion": "ACHEGA 3180, CABA",
+          "nombre_calle": "ACHEGA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

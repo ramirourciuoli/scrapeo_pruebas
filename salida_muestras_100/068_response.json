@@ -1,0 +1,218 @@
+{
+  "area_m2": 128.97760772705078,
+  "centroide_lonlat": {
+    "lat": -34.653867,
+    "lon": -58.488949
+  },
+  "centroide_xy": {
+    "x": 97648.60523103738,
+    "y": 97270.85993335956
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Mataderos",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1440",
+    "codigo_postal_argentino": "C1440AYG",
+    "comisaria": "48",
+    "comisaria_vecinal": "9A",
+    "comuna": "Comuna 9",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "62"
+  },
+  "debug": {
+    "address": "AV. GRAL. EUGENIO GARZON 5201",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.488949320404544,
+        -34.653867220107685
+      ],
+      "direccion": "GARZON, EUGENIO, GRAL. AV. 5201",
+      "fondo": "25.34",
+      "frente": "5.13",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "088B",
+      "parcela": "018A",
+      "pdamatriz": "80824",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "2",
+      "propiedad_horizontal": "Si",
+      "seccion": "062",
+      "smp": "062-088B-018A",
+      "smp_anterior": "062-088B-017",
+      "smp_siguiente": "062-088B-018B",
+      "srid": 4326,
+      "superficie_cubierta": "228.00",
+      "superficie_total": "130.00",
+      "unidades_funcionales": "4",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 5201,
+      "cod_calle": 7038
+    },
+    "usig_direccion_elegida": {
+      "altura": 5201,
+      "cod_calle": 7038,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.488829",
+        "y": "-34.653918"
+      },
+      "direccion": "GARZON, EUGENIO, GRAL. AV. 5201, CABA",
+      "nombre_calle": "GARZON, EUGENIO, GRAL. AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 5201,
+          "cod_calle": 7038,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.488829",
+            "y": "-34.653918"
+          },
+          "direccion": "GARZON, EUGENIO, GRAL. AV. 5201, CABA",
+          "nombre_calle": "GARZON, EUGENIO, GRAL. AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97649.55599046327,
+                  97276.7060434054
+                ],
+                [
+                  97652.18299045433,
+                  97274.23504340916
+                ],
+                [
+                  97654.56999044609,
+                  97271.9900434135
+                ],
+                [
+                  97654.68999044111,
+                  97265.93004342899
+                ],
+                [
+                  97651.14599044753,
+                  97262.28004344349
+                ],
+                [
+                  97649.13499045449,
+                  97264.20004343879
+                ],
+                [
+                  97646.50399046345,
+                  97266.71304343457
+                ],
+                [
+                  97645.3729904679,
+                  97267.79304343168
+                ],
+                [
+                  97644.4819904711,
+                  97268.6440434315
+                ],
+                [
+                  97644.10599047178,
+                  97269.0030434278
+                ],
+                [
+                  97642.36899047851,
+                  97270.66204342627
+                ],
+                [
+                  97640.49699048547,
+                  97272.44904342372
+                ],
+                [
+                  97642.07699048195,
+                  97274.10904341706
+                ],
+                [
+                  97646.03099047462,
+                  97278.26304340234
+                ],
+                [
+                  97646.71999047228,
+                  97278.98704339957
+                ],
+                [
+                  97646.9139904716,
+                  97279.19104339802
+                ],
+                [
+                  97649.55599046327,
+                  97276.7060434054
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "062-088B-018A",
+          "fecha_actualizacion": "02/02/2026",
+          "fuente": "UPDATE_FEBRERO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AV. GRAL. EUGENIO GARZON 5201",
+  "ok": true,
+  "parcela": {
+    "centroide": [
+      -58.488949320404544,
+      -34.653867220107685
+    ],
+    "direccion": "GARZON, EUGENIO, GRAL. AV. 5201",
+    "fondo": "25.34",
+    "frente": "5.13",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "088B",
+    "parcela": "018A",
+    "pdamatriz": "80824",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "2",
+    "propiedad_horizontal": "Si",
+    "seccion": "062",
+    "smp": "062-088B-018A",
+    "smp_anterior": "062-088B-017",
+    "smp_siguiente": "062-088B-018B",
+    "srid": 4326,
+    "superficie_cubierta": "228.00",
+    "superficie_total": "130.00",
+    "unidades_funcionales": "4",
+    "vuc": "0.00"
+  },
+  "smp": "062-088B-018A"
+}

@@ -1,0 +1,102 @@
+{
+  "debug": {
+    "address": "AV. SAN ISIDRO 4572",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.47436945664598,
+        -34.54291540503266
+      ],
+      "direccion": "SAN ISIDRO LABRADOR AV. 4572",
+      "fondo": "34.20",
+      "frente": "8.89",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "162",
+      "parcela": "027",
+      "pdamatriz": "334301",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "043",
+      "smp": "043-162-027",
+      "smp_anterior": "043-162-026",
+      "smp_siguiente": "043-162-001C",
+      "srid": 4326,
+      "superficie_cubierta": "269.00",
+      "superficie_total": "304.00",
+      "unidades_funcionales": "4",
+      "vuc": "0.00"
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "SAN ISIDRO LABRADOR AV.",
+      "puerta": 4572
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4572,
+      "cod_calle": 20037
+    },
+    "usig_direccion_elegida": {
+      "altura": 4572,
+      "cod_calle": 20037,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.474152",
+        "y": "-34.542843"
+      },
+      "direccion": "SAN ISIDRO LABRADOR AV. 4572, CABA",
+      "nombre_calle": "SAN ISIDRO LABRADOR AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.542843,
+      "lng": -58.474152
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4572,
+          "cod_calle": 20037,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.474152",
+            "y": "-34.542843"
+          },
+          "direccion": "SAN ISIDRO LABRADOR AV. 4572, CABA",
+          "nombre_calle": "SAN ISIDRO LABRADOR AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 4572,
+          "cod_calle": 54386,
+          "cod_calle_cruce": null,
+          "cod_partido": "avellaneda",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3258185142857,
+            "y": -34.6856210714286
+          },
+          "direccion": "San Isidro 4572, Avellaneda",
+          "nombre_calle": "San Isidro",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Domínico",
+          "nombre_partido": "Avellaneda",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

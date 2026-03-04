@@ -1,0 +1,85 @@
+{
+  "debug": {
+    "address": "CRESPO 3556",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.42300516467958,
+        -34.656419758540956
+      ],
+      "direccion": "CRESPO 3556",
+      "fondo": "31.20",
+      "frente": "9.52",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "130",
+      "parcela": "016",
+      "pdamatriz": "51254",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "046",
+      "smp": "046-130-016",
+      "smp_anterior": "046-130-015",
+      "smp_siguiente": "046-130-017A",
+      "srid": 4326,
+      "superficie_cubierta": "359.00",
+      "superficie_total": "297.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "CRESPO",
+      "puerta": 3556
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3556,
+      "cod_calle": 3192
+    },
+    "usig_direccion_elegida": {
+      "altura": 3556,
+      "cod_calle": 3192,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.423145",
+        "y": "-34.656555"
+      },
+      "direccion": "CRESPO 3556, CABA",
+      "nombre_calle": "CRESPO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.656555,
+      "lng": -58.423145
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3556,
+          "cod_calle": 3192,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.423145",
+            "y": "-34.656555"
+          },
+          "direccion": "CRESPO 3556, CABA",
+          "nombre_calle": "CRESPO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

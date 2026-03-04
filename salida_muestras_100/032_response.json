@@ -1,0 +1,202 @@
+{
+  "area_m2": 119.93808174133301,
+  "centroide_lonlat": {
+    "lat": -34.641605,
+    "lon": -58.499716
+  },
+  "centroide_xy": {
+    "x": 96661.04875846194,
+    "y": 98630.86810082248
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Villa Luro",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1440",
+    "codigo_postal_argentino": "C1440BZA",
+    "comisaria": "54",
+    "comisaria_vecinal": "10C",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "60"
+  },
+  "debug": {
+    "address": "PIZARRO 5201",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.499716350807404,
+        -34.64160515853361
+      ],
+      "direccion": "PIZARRO 5201",
+      "fondo": "7.66",
+      "frente": "15.65",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "102A",
+      "parcela": "020",
+      "pdamatriz": "8872",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "060",
+      "smp": "060-102A-020",
+      "smp_anterior": "060-102A-019",
+      "smp_siguiente": "060-102A-021",
+      "srid": 4326,
+      "superficie_cubierta": "116.00",
+      "superficie_total": "120.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 5201,
+      "cod_calle": 17095
+    },
+    "usig_direccion_elegida": {
+      "altura": 5201,
+      "cod_calle": 17095,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.499642",
+        "y": "-34.641655"
+      },
+      "direccion": "PIZARRO 5201, CABA",
+      "nombre_calle": "PIZARRO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 5201,
+          "cod_calle": 17095,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.499642",
+            "y": "-34.641655"
+          },
+          "direccion": "PIZARRO 5201, CABA",
+          "nombre_calle": "PIZARRO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96664.21999425188,
+                  98639.79004032278
+                ],
+                [
+                  96666.84899424331,
+                  98637.30904032808
+                ],
+                [
+                  96667.07899423761,
+                  98631.27904034455
+                ],
+                [
+                  96664.29299424287,
+                  98628.2620403551
+                ],
+                [
+                  96658.92399425361,
+                  98622.44704037506
+                ],
+                [
+                  96655.6889942655,
+                  98625.43504036899
+                ],
+                [
+                  96653.07999427446,
+                  98627.84504036437
+                ],
+                [
+                  96654.9899942708,
+                  98629.8930403576
+                ],
+                [
+                  96657.17099426634,
+                  98632.23204034907
+                ],
+                [
+                  96658.47699426359,
+                  98633.63204034453
+                ],
+                [
+                  96658.60999426368,
+                  98633.77504034419
+                ],
+                [
+                  96660.12099426058,
+                  98635.39404033846
+                ],
+                [
+                  96664.21999425188,
+                  98639.79004032278
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "060-102A-020",
+          "fecha_actualizacion": "02/02/2026",
+          "fuente": "UPDATE_FEBRERO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "PIZARRO 5201",
+  "ok": true,
+  "parcela": {
+    "centroide": [
+      -58.499716350807404,
+      -34.64160515853361
+    ],
+    "direccion": "PIZARRO 5201",
+    "fondo": "7.66",
+    "frente": "15.65",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "102A",
+    "parcela": "020",
+    "pdamatriz": "8872",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "seccion": "060",
+    "smp": "060-102A-020",
+    "smp_anterior": "060-102A-019",
+    "smp_siguiente": "060-102A-021",
+    "srid": 4326,
+    "superficie_cubierta": "116.00",
+    "superficie_total": "120.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "060-102A-020"
+}

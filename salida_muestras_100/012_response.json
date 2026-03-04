@@ -1,0 +1,102 @@
+{
+  "debug": {
+    "address": "LOPE DE VEGA 505",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.50024164730541,
+        -34.632610417406944
+      ],
+      "direccion": "LOPE DE VEGA 505",
+      "fondo": "11.16",
+      "frente": "15.24",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "005",
+      "parcela": "011",
+      "pdamatriz": "6605",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "077",
+      "smp": "077-005-011",
+      "smp_anterior": "077-005-010",
+      "smp_siguiente": "077-005-012",
+      "srid": 4326,
+      "superficie_cubierta": "216.00",
+      "superficie_total": "170.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "LOPE DE VEGA",
+      "puerta": 505
+    },
+    "usig_cod_calle_altura": {
+      "altura": 505,
+      "cod_calle": 12126
+    },
+    "usig_direccion_elegida": {
+      "altura": 505,
+      "cod_calle": 12126,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.500381",
+        "y": "-34.632633"
+      },
+      "direccion": "LOPE DE VEGA 505, CABA",
+      "nombre_calle": "LOPE DE VEGA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.632633,
+      "lng": -58.500381
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 505,
+          "cod_calle": 12126,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.500381",
+            "y": "-34.632633"
+          },
+          "direccion": "LOPE DE VEGA 505, CABA",
+          "nombre_calle": "LOPE DE VEGA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 505,
+          "cod_calle": 122238,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7964096183673,
+            "y": -34.7312321265306
+          },
+          "direccion": "Lope de Vega 505, Merlo",
+          "nombre_calle": "Lope de Vega",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Mariano Acosta",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

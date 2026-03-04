@@ -1,0 +1,102 @@
+{
+  "debug": {
+    "address": "QUESADA 1793",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.45721424612093,
+        -34.55096881876571
+      ],
+      "direccion": "QUESADA 1793",
+      "fondo": "21.61",
+      "frente": "8.56",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "072",
+      "parcela": "016",
+      "pdamatriz": "369276",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "027",
+      "smp": "027-072-016",
+      "smp_anterior": "027-072-015",
+      "smp_siguiente": "027-072-017",
+      "srid": 4326,
+      "superficie_cubierta": "230.00",
+      "superficie_total": "185.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "QUESADA",
+      "puerta": 1793
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1793,
+      "cod_calle": 18005
+    },
+    "usig_direccion_elegida": {
+      "altura": 1793,
+      "cod_calle": 18005,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.457121",
+        "y": "-34.551091"
+      },
+      "direccion": "QUESADA 1793, CABA",
+      "nombre_calle": "QUESADA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.551091,
+      "lng": -58.457121
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1793,
+          "cod_calle": 18005,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.457121",
+            "y": "-34.551091"
+          },
+          "direccion": "QUESADA 1793, CABA",
+          "nombre_calle": "QUESADA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1793,
+          "cod_calle": 25527,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4527908142857,
+            "y": -34.7190793428571
+          },
+          "direccion": "Quesada 1793, Lomas de Zamora",
+          "nombre_calle": "Quesada",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ingeniero Budge",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

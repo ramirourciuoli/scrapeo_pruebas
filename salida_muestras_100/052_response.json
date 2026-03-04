@@ -1,0 +1,85 @@
+{
+  "debug": {
+    "address": "COCHABAMBA 3408",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.41367614247726,
+        -34.626833956156766
+      ],
+      "direccion": "COCHABAMBA 3408",
+      "fondo": "16.76",
+      "frente": "6.92",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "014",
+      "parcela": "002",
+      "pdamatriz": "185045",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "030",
+      "smp": "030-014-002",
+      "smp_anterior": "030-014-001",
+      "smp_siguiente": "030-014-003",
+      "srid": 4326,
+      "superficie_cubierta": "116.00",
+      "superficie_total": "116.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "COCHABAMBA",
+      "puerta": 3408
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3408,
+      "cod_calle": 3134
+    },
+    "usig_direccion_elegida": {
+      "altura": 3408,
+      "cod_calle": 3134,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.413646",
+        "y": "-34.626735"
+      },
+      "direccion": "COCHABAMBA 3408, CABA",
+      "nombre_calle": "COCHABAMBA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.626735,
+      "lng": -58.413646
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3408,
+          "cod_calle": 3134,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.413646",
+            "y": "-34.626735"
+          },
+          "direccion": "COCHABAMBA 3408, CABA",
+          "nombre_calle": "COCHABAMBA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

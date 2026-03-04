@@ -1,0 +1,85 @@
+{
+  "debug": {
+    "address": "GUTENBERG 3851",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.51296779579001,
+        -34.595764149673016
+      ],
+      "direccion": "GUTENBERG 3851",
+      "fondo": "16.55",
+      "frente": "9.67",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "109",
+      "parcela": "005C",
+      "pdamatriz": "295793",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "083",
+      "smp": "083-109-005C",
+      "smp_anterior": "083-109-005B",
+      "smp_siguiente": "083-109-006B",
+      "srid": 4326,
+      "superficie_cubierta": "209.00",
+      "superficie_total": "160.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "GUTENBERG",
+      "puerta": 3851
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3851,
+      "cod_calle": 7109
+    },
+    "usig_direccion_elegida": {
+      "altura": 3851,
+      "cod_calle": 7109,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.512954",
+        "y": "-34.595854"
+      },
+      "direccion": "GUTENBERG 3851, CABA",
+      "nombre_calle": "GUTENBERG",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.595854,
+      "lng": -58.512954
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3851,
+          "cod_calle": 7109,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.512954",
+            "y": "-34.595854"
+          },
+          "direccion": "GUTENBERG 3851, CABA",
+          "nombre_calle": "GUTENBERG",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

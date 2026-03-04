@@ -1,0 +1,119 @@
+{
+  "debug": {
+    "address": "CORVALAN 1101",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.497092775186076,
+        -34.64884026595173
+      ],
+      "direccion": "CORVALAN 1101",
+      "fondo": "30.28",
+      "frente": "2.51",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "080",
+      "parcela": "001A",
+      "pdamatriz": "76999",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "062",
+      "smp": "062-080-001A",
+      "smp_anterior": "062-080-044",
+      "smp_siguiente": "062-080-001B",
+      "srid": 4326,
+      "superficie_cubierta": "75.00",
+      "superficie_total": "76.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "CORVALAN",
+      "puerta": 1101
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1101,
+      "cod_calle": 3179
+    },
+    "usig_direccion_elegida": {
+      "altura": 1101,
+      "cod_calle": 3179,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.497010",
+        "y": "-34.648762"
+      },
+      "direccion": "CORVALAN 1101, CABA",
+      "nombre_calle": "CORVALAN",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.648762,
+      "lng": -58.49701
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1101,
+          "cod_calle": 3179,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.497010",
+            "y": "-34.648762"
+          },
+          "direccion": "CORVALAN 1101, CABA",
+          "nombre_calle": "CORVALAN",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1101,
+          "cod_calle": 58722,
+          "cod_calle_cruce": null,
+          "cod_partido": "avellaneda",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3344035,
+            "y": -34.7097667
+          },
+          "direccion": "Manuel Corvalán 1101, Avellaneda",
+          "nombre_calle": "Manuel Corvalán",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Wilde",
+          "nombre_partido": "Avellaneda",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1101,
+          "cod_calle": 26683,
+          "cod_calle_cruce": null,
+          "cod_partido": "moron",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6062784,
+            "y": -34.6315368
+          },
+          "direccion": "Margarita Corvalàn 1101, Morón",
+          "nombre_calle": "Margarita Corvalàn",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "El Palomar",
+          "nombre_partido": "Morón",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

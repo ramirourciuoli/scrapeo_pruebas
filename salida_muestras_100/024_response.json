@@ -1,0 +1,136 @@
+{
+  "debug": {
+    "address": "OLIDEN 2969",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.48842714950827,
+        -34.66609838956226
+      ],
+      "direccion": "OLIDEN 2969",
+      "fondo": "45.73",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "142",
+      "parcela": "033",
+      "pdamatriz": "63784",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "078",
+      "smp": "078-142-033",
+      "smp_anterior": "078-142-032",
+      "smp_siguiente": "078-142-034",
+      "srid": 4326,
+      "superficie_cubierta": "62.00",
+      "superficie_total": "396.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "OLIDEN",
+      "puerta": 2969
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2969,
+      "cod_calle": 16016
+    },
+    "usig_direccion_elegida": {
+      "altura": 2969,
+      "cod_calle": 16016,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.488217",
+        "y": "-34.665917"
+      },
+      "direccion": "OLIDEN 2969, CABA",
+      "nombre_calle": "OLIDEN",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.665917,
+      "lng": -58.488217
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2969,
+          "cod_calle": 16016,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.488217",
+            "y": "-34.665917"
+          },
+          "direccion": "OLIDEN 2969, CABA",
+          "nombre_calle": "OLIDEN",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2969,
+          "cod_calle": 6830,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4253644255102,
+            "y": -34.6915279234694
+          },
+          "direccion": "Gobernador Oliden 2969, Lanús",
+          "nombre_calle": "Gobernador Oliden",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lanús Oeste",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2969,
+          "cod_calle": 144892,
+          "cod_calle_cruce": null,
+          "cod_partido": "malvinas_argentinas",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7608819469697,
+            "y": -34.4888881974748
+          },
+          "direccion": "Oliden 2969, Malvinas Argentinas",
+          "nombre_calle": "Oliden",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Grand Bourg",
+          "nombre_partido": "Malvinas Argentinas",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2969,
+          "cod_calle": 144892,
+          "cod_calle_cruce": null,
+          "cod_partido": "malvinas_argentinas",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7608819469697,
+            "y": -34.4888881974748
+          },
+          "direccion": "Oliden 2969, Malvinas Argentinas",
+          "nombre_calle": "Oliden",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Tortuguitas",
+          "nombre_partido": "Malvinas Argentinas",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

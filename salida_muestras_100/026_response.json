@@ -1,0 +1,218 @@
+{
+  "area_m2": 174.43518733978271,
+  "centroide_lonlat": {
+    "lat": -34.612047,
+    "lon": -58.508385
+  },
+  "centroide_xy": {
+    "x": 95864.73484121216,
+    "y": 101909.66073609465
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Villa Devoto",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1417",
+    "codigo_postal_argentino": "C1417FLC",
+    "comisaria": "45",
+    "comisaria_vecinal": "11B",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "87"
+  },
+  "debug": {
+    "address": "MONACO 4509",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.508385369567534,
+        -34.61204661836979
+      ],
+      "direccion": "MONACO 4509",
+      "fondo": "39.05",
+      "frente": "4.43",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "104B",
+      "parcela": "001",
+      "pdamatriz": "277898",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "087",
+      "smp": "087-104B-001",
+      "smp_anterior": "087-104B-028",
+      "smp_siguiente": "087-104B-002",
+      "srid": 4326,
+      "superficie_cubierta": "245.00",
+      "superficie_total": "173.00",
+      "unidades_funcionales": "3",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4509,
+      "cod_calle": 13105
+    },
+    "usig_direccion_elegida": {
+      "altura": 4509,
+      "cod_calle": 13105,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.508328",
+        "y": "-34.612077"
+      },
+      "direccion": "MONACO 4509, CABA",
+      "nombre_calle": "MONACO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4509,
+          "cod_calle": 13105,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.508328",
+            "y": "-34.612077"
+          },
+          "direccion": "MONACO 4509, CABA",
+          "nombre_calle": "MONACO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  95856.97210591045,
+                  101909.19534426171
+                ],
+                [
+                  95861.09808246368,
+                  101912.20431641815
+                ],
+                [
+                  95866.02007952284,
+                  101915.79312255676
+                ],
+                [
+                  95866.59631243172,
+                  101916.21334960588
+                ],
+                [
+                  95871.12011613246,
+                  101919.5121166831
+                ],
+                [
+                  95873.800108798,
+                  101915.92013671066
+                ],
+                [
+                  95873.63909805554,
+                  101914.92910888157
+                ],
+                [
+                  95872.82012832747,
+                  101909.89010743142
+                ],
+                [
+                  95869.03710831651,
+                  101907.19314699259
+                ],
+                [
+                  95868.01110734229,
+                  101906.46212892907
+                ],
+                [
+                  95865.53411760181,
+                  101904.69613772491
+                ],
+                [
+                  95864.15209856199,
+                  101903.71011477947
+                ],
+                [
+                  95863.33709612243,
+                  101903.1291211294
+                ],
+                [
+                  95859.11810199138,
+                  101900.12112553554
+                ],
+                [
+                  95856.50207416943,
+                  101903.79513675763
+                ],
+                [
+                  95854.1311024989,
+                  101907.12411624228
+                ],
+                [
+                  95856.97210591045,
+                  101909.19534426171
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "087-104B-001",
+          "fecha_actualizacion": "02/02/2026",
+          "fuente": "UPDATE_FEBRERO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MONACO 4509",
+  "ok": true,
+  "parcela": {
+    "centroide": [
+      -58.508385369567534,
+      -34.61204661836979
+    ],
+    "direccion": "MONACO 4509",
+    "fondo": "39.05",
+    "frente": "4.43",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "104B",
+    "parcela": "001",
+    "pdamatriz": "277898",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "Si",
+    "seccion": "087",
+    "smp": "087-104B-001",
+    "smp_anterior": "087-104B-028",
+    "smp_siguiente": "087-104B-002",
+    "srid": 4326,
+    "superficie_cubierta": "245.00",
+    "superficie_total": "173.00",
+    "unidades_funcionales": "3",
+    "vuc": "0.00"
+  },
+  "smp": "087-104B-001"
+}

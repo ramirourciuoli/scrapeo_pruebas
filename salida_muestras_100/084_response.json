@@ -1,0 +1,85 @@
+{
+  "debug": {
+    "address": "GARCIA DEL RIO 4690",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.490679344447535,
+        -34.55732976120595
+      ],
+      "direccion": "GARCIA DEL RIO 4690",
+      "fondo": "26.12",
+      "frente": "5.59",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "150",
+      "parcela": "008",
+      "pdamatriz": "356973",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "055",
+      "smp": "055-150-008",
+      "smp_anterior": "055-150-007",
+      "smp_siguiente": "055-150-009",
+      "srid": 4326,
+      "superficie_cubierta": "178.00",
+      "superficie_total": "146.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "GARCIA DEL RIO",
+      "puerta": 4690
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4690,
+      "cod_calle": 7028
+    },
+    "usig_direccion_elegida": {
+      "altura": 4690,
+      "cod_calle": 7028,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.490718",
+        "y": "-34.557250"
+      },
+      "direccion": "GARCIA DEL RIO 4690, CABA",
+      "nombre_calle": "GARCIA DEL RIO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.55725,
+      "lng": -58.490718
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4690,
+          "cod_calle": 7028,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.490718",
+            "y": "-34.557250"
+          },
+          "direccion": "GARCIA DEL RIO 4690, CABA",
+          "nombre_calle": "GARCIA DEL RIO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

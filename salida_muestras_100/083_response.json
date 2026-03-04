@@ -1,0 +1,218 @@
+{
+  "area_m2": 574.707462310791,
+  "centroide_lonlat": {
+    "lat": -34.607866,
+    "lon": -58.526247
+  },
+  "centroide_xy": {
+    "x": 94226.16914575956,
+    "y": 102372.55746171194
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. A. ZUBIZARRETA",
+    "barrio": "Villa Devoto",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1419",
+    "codigo_postal_argentino": "C1419HBF",
+    "comisaria": "45",
+    "comisaria_vecinal": "11B",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "89"
+  },
+  "debug": {
+    "address": "AV. SALVADOR MARIA DEL CARRIL 5069",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.52624692775962,
+        -34.60786606263542
+      ],
+      "direccion": "CARRIL, SALVADOR MARIA DEL AV. 5069",
+      "manzana": "005A",
+      "parcela": "031A",
+      "seccion": "089",
+      "smp": "089-005A-031A",
+      "smp_anterior": "089-005A-030",
+      "smp_siguiente": "089-005A-033",
+      "srid": 4326
+    },
+    "usig_cod_calle_altura": {
+      "altura": 5069,
+      "cod_calle": 4039
+    },
+    "usig_direccion_elegida": {
+      "altura": 5069,
+      "cod_calle": 4039,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.526111",
+        "y": "-34.608006"
+      },
+      "direccion": "CARRIL, SALVADOR MARIA DEL AV. 5069, CABA",
+      "nombre_calle": "CARRIL, SALVADOR MARIA DEL AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 5069,
+          "cod_calle": 4039,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.526111",
+            "y": "-34.608006"
+          },
+          "direccion": "CARRIL, SALVADOR MARIA DEL AV. 5069, CABA",
+          "nombre_calle": "CARRIL, SALVADOR MARIA DEL AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  94245.40900384133,
+                  102367.02203169052
+                ],
+                [
+                  94231.93200386957,
+                  102355.8910317334
+                ],
+                [
+                  94229.41800387915,
+                  102358.10203172683
+                ],
+                [
+                  94223.89800389859,
+                  102362.95903171759
+                ],
+                [
+                  94223.03300390084,
+                  102363.72003171578
+                ],
+                [
+                  94218.2520039175,
+                  102367.92503170797
+                ],
+                [
+                  94214.92000392918,
+                  102370.85703170294
+                ],
+                [
+                  94214.63500393015,
+                  102371.10803170287
+                ],
+                [
+                  94211.7330039407,
+                  102373.66003169789
+                ],
+                [
+                  94211.50800394206,
+                  102373.8580316967
+                ],
+                [
+                  94207.94300395288,
+                  102376.9950316915
+                ],
+                [
+                  94213.5560039424,
+                  102383.67203166906
+                ],
+                [
+                  94218.90700393233,
+                  102390.03703164484
+                ],
+                [
+                  94223.12800391781,
+                  102386.37103165296
+                ],
+                [
+                  94225.66500390926,
+                  102384.16803165662
+                ],
+                [
+                  94226.26400390716,
+                  102383.64803165774
+                ],
+                [
+                  94227.93000390097,
+                  102382.20103166215
+                ],
+                [
+                  94231.73000388841,
+                  102378.9010316669
+                ],
+                [
+                  94234.1000038802,
+                  102376.84303167253
+                ],
+                [
+                  94235.38100387582,
+                  102375.73003167537
+                ],
+                [
+                  94241.19500385637,
+                  102370.68103168209
+                ],
+                [
+                  94242.75500385034,
+                  102369.32603168668
+                ],
+                [
+                  94245.40900384133,
+                  102367.02203169052
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "089-005A-031A",
+          "fecha_actualizacion": "02/02/2026",
+          "fuente": "UPDATE_FEBRERO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AV. SALVADOR MARIA DEL CARRIL 5069",
+  "ok": true,
+  "parcela": {
+    "centroide": [
+      -58.52624692775962,
+      -34.60786606263542
+    ],
+    "direccion": "CARRIL, SALVADOR MARIA DEL AV. 5069",
+    "manzana": "005A",
+    "parcela": "031A",
+    "seccion": "089",
+    "smp": "089-005A-031A",
+    "smp_anterior": "089-005A-030",
+    "smp_siguiente": "089-005A-033",
+    "srid": 4326
+  },
+  "smp": "089-005A-031A"
+}

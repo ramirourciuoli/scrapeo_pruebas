@@ -1,0 +1,102 @@
+{
+  "debug": {
+    "address": "AV. RAUL SCALABRINI ORTIZ 591",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.43553738499009,
+        -34.59800785656136
+      ],
+      "direccion": "AGUIRRE 500",
+      "fondo": "12.10",
+      "frente": "8.35",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "027",
+      "parcela": "001",
+      "pdamatriz": "421215",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "031",
+      "smp": "031-027-001",
+      "smp_anterior": "031-027-032A",
+      "smp_siguiente": "031-027-002",
+      "srid": 4326,
+      "superficie_cubierta": "101.00",
+      "superficie_total": "101.00",
+      "unidades_funcionales": "2",
+      "vuc": "0.00"
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "SCALABRINI ORTIZ, RAUL AV.",
+      "puerta": 591
+    },
+    "usig_cod_calle_altura": {
+      "altura": 591,
+      "cod_calle": 20133
+    },
+    "usig_direccion_elegida": {
+      "altura": 591,
+      "cod_calle": 20133,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.435599",
+        "y": "-34.597956"
+      },
+      "direccion": "SCALABRINI ORTIZ, RAUL AV. 591, CABA",
+      "nombre_calle": "SCALABRINI ORTIZ, RAUL AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.597956,
+      "lng": -58.435599
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 591,
+          "cod_calle": 20133,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.435599",
+            "y": "-34.597956"
+          },
+          "direccion": "SCALABRINI ORTIZ, RAUL AV. 591, CABA",
+          "nombre_calle": "SCALABRINI ORTIZ, RAUL AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 591,
+          "cod_calle": 19478,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4034572242722,
+            "y": -34.7211048886531
+          },
+          "direccion": "Raúl Scalabrini Ortiz 591, Lanús",
+          "nombre_calle": "Raúl Scalabrini Ortiz",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Remedios de Escalada",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

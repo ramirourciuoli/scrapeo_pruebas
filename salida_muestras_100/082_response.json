@@ -1,0 +1,85 @@
+{
+  "debug": {
+    "address": "MORON 4511",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.49288893542374,
+        -34.63002428051027
+      ],
+      "direccion": "MORON 4511",
+      "fondo": "17.33",
+      "frente": "7.79",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "056",
+      "parcela": "026",
+      "pdamatriz": "3002",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "077",
+      "smp": "077-056-026",
+      "smp_anterior": "077-056-025",
+      "smp_siguiente": "077-056-027",
+      "srid": 4326,
+      "superficie_cubierta": "127.00",
+      "superficie_total": "135.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "MORON",
+      "puerta": 4511
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4511,
+      "cod_calle": 13132
+    },
+    "usig_direccion_elegida": {
+      "altura": 4511,
+      "cod_calle": 13132,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.492824",
+        "y": "-34.630115"
+      },
+      "direccion": "MORON 4511, CABA",
+      "nombre_calle": "MORON",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.630115,
+      "lng": -58.492824
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4511,
+          "cod_calle": 13132,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.492824",
+            "y": "-34.630115"
+          },
+          "direccion": "MORON 4511, CABA",
+          "nombre_calle": "MORON",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

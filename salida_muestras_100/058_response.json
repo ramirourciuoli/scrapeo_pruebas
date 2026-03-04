@@ -1,0 +1,85 @@
+{
+  "debug": {
+    "address": "CERETTI 2090",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.49061181237993,
+        -34.58146251603073
+      ],
+      "direccion": "CERETTI 2090",
+      "fondo": "14.65",
+      "frente": "8.60",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "003",
+      "parcela": "026",
+      "pdamatriz": "351074",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "051",
+      "smp": "051-003-026",
+      "smp_anterior": "051-003-025",
+      "smp_siguiente": "051-003-001",
+      "srid": 4326,
+      "superficie_cubierta": "64.00",
+      "superficie_total": "126.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "CERETTI",
+      "puerta": 2090
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2090,
+      "cod_calle": 3115
+    },
+    "usig_direccion_elegida": {
+      "altura": 2090,
+      "cod_calle": 3115,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.490497",
+        "y": "-34.581408"
+      },
+      "direccion": "CERETTI 2090, CABA",
+      "nombre_calle": "CERETTI",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.581408,
+      "lng": -58.490497
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2090,
+          "cod_calle": 3115,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.490497",
+            "y": "-34.581408"
+          },
+          "direccion": "CERETTI 2090, CABA",
+          "nombre_calle": "CERETTI",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}

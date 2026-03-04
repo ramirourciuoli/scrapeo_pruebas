@@ -1,0 +1,85 @@
+{
+  "debug": {
+    "address": "NAHUEL HUAPI 5471",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.49320333845471,
+        -34.5734432053412
+      ],
+      "direccion": "NAHUEL HUAPI 5471",
+      "fondo": "16.02",
+      "frente": "7.80",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "079",
+      "parcela": "016",
+      "pdamatriz": "352695",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "063",
+      "smp": "063-079-016",
+      "smp_anterior": "063-079-015B",
+      "smp_siguiente": "063-079-017",
+      "srid": 4326,
+      "superficie_cubierta": "121.00",
+      "superficie_total": "125.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "NAHUEL HUAPI",
+      "puerta": 5471
+    },
+    "usig_cod_calle_altura": {
+      "altura": 5471,
+      "cod_calle": 14035
+    },
+    "usig_direccion_elegida": {
+      "altura": 5471,
+      "cod_calle": 14035,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.493125",
+        "y": "-34.573541"
+      },
+      "direccion": "NAHUEL HUAPI 5471, CABA",
+      "nombre_calle": "NAHUEL HUAPI",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.573541,
+      "lng": -58.493125
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 5471,
+          "cod_calle": 14035,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.493125",
+            "y": "-34.573541"
+          },
+          "direccion": "NAHUEL HUAPI 5471, CABA",
+          "nombre_calle": "NAHUEL HUAPI",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura (dirección sin SMP).",
+  "ok": false
+}
