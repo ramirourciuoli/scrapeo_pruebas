@@ -1,0 +1,382 @@
+{
+  "area_m2": 182.81070232391357,
+  "centroide_lonlat": {
+    "lat": -34.588613,
+    "lon": -58.489856
+  },
+  "centroide_xy": {
+    "x": 97563.54539051664,
+    "y": 104509.91832828036
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/05/061-141-025_0000104505.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION061/061-141-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION061/PI-061-141-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "061-141-026",
+            "061-141-000B",
+            "061-141-024"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 100.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 182.81594999997,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 182.8,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "061-141-025"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. A. ZUBIZARRETA",
+    "barrio": "Agronomia",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1419",
+    "codigo_postal_argentino": "C1419HJE",
+    "comisaria": "47",
+    "comisaria_vecinal": "15C",
+    "comuna": "Comuna 15",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "61"
+  },
+  "debug": {
+    "address": "PEDRO MORAN 2323",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.4898563644226,
+        -34.588612753636966
+      ],
+      "direccion": "MORAN, PEDRO 2323",
+      "fondo": "15.00",
+      "frente": "12.00",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "141",
+      "parcela": "025",
+      "pdamatriz": "311646",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "8",
+      "propiedad_horizontal": "Si",
+      "seccion": "061",
+      "smp": "061-141-025",
+      "smp_anterior": "061-141-024",
+      "smp_siguiente": "061-141-026",
+      "srid": 4326,
+      "superficie_cubierta": "1370.00",
+      "superficie_total": "180.00",
+      "unidades_funcionales": "23",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2323,
+      "cod_calle": 13123
+    },
+    "usig_direccion_elegida": {
+      "altura": 2323,
+      "cod_calle": 13123,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.489777",
+        "y": "-34.588701"
+      },
+      "direccion": "MORAN, PEDRO 2323, CABA",
+      "nombre_calle": "MORAN, PEDRO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2323,
+          "cod_calle": 13123,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.489777",
+            "y": "-34.588701"
+          },
+          "direccion": "MORAN, PEDRO 2323, CABA",
+          "nombre_calle": "MORAN, PEDRO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97556.8049961664,
+                  104508.85002319145
+                ],
+                [
+                  97554.17999617639,
+                  104512.37002318405
+                ],
+                [
+                  97556.6819961711,
+                  104514.2380231767
+                ],
+                [
+                  97557.32799616939,
+                  104514.72002317477
+                ],
+                [
+                  97563.85899615512,
+                  104519.59002315626
+                ],
+                [
+                  97565.27199614949,
+                  104517.70002316081
+                ],
+                [
+                  97565.6849961476,
+                  104517.14802316189
+                ],
+                [
+                  97566.04399614641,
+                  104516.66802316258
+                ],
+                [
+                  97567.53099614142,
+                  104514.68002316711
+                ],
+                [
+                  97568.21099613854,
+                  104513.77002316897
+                ],
+                [
+                  97570.10599613088,
+                  104511.23602317469
+                ],
+                [
+                  97570.60999612958,
+                  104510.56102317639
+                ],
+                [
+                  97570.81999612875,
+                  104510.2810231777
+                ],
+                [
+                  97571.48299612594,
+                  104509.39402317957
+                ],
+                [
+                  97572.91399612033,
+                  104507.48002318395
+                ],
+                [
+                  97571.41999612372,
+                  104506.3630231877
+                ],
+                [
+                  97568.43599613028,
+                  104504.13302319669
+                ],
+                [
+                  97565.77599613607,
+                  104502.14502320343
+                ],
+                [
+                  97563.69499614142,
+                  104500.59002320966
+                ],
+                [
+                  97563.22699614402,
+                  104500.24002321227
+                ],
+                [
+                  97561.79599614776,
+                  104502.15902320683
+                ],
+                [
+                  97560.57099615279,
+                  104503.80102320312
+                ],
+                [
+                  97560.40099615256,
+                  104504.02802320255
+                ],
+                [
+                  97558.51099616013,
+                  104506.56302319706
+                ],
+                [
+                  97557.8329961624,
+                  104507.47202319498
+                ],
+                [
+                  97557.2819961645,
+                  104508.21102319335
+                ],
+                [
+                  97556.95399616603,
+                  104508.65102319187
+                ],
+                [
+                  97556.8049961664,
+                  104508.85002319145
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "061-141-025",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "PEDRO MORAN 2323",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.4898563644226,
+      -34.588612753636966
+    ],
+    "direccion": "MORAN, PEDRO 2323",
+    "fondo": "15.00",
+    "frente": "12.00",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "141",
+    "parcela": "025",
+    "pdamatriz": "311646",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "8",
+    "propiedad_horizontal": "Si",
+    "puertas": [
+      {
+        "altura": 2323,
+        "calle": "MORAN, PEDRO",
+        "codigo_calle": 13123,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "061",
+    "smp": "061-141-025",
+    "smp_anterior": "061-141-024",
+    "smp_siguiente": "061-141-026",
+    "srid": 4326,
+    "superficie_cubierta": "1370.00",
+    "superficie_total": "180.00",
+    "unidades_funcionales": "23",
+    "vuc": "0.00"
+  },
+  "smp": "061-141-025"
+}

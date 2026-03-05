@@ -1,0 +1,428 @@
+{
+  "area_m2": 410.65096378326416,
+  "centroide_lonlat": {
+    "lat": -34.580951,
+    "lon": -58.496853
+  },
+  "centroide_xy": {
+    "x": 96921.33548525166,
+    "y": 105359.71825248895
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/92/073-072-035_0000116092.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION073/073-072-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION073/PI-073-072-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "073-072-004",
+            "073-072-034",
+            "073-072-036",
+            "073-072-026"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 100.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 325.325798937382,
+        "sup_max_edificable": 327.5,
+        "superficie_parcela": 410.7,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "073-072-035"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. A. ZUBIZARRETA",
+    "barrio": "Villa Pueyrredon",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1419",
+    "codigo_postal_argentino": "C1419EKB",
+    "comisaria": "47",
+    "comisaria_vecinal": "12B",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "73"
+  },
+  "debug": {
+    "address": "CARACAS 4860",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.49685311154728,
+        -34.58095072437574
+      ],
+      "direccion": "CARACAS 4860",
+      "fondo": "47.69",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "072",
+      "parcela": "035",
+      "pdamatriz": "362014",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "073",
+      "smp": "073-072-035",
+      "smp_anterior": "073-072-034",
+      "smp_siguiente": "073-072-036",
+      "srid": 4326,
+      "superficie_cubierta": "204.00",
+      "superficie_total": "413.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4860,
+      "cod_calle": 3062
+    },
+    "usig_direccion_elegida": {
+      "altura": 4860,
+      "cod_calle": 3062,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.496606",
+        "y": "-34.580798"
+      },
+      "direccion": "CARACAS 4860, CABA",
+      "nombre_calle": "CARACAS",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4860,
+          "cod_calle": 3062,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.496606",
+            "y": "-34.580798"
+          },
+          "direccion": "CARACAS 4860, CABA",
+          "nombre_calle": "CARACAS",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 4860,
+          "cod_calle": 71121,
+          "cod_calle_cruce": null,
+          "cod_partido": "jose_c_paz",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.8124721333333,
+            "y": -34.5066879125
+          },
+          "direccion": "Caracas 4860, José C. Paz",
+          "nombre_calle": "Caracas",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "José C. Paz",
+          "nombre_partido": "José C. Paz",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 4860,
+          "cod_calle": 125742,
+          "cod_calle_cruce": null,
+          "cod_partido": "quilmes",
+          "direccion": "Caracas 4860, Quilmes",
+          "nombre_calle": "Caracas",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ezpeleta",
+          "nombre_partido": "Quilmes",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96937.74199855619,
+                  105377.28002122327
+                ],
+                [
+                  96942.95299853591,
+                  105370.38002123672
+                ],
+                [
+                  96941.05199854104,
+                  105368.95302124275
+                ],
+                [
+                  96939.75199854393,
+                  105367.97702124744
+                ],
+                [
+                  96938.4419985462,
+                  105366.99402124973
+                ],
+                [
+                  96938.34299854773,
+                  105366.92002125079
+                ],
+                [
+                  96937.64399854852,
+                  105366.3960212529
+                ],
+                [
+                  96937.5449985488,
+                  105366.32202125265
+                ],
+                [
+                  96928.8039985682,
+                  105359.76102127723
+                ],
+                [
+                  96927.52299857094,
+                  105358.80302128303
+                ],
+                [
+                  96926.95899857266,
+                  105358.38802128393
+                ],
+                [
+                  96925.2349985763,
+                  105357.11802128801
+                ],
+                [
+                  96918.64099859093,
+                  105352.40002130764
+                ],
+                [
+                  96918.76499859044,
+                  105352.24202130619
+                ],
+                [
+                  96904.4379986236,
+                  105342.29002134569
+                ],
+                [
+                  96902.2729986318,
+                  105345.15002133939
+                ],
+                [
+                  96901.89299863375,
+                  105345.65202133835
+                ],
+                [
+                  96901.56099863423,
+                  105346.09002133677
+                ],
+                [
+                  96899.47699864263,
+                  105348.84002133051
+                ],
+                [
+                  96903.08499863416,
+                  105351.5210213213
+                ],
+                [
+                  96903.57099863392,
+                  105351.88202131909
+                ],
+                [
+                  96911.14999861695,
+                  105357.51602129731
+                ],
+                [
+                  96913.67199861082,
+                  105359.39002129051
+                ],
+                [
+                  96923.4059985891,
+                  105366.625021263
+                ],
+                [
+                  96924.20899858628,
+                  105367.2220212601
+                ],
+                [
+                  96925.01199858537,
+                  105367.81902125859
+                ],
+                [
+                  96925.41299858356,
+                  105368.1170212577
+                ],
+                [
+                  96926.16799858239,
+                  105368.67802125606
+                ],
+                [
+                  96927.10999858081,
+                  105369.37802125339
+                ],
+                [
+                  96929.50199857497,
+                  105371.15602124669
+                ],
+                [
+                  96933.01699856675,
+                  105373.76802123603
+                ],
+                [
+                  96937.74199855619,
+                  105377.28002122327
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "073-072-035",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CARACAS 4860",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.49685311154728,
+      -34.58095072437574
+    ],
+    "direccion": "CARACAS 4860",
+    "fondo": "47.69",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "072",
+    "parcela": "035",
+    "pdamatriz": "362014",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [
+      {
+        "altura": 4860,
+        "calle": "CARACAS",
+        "codigo_calle": 3062,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "073",
+    "smp": "073-072-035",
+    "smp_anterior": "073-072-034",
+    "smp_siguiente": "073-072-036",
+    "srid": 4326,
+    "superficie_cubierta": "204.00",
+    "superficie_total": "413.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "073-072-035"
+}

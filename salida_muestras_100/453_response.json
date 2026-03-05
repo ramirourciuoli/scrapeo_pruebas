@@ -1,0 +1,354 @@
+{
+  "area_m2": 224.08095932006836,
+  "centroide_lonlat": {
+    "lat": -34.568439,
+    "lon": -58.50229
+  },
+  "centroide_xy": {
+    "x": 96421.96452684936,
+    "y": 106747.53633753984
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/3/40/063-040-026a_0000245340.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION063/063-040-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION063/PI-063-040-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "063-040-027",
+            "063-040-003a",
+            "063-040-025"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 120.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 224.06625000007,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 224.1,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "063-040-026A"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Villa Urquiza",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1431",
+    "codigo_postal_argentino": "C1431DTJ",
+    "comisaria": "49",
+    "comisaria_vecinal": "12C",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "63"
+  },
+  "debug": {
+    "address": "LAVOISIER 3488",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.50228970814597,
+        -34.568438951648155
+      ],
+      "direccion": "LAVOISIER 3488",
+      "fondo": "25.87",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "040",
+      "parcela": "026A",
+      "pdamatriz": "355379",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "063",
+      "smp": "063-040-026A",
+      "smp_anterior": "063-040-025",
+      "smp_siguiente": "063-040-027",
+      "srid": 4326,
+      "superficie_cubierta": "187.00",
+      "superficie_total": "224.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3488,
+      "cod_calle": 12091
+    },
+    "usig_direccion_elegida": {
+      "altura": 3488,
+      "cod_calle": 12091,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.502131",
+        "y": "-34.568352"
+      },
+      "direccion": "LAVOISIER 3488, CABA",
+      "nombre_calle": "LAVOISIER",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3488,
+          "cod_calle": 12091,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.502131",
+            "y": "-34.568352"
+          },
+          "direccion": "LAVOISIER 3488, CABA",
+          "nombre_calle": "LAVOISIER",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96419.44300104398,
+                  106751.08301775949
+                ],
+                [
+                  96421.17600104,
+                  106752.23701775505
+                ],
+                [
+                  96425.07000103133,
+                  106754.8300177452
+                ],
+                [
+                  96427.0980010266,
+                  106756.18101773967
+                ],
+                [
+                  96429.48300102091,
+                  106757.77001773313
+                ],
+                [
+                  96430.2340010193,
+                  106758.27001773115
+                ],
+                [
+                  96432.19100101112,
+                  106755.3420177385
+                ],
+                [
+                  96435.14800099988,
+                  106750.92001774843
+                ],
+                [
+                  96432.88100100515,
+                  106749.45301775407
+                ],
+                [
+                  96431.93200100734,
+                  106748.83901775643
+                ],
+                [
+                  96430.67200101046,
+                  106748.02501776034
+                ],
+                [
+                  96429.41300101284,
+                  106747.21001776322
+                ],
+                [
+                  96426.4350010196,
+                  106745.28401777084
+                ],
+                [
+                  96425.7690010219,
+                  106744.8530177727
+                ],
+                [
+                  96422.25700102995,
+                  106742.58101778183
+                ],
+                [
+                  96416.96700104215,
+                  106739.15901779514
+                ],
+                [
+                  96413.2110010508,
+                  106736.73001780527
+                ],
+                [
+                  96408.94500106847,
+                  106744.09001778721
+                ],
+                [
+                  96411.27200106271,
+                  106745.64001778094
+                ],
+                [
+                  96411.68900106211,
+                  106745.91801777977
+                ],
+                [
+                  96419.44300104398,
+                  106751.08301775949
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "063-040-026A",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "LAVOISIER 3488",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.50228970814597,
+      -34.568438951648155
+    ],
+    "direccion": "LAVOISIER 3488",
+    "fondo": "25.87",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "040",
+    "parcela": "026A",
+    "pdamatriz": "355379",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [
+      {
+        "altura": 3488,
+        "calle": "LAVOISIER",
+        "codigo_calle": 12091,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "063",
+    "smp": "063-040-026A",
+    "smp_anterior": "063-040-025",
+    "smp_siguiente": "063-040-027",
+    "srid": 4326,
+    "superficie_cubierta": "187.00",
+    "superficie_total": "224.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "063-040-026A"
+}

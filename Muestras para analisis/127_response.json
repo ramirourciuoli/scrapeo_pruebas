@@ -1,0 +1,364 @@
+{
+  "area_m2": 139.59842491149902,
+  "centroide_lonlat": {
+    "lat": -34.649625,
+    "lon": -58.519841
+  },
+  "centroide_xy": {
+    "x": 94816.3294769342,
+    "y": 97740.3221353262
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/2/61/072-074-031_0000028261.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION072/072-074-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION072/PI-072-074-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "072-074-029",
+            "072-074-032",
+            "072-074-030",
+            "072-074-028"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 60.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 139.629650000012,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 139.6,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "072-074-031"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Liniers",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1408",
+    "codigo_postal_argentino": "C1408GNE",
+    "comisaria": "54",
+    "comisaria_vecinal": "9B",
+    "comuna": "Comuna 9",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "72"
+  },
+  "debug": {
+    "address": "CAÑADA DE GOMEZ 991",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.519841263435865,
+        -34.649625007982216
+      ],
+      "direccion": "CAÑADA DE GOMEZ 991",
+      "fondo": "17.77",
+      "frente": "8.10",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "074",
+      "parcela": "031",
+      "pdamatriz": "72119",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "072",
+      "smp": "072-074-031",
+      "smp_anterior": "072-074-030",
+      "smp_siguiente": "072-074-032",
+      "srid": 4326,
+      "superficie_cubierta": "157.00",
+      "superficie_total": "144.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 991,
+      "cod_calle": 3056
+    },
+    "usig_direccion_elegida": {
+      "altura": 991,
+      "cod_calle": 3056,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.519749",
+        "y": "-34.649542"
+      },
+      "direccion": "CAÑADA DE GOMEZ 991, CABA",
+      "nombre_calle": "CAÑADA DE GOMEZ",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 991,
+          "cod_calle": 3056,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.519749",
+            "y": "-34.649542"
+          },
+          "direccion": "CAÑADA DE GOMEZ 991, CABA",
+          "nombre_calle": "CAÑADA DE GOMEZ",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 991,
+          "cod_calle": 183970,
+          "cod_calle_cruce": null,
+          "cod_partido": "hurlingham",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.638950294898,
+            "y": -34.5818458142857
+          },
+          "direccion": "Cañada de Gómez 991, Hurlingham",
+          "nombre_calle": "Cañada de Gómez",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Hurlingham",
+          "nombre_partido": "Hurlingham",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  94822.27499874603,
+                  97746.78504421457
+                ],
+                [
+                  94825.23899873473,
+                  97744.06804421722
+                ],
+                [
+                  94821.68199874251,
+                  97740.25104423086
+                ],
+                [
+                  94820.77999874442,
+                  97739.28304423508
+                ],
+                [
+                  94818.76199874782,
+                  97737.11804424302
+                ],
+                [
+                  94815.84999875339,
+                  97733.99304425507
+                ],
+                [
+                  94814.73599875624,
+                  97732.79704425763
+                ],
+                [
+                  94813.22799875974,
+                  97731.17904426358
+                ],
+                [
+                  94811.98599876283,
+                  97732.32704426124
+                ],
+                [
+                  94807.43899878017,
+                  97736.52704425374
+                ],
+                [
+                  94808.10199877841,
+                  97737.24704425098
+                ],
+                [
+                  94809.01299877615,
+                  97738.23504424715
+                ],
+                [
+                  94810.72099877271,
+                  97740.08804424104
+                ],
+                [
+                  94811.22399877198,
+                  97740.63504423975
+                ],
+                [
+                  94814.43299876514,
+                  97744.11804422608
+                ],
+                [
+                  94815.70399876263,
+                  97745.49704422182
+                ],
+                [
+                  94818.03899875771,
+                  97748.03104421316
+                ],
+                [
+                  94819.35699875496,
+                  97749.46104420998
+                ],
+                [
+                  94822.27499874603,
+                  97746.78504421457
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "072-074-031",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CAÑADA DE GOMEZ 991",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.519841263435865,
+      -34.649625007982216
+    ],
+    "direccion": "CAÑADA DE GOMEZ 991",
+    "fondo": "17.77",
+    "frente": "8.10",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "074",
+    "parcela": "031",
+    "pdamatriz": "72119",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [
+      {
+        "altura": 991,
+        "calle": "CAÑADA DE GOMEZ",
+        "codigo_calle": 3056,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "072",
+    "smp": "072-074-031",
+    "smp_anterior": "072-074-030",
+    "smp_siguiente": "072-074-032",
+    "srid": 4326,
+    "superficie_cubierta": "157.00",
+    "superficie_total": "144.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "072-074-031"
+}

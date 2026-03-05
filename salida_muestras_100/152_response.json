@@ -1,0 +1,367 @@
+{
+  "area_m2": 239.29160976409912,
+  "centroide_lonlat": {
+    "lat": -34.55808,
+    "lon": -58.473353
+  },
+  "centroide_xy": {
+    "x": 99077.3667493394,
+    "y": 107897.35272005489
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/40/041-068B-013_0000228540.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION041/041-068B-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION041/PI-041-068B-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "041-068B-014",
+            "041-068B-012",
+            "041-068B-016",
+            "041-068B-015"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 340.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 237.398964838432,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 239.3,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "041-068B-013"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Coghlan",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1430",
+    "codigo_postal_argentino": "C1430FHE",
+    "comisaria": "35",
+    "comisaria_vecinal": "12C",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   X",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "41"
+  },
+  "debug": {
+    "address": "CONDE 3117",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.47335265217503,
+        -34.558080000533245
+      ],
+      "direccion": "CONDE 3117",
+      "fondo": "23.80",
+      "frente": "10.00",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "068B",
+      "parcela": "013",
+      "pdamatriz": "373528",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "041",
+      "smp": "041-068B-013",
+      "smp_anterior": "041-068B-012",
+      "smp_siguiente": "041-068B-014",
+      "srid": 4326,
+      "superficie_cubierta": "302.00",
+      "superficie_total": "238.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3117,
+      "cod_calle": 3153
+    },
+    "usig_direccion_elegida": {
+      "altura": 3117,
+      "cod_calle": 3153,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.473500",
+        "y": "-34.558168"
+      },
+      "direccion": "CONDE 3117, CABA",
+      "nombre_calle": "CONDE",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3117,
+          "cod_calle": 3153,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.473500",
+            "y": "-34.558168"
+          },
+          "direccion": "CONDE 3117, CABA",
+          "nombre_calle": "CONDE",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99066.95299448087,
+                  107895.92501255637
+                ],
+                [
+                  99067.25799448082,
+                  107896.14601255537
+                ],
+                [
+                  99068.2499944782,
+                  107896.86301255279
+                ],
+                [
+                  99077.22799445805,
+                  107903.35901252809
+                ],
+                [
+                  99078.13199445607,
+                  107904.01301252571
+                ],
+                [
+                  99078.98199445379,
+                  107904.62801252265
+                ],
+                [
+                  99082.77799444532,
+                  107907.3750125125
+                ],
+                [
+                  99084.4489944416,
+                  107908.58401250766
+                ],
+                [
+                  99087.64299442903,
+                  107903.57801251923
+                ],
+                [
+                  99089.43599442151,
+                  107900.76901252629
+                ],
+                [
+                  99089.81899442033,
+                  107900.16801252696
+                ],
+                [
+                  99086.41199442744,
+                  107897.71701253703
+                ],
+                [
+                  99084.00099443353,
+                  107895.9830125435
+                ],
+                [
+                  99083.67699443422,
+                  107895.74901254429
+                ],
+                [
+                  99080.61299444092,
+                  107893.54501255287
+                ],
+                [
+                  99077.63599444772,
+                  107891.40401256125
+                ],
+                [
+                  99077.31499444888,
+                  107891.17301256242
+                ],
+                [
+                  99074.25199445576,
+                  107888.97001257027
+                ],
+                [
+                  99073.11499445823,
+                  107888.15201257344
+                ],
+                [
+                  99070.49199446356,
+                  107886.26501258058
+                ],
+                [
+                  99068.81599447003,
+                  107888.59201257586
+                ],
+                [
+                  99064.70599448646,
+                  107894.2990125624
+                ],
+                [
+                  99066.61099448147,
+                  107895.67701255763
+                ],
+                [
+                  99066.95299448087,
+                  107895.92501255637
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "041-068B-013",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CONDE 3117",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.47335265217503,
+      -34.558080000533245
+    ],
+    "direccion": "CONDE 3117",
+    "fondo": "23.80",
+    "frente": "10.00",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "068B",
+    "parcela": "013",
+    "pdamatriz": "373528",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [
+      {
+        "altura": 3117,
+        "calle": "CONDE",
+        "codigo_calle": 3153,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "041",
+    "smp": "041-068B-013",
+    "smp_anterior": "041-068B-012",
+    "smp_siguiente": "041-068B-014",
+    "srid": 4326,
+    "superficie_cubierta": "302.00",
+    "superficie_total": "238.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "041-068B-013"
+}

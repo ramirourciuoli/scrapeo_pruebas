@@ -1,0 +1,355 @@
+{
+  "area_m2": 184.6527805328369,
+  "centroide_lonlat": {
+    "lat": -34.668708,
+    "lon": -58.503421
+  },
+  "centroide_xy": {
+    "x": 96322.59778113705,
+    "y": 95623.99816759564
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/2/58/076-048-014_0000036258.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION076/076-048-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION076/PI-076-048-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "076-048-015b",
+            "076-048-013",
+            "076-048-016",
+            "076-048-015a"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 184.657000000005,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 184.7,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "076-048-014"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Mataderos",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1440",
+    "codigo_postal_argentino": "C1440BEN",
+    "comisaria": "42",
+    "comisaria_vecinal": "9A",
+    "comuna": "Comuna 9",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "76"
+  },
+  "debug": {
+    "address": "SAN PEDRO 7186",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.503420727727764,
+        -34.66870834546672
+      ],
+      "direccion": "SAN PEDRO 7186",
+      "fondo": "21.36",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "048",
+      "parcela": "014",
+      "pdamatriz": "36105",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "076",
+      "smp": "076-048-014",
+      "smp_anterior": "076-048-013",
+      "smp_siguiente": "076-048-015A",
+      "srid": 4326,
+      "superficie_cubierta": "221.00",
+      "superficie_total": "185.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 7186,
+      "cod_calle": 20051
+    },
+    "usig_direccion_elegida": {
+      "altura": 7186,
+      "cod_calle": 20051,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.503536",
+        "y": "-34.668614"
+      },
+      "direccion": "SAN PEDRO 7186, CABA",
+      "nombre_calle": "SAN PEDRO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 7186,
+          "cod_calle": 20051,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.503536",
+            "y": "-34.668614"
+          },
+          "direccion": "SAN PEDRO 7186, CABA",
+          "nombre_calle": "SAN PEDRO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96333.19399290695,
+                  95619.40404904145
+                ],
+                [
+                  96330.75199291257,
+                  95616.9820490508
+                ],
+                [
+                  96330.5309929131,
+                  95616.76304905079
+                ],
+                [
+                  96329.09299291522,
+                  95615.33704905689
+                ],
+                [
+                  96327.02899291954,
+                  95613.29004906531
+                ],
+                [
+                  96323.91999293024,
+                  95616.48604905643
+                ],
+                [
+                  96323.23799293327,
+                  95617.18704905536
+                ],
+                [
+                  96321.023992941,
+                  95619.46404905117
+                ],
+                [
+                  96317.9919929515,
+                  95622.58104904517
+                ],
+                [
+                  96316.58599295732,
+                  95624.0260490406
+                ],
+                [
+                  96315.69099295998,
+                  95624.94704903875
+                ],
+                [
+                  96312.04099297317,
+                  95628.69804903219
+                ],
+                [
+                  96315.01599296721,
+                  95631.7110490216
+                ],
+                [
+                  96315.85899296525,
+                  95632.56404901939
+                ],
+                [
+                  96317.98999296152,
+                  95634.72104901008
+                ],
+                [
+                  96321.08699294999,
+                  95631.60104901792
+                ],
+                [
+                  96322.40699294506,
+                  95630.2710490191
+                ],
+                [
+                  96327.14699292858,
+                  95625.49504903032
+                ],
+                [
+                  96329.1489929221,
+                  95623.47904903564
+                ],
+                [
+                  96329.38099292055,
+                  95623.24504903442
+                ],
+                [
+                  96333.19399290695,
+                  95619.40404904145
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "076-048-014",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "SAN PEDRO 7186",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.503420727727764,
+      -34.66870834546672
+    ],
+    "direccion": "SAN PEDRO 7186",
+    "fondo": "21.36",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "048",
+    "parcela": "014",
+    "pdamatriz": "36105",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [
+      {
+        "altura": 7186,
+        "calle": "SAN PEDRO",
+        "codigo_calle": 20051,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "076",
+    "smp": "076-048-014",
+    "smp_anterior": "076-048-013",
+    "smp_siguiente": "076-048-015A",
+    "srid": 4326,
+    "superficie_cubierta": "221.00",
+    "superficie_total": "185.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "076-048-014"
+}

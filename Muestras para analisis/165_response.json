@@ -1,0 +1,363 @@
+{
+  "area_m2": 176.1671028137207,
+  "centroide_lonlat": {
+    "lat": -34.665762,
+    "lon": -58.469033
+  },
+  "centroide_xy": {
+    "x": 99474.48291166019,
+    "y": 95951.52253487673
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/66/066-089-036_0000024066.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION066/066-089-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION066/PI-066-089-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "066-089-002",
+            "066-089-034a",
+            "066-089-001"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 176.13244999998,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 176.2,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "066-089-036"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. P. PIÑERO",
+    "barrio": "Villa Lugano",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1439",
+    "codigo_postal_argentino": "C1407LEO",
+    "comisaria": "48",
+    "comisaria_vecinal": "8B",
+    "comuna": "Comuna 8",
+    "distrito_economico": "DISTRITO DEL DEPORTE",
+    "distrito_escolar": "Distrito Escolar   XXI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "66"
+  },
+  "debug": {
+    "address": "AV. ESCALADA 3009",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.46903322620911,
+        -34.66576246425213
+      ],
+      "direccion": "ESCALADA AV. 3009",
+      "fondo": "20.09",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "089",
+      "parcela": "036",
+      "pdamatriz": "82397",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "066",
+      "smp": "066-089-036",
+      "smp_anterior": "066-089-034A",
+      "smp_siguiente": "066-089-001",
+      "srid": 4326,
+      "superficie_cubierta": "196.00",
+      "superficie_total": "174.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3009,
+      "cod_calle": 5067
+    },
+    "usig_direccion_elegida": {
+      "altura": 3009,
+      "cod_calle": 5067,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.468924",
+        "y": "-34.665659"
+      },
+      "direccion": "ESCALADA AV. 3009, CABA",
+      "nombre_calle": "ESCALADA AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3009,
+          "cod_calle": 5067,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.468924",
+            "y": "-34.665659"
+          },
+          "direccion": "ESCALADA AV. 3009, CABA",
+          "nombre_calle": "ESCALADA AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3009,
+          "cod_calle": 21835,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4111447357143,
+            "y": -34.67319155
+          },
+          "direccion": "Avenida Remedios de Escalada de San Martín 3009, Lanús",
+          "nombre_calle": "Avenida Remedios de Escalada de San Martín",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Valentín Alsina",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99464.3519843725,
+                  95946.76104576656
+                ],
+                [
+                  99466.64598436802,
+                  95949.25804575949
+                ],
+                [
+                  99467.18698436629,
+                  95949.84704575624
+                ],
+                [
+                  99468.7009843643,
+                  95951.49504575055
+                ],
+                [
+                  99469.35198436257,
+                  95952.20404574904
+                ],
+                [
+                  99474.23098435295,
+                  95957.51404572956
+                ],
+                [
+                  99476.11698434921,
+                  95959.56704572187
+                ],
+                [
+                  99478.38398434425,
+                  95962.03404571308
+                ],
+                [
+                  99480.98398433623,
+                  95959.58304571727
+                ],
+                [
+                  99481.86598433233,
+                  95958.75204572003
+                ],
+                [
+                  99484.68098432288,
+                  95956.09904572548
+                ],
+                [
+                  99482.95698432633,
+                  95954.28804573105
+                ],
+                [
+                  99478.9579843342,
+                  95950.08704574752
+                ],
+                [
+                  99473.73298434462,
+                  95944.59704576625
+                ],
+                [
+                  99473.30698434505,
+                  95944.14904576645
+                ],
+                [
+                  99471.27698434917,
+                  95942.01604577532
+                ],
+                [
+                  99470.29798435212,
+                  95940.98804577903
+                ],
+                [
+                  99468.13998435918,
+                  95943.08404577419
+                ],
+                [
+                  99464.3519843725,
+                  95946.76104576656
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "066-089-036",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AV. ESCALADA 3009",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.46903322620911,
+      -34.66576246425213
+    ],
+    "direccion": "ESCALADA AV. 3009",
+    "fondo": "20.09",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "089",
+    "parcela": "036",
+    "pdamatriz": "82397",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [
+      {
+        "altura": 3009,
+        "calle": "ESCALADA AV.",
+        "codigo_calle": 5067,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "066",
+    "smp": "066-089-036",
+    "smp_anterior": "066-089-034A",
+    "smp_siguiente": "066-089-001",
+    "srid": 4326,
+    "superficie_cubierta": "196.00",
+    "superficie_total": "174.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "066-089-036"
+}

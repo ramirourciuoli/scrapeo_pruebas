@@ -1,0 +1,489 @@
+{
+  "area_m2": 296.2624921798706,
+  "centroide_lonlat": {
+    "lat": -34.643874,
+    "lon": -58.361214
+  },
+  "centroide_xy": {
+    "x": 109359.85685334372,
+    "y": 98375.0707681648
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 1,
+          "lep": 1,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "E-CCA",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.0,
+          "fot_perim_libre": 3.0,
+          "fot_semi_libre": 3.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/97/010-103-012_0000393097.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION010/010-103-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION010/PI-010-103-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "010-103-011",
+            "010-103-008"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "E3 2",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 296.3,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "010-103-012"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C. ARGERICH",
+    "barrio": "Boca",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1167",
+    "codigo_postal_argentino": "C1167ACM",
+    "comisaria": "30",
+    "comisaria_vecinal": "4C",
+    "comuna": "Comuna 4",
+    "distrito_economico": "DISTRITO DE LAS ARTES",
+    "distrito_escolar": "Distrito Escolar   IV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "10"
+  },
+  "debug": {
+    "address": "GARIBALDI 1975",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.3612137522993,
+        -34.64387365932113
+      ],
+      "direccion": "CALIFORNIA 801",
+      "fondo": "45.54",
+      "frente": "6.50",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "103",
+      "parcela": "012",
+      "pdamatriz": "122097",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "0",
+      "propiedad_horizontal": "No",
+      "seccion": "010",
+      "smp": "010-103-012",
+      "smp_anterior": "010-103-011",
+      "smp_siguiente": "010-103-013",
+      "srid": 4326,
+      "superficie_cubierta": "0.00",
+      "superficie_total": "296.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1975,
+      "cod_calle": 7035
+    },
+    "usig_direccion_elegida": {
+      "altura": 1975,
+      "cod_calle": 7035,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.361137",
+        "y": "-34.643850"
+      },
+      "direccion": "GARIBALDI 1975, CABA",
+      "nombre_calle": "GARIBALDI",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1975,
+          "cod_calle": 7035,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.361137",
+            "y": "-34.643850"
+          },
+          "direccion": "GARIBALDI 1975, CABA",
+          "nombre_calle": "GARIBALDI",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1975,
+          "cod_calle": 126797,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3784184489796,
+            "y": -34.8834729571429
+          },
+          "direccion": "Garibaldi 1975, Almirante Brown",
+          "nombre_calle": "Garibaldi",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Glew",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1975,
+          "cod_calle": 45687,
+          "cod_calle_cruce": null,
+          "cod_partido": "general_san_martin",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5670895030612,
+            "y": -34.5291927653061
+          },
+          "direccion": "170 - José Garibaldi 1975, General San Martín",
+          "nombre_calle": "170 - José Garibaldi",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "José León Suárez",
+          "nombre_partido": "General San Martín",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1975,
+          "cod_calle": 468179,
+          "cod_calle_cruce": null,
+          "cod_partido": "hurlingham",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6428648989796,
+            "y": -34.5838064295918
+          },
+          "direccion": "José Garibaldi 1975, Hurlingham",
+          "nombre_calle": "José Garibaldi",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Hurlingham",
+          "nombre_partido": "Hurlingham",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1975,
+          "cod_calle": 41137,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "direccion": "Garibaldi 1975, La Matanza",
+          "nombre_calle": "Garibaldi",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Luzuriaga",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1975,
+          "cod_calle": 354180,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4229152914619,
+            "y": -34.7807815238936
+          },
+          "direccion": "José Garibaldi 1975, Lomas de Zamora",
+          "nombre_calle": "José Garibaldi",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lomas de Zamora",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1975,
+          "cod_calle": 354180,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4229152914619,
+            "y": -34.7807815238936
+          },
+          "direccion": "José Garibaldi 1975, Lomas de Zamora",
+          "nombre_calle": "José Garibaldi",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Temperley",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1975,
+          "cod_calle": 13633,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_fernando",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5528235520408,
+            "y": -34.4538707663265
+          },
+          "direccion": "Garibaldi 1975, San Fernando",
+          "nombre_calle": "Garibaldi",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Virreyes",
+          "nombre_partido": "San Fernando",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1975,
+          "cod_calle": 114360,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_isidro",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5284874316326,
+            "y": -34.4608172836735
+          },
+          "direccion": "Garibaldi 1975, San Isidro",
+          "nombre_calle": "Garibaldi",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Beccar",
+          "nombre_partido": "San Isidro",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  109356.42395847198,
+                  98392.43303146306
+                ],
+                [
+                  109359.28295845947,
+                  98386.31503147827
+                ],
+                [
+                  109362.64195844483,
+                  98379.12903149525
+                ],
+                [
+                  109370.80995840832,
+                  98361.65003153877
+                ],
+                [
+                  109369.98995840947,
+                  98359.24003154601
+                ],
+                [
+                  109365.52695841956,
+                  98356.56803155656
+                ],
+                [
+                  109362.41495843262,
+                  98362.02503154404
+                ],
+                [
+                  109360.77795843927,
+                  98364.89603153657
+                ],
+                [
+                  109357.11795845423,
+                  98371.31203152155
+                ],
+                [
+                  109355.63195846078,
+                  98373.9170315158
+                ],
+                [
+                  109353.8669584675,
+                  98377.01203150817
+                ],
+                [
+                  109351.93795847587,
+                  98380.39503149962
+                ],
+                [
+                  109351.76995847607,
+                  98380.69003149972
+                ],
+                [
+                  109351.59195847744,
+                  98381.00303149817
+                ],
+                [
+                  109351.05795847962,
+                  98381.93803149645
+                ],
+                [
+                  109349.9009584838,
+                  98383.96703149169
+                ],
+                [
+                  109348.30195849093,
+                  98386.77103148465
+                ],
+                [
+                  109348.0319584916,
+                  98387.24403148371
+                ],
+                [
+                  109350.72195848571,
+                  98388.90703147676
+                ],
+                [
+                  109356.42395847198,
+                  98392.43303146306
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "010-103-012",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "GARIBALDI 1975",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 2,
+    "centroide": [
+      -58.3612137522993,
+      -34.64387365932113
+    ],
+    "direccion": "CALIFORNIA 801",
+    "fondo": "45.54",
+    "frente": "6.50",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "103",
+    "parcela": "012",
+    "pdamatriz": "122097",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "0",
+    "propiedad_horizontal": "No",
+    "puertas": [
+      {
+        "altura": 801,
+        "calle": "CALIFORNIA",
+        "codigo_calle": 1164,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      },
+      {
+        "altura": 1975,
+        "calle": "GARIBALDI",
+        "codigo_calle": 7035,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "010",
+    "smp": "010-103-012",
+    "smp_anterior": "010-103-011",
+    "smp_siguiente": "010-103-013",
+    "srid": 4326,
+    "superficie_cubierta": "0.00",
+    "superficie_total": "296.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "010-103-012"
+}

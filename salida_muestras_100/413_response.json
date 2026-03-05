@@ -1,0 +1,402 @@
+{
+  "area_m2": 380.796630859375,
+  "centroide_lonlat": {
+    "lat": -34.594337,
+    "lon": -58.425157
+  },
+  "centroide_xy": {
+    "x": 103499.21898480765,
+    "y": 103874.51311816006
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/8/41/019-011-028_0000256841.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION019/019-011-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION019/PI-019-011-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "019-011-012",
+            "019-011-027",
+            "019-011-029"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 340.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 251.419198180993,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 380.8,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "019-011-028"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.A.FERNÁNDEZ",
+    "barrio": "Palermo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1414",
+    "codigo_postal_argentino": "C1414DUB",
+    "comisaria": "25",
+    "comisaria_vecinal": "14A",
+    "comuna": "Comuna 14",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   II",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "19"
+  },
+  "debug": {
+    "address": "LAVALLEJA 1342",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.425157321244654,
+        -34.594337375569836
+      ],
+      "direccion": "LAVALLEJA 1342",
+      "fondo": "43.63",
+      "frente": "8.87",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "011",
+      "parcela": "028",
+      "pdamatriz": "425467",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "2",
+      "propiedad_horizontal": "Si",
+      "seccion": "019",
+      "smp": "019-011-028",
+      "smp_anterior": "019-011-027",
+      "smp_siguiente": "019-011-029",
+      "srid": 4326,
+      "superficie_cubierta": "641.00",
+      "superficie_total": "387.00",
+      "unidades_funcionales": "10",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1342,
+      "cod_calle": 12090
+    },
+    "usig_direccion_elegida": {
+      "altura": 1342,
+      "cod_calle": 12090,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.424972",
+        "y": "-34.594500"
+      },
+      "direccion": "LAVALLEJA 1342, CABA",
+      "nombre_calle": "LAVALLEJA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1342,
+          "cod_calle": 12090,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.424972",
+            "y": "-34.594500"
+          },
+          "direccion": "LAVALLEJA 1342, CABA",
+          "nombre_calle": "LAVALLEJA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  103481.64797908417,
+                  103888.33802047276
+                ],
+                [
+                  103483.18797908117,
+                  103890.01302046672
+                ],
+                [
+                  103483.61097907982,
+                  103890.47302046508
+                ],
+                [
+                  103483.6999790821,
+                  103890.57002046573
+                ],
+                [
+                  103484.3799790786,
+                  103891.30902046227
+                ],
+                [
+                  103487.29497907285,
+                  103894.47902045111
+                ],
+                [
+                  103489.04197906693,
+                  103892.50302045463
+                ],
+                [
+                  103491.80597905631,
+                  103889.37402046158
+                ],
+                [
+                  103493.7639790497,
+                  103887.15902046647
+                ],
+                [
+                  103497.13097903796,
+                  103883.35002047426
+                ],
+                [
+                  103497.56297903547,
+                  103882.85902047585
+                ],
+                [
+                  103498.95997903025,
+                  103881.27902047924
+                ],
+                [
+                  103500.36497902538,
+                  103879.6900204838
+                ],
+                [
+                  103500.80397902403,
+                  103879.19302048444
+                ],
+                [
+                  103503.77097901242,
+                  103875.83602049272
+                ],
+                [
+                  103505.75697900567,
+                  103873.58902049522
+                ],
+                [
+                  103508.82997899613,
+                  103870.11202050364
+                ],
+                [
+                  103509.2259789916,
+                  103869.66402050472
+                ],
+                [
+                  103510.85997898711,
+                  103867.81402050814
+                ],
+                [
+                  103512.53197898218,
+                  103865.9220205131
+                ],
+                [
+                  103513.07097897914,
+                  103865.3130205133
+                ],
+                [
+                  103515.31797897139,
+                  103862.77002051912
+                ],
+                [
+                  103516.85497896717,
+                  103861.03102052282
+                ],
+                [
+                  103516.56297896555,
+                  103860.75602052436
+                ],
+                [
+                  103512.56997897595,
+                  103856.99802053659
+                ],
+                [
+                  103510.38297898066,
+                  103854.94002054475
+                ],
+                [
+                  103509.70845844963,
+                  103855.72399857035
+                ],
+                [
+                  103508.74797898505,
+                  103856.84002054011
+                ],
+                [
+                  103505.6992283126,
+                  103860.38382456798
+                ],
+                [
+                  103502.36997900798,
+                  103864.25302052381
+                ],
+                [
+                  103496.4125861036,
+                  103871.17745210388
+                ],
+                [
+                  103484.8395218236,
+                  103884.62853029981
+                ],
+                [
+                  103481.64797908417,
+                  103888.33802047276
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "019-011-028",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "LAVALLEJA 1342",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.425157321244654,
+      -34.594337375569836
+    ],
+    "direccion": "LAVALLEJA 1342",
+    "fondo": "43.63",
+    "frente": "8.87",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "011",
+    "parcela": "028",
+    "pdamatriz": "425467",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "2",
+    "propiedad_horizontal": "Si",
+    "puertas": [
+      {
+        "altura": 1342,
+        "calle": "LAVALLEJA",
+        "codigo_calle": 12090,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "019",
+    "smp": "019-011-028",
+    "smp_anterior": "019-011-027",
+    "smp_siguiente": "019-011-029",
+    "srid": 4326,
+    "superficie_cubierta": "641.00",
+    "superficie_total": "387.00",
+    "unidades_funcionales": "10",
+    "vuc": "0.00"
+  },
+  "smp": "019-011-028"
+}

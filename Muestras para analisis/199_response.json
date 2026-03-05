@@ -1,0 +1,338 @@
+{
+  "area_m2": 161.4197177886963,
+  "centroide_lonlat": {
+    "lat": -34.612373,
+    "lon": -58.503534
+  },
+  "centroide_xy": {
+    "x": 96309.73858011412,
+    "y": 101873.66084814821
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.0,
+          "fot_perim_libre": 1.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/9/91/081-031-025_0000117991.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION081/081-031-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION081/PI-081-031-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "081-031-024",
+            "081-031-026",
+            "081-031-022"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R1b I",
+          "incidencia_uva": 130.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 3021.2
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 161.389100000074,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 161.4,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "081-031-025"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Monte Castro",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1417",
+    "codigo_postal_argentino": "C1417GAG",
+    "comisaria": "45",
+    "comisaria_vecinal": "10A",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "81"
+  },
+  "debug": {
+    "address": "MARCOS SASTRE 4285",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.50353380105752,
+        -34.612372821664444
+      ],
+      "direccion": "SASTRE, MARCOS 4285",
+      "fondo": "18.48",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "031",
+      "parcela": "025",
+      "pdamatriz": "265938",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "081",
+      "smp": "081-031-025",
+      "smp_anterior": "081-031-024",
+      "smp_siguiente": "081-031-026",
+      "srid": 4326,
+      "superficie_cubierta": "184.00",
+      "superficie_total": "160.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4285,
+      "cod_calle": 20079
+    },
+    "usig_direccion_elegida": {
+      "altura": 4285,
+      "cod_calle": 20079,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.503453",
+        "y": "-34.612466"
+      },
+      "direccion": "SASTRE, MARCOS 4285, CABA",
+      "nombre_calle": "SASTRE, MARCOS",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4285,
+          "cod_calle": 20079,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.503453",
+            "y": "-34.612466"
+          },
+          "direccion": "SASTRE, MARCOS 4285, CABA",
+          "nombre_calle": "SASTRE, MARCOS",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96317.43999765677,
+                  101870.43903152403
+                ],
+                [
+                  96318.63099765184,
+                  101868.76503152726
+                ],
+                [
+                  96314.59499766062,
+                  101865.8510315386
+                ],
+                [
+                  96311.5229976679,
+                  101863.63303154768
+                ],
+                [
+                  96308.99999767756,
+                  101867.1440315397
+                ],
+                [
+                  96307.96199768182,
+                  101868.58803153658
+                ],
+                [
+                  96305.14799769246,
+                  101872.50203152758
+                ],
+                [
+                  96303.79699769786,
+                  101874.38203152319
+                ],
+                [
+                  96303.07299770025,
+                  101875.38903152116
+                ],
+                [
+                  96302.41399770281,
+                  101876.30603151853
+                ],
+                [
+                  96300.81699770887,
+                  101878.52803151359
+                ],
+                [
+                  96308.02699769249,
+                  101883.67203149406
+                ],
+                [
+                  96309.59499768639,
+                  101881.46703149893
+                ],
+                [
+                  96310.53099768348,
+                  101880.15203150152
+                ],
+                [
+                  96310.91499768163,
+                  101879.61203150271
+                ],
+                [
+                  96316.71699765933,
+                  101871.45603152172
+                ],
+                [
+                  96317.43999765677,
+                  101870.43903152403
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "081-031-025",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MARCOS SASTRE 4285",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.50353380105752,
+      -34.612372821664444
+    ],
+    "direccion": "SASTRE, MARCOS 4285",
+    "fondo": "18.48",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "031",
+    "parcela": "025",
+    "pdamatriz": "265938",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [
+      {
+        "altura": 4285,
+        "calle": "SASTRE, MARCOS",
+        "codigo_calle": 20079,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "081",
+    "smp": "081-031-025",
+    "smp_anterior": "081-031-024",
+    "smp_siguiente": "081-031-026",
+    "srid": 4326,
+    "superficie_cubierta": "184.00",
+    "superficie_total": "160.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "081-031-025"
+}

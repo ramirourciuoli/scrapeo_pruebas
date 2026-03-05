@@ -1,0 +1,458 @@
+{
+  "area_m2": 397.4855098724365,
+  "centroide_lonlat": {
+    "lat": -34.575541,
+    "lon": -58.444593
+  },
+  "centroide_xy": {
+    "x": 101716.53908905154,
+    "y": 105960.19532341725
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "U",
+            "distrito_especifico": "U 20"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.5,
+          "fot_perim_libre": 1.5,
+          "fot_semi_libre": 1.5
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/59/035-054-027_0000402059.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION035/035-054-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION035/PI-035-054-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "035-054-026",
+            "035-054-028",
+            "035-054-036a",
+            "035-054-035"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "U20",
+          "incidencia_uva": 290.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "Zona 2A",
+        "sup_edificable_planta": 242.160061044576,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 397.5,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "035-054-027"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Colegiales",
+    "codigo_de_planeamiento_urbano": "U20",
+    "codigo_postal": "1426",
+    "codigo_postal_argentino": "C1426CYA",
+    "comisaria": "31",
+    "comisaria_vecinal": "13C",
+    "comuna": "Comuna 13",
+    "distrito_economico": "DISTRITO AUDIOVISUAL",
+    "distrito_escolar": "Distrito Escolar   IX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "35"
+  },
+  "debug": {
+    "address": "JORGE NEWBERY 2843",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.444593349365036,
+        -34.57554104670604
+      ],
+      "direccion": "NEWBERY, JORGE 2843",
+      "fondo": "45.61",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "054",
+      "parcela": "027",
+      "pdamatriz": "414577",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "8",
+      "propiedad_horizontal": "Si",
+      "seccion": "035",
+      "smp": "035-054-027",
+      "smp_anterior": "035-054-026",
+      "smp_siguiente": "035-054-028",
+      "srid": 4326,
+      "superficie_cubierta": "2352.00",
+      "superficie_total": "395.00",
+      "unidades_funcionales": "31",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2843,
+      "cod_calle": 14019
+    },
+    "usig_direccion_elegida": {
+      "altura": 2843,
+      "cod_calle": 14019,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.444428",
+        "y": "-34.575648"
+      },
+      "direccion": "NEWBERY, JORGE 2843, CABA",
+      "nombre_calle": "NEWBERY, JORGE",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2843,
+          "cod_calle": 14019,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.444428",
+            "y": "-34.575648"
+          },
+          "direccion": "NEWBERY, JORGE 2843, CABA",
+          "nombre_calle": "NEWBERY, JORGE",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2843,
+          "cod_calle": 48006,
+          "cod_calle_cruce": null,
+          "cod_partido": "jose_c_paz",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7539368510204,
+            "y": -34.5335085459184
+          },
+          "direccion": "Jorge Newbery 2843, José C. Paz",
+          "nombre_calle": "Jorge Newbery",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "José C. Paz",
+          "nombre_partido": "José C. Paz",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2843,
+          "cod_calle": 160357,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5981908234694,
+            "y": -34.7363834979592
+          },
+          "direccion": "Jorge Newbery 2843, La Matanza",
+          "nombre_calle": "Jorge Newbery",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Gregorio de Laferrere",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2843,
+          "cod_calle": 79026,
+          "cod_calle_cruce": null,
+          "cod_partido": "tigre",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6159347427971,
+            "y": -34.4917845568339
+          },
+          "direccion": "Jorge Newbery 2843, Tigre",
+          "nombre_calle": "Jorge Newbery",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Don Torcuato",
+          "nombre_partido": "Tigre",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  101710.12898561107,
+                  105959.79901599625
+                ],
+                [
+                  101706.12098562531,
+                  105963.03601599086
+                ],
+                [
+                  101705.10898562866,
+                  105963.85301598912
+                ],
+                [
+                  101696.08198565971,
+                  105971.14401597567
+                ],
+                [
+                  101701.41998564944,
+                  105978.0520159521
+                ],
+                [
+                  101704.08798564084,
+                  105975.88101595611
+                ],
+                [
+                  101708.67398562437,
+                  105972.15101596265
+                ],
+                [
+                  101710.75498561752,
+                  105970.46201596654
+                ],
+                [
+                  101711.23598561554,
+                  105970.07201596667
+                ],
+                [
+                  101714.01798560662,
+                  105967.81501597157
+                ],
+                [
+                  101714.9489856033,
+                  105967.05901597295
+                ],
+                [
+                  101717.37298559467,
+                  105965.09101597633
+                ],
+                [
+                  101718.69498559079,
+                  105964.01801597848
+                ],
+                [
+                  101719.30298558873,
+                  105963.52501597963
+                ],
+                [
+                  101720.46098558459,
+                  105962.58601598113
+                ],
+                [
+                  101727.42198556096,
+                  105956.93701599145
+                ],
+                [
+                  101730.77098554897,
+                  105954.21801599706
+                ],
+                [
+                  101731.54698554685,
+                  105953.58901599757
+                ],
+                [
+                  101735.33298553331,
+                  105950.51601600347
+                ],
+                [
+                  101737.13498552731,
+                  105949.05401600595
+                ],
+                [
+                  101735.00398553126,
+                  105946.46001601525
+                ],
+                [
+                  101733.41798553414,
+                  105944.52901602199
+                ],
+                [
+                  101732.8119855356,
+                  105943.79201602479
+                ],
+                [
+                  101731.85598553717,
+                  105942.62701602874
+                ],
+                [
+                  101731.66998553775,
+                  105942.40101602877
+                ],
+                [
+                  101730.11398554323,
+                  105943.65801602663
+                ],
+                [
+                  101729.89598554361,
+                  105943.83301602612
+                ],
+                [
+                  101725.34998555902,
+                  105947.50501601948
+                ],
+                [
+                  101720.7569855753,
+                  105951.21501601252
+                ],
+                [
+                  101720.63098557552,
+                  105951.31701601227
+                ],
+                [
+                  101714.9159855952,
+                  105955.93201600388
+                ],
+                [
+                  101711.90198560509,
+                  105958.36601599964
+                ],
+                [
+                  101711.51998560614,
+                  105958.67501599854
+                ],
+                [
+                  101710.12898561107,
+                  105959.79901599625
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "035-054-027",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "JORGE NEWBERY 2843",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.444593349365036,
+      -34.57554104670604
+    ],
+    "direccion": "NEWBERY, JORGE 2843",
+    "fondo": "45.61",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "054",
+    "parcela": "027",
+    "pdamatriz": "414577",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "8",
+    "propiedad_horizontal": "Si",
+    "puertas": [
+      {
+        "altura": 2843,
+        "calle": "NEWBERY, JORGE",
+        "codigo_calle": 14019,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "035",
+    "smp": "035-054-027",
+    "smp_anterior": "035-054-026",
+    "smp_siguiente": "035-054-028",
+    "srid": 4326,
+    "superficie_cubierta": "2352.00",
+    "superficie_total": "395.00",
+    "unidades_funcionales": "31",
+    "vuc": "0.00"
+  },
+  "smp": "035-054-027"
+}

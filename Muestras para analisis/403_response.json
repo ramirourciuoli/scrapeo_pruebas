@@ -1,0 +1,514 @@
+{
+  "area_m2": 473.3392734527588,
+  "centroide_lonlat": {
+    "lat": -34.611625,
+    "lon": -58.423735
+  },
+  "centroide_xy": {
+    "x": 103628.9421088929,
+    "y": 101956.61569870361
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 2.75,
+          "fot_perim_libre": 2.75,
+          "fot_semi_libre": 2.75
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/3/76/017-064A-031_0000435376.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION017/017-064A-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION017/PI-017-064A-V4.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "017-064A-046",
+            "017-064A-032",
+            "017-064A-030b"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2a II",
+          "incidencia_uva": 200.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 473.3,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "017-064A-031"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Almagro",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1181",
+    "codigo_postal_argentino": "C1181ABA",
+    "comisaria": "9",
+    "comisaria_vecinal": "5A",
+    "comuna": "Comuna 5",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   II",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "17"
+  },
+  "debug": {
+    "address": "GASCON 65",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.42373509687825,
+        -34.61162527029515
+      ],
+      "direccion": "GASCON 65",
+      "fondo": "58.88",
+      "frente": "8.00",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "064A",
+      "parcela": "031",
+      "pdamatriz": "170793",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "5",
+      "propiedad_horizontal": "Si",
+      "seccion": "017",
+      "smp": "017-064A-031",
+      "smp_anterior": "017-064A-030B",
+      "smp_siguiente": "017-064A-032",
+      "srid": 4326,
+      "superficie_cubierta": "1680.00",
+      "superficie_total": "471.00",
+      "unidades_funcionales": "19",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 65,
+      "cod_calle": 7039
+    },
+    "usig_direccion_elegida": {
+      "altura": 65,
+      "cod_calle": 7039,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.424060",
+        "y": "-34.611766"
+      },
+      "direccion": "GASCON 65, CABA",
+      "nombre_calle": "GASCON",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 65,
+          "cod_calle": 7039,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.424060",
+            "y": "-34.611766"
+          },
+          "direccion": "GASCON 65, CABA",
+          "nombre_calle": "GASCON",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 65,
+          "cod_calle": 159616,
+          "cod_calle_cruce": null,
+          "cod_partido": "ituzaingo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6625763,
+            "y": -34.6593288285714
+          },
+          "direccion": "Gascon 65, Ituzaingó",
+          "nombre_calle": "Gascon",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ituzaingó",
+          "nombre_partido": "Ituzaingó",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 65,
+          "cod_calle": 76492,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5287235571429,
+            "y": -34.6745129857143
+          },
+          "direccion": "Gascón 65, La Matanza",
+          "nombre_calle": "Gascón",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "La Tablada",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 65,
+          "cod_calle": 31183,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.394442909375,
+            "y": -34.74695895
+          },
+          "direccion": "Gascón 65, Lomas de Zamora",
+          "nombre_calle": "Gascón",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Banfield",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 65,
+          "cod_calle": 68292,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_isidro",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5526710571429,
+            "y": -34.4937043964286
+          },
+          "direccion": "Gascón 65, San Isidro",
+          "nombre_calle": "Gascón",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Boulogne Sur Mer",
+          "nombre_partido": "San Isidro",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  103654.74210362282,
+                  101974.23714729189
+                ],
+                [
+                  103658.1530533152,
+                  101967.51510140975
+                ],
+                [
+                  103650.31607823646,
+                  101963.42714976697
+                ],
+                [
+                  103649.9659771631,
+                  101963.24402574424
+                ],
+                [
+                  103646.50897717102,
+                  101961.44102575158
+                ],
+                [
+                  103639.41397718841,
+                  101957.74002576791
+                ],
+                [
+                  103630.14447721129,
+                  101952.9049257886
+                ],
+                [
+                  103629.29557721278,
+                  101952.46212579022
+                ],
+                [
+                  103626.3699772201,
+                  101950.93602579634
+                ],
+                [
+                  103623.84097722614,
+                  101949.61702580182
+                ],
+                [
+                  103620.69017723379,
+                  101947.97352580947
+                ],
+                [
+                  103616.882057321,
+                  101945.98714739969
+                ],
+                [
+                  103615.88730634682,
+                  101945.4681044331
+                ],
+                [
+                  103612.64609541716,
+                  101943.77755268244
+                ],
+                [
+                  103611.47190108403,
+                  101943.16494282178
+                ],
+                [
+                  103606.51670090071,
+                  101940.57955464913
+                ],
+                [
+                  103605.45767990714,
+                  101940.02730855774
+                ],
+                [
+                  103604.89908615849,
+                  101939.73592672305
+                ],
+                [
+                  103603.62406174751,
+                  101939.07113180403
+                ],
+                [
+                  103603.3910905571,
+                  101939.51412496701
+                ],
+                [
+                  103602.92404954344,
+                  101940.39809713286
+                ],
+                [
+                  103600.20005053155,
+                  101945.5641127454
+                ],
+                [
+                  103599.96707934112,
+                  101946.00612934591
+                ],
+                [
+                  103603.06009691175,
+                  101947.60012347973
+                ],
+                [
+                  103607.47797727231,
+                  101949.87702581406
+                ],
+                [
+                  103609.73297726671,
+                  101951.03902580868
+                ],
+                [
+                  103610.28097726585,
+                  101951.32202580731
+                ],
+                [
+                  103612.36209884241,
+                  101952.39412980693
+                ],
+                [
+                  103613.36606612516,
+                  101952.91213517581
+                ],
+                [
+                  103616.56406416428,
+                  101954.56014542273
+                ],
+                [
+                  103619.33609784901,
+                  101955.98910049474
+                ],
+                [
+                  103619.4570695284,
+                  101956.0511122132
+                ],
+                [
+                  103622.0571061432,
+                  101957.391139063
+                ],
+                [
+                  103622.35910809561,
+                  101957.54714492167
+                ],
+                [
+                  103622.8769772353,
+                  101957.81402578013
+                ],
+                [
+                  103625.74697722847,
+                  101959.2930257732
+                ],
+                [
+                  103628.06897722257,
+                  101960.4900257687
+                ],
+                [
+                  103635.95097720374,
+                  101964.55202575133
+                ],
+                [
+                  103637.55497719921,
+                  101965.37902574739
+                ],
+                [
+                  103637.93197719862,
+                  101965.57302574668
+                ],
+                [
+                  103638.79897719613,
+                  101966.02002574445
+                ],
+                [
+                  103641.54097719006,
+                  101967.4330257391
+                ],
+                [
+                  103646.52997717808,
+                  101970.00502572785
+                ],
+                [
+                  103654.74210362282,
+                  101974.23714729189
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "017-064A-031",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "GASCON 65",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.42373509687825,
+      -34.61162527029515
+    ],
+    "direccion": "GASCON 65",
+    "fondo": "58.88",
+    "frente": "8.00",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "064A",
+    "parcela": "031",
+    "pdamatriz": "170793",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "5",
+    "propiedad_horizontal": "Si",
+    "puertas": [
+      {
+        "altura": 65,
+        "calle": "GASCON",
+        "codigo_calle": 7039,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "017",
+    "smp": "017-064A-031",
+    "smp_anterior": "017-064A-030B",
+    "smp_siguiente": "017-064A-032",
+    "srid": 4326,
+    "superficie_cubierta": "1680.00",
+    "superficie_total": "471.00",
+    "unidades_funcionales": "19",
+    "vuc": "0.00"
+  },
+  "smp": "017-064A-031"
+}

@@ -1,0 +1,358 @@
+{
+  "area_m2": 125.32920932769775,
+  "centroide_lonlat": {
+    "lat": -34.549071,
+    "lon": -58.495595
+  },
+  "centroide_xy": {
+    "x": 97035.59791366784,
+    "y": 108896.34128246778
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.0,
+          "fot_perim_libre": 1.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/1/89/055-162-023_0000239189.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION055/055-162-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION055/PI-055-162-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "055-162-022",
+            "055-162-024"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R1b I",
+          "incidencia_uva": 430.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 11639.09
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 125.313150000002,
+        "sup_max_edificable": 607.5,
+        "superficie_parcela": 125.3,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "055-162-023"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Saavedra",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1430",
+    "codigo_postal_argentino": "C1430DBI",
+    "comisaria": "49",
+    "comisaria_vecinal": "12A",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "55"
+  },
+  "debug": {
+    "address": "VEDIA 4511",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.49559549384551,
+        -34.54907097435475
+      ],
+      "direccion": "ACHA, MARIANO, GRAL. 4902",
+      "fondo": "27.45",
+      "frente": "4.59",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "162",
+      "parcela": "023",
+      "pdamatriz": "359174",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "055",
+      "smp": "055-162-023",
+      "smp_anterior": "055-162-022",
+      "smp_siguiente": "055-162-024",
+      "srid": 4326,
+      "superficie_cubierta": "180.00",
+      "superficie_total": "126.00",
+      "unidades_funcionales": "2",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4511,
+      "cod_calle": 23016
+    },
+    "usig_direccion_elegida": {
+      "altura": 4511,
+      "cod_calle": 23016,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.495547",
+        "y": "-34.549145"
+      },
+      "direccion": "VEDIA 4511, CABA",
+      "nombre_calle": "VEDIA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4511,
+          "cod_calle": 23016,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.495547",
+            "y": "-34.549145"
+          },
+          "direccion": "VEDIA 4511, CABA",
+          "nombre_calle": "VEDIA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 4511,
+          "cod_calle": 40482,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "direccion": "Agustín De Vedia 4511, La Matanza",
+          "nombre_calle": "Agustín De Vedia",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "La Tablada",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97030.43200094148,
+                  108891.20301129803
+                ],
+                [
+                  97027.21800095448,
+                  108896.11201128666
+                ],
+                [
+                  97030.42900094615,
+                  108898.09201127916
+                ],
+                [
+                  97031.85100094308,
+                  108898.96901127501
+                ],
+                [
+                  97033.68100093889,
+                  108900.09701127096
+                ],
+                [
+                  97036.41800093224,
+                  108901.7840112641
+                ],
+                [
+                  97037.76700092942,
+                  108902.61601126115
+                ],
+                [
+                  97040.26600092347,
+                  108904.15701125422
+                ],
+                [
+                  97042.53000091456,
+                  108900.26001126357
+                ],
+                [
+                  97041.56000091245,
+                  108894.6700112801
+                ],
+                [
+                  97038.08500092088,
+                  108892.45601128924
+                ],
+                [
+                  97036.55100092446,
+                  108891.47901129315
+                ],
+                [
+                  97035.54100092703,
+                  108890.83501129542
+                ],
+                [
+                  97034.5260009288,
+                  108890.18801129813
+                ],
+                [
+                  97032.10600093455,
+                  108888.64601130388
+                ],
+                [
+                  97030.61500094092,
+                  108890.92301129937
+                ],
+                [
+                  97030.43200094148,
+                  108891.20301129803
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "055-162-023",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "VEDIA 4511",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 2,
+    "centroide": [
+      -58.49559549384551,
+      -34.54907097435475
+    ],
+    "direccion": "ACHA, MARIANO, GRAL. 4902",
+    "fondo": "27.45",
+    "frente": "4.59",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "162",
+    "parcela": "023",
+    "pdamatriz": "359174",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "Si",
+    "puertas": [
+      {
+        "altura": 4902,
+        "calle": "ACHA, MARIANO, GRAL.",
+        "codigo_calle": 1009,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      },
+      {
+        "altura": 4511,
+        "calle": "VEDIA",
+        "codigo_calle": 23016,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "055",
+    "smp": "055-162-023",
+    "smp_anterior": "055-162-022",
+    "smp_siguiente": "055-162-024",
+    "srid": 4326,
+    "superficie_cubierta": "180.00",
+    "superficie_total": "126.00",
+    "unidades_funcionales": "2",
+    "vuc": "0.00"
+  },
+  "smp": "055-162-023"
+}

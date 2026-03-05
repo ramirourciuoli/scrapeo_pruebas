@@ -1,0 +1,441 @@
+{
+  "area_m2": 338.52240085601807,
+  "centroide_lonlat": {
+    "lat": -34.609588,
+    "lon": -58.512667
+  },
+  "centroide_xy": {
+    "x": 95471.91196446121,
+    "y": 102182.2709440003
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/4/03/087-095-010_0000200403.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION087/087-095-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION087/PI-087-095-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "087-095-015",
+            "087-095-009",
+            "087-095-013",
+            "087-095-011",
+            "087-095-014"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 100.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 338.535600000251,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 338.5,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "087-095-010"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. A. ZUBIZARRETA",
+    "barrio": "Villa Devoto",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1417",
+    "codigo_postal_argentino": "C1417BHV",
+    "comisaria": "45",
+    "comisaria_vecinal": "11B",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "87"
+  },
+  "debug": {
+    "address": "MARCOS PAZ 3280",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.512666725772256,
+        -34.60958759599394
+      ],
+      "direccion": "PAZ, MARCOS 3280",
+      "fondo": "38.41",
+      "frente": "8.80",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "095",
+      "parcela": "010",
+      "pdamatriz": "278871",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "087",
+      "smp": "087-095-010",
+      "smp_anterior": "087-095-009",
+      "smp_siguiente": "087-095-011",
+      "srid": 4326,
+      "superficie_cubierta": "332.00",
+      "superficie_total": "338.00",
+      "unidades_funcionales": "5",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3280,
+      "cod_calle": 17043
+    },
+    "usig_direccion_elegida": {
+      "altura": 3280,
+      "cod_calle": 17043,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.512467",
+        "y": "-34.609465"
+      },
+      "direccion": "PAZ, MARCOS 3280, CABA",
+      "nombre_calle": "PAZ, MARCOS",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3280,
+          "cod_calle": 17043,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.512467",
+            "y": "-34.609465"
+          },
+          "direccion": "PAZ, MARCOS 3280, CABA",
+          "nombre_calle": "PAZ, MARCOS",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3280,
+          "cod_calle": 68665,
+          "cod_calle_cruce": null,
+          "cod_partido": "jose_c_paz",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7519878666667,
+            "y": -34.5403833166667
+          },
+          "direccion": "Marcos Paz 3280, José C. Paz",
+          "nombre_calle": "Marcos Paz",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "José C. Paz",
+          "nombre_partido": "José C. Paz",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3280,
+          "cod_calle": 223891,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "direccion": "Marcos Paz 3280, La Matanza",
+          "nombre_calle": "Marcos Paz",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Gregorio de Laferrere",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  95454.14400030597,
+                  102173.7300313235
+                ],
+                [
+                  95455.90400030189,
+                  102175.12903131751
+                ],
+                [
+                  95457.00000029936,
+                  102176.00103131466
+                ],
+                [
+                  95457.0860002993,
+                  102176.0690313144
+                ],
+                [
+                  95457.37200029896,
+                  102176.29603131345
+                ],
+                [
+                  95460.1040002928,
+                  102178.46903130488
+                ],
+                [
+                  95460.57400029147,
+                  102178.84203130403
+                ],
+                [
+                  95461.08000029044,
+                  102179.2450313025
+                ],
+                [
+                  95464.71000028231,
+                  102182.13003129145
+                ],
+                [
+                  95467.34100027654,
+                  102184.2220312838
+                ],
+                [
+                  95467.6740002755,
+                  102184.48703128248
+                ],
+                [
+                  95471.56900026738,
+                  102187.5840312709
+                ],
+                [
+                  95474.37700026136,
+                  102189.81603126234
+                ],
+                [
+                  95477.7330002536,
+                  102192.48503125302
+                ],
+                [
+                  95478.512000252,
+                  102193.10503125086
+                ],
+                [
+                  95479.76400024958,
+                  102194.10003124629
+                ],
+                [
+                  95481.61200024482,
+                  102195.57003124146
+                ],
+                [
+                  95484.44500023911,
+                  102197.82203123241
+                ],
+                [
+                  95489.68000021858,
+                  102190.81203124835
+                ],
+                [
+                  95485.15800022866,
+                  102187.21703126203
+                ],
+                [
+                  95482.53400023459,
+                  102185.13003126963
+                ],
+                [
+                  95482.28500023532,
+                  102184.93203127052
+                ],
+                [
+                  95481.90800023584,
+                  102184.63303127198
+                ],
+                [
+                  95479.13200024233,
+                  102182.42503127971
+                ],
+                [
+                  95475.98900024913,
+                  102179.92703128935
+                ],
+                [
+                  95475.3710002507,
+                  102179.43503129066
+                ],
+                [
+                  95473.8830002541,
+                  102178.25203129588
+                ],
+                [
+                  95471.74400025839,
+                  102176.55203130207
+                ],
+                [
+                  95470.39500026093,
+                  102175.47903130623
+                ],
+                [
+                  95469.52400026353,
+                  102174.78603130885
+                ],
+                [
+                  95465.57900027193,
+                  102171.65003132069
+                ],
+                [
+                  95462.6040002789,
+                  102169.28503132932
+                ],
+                [
+                  95459.37700028605,
+                  102166.71903133832
+                ],
+                [
+                  95456.70300029567,
+                  102170.30203133085
+                ],
+                [
+                  95454.14400030597,
+                  102173.7300313235
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "087-095-010",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MARCOS PAZ 3280",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.512666725772256,
+      -34.60958759599394
+    ],
+    "direccion": "PAZ, MARCOS 3280",
+    "fondo": "38.41",
+    "frente": "8.80",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "095",
+    "parcela": "010",
+    "pdamatriz": "278871",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "Si",
+    "puertas": [
+      {
+        "altura": 3280,
+        "calle": "PAZ, MARCOS",
+        "codigo_calle": 17043,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "087",
+    "smp": "087-095-010",
+    "smp_anterior": "087-095-009",
+    "smp_siguiente": "087-095-011",
+    "srid": 4326,
+    "superficie_cubierta": "332.00",
+    "superficie_total": "338.00",
+    "unidades_funcionales": "5",
+    "vuc": "0.00"
+  },
+  "smp": "087-095-010"
+}

@@ -1,0 +1,292 @@
+{
+  "area_m2": 72.00846576690674,
+  "centroide_lonlat": {
+    "lat": -34.678538,
+    "lon": -58.466653
+  },
+  "centroide_xy": {
+    "x": 99692.70548704012,
+    "y": 94534.2802003224
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 0.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "UBP",
+            "distrito_especifico": "UBP 8"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 0.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/3/90/066-011T-010_0000340390.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION066/066-011T-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION066/PI-066-011T-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "066-011T-016",
+            "066-011T-011",
+            "066-011T-017",
+            "066-011T-009",
+            "066-011T-015"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "U8",
+          "incidencia_uva": 0.0,
+          "plusvalia_em": 0.0,
+          "plusvalia_pl": 0.0,
+          "plusvalia_sl": 0.0
+        },
+        "rivolta": 0,
+        "subzona": "Zona 3",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 72.0,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "066-011T-010"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DRA. CECILIA GRIERSON",
+    "barrio": "Villa Lugano",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1439",
+    "codigo_postal_argentino": "C1439CLD",
+    "comisaria": "52",
+    "comisaria_vecinal": "8A",
+    "comuna": "Comuna 8",
+    "distrito_economico": "DISTRITO DEL DEPORTE",
+    "distrito_escolar": "Distrito Escolar   XXI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "66"
+  },
+  "debug": {
+    "address": "CORONEL MARTINIANO CHILAVERT 5384",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.466653000719646,
+        -34.678537741535685
+      ],
+      "direccion": "CHILAVERT, MARTINIANO, CORONEL 5384",
+      "fondo": "12.00",
+      "frente": "6.00",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "011T",
+      "parcela": "010",
+      "pdamatriz": "98224",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "0",
+      "propiedad_horizontal": "No",
+      "seccion": "066",
+      "smp": "066-011T-010",
+      "smp_anterior": "066-011T-009",
+      "smp_siguiente": "066-011T-011",
+      "srid": 4326,
+      "superficie_cubierta": "0.00",
+      "superficie_total": "72.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 5384,
+      "cod_calle": 3229
+    },
+    "usig_direccion_elegida": {
+      "altura": 5384,
+      "cod_calle": 3229,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.466746",
+        "y": "-34.678465"
+      },
+      "direccion": "CHILAVERT, MARTINIANO, CORONEL 5384, CABA",
+      "nombre_calle": "CHILAVERT, MARTINIANO, CORONEL",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 5384,
+          "cod_calle": 3229,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.466746",
+            "y": "-34.678465"
+          },
+          "direccion": "CHILAVERT, MARTINIANO, CORONEL 5384, CABA",
+          "nombre_calle": "CHILAVERT, MARTINIANO, CORONEL",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99686.28198268842,
+                  94536.21804955724
+                ],
+                [
+                  99690.4019826804,
+                  94540.58104954049
+                ],
+                [
+                  99699.12798264917,
+                  94532.3420495576
+                ],
+                [
+                  99695.0119826574,
+                  94527.97904957218
+                ],
+                [
+                  99686.28198268842,
+                  94536.21804955724
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "066-011T-010",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CORONEL MARTINIANO CHILAVERT 5384",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.466653000719646,
+      -34.678537741535685
+    ],
+    "direccion": "CHILAVERT, MARTINIANO, CORONEL 5384",
+    "fondo": "12.00",
+    "frente": "6.00",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "011T",
+    "parcela": "010",
+    "pdamatriz": "98224",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "0",
+    "propiedad_horizontal": "No",
+    "puertas": [
+      {
+        "altura": 5384,
+        "calle": "CHILAVERT, MARTINIANO, CORONEL",
+        "codigo_calle": 3229,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "066",
+    "smp": "066-011T-010",
+    "smp_anterior": "066-011T-009",
+    "smp_siguiente": "066-011T-011",
+    "srid": 4326,
+    "superficie_cubierta": "0.00",
+    "superficie_total": "72.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "066-011T-010"
+}

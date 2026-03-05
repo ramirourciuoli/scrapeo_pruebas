@@ -1,0 +1,381 @@
+{
+  "area_m2": 84.72094249725342,
+  "centroide_lonlat": {
+    "lat": -34.569778,
+    "lon": -58.480523
+  },
+  "centroide_xy": {
+    "x": 98419.531720937,
+    "y": 106599.57746625188
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/62/053-061-009_0000460062.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION053/053-061-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION053/PI-053-061-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "053-061-007",
+            "053-061-008",
+            "053-061-010"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 380.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 84.7454499999963,
+        "sup_max_edificable": 384.9,
+        "superficie_parcela": 84.7,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "053-061-009"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Villa Urquiza",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1430",
+    "codigo_postal_argentino": "C1430EBQ",
+    "comisaria": "39",
+    "comisaria_vecinal": "12C",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "53"
+  },
+  "debug": {
+    "address": "LUGONES 2585",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.48052257420098,
+        -34.56977770444319
+      ],
+      "direccion": "LUGONES 2585",
+      "fondo": "8.70",
+      "frente": "10.00",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "061",
+      "parcela": "009",
+      "pdamatriz": "345362",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "053",
+      "smp": "053-061-009",
+      "smp_anterior": "053-061-008",
+      "smp_siguiente": "053-061-010",
+      "srid": 4326,
+      "superficie_cubierta": "140.00",
+      "superficie_total": "87.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2585,
+      "cod_calle": 12151
+    },
+    "usig_direccion_elegida": {
+      "altura": 2585,
+      "cod_calle": 12151,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.480596",
+        "y": "-34.569823"
+      },
+      "direccion": "LUGONES 2585, CABA",
+      "nombre_calle": "LUGONES",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2585,
+          "cod_calle": 12151,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.480596",
+            "y": "-34.569823"
+          },
+          "direccion": "LUGONES 2585, CABA",
+          "nombre_calle": "LUGONES",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2585,
+          "cod_calle": 404232,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4351549,
+            "y": -34.7594962581633
+          },
+          "direccion": "Leopoldo Lugones 2585, Lomas de Zamora",
+          "nombre_calle": "Leopoldo Lugones",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lomas de Zamora",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2585,
+          "cod_calle": 65243,
+          "cod_calle_cruce": null,
+          "cod_partido": "moreno",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.821420082653,
+            "y": -34.6281475928571
+          },
+          "direccion": "Leopoldo Lugones 2585, Moreno",
+          "nombre_calle": "Leopoldo Lugones",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "La Reja",
+          "nombre_partido": "Moreno",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2585,
+          "cod_calle": 108882,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_fernando",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5619665757576,
+            "y": -34.4601423878788
+          },
+          "direccion": "Leopoldo Lugones 2585, San Fernando",
+          "nombre_calle": "Leopoldo Lugones",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Victoria",
+          "nombre_partido": "San Fernando",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98422.08999531675,
+                  106603.36601666649
+                ],
+                [
+                  98423.82899531024,
+                  106601.00301667146
+                ],
+                [
+                  98423.93399531013,
+                  106600.86101667123
+                ],
+                [
+                  98425.91199530209,
+                  106598.17401667844
+                ],
+                [
+                  98422.98699530805,
+                  106596.01301668628
+                ],
+                [
+                  98421.2609953124,
+                  106594.73701669116
+                ],
+                [
+                  98421.09999531222,
+                  106594.61801669188
+                ],
+                [
+                  98419.65199531628,
+                  106593.54801669583
+                ],
+                [
+                  98418.99299531768,
+                  106593.06101669779
+                ],
+                [
+                  98413.14699533976,
+                  106600.97301668063
+                ],
+                [
+                  98415.67999533445,
+                  106602.84501667318
+                ],
+                [
+                  98417.14099533114,
+                  106603.92501666912
+                ],
+                [
+                  98418.25999532813,
+                  106604.75201666774
+                ],
+                [
+                  98420.07999532456,
+                  106606.09701666073
+                ],
+                [
+                  98422.08999531675,
+                  106603.36601666649
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "053-061-009",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "LUGONES 2585",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.48052257420098,
+      -34.56977770444319
+    ],
+    "direccion": "LUGONES 2585",
+    "fondo": "8.70",
+    "frente": "10.00",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "061",
+    "parcela": "009",
+    "pdamatriz": "345362",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [
+      {
+        "altura": 2585,
+        "calle": "LUGONES",
+        "codigo_calle": 12151,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "053",
+    "smp": "053-061-009",
+    "smp_anterior": "053-061-008",
+    "smp_siguiente": "053-061-010",
+    "srid": 4326,
+    "superficie_cubierta": "140.00",
+    "superficie_total": "87.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "053-061-009"
+}

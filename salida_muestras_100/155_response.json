@@ -1,0 +1,338 @@
+{
+  "area_m2": 191.1955862045288,
+  "centroide_lonlat": {
+    "lat": -34.618925,
+    "lon": -58.419973
+  },
+  "centroide_xy": {
+    "x": 103973.65670265655,
+    "y": 101146.64912767237
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/3/81/036-096-001e_0000297381.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION036/036-096-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION036/PI-036-096-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "036-096-001f",
+            "036-096-001c",
+            "036-096-001a"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 160.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 191.137100000096,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 191.2,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "036-096-001E"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Almagro",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1224",
+    "codigo_postal_argentino": "C1224ABP",
+    "comisaria": "10",
+    "comisaria_vecinal": "5B",
+    "comuna": "Comuna 5",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "36"
+  },
+  "debug": {
+    "address": "AGRELO 3820",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.41997302053557,
+        -34.61892519521839
+      ],
+      "direccion": "AGRELO 3820",
+      "fondo": "15.16",
+      "frente": "12.80",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "096",
+      "parcela": "001E",
+      "pdamatriz": "160545",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "4",
+      "propiedad_horizontal": "Si",
+      "seccion": "036",
+      "smp": "036-096-001E",
+      "smp_anterior": "036-096-001C",
+      "smp_siguiente": "036-096-001F",
+      "srid": 4326,
+      "superficie_cubierta": "581.00",
+      "superficie_total": "194.00",
+      "unidades_funcionales": "7",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3820,
+      "cod_calle": 1018
+    },
+    "usig_direccion_elegida": {
+      "altura": 3820,
+      "cod_calle": 1018,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.419984",
+        "y": "-34.618832"
+      },
+      "direccion": "AGRELO 3820, CABA",
+      "nombre_calle": "AGRELO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3820,
+          "cod_calle": 1018,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.419984",
+            "y": "-34.618832"
+          },
+          "direccion": "AGRELO 3820, CABA",
+          "nombre_calle": "AGRELO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  103966.79997566476,
+                  101153.33002777718
+                ],
+                [
+                  103967.7959756623,
+                  101153.42002777607
+                ],
+                [
+                  103969.28997565815,
+                  101153.5550277743
+                ],
+                [
+                  103970.28597565573,
+                  101153.64502777322
+                ],
+                [
+                  103971.77997565159,
+                  101153.78002777236
+                ],
+                [
+                  103974.59197564381,
+                  101154.03402776929
+                ],
+                [
+                  103976.08497563949,
+                  101154.16802776736
+                ],
+                [
+                  103977.0799756369,
+                  101154.25802776715
+                ],
+                [
+                  103978.57297563257,
+                  101154.39302776547
+                ],
+                [
+                  103979.56797563,
+                  101154.48302776428
+                ],
+                [
+                  103980.13497562322,
+                  101147.87102778268
+                ],
+                [
+                  103980.84897561556,
+                  101139.55402780467
+                ],
+                [
+                  103970.50197564454,
+                  101139.56802781287
+                ],
+                [
+                  103967.01597565378,
+                  101139.57302781535
+                ],
+                [
+                  103966.92697565864,
+                  101145.23302779975
+                ],
+                [
+                  103966.86597566195,
+                  101149.09602778882
+                ],
+                [
+                  103966.79997566476,
+                  101153.33002777718
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "036-096-001E",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AGRELO 3820",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.41997302053557,
+      -34.61892519521839
+    ],
+    "direccion": "AGRELO 3820",
+    "fondo": "15.16",
+    "frente": "12.80",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "096",
+    "parcela": "001E",
+    "pdamatriz": "160545",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "4",
+    "propiedad_horizontal": "Si",
+    "puertas": [
+      {
+        "altura": 3820,
+        "calle": "AGRELO",
+        "codigo_calle": 1018,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "036",
+    "smp": "036-096-001E",
+    "smp_anterior": "036-096-001C",
+    "smp_siguiente": "036-096-001F",
+    "srid": 4326,
+    "superficie_cubierta": "581.00",
+    "superficie_total": "194.00",
+    "unidades_funcionales": "7",
+    "vuc": "0.00"
+  },
+  "smp": "036-096-001E"
+}

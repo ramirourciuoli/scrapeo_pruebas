@@ -1,0 +1,351 @@
+{
+  "area_m2": 252.69018268585205,
+  "centroide_lonlat": {
+    "lat": -34.570145,
+    "lon": -58.451616
+  },
+  "centroide_xy": {
+    "x": 101072.2284226813,
+    "y": 106558.91836662321
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 2.84,
+          "fot_perim_libre": 2.84,
+          "fot_semi_libre": 2.84
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/9/27/037-132-010_0000093927.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION037/037-132-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION037/PI-037-132-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": true,
+          "smp_linderas": [
+            "037-132-005",
+            "037-132-007b",
+            "037-132-006",
+            "037-132-011"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2a II",
+          "incidencia_uva": 550.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 147.875419926795,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 252.7,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "037-132-010"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Colegiales",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1426",
+    "codigo_postal_argentino": "C1426ALK",
+    "comisaria": "33",
+    "comisaria_vecinal": "13C",
+    "comuna": "Comuna 13",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   IX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "37"
+  },
+  "debug": {
+    "address": "MOLDES 1163",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.45161572847702,
+        -34.57014487203279
+      ],
+      "direccion": "MOLDES 1163",
+      "fondo": "29.22",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "132",
+      "parcela": "010",
+      "pdamatriz": "410188",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "037",
+      "smp": "037-132-010",
+      "smp_anterior": "037-132-007B",
+      "smp_siguiente": "037-132-011",
+      "srid": 4326,
+      "superficie_cubierta": "182.00",
+      "superficie_total": "253.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1163,
+      "cod_calle": 13099
+    },
+    "usig_direccion_elegida": {
+      "altura": 1163,
+      "cod_calle": 13099,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.451727",
+        "y": "-34.570277"
+      },
+      "direccion": "MOLDES 1163, CABA",
+      "nombre_calle": "MOLDES",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1163,
+          "cod_calle": 13099,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.451727",
+            "y": "-34.570277"
+          },
+          "direccion": "MOLDES 1163, CABA",
+          "nombre_calle": "MOLDES",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  101060.78698787559,
+                  106549.2330148324
+                ],
+                [
+                  101063.3739878716,
+                  106553.23201481908
+                ],
+                [
+                  101064.07598787095,
+                  106554.31801481562
+                ],
+                [
+                  101068.3859878635,
+                  106560.979014794
+                ],
+                [
+                  101069.74398786125,
+                  106563.07801478659
+                ],
+                [
+                  101069.85198786108,
+                  106563.24601478653
+                ],
+                [
+                  101071.82898785782,
+                  106566.3020147763
+                ],
+                [
+                  101076.53898785009,
+                  106573.65201475183
+                ],
+                [
+                  101080.37398783724,
+                  106570.9370147567
+                ],
+                [
+                  101081.2749878348,
+                  106570.2990147575
+                ],
+                [
+                  101083.64198782653,
+                  106568.62401476066
+                ],
+                [
+                  101082.28898782861,
+                  106566.51901476804
+                ],
+                [
+                  101078.55498783452,
+                  106560.70801478645
+                ],
+                [
+                  101076.88298783789,
+                  106558.10701479518
+                ],
+                [
+                  101076.23098783828,
+                  106557.0920147989
+                ],
+                [
+                  101074.75498784092,
+                  106554.79601480637
+                ],
+                [
+                  101073.88998784212,
+                  106553.44901481067
+                ],
+                [
+                  101072.55398784416,
+                  106551.37101481782
+                ],
+                [
+                  101067.96698785228,
+                  106544.23301484098
+                ],
+                [
+                  101060.78698787559,
+                  106549.2330148324
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "037-132-010",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MOLDES 1163",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.45161572847702,
+      -34.57014487203279
+    ],
+    "direccion": "MOLDES 1163",
+    "fondo": "29.22",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "132",
+    "parcela": "010",
+    "pdamatriz": "410188",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [
+      {
+        "altura": 1163,
+        "calle": "MOLDES",
+        "codigo_calle": 13099,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "037",
+    "smp": "037-132-010",
+    "smp_anterior": "037-132-007B",
+    "smp_siguiente": "037-132-011",
+    "srid": 4326,
+    "superficie_cubierta": "182.00",
+    "superficie_total": "253.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "037-132-010"
+}

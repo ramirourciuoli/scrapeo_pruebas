@@ -1,0 +1,555 @@
+{
+  "area_m2": 165.8859167098999,
+  "centroide_lonlat": {
+    "lat": -34.615847,
+    "lon": -58.415977
+  },
+  "centroide_xy": {
+    "x": 104340.28209366926,
+    "y": 101487.97290287538
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 38.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/3/25/028-004-002_0000458325.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION028/028-004-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION028/PI-028-004-V4.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "DI-2021-2311-GCABA-DGIUR",
+          "pdf": "028-004.pdf"
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "028-004-001",
+            "028-004-003",
+            "028-004-052"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 100.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 165.916200000021,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 165.9,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "028-004-002"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. J.M. RAMOS MEJÍA",
+    "barrio": "Almagro",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1210",
+    "codigo_postal_argentino": "C1210AAQ",
+    "comisaria": "8",
+    "comisaria_vecinal": "5A",
+    "comuna": "Comuna 5",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "28"
+  },
+  "debug": {
+    "address": "AV. BELGRANO 3512",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.41597723951539,
+        -34.61584694370394
+      ],
+      "direccion": "BELGRANO AV. 3512",
+      "fondo": "22.13",
+      "frente": "7.41",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "004",
+      "parcela": "002",
+      "pdamatriz": "195064",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "4",
+      "propiedad_horizontal": "Si",
+      "seccion": "028",
+      "smp": "028-004-002",
+      "smp_anterior": "028-004-001",
+      "smp_siguiente": "028-004-003",
+      "srid": 4326,
+      "superficie_cubierta": "495.00",
+      "superficie_total": "164.00",
+      "unidades_funcionales": "3",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3512,
+      "cod_calle": 2051
+    },
+    "usig_direccion_elegida": {
+      "altura": 3512,
+      "cod_calle": 2051,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.415989",
+        "y": "-34.615709"
+      },
+      "direccion": "BELGRANO AV. 3512, CABA",
+      "nombre_calle": "BELGRANO AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3512,
+          "cod_calle": 2051,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.415989",
+            "y": "-34.615709"
+          },
+          "direccion": "BELGRANO AV. 3512, CABA",
+          "nombre_calle": "BELGRANO AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3512,
+          "cod_calle": 307296,
+          "cod_calle_cruce": null,
+          "cod_partido": "avellaneda",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3434949142857,
+            "y": -34.6870729755102
+          },
+          "direccion": "Avenida Belgrano 3512, Avellaneda",
+          "nombre_calle": "Avenida Belgrano",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Sarandí",
+          "nombre_partido": "Avellaneda",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3512,
+          "cod_calle": 329252,
+          "cod_calle_cruce": null,
+          "cod_partido": "berazategui",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.2302656928572,
+            "y": -34.7982903642857
+          },
+          "direccion": "Camino General Belgrano 3512, Berazategui",
+          "nombre_calle": "Camino General Belgrano",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Sourigues",
+          "nombre_partido": "Berazategui",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3512,
+          "cod_calle": 48377,
+          "cod_calle_cruce": null,
+          "cod_partido": "general_san_martin",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5353149346939,
+            "y": -34.5760066979592
+          },
+          "direccion": "52 - Belgrano 3512, General San Martín",
+          "nombre_calle": "52 - Belgrano",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "General San Martín",
+          "nombre_partido": "General San Martín",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3512,
+          "cod_calle": 66834,
+          "cod_calle_cruce": null,
+          "cod_partido": "general_san_martin",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5640043979592,
+            "y": -34.5759336061225
+          },
+          "direccion": "123 - General Manuel Belgrano 3512, General San Martín",
+          "nombre_calle": "123 - General Manuel Belgrano",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Billinghurst",
+          "nombre_partido": "General San Martín",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3512,
+          "cod_calle": 31713,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3498727836735,
+            "y": -34.7128019663265
+          },
+          "direccion": "Camino General Belgrano 3512, Lanús",
+          "nombre_calle": "Camino General Belgrano",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lanús Este",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3512,
+          "cod_calle": 307243,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3498727836735,
+            "y": -34.7128019663265
+          },
+          "direccion": "Camino General Belgrano 3512, Lanús",
+          "nombre_calle": "Camino General Belgrano",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Monte Chingolo",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3512,
+          "cod_calle": 6577,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_plata",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.0224665265306,
+            "y": -34.8889354367347
+          },
+          "direccion": "Camino General Belgrano 3512, La Plata",
+          "nombre_calle": "Camino General Belgrano",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Manuel B. Gonnet",
+          "nombre_partido": "La Plata",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3512,
+          "cod_calle": 237357,
+          "cod_calle_cruce": null,
+          "cod_partido": "moreno",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7614391714286,
+            "y": -34.6242235673469
+          },
+          "direccion": "General Manuel Belgrano 3512, Moreno",
+          "nombre_calle": "General Manuel Belgrano",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Paso del Rey",
+          "nombre_partido": "Moreno",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3512,
+          "cod_calle": 73819,
+          "cod_calle_cruce": null,
+          "cod_partido": "tigre",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6201206061224,
+            "y": -34.4746593408163
+          },
+          "direccion": "Avenida General Manuel Belgrano 3512, Tigre",
+          "nombre_calle": "Avenida General Manuel Belgrano",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Don Torcuato",
+          "nombre_partido": "Tigre",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  104343.85497486193,
+                  101490.69902654723
+                ],
+                [
+                  104343.97397486006,
+                  101488.70302655245
+                ],
+                [
+                  104344.01797485913,
+                  101487.95902655454
+                ],
+                [
+                  104344.07797485776,
+                  101486.95602655769
+                ],
+                [
+                  104344.14897485716,
+                  101485.76202656093
+                ],
+                [
+                  104344.1959748567,
+                  101484.97502656264
+                ],
+                [
+                  104344.24897485522,
+                  101484.0760265658
+                ],
+                [
+                  104344.25897485485,
+                  101483.91102656623
+                ],
+                [
+                  104344.32897485406,
+                  101482.72702656916
+                ],
+                [
+                  104344.41897485251,
+                  101481.21502657322
+                ],
+                [
+                  104344.50497485133,
+                  101479.75602657744
+                ],
+                [
+                  104344.65797484887,
+                  101477.18802658457
+                ],
+                [
+                  104340.29297486064,
+                  101476.84102658875
+                ],
+                [
+                  104337.42397486858,
+                  101476.61302659148
+                ],
+                [
+                  104337.17197486987,
+                  101476.59302659213
+                ],
+                [
+                  104336.91497487391,
+                  101481.31102657848
+                ],
+                [
+                  104336.79797487622,
+                  101483.45102657317
+                ],
+                [
+                  104336.73097487661,
+                  101484.67202656972
+                ],
+                [
+                  104336.43997488216,
+                  101490.02002655424
+                ],
+                [
+                  104336.23897488517,
+                  101493.71302654492
+                ],
+                [
+                  104336.04897488792,
+                  101497.20302653458
+                ],
+                [
+                  104335.95997488967,
+                  101498.83502653026
+                ],
+                [
+                  104340.54697487738,
+                  101499.1780265262
+                ],
+                [
+                  104343.33897486913,
+                  101499.38702652333
+                ],
+                [
+                  104343.38997486836,
+                  101498.53802652526
+                ],
+                [
+                  104343.45197486732,
+                  101497.49002652869
+                ],
+                [
+                  104343.5649748664,
+                  101495.59302653404
+                ],
+                [
+                  104343.60597486502,
+                  101494.89802653564
+                ],
+                [
+                  104343.6589748645,
+                  101494.00102653826
+                ],
+                [
+                  104343.69097486367,
+                  101493.45802653921
+                ],
+                [
+                  104343.7379748632,
+                  101492.65802654161
+                ],
+                [
+                  104343.77097486249,
+                  101492.10702654315
+                ],
+                [
+                  104343.85497486193,
+                  101490.69902654723
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "028-004-002",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AV. BELGRANO 3512",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.41597723951539,
+      -34.61584694370394
+    ],
+    "direccion": "BELGRANO AV. 3512",
+    "fondo": "22.13",
+    "frente": "7.41",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "004",
+    "parcela": "002",
+    "pdamatriz": "195064",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "4",
+    "propiedad_horizontal": "Si",
+    "puertas": [
+      {
+        "altura": 3512,
+        "calle": "BELGRANO AV.",
+        "codigo_calle": 2051,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "028",
+    "smp": "028-004-002",
+    "smp_anterior": "028-004-001",
+    "smp_siguiente": "028-004-003",
+    "srid": 4326,
+    "superficie_cubierta": "495.00",
+    "superficie_total": "164.00",
+    "unidades_funcionales": "3",
+    "vuc": "0.00"
+  },
+  "smp": "028-004-002"
+}

@@ -1,0 +1,421 @@
+{
+  "area_m2": 275.3939094543457,
+  "centroide_lonlat": {
+    "lat": -34.672934,
+    "lon": -58.475718
+  },
+  "centroide_xy": {
+    "x": 98861.84182719604,
+    "y": 95155.857454675
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "E-CCA",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/19/066-007-008_0000022619.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION066/066-007-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION066/PI-066-007-V3.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "066-007-009",
+            "066-007-007",
+            "066-007-016",
+            "066-007-017"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 120.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 124.534370566203,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 275.4,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "066-007-008"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DRA. CECILIA GRIERSON",
+    "barrio": "Villa Lugano",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1439",
+    "codigo_postal_argentino": "C1439HQU",
+    "comisaria": "48",
+    "comisaria_vecinal": "8A",
+    "comuna": "Comuna 8",
+    "distrito_economico": "DISTRITO DEL DEPORTE",
+    "distrito_escolar": "Distrito Escolar   XXI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "66"
+  },
+  "debug": {
+    "address": "AV. ARGENTINA 5456",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.47571802046548,
+        -34.67293418992127
+      ],
+      "direccion": "ARGENTINA AV. 5456",
+      "fondo": "32.01",
+      "frente": "8.59",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "007",
+      "parcela": "008",
+      "pdamatriz": "71754",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "066",
+      "smp": "066-007-008",
+      "smp_anterior": "066-007-007",
+      "smp_siguiente": "066-007-009",
+      "srid": 4326,
+      "superficie_cubierta": "175.00",
+      "superficie_total": "275.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 5456,
+      "cod_calle": 1109
+    },
+    "usig_direccion_elegida": {
+      "altura": 5456,
+      "cod_calle": 1109,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.475741",
+        "y": "-34.672758"
+      },
+      "direccion": "ARGENTINA AV. 5456, CABA",
+      "nombre_calle": "ARGENTINA AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 5456,
+          "cod_calle": 1109,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.475741",
+            "y": "-34.672758"
+          },
+          "direccion": "ARGENTINA AV. 5456, CABA",
+          "nombre_calle": "ARGENTINA AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 5456,
+          "cod_calle": 326725,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3615078489796,
+            "y": -34.8395905571428
+          },
+          "direccion": "Avenida República Argentina 5456, Almirante Brown",
+          "nombre_calle": "Avenida República Argentina",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ministro Rivadavia",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 5456,
+          "cod_calle": 84645,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "direccion": "Argentina 5456, La Matanza",
+          "nombre_calle": "Argentina",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "La Tablada",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 5456,
+          "cod_calle": 93894,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7539392734694,
+            "y": -34.6964249693878
+          },
+          "direccion": "Avenida Argentina 5456, Merlo",
+          "nombre_calle": "Avenida Argentina",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Parque San Martín",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98856.99498549261,
+                  95171.29804839898
+                ],
+                [
+                  98857.99198548848,
+                  95171.39404839903
+                ],
+                [
+                  98865.67498546792,
+                  95172.13504838967
+                ],
+                [
+                  98865.75898546545,
+                  95169.41404839666
+                ],
+                [
+                  98865.78098546641,
+                  95168.70404839944
+                ],
+                [
+                  98865.87298546212,
+                  95165.68804840805
+                ],
+                [
+                  98866.07398545768,
+                  95159.18804842612
+                ],
+                [
+                  98866.11498545654,
+                  95157.84504842883
+                ],
+                [
+                  98866.33998545023,
+                  95150.53604845068
+                ],
+                [
+                  98866.51198544528,
+                  95144.9590484662
+                ],
+                [
+                  98866.52698544478,
+                  95144.44304846556
+                ],
+                [
+                  98866.59098544388,
+                  95142.36904847313
+                ],
+                [
+                  98866.65298544138,
+                  95140.36304847836
+                ],
+                [
+                  98864.77098544604,
+                  95140.1840484812
+                ],
+                [
+                  98858.04598546572,
+                  95139.54304848771
+                ],
+                [
+                  98857.93398546833,
+                  95142.92904847683
+                ],
+                [
+                  98857.91598546878,
+                  95143.47004847603
+                ],
+                [
+                  98857.902985469,
+                  95143.86004847483
+                ],
+                [
+                  98857.60398547634,
+                  95152.88704844969
+                ],
+                [
+                  98857.49298547865,
+                  95156.24504844128
+                ],
+                [
+                  98857.4819854796,
+                  95156.58504844083
+                ],
+                [
+                  98857.18698548755,
+                  95165.49304841479
+                ],
+                [
+                  98857.17198548833,
+                  95165.95904841402
+                ],
+                [
+                  98857.14298548813,
+                  95166.8130484114
+                ],
+                [
+                  98857.00798549154,
+                  95170.89904840066
+                ],
+                [
+                  98856.99498549261,
+                  95171.29804839898
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "066-007-008",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AV. ARGENTINA 5456",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.47571802046548,
+      -34.67293418992127
+    ],
+    "direccion": "ARGENTINA AV. 5456",
+    "fondo": "32.01",
+    "frente": "8.59",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "007",
+    "parcela": "008",
+    "pdamatriz": "71754",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [
+      {
+        "altura": 5456,
+        "calle": "ARGENTINA AV.",
+        "codigo_calle": 1109,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "066",
+    "smp": "066-007-008",
+    "smp_anterior": "066-007-007",
+    "smp_siguiente": "066-007-009",
+    "srid": 4326,
+    "superficie_cubierta": "175.00",
+    "superficie_total": "275.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "066-007-008"
+}

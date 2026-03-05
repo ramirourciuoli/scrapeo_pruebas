@@ -1,0 +1,381 @@
+{
+  "area_m2": 289.9696521759033,
+  "centroide_lonlat": {
+    "lat": -34.586685,
+    "lon": -58.513816
+  },
+  "centroide_xy": {
+    "x": 95365.21214473178,
+    "y": 104722.9662060396
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/fp/SECCION083/FP-083-205-018b-VD.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION083/083-205-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION083/PI-083-205-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "083-205-022",
+            "083-205-017",
+            "083-205-023b",
+            "083-205-019"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 110.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 289.894250000061,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 290.0,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "083-205-018B"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. A. ZUBIZARRETA",
+    "barrio": "Villa Devoto",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1419",
+    "codigo_postal_argentino": "C1419AOW",
+    "comisaria": "47",
+    "comisaria_vecinal": "11B",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "83"
+  },
+  "debug": {
+    "address": "CONCORDIA 5231",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.51381613280192,
+        -34.58668472155574
+      ],
+      "direccion": "CONCORDIA 5229",
+      "fondo": "33.60",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "205",
+      "parcela": "018B",
+      "pdamatriz": "272964",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "083",
+      "smp": "083-205-018B",
+      "smp_anterior": "083-205-017",
+      "smp_siguiente": "083-205-019",
+      "srid": 4326,
+      "superficie_cubierta": "179.00",
+      "superficie_total": "291.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 5231,
+      "cod_calle": 3151
+    },
+    "usig_direccion_elegida": {
+      "altura": 5231,
+      "cod_calle": 3151,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.514038",
+        "y": "-34.586822"
+      },
+      "direccion": "CONCORDIA 5231, CABA",
+      "nombre_calle": "CONCORDIA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 5231,
+          "cod_calle": 3151,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.514038",
+            "y": "-34.586822"
+          },
+          "direccion": "CONCORDIA 5231, CABA",
+          "nombre_calle": "CONCORDIA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 5231,
+          "cod_calle": 116186,
+          "cod_calle_cruce": null,
+          "cod_partido": "quilmes",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.2449433244898,
+            "y": -34.7600651857143
+          },
+          "direccion": "Concordia 5231, Quilmes",
+          "nombre_calle": "Concordia",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ezpeleta",
+          "nombre_partido": "Quilmes",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  95351.88000250445,
+                  104712.79502428038
+                ],
+                [
+                  95349.22800251478,
+                  104716.36602427284
+                ],
+                [
+                  95353.37800250496,
+                  104719.48402425984
+                ],
+                [
+                  95356.28300249776,
+                  104721.66602425152
+                ],
+                [
+                  95359.66900249012,
+                  104724.20902424149
+                ],
+                [
+                  95366.46500247499,
+                  104729.31402422249
+                ],
+                [
+                  95369.99700246769,
+                  104731.96702421232
+                ],
+                [
+                  95372.7520024614,
+                  104734.0360242046
+                ],
+                [
+                  95373.07200246007,
+                  104734.27702420313
+                ],
+                [
+                  95376.04100245392,
+                  104736.50702419507
+                ],
+                [
+                  95379.474002441,
+                  104731.89602420494
+                ],
+                [
+                  95379.73200243949,
+                  104731.54902420565
+                ],
+                [
+                  95381.2020024336,
+                  104729.57502421062
+                ],
+                [
+                  95378.26300244087,
+                  104727.36602421923
+                ],
+                [
+                  95377.94300244127,
+                  104727.1260242199
+                ],
+                [
+                  95374.33000244945,
+                  104724.41102423039
+                ],
+                [
+                  95371.45800245546,
+                  104722.25302423784
+                ],
+                [
+                  95361.15199858947,
+                  104714.50819537352
+                ],
+                [
+                  95356.78327553462,
+                  104711.22524621128
+                ],
+                [
+                  95354.38500249473,
+                  104709.42302428847
+                ],
+                [
+                  95351.88000250445,
+                  104712.79502428038
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "083-205-018B",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CONCORDIA 5231",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 2,
+    "centroide": [
+      -58.51381613280192,
+      -34.58668472155574
+    ],
+    "direccion": "CONCORDIA 5229",
+    "fondo": "33.60",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "205",
+    "parcela": "018B",
+    "pdamatriz": "272964",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [
+      {
+        "altura": 5229,
+        "calle": "CONCORDIA",
+        "codigo_calle": 3151,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      },
+      {
+        "altura": 5231,
+        "calle": "CONCORDIA",
+        "codigo_calle": 3151,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "083",
+    "smp": "083-205-018B",
+    "smp_anterior": "083-205-017",
+    "smp_siguiente": "083-205-019",
+    "srid": 4326,
+    "superficie_cubierta": "179.00",
+    "superficie_total": "291.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "083-205-018B"
+}

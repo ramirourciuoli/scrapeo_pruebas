@@ -1,0 +1,364 @@
+{
+  "area_m2": 250.47267150878906,
+  "centroide_lonlat": {
+    "lat": -34.541162,
+    "lon": -58.467548
+  },
+  "centroide_xy": {
+    "x": 99610.01210412207,
+    "y": 109774.1865934968
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 31"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.0,
+          "fot_perim_libre": 1.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/9/64/029-060-024_0000221964.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION029/029-060-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION029/PI-029-060-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "029-060-021",
+            "029-060-020",
+            "029-060-023",
+            "029-060-025a"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R1b I",
+          "incidencia_uva": 550.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0.0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 250.5,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "029-060-024"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Nuñez",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1429",
+    "codigo_postal_argentino": "C1429BEH",
+    "comisaria": "35",
+    "comisaria_vecinal": "13B",
+    "comuna": "Comuna 13",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   X",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "29"
+  },
+  "debug": {
+    "address": "GRECIA 4326",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.46754829117413,
+        -34.54116199282329
+      ],
+      "direccion": "GRECIA 4326",
+      "fondo": "28.52",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "060",
+      "parcela": "024",
+      "pdamatriz": "340450",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "029",
+      "smp": "029-060-024",
+      "smp_anterior": "029-060-023",
+      "smp_siguiente": "029-060-025A",
+      "srid": 4326,
+      "superficie_cubierta": "356.00",
+      "superficie_total": "247.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4326,
+      "cod_calle": 7080
+    },
+    "usig_direccion_elegida": {
+      "altura": 4326,
+      "cod_calle": 7080,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.467376",
+        "y": "-34.541075"
+      },
+      "direccion": "GRECIA 4326, CABA",
+      "nombre_calle": "GRECIA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4326,
+          "cod_calle": 7080,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.467376",
+            "y": "-34.541075"
+          },
+          "direccion": "GRECIA 4326, CABA",
+          "nombre_calle": "GRECIA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 4326,
+          "cod_calle": 21506,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4270550208233,
+            "y": -34.6960005335177
+          },
+          "direccion": "Grecia 4326, Lanús",
+          "nombre_calle": "Grecia",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lanús Oeste",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99621.3049943414,
+                  109776.0430068663
+                ],
+                [
+                  99620.86699434233,
+                  109775.77300686785
+                ],
+                [
+                  99613.35999436064,
+                  109771.13700688654
+                ],
+                [
+                  99613.1819943607,
+                  109771.02700688667
+                ],
+                [
+                  99609.04399437015,
+                  109768.47200689724
+                ],
+                [
+                  99607.47799437416,
+                  109767.5050069009
+                ],
+                [
+                  99600.09008228192,
+                  109762.94312215378
+                ],
+                [
+                  99599.51006519442,
+                  109763.88111043282
+                ],
+                [
+                  99595.4799944103,
+                  109770.40000690232
+                ],
+                [
+                  99604.45999438879,
+                  109775.89200687982
+                ],
+                [
+                  99609.15599437826,
+                  109778.76400686862
+                ],
+                [
+                  99611.0039943732,
+                  109779.89400686396
+                ],
+                [
+                  99613.95799436621,
+                  109781.70000685652
+                ],
+                [
+                  99616.75599436004,
+                  109783.41100684975
+                ],
+                [
+                  99620.0489943519,
+                  109785.42500684116
+                ],
+                [
+                  99624.55099433407,
+                  109778.04800685908
+                ],
+                [
+                  99622.79699433845,
+                  109776.96500686283
+                ],
+                [
+                  99622.03999434003,
+                  109776.4970068653
+                ],
+                [
+                  99621.3049943414,
+                  109776.0430068663
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "029-060-024",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "GRECIA 4326",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.46754829117413,
+      -34.54116199282329
+    ],
+    "direccion": "GRECIA 4326",
+    "fondo": "28.52",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "060",
+    "parcela": "024",
+    "pdamatriz": "340450",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [
+      {
+        "altura": 4326,
+        "calle": "GRECIA",
+        "codigo_calle": 7080,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "029",
+    "smp": "029-060-024",
+    "smp_anterior": "029-060-023",
+    "smp_siguiente": "029-060-025A",
+    "srid": 4326,
+    "superficie_cubierta": "356.00",
+    "superficie_total": "247.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "029-060-024"
+}

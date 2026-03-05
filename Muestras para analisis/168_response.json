@@ -1,0 +1,418 @@
+{
+  "area_m2": 362.18412590026855,
+  "centroide_lonlat": {
+    "lat": -34.633439,
+    "lon": -58.412223
+  },
+  "centroide_xy": {
+    "x": 104683.6304940067,
+    "y": 99536.25407068744
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/9/84/032-046-009_0000318984.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION032/032-046-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION032/PI-032-046-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "032-046-010",
+            "032-046-011b",
+            "032-046-008"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 307.458627636733,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 362.2,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "032-046-009"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.M. PENNA",
+    "barrio": "Boedo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1259",
+    "codigo_postal_argentino": "C1259ABP",
+    "comisaria": "32",
+    "comisaria_vecinal": "5B",
+    "comuna": "Comuna 5",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "32"
+  },
+  "debug": {
+    "address": "SALCEDO 3352",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.41222288672549,
+        -34.63343859154317
+      ],
+      "direccion": "SALCEDO 3352",
+      "fondo": "47.62",
+      "frente": "7.79",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "046",
+      "parcela": "009",
+      "pdamatriz": "103842",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "032",
+      "smp": "032-046-009",
+      "smp_anterior": "032-046-008",
+      "smp_siguiente": "032-046-010",
+      "srid": 4326,
+      "superficie_cubierta": "429.00",
+      "superficie_total": "371.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3352,
+      "cod_calle": 20010
+    },
+    "usig_direccion_elegida": {
+      "altura": 3352,
+      "cod_calle": 20010,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.412302",
+        "y": "-34.633208"
+      },
+      "direccion": "SALCEDO 3352, CABA",
+      "nombre_calle": "SALCEDO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3352,
+          "cod_calle": 20010,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.412302",
+            "y": "-34.633208"
+          },
+          "direccion": "SALCEDO 3352, CABA",
+          "nombre_calle": "SALCEDO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  104671.670972483,
+                  99551.87203173776
+                ],
+                [
+                  104671.21397248442,
+                  99552.79303173488
+                ],
+                [
+                  104669.39897249256,
+                  99556.45403172742
+                ],
+                [
+                  104673.42597248257,
+                  99557.60103171942
+                ],
+                [
+                  104675.59697247675,
+                  99558.21903171617
+                ],
+                [
+                  104676.98897247328,
+                  99558.61503171604
+                ],
+                [
+                  104678.13297246805,
+                  99556.26203172072
+                ],
+                [
+                  104678.58297246622,
+                  99555.3360317219
+                ],
+                [
+                  104679.7069724614,
+                  99553.02403172845
+                ],
+                [
+                  104679.81897246078,
+                  99552.79303172909
+                ],
+                [
+                  104680.77997245628,
+                  99550.8160317328
+                ],
+                [
+                  104682.1939724503,
+                  99547.90503174008
+                ],
+                [
+                  104682.53397244838,
+                  99547.2060317421
+                ],
+                [
+                  104682.82397244734,
+                  99546.60903174416
+                ],
+                [
+                  104683.22697244566,
+                  99545.78103174618
+                ],
+                [
+                  104683.90297244252,
+                  99544.39003174909
+                ],
+                [
+                  104684.04797244252,
+                  99544.09103175066
+                ],
+                [
+                  104685.66397243558,
+                  99540.76703175745
+                ],
+                [
+                  104686.06697243378,
+                  99539.93703176093
+                ],
+                [
+                  104686.56297243135,
+                  99538.91703176199
+                ],
+                [
+                  104686.66697243166,
+                  99538.70303176137
+                ],
+                [
+                  104687.73097242584,
+                  99536.51403176866
+                ],
+                [
+                  104687.99697242532,
+                  99535.96703176937
+                ],
+                [
+                  104690.90497241219,
+                  99529.9830317839
+                ],
+                [
+                  104693.19197240274,
+                  99525.27803179558
+                ],
+                [
+                  104694.93297239486,
+                  99521.69503180409
+                ],
+                [
+                  104697.70497238336,
+                  99515.992031818
+                ],
+                [
+                  104693.51997239281,
+                  99514.32703182695
+                ],
+                [
+                  104690.82097240104,
+                  99513.25303183118
+                ],
+                [
+                  104689.3109724067,
+                  99516.29803182429
+                ],
+                [
+                  104685.33997242377,
+                  99524.30603180508
+                ],
+                [
+                  104684.57197242673,
+                  99525.85503180217
+                ],
+                [
+                  104678.55297245365,
+                  99537.99303177095
+                ],
+                [
+                  104676.78597246138,
+                  99541.55603176198
+                ],
+                [
+                  104675.89797246491,
+                  99543.3480317597
+                ],
+                [
+                  104671.84297248282,
+                  99551.5260317396
+                ],
+                [
+                  104671.670972483,
+                  99551.87203173776
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "032-046-009",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "SALCEDO 3352",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.41222288672549,
+      -34.63343859154317
+    ],
+    "direccion": "SALCEDO 3352",
+    "fondo": "47.62",
+    "frente": "7.79",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "046",
+    "parcela": "009",
+    "pdamatriz": "103842",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [
+      {
+        "altura": 3352,
+        "calle": "SALCEDO",
+        "codigo_calle": 20010,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "032",
+    "smp": "032-046-009",
+    "smp_anterior": "032-046-008",
+    "smp_siguiente": "032-046-010",
+    "srid": 4326,
+    "superficie_cubierta": "429.00",
+    "superficie_total": "371.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "032-046-009"
+}

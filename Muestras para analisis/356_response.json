@@ -1,0 +1,573 @@
+{
+  "area_m2": 219.49828052520752,
+  "centroide_lonlat": {
+    "lat": -34.624447,
+    "lon": -58.405643
+  },
+  "centroide_xy": {
+    "x": 105287.5651626876,
+    "y": 100533.38824278819
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 38.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 4.0,
+          "fot_perim_libre": 4.0,
+          "fot_semi_libre": 4.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/3/08/030-082-020_0000295308.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION030/030-082-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION030/PI-030-082-V5.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "030-082-021",
+            "030-082-019"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "C3 I",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 219.453750000038,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 219.5,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "030-082-020"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. J.M. RAMOS MEJÍA",
+    "barrio": "San Cristobal",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1244",
+    "codigo_postal_argentino": "C1244AAB",
+    "comisaria": "20",
+    "comisaria_vecinal": "3B",
+    "comuna": "Comuna 3",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "30"
+  },
+  "debug": {
+    "address": "DEAN FUNES 1206",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.40564293094751,
+        -34.62444731454112
+      ],
+      "direccion": "DEAN FUNES 1206",
+      "fondo": "9.65",
+      "frente": "22.80",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "082",
+      "parcela": "020",
+      "pdamatriz": "182953",
+      "pisos_bajo_rasante": "1",
+      "pisos_sobre_rasante": "11",
+      "propiedad_horizontal": "Si",
+      "seccion": "030",
+      "smp": "030-082-020",
+      "smp_anterior": "030-082-019",
+      "smp_siguiente": "030-082-021",
+      "srid": 4326,
+      "superficie_cubierta": "2499.00",
+      "superficie_total": "220.00",
+      "unidades_funcionales": "30",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1206,
+      "cod_calle": 4014
+    },
+    "usig_direccion_elegida": {
+      "altura": 1206,
+      "cod_calle": 4014,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.405730",
+        "y": "-34.624453"
+      },
+      "direccion": "DEAN FUNES 1206, CABA",
+      "nombre_calle": "DEAN FUNES",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1206,
+          "cod_calle": 4014,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.405730",
+            "y": "-34.624453"
+          },
+          "direccion": "DEAN FUNES 1206, CABA",
+          "nombre_calle": "DEAN FUNES",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1206,
+          "cod_calle": 118003,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3455740510204,
+            "y": -34.8006240591837
+          },
+          "direccion": "Deán Funes 1206, Almirante Brown",
+          "nombre_calle": "Deán Funes",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Claypole",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1206,
+          "cod_calle": 81009,
+          "cod_calle_cruce": null,
+          "cod_partido": "esteban_echeverria",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4920365,
+            "y": -34.8122651591837
+          },
+          "direccion": "Deán Funes 1206, Esteban Echeverría",
+          "nombre_calle": "Deán Funes",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "El Jagüel",
+          "nombre_partido": "Esteban Echeverría",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1206,
+          "cod_calle": 41909,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5092098346939,
+            "y": -34.6835547265306
+          },
+          "direccion": "Deán Funes 1206, La Matanza",
+          "nombre_calle": "Deán Funes",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "La Tablada",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1206,
+          "cod_calle": 28176,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4130145489796,
+            "y": -34.8056021040816
+          },
+          "direccion": "Dean Funes 1206, Lomas de Zamora",
+          "nombre_calle": "Dean Funes",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Llavallol",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1206,
+          "cod_calle": 61199,
+          "cod_calle_cruce": null,
+          "cod_partido": "lujan",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -59.1009968244898,
+            "y": -34.572761967347
+          },
+          "direccion": "Deán Funes 1206, Luján",
+          "nombre_calle": "Deán Funes",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Luján",
+          "nombre_partido": "Luján",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1206,
+          "cod_calle": 164273,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7603859653061,
+            "y": -34.6711934755102
+          },
+          "direccion": "Dean Funes 1206, Merlo",
+          "nombre_calle": "Dean Funes",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Merlo",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1206,
+          "cod_calle": 44164,
+          "cod_calle_cruce": null,
+          "cod_partido": "moron",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6539004693878,
+            "y": -34.6462576183674
+          },
+          "direccion": "Deán Funes 1206, Morón",
+          "nombre_calle": "Deán Funes",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Castelar",
+          "nombre_partido": "Morón",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1206,
+          "cod_calle": 281662,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_isidro",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5561504612245,
+            "y": -34.5247794897959
+          },
+          "direccion": "Déan Funes 1206, San Isidro",
+          "nombre_calle": "Déan Funes",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Adelina",
+          "nombre_partido": "San Isidro",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1206,
+          "cod_calle": 45343,
+          "cod_calle_cruce": null,
+          "cod_partido": "vicente_lopez",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.508508244898,
+            "y": -34.5393545040817
+          },
+          "direccion": "Dean Funes 1206, Vicente López",
+          "nombre_calle": "Dean Funes",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Florida Oeste",
+          "nombre_partido": "Vicente López",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  105290.48797149517,
+                  100545.43102848539
+                ],
+                [
+                  105290.78397149232,
+                  100542.67002849295
+                ],
+                [
+                  105290.79697149248,
+                  100542.55102849333
+                ],
+                [
+                  105291.07497148967,
+                  100539.96402850011
+                ],
+                [
+                  105291.46897148518,
+                  100536.29102851066
+                ],
+                [
+                  105292.25497147781,
+                  100528.96402853006
+                ],
+                [
+                  105292.64497147367,
+                  100525.32902854017
+                ],
+                [
+                  105292.73697147294,
+                  100524.46702854286
+                ],
+                [
+                  105293.0819714702,
+                  100521.25102855155
+                ],
+                [
+                  105290.00697147824,
+                  100520.7500285551
+                ],
+                [
+                  105288.55097148193,
+                  100520.51302855712
+                ],
+                [
+                  105286.35897148799,
+                  100520.15602855998
+                ],
+                [
+                  105284.69897149228,
+                  100519.88602856145
+                ],
+                [
+                  105284.24997149655,
+                  100523.84702855081
+                ],
+                [
+                  105284.20497149698,
+                  100524.2450285498
+                ],
+                [
+                  105283.95697149966,
+                  100526.43302854389
+                ],
+                [
+                  105283.86597150052,
+                  100527.22902854189
+                ],
+                [
+                  105283.51697150344,
+                  100530.30902853352
+                ],
+                [
+                  105283.45997150391,
+                  100530.81502853223
+                ],
+                [
+                  105283.4069715041,
+                  100531.27802853048
+                ],
+                [
+                  105283.11197150698,
+                  100533.87802852303
+                ],
+                [
+                  105282.9409715085,
+                  100535.38602851931
+                ],
+                [
+                  105282.82097151042,
+                  100536.44502851678
+                ],
+                [
+                  105282.26497151492,
+                  100541.34802850339
+                ],
+                [
+                  105282.12997151639,
+                  100542.54002850002
+                ],
+                [
+                  105283.63497151362,
+                  100544.56302849326
+                ],
+                [
+                  105285.20997151094,
+                  100546.68002848569
+                ],
+                [
+                  105287.2089715054,
+                  100546.97502848331
+                ],
+                [
+                  105289.97797149827,
+                  100547.38302848084
+                ],
+                [
+                  105290.27397149758,
+                  100547.42702848028
+                ],
+                [
+                  105290.48797149517,
+                  100545.43102848539
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "030-082-020",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "DEAN FUNES 1206",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 4,
+    "centroide": [
+      -58.40564293094751,
+      -34.62444731454112
+    ],
+    "direccion": "DEAN FUNES 1206",
+    "fondo": "9.65",
+    "frente": "22.80",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "082",
+    "parcela": "020",
+    "pdamatriz": "182953",
+    "pisos_bajo_rasante": "1",
+    "pisos_sobre_rasante": "11",
+    "propiedad_horizontal": "Si",
+    "puertas": [
+      {
+        "altura": 1206,
+        "calle": "DEAN FUNES",
+        "codigo_calle": 4014,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      },
+      {
+        "altura": 2896,
+        "calle": "SAN JUAN AV.",
+        "codigo_calle": 20040,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      },
+      {
+        "altura": 2898,
+        "calle": "SAN JUAN AV.",
+        "codigo_calle": 20040,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      },
+      {
+        "altura": 2900,
+        "calle": "SAN JUAN AV.",
+        "codigo_calle": 20040,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "030",
+    "smp": "030-082-020",
+    "smp_anterior": "030-082-019",
+    "smp_siguiente": "030-082-021",
+    "srid": 4326,
+    "superficie_cubierta": "2499.00",
+    "superficie_total": "220.00",
+    "unidades_funcionales": "30",
+    "vuc": "0.00"
+  },
+  "smp": "030-082-020"
+}

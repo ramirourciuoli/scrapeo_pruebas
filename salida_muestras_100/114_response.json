@@ -1,0 +1,376 @@
+{
+  "area_m2": 282.92588901519775,
+  "centroide_lonlat": {
+    "lat": -34.543043,
+    "lon": -58.479974
+  },
+  "centroide_xy": {
+    "x": 98469.42233095999,
+    "y": 109565.38551394934
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.0,
+          "fot_perim_libre": 3.0,
+          "fot_semi_libre": 3.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/51/043-109-025_0000330751.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION043/043-109-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION043/PI-043-109-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "043-109-026",
+            "043-109-024",
+            "043-109-018",
+            "043-109-005"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "E3",
+          "incidencia_uva": 250.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 156.57086555514,
+        "sup_max_edificable": 1127.0,
+        "superficie_parcela": 282.9,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "043-109-025"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Saavedra",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1429",
+    "codigo_postal_argentino": "C1429AON",
+    "comisaria": "35",
+    "comisaria_vecinal": "12A",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   X",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "43"
+  },
+  "debug": {
+    "address": "ZAPIOLA 4756",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.47997357826637,
+        -34.54304313183334
+      ],
+      "direccion": "ZAPIOLA 4756",
+      "fondo": "38.96",
+      "frente": "7.11",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "109",
+      "parcela": "025",
+      "pdamatriz": "334842",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "043",
+      "smp": "043-109-025",
+      "smp_anterior": "043-109-024",
+      "smp_siguiente": "043-109-026",
+      "srid": 4326,
+      "superficie_cubierta": "971.00",
+      "superficie_total": "277.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4756,
+      "cod_calle": 27008
+    },
+    "usig_direccion_elegida": {
+      "altura": 4756,
+      "cod_calle": 27008,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.479758",
+        "y": "-34.542971"
+      },
+      "direccion": "ZAPIOLA 4756, CABA",
+      "nombre_calle": "ZAPIOLA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4756,
+          "cod_calle": 27008,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.479758",
+            "y": "-34.542971"
+          },
+          "direccion": "ZAPIOLA 4756, CABA",
+          "nombre_calle": "ZAPIOLA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 4756,
+          "cod_calle": 69435,
+          "cod_calle_cruce": null,
+          "cod_partido": "jose_c_paz",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7520888204082,
+            "y": -34.525807644898
+          },
+          "direccion": "J. M. Zapiola 4756, José C. Paz",
+          "nombre_calle": "J. M. Zapiola",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "José C. Paz",
+          "nombre_partido": "José C. Paz",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98484.08199738023,
+                  109575.33100828581
+                ],
+                [
+                  98484.45359737854,
+                  109575.4833082853
+                ],
+                [
+                  98486.11699737435,
+                  109576.16700828206
+                ],
+                [
+                  98488.82099736253,
+                  109569.44100829816
+                ],
+                [
+                  98486.78499736736,
+                  109568.60400830267
+                ],
+                [
+                  98477.22999739145,
+                  109564.67500832042
+                ],
+                [
+                  98473.44099740009,
+                  109563.11800832758
+                ],
+                [
+                  98462.55299742793,
+                  109558.64100834841
+                ],
+                [
+                  98461.7669974296,
+                  109558.31800835006
+                ],
+                [
+                  98452.74099745249,
+                  109554.60700836714
+                ],
+                [
+                  98451.9369974558,
+                  109556.58800836277
+                ],
+                [
+                  98450.01499746447,
+                  109561.32700835002
+                ],
+                [
+                  98459.56229744134,
+                  109565.25150833256
+                ],
+                [
+                  98459.8489974407,
+                  109565.37000833187
+                ],
+                [
+                  98460.61849743823,
+                  109565.68570833057
+                ],
+                [
+                  98471.69959741061,
+                  109570.24060830925
+                ],
+                [
+                  98474.47369740377,
+                  109571.38120830356
+                ],
+                [
+                  98474.71979740322,
+                  109571.48210830308
+                ],
+                [
+                  98477.00759739759,
+                  109572.42250829941
+                ],
+                [
+                  98481.0081973875,
+                  109574.06700829123
+                ],
+                [
+                  98481.67699738596,
+                  109574.34200829035
+                ],
+                [
+                  98484.08199738023,
+                  109575.33100828581
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "043-109-025",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ZAPIOLA 4756",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.47997357826637,
+      -34.54304313183334
+    ],
+    "direccion": "ZAPIOLA 4756",
+    "fondo": "38.96",
+    "frente": "7.11",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "109",
+    "parcela": "025",
+    "pdamatriz": "334842",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [
+      {
+        "altura": 4756,
+        "calle": "ZAPIOLA",
+        "codigo_calle": 27008,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "043",
+    "smp": "043-109-025",
+    "smp_anterior": "043-109-024",
+    "smp_siguiente": "043-109-026",
+    "srid": 4326,
+    "superficie_cubierta": "971.00",
+    "superficie_total": "277.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "043-109-025"
+}

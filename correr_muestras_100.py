@@ -4,34 +4,18 @@ correr_muestras_100.py
 
 OBJETIVO
 --------
-1) Lee el Excel "muestra_100_frente_num_dom.xlsx" (columnas: frente, num_dom).
+1) Busca un Excel en la misma carpeta del script (o usa uno indicado por parámetro)
+   que tenga columnas: frente, num_dom.
 2) Construye direccion = "<frente> <num_dom>".
-3) Llama a tu API Flask:
-
-      POST http://127.0.0.1:8000/api/catastro
-      JSON: {"direccion": "CALLE 123"}
-
-4) Guarda auditoría y resultados:
-   - salida_muestras_100/001_request.json ... 100_request.json
-   - salida_muestras_100/001_response.json ... 100_response.json (si es JSON)
-   - salida_muestras_100/001_response.txt  ... 100_response.txt  (si no es JSON o hay error)
-   - salida_muestras_100/resumen.csv
-   - salida_muestras_100/input_motor.jsonl    (SOLO casos OK, 1 JSON por línea)
-
-NOTA IMPORTANTE (opción 1)
---------------------------
-El archivo input_motor.jsonl es el "input limpio" para el motor:
-- 1 línea = 1 caso
-- Cada JSON incluye una llave _testcase con (n, direccion) para trazabilidad.
-
-REQUISITOS
-----------
-pip install pandas requests openpyxl
+3) POST a API:
+      http://127.0.0.1:8000/api/catastro
+4) Guarda auditoría y resultados en salida_muestras_100/
 """
 
 from __future__ import annotations
 
 import json
+import sys
 import time
 from dataclasses import dataclass
 from pathlib import Path
@@ -44,19 +28,19 @@ import requests
 # =====================
 # CONFIG
 # =====================
-EXCEL_IN = Path("muestra_100_frente_num_dom.xlsx")
-
 API_URL = "http://127.0.0.1:8000/api/catastro"
 
-OUT_DIR = Path("salida_muestras_100")
+# Carpeta del script (no depende de desde dónde lo ejecutes)
+SCRIPT_DIR = Path(__file__).resolve().parent
+
+OUT_DIR = SCRIPT_DIR / "salida_muestras_100"
 OUT_DIR.mkdir(exist_ok=True)
 
 TIMEOUT_SECS = 30
 RETRIES = 2
-SLEEP_BETWEEN_RETRIES = 0.75  # segundos
-SLEEP_BETWEEN_REQUESTS = 0.20  # segundos (para no saturar tu servidor ni endpoints externos)
-
-PRINT_EVERY = 10  # feedback cada N casos
+SLEEP_BETWEEN_RETRIES = 0.75
+SLEEP_BETWEEN_REQUESTS = 0.20
+PRINT_EVERY = 10
 
 
 # =====================
@@ -89,10 +73,8 @@ def clean_num_dom(num_dom: Any) -> str:
     if pd.isna(num_dom):
         return ""
     s = str(num_dom).strip()
-    # caso típico Excel: 123.0
     if s.endswith(".0"):
         s = s[:-2]
-    # compactar espacios
     s = " ".join(s.split())
     return s
 
@@ -114,16 +96,14 @@ def try_parse_json(text: str) -> Tuple[bool, Any]:
 
 
 def call_api(payload: Dict[str, Any]) -> CallResult:
-    """POST JSON a la API con reintentos. Devuelve siempre texto para poder auditar."""
     last_exc: Optional[Exception] = None
 
-    for attempt in range(RETRIES + 1):
+    for _attempt in range(RETRIES + 1):
         try:
             t0 = time.time()
             r = requests.post(API_URL, json=payload, timeout=TIMEOUT_SECS)
             elapsed = time.time() - t0
             return CallResult(http_code=r.status_code, text=r.text, elapsed_s=elapsed)
-
         except Exception as e:
             last_exc = e
             time.sleep(SLEEP_BETWEEN_RETRIES)
@@ -131,12 +111,60 @@ def call_api(payload: Dict[str, Any]) -> CallResult:
     return CallResult(http_code=None, text="", elapsed_s=None, error=repr(last_exc))
 
 
-def main() -> None:
-    # ---------- Validaciones iniciales ----------
-    if not EXCEL_IN.exists():
+def excel_tiene_columnas(path: Path) -> bool:
+    """Chequea rápido si el Excel tiene columnas frente/num_dom (sin leer todo)."""
+    try:
+        header = pd.read_excel(path, nrows=0)
+        cols = [str(c).strip().lower() for c in header.columns]
+        return ("frente" in cols) and ("num_dom" in cols)
+    except Exception:
+        return False
+
+
+def elegir_excel_input() -> Path:
+    """
+    Prioridad:
+    1) Si pasás un argumento: python correr_muestras_100.py archivo.xlsx -> usa ese
+    2) Si no, busca en la carpeta del script el Excel más nuevo que tenga frente/num_dom
+    """
+    # 1) Argumento opcional
+    if len(sys.argv) >= 2:
+        p = Path(sys.argv[1])
+        if not p.is_absolute():
+            p = (SCRIPT_DIR / p).resolve()
+        if not p.exists():
+            raise FileNotFoundError(f"No encuentro el Excel indicado: {p}")
+        if p.suffix.lower() not in (".xlsx", ".xls"):
+            raise ValueError(f"El archivo indicado no parece Excel: {p.name}")
+        if not excel_tiene_columnas(p):
+            raise ValueError(f"El Excel indicado no tiene columnas 'frente' y 'num_dom': {p.name}")
+        return p
+
+    # 2) Autodetección en carpeta del script
+    candidatos = []
+    for ext in ("*.xlsx", "*.xls"):
+        for p in SCRIPT_DIR.glob(ext):
+            # Evitar tomar archivos temporales de Excel
+            if p.name.startswith("~$"):
+                continue
+            if excel_tiene_columnas(p):
+                candidatos.append(p)
+
+    if not candidatos:
         raise FileNotFoundError(
-            f"No encuentro {EXCEL_IN}. Ponelo en la misma carpeta que este script."
+            "No encontré ningún Excel en la misma carpeta del script con columnas "
+            "'frente' y 'num_dom'. Poné el Excel al lado del .py o pasalo como parámetro."
         )
+
+    # Si hay varios, elegir el más nuevo por fecha de modificación
+    candidatos.sort(key=lambda x: x.stat().st_mtime, reverse=True)
+    return candidatos[0]
+
+
+def main() -> None:
+    # ---------- Elegir Excel ----------
+    EXCEL_IN = elegir_excel_input()
+    print("Usando Excel:", EXCEL_IN.name)
 
     # ---------- Leer Excel ----------
     df = pd.read_excel(EXCEL_IN)
@@ -154,10 +182,7 @@ def main() -> None:
     for i, row in df.iterrows():
         n = i + 1
 
-        frente = row["frente"]
-        num_dom = row["num_dom"]
-        direccion = build_direccion(frente, num_dom)
-
+        direccion = build_direccion(row["frente"], row["num_dom"])
         payload = {"direccion": direccion}
 
         req_path = OUT_DIR / f"{n:03d}_request.json"
@@ -171,21 +196,16 @@ def main() -> None:
 
         result = call_api(payload)
 
-        # Caso: no hubo HTTP (excepción)
         if result.http_code is None:
             status = "ERROR"
             err = result.error or "Error desconocido (sin HTTP)"
             dump_text(resp_txt_path, err)
-
         else:
-            # Si HTTP indica error, lo marcamos, pero igual intentamos parsear y guardar
             if result.http_code >= 400:
                 status = "ERROR"
                 err = f"HTTP {result.http_code}"
 
-            # Parsear JSON
             ok_json, data = try_parse_json(result.text)
-
             if ok_json:
                 dump_json(resp_json_path, data)
             else:
@@ -204,11 +224,9 @@ def main() -> None:
             }
         )
 
-        # Feedback en consola
         if PRINT_EVERY and (n % PRINT_EVERY == 0 or n == total):
             print(f"[{n:03d}/{total}] {status} - {direccion}")
 
-        # Pausa para no saturar
         time.sleep(SLEEP_BETWEEN_REQUESTS)
 
     # ---------- Guardar resumen ----------
@@ -216,11 +234,10 @@ def main() -> None:
     resumen_csv = OUT_DIR / "resumen.csv"
     resumen_df.to_csv(resumen_csv, index=False, encoding="utf-8")
 
-    # ---------- Generar input_motor.jsonl (Opción 1) ----------
-    # 1 línea = 1 caso OK (JSON válido), con _testcase agregado para trazabilidad.
+    # ---------- Generar input_motor.jsonl ----------
     jsonl_path = OUT_DIR / "input_motor.jsonl"
-
     ok_written = 0
+
     with jsonl_path.open("w", encoding="utf-8") as f:
         for r in resumen_rows:
             if r["status"] != "OK":
@@ -235,18 +252,16 @@ def main() -> None:
             except Exception:
                 continue
 
-            # Agregar metadata de test
             data["_testcase"] = {"n": r["n"], "direccion": r["direccion"]}
-
             f.write(json.dumps(data, ensure_ascii=False) + "\n")
             ok_written += 1
 
-    # ---------- Resumen final ----------
     ok_count = int((resumen_df["status"] == "OK").sum())
     err_count = int((resumen_df["status"] == "ERROR").sum())
 
     print("\n=== LISTO ===")
     print("API_URL:", API_URL)
+    print("Excel usado:", EXCEL_IN.resolve())
     print("Carpeta salida:", OUT_DIR.resolve())
     print("Resumen:", resumen_csv.resolve())
     print("Input motor:", jsonl_path.resolve())

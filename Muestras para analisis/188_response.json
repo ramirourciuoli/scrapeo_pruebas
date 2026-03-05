@@ -1,0 +1,481 @@
+{
+  "area_m2": 579.2263822555542,
+  "centroide_lonlat": {
+    "lat": -34.62391,
+    "lon": -58.448809
+  },
+  "centroide_xy": {
+    "x": 101328.92318633285,
+    "y": 100594.40071002825
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          38.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 45.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 4.0,
+          "fot_perim_libre": 4.0,
+          "fot_semi_libre": 4.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/43/042-068-001b_0000415043.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION042/042-068-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION042/PI-042-068-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "042-068-001a",
+            "042-068-002",
+            "042-068-032"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "C3 I",
+          "incidencia_uva": 180.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 579.146450000108,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 579.2,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          38.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "042-068-001B"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. P. PIÑERO",
+    "barrio": "Caballito",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1406",
+    "codigo_postal_argentino": "C1406GLP",
+    "comisaria": "12",
+    "comisaria_vecinal": "6B",
+    "comuna": "Comuna 6",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "42"
+  },
+  "debug": {
+    "address": "AV. RIVADAVIA 5920",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.44880914761513,
+        -34.62391010160675
+      ],
+      "direccion": "RIVADAVIA AV. 5920",
+      "fondo": "32.37",
+      "frente": "17.79",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "068",
+      "parcela": "001B",
+      "pdamatriz": "149624",
+      "pisos_bajo_rasante": "1",
+      "pisos_sobre_rasante": "15",
+      "propiedad_horizontal": "Si",
+      "seccion": "042",
+      "smp": "042-068-001B",
+      "smp_anterior": "042-068-001A",
+      "smp_siguiente": "042-068-002",
+      "srid": 4326,
+      "superficie_cubierta": "6805.00",
+      "superficie_total": "576.00",
+      "unidades_funcionales": "60",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 5920,
+      "cod_calle": 19046
+    },
+    "usig_direccion_elegida": {
+      "altura": 5920,
+      "cod_calle": 19046,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.448903",
+        "y": "-34.623746"
+      },
+      "direccion": "RIVADAVIA AV. 5920, CABA",
+      "nombre_calle": "RIVADAVIA AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 5920,
+          "cod_calle": 19046,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.448903",
+            "y": "-34.623746"
+          },
+          "direccion": "RIVADAVIA AV. 5920, CABA",
+          "nombre_calle": "RIVADAVIA AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 5920,
+          "cod_calle": 120229,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.327485925,
+            "y": -34.7788517875
+          },
+          "direccion": "Rivadavia 5920, Almirante Brown",
+          "nombre_calle": "Rivadavia",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Francisco Solano",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 5920,
+          "cod_calle": 58903,
+          "cod_calle_cruce": null,
+          "cod_partido": "avellaneda",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3249970510204,
+            "y": -34.7037001183673
+          },
+          "direccion": "Comodoro Rivadavia 5920, Avellaneda",
+          "nombre_calle": "Comodoro Rivadavia",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Wilde",
+          "nombre_partido": "Avellaneda",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 5920,
+          "cod_calle": 284323,
+          "cod_calle_cruce": null,
+          "cod_partido": "general_san_martin",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5922688877551,
+            "y": -34.5604284959184
+          },
+          "direccion": "Diagonal 154 Rivadavia 5920, General San Martín",
+          "nombre_calle": "Diagonal 154 Rivadavia",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Loma Hermosa",
+          "nombre_partido": "General San Martín",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  101324.97807101812,
+                  100576.23111048559
+                ],
+                [
+                  101323.2150705391,
+                  100581.94711388883
+                ],
+                [
+                  101322.73008519007,
+                  100583.52011193169
+                ],
+                [
+                  101322.13998265375,
+                  100585.43103136023
+                ],
+                [
+                  101320.53998266254,
+                  100590.61903134699
+                ],
+                [
+                  101318.45698267382,
+                  100597.37503132963
+                ],
+                [
+                  101318.37608130665,
+                  100597.63510212975
+                ],
+                [
+                  101316.67307838591,
+                  100603.15914996713
+                ],
+                [
+                  101316.37705787964,
+                  100604.11813433966
+                ],
+                [
+                  101315.80405983576,
+                  100605.97512896376
+                ],
+                [
+                  101316.08298268629,
+                  100606.10503130741
+                ],
+                [
+                  101322.74298267008,
+                  100609.21403129291
+                ],
+                [
+                  101323.09098266947,
+                  100609.3770312928
+                ],
+                [
+                  101323.28698266852,
+                  100609.46803129246
+                ],
+                [
+                  101331.45798264857,
+                  100613.28303127506
+                ],
+                [
+                  101331.86998264802,
+                  100613.47503127402
+                ],
+                [
+                  101332.4969826452,
+                  100611.64403127934
+                ],
+                [
+                  101332.54398264432,
+                  100611.50903127904
+                ],
+                [
+                  101332.82098264364,
+                  100610.69803128138
+                ],
+                [
+                  101334.43498263467,
+                  100605.98803129335
+                ],
+                [
+                  101335.31398263096,
+                  100603.42503129982
+                ],
+                [
+                  101336.27498262624,
+                  100600.61803130692
+                ],
+                [
+                  101337.70198261831,
+                  100596.4550313178
+                ],
+                [
+                  101338.05798261717,
+                  100595.41503132042
+                ],
+                [
+                  101339.15498261176,
+                  100592.21303132898
+                ],
+                [
+                  101339.66698260928,
+                  100590.72003133208
+                ],
+                [
+                  101340.38398260495,
+                  100588.62803133726
+                ],
+                [
+                  101340.61308074874,
+                  100587.95816122222
+                ],
+                [
+                  101341.03507781692,
+                  100586.7281197214
+                ],
+                [
+                  101341.4581124828,
+                  100585.49112021286
+                ],
+                [
+                  101342.53605437194,
+                  100582.34616172474
+                ],
+                [
+                  101340.17509246388,
+                  100581.52414024444
+                ],
+                [
+                  101339.05298260375,
+                  100581.13303136005
+                ],
+                [
+                  101336.39805389926,
+                  100580.20816124711
+                ],
+                [
+                  101331.58694551323,
+                  100578.53240832602
+                ],
+                [
+                  101330.9970529364,
+                  100578.32711877595
+                ],
+                [
+                  101327.86405733891,
+                  100577.23611536343
+                ],
+                [
+                  101327.35508517222,
+                  100577.05874720024
+                ],
+                [
+                  101327.10911349315,
+                  100576.97311487643
+                ],
+                [
+                  101324.97807101812,
+                  100576.23111048559
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "042-068-001B",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AV. RIVADAVIA 5920",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.44880914761513,
+      -34.62391010160675
+    ],
+    "direccion": "RIVADAVIA AV. 5920",
+    "fondo": "32.37",
+    "frente": "17.79",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "068",
+    "parcela": "001B",
+    "pdamatriz": "149624",
+    "pisos_bajo_rasante": "1",
+    "pisos_sobre_rasante": "15",
+    "propiedad_horizontal": "Si",
+    "puertas": [
+      {
+        "altura": 5920,
+        "calle": "RIVADAVIA AV.",
+        "codigo_calle": 19046,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "042",
+    "smp": "042-068-001B",
+    "smp_anterior": "042-068-001A",
+    "smp_siguiente": "042-068-002",
+    "srid": 4326,
+    "superficie_cubierta": "6805.00",
+    "superficie_total": "576.00",
+    "unidades_funcionales": "60",
+    "vuc": "0.00"
+  },
+  "smp": "042-068-001B"
+}

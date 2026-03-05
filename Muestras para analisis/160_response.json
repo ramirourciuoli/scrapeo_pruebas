@@ -1,0 +1,402 @@
+{
+  "area_m2": 274.5060682296753,
+  "centroide_lonlat": {
+    "lat": -34.614158,
+    "lon": -58.46989
+  },
+  "centroide_xy": {
+    "x": 99395.5859007621,
+    "y": 101676.31048393733
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/1/52/067-097-010_0000393152.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION067/067-097-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION067/PI-067-097-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "067-097-009",
+            "067-097-011",
+            "067-097-014"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b III",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 274.575549999909,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 274.5,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "067-097-010"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. T. ÁLVAREZ",
+    "barrio": "Villa Gral. Mitre",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1416",
+    "codigo_postal_argentino": "C1416DDL",
+    "comisaria": "50",
+    "comisaria_vecinal": "11A",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "67"
+  },
+  "debug": {
+    "address": "TRES ARROYOS 2376",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.469889886840214,
+        -34.61415823818512
+      ],
+      "direccion": "TRES ARROYOS 2376",
+      "fondo": "34.12",
+      "frente": "8.00",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "097",
+      "parcela": "010",
+      "pdamatriz": "237012",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "3",
+      "propiedad_horizontal": "Si",
+      "seccion": "067",
+      "smp": "067-097-010",
+      "smp_anterior": "067-097-009",
+      "smp_siguiente": "067-097-011",
+      "srid": 4326,
+      "superficie_cubierta": "388.00",
+      "superficie_total": "273.00",
+      "unidades_funcionales": "5",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2376,
+      "cod_calle": 21049
+    },
+    "usig_direccion_elegida": {
+      "altura": 2376,
+      "cod_calle": 21049,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.470009",
+        "y": "-34.614005"
+      },
+      "direccion": "TRES ARROYOS 2376, CABA",
+      "nombre_calle": "TRES ARROYOS",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2376,
+          "cod_calle": 21049,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.470009",
+            "y": "-34.614005"
+          },
+          "direccion": "TRES ARROYOS 2376, CABA",
+          "nombre_calle": "TRES ARROYOS",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99383.0739889227,
+                  101688.54602972668
+                ],
+                [
+                  99383.51498892081,
+                  101688.82802972596
+                ],
+                [
+                  99389.38498890727,
+                  101692.58702971059
+                ],
+                [
+                  99389.8019889065,
+                  101692.8540297098
+                ],
+                [
+                  99392.06498889776,
+                  101689.31502971737
+                ],
+                [
+                  99392.6389888961,
+                  101688.4170297202
+                ],
+                [
+                  99393.34098889258,
+                  101687.31902972286
+                ],
+                [
+                  99393.98198889002,
+                  101686.31702972503
+                ],
+                [
+                  99395.83698888344,
+                  101683.41602973038
+                ],
+                [
+                  99397.55998887496,
+                  101680.72202973824
+                ],
+                [
+                  99397.98898887397,
+                  101680.05102973836
+                ],
+                [
+                  99399.31498886865,
+                  101677.97702974285
+                ],
+                [
+                  99399.57798886733,
+                  101677.56602974376
+                ],
+                [
+                  99401.8959888588,
+                  101673.94002975355
+                ],
+                [
+                  99402.67098885532,
+                  101672.72902975595
+                ],
+                [
+                  99404.19798884905,
+                  101670.34202976146
+                ],
+                [
+                  99405.85198884223,
+                  101667.75402976794
+                ],
+                [
+                  99406.1149888422,
+                  101667.34402976779
+                ],
+                [
+                  99407.36798883637,
+                  101665.38302977255
+                ],
+                [
+                  99408.10898883398,
+                  101664.22502977392
+                ],
+                [
+                  99404.37698884266,
+                  101661.84502978576
+                ],
+                [
+                  99401.21898884962,
+                  101659.83202979315
+                ],
+                [
+                  99397.96698886254,
+                  101664.97902978238
+                ],
+                [
+                  99397.64798886442,
+                  101665.48302978059
+                ],
+                [
+                  99395.82698887085,
+                  101668.36502977446
+                ],
+                [
+                  99395.36098887303,
+                  101669.10202977195
+                ],
+                [
+                  99394.99498887525,
+                  101669.68102977093
+                ],
+                [
+                  99393.71598888024,
+                  101671.706029766
+                ],
+                [
+                  99392.5039888841,
+                  101673.62402976007
+                ],
+                [
+                  99387.16398890602,
+                  101682.0740297421
+                ],
+                [
+                  99386.74398890788,
+                  101682.73902973987
+                ],
+                [
+                  99383.7689889202,
+                  101687.4470297283
+                ],
+                [
+                  99383.0739889227,
+                  101688.54602972668
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "067-097-010",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "TRES ARROYOS 2376",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.469889886840214,
+      -34.61415823818512
+    ],
+    "direccion": "TRES ARROYOS 2376",
+    "fondo": "34.12",
+    "frente": "8.00",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "097",
+    "parcela": "010",
+    "pdamatriz": "237012",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "3",
+    "propiedad_horizontal": "Si",
+    "puertas": [
+      {
+        "altura": 2376,
+        "calle": "TRES ARROYOS",
+        "codigo_calle": 21049,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "067",
+    "smp": "067-097-010",
+    "smp_anterior": "067-097-009",
+    "smp_siguiente": "067-097-011",
+    "srid": 4326,
+    "superficie_cubierta": "388.00",
+    "superficie_total": "273.00",
+    "unidades_funcionales": "5",
+    "vuc": "0.00"
+  },
+  "smp": "067-097-010"
+}

@@ -1,0 +1,503 @@
+{
+  "area_m2": 349.8123483657837,
+  "centroide_lonlat": {
+    "lat": -34.558019,
+    "lon": -58.475634
+  },
+  "centroide_xy": {
+    "x": 98867.97636369929,
+    "y": 107904.0670371556
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/59/041-042A-020_0000227559.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION041/041-042A-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION041/PI-041-042A-V3.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "041-042A-021b",
+            "041-042A-022",
+            "041-042A-019",
+            "041-042A-025",
+            "041-042A-026",
+            "041-042A-021a"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 320.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 205.716990600144,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 349.8,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "041-042A-020"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Coghlan",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1430",
+    "codigo_postal_argentino": "C1430AAD",
+    "comisaria": "35",
+    "comisaria_vecinal": "12C",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   X",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "41"
+  },
+  "debug": {
+    "address": "AV. DOCTOR RICARDO BALBIN 3213",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.47563407939785,
+        -34.55801926689478
+      ],
+      "direccion": "BALBIN, RICARDO, DR. AV. 3213",
+      "fondo": "40.42",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "042A",
+      "parcela": "020",
+      "pdamatriz": "329886",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "041",
+      "smp": "041-042A-020",
+      "smp_anterior": "041-042A-019",
+      "smp_siguiente": "041-042A-021A",
+      "srid": 4326,
+      "superficie_cubierta": "595.00",
+      "superficie_total": "350.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3213,
+      "cod_calle": 4053
+    },
+    "usig_direccion_elegida": {
+      "altura": 3213,
+      "cod_calle": 4053,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.475772",
+        "y": "-34.558185"
+      },
+      "direccion": "BALBIN, RICARDO, DR. AV. 3213, CABA",
+      "nombre_calle": "BALBIN, RICARDO, DR. AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3213,
+          "cod_calle": 4053,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.475772",
+            "y": "-34.558185"
+          },
+          "direccion": "BALBIN, RICARDO, DR. AV. 3213, CABA",
+          "nombre_calle": "BALBIN, RICARDO, DR. AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3213,
+          "cod_calle": 83149,
+          "cod_calle_cruce": null,
+          "cod_partido": "general_san_martin",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5537144306122,
+            "y": -34.5710816857143
+          },
+          "direccion": "Avenida 101 - Doctor Ricardo Balbín 3213, General San Martín",
+          "nombre_calle": "Avenida 101 - Doctor Ricardo Balbín",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Billinghurst",
+          "nombre_partido": "General San Martín",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3213,
+          "cod_calle": 83149,
+          "cod_calle_cruce": null,
+          "cod_partido": "general_san_martin",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5537144306122,
+            "y": -34.5710816857143
+          },
+          "direccion": "Avenida 101 - Doctor Ricardo Balbín 3213, General San Martín",
+          "nombre_calle": "Avenida 101 - Doctor Ricardo Balbín",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Andrés",
+          "nombre_partido": "General San Martín",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3213,
+          "cod_calle": 810905,
+          "cod_calle_cruce": null,
+          "cod_partido": "general_san_martin",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5537144306122,
+            "y": -34.5710816857143
+          },
+          "direccion": "Avenida 101 - Doctor Ricardo Balbín 3213, General San Martín",
+          "nombre_calle": "Avenida 101 - Doctor Ricardo Balbín",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Ballester",
+          "nombre_partido": "General San Martín",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3213,
+          "cod_calle": 22208,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4297235291667,
+            "y": -34.6909935291667
+          },
+          "direccion": "Doctor Ricardo Balbín 3213, Lanús",
+          "nombre_calle": "Doctor Ricardo Balbín",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lanús Oeste",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3213,
+          "cod_calle": 2381,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7553413530612,
+            "y": -34.6770247132653
+          },
+          "direccion": "Avenida Doctor Ricardo Balbín 3213, Merlo",
+          "nombre_calle": "Avenida Doctor Ricardo Balbín",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Merlo",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3213,
+          "cod_calle": 2381,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7553413530612,
+            "y": -34.6770247132653
+          },
+          "direccion": "Avenida Doctor Ricardo Balbín 3213, Merlo",
+          "nombre_calle": "Avenida Doctor Ricardo Balbín",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Parque San Martín",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98862.12299504699,
+                  107884.99001274156
+                ],
+                [
+                  98861.56799504904,
+                  107885.2740127412
+                ],
+                [
+                  98854.88499507017,
+                  107888.69201273625
+                ],
+                [
+                  98854.34999507174,
+                  107888.96601273605
+                ],
+                [
+                  98855.69279507044,
+                  107891.34791272876
+                ],
+                [
+                  98856.89299506856,
+                  107893.47701272144
+                ],
+                [
+                  98856.94699506799,
+                  107893.57201272089
+                ],
+                [
+                  98858.30999506585,
+                  107895.98801271332
+                ],
+                [
+                  98859.66389506435,
+                  107898.3897127058
+                ],
+                [
+                  98862.52599505968,
+                  107903.46701268942
+                ],
+                [
+                  98863.1049950597,
+                  107904.49411268567
+                ],
+                [
+                  98864.76499505647,
+                  107907.43901267665
+                ],
+                [
+                  98865.65299505542,
+                  107909.01301267155
+                ],
+                [
+                  98866.45799505393,
+                  107910.44101266636
+                ],
+                [
+                  98867.01959505372,
+                  107911.43741266368
+                ],
+                [
+                  98867.82699505189,
+                  107912.87001265894
+                ],
+                [
+                  98868.12199505231,
+                  107913.39301265735
+                ],
+                [
+                  98869.35999505038,
+                  107915.58801265049
+                ],
+                [
+                  98873.94707756284,
+                  107923.72309611994
+                ],
+                [
+                  98874.28911857729,
+                  107923.44813274156
+                ],
+                [
+                  98881.23499501879,
+                  107917.86601263515
+                ],
+                [
+                  98880.99299501862,
+                  107917.45001263631
+                ],
+                [
+                  98877.27508047369,
+                  107911.05408980532
+                ],
+                [
+                  98875.54906729265,
+                  107908.0850956743
+                ],
+                [
+                  98872.59799503173,
+                  107903.0100126827
+                ],
+                [
+                  98871.93899503276,
+                  107901.87601268679
+                ],
+                [
+                  98871.13899503415,
+                  107900.49901269094
+                ],
+                [
+                  98869.37099503666,
+                  107897.45801270058
+                ],
+                [
+                  98867.55599503897,
+                  107894.33601271122
+                ],
+                [
+                  98865.98099504117,
+                  107891.62601271996
+                ],
+                [
+                  98863.71099504507,
+                  107887.72201273256
+                ],
+                [
+                  98862.12299504699,
+                  107884.99001274156
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "041-042A-020",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AV. DOCTOR RICARDO BALBIN 3213",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.47563407939785,
+      -34.55801926689478
+    ],
+    "direccion": "BALBIN, RICARDO, DR. AV. 3213",
+    "fondo": "40.42",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "042A",
+    "parcela": "020",
+    "pdamatriz": "329886",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [
+      {
+        "altura": 3213,
+        "calle": "BALBIN, RICARDO, DR. AV.",
+        "codigo_calle": 4053,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "041",
+    "smp": "041-042A-020",
+    "smp_anterior": "041-042A-019",
+    "smp_siguiente": "041-042A-021A",
+    "srid": 4326,
+    "superficie_cubierta": "595.00",
+    "superficie_total": "350.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "041-042A-020"
+}

@@ -1,0 +1,490 @@
+{
+  "area_m2": 388.306676864624,
+  "centroide_lonlat": {
+    "lat": -34.634606,
+    "lon": -58.49788
+  },
+  "centroide_xy": {
+    "x": 96829.16052993077,
+    "y": 99407.37336261729
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/9/72/077-008-027_0000167972.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION077/077-008-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION077/PI-077-008-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "077-008-017",
+            "077-008-025a",
+            "077-008-028"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 351.130446631007,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 388.3,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "077-008-027"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Villa Luro",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1407",
+    "codigo_postal_argentino": "C1407EEI",
+    "comisaria": "43",
+    "comisaria_vecinal": "10B",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "77"
+  },
+  "debug": {
+    "address": "BACACAY 5061",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.497879927658516,
+        -34.634606141874656
+      ],
+      "direccion": "BACACAY 5061",
+      "fondo": "45.04",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "008",
+      "parcela": "027",
+      "pdamatriz": "6379",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "077",
+      "smp": "077-008-027",
+      "smp_anterior": "077-008-025A",
+      "smp_siguiente": "077-008-028",
+      "srid": 4326,
+      "superficie_cubierta": "286.00",
+      "superficie_total": "390.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 5061,
+      "cod_calle": 2002
+    },
+    "usig_direccion_elegida": {
+      "altura": 5061,
+      "cod_calle": 2002,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.497837",
+        "y": "-34.634829"
+      },
+      "direccion": "BACACAY 5061, CABA",
+      "nombre_calle": "BACACAY",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 5061,
+          "cod_calle": 2002,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.497837",
+            "y": "-34.634829"
+          },
+          "direccion": "BACACAY 5061, CABA",
+          "nombre_calle": "BACACAY",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96835.04399434358,
+                  99397.95703806952
+                ],
+                [
+                  96835.09699434297,
+                  99397.62903806765
+                ],
+                [
+                  96835.5379943396,
+                  99394.87503807593
+                ],
+                [
+                  96835.57499433952,
+                  99394.64503807627
+                ],
+                [
+                  96835.85499433795,
+                  99392.90003808087
+                ],
+                [
+                  96836.36099433296,
+                  99389.74103809011
+                ],
+                [
+                  96836.50199433349,
+                  99388.85703809239
+                ],
+                [
+                  96836.96999432947,
+                  99385.93903810077
+                ],
+                [
+                  96833.88199433804,
+                  99385.45003810458
+                ],
+                [
+                  96833.55399433817,
+                  99385.39803810345
+                ],
+                [
+                  96831.44999434403,
+                  99385.06503810856
+                ],
+                [
+                  96828.34699435224,
+                  99384.57403811027
+                ],
+                [
+                  96827.24099436075,
+                  99391.65403809049
+                ],
+                [
+                  96827.18999436192,
+                  99391.98203809094
+                ],
+                [
+                  96826.52599436592,
+                  99396.2370380779
+                ],
+                [
+                  96826.47499436681,
+                  99396.56503807977
+                ],
+                [
+                  96826.00599437043,
+                  99399.56503807098
+                ],
+                [
+                  96825.67899437224,
+                  99401.66303806467
+                ],
+                [
+                  96825.20699437741,
+                  99404.68003805456
+                ],
+                [
+                  96825.17699437658,
+                  99404.87003805689
+                ],
+                [
+                  96825.15599437745,
+                  99405.0080380557
+                ],
+                [
+                  96825.12999437642,
+                  99405.1740380541
+                ],
+                [
+                  96825.09999437713,
+                  99405.3640380551
+                ],
+                [
+                  96825.0789943769,
+                  99405.50203805527
+                ],
+                [
+                  96825.05299437775,
+                  99405.66803805373
+                ],
+                [
+                  96825.02299437762,
+                  99405.85803805248
+                ],
+                [
+                  96825.00199437863,
+                  99405.99603805342
+                ],
+                [
+                  96824.45199438154,
+                  99409.52103804407
+                ],
+                [
+                  96824.29099438351,
+                  99410.5500380416
+                ],
+                [
+                  96821.41599440573,
+                  99428.96203799153
+                ],
+                [
+                  96824.84199439579,
+                  99429.51503798724
+                ],
+                [
+                  96828.6409943856,
+                  99430.12803798259
+                ],
+                [
+                  96829.62899438338,
+                  99430.28703798211
+                ],
+                [
+                  96829.85799438268,
+                  99430.32403798177
+                ],
+                [
+                  96830.37999437808,
+                  99427.06503798952
+                ],
+                [
+                  96830.56199437763,
+                  99425.93203799348
+                ],
+                [
+                  96831.60299436984,
+                  99419.43603801084
+                ],
+                [
+                  96832.1879943654,
+                  99415.78303802051
+                ],
+                [
+                  96832.81699436082,
+                  99411.85403803186
+                ],
+                [
+                  96832.9819943592,
+                  99410.82503803368
+                ],
+                [
+                  96833.21999435738,
+                  99409.3440380368
+                ],
+                [
+                  96833.24199435701,
+                  99409.20603803868
+                ],
+                [
+                  96833.27199435644,
+                  99409.01603803775
+                ],
+                [
+                  96833.57999435486,
+                  99407.094038043
+                ],
+                [
+                  96833.61299435409,
+                  99406.88903804545
+                ],
+                [
+                  96833.63499435369,
+                  99406.75103804315
+                ],
+                [
+                  96833.66499435464,
+                  99406.56103804361
+                ],
+                [
+                  96833.69199435327,
+                  99406.39503804519
+                ],
+                [
+                  96833.71399435289,
+                  99406.257038045
+                ],
+                [
+                  96833.7449943541,
+                  99406.0670380469
+                ],
+                [
+                  96834.22799434968,
+                  99403.05203805276
+                ],
+                [
+                  96834.36499434858,
+                  99402.19903805704
+                ],
+                [
+                  96834.56399434814,
+                  99400.95503805866
+                ],
+                [
+                  96834.84499434492,
+                  99399.19803806412
+                ],
+                [
+                  96835.04399434358,
+                  99397.95703806952
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "077-008-027",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "BACACAY 5061",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.497879927658516,
+      -34.634606141874656
+    ],
+    "direccion": "BACACAY 5061",
+    "fondo": "45.04",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "008",
+    "parcela": "027",
+    "pdamatriz": "6379",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [
+      {
+        "altura": 5061,
+        "calle": "BACACAY",
+        "codigo_calle": 2002,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "077",
+    "smp": "077-008-027",
+    "smp_anterior": "077-008-025A",
+    "smp_siguiente": "077-008-028",
+    "srid": 4326,
+    "superficie_cubierta": "286.00",
+    "superficie_total": "390.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "077-008-027"
+}

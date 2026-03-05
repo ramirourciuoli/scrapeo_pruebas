@@ -1,0 +1,380 @@
+{
+  "area_m2": 213.56335830688477,
+  "centroide_lonlat": {
+    "lat": -34.60818,
+    "lon": -58.432333
+  },
+  "centroide_xy": {
+    "x": 102840.45845942586,
+    "y": 102339.14293121033
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 2.72,
+          "fot_perim_libre": 2.72,
+          "fot_semi_libre": 2.72
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/89/045-149-010_0000124689.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION045/045-149-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION045/PI-045-149-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "DI-2021-2029-GCABA-DGIUR",
+          "pdf": "045-149.pdf"
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "045-149-002",
+            "045-149-011",
+            "045-149-009"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2a II",
+          "incidencia_uva": 190.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 144.91408135349,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 213.6,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "045-149-010"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Caballito",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1405",
+    "codigo_postal_argentino": "C1405BXB",
+    "comisaria": "11",
+    "comisaria_vecinal": "6A",
+    "comuna": "Comuna 6",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "45"
+  },
+  "debug": {
+    "address": "ESNAOLA 658",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.432332899193135,
+        -34.60817957663201
+      ],
+      "direccion": "ESNAOLA 658",
+      "fondo": "22.48",
+      "frente": "9.52",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "149",
+      "parcela": "010",
+      "pdamatriz": "174118",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "045",
+      "smp": "045-149-010",
+      "smp_anterior": "045-149-009",
+      "smp_siguiente": "045-149-011",
+      "srid": 4326,
+      "superficie_cubierta": "277.00",
+      "superficie_total": "214.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 658,
+      "cod_calle": 5073
+    },
+    "usig_direccion_elegida": {
+      "altura": 658,
+      "cod_calle": 5073,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.432185",
+        "y": "-34.608174"
+      },
+      "direccion": "ESNAOLA 658, CABA",
+      "nombre_calle": "ESNAOLA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 658,
+          "cod_calle": 5073,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.432185",
+            "y": "-34.608174"
+          },
+          "direccion": "ESNAOLA 658, CABA",
+          "nombre_calle": "ESNAOLA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 658,
+          "cod_calle": 439160,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7589566142857,
+            "y": -34.6905525285714
+          },
+          "direccion": "Esnaola 658, Merlo",
+          "nombre_calle": "Esnaola",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Parque San Martín",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 658,
+          "cod_calle": 69143,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_isidro",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5460522,
+            "y": -34.4835620285714
+          },
+          "direccion": "Juan Pedro Esnaola 658, San Isidro",
+          "nombre_calle": "Juan Pedro Esnaola",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Isidro",
+          "nombre_partido": "San Isidro",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102851.63297968886,
+                  102343.99102527782
+                ],
+                [
+                  102851.86897968253,
+                  102336.99602529715
+                ],
+                [
+                  102851.9529796802,
+                  102334.49602530414
+                ],
+                [
+                  102851.5529796819,
+                  102334.49402530407
+                ],
+                [
+                  102848.79797968973,
+                  102334.48202530612
+                ],
+                [
+                  102848.29897969036,
+                  102334.48002530707
+                ],
+                [
+                  102843.03797970513,
+                  102334.45702531104
+                ],
+                [
+                  102838.84797971738,
+                  102334.43902531409
+                ],
+                [
+                  102829.2809797444,
+                  102334.39802532119
+                ],
+                [
+                  102828.96797974952,
+                  102340.16002530538
+                ],
+                [
+                  102828.94097974926,
+                  102340.66002530401
+                ],
+                [
+                  102828.77797975231,
+                  102343.65802529544
+                ],
+                [
+                  102832.67997974115,
+                  102343.71502529236
+                ],
+                [
+                  102838.67797972498,
+                  102343.80202528785
+                ],
+                [
+                  102842.06797971518,
+                  102343.85202528501
+                ],
+                [
+                  102842.88797971322,
+                  102343.86402528442
+                ],
+                [
+                  102846.54897970235,
+                  102343.91702528181
+                ],
+                [
+                  102848.64797969689,
+                  102343.94802527965
+                ],
+                [
+                  102851.63297968886,
+                  102343.99102527782
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "045-149-010",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ESNAOLA 658",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.432332899193135,
+      -34.60817957663201
+    ],
+    "direccion": "ESNAOLA 658",
+    "fondo": "22.48",
+    "frente": "9.52",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "149",
+    "parcela": "010",
+    "pdamatriz": "174118",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [
+      {
+        "altura": 658,
+        "calle": "ESNAOLA",
+        "codigo_calle": 5073,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "045",
+    "smp": "045-149-010",
+    "smp_anterior": "045-149-009",
+    "smp_siguiente": "045-149-011",
+    "srid": 4326,
+    "superficie_cubierta": "277.00",
+    "superficie_total": "214.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "045-149-010"
+}

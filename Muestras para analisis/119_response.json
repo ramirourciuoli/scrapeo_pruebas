@@ -1,0 +1,430 @@
+{
+  "area_m2": 448.2868986129761,
+  "centroide_lonlat": {
+    "lat": -34.674358,
+    "lon": -58.485804
+  },
+  "centroide_xy": {
+    "x": 97937.4358106438,
+    "y": 94997.74625128612
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [
+          {
+            "estado_parcelario_constituido": "Si",
+            "fecha_de_constitucion": "6-9-2023",
+            "tipo_de_construccion": "CEP Demolicion",
+            "vencimiento_de_construccion": "6-9-2024"
+          }
+        ],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 2.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/fp/SECCION078/FP-078-091-024a-VD.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION078/078-091-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION078/PI-078-091-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "078-091-022",
+            "078-091-023",
+            "078-091-026"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "E2",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 1434.6,
+          "plusvalia_sl": 1434.6
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 448.31270000002,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 448.3,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "078-091-024A"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Villa Lugano",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1439",
+    "codigo_postal_argentino": "C1439GEM",
+    "comisaria": "48",
+    "comisaria_vecinal": "8A",
+    "comuna": "Comuna 8",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "78"
+  },
+  "debug": {
+    "address": "LISANDRO DE LA TORRE 3687",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.485804253216905,
+        -34.674357976593996
+      ],
+      "direccion": "DE LA TORRE, LISANDRO 3687",
+      "fondo": "26.03",
+      "frente": "17.29",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "091",
+      "parcela": "024A",
+      "pdamatriz": "98004",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "078",
+      "smp": "078-091-024A",
+      "smp_anterior": "078-091-023",
+      "smp_siguiente": "078-091-026",
+      "srid": 4326,
+      "superficie_cubierta": "150.00",
+      "superficie_total": "450.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3687,
+      "cod_calle": 21019
+    },
+    "usig_direccion_elegida": {
+      "altura": 3687,
+      "cod_calle": 21019,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.485684",
+        "y": "-34.674259"
+      },
+      "direccion": "DE LA TORRE, LISANDRO 3687, CABA",
+      "nombre_calle": "DE LA TORRE, LISANDRO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3687,
+          "cod_calle": 21019,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.485684",
+            "y": "-34.674259"
+          },
+          "direccion": "DE LA TORRE, LISANDRO 3687, CABA",
+          "nombre_calle": "DE LA TORRE, LISANDRO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3687,
+          "cod_calle": 314626,
+          "cod_calle_cruce": null,
+          "cod_partido": "berazategui",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.1806095306122,
+            "y": -34.7775834285714
+          },
+          "direccion": "Diagonal Lisandro de la Torre 3687, Berazategui",
+          "nombre_calle": "Diagonal Lisandro de la Torre",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Plátanos",
+          "nombre_partido": "Berazategui",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3687,
+          "cod_calle": 162610,
+          "cod_calle_cruce": null,
+          "cod_partido": "ituzaingo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7052297081633,
+            "y": -34.6357343897959
+          },
+          "direccion": "Lisandro de La Torre 3687, Ituzaingó",
+          "nombre_calle": "Lisandro de La Torre",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ituzaingó",
+          "nombre_partido": "Ituzaingó",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3687,
+          "cod_calle": 144398,
+          "cod_calle_cruce": null,
+          "cod_partido": "malvinas_argentinas",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7664893860461,
+            "y": -34.4875790734278
+          },
+          "direccion": "Lisandro de la Torre 3687, Malvinas Argentinas",
+          "nombre_calle": "Lisandro de la Torre",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Tortuguitas",
+          "nombre_partido": "Malvinas Argentinas",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3687,
+          "cod_calle": 64916,
+          "cod_calle_cruce": null,
+          "cod_partido": "quilmes",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.2731669081633,
+            "y": -34.7552205653061
+          },
+          "direccion": "Lisandro de la Torre 3687, Quilmes",
+          "nombre_calle": "Lisandro de la Torre",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Quilmes",
+          "nombre_partido": "Quilmes",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3687,
+          "cod_calle": 27409,
+          "cod_calle_cruce": null,
+          "cod_partido": "tres_de_febrero",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5578951459184,
+            "y": -34.6164022571429
+          },
+          "direccion": "637 - Lisandro de la Torre 3687, Tres de Febrero",
+          "nombre_calle": "637 - Lisandro de la Torre",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Caseros",
+          "nombre_partido": "Tres de Febrero",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97940.24998794397,
+                  95013.36504953202
+                ],
+                [
+                  97942.23598793667,
+                  95011.38004953513
+                ],
+                [
+                  97945.03698792653,
+                  95008.58104954186
+                ],
+                [
+                  97946.28598792307,
+                  95007.33204954452
+                ],
+                [
+                  97952.31398790155,
+                  95001.30504955689
+                ],
+                [
+                  97949.36698790688,
+                  94998.05704956819
+                ],
+                [
+                  97943.67698791788,
+                  94991.7860495893
+                ],
+                [
+                  97941.44798792235,
+                  94989.33004959821
+                ],
+                [
+                  97936.45998793212,
+                  94983.83204961827
+                ],
+                [
+                  97934.87798793468,
+                  94982.08804962531
+                ],
+                [
+                  97932.91898794187,
+                  94984.02404962038
+                ],
+                [
+                  97931.37298794744,
+                  94985.55104961625
+                ],
+                [
+                  97928.52598795784,
+                  94988.3630496104
+                ],
+                [
+                  97925.67898796737,
+                  94991.17504960528
+                ],
+                [
+                  97922.4559879797,
+                  94994.36004959917
+                ],
+                [
+                  97924.91898797402,
+                  94996.99104959008
+                ],
+                [
+                  97940.24998794397,
+                  95013.36504953202
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "078-091-024A",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "LISANDRO DE LA TORRE 3687",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.485804253216905,
+      -34.674357976593996
+    ],
+    "direccion": "DE LA TORRE, LISANDRO 3687",
+    "fondo": "26.03",
+    "frente": "17.29",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "091",
+    "parcela": "024A",
+    "pdamatriz": "98004",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [
+      {
+        "altura": 3687,
+        "calle": "DE LA TORRE, LISANDRO",
+        "codigo_calle": 21019,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "078",
+    "smp": "078-091-024A",
+    "smp_anterior": "078-091-023",
+    "smp_siguiente": "078-091-026",
+    "srid": 4326,
+    "superficie_cubierta": "150.00",
+    "superficie_total": "450.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "078-091-024A"
+}

@@ -1,0 +1,442 @@
+{
+  "area_m2": 223.10241508483887,
+  "centroide_lonlat": {
+    "lat": -34.637322,
+    "lon": -58.371367
+  },
+  "centroide_xy": {
+    "x": 108429.56747499044,
+    "y": 99102.83857407248
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 13.5,
+        "catalogacion": {
+          "catalogacion": "APH",
+          "denominacion": null,
+          "estado": "CPU/CUr",
+          "ley_3056": "NO",
+          "proteccion": "GENERAL"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "APH",
+            "distrito_especifico": "APH 5"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 0.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/76/010-049-012_0000356076.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION010/010-049-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION010/PI-010-049-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "010-049-011",
+            "010-049-014",
+            "010-049-013"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "APH 5",
+          "incidencia_uva": 150.0,
+          "plusvalia_em": 4819.11,
+          "plusvalia_pl": 4819.11,
+          "plusvalia_sl": 4819.11
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 223.107149999973,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 223.1,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "010-049-012"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C. ARGERICH",
+    "barrio": "Barracas",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1267",
+    "codigo_postal_argentino": "C1267ABL",
+    "comisaria": "26",
+    "comisaria_vecinal": "4D",
+    "comuna": "Comuna 4",
+    "distrito_economico": "DISTRITO DE LAS ARTES",
+    "distrito_escolar": "Distrito Escolar   IV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "10"
+  },
+  "debug": {
+    "address": "AZARA 538",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.37136747639202,
+        -34.63732152112131
+      ],
+      "direccion": "AZARA 538",
+      "fondo": "24.56",
+      "frente": "9.00",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "049",
+      "parcela": "012",
+      "pdamatriz": "123291",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "010",
+      "smp": "010-049-012",
+      "smp_anterior": "010-049-011",
+      "smp_siguiente": "010-049-013",
+      "srid": 4326,
+      "superficie_cubierta": "339.00",
+      "superficie_total": "221.00",
+      "unidades_funcionales": "2",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 538,
+      "cod_calle": 1146
+    },
+    "usig_direccion_elegida": {
+      "altura": 538,
+      "cod_calle": 1146,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.371525",
+        "y": "-34.637344"
+      },
+      "direccion": "AZARA 538, CABA",
+      "nombre_calle": "AZARA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 538,
+          "cod_calle": 1146,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.371525",
+            "y": "-34.637344"
+          },
+          "direccion": "AZARA 538, CABA",
+          "nombre_calle": "AZARA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 538,
+          "cod_calle": 111110,
+          "cod_calle_cruce": null,
+          "cod_partido": "florencio_varela",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.293303922449,
+            "y": -34.7872519040816
+          },
+          "direccion": "Felix de Azara 538, Florencio Varela",
+          "nombre_calle": "Felix de Azara",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Florencio Varela",
+          "nombre_partido": "Florencio Varela",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 538,
+          "cod_calle": 69869,
+          "cod_calle_cruce": null,
+          "cod_partido": "jose_c_paz",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7475507183673,
+            "y": -34.5015355469388
+          },
+          "direccion": "Félix de Azara 538, José C. Paz",
+          "nombre_calle": "Félix de Azara",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "José C. Paz",
+          "nombre_partido": "José C. Paz",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 538,
+          "cod_calle": 17387,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4040960469388,
+            "y": -34.7536343040817
+          },
+          "direccion": "Félix de Azara 538, Lomas de Zamora",
+          "nombre_calle": "Félix de Azara",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lomas de Zamora",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 538,
+          "cod_calle": 165071,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7294386081633,
+            "y": -34.6807519612245
+          },
+          "direccion": "Azara 538, Merlo",
+          "nombre_calle": "Azara",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Parque San Martín",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  108442.01396157172,
+                  99102.76903015943
+                ],
+                [
+                  108442.18396157038,
+                  99101.71403016165
+                ],
+                [
+                  108442.28496156943,
+                  99101.08903016333
+                ],
+                [
+                  108442.44396156823,
+                  99100.0980301665
+                ],
+                [
+                  108440.46396157311,
+                  99099.81303016868
+                ],
+                [
+                  108439.24696157716,
+                  99099.63803017026
+                ],
+                [
+                  108435.09696158794,
+                  99099.041030175
+                ],
+                [
+                  108430.74796159928,
+                  99098.41503017987
+                ],
+                [
+                  108430.06996160174,
+                  99098.31803018061
+                ],
+                [
+                  108427.20796160882,
+                  99097.90603018439
+                ],
+                [
+                  108426.87096161037,
+                  99097.85703018415
+                ],
+                [
+                  108421.33496162499,
+                  99097.06103019047
+                ],
+                [
+                  108420.27396162807,
+                  99096.90803019176
+                ],
+                [
+                  108418.18896163374,
+                  99096.60803019436
+                ],
+                [
+                  108417.66596163744,
+                  99099.66003018632
+                ],
+                [
+                  108417.1929616406,
+                  99102.42203017903
+                ],
+                [
+                  108416.65296164449,
+                  99105.57703016992
+                ],
+                [
+                  108428.53696161206,
+                  99107.2780301566
+                ],
+                [
+                  108434.45296159627,
+                  99108.12503014982
+                ],
+                [
+                  108441.00296157843,
+                  99109.06203014217
+                ],
+                [
+                  108441.03696157818,
+                  99108.84903014323
+                ],
+                [
+                  108441.37096157642,
+                  99106.77303014838
+                ],
+                [
+                  108441.64496157362,
+                  99105.06603015258
+                ],
+                [
+                  108441.76096157316,
+                  99104.34703015498
+                ],
+                [
+                  108441.83196157306,
+                  99103.9060301565
+                ],
+                [
+                  108442.01396157172,
+                  99102.76903015943
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "010-049-012",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AZARA 538",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.37136747639202,
+      -34.63732152112131
+    ],
+    "direccion": "AZARA 538",
+    "fondo": "24.56",
+    "frente": "9.00",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "049",
+    "parcela": "012",
+    "pdamatriz": "123291",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "Si",
+    "puertas": [
+      {
+        "altura": 538,
+        "calle": "AZARA",
+        "codigo_calle": 1146,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "010",
+    "smp": "010-049-012",
+    "smp_anterior": "010-049-011",
+    "smp_siguiente": "010-049-013",
+    "srid": 4326,
+    "superficie_cubierta": "339.00",
+    "superficie_total": "221.00",
+    "unidades_funcionales": "2",
+    "vuc": "0.00"
+  },
+  "smp": "010-049-012"
+}

@@ -1,0 +1,346 @@
+{
+  "area_m2": 253.4522876739502,
+  "centroide_lonlat": {
+    "lat": -34.652801,
+    "lon": -58.423489
+  },
+  "centroide_xy": {
+    "x": 103649.73915167598,
+    "y": 97388.66695903761
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 2.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/32/046-164-024_0000068032.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION046/046-164-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION046/PI-046-164-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "046-164-030",
+            "046-164-025",
+            "046-164-023"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "I2",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 811.1,
+          "plusvalia_sl": 811.1
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 253.467550000086,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 253.5,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "046-164-024"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.M. PENNA",
+    "barrio": "Nueva Pompeya",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1437",
+    "codigo_postal_argentino": "C1437AKJ",
+    "comisaria": "34",
+    "comisaria_vecinal": "4B",
+    "comuna": "Comuna 4",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "46"
+  },
+  "debug": {
+    "address": "MOM 3150",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.4234886874063,
+        -34.65280148317444
+      ],
+      "direccion": "MOM 3150",
+      "fondo": "29.22",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "164",
+      "parcela": "024",
+      "pdamatriz": "50520",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "046",
+      "smp": "046-164-024",
+      "smp_anterior": "046-164-023",
+      "smp_siguiente": "046-164-025",
+      "srid": 4326,
+      "superficie_cubierta": "490.00",
+      "superficie_total": "253.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3150,
+      "cod_calle": 13103
+    },
+    "usig_direccion_elegida": {
+      "altura": 3150,
+      "cod_calle": 13103,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.423624",
+        "y": "-34.652930"
+      },
+      "direccion": "MOM 3150, CABA",
+      "nombre_calle": "MOM",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3150,
+          "cod_calle": 13103,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.423624",
+            "y": "-34.652930"
+          },
+          "direccion": "MOM 3150, CABA",
+          "nombre_calle": "MOM",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  103636.91297375006,
+                  97380.57503860537
+                ],
+                [
+                  103638.99997374637,
+                  97382.97203859696
+                ],
+                [
+                  103640.79297374251,
+                  97385.03203858962
+                ],
+                [
+                  103644.08497373635,
+                  97388.81303857666
+                ],
+                [
+                  103646.40897373238,
+                  97391.48203856786
+                ],
+                [
+                  103649.12397372621,
+                  97394.60003855644
+                ],
+                [
+                  103650.79097372378,
+                  97396.51503855013
+                ],
+                [
+                  103653.45297371827,
+                  97399.57303853886
+                ],
+                [
+                  103655.99497371473,
+                  97402.49303852743
+                ],
+                [
+                  103656.73097371055,
+                  97401.85103853018
+                ],
+                [
+                  103659.53797370064,
+                  97399.40503853734
+                ],
+                [
+                  103662.56897369116,
+                  97396.76403854165
+                ],
+                [
+                  103657.04897370096,
+                  97390.42303856363
+                ],
+                [
+                  103655.86597370423,
+                  97389.06503856782
+                ],
+                [
+                  103654.71397370577,
+                  97387.74103857225
+                ],
+                [
+                  103650.7209737135,
+                  97383.15603858771
+                ],
+                [
+                  103643.4789737273,
+                  97374.83703861578
+                ],
+                [
+                  103637.32097374994,
+                  97380.21903860575
+                ],
+                [
+                  103636.91297375006,
+                  97380.57503860537
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "046-164-024",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MOM 3150",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.4234886874063,
+      -34.65280148317444
+    ],
+    "direccion": "MOM 3150",
+    "fondo": "29.22",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "164",
+    "parcela": "024",
+    "pdamatriz": "50520",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [
+      {
+        "altura": 3150,
+        "calle": "MOM",
+        "codigo_calle": 13103,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "046",
+    "smp": "046-164-024",
+    "smp_anterior": "046-164-023",
+    "smp_siguiente": "046-164-025",
+    "srid": 4326,
+    "superficie_cubierta": "490.00",
+    "superficie_total": "253.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "046-164-024"
+}

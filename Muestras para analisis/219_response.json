@@ -1,0 +1,437 @@
+{
+  "area_m2": 216.07460689544678,
+  "centroide_lonlat": {
+    "lat": -34.583969,
+    "lon": -58.421714
+  },
+  "centroide_xy": {
+    "x": 103815.56150991836,
+    "y": 105024.61320807588
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.31,
+          "fot_perim_libre": 3.31,
+          "fot_semi_libre": 3.31
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/13/019-154-008_0000442013.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION019/019-154-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION019/PI-019-154-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "019-154-014e",
+            "019-154-009",
+            "019-154-006a"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2a I",
+          "incidencia_uva": 500.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 216.1,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "019-154-008"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.A.FERNÁNDEZ",
+    "barrio": "Palermo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1425",
+    "codigo_postal_argentino": "C1425FEI",
+    "comisaria": "23",
+    "comisaria_vecinal": "14A",
+    "comuna": "Comuna 14",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   IX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "19"
+  },
+  "debug": {
+    "address": "GURRUCHAGA 2345",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.421714249944145,
+        -34.58396897561527
+      ],
+      "direccion": "GURRUCHAGA 2345",
+      "fondo": "25.06",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "154",
+      "parcela": "008",
+      "pdamatriz": "427380",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "8",
+      "propiedad_horizontal": "Si",
+      "seccion": "019",
+      "smp": "019-154-008",
+      "smp_anterior": "019-154-006A",
+      "smp_siguiente": "019-154-009",
+      "srid": 4326,
+      "superficie_cubierta": "1597.00",
+      "superficie_total": "217.00",
+      "unidades_funcionales": "16",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2345,
+      "cod_calle": 7108
+    },
+    "usig_direccion_elegida": {
+      "altura": 2345,
+      "cod_calle": 7108,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.421832",
+        "y": "-34.583873"
+      },
+      "direccion": "GURRUCHAGA 2345, CABA",
+      "nombre_calle": "GURRUCHAGA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2345,
+          "cod_calle": 7108,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.421832",
+            "y": "-34.583873"
+          },
+          "direccion": "GURRUCHAGA 2345, CABA",
+          "nombre_calle": "GURRUCHAGA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2345,
+          "cod_calle": 72313,
+          "cod_calle_cruce": null,
+          "cod_partido": "hurlingham",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6474713632653,
+            "y": -34.5915580632653
+          },
+          "direccion": "F. Gurruchaga 2345, Hurlingham",
+          "nombre_calle": "F. Gurruchaga",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Hurlingham",
+          "nombre_partido": "Hurlingham",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2345,
+          "cod_calle": 141773,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5230169377551,
+            "y": -34.7172912040816
+          },
+          "direccion": "Gurruchaga 2345, La Matanza",
+          "nombre_calle": "Gurruchaga",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ciudad Evita",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2345,
+          "cod_calle": 148066,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_isidro",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5900645581633,
+            "y": -34.4928346591837
+          },
+          "direccion": "Gurruchaga 2345, San Isidro",
+          "nombre_calle": "Gurruchaga",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Boulogne Sur Mer",
+          "nombre_partido": "San Isidro",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  103811.09697902336,
+                  105034.94601700926
+                ],
+                [
+                  103811.68797902131,
+                  105034.36801700981
+                ],
+                [
+                  103815.93997900657,
+                  105030.21301701892
+                ],
+                [
+                  103816.15397900551,
+                  105030.00401701863
+                ],
+                [
+                  103817.0979790023,
+                  105029.08201702114
+                ],
+                [
+                  103819.41297899355,
+                  105026.82001702563
+                ],
+                [
+                  103820.00797899213,
+                  105026.23901702659
+                ],
+                [
+                  103825.14097897343,
+                  105021.22401703711
+                ],
+                [
+                  103825.2459789735,
+                  105021.12101703728
+                ],
+                [
+                  103828.10597896276,
+                  105018.32601704297
+                ],
+                [
+                  103820.8979789796,
+                  105013.34801706226
+                ],
+                [
+                  103819.76097898351,
+                  105014.45201705935
+                ],
+                [
+                  103814.04197900415,
+                  105020.00801704888
+                ],
+                [
+                  103813.62297900495,
+                  105020.4150170477
+                ],
+                [
+                  103813.35997900656,
+                  105020.67001704709
+                ],
+                [
+                  103811.13697901418,
+                  105022.83001704281
+                ],
+                [
+                  103806.17597903158,
+                  105027.648017033
+                ],
+                [
+                  103804.87997903611,
+                  105028.90701703003
+                ],
+                [
+                  103804.64797903705,
+                  105029.13301703034
+                ],
+                [
+                  103804.37797903753,
+                  105029.39501702896
+                ],
+                [
+                  103803.94697903919,
+                  105029.81301702867
+                ],
+                [
+                  103803.51697904099,
+                  105030.23101702743
+                ],
+                [
+                  103803.86897904024,
+                  105030.58501702646
+                ],
+                [
+                  103805.27997903769,
+                  105032.003017021
+                ],
+                [
+                  103809.27897902932,
+                  105036.02401700735
+                ],
+                [
+                  103809.63097902857,
+                  105036.37801700548
+                ],
+                [
+                  103810.48897902548,
+                  105035.53901700748
+                ],
+                [
+                  103810.9899790239,
+                  105035.05001700841
+                ],
+                [
+                  103811.09697902336,
+                  105034.94601700926
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "019-154-008",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "GURRUCHAGA 2345",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.421714249944145,
+      -34.58396897561527
+    ],
+    "direccion": "GURRUCHAGA 2345",
+    "fondo": "25.06",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "154",
+    "parcela": "008",
+    "pdamatriz": "427380",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "8",
+    "propiedad_horizontal": "Si",
+    "puertas": [
+      {
+        "altura": 2345,
+        "calle": "GURRUCHAGA",
+        "codigo_calle": 7108,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "019",
+    "smp": "019-154-008",
+    "smp_anterior": "019-154-006A",
+    "smp_siguiente": "019-154-009",
+    "srid": 4326,
+    "superficie_cubierta": "1597.00",
+    "superficie_total": "217.00",
+    "unidades_funcionales": "16",
+    "vuc": "0.00"
+  },
+  "smp": "019-154-008"
+}

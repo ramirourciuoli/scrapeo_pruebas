@@ -1,0 +1,375 @@
+{
+  "area_m2": 115.49160575866699,
+  "centroide_lonlat": {
+    "lat": -34.593531,
+    "lon": -58.499486
+  },
+  "centroide_xy": {
+    "x": 96680.24048023202,
+    "y": 103964.01219305358
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/54/071-031-022_0000116754.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION071/071-031-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION071/PI-071-031-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "071-031-021",
+            "071-031-023"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 130.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 115.468949999964,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 115.5,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "071-031-022"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. A. ZUBIZARRETA",
+    "barrio": "Agronomia",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1419",
+    "codigo_postal_argentino": "C1419HFS",
+    "comisaria": "47",
+    "comisaria_vecinal": "15C",
+    "comuna": "Comuna 15",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "71"
+  },
+  "debug": {
+    "address": "ASUNCION 3095",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.49948616518861,
+        -34.59353120973137
+      ],
+      "direccion": "ASUNCION 3095",
+      "fondo": "10.86",
+      "frente": "11.14",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "031",
+      "parcela": "022",
+      "pdamatriz": "304741",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "071",
+      "smp": "071-031-022",
+      "smp_anterior": "071-031-021",
+      "smp_siguiente": "071-031-023",
+      "srid": 4326,
+      "superficie_cubierta": "179.00",
+      "superficie_total": "121.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3095,
+      "cod_calle": 1131
+    },
+    "usig_direccion_elegida": {
+      "altura": 3095,
+      "cod_calle": 1131,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.499448",
+        "y": "-34.593603"
+      },
+      "direccion": "ASUNCION 3095, CABA",
+      "nombre_calle": "ASUNCION",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3095,
+          "cod_calle": 1131,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.499448",
+            "y": "-34.593603"
+          },
+          "direccion": "ASUNCION 3095, CABA",
+          "nombre_calle": "ASUNCION",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3095,
+          "cod_calle": 8955,
+          "cod_calle_cruce": null,
+          "cod_partido": "tres_de_febrero",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5431003112245,
+            "y": -34.6188051112245
+          },
+          "direccion": "277 - Asunción 3095, Tres de Febrero",
+          "nombre_calle": "277 - Asunción",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "José Ingenieros",
+          "nombre_partido": "Tres de Febrero",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96681.59199821542,
+                  103969.63102536282
+                ],
+                [
+                  96683.89899821015,
+                  103971.26202535653
+                ],
+                [
+                  96685.99099820247,
+                  103968.53502536268
+                ],
+                [
+                  96688.66699819226,
+                  103965.04502537026
+                ],
+                [
+                  96685.50199819935,
+                  103962.6780253796
+                ],
+                [
+                  96681.83399820705,
+                  103959.93502538942
+                ],
+                [
+                  96679.57999821237,
+                  103958.25002539624
+                ],
+                [
+                  96673.60999823011,
+                  103959.21002539797
+                ],
+                [
+                  96671.28399823864,
+                  103962.34202539112
+                ],
+                [
+                  96671.89799823728,
+                  103962.77602538891
+                ],
+                [
+                  96672.10199823676,
+                  103962.92002538868
+                ],
+                [
+                  96672.83699823542,
+                  103963.44002538716
+                ],
+                [
+                  96677.18299822546,
+                  103966.51302537508
+                ],
+                [
+                  96678.63699822205,
+                  103967.54102537103
+                ],
+                [
+                  96679.61399821978,
+                  103968.23202536802
+                ],
+                [
+                  96679.97999821932,
+                  103968.49002536741
+                ],
+                [
+                  96680.40399821801,
+                  103968.79002536603
+                ],
+                [
+                  96680.63299821777,
+                  103968.95202536497
+                ],
+                [
+                  96680.92099821684,
+                  103969.15602536508
+                ],
+                [
+                  96681.59199821542,
+                  103969.63102536282
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "071-031-022",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ASUNCION 3095",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 2,
+    "centroide": [
+      -58.49948616518861,
+      -34.59353120973137
+    ],
+    "direccion": "ASUNCION 3095",
+    "fondo": "10.86",
+    "frente": "11.14",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "031",
+    "parcela": "022",
+    "pdamatriz": "304741",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [
+      {
+        "altura": 3095,
+        "calle": "ASUNCION",
+        "codigo_calle": 1131,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      },
+      {
+        "altura": 3909,
+        "calle": "HELGUERA",
+        "codigo_calle": 8007,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "071",
+    "smp": "071-031-022",
+    "smp_anterior": "071-031-021",
+    "smp_siguiente": "071-031-023",
+    "srid": 4326,
+    "superficie_cubierta": "179.00",
+    "superficie_total": "121.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "071-031-022"
+}

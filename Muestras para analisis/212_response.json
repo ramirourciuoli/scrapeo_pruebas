@@ -1,0 +1,445 @@
+{
+  "area_m2": 502.4843759536743,
+  "centroide_lonlat": {
+    "lat": -34.617115,
+    "lon": -58.472927
+  },
+  "centroide_xy": {
+    "x": 99117.04521907185,
+    "y": 101348.31896968927
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": "SI",
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.0,
+          "fot_perim_libre": 3.0,
+          "fot_semi_libre": 3.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/1/51/067-063-020a_0000426151.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION067/067-063-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION067/PI-067-063-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "067-063-023",
+            "067-063-019",
+            "067-063-022"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "E3",
+          "incidencia_uva": 60.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 471.936927220324,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 502.5,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "067-063-020A"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. T. ÁLVAREZ",
+    "barrio": "Villa Gral. Mitre",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1416",
+    "codigo_postal_argentino": "C1416AQC",
+    "comisaria": "50",
+    "comisaria_vecinal": "11A",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "67"
+  },
+  "debug": {
+    "address": "CONDARCO 1297",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.47292713601614,
+        -34.61711461603073
+      ],
+      "direccion": "CONDARCO 1297",
+      "fondo": "20.75",
+      "frente": "24.19",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "063",
+      "parcela": "020A",
+      "pdamatriz": "314260",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "067",
+      "smp": "067-063-020A",
+      "smp_anterior": "067-063-019",
+      "smp_siguiente": "067-063-022",
+      "srid": 4326,
+      "superficie_cubierta": "793.00",
+      "superficie_total": "502.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1297,
+      "cod_calle": 3152
+    },
+    "usig_direccion_elegida": {
+      "altura": 1297,
+      "cod_calle": 3152,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.473122",
+        "y": "-34.617200"
+      },
+      "direccion": "CONDARCO 1297, CABA",
+      "nombre_calle": "CONDARCO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1297,
+          "cod_calle": 3152,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.473122",
+            "y": "-34.617200"
+          },
+          "direccion": "CONDARCO 1297, CABA",
+          "nombre_calle": "CONDARCO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1297,
+          "cod_calle": 58733,
+          "cod_calle_cruce": null,
+          "cod_partido": "avellaneda",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3353269908163,
+            "y": -34.7122355908163
+          },
+          "direccion": "Condarco 1297, Avellaneda",
+          "nombre_calle": "Condarco",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Wilde",
+          "nombre_partido": "Avellaneda",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1297,
+          "cod_calle": 23648,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3796553520408,
+            "y": -34.7715359428572
+          },
+          "direccion": "Condarco 1297, Lomas de Zamora",
+          "nombre_calle": "Condarco",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Temperley",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1297,
+          "cod_calle": 114695,
+          "cod_calle_cruce": null,
+          "cod_partido": "quilmes",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.2775083795919,
+            "y": -34.7329548734694
+          },
+          "direccion": "Condarco 1297, Quilmes",
+          "nombre_calle": "Condarco",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Quilmes",
+          "nombre_partido": "Quilmes",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99113.92503834167,
+                  101339.44929724521
+                ],
+                [
+                  99108.92509928951,
+                  101336.27413980744
+                ],
+                [
+                  99106.70498943112,
+                  101334.8640309262
+                ],
+                [
+                  99100.65611738412,
+                  101344.05612221282
+                ],
+                [
+                  99101.82207197517,
+                  101349.8221134074
+                ],
+                [
+                  99105.78270429037,
+                  101352.3623355653
+                ],
+                [
+                  99108.01970379706,
+                  101353.7971500126
+                ],
+                [
+                  99122.45689858726,
+                  101363.05734284551
+                ],
+                [
+                  99128.8435391883,
+                  101353.3834400384
+                ],
+                [
+                  99129.4254654553,
+                  101352.50210605541
+                ],
+                [
+                  99135.5701187513,
+                  101343.19534338103
+                ],
+                [
+                  99132.6479825274,
+                  101341.31947522459
+                ],
+                [
+                  99131.36198936636,
+                  101340.4940308916
+                ],
+                [
+                  99131.18898936703,
+                  101340.3830308936
+                ],
+                [
+                  99130.00926671359,
+                  101339.62551917697
+                ],
+                [
+                  99128.33498937363,
+                  101338.55003089897
+                ],
+                [
+                  99126.09911047525,
+                  101341.8941348953
+                ],
+                [
+                  99125.72148596507,
+                  101342.45913733682
+                ],
+                [
+                  99123.60008704812,
+                  101345.6331485608
+                ],
+                [
+                  99119.59386147153,
+                  101343.06710852924
+                ],
+                [
+                  99116.36711587304,
+                  101341.00015297197
+                ],
+                [
+                  99113.92503834167,
+                  101339.44929724521
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "067-063-020A",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CONDARCO 1297",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 5,
+    "centroide": [
+      -58.47292713601614,
+      -34.61711461603073
+    ],
+    "direccion": "CONDARCO 1297",
+    "fondo": "20.75",
+    "frente": "24.19",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "063",
+    "parcela": "020A",
+    "pdamatriz": "314260",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [
+      {
+        "altura": 1297,
+        "calle": "CONDARCO",
+        "codigo_calle": 3152,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      },
+      {
+        "altura": 2680,
+        "calle": "GALICIA",
+        "codigo_calle": 7012,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      },
+      {
+        "altura": 2686,
+        "calle": "GALICIA",
+        "codigo_calle": 7012,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      },
+      {
+        "altura": 2690,
+        "calle": "GALICIA",
+        "codigo_calle": 7012,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      },
+      {
+        "altura": 2694,
+        "calle": "GALICIA",
+        "codigo_calle": 7012,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "067",
+    "smp": "067-063-020A",
+    "smp_anterior": "067-063-019",
+    "smp_siguiente": "067-063-022",
+    "srid": 4326,
+    "superficie_cubierta": "793.00",
+    "superficie_total": "502.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "067-063-020A"
+}

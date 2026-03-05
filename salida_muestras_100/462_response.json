@@ -1,0 +1,381 @@
+{
+  "area_m2": 89.61896991729736,
+  "centroide_lonlat": {
+    "lat": -34.637389,
+    "lon": -58.465587
+  },
+  "centroide_xy": {
+    "x": 99790.33316849398,
+    "y": 99099.18752914223
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/1/21/048-048-026a_0000070121.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION048/048-048-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION048/PI-048-048-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "048-048-027",
+            "048-048-025",
+            "048-048-026b"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 50.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 89.6169999999698,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 89.6,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "048-048-026A"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. P. PIÑERO",
+    "barrio": "Flores",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1406",
+    "codigo_postal_argentino": "C1406HCE",
+    "comisaria": "38",
+    "comisaria_vecinal": "7A",
+    "comuna": "Comuna 7",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "48"
+  },
+  "debug": {
+    "address": "REMEDIOS 2819",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.46558663024292,
+        -34.637389068193556
+      ],
+      "direccion": "REMEDIOS 2819",
+      "fondo": "11.17",
+      "frente": "8.06",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "048",
+      "parcela": "026A",
+      "pdamatriz": "145069",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "048",
+      "smp": "048-048-026A",
+      "smp_anterior": "048-048-025",
+      "smp_siguiente": "048-048-026B",
+      "srid": 4326,
+      "superficie_cubierta": "143.00",
+      "superficie_total": "90.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2819,
+      "cod_calle": 19020
+    },
+    "usig_direccion_elegida": {
+      "altura": 2819,
+      "cod_calle": 19020,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.465553",
+        "y": "-34.637478"
+      },
+      "direccion": "REMEDIOS 2819, CABA",
+      "nombre_calle": "REMEDIOS",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2819,
+          "cod_calle": 19020,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.465553",
+            "y": "-34.637478"
+          },
+          "direccion": "REMEDIOS 2819, CABA",
+          "nombre_calle": "REMEDIOS",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2819,
+          "cod_calle": 5069,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.477335",
+            "y": "-34.614908"
+          },
+          "direccion": "ESCALADA DE SAN MARTIN, R. 2819, CABA",
+          "nombre_calle": "ESCALADA DE SAN MARTIN, R.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2819,
+          "cod_calle": 1588,
+          "cod_calle_cruce": null,
+          "cod_partido": "esteban_echeverria",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.50600400625,
+            "y": -34.8218596072917
+          },
+          "direccion": "Estancia Los Remedios 2819, Esteban Echeverría",
+          "nombre_calle": "Estancia Los Remedios",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "El Jagüel",
+          "nombre_partido": "Esteban Echeverría",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2819,
+          "cod_calle": 21835,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.409810772449,
+            "y": -34.674541572449
+          },
+          "direccion": "Avenida Remedios de Escalada de San Martín 2819, Lanús",
+          "nombre_calle": "Avenida Remedios de Escalada de San Martín",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Valentín Alsina",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99793.47998582522,
+                  99102.4630366702
+                ],
+                [
+                  99794.6989858187,
+                  99098.88303667933
+                ],
+                [
+                  99794.85698581772,
+                  99098.41803667968
+                ],
+                [
+                  99795.96898581188,
+                  99095.14903668861
+                ],
+                [
+                  99792.96498581988,
+                  99094.2020366929
+                ],
+                [
+                  99788.27198583193,
+                  99092.72303670124
+                ],
+                [
+                  99787.81098583413,
+                  99094.06503669804
+                ],
+                [
+                  99786.04498584311,
+                  99099.21003668447
+                ],
+                [
+                  99785.71598584487,
+                  99100.16803668169
+                ],
+                [
+                  99784.99498584852,
+                  99102.27103667642
+                ],
+                [
+                  99784.68809620153,
+                  99103.16416020962
+                ],
+                [
+                  99787.91606250184,
+                  99104.22415776277
+                ],
+                [
+                  99790.51707567883,
+                  99105.07816166469
+                ],
+                [
+                  99792.38206590844,
+                  99105.69113773582
+                ],
+                [
+                  99793.47998582522,
+                  99102.4630366702
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "048-048-026A",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "REMEDIOS 2819",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.46558663024292,
+      -34.637389068193556
+    ],
+    "direccion": "REMEDIOS 2819",
+    "fondo": "11.17",
+    "frente": "8.06",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "048",
+    "parcela": "026A",
+    "pdamatriz": "145069",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [
+      {
+        "altura": 2819,
+        "calle": "REMEDIOS",
+        "codigo_calle": 19020,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "048",
+    "smp": "048-048-026A",
+    "smp_anterior": "048-048-025",
+    "smp_siguiente": "048-048-026B",
+    "srid": 4326,
+    "superficie_cubierta": "143.00",
+    "superficie_total": "90.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "048-048-026A"
+}

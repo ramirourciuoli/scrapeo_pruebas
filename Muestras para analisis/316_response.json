@@ -1,0 +1,402 @@
+{
+  "area_m2": 370.33901023864746,
+  "centroide_lonlat": {
+    "lat": -34.540491,
+    "lon": -58.470688
+  },
+  "centroide_xy": {
+    "x": 99321.79998571725,
+    "y": 109848.56570344754
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 31"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.0,
+          "fot_perim_libre": 1.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/4/94/029-036-023_0000221494.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION029/029-036-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION029/PI-029-036-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "029-036-022",
+            "029-036-000B",
+            "029-036-024"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R1b I",
+          "incidencia_uva": 770.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0.0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 370.3,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "029-036-023"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Nuñez",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1429",
+    "codigo_postal_argentino": "C1429BAJ",
+    "comisaria": "35",
+    "comisaria_vecinal": "13B",
+    "comuna": "Comuna 13",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   X",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "29"
+  },
+  "debug": {
+    "address": "ARCOS 4548",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.470687850637596,
+        -34.540491373469855
+      ],
+      "direccion": "ARCOS 4548",
+      "fondo": "41.11",
+      "frente": "9.00",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "036",
+      "parcela": "023",
+      "pdamatriz": "340684",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "029",
+      "smp": "029-036-023",
+      "smp_anterior": "029-036-022",
+      "smp_siguiente": "029-036-024",
+      "srid": 4326,
+      "superficie_cubierta": "202.00",
+      "superficie_total": "370.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4548,
+      "cod_calle": 1102
+    },
+    "usig_direccion_elegida": {
+      "altura": 4548,
+      "cod_calle": 1102,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.470455",
+        "y": "-34.540374"
+      },
+      "direccion": "ARCOS 4548, CABA",
+      "nombre_calle": "ARCOS",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4548,
+          "cod_calle": 1102,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.470455",
+            "y": "-34.540374"
+          },
+          "direccion": "ARCOS 4548, CABA",
+          "nombre_calle": "ARCOS",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99328.31299521709,
+                  109847.36800688703
+                ],
+                [
+                  99326.90699521998,
+                  109846.50600689073
+                ],
+                [
+                  99326.62199522143,
+                  109846.33100689168
+                ],
+                [
+                  99324.91699522533,
+                  109845.28600689594
+                ],
+                [
+                  99323.55199522834,
+                  109844.45000689916
+                ],
+                [
+                  99320.5369952348,
+                  109842.60200690638
+                ],
+                [
+                  99313.13899525302,
+                  109838.06700692454
+                ],
+                [
+                  99310.31899525932,
+                  109836.33800693217
+                ],
+                [
+                  99306.25799526909,
+                  109833.84900694212
+                ],
+                [
+                  99303.7879952784,
+                  109837.88800693248
+                ],
+                [
+                  99301.64899528753,
+                  109841.38500692378
+                ],
+                [
+                  99304.213995281,
+                  109842.96000691771
+                ],
+                [
+                  99317.70399524963,
+                  109851.24300688412
+                ],
+                [
+                  99320.25799524412,
+                  109852.81100687772
+                ],
+                [
+                  99322.28099523942,
+                  109854.05300687335
+                ],
+                [
+                  99323.6869952356,
+                  109854.9160068697
+                ],
+                [
+                  99324.55099523367,
+                  109855.44700686709
+                ],
+                [
+                  99325.00699523283,
+                  109855.72700686625
+                ],
+                [
+                  99327.36899522702,
+                  109857.17700686058
+                ],
+                [
+                  99329.42899522178,
+                  109858.44100685493
+                ],
+                [
+                  99330.36999522014,
+                  109859.01900685328
+                ],
+                [
+                  99331.00899521816,
+                  109859.412006851
+                ],
+                [
+                  99331.94699521603,
+                  109859.98800684893
+                ],
+                [
+                  99337.31399520404,
+                  109863.28300683558
+                ],
+                [
+                  99338.77899519795,
+                  109860.88500684118
+                ],
+                [
+                  99341.93599518485,
+                  109855.71800685389
+                ],
+                [
+                  99337.46299519607,
+                  109852.9760068644
+                ],
+                [
+                  99336.83799519752,
+                  109852.59300686652
+                ],
+                [
+                  99336.73199519716,
+                  109852.52800686634
+                ],
+                [
+                  99336.41099519838,
+                  109852.3310068674
+                ],
+                [
+                  99335.56299520012,
+                  109851.81200686921
+                ],
+                [
+                  99331.62499520926,
+                  109849.39800687906
+                ],
+                [
+                  99328.31299521709,
+                  109847.36800688703
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "029-036-023",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ARCOS 4548",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.470687850637596,
+      -34.540491373469855
+    ],
+    "direccion": "ARCOS 4548",
+    "fondo": "41.11",
+    "frente": "9.00",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "036",
+    "parcela": "023",
+    "pdamatriz": "340684",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [
+      {
+        "altura": 4548,
+        "calle": "ARCOS",
+        "codigo_calle": 1102,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "029",
+    "smp": "029-036-023",
+    "smp_anterior": "029-036-022",
+    "smp_siguiente": "029-036-024",
+    "srid": 4326,
+    "superficie_cubierta": "202.00",
+    "superficie_total": "370.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "029-036-023"
+}
