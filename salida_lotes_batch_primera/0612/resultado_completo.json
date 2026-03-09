@@ -1,0 +1,61 @@
+{
+  "debug": {
+    "address": "ZELARRAYAN 1363",
+    "catastro_parcela_por_codcalle_altura_error": "503 Server Error: Service Temporarily Unavailable for url: https://epok.buenosaires.gob.ar/catastro/parcela/?codigo_calle=27016&altura=1363&ib=&ft=",
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "ZELARRAYAN",
+      "puerta": 1363
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1363,
+      "cod_calle": 27016
+    },
+    "usig_direccion_elegida": {
+      "altura": 1363,
+      "cod_calle": 27016,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.434513",
+        "y": "-34.641053"
+      },
+      "direccion": "ZELARRAYAN 1363, CABA",
+      "nombre_calle": "ZELARRAYAN",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.641053,
+      "lng": -58.434513
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1363,
+          "cod_calle": 27016,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.434513",
+            "y": "-34.641053"
+          },
+          "direccion": "ZELARRAYAN 1363, CABA",
+          "nombre_calle": "ZELARRAYAN",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura.",
+  "ok": false,
+  "_http_status": 404
+}

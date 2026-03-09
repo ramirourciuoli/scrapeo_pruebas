@@ -1,0 +1,358 @@
+{
+  "area_m2": 74.02048969268799,
+  "centroide_lonlat": {
+    "lat": -34.643907,
+    "lon": -58.522904
+  },
+  "centroide_xy": {
+    "x": 94535.17580497797,
+    "y": 98374.44791961937
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 11.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "U",
+            "distrito_especifico": "U3 a"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 0.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/04/072-083D-019_0000028704.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION072/072-083D-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION072/PI-072-083D-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "DI-2022-685-GCABA-DGIUR",
+          "pdf": "072-083D.pdf"
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "072-083D-020",
+            "072-083D-004",
+            "072-083D-018",
+            "072-083D-005",
+            "072-083D-003"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "U3 a",
+          "incidencia_uva": 120.0,
+          "plusvalia_em": 0.0,
+          "plusvalia_pl": 0.0,
+          "plusvalia_sl": 0.0
+        },
+        "rivolta": 0,
+        "subzona": "TELLIER-LINIERS",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 74.0,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "072-083D-019"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Liniers",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1408",
+    "codigo_postal_argentino": "C1408GMC",
+    "comisaria": "54",
+    "comisaria_vecinal": "9B",
+    "comuna": "Comuna 9",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "72"
+  },
+  "debug": {
+    "address": "FACUNDO 425",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.52290387357258,
+        -34.64390744107535
+      ],
+      "direccion": "",
+      "fondo": "8.66",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "083D",
+      "parcela": "019",
+      "pdamatriz": "17318",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "072",
+      "smp": "072-083D-019",
+      "smp_anterior": "072-083D-018",
+      "smp_siguiente": "072-083D-020",
+      "srid": 4326,
+      "superficie_cubierta": "117.00",
+      "superficie_total": "75.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 425,
+      "cod_calle": 6002
+    },
+    "usig_direccion_elegida": {
+      "altura": 425,
+      "cod_calle": 6002,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.522835",
+        "y": "-34.643901"
+      },
+      "direccion": "FACUNDO 425, CABA",
+      "nombre_calle": "FACUNDO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 425,
+          "cod_calle": 6002,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.522835",
+            "y": "-34.643901"
+          },
+          "direccion": "FACUNDO 425, CABA",
+          "nombre_calle": "FACUNDO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 425,
+          "cod_calle": 571355,
+          "cod_calle_cruce": null,
+          "cod_partido": "esteban_echeverria",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4783484346939,
+            "y": -34.7947623755102
+          },
+          "direccion": "Avenida Facundo Zuviría 425, Esteban Echeverría",
+          "nombre_calle": "Avenida Facundo Zuviría",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Monte Grande",
+          "nombre_partido": "Esteban Echeverría",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 425,
+          "cod_calle": 111237,
+          "cod_calle_cruce": null,
+          "cod_partido": "florencio_varela",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.2815142989796,
+            "y": -34.7794897091837
+          },
+          "direccion": "Facundo Quiroga 425, Florencio Varela",
+          "nombre_calle": "Facundo Quiroga",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Florencio Varela",
+          "nombre_partido": "Florencio Varela",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 425,
+          "cod_calle": 349542,
+          "cod_calle_cruce": null,
+          "cod_partido": "marcos_paz",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.8111239397959,
+            "y": -34.7545575071429
+          },
+          "direccion": "Facundo Quiroga 425, Marcos Paz",
+          "nombre_calle": "Facundo Quiroga",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Marcos Paz",
+          "nombre_partido": "Marcos Paz",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  94530.45200003851,
+                  98378.2840426623
+                ],
+                [
+                  94535.60600002446,
+                  98378.85104265795
+                ],
+                [
+                  94538.94200001574,
+                  98379.21804265355
+                ],
+                [
+                  94539.06900001466,
+                  98378.08204265719
+                ],
+                [
+                  94539.3510000123,
+                  98375.57004266433
+                ],
+                [
+                  94539.46300001167,
+                  98374.575042665
+                ],
+                [
+                  94539.90700000638,
+                  98370.61204267552
+                ],
+                [
+                  94531.39800003039,
+                  98369.68204268566
+                ],
+                [
+                  94530.98200003398,
+                  98373.4660426751
+                ],
+                [
+                  94530.96200003481,
+                  98373.64504267371
+                ],
+                [
+                  94530.45200003851,
+                  98378.2840426623
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "072-083D-019",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "FACUNDO 425",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.52290387357258,
+      -34.64390744107535
+    ],
+    "direccion": "",
+    "fondo": "8.66",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "083D",
+    "parcela": "019",
+    "pdamatriz": "17318",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "072",
+    "smp": "072-083D-019",
+    "smp_anterior": "072-083D-018",
+    "smp_siguiente": "072-083D-020",
+    "srid": 4326,
+    "superficie_cubierta": "117.00",
+    "superficie_total": "75.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "072-083D-019",
+  "_http_status": 200
+}

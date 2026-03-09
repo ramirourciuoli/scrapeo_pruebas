@@ -1,0 +1,320 @@
+{
+  "area_m2": 156.52423286437988,
+  "centroide_lonlat": {
+    "lat": -34.679652,
+    "lon": -58.476482
+  },
+  "centroide_xy": {
+    "x": 98791.93510086673,
+    "y": 94410.59812444818
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": "SINGULAR",
+          "denominacion": null,
+          "estado": "CATALOGO PREVENTIVO",
+          "ley_3056": "SI",
+          "proteccion": "CAUTELAR"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/9/67/080-083-006_0000001967.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION080/080-083-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION080/PI-080-083-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "080-083-005",
+            "080-083-007"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 130.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 156.5,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "080-083-006"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DRA. CECILIA GRIERSON",
+    "barrio": "Villa Lugano",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1439",
+    "codigo_postal_argentino": "C1439CAZ",
+    "comisaria": "48",
+    "comisaria_vecinal": "8A",
+    "comuna": "Comuna 8",
+    "distrito_economico": "DISTRITO DEL DEPORTE",
+    "distrito_escolar": "Distrito Escolar   XXI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "80"
+  },
+  "debug": {
+    "address": "SAYOS 5998",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.476481804499635,
+        -34.6796519549822
+      ],
+      "direccion": "",
+      "fondo": "29.71",
+      "frente": "5.15",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "083",
+      "parcela": "006",
+      "pdamatriz": "67080",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "080",
+      "smp": "080-083-006",
+      "smp_anterior": "080-083-005",
+      "smp_siguiente": "080-083-007",
+      "srid": 4326,
+      "superficie_cubierta": "155.00",
+      "superficie_total": "153.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 5998,
+      "cod_calle": 20080
+    },
+    "usig_direccion_elegida": {
+      "altura": 5998,
+      "cod_calle": 20080,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.476590",
+        "y": "-34.679567"
+      },
+      "direccion": "SAYOS 5998, CABA",
+      "nombre_calle": "SAYOS",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 5998,
+          "cod_calle": 20080,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.476590",
+            "y": "-34.679567"
+          },
+          "direccion": "SAYOS 5998, CABA",
+          "nombre_calle": "SAYOS",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98792.93198510329,
+                  94415.92905056599
+                ],
+                [
+                  98796.83298508893,
+                  94412.26505057365
+                ],
+                [
+                  98798.24198508405,
+                  94410.94205057506
+                ],
+                [
+                  98798.50898508336,
+                  94410.69105057514
+                ],
+                [
+                  98799.82098507973,
+                  94409.45905057929
+                ],
+                [
+                  98801.10598507372,
+                  94408.25305058021
+                ],
+                [
+                  98797.77598508015,
+                  94404.73105059346
+                ],
+                [
+                  98796.3539850841,
+                  94403.22605059817
+                ],
+                [
+                  98795.32398508569,
+                  94402.13605060207
+                ],
+                [
+                  98794.5679850873,
+                  94401.33705060634
+                ],
+                [
+                  98784.98998512194,
+                  94410.32005058805
+                ],
+                [
+                  98784.80998512612,
+                  94416.34005056956
+                ],
+                [
+                  98788.43298511869,
+                  94420.15305055876
+                ],
+                [
+                  98790.72598511088,
+                  94417.99905056148
+                ],
+                [
+                  98792.93198510329,
+                  94415.92905056599
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "080-083-006",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "SAYOS 5998",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.476481804499635,
+      -34.6796519549822
+    ],
+    "direccion": "",
+    "fondo": "29.71",
+    "frente": "5.15",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "083",
+    "parcela": "006",
+    "pdamatriz": "67080",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "080",
+    "smp": "080-083-006",
+    "smp_anterior": "080-083-005",
+    "smp_siguiente": "080-083-007",
+    "srid": 4326,
+    "superficie_cubierta": "155.00",
+    "superficie_total": "153.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "080-083-006",
+  "_http_status": 200
+}

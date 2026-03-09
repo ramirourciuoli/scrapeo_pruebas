@@ -1,0 +1,326 @@
+{
+  "area_m2": 157.83796405792236,
+  "centroide_lonlat": {
+    "lat": -34.63079,
+    "lon": -58.40923
+  },
+  "centroide_xy": {
+    "x": 104958.27159347796,
+    "y": 99829.92605406967
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 2.5,
+          "fot_perim_libre": 2.5,
+          "fot_semi_libre": 2.5
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/27/032-091-016_0000320527.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION032/032-091-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION032/PI-032-091-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "032-091-013",
+            "032-091-015",
+            "032-091-017",
+            "032-091-012"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "AE 26",
+          "incidencia_uva": 130.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 157.842949999948,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 157.8,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "032-091-016"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.M. PENNA",
+    "barrio": "Parque Patricios",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1242",
+    "codigo_postal_argentino": "C1242ABA",
+    "comisaria": "20",
+    "comisaria_vecinal": "4A",
+    "comuna": "Comuna 4",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "32"
+  },
+  "debug": {
+    "address": "APULE 1677",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.409229523589346,
+        -34.63079009301497
+      ],
+      "direccion": "",
+      "fondo": "18.25",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "091",
+      "parcela": "016",
+      "pdamatriz": "103275",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "032",
+      "smp": "032-091-016",
+      "smp_anterior": "032-091-015",
+      "smp_siguiente": "032-091-017",
+      "srid": 4326,
+      "superficie_cubierta": "124.00",
+      "superficie_total": "158.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1677,
+      "cod_calle": 1092
+    },
+    "usig_direccion_elegida": {
+      "altura": 1677,
+      "cod_calle": 1092,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.409126",
+        "y": "-34.630767"
+      },
+      "direccion": "APULE 1677, CABA",
+      "nombre_calle": "APULE",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1677,
+          "cod_calle": 1092,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.409126",
+            "y": "-34.630767"
+          },
+          "direccion": "APULE 1677, CABA",
+          "nombre_calle": "APULE",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  104965.43697187377,
+                  99836.97103071708
+                ],
+                [
+                  104967.85797186063,
+                  99828.37503073993
+                ],
+                [
+                  104963.42597187149,
+                  99826.94203074658
+                ],
+                [
+                  104958.52097188352,
+                  99825.35503075502
+                ],
+                [
+                  104954.89997189422,
+                  99824.18303076128
+                ],
+                [
+                  104950.43606809605,
+                  99822.73910547406
+                ],
+                [
+                  104950.37607053855,
+                  99823.25515772006
+                ],
+                [
+                  104949.78506712543,
+                  99828.34811425002
+                ],
+                [
+                  104949.7320886111,
+                  99828.80215477577
+                ],
+                [
+                  104949.37405638694,
+                  99831.88314841973
+                ],
+                [
+                  104952.27697190744,
+                  99832.80203074001
+                ],
+                [
+                  104952.65097190629,
+                  99832.92103073979
+                ],
+                [
+                  104957.2209718946,
+                  99834.36903072972
+                ],
+                [
+                  104960.71297188614,
+                  99835.47503072437
+                ],
+                [
+                  104960.8559718849,
+                  99835.52003072476
+                ],
+                [
+                  104965.43697187377,
+                  99836.97103071708
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "032-091-016",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "APULE 1677",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.409229523589346,
+      -34.63079009301497
+    ],
+    "direccion": "",
+    "fondo": "18.25",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "091",
+    "parcela": "016",
+    "pdamatriz": "103275",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "032",
+    "smp": "032-091-016",
+    "smp_anterior": "032-091-015",
+    "smp_siguiente": "032-091-017",
+    "srid": 4326,
+    "superficie_cubierta": "124.00",
+    "superficie_total": "158.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "032-091-016",
+  "_http_status": 200
+}

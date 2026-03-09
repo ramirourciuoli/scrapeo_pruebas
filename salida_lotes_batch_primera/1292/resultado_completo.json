@@ -1,0 +1,325 @@
+{
+  "area_m2": 79.96761512756348,
+  "centroide_lonlat": {
+    "lat": -34.580427,
+    "lon": -58.509191
+  },
+  "centroide_xy": {
+    "x": 95789.21466607209,
+    "y": 105417.36479761757
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/00/075-026-021b_0000248600.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION075/075-026-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION075/PI-075-026-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "075-026-022",
+            "075-026-021a",
+            "075-026-020"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 180.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 79.9559999999989,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 80.0,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "075-026-021B"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Villa Pueyrredon",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1419",
+    "codigo_postal_argentino": "C1419FMO",
+    "comisaria": "47",
+    "comisaria_vecinal": "12B",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "75"
+  },
+  "debug": {
+    "address": "COCHRANE 2993",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.50919134803707,
+        -34.580427069704776
+      ],
+      "direccion": "",
+      "fondo": "10.96",
+      "frente": "7.21",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "026",
+      "parcela": "021B",
+      "pdamatriz": "369434",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "2",
+      "propiedad_horizontal": "Si",
+      "seccion": "075",
+      "smp": "075-026-021B",
+      "smp_anterior": "075-026-021A",
+      "smp_siguiente": "075-026-022",
+      "srid": 4326,
+      "superficie_cubierta": "139.00",
+      "superficie_total": "79.00",
+      "unidades_funcionales": "2",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2993,
+      "cod_calle": 3136
+    },
+    "usig_direccion_elegida": {
+      "altura": 2993,
+      "cod_calle": 3136,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.509126",
+        "y": "-34.580499"
+      },
+      "direccion": "COCHRANE 2993, CABA",
+      "nombre_calle": "COCHRANE",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2993,
+          "cod_calle": 3136,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.509126",
+            "y": "-34.580499"
+          },
+          "direccion": "COCHRANE 2993, CABA",
+          "nombre_calle": "COCHRANE",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  95785.46100182108,
+                  105421.27002196587
+                ],
+                [
+                  95789.04700181313,
+                  105423.91002195643
+                ],
+                [
+                  95789.81200180987,
+                  105422.860021959
+                ],
+                [
+                  95790.56200180703,
+                  105421.83002196098
+                ],
+                [
+                  95792.06900180143,
+                  105419.75902196526
+                ],
+                [
+                  95792.67600179894,
+                  105418.92502196733
+                ],
+                [
+                  95795.35900178885,
+                  105415.24002197609
+                ],
+                [
+                  95792.88500179394,
+                  105413.36802198275
+                ],
+                [
+                  95789.49200180141,
+                  105410.8000219925
+                ],
+                [
+                  95788.26900180677,
+                  105412.43702198897
+                ],
+                [
+                  95784.55500182032,
+                  105417.41002197805
+                ],
+                [
+                  95784.13000182212,
+                  105417.97802197671
+                ],
+                [
+                  95783.86000182356,
+                  105418.3410219758
+                ],
+                [
+                  95783.01600182633,
+                  105419.47002197299
+                ],
+                [
+                  95783.88900182494,
+                  105420.11302197067
+                ],
+                [
+                  95785.46100182108,
+                  105421.27002196587
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "075-026-021B",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "COCHRANE 2993",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.50919134803707,
+      -34.580427069704776
+    ],
+    "direccion": "",
+    "fondo": "10.96",
+    "frente": "7.21",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "026",
+    "parcela": "021B",
+    "pdamatriz": "369434",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "2",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "075",
+    "smp": "075-026-021B",
+    "smp_anterior": "075-026-021A",
+    "smp_siguiente": "075-026-022",
+    "srid": 4326,
+    "superficie_cubierta": "139.00",
+    "superficie_total": "79.00",
+    "unidades_funcionales": "2",
+    "vuc": "0.00"
+  },
+  "smp": "075-026-021B",
+  "_http_status": 200
+}

@@ -1,0 +1,369 @@
+{
+  "area_m2": 181.1722469329834,
+  "centroide_lonlat": {
+    "lat": -34.569579,
+    "lon": -58.466255
+  },
+  "centroide_xy": {
+    "x": 99728.86717460938,
+    "y": 106621.78920233891
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 0.0,
+        "catalogacion": {
+          "catalogacion": "APH",
+          "denominacion": null,
+          "estado": "CPU/CUr",
+          "ley_3056": "NO",
+          "proteccion": "GENERAL"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "APH",
+            "distrito_especifico": "APH 42"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/8/60/039-023-016_0000353860.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION039/039-023-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION039/PI-039-023-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "039-023-015",
+            "039-023-012",
+            "039-023-017"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "APH 42",
+          "incidencia_uva": 470.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0.0,
+          "plusvalia_sl": 0.0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 181.2,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "039-023-016"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Belgrano",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1430",
+    "codigo_postal_argentino": "C1430EXC",
+    "comisaria": "37",
+    "comisaria_vecinal": "13C",
+    "comuna": "Comuna 13",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   X",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "39"
+  },
+  "debug": {
+    "address": "AV. MELIAN 1967",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.46625456527293,
+        -34.5695786639552
+      ],
+      "direccion": "",
+      "fondo": "16.76",
+      "frente": "10.80",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "023",
+      "parcela": "016",
+      "pdamatriz": "325299",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "039",
+      "smp": "039-023-016",
+      "smp_anterior": "039-023-015",
+      "smp_siguiente": "039-023-017",
+      "srid": 4326,
+      "superficie_cubierta": "410.00",
+      "superficie_total": "181.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1967,
+      "cod_calle": 13063
+    },
+    "usig_direccion_elegida": {
+      "altura": 1967,
+      "cod_calle": 13063,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.466407",
+        "y": "-34.569698"
+      },
+      "direccion": "MELIAN AV. 1967, CABA",
+      "nombre_calle": "MELIAN AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1967,
+          "cod_calle": 13063,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.466407",
+            "y": "-34.569698"
+          },
+          "direccion": "MELIAN AV. 1967, CABA",
+          "nombre_calle": "MELIAN AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99729.6669916688,
+                  106628.19501561316
+                ],
+                [
+                  99733.75799165946,
+                  106631.04801560217
+                ],
+                [
+                  99736.79099164759,
+                  106626.8270156109
+                ],
+                [
+                  99737.5389916444,
+                  106625.78601561405
+                ],
+                [
+                  99739.34999163717,
+                  106623.26501561908
+                ],
+                [
+                  99734.51799164861,
+                  106619.79901563242
+                ],
+                [
+                  99732.89699165201,
+                  106618.6360156372
+                ],
+                [
+                  99732.60299165295,
+                  106618.42501563785
+                ],
+                [
+                  99732.49699165352,
+                  106618.34901563876
+                ],
+                [
+                  99731.25499165576,
+                  106617.45801564143
+                ],
+                [
+                  99730.60199165731,
+                  106616.99001564382
+                ],
+                [
+                  99729.18399166092,
+                  106615.97301564773
+                ],
+                [
+                  99728.52410054878,
+                  106615.49910012199
+                ],
+                [
+                  99728.20610738541,
+                  106615.27113381427
+                ],
+                [
+                  99724.7031166707,
+                  106612.75813333568
+                ],
+                [
+                  99723.33799167612,
+                  106614.21901565642
+                ],
+                [
+                  99721.3759916829,
+                  106616.31801565242
+                ],
+                [
+                  99718.60899169288,
+                  106619.27701564596
+                ],
+                [
+                  99717.92599169513,
+                  106620.00801564503
+                ],
+                [
+                  99720.21899168953,
+                  106621.60701563832
+                ],
+                [
+                  99722.61899168445,
+                  106623.28101563238
+                ],
+                [
+                  99723.60299168235,
+                  106623.96701562943
+                ],
+                [
+                  99723.78999168183,
+                  106624.09701562882
+                ],
+                [
+                  99726.47299167592,
+                  106625.96801562185
+                ],
+                [
+                  99727.15899167409,
+                  106626.44601562008
+                ],
+                [
+                  99727.45599167366,
+                  106626.65301561877
+                ],
+                [
+                  99729.6669916688,
+                  106628.19501561316
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "039-023-016",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AV. MELIAN 1967",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.46625456527293,
+      -34.5695786639552
+    ],
+    "direccion": "",
+    "fondo": "16.76",
+    "frente": "10.80",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "023",
+    "parcela": "016",
+    "pdamatriz": "325299",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "039",
+    "smp": "039-023-016",
+    "smp_anterior": "039-023-015",
+    "smp_siguiente": "039-023-017",
+    "srid": 4326,
+    "superficie_cubierta": "410.00",
+    "superficie_total": "181.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "039-023-016",
+  "_http_status": 200
+}

@@ -1,0 +1,388 @@
+{
+  "area_m2": 189.8540906906128,
+  "centroide_lonlat": {
+    "lat": -34.590877,
+    "lon": -58.42655
+  },
+  "centroide_xy": {
+    "x": 103371.58770756886,
+    "y": 104258.47784198154
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/9/55/019-048-021_0000254955.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION019/019-048-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION019/PI-019-048-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "019-048-022",
+            "019-048-017",
+            "019-048-020"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 560.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 141.38358678917,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 189.9,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "019-048-021"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.A.FERNÁNDEZ",
+    "barrio": "Palermo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1414",
+    "codigo_postal_argentino": "C1414BMI",
+    "comisaria": "25",
+    "comisaria_vecinal": "14A",
+    "comuna": "Comuna 14",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   IX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "19"
+  },
+  "debug": {
+    "address": "HONDURAS 4673",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.426550071647064,
+        -34.59087665625596
+      ],
+      "direccion": "",
+      "fondo": "21.13",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "048",
+      "parcela": "021",
+      "pdamatriz": "426343",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "019",
+      "smp": "019-048-021",
+      "smp_anterior": "019-048-020",
+      "smp_siguiente": "019-048-022",
+      "srid": 4326,
+      "superficie_cubierta": "196.00",
+      "superficie_total": "183.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4673,
+      "cod_calle": 8020
+    },
+    "usig_direccion_elegida": {
+      "altura": 4673,
+      "cod_calle": 8020,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.426644",
+        "y": "-34.590977"
+      },
+      "direccion": "HONDURAS 4673, CABA",
+      "nombre_calle": "HONDURAS",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4673,
+          "cod_calle": 8020,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.426644",
+            "y": "-34.590977"
+          },
+          "direccion": "HONDURAS 4673, CABA",
+          "nombre_calle": "HONDURAS",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 4673,
+          "cod_calle": 10164,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5096997214286,
+            "y": -34.6751002795918
+          },
+          "direccion": "Honduras 4673, La Matanza",
+          "nombre_calle": "Honduras",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "La Tablada",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 4673,
+          "cod_calle": 186310,
+          "cod_calle_cruce": null,
+          "cod_partido": "moreno",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7924141408163,
+            "y": -34.6163295336735
+          },
+          "direccion": "Honduras 4673, Moreno",
+          "nombre_calle": "Honduras",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Moreno",
+          "nombre_partido": "Moreno",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 4673,
+          "cod_calle": 117117,
+          "cod_calle_cruce": null,
+          "cod_partido": "quilmes",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.2412481836735,
+            "y": -34.7483576806122
+          },
+          "direccion": "Honduras 4673, Quilmes",
+          "nombre_calle": "Honduras",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ezpeleta",
+          "nombre_partido": "Quilmes",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  103361.50097969553,
+                  104252.71301954138
+                ],
+                [
+                  103364.64297968974,
+                  104256.74501952736
+                ],
+                [
+                  103364.8549796915,
+                  104257.01701952814
+                ],
+                [
+                  103371.90797967605,
+                  104266.06501949605
+                ],
+                [
+                  103372.72297967492,
+                  104267.11101949163
+                ],
+                [
+                  103374.95597967085,
+                  104269.97601948216
+                ],
+                [
+                  103378.53197965749,
+                  104266.36201948955
+                ],
+                [
+                  103379.68597965351,
+                  104265.19501949256
+                ],
+                [
+                  103381.4569796478,
+                  104263.40501949616
+                ],
+                [
+                  103380.31397964983,
+                  104262.01501950031
+                ],
+                [
+                  103378.75497965244,
+                  104260.11801950695
+                ],
+                [
+                  103376.90197965583,
+                  104257.8650195151
+                ],
+                [
+                  103375.45097965913,
+                  104256.09901952127
+                ],
+                [
+                  103374.02397966168,
+                  104254.36301952673
+                ],
+                [
+                  103372.66597966425,
+                  104252.7120195328
+                ],
+                [
+                  103371.50497966612,
+                  104251.29901953702
+                ],
+                [
+                  103368.27397967255,
+                  104247.36901955074
+                ],
+                [
+                  103366.79097967758,
+                  104248.53901954851
+                ],
+                [
+                  103361.50097969553,
+                  104252.71301954138
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "019-048-021",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "HONDURAS 4673",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.426550071647064,
+      -34.59087665625596
+    ],
+    "direccion": "",
+    "fondo": "21.13",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "048",
+    "parcela": "021",
+    "pdamatriz": "426343",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "019",
+    "smp": "019-048-021",
+    "smp_anterior": "019-048-020",
+    "smp_siguiente": "019-048-022",
+    "srid": 4326,
+    "superficie_cubierta": "196.00",
+    "superficie_total": "183.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "019-048-021",
+  "_http_status": 200
+}

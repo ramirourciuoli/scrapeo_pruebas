@@ -1,0 +1,308 @@
+{
+  "area_m2": 83.75918006896973,
+  "centroide_lonlat": {
+    "lat": -34.56908,
+    "lon": -58.497441
+  },
+  "centroide_xy": {
+    "x": 96866.95598696053,
+    "y": 106676.5301079728
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/77/063-071-032a_0000477677.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION063/063-071-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION063/PI-063-071-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "063-071-031",
+            "063-071-032b"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 300.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 83.7625499999753,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 83.8,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "063-071-032A"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Villa Urquiza",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1431",
+    "codigo_postal_argentino": "C1431EDT",
+    "comisaria": "49",
+    "comisaria_vecinal": "12C",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "63"
+  },
+  "debug": {
+    "address": "ALTOLAGUIRRE 3302",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.497440924175365,
+        -34.56908048056178
+      ],
+      "direccion": "",
+      "fondo": "9.09",
+      "frente": "9.24",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "071",
+      "parcela": "032A",
+      "pdamatriz": "370657",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "063",
+      "smp": "063-071-032A",
+      "smp_anterior": "063-071-031",
+      "smp_siguiente": "063-071-032B",
+      "srid": 4326,
+      "superficie_cubierta": "146.00",
+      "superficie_total": "84.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3302,
+      "cod_calle": 1049
+    },
+    "usig_direccion_elegida": {
+      "altura": 3302,
+      "cod_calle": 1049,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.497333",
+        "y": "-34.569018"
+      },
+      "direccion": "ALTOLAGUIRRE 3302, CABA",
+      "nombre_calle": "ALTOLAGUIRRE",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3302,
+          "cod_calle": 1049,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.497333",
+            "y": "-34.569018"
+          },
+          "direccion": "ALTOLAGUIRRE 3302, CABA",
+          "nombre_calle": "ALTOLAGUIRRE",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96871.47699972526,
+                  106683.2900176098
+                ],
+                [
+                  96872.86699971945,
+                  106681.20001761476
+                ],
+                [
+                  96871.67199971905,
+                  106675.35001763151
+                ],
+                [
+                  96863.54699973788,
+                  106670.12001765275
+                ],
+                [
+                  96863.16799973871,
+                  106670.68701765125
+                ],
+                [
+                  96861.60199974524,
+                  106673.03001764623
+                ],
+                [
+                  96859.89799975202,
+                  106675.5800176402
+                ],
+                [
+                  96862.23099974627,
+                  106677.13401763357
+                ],
+                [
+                  96862.35999974662,
+                  106677.21901763318
+                ],
+                [
+                  96865.52999973926,
+                  106679.33001762538
+                ],
+                [
+                  96865.87499973823,
+                  106679.560017624
+                ],
+                [
+                  96871.47699972526,
+                  106683.2900176098
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "063-071-032A",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ALTOLAGUIRRE 3302",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.497440924175365,
+      -34.56908048056178
+    ],
+    "direccion": "",
+    "fondo": "9.09",
+    "frente": "9.24",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "071",
+    "parcela": "032A",
+    "pdamatriz": "370657",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "063",
+    "smp": "063-071-032A",
+    "smp_anterior": "063-071-031",
+    "smp_siguiente": "063-071-032B",
+    "srid": 4326,
+    "superficie_cubierta": "146.00",
+    "superficie_total": "84.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "063-071-032A",
+  "_http_status": 200
+}

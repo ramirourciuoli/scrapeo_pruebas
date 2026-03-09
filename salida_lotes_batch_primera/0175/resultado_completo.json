@@ -1,0 +1,337 @@
+{
+  "area_m2": 143.26572608947754,
+  "centroide_lonlat": {
+    "lat": -34.640963,
+    "lon": -58.477898
+  },
+  "centroide_xy": {
+    "x": 98661.54593165968,
+    "y": 98702.60914981383
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/9/00/054-129-012_0000408900.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION054/054-129-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION054/PI-054-129-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "054-129-013",
+            "054-129-011"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 143.293850000021,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 143.3,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "054-129-012"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. P. PIÑERO",
+    "barrio": "Parque Avellaneda",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1407",
+    "codigo_postal_argentino": "C1407HHL",
+    "comisaria": "40",
+    "comisaria_vecinal": "9C",
+    "comuna": "Comuna 9",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "54"
+  },
+  "debug": {
+    "address": "TANDIL 3900",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.47789776534334,
+        -34.64096303045757
+      ],
+      "direccion": "",
+      "fondo": "19.97",
+      "frente": "7.26",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "129",
+      "parcela": "012",
+      "pdamatriz": "23878",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "054",
+      "smp": "054-129-012",
+      "smp_anterior": "054-129-011",
+      "smp_siguiente": "054-129-013",
+      "srid": 4326,
+      "superficie_cubierta": "213.00",
+      "superficie_total": "145.00",
+      "unidades_funcionales": "4",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3900,
+      "cod_calle": 21011
+    },
+    "usig_direccion_elegida": {
+      "altura": 3900,
+      "cod_calle": 21011,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.477968",
+        "y": "-34.640891"
+      },
+      "direccion": "TANDIL 3900, CABA",
+      "nombre_calle": "TANDIL",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3900,
+          "cod_calle": 21011,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.477968",
+            "y": "-34.640891"
+          },
+          "direccion": "TANDIL 3900, CABA",
+          "nombre_calle": "TANDIL",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3900,
+          "cod_calle": 422496,
+          "cod_calle_cruce": null,
+          "cod_partido": "general_san_martin",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5377365,
+            "y": -34.5471194
+          },
+          "direccion": "31 - Tandil 3900, General San Martín",
+          "nombre_calle": "31 - Tandil",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Andrés",
+          "nombre_partido": "General San Martín",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98669.71798867469,
+                  98701.32503863904
+                ],
+                [
+                  98668.68798867636,
+                  98700.33303864376
+                ],
+                [
+                  98666.50298868031,
+                  98698.22903865267
+                ],
+                [
+                  98666.21098868208,
+                  98697.94803865225
+                ],
+                [
+                  98664.76898868504,
+                  98696.55903865886
+                ],
+                [
+                  98662.11598869077,
+                  98694.00303866522
+                ],
+                [
+                  98655.2189887143,
+                  98700.57903865262
+                ],
+                [
+                  98655.35898871826,
+                  98706.62903863631
+                ],
+                [
+                  98657.75298871238,
+                  98708.67403862835
+                ],
+                [
+                  98660.96098870687,
+                  98711.41503861858
+                ],
+                [
+                  98664.1169886945,
+                  98707.77803862683
+                ],
+                [
+                  98664.37898869305,
+                  98707.47603862727
+                ],
+                [
+                  98666.80598868526,
+                  98704.68103863209
+                ],
+                [
+                  98667.60998868209,
+                  98703.75403863628
+                ],
+                [
+                  98669.71798867469,
+                  98701.32503863904
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "054-129-012",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "TANDIL 3900",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.47789776534334,
+      -34.64096303045757
+    ],
+    "direccion": "",
+    "fondo": "19.97",
+    "frente": "7.26",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "129",
+    "parcela": "012",
+    "pdamatriz": "23878",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "054",
+    "smp": "054-129-012",
+    "smp_anterior": "054-129-011",
+    "smp_siguiente": "054-129-013",
+    "srid": 4326,
+    "superficie_cubierta": "213.00",
+    "superficie_total": "145.00",
+    "unidades_funcionales": "4",
+    "vuc": "0.00"
+  },
+  "smp": "054-129-012",
+  "_http_status": 200
+}

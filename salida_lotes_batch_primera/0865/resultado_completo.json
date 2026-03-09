@@ -1,0 +1,410 @@
+{
+  "area_m2": 255.5355224609375,
+  "centroide_lonlat": {
+    "lat": -34.614574,
+    "lon": -58.50648
+  },
+  "centroide_xy": {
+    "x": 96039.60460632342,
+    "y": 101629.40201677226
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/25/087-101-005_0000201025.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION087/087-101-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION087/PI-087-101-V3.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "087-101-015",
+            "087-101-004",
+            "087-101-006",
+            "087-101-046"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 60.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 255.571250000009,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 255.5,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "087-101-005"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Monte Castro",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1417",
+    "codigo_postal_argentino": "C1417GAN",
+    "comisaria": "45",
+    "comisaria_vecinal": "10A",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "87"
+  },
+  "debug": {
+    "address": "MARCOS SASTRE 4544",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.506480136848886,
+        -34.614573619921096
+      ],
+      "direccion": "",
+      "fondo": "29.79",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "101",
+      "parcela": "005",
+      "pdamatriz": "277709",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "087",
+      "smp": "087-101-005",
+      "smp_anterior": "087-101-004",
+      "smp_siguiente": "087-101-006",
+      "srid": 4326,
+      "superficie_cubierta": "313.00",
+      "superficie_total": "258.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4544,
+      "cod_calle": 20079
+    },
+    "usig_direccion_elegida": {
+      "altura": 4544,
+      "cod_calle": 20079,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.506601",
+        "y": "-34.614440"
+      },
+      "direccion": "SASTRE, MARCOS 4544, CABA",
+      "nombre_calle": "SASTRE, MARCOS",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4544,
+          "cod_calle": 20079,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.506601",
+            "y": "-34.614440"
+          },
+          "direccion": "SASTRE, MARCOS 4544, CABA",
+          "nombre_calle": "SASTRE, MARCOS",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96027.2359982953,
+                  101638.62703239263
+                ],
+                [
+                  96029.70499829028,
+                  101640.47303238552
+                ],
+                [
+                  96031.10299828717,
+                  101641.51903238159
+                ],
+                [
+                  96034.30699827992,
+                  101643.9160323723
+                ],
+                [
+                  96034.60199827871,
+                  101643.51203237311
+                ],
+                [
+                  96036.88599826992,
+                  101640.38303238052
+                ],
+                [
+                  96038.1609982654,
+                  101638.63703238414
+                ],
+                [
+                  96039.16599826142,
+                  101637.26103238712
+                ],
+                [
+                  96040.8890973757,
+                  101634.90115543938
+                ],
+                [
+                  96043.26507392911,
+                  101631.64712712637
+                ],
+                [
+                  96043.82909980584,
+                  101630.87411687421
+                ],
+                [
+                  96044.87609687218,
+                  101629.44015691653
+                ],
+                [
+                  96045.6041242131,
+                  101628.44314764143
+                ],
+                [
+                  96046.0620709887,
+                  101627.8161334827
+                ],
+                [
+                  96046.5781232328,
+                  101627.10916326946
+                ],
+                [
+                  96049.5941144322,
+                  101622.9791583959
+                ],
+                [
+                  96050.83899821616,
+                  101621.27303242328
+                ],
+                [
+                  96050.47099821726,
+                  101621.0800324241
+                ],
+                [
+                  96051.72699821249,
+                  101619.34303242833
+                ],
+                [
+                  96045.35699822681,
+                  101614.79303244513
+                ],
+                [
+                  96042.79107489687,
+                  101618.1681232583
+                ],
+                [
+                  96041.76348701012,
+                  101619.51974679044
+                ],
+                [
+                  96039.32128731237,
+                  101622.73214912703
+                ],
+                [
+                  96038.83111397436,
+                  101623.37710762164
+                ],
+                [
+                  96038.13830391843,
+                  101624.28714179934
+                ],
+                [
+                  96037.77306954483,
+                  101624.76712226699
+                ],
+                [
+                  96036.42899826038,
+                  101626.53603241962
+                ],
+                [
+                  96035.56268136961,
+                  101627.67611884259
+                ],
+                [
+                  96034.44512766291,
+                  101629.14615057752
+                ],
+                [
+                  96033.49328440482,
+                  101630.39773748882
+                ],
+                [
+                  96031.76812571994,
+                  101632.66610906576
+                ],
+                [
+                  96031.18999828116,
+                  101633.42703240403
+                ],
+                [
+                  96029.63567943897,
+                  101635.47073552434
+                ],
+                [
+                  96028.98107739066,
+                  101636.33212468261
+                ],
+                [
+                  96028.49706860344,
+                  101636.96914860696
+                ],
+                [
+                  96027.84099829344,
+                  101637.83103239432
+                ],
+                [
+                  96027.2359982953,
+                  101638.62703239263
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "087-101-005",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MARCOS SASTRE 4544",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.506480136848886,
+      -34.614573619921096
+    ],
+    "direccion": "",
+    "fondo": "29.79",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "101",
+    "parcela": "005",
+    "pdamatriz": "277709",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "087",
+    "smp": "087-101-005",
+    "smp_anterior": "087-101-004",
+    "smp_siguiente": "087-101-006",
+    "srid": 4326,
+    "superficie_cubierta": "313.00",
+    "superficie_total": "258.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "087-101-005",
+  "_http_status": 200
+}

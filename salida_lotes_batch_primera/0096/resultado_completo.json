@@ -1,0 +1,375 @@
+{
+  "area_m2": 196.5206184387207,
+  "centroide_lonlat": {
+    "lat": -34.601454,
+    "lon": -58.523307
+  },
+  "centroide_xy": {
+    "x": 94495.40613213602,
+    "y": 103084.0641593644
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.0,
+          "fot_perim_libre": 1.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/52/089-013-017_0000201552.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION089/089-013-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION089/PI-089-013-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "089-013-016",
+            "089-013-020",
+            "089-013-018",
+            "089-013-019"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R1b I",
+          "incidencia_uva": 300.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 12735.68
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 196.538249999962,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 196.5,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "089-013-017"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. A. ZUBIZARRETA",
+    "barrio": "Villa Devoto",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1419",
+    "codigo_postal_argentino": "C1419BWE",
+    "comisaria": "45",
+    "comisaria_vecinal": "11B",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "89"
+  },
+  "debug": {
+    "address": "ALLENDE 4519",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.52330706285775,
+        -34.601453867002604
+      ],
+      "direccion": "",
+      "fondo": "22.05",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "013",
+      "parcela": "017",
+      "pdamatriz": "281344",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "089",
+      "smp": "089-013-017",
+      "smp_anterior": "089-013-016",
+      "smp_siguiente": "089-013-018",
+      "srid": 4326,
+      "superficie_cubierta": "161.00",
+      "superficie_total": "191.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4519,
+      "cod_calle": 1064
+    },
+    "usig_direccion_elegida": {
+      "altura": 4519,
+      "cod_calle": 1064,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.523446",
+        "y": "-34.601539"
+      },
+      "direccion": "ALLENDE 4519, CABA",
+      "nombre_calle": "ALLENDE",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4519,
+          "cod_calle": 1064,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.523446",
+            "y": "-34.601539"
+          },
+          "direccion": "ALLENDE 4519, CABA",
+          "nombre_calle": "ALLENDE",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 4519,
+          "cod_calle": 35054,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3637417744898,
+            "y": -34.7395708255102
+          },
+          "direccion": "Coronel Allende 4519, Lanús",
+          "nombre_calle": "Coronel Allende",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Monte Chingolo",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  94491.70100368447,
+                  103075.66802951702
+                ],
+                [
+                  94489.25400368882,
+                  103073.7810295264
+                ],
+                [
+                  94486.83400369852,
+                  103076.96602951756
+                ],
+                [
+                  94483.81500371028,
+                  103080.93902951016
+                ],
+                [
+                  94486.50400370295,
+                  103082.92502950181
+                ],
+                [
+                  94488.45400369915,
+                  103084.36602949692
+                ],
+                [
+                  94489.36100369727,
+                  103085.03602949402
+                ],
+                [
+                  94496.17500368146,
+                  103090.0700294755
+                ],
+                [
+                  94499.0270036752,
+                  103092.17702946634
+                ],
+                [
+                  94501.94700366889,
+                  103094.33402945712
+                ],
+                [
+                  94504.06300366088,
+                  103091.40202946449
+                ],
+                [
+                  94504.29800365976,
+                  103091.07702946421
+                ],
+                [
+                  94505.01100365717,
+                  103090.08902946603
+                ],
+                [
+                  94505.18700365632,
+                  103089.84502946786
+                ],
+                [
+                  94506.94000364971,
+                  103087.41602947316
+                ],
+                [
+                  94505.21100365384,
+                  103086.08402947875
+                ],
+                [
+                  94503.141003658,
+                  103084.48802948487
+                ],
+                [
+                  94501.6640036611,
+                  103083.35002948905
+                ],
+                [
+                  94500.98100366266,
+                  103082.82402949047
+                ],
+                [
+                  94500.7430036634,
+                  103082.64002949116
+                ],
+                [
+                  94499.7400036655,
+                  103081.86702949382
+                ],
+                [
+                  94498.02100366897,
+                  103080.54102949932
+                ],
+                [
+                  94491.80600368325,
+                  103075.74902951694
+                ],
+                [
+                  94491.70100368447,
+                  103075.66802951702
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "089-013-017",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ALLENDE 4519",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.52330706285775,
+      -34.601453867002604
+    ],
+    "direccion": "",
+    "fondo": "22.05",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "013",
+    "parcela": "017",
+    "pdamatriz": "281344",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "089",
+    "smp": "089-013-017",
+    "smp_anterior": "089-013-016",
+    "smp_siguiente": "089-013-018",
+    "srid": 4326,
+    "superficie_cubierta": "161.00",
+    "superficie_total": "191.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "089-013-017",
+  "_http_status": 200
+}

@@ -1,0 +1,337 @@
+{
+  "area_m2": 204.16977977752686,
+  "centroide_lonlat": {
+    "lat": -34.597489,
+    "lon": -58.430839
+  },
+  "centroide_xy": {
+    "x": 102977.8910854925,
+    "y": 103525.01801958751
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.43,
+          "fot_perim_libre": 3.43,
+          "fot_semi_libre": 3.43
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/43/031-061-001c_0000265043.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION031/031-061-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION031/PI-031-061-V4.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "031-061-002",
+            "031-061-038"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2a II",
+          "incidencia_uva": 380.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 204.203900000349,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 204.2,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "031-061-001C"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Villa Crespo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1414",
+    "codigo_postal_argentino": "C1414AYD",
+    "comisaria": "25",
+    "comisaria_vecinal": "15B",
+    "comuna": "Comuna 15",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   II",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "31"
+  },
+  "debug": {
+    "address": "JUFRE 182",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.43083874820449,
+        -34.59748944958165
+      ],
+      "direccion": "",
+      "fondo": "13.66",
+      "frente": "14.94",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "061",
+      "parcela": "001C",
+      "pdamatriz": "420636",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "3",
+      "propiedad_horizontal": "Si",
+      "seccion": "031",
+      "smp": "031-061-001C",
+      "smp_anterior": "031-061-038",
+      "smp_siguiente": "031-061-002",
+      "srid": 4326,
+      "superficie_cubierta": "641.00",
+      "superficie_total": "204.00",
+      "unidades_funcionales": "9",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 182,
+      "cod_calle": 10012
+    },
+    "usig_direccion_elegida": {
+      "altura": 182,
+      "cod_calle": 10012,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.430757",
+        "y": "-34.597453"
+      },
+      "direccion": "JUFRE 182, CABA",
+      "nombre_calle": "JUFRE",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 182,
+          "cod_calle": 10012,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.430757",
+            "y": "-34.597453"
+          },
+          "direccion": "JUFRE 182, CABA",
+          "nombre_calle": "JUFRE",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 182,
+          "cod_calle": 78042,
+          "cod_calle_cruce": null,
+          "cod_partido": "hurlingham",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6268175411765,
+            "y": -34.6309898248271
+          },
+          "direccion": "Juan Jufrè 182, Hurlingham",
+          "nombre_calle": "Juan Jufrè",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Tesei",
+          "nombre_partido": "Hurlingham",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102967.5359802562,
+                  103529.62402186511
+                ],
+                [
+                  102968.20598025466,
+                  103530.14502186285
+                ],
+                [
+                  102972.20898024533,
+                  103533.25802185191
+                ],
+                [
+                  102972.87998024395,
+                  103533.78002184985
+                ],
+                [
+                  102978.91998022649,
+                  103533.04002184715
+                ],
+                [
+                  102979.40698022436,
+                  103532.41502184849
+                ],
+                [
+                  102987.02798019593,
+                  103522.62802186975
+                ],
+                [
+                  102988.05898019244,
+                  103521.3040218727
+                ],
+                [
+                  102982.71198020416,
+                  103517.03902188898
+                ],
+                [
+                  102982.49998020433,
+                  103516.87002188983
+                ],
+                [
+                  102979.37298021089,
+                  103514.37602189922
+                ],
+                [
+                  102977.0699802202,
+                  103517.34202189269
+                ],
+                [
+                  102976.29598022296,
+                  103518.34002189015
+                ],
+                [
+                  102973.5059802334,
+                  103521.93302188252
+                ],
+                [
+                  102967.5359802562,
+                  103529.62402186511
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "031-061-001C",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "JUFRE 182",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.43083874820449,
+      -34.59748944958165
+    ],
+    "direccion": "",
+    "fondo": "13.66",
+    "frente": "14.94",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "061",
+    "parcela": "001C",
+    "pdamatriz": "420636",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "3",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "031",
+    "smp": "031-061-001C",
+    "smp_anterior": "031-061-038",
+    "smp_siguiente": "031-061-002",
+    "srid": 4326,
+    "superficie_cubierta": "641.00",
+    "superficie_total": "204.00",
+    "unidades_funcionales": "9",
+    "vuc": "0.00"
+  },
+  "smp": "031-061-001C",
+  "_http_status": 200
+}

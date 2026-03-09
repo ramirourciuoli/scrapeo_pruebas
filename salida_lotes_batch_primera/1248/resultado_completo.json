@@ -1,0 +1,382 @@
+{
+  "area_m2": 209.74713230133057,
+  "centroide_lonlat": {
+    "lat": -34.626992,
+    "lon": -58.460615
+  },
+  "centroide_xy": {
+    "x": 100246.23189476161,
+    "y": 100252.57852549756
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 38.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 5.0,
+          "fot_perim_libre": 7.0,
+          "fot_semi_libre": 5.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/9/96/065-099-001_0000142996.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION065/065-099-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION065/PI-065-099-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "065-099-034",
+            "065-099-002"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "C2",
+          "incidencia_uva": 120.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 209.745150000146,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 209.7,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "065-099-001"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. P. PIÑERO",
+    "barrio": "Flores",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1406",
+    "codigo_postal_argentino": "C1406BAB",
+    "comisaria": "38",
+    "comisaria_vecinal": "7C",
+    "comuna": "Comuna 7",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "65"
+  },
+  "debug": {
+    "address": "GAVILAN 98",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.460614935777365,
+        -34.626992180143155
+      ],
+      "direccion": "",
+      "fondo": "14.13",
+      "frente": "14.72",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "099",
+      "parcela": "001",
+      "pdamatriz": "134481",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "3",
+      "propiedad_horizontal": "Si",
+      "seccion": "065",
+      "smp": "065-099-001",
+      "smp_anterior": "065-099-034",
+      "smp_siguiente": "065-099-002",
+      "srid": 4326,
+      "superficie_cubierta": "582.00",
+      "superficie_total": "208.00",
+      "unidades_funcionales": "12",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 98,
+      "cod_calle": 7040
+    },
+    "usig_direccion_elegida": {
+      "altura": 98,
+      "cod_calle": 7040,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.460477",
+        "y": "-34.626951"
+      },
+      "direccion": "GAVILAN 98, CABA",
+      "nombre_calle": "GAVILAN",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 98,
+          "cod_calle": 7040,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.460477",
+            "y": "-34.626951"
+          },
+          "direccion": "GAVILAN 98, CABA",
+          "nombre_calle": "GAVILAN",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 98,
+          "cod_calle": 354593,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7717017102041,
+            "y": -34.699329244898
+          },
+          "direccion": "Gavilán 98, Merlo",
+          "nombre_calle": "Gavilán",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Mariano Acosta",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 98,
+          "cod_calle": 354593,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7717017102041,
+            "y": -34.699329244898
+          },
+          "direccion": "Gavilán 98, Merlo",
+          "nombre_calle": "Gavilán",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Parque San Martín",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  100235.44198545275,
+                  100254.86203310447
+                ],
+                [
+                  100249.21998541792,
+                  100260.07003307971
+                ],
+                [
+                  100254.7999854004,
+                  100257.86003308362
+                ],
+                [
+                  100257.63998538762,
+                  100251.83703309763
+                ],
+                [
+                  100252.47198540071,
+                  100249.34603310758
+                ],
+                [
+                  100251.55098540358,
+                  100248.9020331073
+                ],
+                [
+                  100248.87898540913,
+                  100247.61403311597
+                ],
+                [
+                  100247.04598541427,
+                  100246.73003311973
+                ],
+                [
+                  100245.87598541654,
+                  100246.16603312205
+                ],
+                [
+                  100245.41298541757,
+                  100245.94303312298
+                ],
+                [
+                  100243.34098542375,
+                  100244.94403312745
+                ],
+                [
+                  100242.63198542474,
+                  100244.60203312922
+                ],
+                [
+                  100240.52798543053,
+                  100243.58803313508
+                ],
+                [
+                  100240.12188543194,
+                  100244.4877331306
+                ],
+                [
+                  100240.07798543185,
+                  100244.58503312964
+                ],
+                [
+                  100239.25398543524,
+                  100246.41103312679
+                ],
+                [
+                  100239.10998543672,
+                  100246.7300331257
+                ],
+                [
+                  100238.43298543978,
+                  100248.2310331212
+                ],
+                [
+                  100238.36358544008,
+                  100248.38493312153
+                ],
+                [
+                  100236.34698544876,
+                  100252.85603310974
+                ],
+                [
+                  100235.98708544941,
+                  100253.65373310747
+                ],
+                [
+                  100235.44198545275,
+                  100254.86203310447
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "065-099-001",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "GAVILAN 98",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.460614935777365,
+      -34.626992180143155
+    ],
+    "direccion": "",
+    "fondo": "14.13",
+    "frente": "14.72",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "099",
+    "parcela": "001",
+    "pdamatriz": "134481",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "3",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "065",
+    "smp": "065-099-001",
+    "smp_anterior": "065-099-034",
+    "smp_siguiente": "065-099-002",
+    "srid": 4326,
+    "superficie_cubierta": "582.00",
+    "superficie_total": "208.00",
+    "unidades_funcionales": "12",
+    "vuc": "0.00"
+  },
+  "smp": "065-099-001",
+  "_http_status": 200
+}

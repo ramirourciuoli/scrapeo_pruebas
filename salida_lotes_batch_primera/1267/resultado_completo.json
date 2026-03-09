@@ -1,0 +1,503 @@
+{
+  "area_m2": 325.1272611618042,
+  "centroide_lonlat": {
+    "lat": -34.609779,
+    "lon": -58.41766
+  },
+  "centroide_xy": {
+    "x": 104186.20460184924,
+    "y": 102161.2343202814
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 38.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 4.0,
+          "fot_perim_libre": 4.0,
+          "fot_semi_libre": 4.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/76/013-001-002_0000156676.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION013/013-001-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION013/PI-013-001-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "013-001-030",
+            "013-001-031",
+            "013-001-001",
+            "013-001-003"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "C3 I",
+          "incidencia_uva": 140.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 325.105950000111,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 325.1,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "013-001-002"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. J.M. RAMOS MEJÍA",
+    "barrio": "Almagro",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1201",
+    "codigo_postal_argentino": "C1201AAR",
+    "comisaria": "9",
+    "comisaria_vecinal": "5A",
+    "comuna": "Comuna 5",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   II",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "13"
+  },
+  "debug": {
+    "address": "BARTOLOME MITRE 3614",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.41766049787784,
+        -34.609778674686154
+      ],
+      "direccion": "",
+      "fondo": "32.86",
+      "frente": "9.77",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "001",
+      "parcela": "002",
+      "pdamatriz": "192615",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "4",
+      "propiedad_horizontal": "Si",
+      "seccion": "013",
+      "smp": "013-001-002",
+      "smp_anterior": "013-001-001",
+      "smp_siguiente": "013-001-003",
+      "srid": 4326,
+      "superficie_cubierta": "862.00",
+      "superficie_total": "321.00",
+      "unidades_funcionales": "12",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3614,
+      "cod_calle": 13094
+    },
+    "usig_direccion_elegida": {
+      "altura": 3614,
+      "cod_calle": 13094,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.417676",
+        "y": "-34.609612"
+      },
+      "direccion": "MITRE, BARTOLOME 3614, CABA",
+      "nombre_calle": "MITRE, BARTOLOME",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3614,
+          "cod_calle": 13094,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.417676",
+            "y": "-34.609612"
+          },
+          "direccion": "MITRE, BARTOLOME 3614, CABA",
+          "nombre_calle": "MITRE, BARTOLOME",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3614,
+          "cod_calle": 292751,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3612393020408,
+            "y": -34.7806680591837
+          },
+          "direccion": "Bartolomé Mitre 3614, Almirante Brown",
+          "nombre_calle": "Bartolomé Mitre",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "José Mármol",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3614,
+          "cod_calle": 54043,
+          "cod_calle_cruce": null,
+          "cod_partido": "avellaneda",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3412144359687,
+            "y": -34.6855742748312
+          },
+          "direccion": "Avenida Bartolomé Mitre 3614, Avellaneda",
+          "nombre_calle": "Avenida Bartolomé Mitre",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Sarandí",
+          "nombre_partido": "Avellaneda",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3614,
+          "cod_calle": 13668,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_fernando",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5341811,
+            "y": -34.455031025
+          },
+          "direccion": "Bartolomé Mitre 3614, San Fernando",
+          "nombre_calle": "Bartolomé Mitre",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Victoria",
+          "nombre_partido": "San Fernando",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3614,
+          "cod_calle": 8907,
+          "cod_calle_cruce": null,
+          "cod_partido": "tres_de_febrero",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5502183102041,
+            "y": -34.6150379510204
+          },
+          "direccion": "618 - Bartolomé Mitre 3614, Tres de Febrero",
+          "nombre_calle": "618 - Bartolomé Mitre",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Caseros",
+          "nombre_partido": "Tres de Febrero",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3614,
+          "cod_calle": 201552,
+          "cod_calle_cruce": null,
+          "cod_partido": "vicente_lopez",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5255342425809,
+            "y": -34.5185392462335
+          },
+          "direccion": "Avenida Bartolomé Mitre 3614, Vicente López",
+          "nombre_calle": "Avenida Bartolomé Mitre",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Munro",
+          "nombre_partido": "Vicente López",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  104190.87297579745,
+                  102164.63702477253
+                ],
+                [
+                  104191.03997579552,
+                  102162.20102477944
+                ],
+                [
+                  104191.14697579388,
+                  102160.64602478308
+                ],
+                [
+                  104191.30397579138,
+                  102158.35402478997
+                ],
+                [
+                  104191.38397579035,
+                  102157.19502479315
+                ],
+                [
+                  104191.49897578901,
+                  102155.51502479715
+                ],
+                [
+                  104191.63597578723,
+                  102153.5210248027
+                ],
+                [
+                  104191.81097578461,
+                  102150.97402481039
+                ],
+                [
+                  104191.95597578312,
+                  102148.85302481591
+                ],
+                [
+                  104191.99897578209,
+                  102148.23302481754
+                ],
+                [
+                  104192.04197578202,
+                  102147.59702481935
+                ],
+                [
+                  104192.2369757787,
+                  102144.75702482733
+                ],
+                [
+                  104190.63297578384,
+                  102144.73602482793
+                ],
+                [
+                  104186.65697579423,
+                  102144.68202483153
+                ],
+                [
+                  104186.12897579579,
+                  102144.67502483175
+                ],
+                [
+                  104182.43697580628,
+                  102144.62602483502
+                ],
+                [
+                  104182.28097580888,
+                  102146.84302482908
+                ],
+                [
+                  104182.19097580932,
+                  102148.12602482538
+                ],
+                [
+                  104182.0319758115,
+                  102150.39102481882
+                ],
+                [
+                  104181.89697581355,
+                  102152.32002481399
+                ],
+                [
+                  104181.73197581574,
+                  102154.66202480678
+                ],
+                [
+                  104181.52397581891,
+                  102157.62102479936
+                ],
+                [
+                  104181.26897582246,
+                  102161.25202478943
+                ],
+                [
+                  104180.85597582744,
+                  102167.1320247731
+                ],
+                [
+                  104180.67097583036,
+                  102169.76802476583
+                ],
+                [
+                  104180.64197583061,
+                  102170.17402476422
+                ],
+                [
+                  104180.6049758316,
+                  102170.70102476346
+                ],
+                [
+                  104180.54497583187,
+                  102171.56702476053
+                ],
+                [
+                  104180.4089758338,
+                  102173.4980247551
+                ],
+                [
+                  104180.13797583772,
+                  102177.35602474445
+                ],
+                [
+                  104183.3699758287,
+                  102177.61302474156
+                ],
+                [
+                  104186.60697581954,
+                  102177.8700247386
+                ],
+                [
+                  104189.9469758102,
+                  102178.135024735
+                ],
+                [
+                  104190.10997580862,
+                  102175.75602474183
+                ],
+                [
+                  104190.31797580539,
+                  102172.72302475036
+                ],
+                [
+                  104190.4369758037,
+                  102170.9890247549
+                ],
+                [
+                  104190.50397580255,
+                  102170.01502475727
+                ],
+                [
+                  104190.64997580127,
+                  102167.89202476342
+                ],
+                [
+                  104190.87297579745,
+                  102164.63702477253
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "013-001-002",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "BARTOLOME MITRE 3614",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.41766049787784,
+      -34.609778674686154
+    ],
+    "direccion": "",
+    "fondo": "32.86",
+    "frente": "9.77",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "001",
+    "parcela": "002",
+    "pdamatriz": "192615",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "4",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "013",
+    "smp": "013-001-002",
+    "smp_anterior": "013-001-001",
+    "smp_siguiente": "013-001-003",
+    "srid": 4326,
+    "superficie_cubierta": "862.00",
+    "superficie_total": "321.00",
+    "unidades_funcionales": "12",
+    "vuc": "0.00"
+  },
+  "smp": "013-001-002",
+  "_http_status": 200
+}

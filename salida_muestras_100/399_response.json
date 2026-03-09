@@ -1,0 +1,384 @@
+{
+  "area_m2": 185.02356910705566,
+  "centroide_lonlat": {
+    "lat": -34.641526,
+    "lon": -58.471847
+  },
+  "centroide_xy": {
+    "x": 99216.33416671789,
+    "y": 98640.26715678905
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/9/07/054-174-028_0000250907.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION054/054-174-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION054/PI-054-174-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "054-174-027",
+            "054-174-029"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 185.050900000137,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 185.0,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "054-174-028"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. P. PIÑERO",
+    "barrio": "Parque Avellaneda",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1407",
+    "codigo_postal_argentino": "C1407HNC",
+    "comisaria": "40",
+    "comisaria_vecinal": "9C",
+    "comuna": "Comuna 9",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "54"
+  },
+  "debug": {
+    "address": "SAN PEDRO 3719",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.471847059325064,
+        -34.641525565284375
+      ],
+      "direccion": "AZUL 895",
+      "fondo": "13.57",
+      "frente": "13.04",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "174",
+      "parcela": "028",
+      "pdamatriz": "22559",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "054",
+      "smp": "054-174-028",
+      "smp_anterior": "054-174-027",
+      "smp_siguiente": "054-174-029",
+      "srid": 4326,
+      "superficie_cubierta": "265.00",
+      "superficie_total": "177.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3719,
+      "cod_calle": 20051
+    },
+    "usig_direccion_elegida": {
+      "altura": 3719,
+      "cod_calle": 20051,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.471821",
+        "y": "-34.641605"
+      },
+      "direccion": "SAN PEDRO 3719, CABA",
+      "nombre_calle": "SAN PEDRO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3719,
+          "cod_calle": 20051,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.471821",
+            "y": "-34.641605"
+          },
+          "direccion": "SAN PEDRO 3719, CABA",
+          "nombre_calle": "SAN PEDRO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3719,
+          "cod_calle": 136375,
+          "cod_calle_cruce": null,
+          "cod_partido": "malvinas_argentinas",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6654943428571,
+            "y": -34.5122905030612
+          },
+          "direccion": "San Pedro 3719, Malvinas Argentinas",
+          "nombre_calle": "San Pedro",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa de Mayo",
+          "nombre_partido": "Malvinas Argentinas",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99215.54498710179,
+                  98645.57203838613
+                ],
+                [
+                  99217.59098709677,
+                  98646.26003838278
+                ],
+                [
+                  99218.17698709546,
+                  98646.45703838207
+                ],
+                [
+                  99223.33898708114,
+                  98648.19103837249
+                ],
+                [
+                  99224.89798707444,
+                  98643.87903838314
+                ],
+                [
+                  99225.55998707,
+                  98642.05003838791
+                ],
+                [
+                  99223.00998707378,
+                  98636.6400384049
+                ],
+                [
+                  99213.18698709896,
+                  98633.14103842236
+                ],
+                [
+                  99211.67898710191,
+                  98632.604038425
+                ],
+                [
+                  99210.23398710613,
+                  98632.08903842792
+                ],
+                [
+                  99208.12798711628,
+                  98638.08603841442
+                ],
+                [
+                  99207.6979871189,
+                  98639.31303840937
+                ],
+                [
+                  99207.36598712139,
+                  98640.2560384068
+                ],
+                [
+                  99207.17798712171,
+                  98640.79203840651
+                ],
+                [
+                  99206.5599871243,
+                  98642.55303840051
+                ],
+                [
+                  99210.9689871128,
+                  98644.03503839497
+                ],
+                [
+                  99211.82298711153,
+                  98644.32103839322
+                ],
+                [
+                  99212.95298710816,
+                  98644.7010383899
+                ],
+                [
+                  99214.78798710337,
+                  98645.31803838737
+                ],
+                [
+                  99215.54498710179,
+                  98645.57203838613
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "054-174-028",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "SAN PEDRO 3719",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 3,
+    "centroide": [
+      -58.471847059325064,
+      -34.641525565284375
+    ],
+    "direccion": "AZUL 895",
+    "fondo": "13.57",
+    "frente": "13.04",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "174",
+    "parcela": "028",
+    "pdamatriz": "22559",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [
+      {
+        "altura": 895,
+        "calle": "AZUL",
+        "codigo_calle": 1150,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      },
+      {
+        "altura": 899,
+        "calle": "AZUL",
+        "codigo_calle": 1150,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      },
+      {
+        "altura": 3719,
+        "calle": "SAN PEDRO",
+        "codigo_calle": 20051,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "054",
+    "smp": "054-174-028",
+    "smp_anterior": "054-174-027",
+    "smp_siguiente": "054-174-029",
+    "srid": 4326,
+    "superficie_cubierta": "265.00",
+    "superficie_total": "177.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "054-174-028"
+}

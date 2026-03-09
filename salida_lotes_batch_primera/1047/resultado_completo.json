@@ -1,0 +1,347 @@
+{
+  "area_m2": 151.62814044952393,
+  "centroide_lonlat": {
+    "lat": -34.650548,
+    "lon": -58.525277
+  },
+  "centroide_xy": {
+    "x": 94318.0878894965,
+    "y": 97637.63920231043
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/06/072-044B-021_0000440606.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION072/072-044B-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION072/PI-072-044B-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "DI-2022-1820-GCABA-DGIUR",
+          "pdf": "072-044B.pdf"
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "072-044B-022",
+            "072-044B-020",
+            "072-044B-007",
+            "072-044B-009",
+            "072-044B-008"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 50.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 151.6,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "072-044B-021"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Liniers",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1408",
+    "codigo_postal_argentino": "C1408FXG",
+    "comisaria": "54",
+    "comisaria_vecinal": "9B",
+    "comuna": "Comuna 9",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "72"
+  },
+  "debug": {
+    "address": "TTE. MANUEL FELIX ORIGONE 1053",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.52527655123466,
+        -34.650547962304195
+      ],
+      "direccion": "",
+      "fondo": "17.32",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "044B",
+      "parcela": "021",
+      "pdamatriz": "20405",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "072",
+      "smp": "072-044B-021",
+      "smp_anterior": "072-044B-020",
+      "smp_siguiente": "072-044B-022",
+      "srid": 4326,
+      "superficie_cubierta": "171.00",
+      "superficie_total": "150.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1053,
+      "cod_calle": 16027
+    },
+    "usig_direccion_elegida": {
+      "altura": 1053,
+      "cod_calle": 16027,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.525160",
+        "y": "-34.650543"
+      },
+      "direccion": "ORIGONE, MANUEL FELIX, TTE 1053, CABA",
+      "nombre_calle": "ORIGONE, MANUEL FELIX, TTE",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1053,
+          "cod_calle": 16027,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.525160",
+            "y": "-34.650543"
+          },
+          "direccion": "ORIGONE, MANUEL FELIX, TTE 1053, CABA",
+          "nombre_calle": "ORIGONE, MANUEL FELIX, TTE",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  94312.79600009495,
+                  97641.7070448923
+                ],
+                [
+                  94313.32500009441,
+                  97641.73804489183
+                ],
+                [
+                  94314.12600009219,
+                  97641.78404489066
+                ],
+                [
+                  94317.00400008271,
+                  97641.95304488711
+                ],
+                [
+                  94317.76500008133,
+                  97641.99704488667
+                ],
+                [
+                  94321.71300007147,
+                  97642.22804488364
+                ],
+                [
+                  94326.50200005798,
+                  97642.50804487974
+                ],
+                [
+                  94326.6720000551,
+                  97639.31204488792
+                ],
+                [
+                  94326.72500005273,
+                  97638.31404489046
+                ],
+                [
+                  94326.96800004916,
+                  97633.74004490295
+                ],
+                [
+                  94324.40000005705,
+                  97633.60204490603
+                ],
+                [
+                  94323.40200005945,
+                  97633.54804490547
+                ],
+                [
+                  94322.17100006307,
+                  97633.48204490729
+                ],
+                [
+                  94321.14000006515,
+                  97633.42604490888
+                ],
+                [
+                  94315.78100008129,
+                  97633.13804491266
+                ],
+                [
+                  94315.06000008206,
+                  97633.0990449141
+                ],
+                [
+                  94313.2600000867,
+                  97633.00204491714
+                ],
+                [
+                  94309.65100009639,
+                  97632.80804491829
+                ],
+                [
+                  94309.44900010027,
+                  97636.51204490938
+                ],
+                [
+                  94309.1770001057,
+                  97641.49504489516
+                ],
+                [
+                  94312.79600009495,
+                  97641.7070448923
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "072-044B-021",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "TTE. MANUEL FELIX ORIGONE 1053",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.52527655123466,
+      -34.650547962304195
+    ],
+    "direccion": "",
+    "fondo": "17.32",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "044B",
+    "parcela": "021",
+    "pdamatriz": "20405",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "072",
+    "smp": "072-044B-021",
+    "smp_anterior": "072-044B-020",
+    "smp_siguiente": "072-044B-022",
+    "srid": 4326,
+    "superficie_cubierta": "171.00",
+    "superficie_total": "150.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "072-044B-021",
+  "_http_status": 200
+}

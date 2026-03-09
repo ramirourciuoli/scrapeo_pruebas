@@ -1,0 +1,494 @@
+{
+  "area_m2": 190.06257915496826,
+  "centroide_lonlat": {
+    "lat": -34.631708,
+    "lon": -58.433358
+  },
+  "centroide_xy": {
+    "x": 102745.65781658106,
+    "y": 99729.06133669877
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 11.1,
+        "catalogacion": {
+          "catalogacion": "APH",
+          "denominacion": null,
+          "estado": "CPU/CUr",
+          "ley_3056": "NO",
+          "proteccion": "GENERAL"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "APH",
+            "distrito_especifico": "APH 29"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 0.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/1/98/040-060A-003_0000356198.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION040/040-060A-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION040/PI-040-060A-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "040-060A-006",
+            "040-060A-002",
+            "040-060A-021",
+            "040-060A-004"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "APH 29",
+          "incidencia_uva": 140.0,
+          "plusvalia_em": 0.0,
+          "plusvalia_pl": 0.0,
+          "plusvalia_sl": 0.0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 190.1,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "040-060A-003"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Parque Chacabuco",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1424",
+    "codigo_postal_argentino": "C1424CML",
+    "comisaria": "12",
+    "comisaria_vecinal": "7B",
+    "comuna": "Comuna 7",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "40"
+  },
+  "debug": {
+    "address": "ESTRADA 550",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.43335797635385,
+        -34.6317076118595
+      ],
+      "direccion": "",
+      "fondo": "23.50",
+      "frente": "8.00",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "060A",
+      "parcela": "003",
+      "pdamatriz": "160773",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "040",
+      "smp": "040-060A-003",
+      "smp_anterior": "040-060A-002",
+      "smp_siguiente": "040-060A-004",
+      "srid": 4326,
+      "superficie_cubierta": "212.00",
+      "superficie_total": "188.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 550,
+      "cod_calle": 5095
+    },
+    "usig_direccion_elegida": {
+      "altura": 550,
+      "cod_calle": 5095,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.433389",
+        "y": "-34.631564"
+      },
+      "direccion": "ESTRADA 550, CABA",
+      "nombre_calle": "ESTRADA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 550,
+          "cod_calle": 5095,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.433389",
+            "y": "-34.631564"
+          },
+          "direccion": "ESTRADA 550, CABA",
+          "nombre_calle": "ESTRADA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 550,
+          "cod_calle": 80682,
+          "cod_calle_cruce": null,
+          "cod_partido": "esteban_echeverria",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4998199836735,
+            "y": -34.8415947795919
+          },
+          "direccion": "José Manuel Estrada 550, Esteban Echeverría",
+          "nombre_calle": "José Manuel Estrada",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "El Jagüel",
+          "nombre_partido": "Esteban Echeverría",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 550,
+          "cod_calle": 102826,
+          "cod_calle_cruce": null,
+          "cod_partido": "ezeiza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5883068428571,
+            "y": -34.9118205857143
+          },
+          "direccion": "E. Martinez Estrada 550, Ezeiza",
+          "nombre_calle": "E. Martinez Estrada",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Carlos Spegazzini",
+          "nombre_partido": "Ezeiza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 550,
+          "cod_calle": 130914,
+          "cod_calle_cruce": null,
+          "cod_partido": "florencio_varela",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.273684767347,
+            "y": -34.791813067347
+          },
+          "direccion": "José M. de Estrada 550, Florencio Varela",
+          "nombre_calle": "José M. de Estrada",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Florencio Varela",
+          "nombre_partido": "Florencio Varela",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 550,
+          "cod_calle": 265704,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "direccion": "Estrada 550, La Matanza",
+          "nombre_calle": "Estrada",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Rafael Castillo",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 550,
+          "cod_calle": 17433,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4182305693878,
+            "y": -34.7514058510204
+          },
+          "direccion": "José Manuel Estrada 550, Lomas de Zamora",
+          "nombre_calle": "José Manuel Estrada",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lomas de Zamora",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 550,
+          "cod_calle": 163426,
+          "cod_calle_cruce": null,
+          "cod_partido": "moreno",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7454673959184,
+            "y": -34.6442905367347
+          },
+          "direccion": "José Manuel de Estrada 550, Moreno",
+          "nombre_calle": "José Manuel de Estrada",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Paso del Rey",
+          "nombre_partido": "Moreno",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 550,
+          "cod_calle": 12819,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_miguel",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6828473244898,
+            "y": -34.5525780367347
+          },
+          "direccion": "Estrada 550, San Miguel",
+          "nombre_calle": "Estrada",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Bella Vista",
+          "nombre_partido": "San Miguel",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 550,
+          "cod_calle": 146320,
+          "cod_calle_cruce": null,
+          "cod_partido": "tigre",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6420569795918,
+            "y": -34.4878160408163
+          },
+          "direccion": "Estrada 550, Tigre",
+          "nombre_calle": "Estrada",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Don Torcuato",
+          "nombre_partido": "Tigre",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 550,
+          "cod_calle": 51519,
+          "cod_calle_cruce": null,
+          "cod_partido": "tigre",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6333021836735,
+            "y": -34.4512483795918
+          },
+          "direccion": "José Manuel Estrada 550, Tigre",
+          "nombre_calle": "José Manuel Estrada",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "General Pacheco",
+          "nombre_partido": "Tigre",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102748.18897801719,
+                  99737.84103266394
+                ],
+                [
+                  102748.71697801349,
+                  99734.9680326719
+                ],
+                [
+                  102749.09997801026,
+                  99732.88603267705
+                ],
+                [
+                  102749.13797801067,
+                  99732.6820326777
+                ],
+                [
+                  102750.29497800235,
+                  99726.39503269401
+                ],
+                [
+                  102751.80797799215,
+                  99718.17003271633
+                ],
+                [
+                  102746.1349780072,
+                  99717.53303272228
+                ],
+                [
+                  102743.49797801426,
+                  99717.23703272498
+                ],
+                [
+                  102742.77597801942,
+                  99721.48803271377
+                ],
+                [
+                  102742.25197802391,
+                  99724.56703270544
+                ],
+                [
+                  102742.13897802483,
+                  99725.234032704
+                ],
+                [
+                  102741.647978028,
+                  99728.12403269595
+                ],
+                [
+                  102741.59897802869,
+                  99728.41303269504
+                ],
+                [
+                  102741.10197803187,
+                  99731.33903268722
+                ],
+                [
+                  102740.42697803692,
+                  99735.30603267677
+                ],
+                [
+                  102740.24697803853,
+                  99736.36703267368
+                ],
+                [
+                  102740.14597803852,
+                  99736.96403267214
+                ],
+                [
+                  102739.98297804,
+                  99737.92303267028
+                ],
+                [
+                  102739.65397804251,
+                  99739.85703266456
+                ],
+                [
+                  102747.55797802149,
+                  99741.26803265495
+                ],
+                [
+                  102748.18897801719,
+                  99737.84103266394
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "040-060A-003",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ESTRADA 550",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.43335797635385,
+      -34.6317076118595
+    ],
+    "direccion": "",
+    "fondo": "23.50",
+    "frente": "8.00",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "060A",
+    "parcela": "003",
+    "pdamatriz": "160773",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "040",
+    "smp": "040-060A-003",
+    "smp_anterior": "040-060A-002",
+    "smp_siguiente": "040-060A-004",
+    "srid": 4326,
+    "superficie_cubierta": "212.00",
+    "superficie_total": "188.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "040-060A-003",
+  "_http_status": 200
+}

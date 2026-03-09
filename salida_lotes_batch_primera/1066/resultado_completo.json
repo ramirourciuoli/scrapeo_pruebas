@@ -1,0 +1,286 @@
+{
+  "area_m2": 258.2170162200928,
+  "centroide_lonlat": {
+    "lat": -34.675924,
+    "lon": -58.495163
+  },
+  "centroide_xy": {
+    "x": 97079.77553206995,
+    "y": 94823.80721646723
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 2.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/4/52/078-030-006_0000063452.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION078/078-030-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION078/PI-078-030-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "078-030-011",
+            "078-030-010",
+            "078-030-005",
+            "078-030-007"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "E2",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 636.17,
+          "plusvalia_sl": 636.17
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 198.803339598857,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 258.2,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "078-030-006"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Villa Lugano",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1439",
+    "codigo_postal_argentino": "C1439BLF",
+    "comisaria": "48",
+    "comisaria_vecinal": "8A",
+    "comuna": "Comuna 8",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "78"
+  },
+  "debug": {
+    "address": "ECHEANDIA 6776",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.495162624685,
+        -34.675923796481115
+      ],
+      "direccion": "",
+      "fondo": "28.98",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "030",
+      "parcela": "006",
+      "pdamatriz": "74142",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "078",
+      "smp": "078-030-006",
+      "smp_anterior": "078-030-005",
+      "smp_siguiente": "078-030-007",
+      "srid": 4326,
+      "superficie_cubierta": "446.00",
+      "superficie_total": "251.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 6776,
+      "cod_calle": 5005
+    },
+    "usig_direccion_elegida": {
+      "altura": 6776,
+      "cod_calle": 5005,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.495316",
+        "y": "-34.675810"
+      },
+      "direccion": "ECHEANDIA 6776, CABA",
+      "nombre_calle": "ECHEANDIA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 6776,
+          "cod_calle": 5005,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.495316",
+            "y": "-34.675810"
+          },
+          "direccion": "ECHEANDIA 6776, CABA",
+          "nombre_calle": "ECHEANDIA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97071.86359499009,
+                  94836.91202969321
+                ],
+                [
+                  97093.61740023861,
+                  94817.20257896892
+                ],
+                [
+                  97087.65803425614,
+                  94810.70932434488
+                ],
+                [
+                  97081.2934311601,
+                  94816.48631601676
+                ],
+                [
+                  97065.93938462359,
+                  94830.42267975384
+                ],
+                [
+                  97071.86359499009,
+                  94836.91202969321
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "078-030-006",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ECHEANDIA 6776",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.495162624685,
+      -34.675923796481115
+    ],
+    "direccion": "",
+    "fondo": "28.98",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "030",
+    "parcela": "006",
+    "pdamatriz": "74142",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "078",
+    "smp": "078-030-006",
+    "smp_anterior": "078-030-005",
+    "smp_siguiente": "078-030-007",
+    "srid": 4326,
+    "superficie_cubierta": "446.00",
+    "superficie_total": "251.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "078-030-006",
+  "_http_status": 200
+}

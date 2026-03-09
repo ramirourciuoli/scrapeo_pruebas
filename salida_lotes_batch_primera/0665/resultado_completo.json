@@ -1,0 +1,432 @@
+{
+  "area_m2": 215.7249574661255,
+  "centroide_lonlat": {
+    "lat": -34.556506,
+    "lon": -58.470314
+  },
+  "centroide_xy": {
+    "x": 99356.27262910377,
+    "y": 108071.99999678167
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/97/041-092-031_0000230797.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION041/041-092-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION041/PI-041-092-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "041-092-003",
+            "041-092-032",
+            "041-092-002",
+            "041-092-030"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 380.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 215.658149999976,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 215.7,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "041-092-031"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Nuñez",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1429",
+    "codigo_postal_argentino": "C1429CMU",
+    "comisaria": "35",
+    "comisaria_vecinal": "13B",
+    "comuna": "Comuna 13",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   X",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "41"
+  },
+  "debug": {
+    "address": "IBERA 3027",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.47031366763389,
+        -34.55650588955859
+      ],
+      "direccion": "",
+      "fondo": "24.48",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "092",
+      "parcela": "031",
+      "pdamatriz": "329643",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "041",
+      "smp": "041-092-031",
+      "smp_anterior": "041-092-030",
+      "smp_siguiente": "041-092-032",
+      "srid": 4326,
+      "superficie_cubierta": "335.00",
+      "superficie_total": "212.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3027,
+      "cod_calle": 9004
+    },
+    "usig_direccion_elegida": {
+      "altura": 3027,
+      "cod_calle": 9004,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.470220",
+        "y": "-34.556625"
+      },
+      "direccion": "IBERA 3027, CABA",
+      "nombre_calle": "IBERA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3027,
+          "cod_calle": 9004,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.470220",
+            "y": "-34.556625"
+          },
+          "direccion": "IBERA 3027, CABA",
+          "nombre_calle": "IBERA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3027,
+          "cod_calle": 217054,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6022977830246,
+            "y": -34.7354949673624
+          },
+          "direccion": "Ibera 3027, La Matanza",
+          "nombre_calle": "Ibera",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Gregorio de Laferrere",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3027,
+          "cod_calle": 122211,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7839824119589,
+            "y": -34.7202400989236
+          },
+          "direccion": "Iberá 3027, Merlo",
+          "nombre_calle": "Iberá",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Mariano Acosta",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99349.27007439043,
+                  108074.7431148699
+                ],
+                [
+                  99348.83208611088,
+                  108075.41108361835
+                ],
+                [
+                  99348.59209587748,
+                  108075.77808801204
+                ],
+                [
+                  99346.36608270269,
+                  108079.17310753546
+                ],
+                [
+                  99345.89611200138,
+                  108079.89008751421
+                ],
+                [
+                  99348.92999383008,
+                  108081.96801182287
+                ],
+                [
+                  99351.02699382533,
+                  108083.4050118172
+                ],
+                [
+                  99351.5229938245,
+                  108083.74401181552
+                ],
+                [
+                  99353.12799382037,
+                  108084.8440118109
+                ],
+                [
+                  99356.1339938085,
+                  108080.20001182228
+                ],
+                [
+                  99356.56799380711,
+                  108079.52901182373
+                ],
+                [
+                  99357.83999380194,
+                  108077.56301182829
+                ],
+                [
+                  99359.94699379346,
+                  108074.30701183577
+                ],
+                [
+                  99360.27299379247,
+                  108073.80401183644
+                ],
+                [
+                  99360.65799379072,
+                  108073.20801183791
+                ],
+                [
+                  99361.30799378856,
+                  108072.20401184051
+                ],
+                [
+                  99366.35699376813,
+                  108064.40101185825
+                ],
+                [
+                  99366.68299376719,
+                  108063.89701185975
+                ],
+                [
+                  99365.56399376986,
+                  108063.17801186303
+                ],
+                [
+                  99365.32299377004,
+                  108063.02201186321
+                ],
+                [
+                  99363.64099377386,
+                  108061.94101186725
+                ],
+                [
+                  99362.1269937779,
+                  108060.96701187169
+                ],
+                [
+                  99360.44499378177,
+                  108059.88501187557
+                ],
+                [
+                  99359.43511341274,
+                  108059.23609586275
+                ],
+                [
+                  99356.89806508292,
+                  108063.10712856866
+                ],
+                [
+                  99355.81999379842,
+                  108064.7510118658
+                ],
+                [
+                  99354.67211294328,
+                  108066.50312465455
+                ],
+                [
+                  99354.61712026772,
+                  108066.58710902938
+                ],
+                [
+                  99353.39806509676,
+                  108068.4461178141
+                ],
+                [
+                  99353.008111485,
+                  108069.04108851586
+                ],
+                [
+                  99352.86809683712,
+                  108069.25410121071
+                ],
+                [
+                  99352.67907095895,
+                  108069.54212611238
+                ],
+                [
+                  99350.39507438595,
+                  108073.02613489339
+                ],
+                [
+                  99349.27007439043,
+                  108074.7431148699
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "041-092-031",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "IBERA 3027",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.47031366763389,
+      -34.55650588955859
+    ],
+    "direccion": "",
+    "fondo": "24.48",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "092",
+    "parcela": "031",
+    "pdamatriz": "329643",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "041",
+    "smp": "041-092-031",
+    "smp_anterior": "041-092-030",
+    "smp_siguiente": "041-092-032",
+    "srid": 4326,
+    "superficie_cubierta": "335.00",
+    "superficie_total": "212.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "041-092-031",
+  "_http_status": 200
+}

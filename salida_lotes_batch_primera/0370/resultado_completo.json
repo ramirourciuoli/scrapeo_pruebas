@@ -1,0 +1,329 @@
+{
+  "area_m2": 73.76368999481201,
+  "centroide_lonlat": {
+    "lat": -34.608802,
+    "lon": -58.507886
+  },
+  "centroide_xy": {
+    "x": 95910.39966548189,
+    "y": 102269.67444536784
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/90/081-023-012f_0000114790.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION081/081-023-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION081/PI-081-023-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "081-023-013",
+            "081-023-012a",
+            "081-023-012e"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 150.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 73.7507500000029,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 73.8,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "081-023-012F"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Villa Devoto",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1417",
+    "codigo_postal_argentino": "C1417EEW",
+    "comisaria": "45",
+    "comisaria_vecinal": "11B",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "81"
+  },
+  "debug": {
+    "address": "PEDRO LOZANO 4355",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.50788576361355,
+        -34.608801560464606
+      ],
+      "direccion": "",
+      "fondo": "9.12",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "023",
+      "parcela": "012F",
+      "pdamatriz": "301936",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "081",
+      "smp": "081-023-012F",
+      "smp_anterior": "081-023-012E",
+      "smp_siguiente": "081-023-013",
+      "srid": 4326,
+      "superficie_cubierta": "78.00",
+      "superficie_total": "79.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4355,
+      "cod_calle": 12146
+    },
+    "usig_direccion_elegida": {
+      "altura": 4355,
+      "cod_calle": 12146,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.507828",
+        "y": "-34.608868"
+      },
+      "direccion": "LOZANO, PEDRO 4355, CABA",
+      "nombre_calle": "LOZANO, PEDRO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4355,
+          "cod_calle": 12146,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.507828",
+            "y": "-34.608868"
+          },
+          "direccion": "LOZANO, PEDRO 4355, CABA",
+          "nombre_calle": "LOZANO, PEDRO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  95906.38399911101,
+                  102272.02103070676
+                ],
+                [
+                  95907.3239991093,
+                  102272.70303070411
+                ],
+                [
+                  95909.40099910418,
+                  102274.20903069843
+                ],
+                [
+                  95911.38299910049,
+                  102275.64703069298
+                ],
+                [
+                  95913.34599909247,
+                  102272.96303069961
+                ],
+                [
+                  95914.23299908922,
+                  102271.75003070183
+                ],
+                [
+                  95914.96399908609,
+                  102270.75003070413
+                ],
+                [
+                  95916.43799908081,
+                  102268.73403070882
+                ],
+                [
+                  95909.42399909628,
+                  102263.73703072767
+                ],
+                [
+                  95907.04999910551,
+                  102266.92203072109
+                ],
+                [
+                  95906.80199910677,
+                  102267.25503071991
+                ],
+                [
+                  95906.35499910878,
+                  102267.854030719
+                ],
+                [
+                  95904.3489991164,
+                  102270.54503071259
+                ],
+                [
+                  95904.75499911499,
+                  102270.83903071121
+                ],
+                [
+                  95905.32599911412,
+                  102271.25303070951
+                ],
+                [
+                  95905.86199911233,
+                  102271.64303070868
+                ],
+                [
+                  95906.38399911101,
+                  102272.02103070676
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "081-023-012F",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "PEDRO LOZANO 4355",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.50788576361355,
+      -34.608801560464606
+    ],
+    "direccion": "",
+    "fondo": "9.12",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "023",
+    "parcela": "012F",
+    "pdamatriz": "301936",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "081",
+    "smp": "081-023-012F",
+    "smp_anterior": "081-023-012E",
+    "smp_siguiente": "081-023-013",
+    "srid": 4326,
+    "superficie_cubierta": "78.00",
+    "superficie_total": "79.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "081-023-012F",
+  "_http_status": 200
+}

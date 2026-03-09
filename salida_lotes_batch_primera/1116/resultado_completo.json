@@ -1,0 +1,314 @@
+{
+  "area_m2": 144.45601272583008,
+  "centroide_lonlat": {
+    "lat": -34.654222,
+    "lon": -58.525763
+  },
+  "centroide_xy": {
+    "x": 94273.7753245596,
+    "y": 97230.01260149591
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/9/90/072-020-017_0000024990.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION072/072-020-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION072/PI-072-020-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "072-020-018",
+            "072-020-014",
+            "072-020-015",
+            "072-020-016"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 60.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 144.526700000038,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 144.5,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "072-020-017"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Liniers",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1408",
+    "codigo_postal_argentino": "C1408EVC",
+    "comisaria": "54",
+    "comisaria_vecinal": "9B",
+    "comuna": "Comuna 9",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "72"
+  },
+  "debug": {
+    "address": "ANDORRA 7589",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.525762653238175,
+        -34.65422211811042
+      ],
+      "direccion": "",
+      "fondo": "18.23",
+      "frente": "7.79",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "020",
+      "parcela": "017",
+      "pdamatriz": "21810",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "0",
+      "propiedad_horizontal": "No",
+      "seccion": "072",
+      "smp": "072-020-017",
+      "smp_anterior": "072-020-016",
+      "smp_siguiente": "072-020-018",
+      "srid": 4326,
+      "superficie_cubierta": "0.00",
+      "superficie_total": "142.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 7589,
+      "cod_calle": 1083
+    },
+    "usig_direccion_elegida": {
+      "altura": 7589,
+      "cod_calle": 1083,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.525675",
+        "y": "-34.654288"
+      },
+      "direccion": "ANDORRA 7589, CABA",
+      "nombre_calle": "ANDORRA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 7589,
+          "cod_calle": 1083,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.525675",
+            "y": "-34.654288"
+          },
+          "direccion": "ANDORRA 7589, CABA",
+          "nombre_calle": "ANDORRA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  94269.57099991372,
+                  97239.06104605237
+                ],
+                [
+                  94271.26799990772,
+                  97237.5360460564
+                ],
+                [
+                  94273.03599990127,
+                  97235.9480460594
+                ],
+                [
+                  94279.5699998789,
+                  97230.08004607097
+                ],
+                [
+                  94283.28299986578,
+                  97226.74504607677
+                ],
+                [
+                  94278.0299998764,
+                  97220.99204609665
+                ],
+                [
+                  94272.79299989372,
+                  97225.6330460888
+                ],
+                [
+                  94270.1209999038,
+                  97228.00104608401
+                ],
+                [
+                  94267.30199991338,
+                  97230.51204607845
+                ],
+                [
+                  94264.28199992335,
+                  97233.2020460724
+                ],
+                [
+                  94264.78499992308,
+                  97233.76004607204
+                ],
+                [
+                  94266.81499991959,
+                  97236.0080460647
+                ],
+                [
+                  94269.57099991372,
+                  97239.06104605237
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "072-020-017",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ANDORRA 7589",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.525762653238175,
+      -34.65422211811042
+    ],
+    "direccion": "",
+    "fondo": "18.23",
+    "frente": "7.79",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "020",
+    "parcela": "017",
+    "pdamatriz": "21810",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "0",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "072",
+    "smp": "072-020-017",
+    "smp_anterior": "072-020-016",
+    "smp_siguiente": "072-020-018",
+    "srid": 4326,
+    "superficie_cubierta": "0.00",
+    "superficie_total": "142.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "072-020-017",
+  "_http_status": 200
+}

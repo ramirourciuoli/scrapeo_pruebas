@@ -1,0 +1,435 @@
+{
+  "area_m2": 240.70546913146973,
+  "centroide_lonlat": {
+    "lat": -34.596283,
+    "lon": -58.416666
+  },
+  "centroide_xy": {
+    "x": 104278.08745413431,
+    "y": 103658.30801511942
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 1,
+          "lep": 1,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 4.15,
+          "fot_perim_libre": 4.15,
+          "fot_semi_libre": 4.15
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/87/015-002-021_0000151087.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION015/015-002-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION015/PI-015-002-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "015-002-027a",
+            "015-002-026",
+            "015-002-020",
+            "015-002-022"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2a I",
+          "incidencia_uva": 410.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 185.185304367697,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 240.7,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "015-002-021"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.A.FERNÁNDEZ",
+    "barrio": "Palermo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1176",
+    "codigo_postal_argentino": "C1176ABY",
+    "comisaria": "21",
+    "comisaria_vecinal": "14A",
+    "comuna": "Comuna 14",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   II",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "15"
+  },
+  "debug": {
+    "address": "BULNES 1329",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.416666305530185,
+        -34.59628335084729
+      ],
+      "direccion": "",
+      "fondo": "28.54",
+      "frente": "8.62",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "002",
+      "parcela": "021",
+      "pdamatriz": "444579",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "13",
+      "propiedad_horizontal": "Si",
+      "seccion": "015",
+      "smp": "015-002-021",
+      "smp_anterior": "015-002-020",
+      "smp_siguiente": "015-002-022",
+      "srid": 4326,
+      "superficie_cubierta": "2262.00",
+      "superficie_total": "246.00",
+      "unidades_funcionales": "33",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1329,
+      "cod_calle": 2127
+    },
+    "usig_direccion_elegida": {
+      "altura": 1329,
+      "cod_calle": 2127,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.416846",
+        "y": "-34.596215"
+      },
+      "direccion": "BULNES 1329, CABA",
+      "nombre_calle": "BULNES",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1329,
+          "cod_calle": 2127,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.416846",
+            "y": "-34.596215"
+          },
+          "direccion": "BULNES 1329, CABA",
+          "nombre_calle": "BULNES",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1329,
+          "cod_calle": 26585,
+          "cod_calle_cruce": null,
+          "cod_partido": "moron",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.59376772,
+            "y": -34.622072196
+          },
+          "direccion": "Bulnes 1329, Morón",
+          "nombre_calle": "Bulnes",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "El Palomar",
+          "nombre_partido": "Morón",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  104263.19297671692,
+                  103655.21902053736
+                ],
+                [
+                  104264.77707671847,
+                  103663.69262051256
+                ],
+                [
+                  104265.48607671718,
+                  103663.63362051273
+                ],
+                [
+                  104268.71297670803,
+                  103663.36532051055
+                ],
+                [
+                  104269.11807670604,
+                  103663.33162051073
+                ],
+                [
+                  104271.17307670077,
+                  103663.16062050953
+                ],
+                [
+                  104273.4950766938,
+                  103662.9676205084
+                ],
+                [
+                  104276.1040766865,
+                  103662.75062050691
+                ],
+                [
+                  104276.60207668477,
+                  103662.70962050636
+                ],
+                [
+                  104277.90447668143,
+                  103662.60142050602
+                ],
+                [
+                  104278.98407667814,
+                  103662.5116205053
+                ],
+                [
+                  104279.09407667817,
+                  103662.50262050563
+                ],
+                [
+                  104282.08407666886,
+                  103662.2536205042
+                ],
+                [
+                  104284.08007666342,
+                  103662.087620503
+                ],
+                [
+                  104287.81777665314,
+                  103661.7775205007
+                ],
+                [
+                  104289.46307664839,
+                  103661.64062049956
+                ],
+                [
+                  104290.10407664638,
+                  103661.58762049983
+                ],
+                [
+                  104291.1000766438,
+                  103661.5046204988
+                ],
+                [
+                  104292.14037664031,
+                  103661.41802049827
+                ],
+                [
+                  104292.54997663904,
+                  103661.3880204987
+                ],
+                [
+                  104292.1308766352,
+                  103654.16582051857
+                ],
+                [
+                  104292.06407663441,
+                  103653.02062052261
+                ],
+                [
+                  104290.19097663934,
+                  103653.16702052363
+                ],
+                [
+                  104289.49397664165,
+                  103653.22002052335
+                ],
+                [
+                  104289.19397664265,
+                  103653.24302052357
+                ],
+                [
+                  104288.89597664308,
+                  103653.26602052373
+                ],
+                [
+                  104287.52797664725,
+                  103653.36902052458
+                ],
+                [
+                  104287.30097664794,
+                  103653.38602052472
+                ],
+                [
+                  104284.1099766574,
+                  103653.62902052622
+                ],
+                [
+                  104283.27997665972,
+                  103653.69202052677
+                ],
+                [
+                  104282.11497666303,
+                  103653.781020528
+                ],
+                [
+                  104280.79997666637,
+                  103653.88102052838
+                ],
+                [
+                  104279.12308458149,
+                  103654.00813820501
+                ],
+                [
+                  104278.2624888808,
+                  103654.07350685782
+                ],
+                [
+                  104275.81204943472,
+                  103654.26009133176
+                ],
+                [
+                  104272.6366954399,
+                  103654.50111916554
+                ],
+                [
+                  104268.84708363436,
+                  103654.78914406989
+                ],
+                [
+                  104267.54597670457,
+                  103654.8880205357
+                ],
+                [
+                  104263.19297671692,
+                  103655.21902053736
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "015-002-021",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "BULNES 1329",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.416666305530185,
+      -34.59628335084729
+    ],
+    "direccion": "",
+    "fondo": "28.54",
+    "frente": "8.62",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "002",
+    "parcela": "021",
+    "pdamatriz": "444579",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "13",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "015",
+    "smp": "015-002-021",
+    "smp_anterior": "015-002-020",
+    "smp_siguiente": "015-002-022",
+    "srid": 4326,
+    "superficie_cubierta": "2262.00",
+    "superficie_total": "246.00",
+    "unidades_funcionales": "33",
+    "vuc": "0.00"
+  },
+  "smp": "015-002-021",
+  "_http_status": 200
+}

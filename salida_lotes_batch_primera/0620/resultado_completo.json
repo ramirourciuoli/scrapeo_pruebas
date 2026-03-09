@@ -1,0 +1,335 @@
+{
+  "area_m2": 317.4956569671631,
+  "centroide_lonlat": {
+    "lat": -34.629154,
+    "lon": -58.415422
+  },
+  "centroide_xy": {
+    "x": 104390.48028180542,
+    "y": 100011.72121810241
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/2/14/030-003-009_0000289214.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION030/030-003-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION030/PI-030-003-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "030-003-015",
+            "030-003-014",
+            "030-003-008",
+            "030-003-013a",
+            "030-003-010a"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 160.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 1,
+        "subzona": "",
+        "sup_edificable_planta": 164.505563520493,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 317.5,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "030-003-009"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. J.M. RAMOS MEJÍA",
+    "barrio": "Boedo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1253",
+    "codigo_postal_argentino": "C1253ACF",
+    "comisaria": "20",
+    "comisaria_vecinal": "5B",
+    "comuna": "Comuna 5",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "30"
+  },
+  "debug": {
+    "address": "TARIJA 3572",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.415422285622896,
+        -34.62915394565509
+      ],
+      "direccion": "",
+      "fondo": "36.78",
+      "frente": "8.70",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "003",
+      "parcela": "009",
+      "pdamatriz": "185475",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "030",
+      "smp": "030-003-009",
+      "smp_anterior": "030-003-008",
+      "smp_siguiente": "030-003-010A",
+      "srid": 4326,
+      "superficie_cubierta": "317.00",
+      "superficie_total": "320.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3572,
+      "cod_calle": 21013
+    },
+    "usig_direccion_elegida": {
+      "altura": 3572,
+      "cod_calle": 21013,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.415445",
+        "y": "-34.628960"
+      },
+      "direccion": "TARIJA 3572, CABA",
+      "nombre_calle": "TARIJA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3572,
+          "cod_calle": 21013,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.415445",
+            "y": "-34.628960"
+          },
+          "direccion": "TARIJA 3572, CABA",
+          "nombre_calle": "TARIJA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3572,
+          "cod_calle": 224783,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "direccion": "Tarija 3572, La Matanza",
+          "nombre_calle": "Tarija",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Gregorio de Laferrere",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  104384.54997364747,
+                  100029.67603061377
+                ],
+                [
+                  104388.53097363719,
+                  100030.06003060931
+                ],
+                [
+                  104393.13097362423,
+                  100030.50303060462
+                ],
+                [
+                  104393.63597361838,
+                  100024.77503062112
+                ],
+                [
+                  104395.47397359804,
+                  100003.92803067807
+                ],
+                [
+                  104395.65897359552,
+                  100001.8280306833
+                ],
+                [
+                  104396.11997359042,
+                  99996.60303069794
+                ],
+                [
+                  104396.39797358717,
+                  99993.44703070621
+                ],
+                [
+                  104393.238973596,
+                  99993.35803070912
+                ],
+                [
+                  104389.56897360628,
+                  99993.25403071192
+                ],
+                [
+                  104387.80197361122,
+                  99993.20403071359
+                ],
+                [
+                  104387.02997362002,
+                  100001.8600306903
+                ],
+                [
+                  104386.15597362998,
+                  100011.66203066264
+                ],
+                [
+                  104384.63897364707,
+                  100028.68003061623
+                ],
+                [
+                  104384.54997364747,
+                  100029.67603061377
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "030-003-009",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "TARIJA 3572",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.415422285622896,
+      -34.62915394565509
+    ],
+    "direccion": "",
+    "fondo": "36.78",
+    "frente": "8.70",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "003",
+    "parcela": "009",
+    "pdamatriz": "185475",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "030",
+    "smp": "030-003-009",
+    "smp_anterior": "030-003-008",
+    "smp_siguiente": "030-003-010A",
+    "srid": 4326,
+    "superficie_cubierta": "317.00",
+    "superficie_total": "320.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "030-003-009",
+  "_http_status": 200
+}

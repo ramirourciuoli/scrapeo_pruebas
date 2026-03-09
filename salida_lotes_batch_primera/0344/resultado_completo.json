@@ -1,0 +1,460 @@
+{
+  "area_m2": 268.4327917098999,
+  "centroide_lonlat": {
+    "lat": -34.588403,
+    "lon": -58.422203
+  },
+  "centroide_xy": {
+    "x": 103770.48358069721,
+    "y": 104532.75721812269
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/1/51/019-105-004_0000436151.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION019/019-105-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION019/PI-019-105-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "019-105-022",
+            "019-105-003",
+            "019-105-005",
+            "019-105-023"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 590.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 178.38414568346,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 268.4,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "019-105-004"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.A.FERNÁNDEZ",
+    "barrio": "Palermo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1425",
+    "codigo_postal_argentino": "C1425BUH",
+    "comisaria": "25",
+    "comisaria_vecinal": "14A",
+    "comuna": "Comuna 14",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   IX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "19"
+  },
+  "debug": {
+    "address": "GUATEMALA 4446",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.4222033734647,
+        -34.588402853382554
+      ],
+      "direccion": "",
+      "fondo": "31.08",
+      "frente": "8.72",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "105",
+      "parcela": "004",
+      "pdamatriz": "426498",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "3",
+      "propiedad_horizontal": "Si",
+      "seccion": "019",
+      "smp": "019-105-004",
+      "smp_anterior": "019-105-003",
+      "smp_siguiente": "019-105-005",
+      "srid": 4326,
+      "superficie_cubierta": "691.00",
+      "superficie_total": "271.00",
+      "unidades_funcionales": "4",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4446,
+      "cod_calle": 7093
+    },
+    "usig_direccion_elegida": {
+      "altura": 4446,
+      "cod_calle": 7093,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.422053",
+        "y": "-34.588263"
+      },
+      "direccion": "GUATEMALA 4446, CABA",
+      "nombre_calle": "GUATEMALA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4446,
+          "cod_calle": 7093,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.422053",
+            "y": "-34.588263"
+          },
+          "direccion": "GUATEMALA 4446, CABA",
+          "nombre_calle": "GUATEMALA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 4446,
+          "cod_calle": 142098,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5613211034483,
+            "y": -34.701062662069
+          },
+          "direccion": "Guatemala 4446, La Matanza",
+          "nombre_calle": "Guatemala",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Justo",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 4446,
+          "cod_calle": 185199,
+          "cod_calle_cruce": null,
+          "cod_partido": "pilar",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7821262765306,
+            "y": -34.4165682132653
+          },
+          "direccion": "Guatemala 4446, Pilar",
+          "nombre_calle": "Guatemala",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lagomarsino",
+          "nombre_partido": "Pilar",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  103779.32797874382,
+                  104545.63401840453
+                ],
+                [
+                  103779.68997874322,
+                  104545.28901840548
+                ],
+                [
+                  103782.51597873268,
+                  104542.60201841101
+                ],
+                [
+                  103785.59497872175,
+                  104539.67201841722
+                ],
+                [
+                  103784.0449787253,
+                  104538.38501842148
+                ],
+                [
+                  103783.2479787268,
+                  104537.72401842457
+                ],
+                [
+                  103782.14497872913,
+                  104536.80801842775
+                ],
+                [
+                  103779.36597873598,
+                  104534.50001843614
+                ],
+                [
+                  103778.16297873795,
+                  104533.50101844003
+                ],
+                [
+                  103777.1389787409,
+                  104532.65201844278
+                ],
+                [
+                  103776.48197874174,
+                  104532.1060184447
+                ],
+                [
+                  103775.35497874477,
+                  104531.1700184484
+                ],
+                [
+                  103774.33097874682,
+                  104530.32101845212
+                ],
+                [
+                  103770.37997875507,
+                  104527.04001846386
+                ],
+                [
+                  103769.56497875738,
+                  104526.36301846625
+                ],
+                [
+                  103769.24497875781,
+                  104526.09801846754
+                ],
+                [
+                  103766.78297876284,
+                  104524.05401847445
+                ],
+                [
+                  103766.12797876404,
+                  104523.51001847672
+                ],
+                [
+                  103762.45197877203,
+                  104520.45801848793
+                ],
+                [
+                  103761.75597877402,
+                  104519.88001849028
+                ],
+                [
+                  103757.74597878839,
+                  104523.70601848292
+                ],
+                [
+                  103755.3899787961,
+                  104525.95501847824
+                ],
+                [
+                  103756.73397879365,
+                  104527.06001847365
+                ],
+                [
+                  103757.08097879296,
+                  104527.34501847273
+                ],
+                [
+                  103760.1719787862,
+                  104529.88601846347
+                ],
+                [
+                  103761.22497878331,
+                  104530.75201846063
+                ],
+                [
+                  103761.48297878311,
+                  104530.96401845923
+                ],
+                [
+                  103762.60097878042,
+                  104531.88301845649
+                ],
+                [
+                  103762.80897878055,
+                  104532.054018455
+                ],
+                [
+                  103763.48797877858,
+                  104532.61201845313
+                ],
+                [
+                  103763.69697877797,
+                  104532.78401845274
+                ],
+                [
+                  103764.80497877554,
+                  104533.69501844962
+                ],
+                [
+                  103768.80397876666,
+                  104536.98201843695
+                ],
+                [
+                  103771.26457876207,
+                  104539.00561842942
+                ],
+                [
+                  103772.64997875907,
+                  104540.14501842493
+                ],
+                [
+                  103773.25497875724,
+                  104540.64201842347
+                ],
+                [
+                  103775.06597875302,
+                  104542.13001841787
+                ],
+                [
+                  103775.91297875125,
+                  104542.82601841574
+                ],
+                [
+                  103776.48197875015,
+                  104543.2940184134
+                ],
+                [
+                  103777.75597874756,
+                  104544.34201840995
+                ],
+                [
+                  103779.32797874382,
+                  104545.63401840453
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "019-105-004",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "GUATEMALA 4446",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.4222033734647,
+      -34.588402853382554
+    ],
+    "direccion": "",
+    "fondo": "31.08",
+    "frente": "8.72",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "105",
+    "parcela": "004",
+    "pdamatriz": "426498",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "3",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "019",
+    "smp": "019-105-004",
+    "smp_anterior": "019-105-003",
+    "smp_siguiente": "019-105-005",
+    "srid": 4326,
+    "superficie_cubierta": "691.00",
+    "superficie_total": "271.00",
+    "unidades_funcionales": "4",
+    "vuc": "0.00"
+  },
+  "smp": "019-105-004",
+  "_http_status": 200
+}

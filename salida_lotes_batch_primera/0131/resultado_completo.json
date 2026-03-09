@@ -1,0 +1,517 @@
+{
+  "area_m2": 205.36785411834717,
+  "centroide_lonlat": {
+    "lat": -34.599116,
+    "lon": -58.386705
+  },
+  "centroide_xy": {
+    "x": 107026.46347460174,
+    "y": 103342.40774192451
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          38.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 45.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 5.0,
+          "fot_perim_libre": 7.0,
+          "fot_semi_libre": 5.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/3/21/007-038-020a_0000443321.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION007/007-038-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION007/PI-007-038-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "007-038-022",
+            "007-038-019"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "C2",
+          "incidencia_uva": 260.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 205.350700000069,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 205.4,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          38.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "007-038-020A"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.A.FERNÁNDEZ",
+    "barrio": "Retiro",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1015",
+    "codigo_postal_argentino": "C1015ABQ",
+    "comisaria": "17",
+    "comisaria_vecinal": "1A",
+    "comuna": "Comuna 1",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   I",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "07"
+  },
+  "debug": {
+    "address": "URUGUAY 813",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.38670476632464,
+        -34.59911580974383
+      ],
+      "direccion": "",
+      "fondo": "14.49",
+      "frente": "14.15",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "038",
+      "parcela": "020A",
+      "pdamatriz": "452941",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "8",
+      "propiedad_horizontal": "Si",
+      "seccion": "007",
+      "smp": "007-038-020A",
+      "smp_anterior": "007-038-019",
+      "smp_siguiente": "007-038-022",
+      "srid": 4326,
+      "superficie_cubierta": "1754.00",
+      "superficie_total": "205.00",
+      "unidades_funcionales": "20",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 813,
+      "cod_calle": 22015
+    },
+    "usig_direccion_elegida": {
+      "altura": 813,
+      "cod_calle": 22015,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.386839",
+        "y": "-34.599126"
+      },
+      "direccion": "URUGUAY 813, CABA",
+      "nombre_calle": "URUGUAY",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 813,
+          "cod_calle": 22015,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.386839",
+            "y": "-34.599126"
+          },
+          "direccion": "URUGUAY 813, CABA",
+          "nombre_calle": "URUGUAY",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 813,
+          "cod_calle": 10755,
+          "cod_calle_cruce": null,
+          "cod_partido": "avellaneda",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3899014183673,
+            "y": -34.6681218622449
+          },
+          "direccion": "Uruguay 813, Avellaneda",
+          "nombre_calle": "Uruguay",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Piñeyro",
+          "nombre_partido": "Avellaneda",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 813,
+          "cod_calle": 56395,
+          "cod_calle_cruce": null,
+          "cod_partido": "avellaneda",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3358208734694,
+            "y": -34.6989520030612
+          },
+          "direccion": "Centenario Uruguayo 813, Avellaneda",
+          "nombre_calle": "Centenario Uruguayo",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Domínico",
+          "nombre_partido": "Avellaneda",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 813,
+          "cod_calle": 243867,
+          "cod_calle_cruce": null,
+          "cod_partido": "canuelas",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7518081244898,
+            "y": -35.0468785795918
+          },
+          "direccion": "República Oriental del Uruguay 813, Cañuelas",
+          "nombre_calle": "República Oriental del Uruguay",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Cañuelas",
+          "nombre_partido": "Cañuelas",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 813,
+          "cod_calle": 221607,
+          "cod_calle_cruce": null,
+          "cod_partido": "escobar",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7513546714286,
+            "y": -34.4158377061224
+          },
+          "direccion": "Uruguay 813, Escobar",
+          "nombre_calle": "Uruguay",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Garín",
+          "nombre_partido": "Escobar",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 813,
+          "cod_calle": 128644,
+          "cod_calle_cruce": null,
+          "cod_partido": "esteban_echeverria",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4669756530612,
+            "y": -34.837329355102
+          },
+          "direccion": "Uruguay 813, Esteban Echeverría",
+          "nombre_calle": "Uruguay",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Monte Grande",
+          "nombre_partido": "Esteban Echeverría",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 813,
+          "cod_calle": 87329,
+          "cod_calle_cruce": null,
+          "cod_partido": "ezeiza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5184326377551,
+            "y": -34.8393573183674
+          },
+          "direccion": "Uruguay 813, Ezeiza",
+          "nombre_calle": "Uruguay",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ezeiza",
+          "nombre_partido": "Ezeiza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 813,
+          "cod_calle": 277525,
+          "cod_calle_cruce": null,
+          "cod_partido": "ezeiza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5216087479167,
+            "y": -34.8637719291667
+          },
+          "direccion": "Uruguayana 813, Ezeiza",
+          "nombre_calle": "Uruguayana",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ezeiza",
+          "nombre_partido": "Ezeiza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 813,
+          "cod_calle": 71196,
+          "cod_calle_cruce": null,
+          "cod_partido": "jose_c_paz",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7881359846939,
+            "y": -34.5268960295918
+          },
+          "direccion": "Corbeta Uruguay 813, José C. Paz",
+          "nombre_calle": "Corbeta Uruguay",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "José C. Paz",
+          "nombre_partido": "José C. Paz",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 813,
+          "cod_calle": 41940,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5092228863,
+            "y": -34.6873549298468
+          },
+          "direccion": "Uruguay 813, La Matanza",
+          "nombre_calle": "Uruguay",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "La Tablada",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  107027.50696873375,
+                  103348.01801931873
+                ],
+                [
+                  107031.69796872174,
+                  103348.15701931468
+                ],
+                [
+                  107035.10896871255,
+                  103348.27001931172
+                ],
+                [
+                  107035.24296871023,
+                  103346.16801931759
+                ],
+                [
+                  107035.39696870808,
+                  103343.7440193246
+                ],
+                [
+                  107035.48896870691,
+                  103342.30201932878
+                ],
+                [
+                  107035.58796870586,
+                  103340.75401933261
+                ],
+                [
+                  107035.8289687018,
+                  103336.97301934351
+                ],
+                [
+                  107035.6419687024,
+                  103336.96201934377
+                ],
+                [
+                  107033.0029687092,
+                  103336.81001934546
+                ],
+                [
+                  107030.0089687176,
+                  103336.63701934874
+                ],
+                [
+                  107025.63596872996,
+                  103336.38501935243
+                ],
+                [
+                  107023.83996873484,
+                  103336.28201935394
+                ],
+                [
+                  107021.4829687415,
+                  103336.14601935615
+                ],
+                [
+                  107019.97696874669,
+                  103337.50601935381
+                ],
+                [
+                  107017.06296875696,
+                  103340.13801934879
+                ],
+                [
+                  107016.91796875841,
+                  103342.13301934346
+                ],
+                [
+                  107016.7849687607,
+                  103343.96101933814
+                ],
+                [
+                  107016.66096876249,
+                  103345.65801933318
+                ],
+                [
+                  107016.56696876322,
+                  103346.95501932991
+                ],
+                [
+                  107016.51596876391,
+                  103347.65401932801
+                ],
+                [
+                  107017.51596876116,
+                  103347.68701932699
+                ],
+                [
+                  107018.70496875809,
+                  103347.72701932598
+                ],
+                [
+                  107020.60696875257,
+                  103347.79001932449
+                ],
+                [
+                  107022.50896874703,
+                  103347.85301932294
+                ],
+                [
+                  107027.50696873375,
+                  103348.01801931873
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "007-038-020A",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "URUGUAY 813",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.38670476632464,
+      -34.59911580974383
+    ],
+    "direccion": "",
+    "fondo": "14.49",
+    "frente": "14.15",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "038",
+    "parcela": "020A",
+    "pdamatriz": "452941",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "8",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "007",
+    "smp": "007-038-020A",
+    "smp_anterior": "007-038-019",
+    "smp_siguiente": "007-038-022",
+    "srid": 4326,
+    "superficie_cubierta": "1754.00",
+    "superficie_total": "205.00",
+    "unidades_funcionales": "20",
+    "vuc": "0.00"
+  },
+  "smp": "007-038-020A",
+  "_http_status": 200
+}

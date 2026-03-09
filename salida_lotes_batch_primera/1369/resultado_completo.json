@@ -1,0 +1,380 @@
+{
+  "area_m2": 75.16390895843506,
+  "centroide_lonlat": {
+    "lat": -34.606605,
+    "lon": -58.420125
+  },
+  "centroide_xy": {
+    "x": 103960.29100846927,
+    "y": 102513.35867662924
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 2.77,
+          "fot_perim_libre": 2.77,
+          "fot_semi_libre": 2.77
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/3/17/017-090-026a_0000171317.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION017/017-090-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION017/PI-017-090-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "017-090-027",
+            "017-090-025",
+            "017-090-026b"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "AE 26",
+          "incidencia_uva": 200.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 75.2,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "017-090-026A"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Almagro",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1177",
+    "codigo_postal_argentino": "C1177ABA",
+    "comisaria": "9",
+    "comisaria_vecinal": "5A",
+    "comuna": "Comuna 5",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   II",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "17"
+  },
+  "debug": {
+    "address": "INCA 3809",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.42012512674522,
+        -34.60660544458824
+      ],
+      "direccion": "",
+      "fondo": "11.29",
+      "frente": "6.55",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "090",
+      "parcela": "026A",
+      "pdamatriz": "177921",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "017",
+      "smp": "017-090-026A",
+      "smp_anterior": "017-090-025",
+      "smp_siguiente": "017-090-026B",
+      "srid": 4326,
+      "superficie_cubierta": "94.00",
+      "superficie_total": "74.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3809,
+      "cod_calle": 9008
+    },
+    "usig_direccion_elegida": {
+      "altura": 3809,
+      "cod_calle": 9008,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.420125",
+        "y": "-34.606667"
+      },
+      "direccion": "INCA 3809, CABA",
+      "nombre_calle": "INCA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3809,
+          "cod_calle": 9008,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.420125",
+            "y": "-34.606667"
+          },
+          "direccion": "INCA 3809, CABA",
+          "nombre_calle": "INCA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3809,
+          "cod_calle": 4045,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.466098",
+            "y": "-34.576519"
+          },
+          "direccion": "DE LOS INCAS AV. 3809, CABA",
+          "nombre_calle": "DE LOS INCAS AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3809,
+          "cod_calle": 160089,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6054401798387,
+            "y": -34.7439193153226
+          },
+          "direccion": "Inca 3809, La Matanza",
+          "nombre_calle": "Inca",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Gregorio de Laferrere",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3809,
+          "cod_calle": 142343,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.573191519637,
+            "y": -34.7019359475952
+          },
+          "direccion": "De los Incas 3809, La Matanza",
+          "nombre_calle": "De los Incas",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Justo",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  103963.5389766985,
+                  102514.48002396282
+                ],
+                [
+                  103963.51997669775,
+                  102513.81302396438
+                ],
+                [
+                  103963.48197669713,
+                  102512.48102396773
+                ],
+                [
+                  103963.35597669348,
+                  102507.39702398228
+                ],
+                [
+                  103956.78897671214,
+                  102507.4460239877
+                ],
+                [
+                  103957.2579767163,
+                  102514.06002396788
+                ],
+                [
+                  103957.32297671628,
+                  102514.97702396565
+                ],
+                [
+                  103957.59397671816,
+                  102518.81202395461
+                ],
+                [
+                  103957.65597671948,
+                  102519.68002395201
+                ],
+                [
+                  103960.83897670978,
+                  102519.63402394959
+                ],
+                [
+                  103961.33997670855,
+                  102519.6260239498
+                ],
+                [
+                  103962.50597670543,
+                  102519.60902394896
+                ],
+                [
+                  103963.33897670274,
+                  102519.59702394824
+                ],
+                [
+                  103963.26197670115,
+                  102516.64702395641
+                ],
+                [
+                  103963.23797670033,
+                  102515.73802395901
+                ],
+                [
+                  103963.20597669983,
+                  102514.49702396305
+                ],
+                [
+                  103963.5389766985,
+                  102514.48002396282
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "017-090-026A",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "INCA 3809",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.42012512674522,
+      -34.60660544458824
+    ],
+    "direccion": "",
+    "fondo": "11.29",
+    "frente": "6.55",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "090",
+    "parcela": "026A",
+    "pdamatriz": "177921",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "017",
+    "smp": "017-090-026A",
+    "smp_anterior": "017-090-025",
+    "smp_siguiente": "017-090-026B",
+    "srid": 4326,
+    "superficie_cubierta": "94.00",
+    "superficie_total": "74.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "017-090-026A",
+  "_http_status": 200
+}

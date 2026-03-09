@@ -1,0 +1,535 @@
+{
+  "area_m2": 400.8713912963867,
+  "centroide_lonlat": {
+    "lat": -34.621287,
+    "lon": -58.383207
+  },
+  "centroide_xy": {
+    "x": 107345.35336112072,
+    "y": 100882.5379348584
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 38.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "PEV",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.33,
+          "fot_perim_libre": 3.33,
+          "fot_semi_libre": 3.33
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/3/73/014-047-039_0000401373.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION014/014-047-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION014/PI-014-047-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": true,
+          "smp_linderas": [
+            "014-047-002",
+            "014-047-038",
+            "014-047-004",
+            "014-047-003",
+            "014-047-001"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2a I",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 400.885800000362,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 400.9,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "014-047-039"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. J.M. RAMOS MEJÍA",
+    "barrio": "Constitucion",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1074",
+    "codigo_postal_argentino": "C1074AAW",
+    "comisaria": "16",
+    "comisaria_vecinal": "1C",
+    "comuna": "Comuna 1",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   III",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "14"
+  },
+  "debug": {
+    "address": "SALTA 1121",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.383207281440654,
+        -34.62128734621839
+      ],
+      "direccion": "",
+      "fondo": "30.30",
+      "frente": "13.60",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "047",
+      "parcela": "039",
+      "pdamatriz": "212368",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "014",
+      "smp": "014-047-039",
+      "smp_anterior": "014-047-038",
+      "smp_siguiente": "014-047-001",
+      "srid": 4326,
+      "superficie_cubierta": "650.00",
+      "superficie_total": "412.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1121,
+      "cod_calle": 20017
+    },
+    "usig_direccion_elegida": {
+      "altura": 1121,
+      "cod_calle": 20017,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.383021",
+        "y": "-34.621286"
+      },
+      "direccion": "SALTA 1121, CABA",
+      "nombre_calle": "SALTA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1121,
+          "cod_calle": 20017,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.383021",
+            "y": "-34.621286"
+          },
+          "direccion": "SALTA 1121, CABA",
+          "nombre_calle": "SALTA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1121,
+          "cod_calle": 708315,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3545587918367,
+            "y": -34.7706802612245
+          },
+          "direccion": "Salta 1121, Almirante Brown",
+          "nombre_calle": "Salta",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San José",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1121,
+          "cod_calle": 317486,
+          "cod_calle_cruce": null,
+          "cod_partido": "avellaneda",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3595277302013,
+            "y": -34.6880887939597
+          },
+          "direccion": "Salta 1121, Avellaneda",
+          "nombre_calle": "Salta",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Gerli",
+          "nombre_partido": "Avellaneda",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1121,
+          "cod_calle": 92556,
+          "cod_calle_cruce": null,
+          "cod_partido": "esteban_echeverria",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4497217489796,
+            "y": -34.81977635
+          },
+          "direccion": "Salta 1121, Esteban Echeverría",
+          "nombre_calle": "Salta",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Monte Grande",
+          "nombre_partido": "Esteban Echeverría",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1121,
+          "cod_calle": 237603,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3782222928572,
+            "y": -34.7042105102041
+          },
+          "direccion": "Salta 1121, Lanús",
+          "nombre_calle": "Salta",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lanús Este",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1121,
+          "cod_calle": 169390,
+          "cod_calle_cruce": null,
+          "cod_partido": "pilar",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.90522179375,
+            "y": -34.4619462885417
+          },
+          "direccion": "Salta 1121, Pilar",
+          "nombre_calle": "Salta",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Pilar",
+          "nombre_partido": "Pilar",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1121,
+          "cod_calle": 50639,
+          "cod_calle_cruce": null,
+          "cod_partido": "quilmes",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.2283375989796,
+            "y": -34.74114985
+          },
+          "direccion": "Salta 1121, Quilmes",
+          "nombre_calle": "Salta",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ezpeleta",
+          "nombre_partido": "Quilmes",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1121,
+          "cod_calle": 13037,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_isidro",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.51682771875,
+            "y": -34.49083463125
+          },
+          "direccion": "Diagonal Salta 1121, San Isidro",
+          "nombre_calle": "Diagonal Salta",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Martínez",
+          "nombre_partido": "San Isidro",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1121,
+          "cod_calle": 180876,
+          "cod_calle_cruce": null,
+          "cod_partido": "tigre",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6846129418367,
+            "y": -34.3602374244898
+          },
+          "direccion": "Salta 1121, Tigre",
+          "nombre_calle": "Salta",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Dique Luján",
+          "nombre_partido": "Tigre",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  107350.78796597598,
+                  100889.3700259703
+                ],
+                [
+                  107351.78796597321,
+                  100889.40202596915
+                ],
+                [
+                  107352.70396597087,
+                  100889.43202596862
+                ],
+                [
+                  107354.10396596734,
+                  100889.47702596735
+                ],
+                [
+                  107354.50396596568,
+                  100889.4900259673
+                ],
+                [
+                  107354.90396596494,
+                  100889.50302596632
+                ],
+                [
+                  107355.30296596407,
+                  100889.51502596607
+                ],
+                [
+                  107358.03396595614,
+                  100889.60302596423
+                ],
+                [
+                  107360.31996595008,
+                  100889.67702596236
+                ],
+                [
+                  107360.32796594877,
+                  100888.67702596512
+                ],
+                [
+                  107360.36096594548,
+                  100884.67602597616
+                ],
+                [
+                  107360.37796594393,
+                  100882.67502598159
+                ],
+                [
+                  107360.42696593993,
+                  100876.77702599805
+                ],
+                [
+                  107360.43096593926,
+                  100876.27702599944
+                ],
+                [
+                  107349.68296596952,
+                  100875.99602600883
+                ],
+                [
+                  107344.48996598402,
+                  100875.86002601316
+                ],
+                [
+                  107337.75496600245,
+                  100875.68402601877
+                ],
+                [
+                  107330.3029660236,
+                  100875.48902602462
+                ],
+                [
+                  107330.26696602783,
+                  100881.38402600764
+                ],
+                [
+                  107330.24696603083,
+                  100884.70802599838
+                ],
+                [
+                  107330.24596603084,
+                  100884.94402599821
+                ],
+                [
+                  107330.22996603303,
+                  100887.58502599067
+                ],
+                [
+                  107330.2229660337,
+                  100888.70902598734
+                ],
+                [
+                  107333.22296602535,
+                  100888.80502598471
+                ],
+                [
+                  107334.57996602144,
+                  100888.84902598427
+                ],
+                [
+                  107335.41496601909,
+                  100888.87602598334
+                ],
+                [
+                  107336.43596601592,
+                  100888.90902598228
+                ],
+                [
+                  107337.36396601371,
+                  100888.93802598162
+                ],
+                [
+                  107338.37696601113,
+                  100888.97102598057
+                ],
+                [
+                  107339.33196600854,
+                  100889.00202598021
+                ],
+                [
+                  107341.82896600112,
+                  100889.08202597816
+                ],
+                [
+                  107345.3469659915,
+                  100889.19502597509
+                ],
+                [
+                  107345.96296599015,
+                  100889.21502597412
+                ],
+                [
+                  107350.78796597598,
+                  100889.3700259703
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "014-047-039",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "SALTA 1121",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.383207281440654,
+      -34.62128734621839
+    ],
+    "direccion": "",
+    "fondo": "30.30",
+    "frente": "13.60",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "047",
+    "parcela": "039",
+    "pdamatriz": "212368",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "014",
+    "smp": "014-047-039",
+    "smp_anterior": "014-047-038",
+    "smp_siguiente": "014-047-001",
+    "srid": 4326,
+    "superficie_cubierta": "650.00",
+    "superficie_total": "412.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "014-047-039",
+  "_http_status": 200
+}

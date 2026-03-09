@@ -1,0 +1,388 @@
+{
+  "area_m2": 238.31923866271973,
+  "centroide_lonlat": {
+    "lat": -34.640781,
+    "lon": -58.44319
+  },
+  "centroide_xy": {
+    "x": 101843.86909321052,
+    "y": 98722.73213235453
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/fp/SECCION044/FP-044-105-002-VD.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION044/044-105-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION044/PI-044-105-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "044-105-003",
+            "044-105-025",
+            "044-105-024",
+            "044-105-006",
+            "044-105-001"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 209.432108009451,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 238.3,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "044-105-002"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. P. PIÑERO",
+    "barrio": "Parque Chacabuco",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1406",
+    "codigo_postal_argentino": "C1406IFJ",
+    "comisaria": "12",
+    "comisaria_vecinal": "7B",
+    "comuna": "Comuna 7",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "44"
+  },
+  "debug": {
+    "address": "SARAZA 1850",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.44318999384861,
+        -34.640780850073114
+      ],
+      "direccion": "",
+      "fondo": "23.90",
+      "frente": "10.00",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "105",
+      "parcela": "002",
+      "pdamatriz": "47985",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "044",
+      "smp": "044-105-002",
+      "smp_anterior": "044-105-001",
+      "smp_siguiente": "044-105-003",
+      "srid": 4326,
+      "superficie_cubierta": "111.00",
+      "superficie_total": "239.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1850,
+      "cod_calle": 20073
+    },
+    "usig_direccion_elegida": {
+      "altura": 1850,
+      "cod_calle": 20073,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.443242",
+        "y": "-34.640637"
+      },
+      "direccion": "SARAZA 1850, CABA",
+      "nombre_calle": "SARAZA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1850,
+          "cod_calle": 20073,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.443242",
+            "y": "-34.640637"
+          },
+          "direccion": "SARAZA 1850, CABA",
+          "nombre_calle": "SARAZA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1850,
+          "cod_calle": 214499,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5715306571429,
+            "y": -34.7448726795918
+          },
+          "direccion": "Saturnino Saraza 1850, La Matanza",
+          "nombre_calle": "Saturnino Saraza",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Gregorio de Laferrere",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  101852.26497975751,
+                  98712.7420362127
+                ],
+                [
+                  101851.30797976049,
+                  98712.4450362149
+                ],
+                [
+                  101850.15297976321,
+                  98712.08703621675
+                ],
+                [
+                  101849.72397976476,
+                  98711.95503621726
+                ],
+                [
+                  101846.05497977353,
+                  98710.81803622312
+                ],
+                [
+                  101842.8359797822,
+                  98709.8200362286
+                ],
+                [
+                  101841.62197978875,
+                  98713.54403621855
+                ],
+                [
+                  101841.1389797912,
+                  98715.02603621464
+                ],
+                [
+                  101840.53997979386,
+                  98716.86503621051
+                ],
+                [
+                  101839.39797979972,
+                  98720.37003620144
+                ],
+                [
+                  101839.35297980001,
+                  98720.50703620128
+                ],
+                [
+                  101838.56197980393,
+                  98723.00603619465
+                ],
+                [
+                  101838.10897980652,
+                  98724.43603619066
+                ],
+                [
+                  101837.42397980955,
+                  98726.6020361853
+                ],
+                [
+                  101836.858979813,
+                  98728.38703618085
+                ],
+                [
+                  101836.58197981464,
+                  98729.26103617845
+                ],
+                [
+                  101835.48797981982,
+                  98732.7170361699
+                ],
+                [
+                  101839.2649798099,
+                  98733.88703616362
+                ],
+                [
+                  101840.7049798066,
+                  98734.33403616099
+                ],
+                [
+                  101844.94397979576,
+                  98735.64703615423
+                ],
+                [
+                  101847.403979783,
+                  98727.95203617364
+                ],
+                [
+                  101847.95297977982,
+                  98726.23403617862
+                ],
+                [
+                  101848.71297977662,
+                  98723.85703618437
+                ],
+                [
+                  101849.26397977374,
+                  98722.13203618917
+                ],
+                [
+                  101849.52297977202,
+                  98721.32303619094
+                ],
+                [
+                  101850.78597976579,
+                  98717.36903620113
+                ],
+                [
+                  101852.26497975751,
+                  98712.7420362127
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "044-105-002",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "SARAZA 1850",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.44318999384861,
+      -34.640780850073114
+    ],
+    "direccion": "",
+    "fondo": "23.90",
+    "frente": "10.00",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "105",
+    "parcela": "002",
+    "pdamatriz": "47985",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "044",
+    "smp": "044-105-002",
+    "smp_anterior": "044-105-001",
+    "smp_siguiente": "044-105-003",
+    "srid": 4326,
+    "superficie_cubierta": "111.00",
+    "superficie_total": "239.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "044-105-002",
+  "_http_status": 200
+}

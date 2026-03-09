@@ -1,0 +1,435 @@
+{
+  "area_m2": 216.96088218688965,
+  "centroide_lonlat": {
+    "lat": -34.650256,
+    "lon": -58.385977
+  },
+  "centroide_xy": {
+    "x": 107088.9017152591,
+    "y": 97669.06597436799
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/05/018-022A-020_0000311005.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION018/018-022A-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION018/PI-018-022A-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "018-022A-021",
+            "018-022A-017",
+            "018-022A-019",
+            "018-022A-018"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 214.038396497681,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 217.0,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "018-022A-020"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.M. PENNA",
+    "barrio": "Barracas",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1279",
+    "codigo_postal_argentino": "C1279AHG",
+    "comisaria": "30",
+    "comisaria_vecinal": "4D",
+    "comuna": "Comuna 4",
+    "distrito_economico": "DISTRITO DE DISEÑO",
+    "distrito_escolar": "Distrito Escolar   V",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "18"
+  },
+  "debug": {
+    "address": "PERDRIEL 1381",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.38597671756858,
+        -34.65025591180779
+      ],
+      "direccion": "",
+      "fondo": "22.77",
+      "frente": "9.53",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "022A",
+      "parcela": "020",
+      "pdamatriz": "117528",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "018",
+      "smp": "018-022A-020",
+      "smp_anterior": "018-022A-019",
+      "smp_siguiente": "018-022A-021",
+      "srid": 4326,
+      "superficie_cubierta": "222.00",
+      "superficie_total": "217.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1381,
+      "cod_calle": 17057
+    },
+    "usig_direccion_elegida": {
+      "altura": 1381,
+      "cod_calle": 17057,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.385810",
+        "y": "-34.650234"
+      },
+      "direccion": "PERDRIEL 1381, CABA",
+      "nombre_calle": "PERDRIEL",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1381,
+          "cod_calle": 17057,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.385810",
+            "y": "-34.650234"
+          },
+          "direccion": "PERDRIEL 1381, CABA",
+          "nombre_calle": "PERDRIEL",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1381,
+          "cod_calle": 257080,
+          "cod_calle_cruce": null,
+          "cod_partido": "general_san_martin",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5147943142857,
+            "y": -34.5681275908163
+          },
+          "direccion": "42 - Perdriel 1381, General San Martín",
+          "nombre_calle": "42 - Perdriel",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Maipú",
+          "nombre_partido": "General San Martín",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1381,
+          "cod_calle": 36422,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5378596030612,
+            "y": -34.6837923744898
+          },
+          "direccion": "Perdriel 1381, La Matanza",
+          "nombre_calle": "Perdriel",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "La Tablada",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1381,
+          "cod_calle": 233764,
+          "cod_calle_cruce": null,
+          "cod_partido": "malvinas_argentinas",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6627510375,
+            "y": -34.5015792875
+          },
+          "direccion": "Perdriel 1381, Malvinas Argentinas",
+          "nombre_calle": "Perdriel",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ingeniero Adolfo Sourdeaux",
+          "nombre_partido": "Malvinas Argentinas",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1381,
+          "cod_calle": 30516,
+          "cod_calle_cruce": null,
+          "cod_partido": "moron",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5817591061225,
+            "y": -34.6157628469388
+          },
+          "direccion": "Diagonal 60 - República (TF) / Perdriel (M) 1381, Morón",
+          "nombre_calle": "Diagonal 60 - República (TF) / Perdriel (M)",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "El Palomar",
+          "nombre_partido": "Morón",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1381,
+          "cod_calle": 30516,
+          "cod_calle_cruce": null,
+          "cod_partido": "tres_de_febrero",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5817591061225,
+            "y": -34.6157628469388
+          },
+          "direccion": "Diagonal 60 - República (TF) / Perdriel (M) 1381, Tres de Febrero",
+          "nombre_calle": "Diagonal 60 - República (TF) / Perdriel (M)",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Caseros",
+          "nombre_partido": "Tres de Febrero",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  107092.90496427243,
+                  97664.85203520593
+                ],
+                [
+                  107091.6139642755,
+                  97664.65103520866
+                ],
+                [
+                  107088.88396428284,
+                  97664.22603521126
+                ],
+                [
+                  107085.14696429364,
+                  97663.64403521581
+                ],
+                [
+                  107081.49096430327,
+                  97663.07503522118
+                ],
+                [
+                  107080.50296430568,
+                  97662.92203522296
+                ],
+                [
+                  107078.71896430988,
+                  97662.64403522466
+                ],
+                [
+                  107077.23996431919,
+                  97669.03203520557
+                ],
+                [
+                  107076.56296432416,
+                  97671.95403519872
+                ],
+                [
+                  107081.67196430996,
+                  97672.74003519316
+                ],
+                [
+                  107083.73696430346,
+                  97673.05703519034
+                ],
+                [
+                  107087.61596429441,
+                  97673.6540351873
+                ],
+                [
+                  107090.89496428479,
+                  97674.15803518274
+                ],
+                [
+                  107091.46096428414,
+                  97674.24503518289
+                ],
+                [
+                  107096.55896426979,
+                  97675.02903517595
+                ],
+                [
+                  107099.46296426191,
+                  97675.47603517142
+                ],
+                [
+                  107100.47296425453,
+                  97668.93603519013
+                ],
+                [
+                  107100.9109642513,
+                  97666.0970351978
+                ],
+                [
+                  107095.59696426534,
+                  97665.27003520375
+                ],
+                [
+                  107094.77996426729,
+                  97665.14303520435
+                ],
+                [
+                  107093.58996427016,
+                  97664.95803520535
+                ],
+                [
+                  107092.90496427243,
+                  97664.85203520593
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "018-022A-020",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "PERDRIEL 1381",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.38597671756858,
+      -34.65025591180779
+    ],
+    "direccion": "",
+    "fondo": "22.77",
+    "frente": "9.53",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "022A",
+    "parcela": "020",
+    "pdamatriz": "117528",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "018",
+    "smp": "018-022A-020",
+    "smp_anterior": "018-022A-019",
+    "smp_siguiente": "018-022A-021",
+    "srid": 4326,
+    "superficie_cubierta": "222.00",
+    "superficie_total": "217.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "018-022A-020",
+  "_http_status": 200
+}

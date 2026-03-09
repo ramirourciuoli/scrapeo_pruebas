@@ -1,0 +1,345 @@
+{
+  "area_m2": 143.55913734436035,
+  "centroide_lonlat": {
+    "lat": -34.569586,
+    "lon": -58.48941
+  },
+  "centroide_xy": {
+    "x": 97603.99029506769,
+    "y": 106620.63219437035
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 5.16,
+          "fot_perim_libre": 5.16,
+          "fot_semi_libre": 5.16
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/2/38/063-129-004_0000250238.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION063/063-129-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION063/PI-063-129-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "063-129-031",
+            "063-129-005",
+            "063-129-003"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2a II",
+          "incidencia_uva": 470.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 140.473957025887,
+        "sup_max_edificable": 1255.6,
+        "superficie_parcela": 143.6,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "063-129-004"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Villa Urquiza",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1431",
+    "codigo_postal_argentino": "C1431AAS",
+    "comisaria": "39",
+    "comisaria_vecinal": "12C",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "63"
+  },
+  "debug": {
+    "address": "AV. CONGRESO 5032",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.48940958603012,
+        -34.569586340268536
+      ],
+      "direccion": "",
+      "fondo": "16.55",
+      "frente": "8.70",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "129",
+      "parcela": "004",
+      "pdamatriz": "346771",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "063",
+      "smp": "063-129-004",
+      "smp_anterior": "063-129-003",
+      "smp_siguiente": "063-129-005",
+      "srid": 4326,
+      "superficie_cubierta": "221.00",
+      "superficie_total": "144.00",
+      "unidades_funcionales": "2",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 5032,
+      "cod_calle": 3156
+    },
+    "usig_direccion_elegida": {
+      "altura": 5032,
+      "cod_calle": 3156,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.489496",
+        "y": "-34.569474"
+      },
+      "direccion": "CONGRESO AV. 5032, CABA",
+      "nombre_calle": "CONGRESO AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 5032,
+          "cod_calle": 3156,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.489496",
+            "y": "-34.569474"
+          },
+          "direccion": "CONGRESO AV. 5032, CABA",
+          "nombre_calle": "CONGRESO AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97604.26399762908,
+                  106627.95401721328
+                ],
+                [
+                  97606.5729976195,
+                  106624.60201722092
+                ],
+                [
+                  97607.01299761822,
+                  106623.96401722214
+                ],
+                [
+                  97607.9649976141,
+                  106622.58301722529
+                ],
+                [
+                  97608.37799761216,
+                  106621.9820172269
+                ],
+                [
+                  97609.80599760695,
+                  106619.91001723192
+                ],
+                [
+                  97611.17099760182,
+                  106617.93001723592
+                ],
+                [
+                  97612.2659975973,
+                  106616.34001723977
+                ],
+                [
+                  97611.7209975986,
+                  106615.97801724146
+                ],
+                [
+                  97607.87299760724,
+                  106613.42301725183
+                ],
+                [
+                  97604.84199761477,
+                  106611.41101725964
+                ],
+                [
+                  97603.27849762076,
+                  106613.77881725424
+                ],
+                [
+                  97602.45899762378,
+                  106615.02001725056
+                ],
+                [
+                  97600.57929763169,
+                  106617.86651724397
+                ],
+                [
+                  97597.94829764205,
+                  106621.85051723497
+                ],
+                [
+                  97596.59929764697,
+                  106623.89371723044
+                ],
+                [
+                  97595.76599765017,
+                  106625.15601722806
+                ],
+                [
+                  97599.11699764222,
+                  106627.31001721858
+                ],
+                [
+                  97602.78899763395,
+                  106629.6700172096
+                ],
+                [
+                  97602.99199763322,
+                  106629.80001720897
+                ],
+                [
+                  97604.26399762908,
+                  106627.95401721328
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "063-129-004",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AV. CONGRESO 5032",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.48940958603012,
+      -34.569586340268536
+    ],
+    "direccion": "",
+    "fondo": "16.55",
+    "frente": "8.70",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "129",
+    "parcela": "004",
+    "pdamatriz": "346771",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "063",
+    "smp": "063-129-004",
+    "smp_anterior": "063-129-003",
+    "smp_siguiente": "063-129-005",
+    "srid": 4326,
+    "superficie_cubierta": "221.00",
+    "superficie_total": "144.00",
+    "unidades_funcionales": "2",
+    "vuc": "0.00"
+  },
+  "smp": "063-129-004",
+  "_http_status": 200
+}

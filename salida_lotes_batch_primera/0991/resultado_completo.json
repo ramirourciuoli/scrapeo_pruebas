@@ -1,0 +1,326 @@
+{
+  "area_m2": 154.08776569366455,
+  "centroide_lonlat": {
+    "lat": -34.64904,
+    "lon": -58.495378
+  },
+  "centroide_xy": {
+    "x": 97059.12726881594,
+    "y": 97806.26204531752
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/4/35/062-095-030_0000021435.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION062/062-095-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION062/PI-062-095-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "062-095-033",
+            "062-095-032",
+            "062-095-031",
+            "062-095-029"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 60.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 154.09549999997,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 154.1,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "062-095-030"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Mataderos",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1440",
+    "codigo_postal_argentino": "C1440AEG",
+    "comisaria": "42",
+    "comisaria_vecinal": "9A",
+    "comuna": "Comuna 9",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "62"
+  },
+  "debug": {
+    "address": "TAPALQUE 5215",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.49537755446392,
+        -34.64903949898954
+      ],
+      "direccion": "",
+      "fondo": "18.24",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "095",
+      "parcela": "030",
+      "pdamatriz": "29287",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "062",
+      "smp": "062-095-030",
+      "smp_anterior": "062-095-029",
+      "smp_siguiente": "062-095-031",
+      "srid": 4326,
+      "superficie_cubierta": "128.00",
+      "superficie_total": "158.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 5215,
+      "cod_calle": 21012
+    },
+    "usig_direccion_elegida": {
+      "altura": 5215,
+      "cod_calle": 21012,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.495277",
+        "y": "-34.649123"
+      },
+      "direccion": "TAPALQUE 5215, CABA",
+      "nombre_calle": "TAPALQUE",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 5215,
+          "cod_calle": 21012,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.495277",
+            "y": "-34.649123"
+          },
+          "direccion": "TAPALQUE 5215, CABA",
+          "nombre_calle": "TAPALQUE",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97066.71599249158,
+                  97801.12004237282
+                ],
+                [
+                  97062.60699249992,
+                  97796.97404238765
+                ],
+                [
+                  97059.1759925122,
+                  97800.27704237928
+                ],
+                [
+                  97057.94899251696,
+                  97801.45804237758
+                ],
+                [
+                  97052.89899253474,
+                  97806.32104236717
+                ],
+                [
+                  97049.71499254563,
+                  97809.38704236093
+                ],
+                [
+                  97052.77099253974,
+                  97812.72904234965
+                ],
+                [
+                  97052.86399253941,
+                  97812.83104235024
+                ],
+                [
+                  97053.8499925374,
+                  97813.91004234552
+                ],
+                [
+                  97055.42699253454,
+                  97815.63404233943
+                ],
+                [
+                  97060.96199251499,
+                  97810.38104234924
+                ],
+                [
+                  97063.6699925058,
+                  97807.81204235356
+                ],
+                [
+                  97064.73399250189,
+                  97806.80104235795
+                ],
+                [
+                  97065.00199250111,
+                  97806.54704235843
+                ],
+                [
+                  97068.65699248781,
+                  97803.07904236429
+                ],
+                [
+                  97066.71599249158,
+                  97801.12004237282
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "062-095-030",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "TAPALQUE 5215",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.49537755446392,
+      -34.64903949898954
+    ],
+    "direccion": "",
+    "fondo": "18.24",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "095",
+    "parcela": "030",
+    "pdamatriz": "29287",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "062",
+    "smp": "062-095-030",
+    "smp_anterior": "062-095-029",
+    "smp_siguiente": "062-095-031",
+    "srid": 4326,
+    "superficie_cubierta": "128.00",
+    "superficie_total": "158.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "062-095-030",
+  "_http_status": 200
+}

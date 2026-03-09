@@ -1,0 +1,583 @@
+{
+  "area_m2": 495.433331489563,
+  "centroide_lonlat": {
+    "lat": -34.620316,
+    "lon": -58.4286
+  },
+  "centroide_xy": {
+    "x": 103182.43713774295,
+    "y": 100992.69333931211
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 38.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 4.0,
+          "fot_perim_libre": 4.0,
+          "fot_semi_libre": 4.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/8/24/040-144-032_0000052824.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION040/040-144-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION040/PI-040-144-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "040-144-025",
+            "040-144-024",
+            "040-144-033",
+            "040-144-031",
+            "040-144-015"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "C3 I",
+          "incidencia_uva": 290.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 492.149528157331,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 495.4,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "040-144-032"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Caballito",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1235",
+    "codigo_postal_argentino": "C1235ABB",
+    "comisaria": "10",
+    "comisaria_vecinal": "5B",
+    "comuna": "Comuna 6",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "40"
+  },
+  "debug": {
+    "address": "AV. LA PLATA 467",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.42859954781823,
+        -34.62031574223752
+      ],
+      "direccion": "",
+      "fondo": "56.81",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "144",
+      "parcela": "032",
+      "pdamatriz": "154823",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "040",
+      "smp": "040-144-032",
+      "smp_anterior": "040-144-031",
+      "smp_siguiente": "040-144-033",
+      "srid": 4326,
+      "superficie_cubierta": "409.00",
+      "superficie_total": "492.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 467,
+      "cod_calle": 12054
+    },
+    "usig_direccion_elegida": {
+      "altura": 467,
+      "cod_calle": 12054,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.428259",
+        "y": "-34.620269"
+      },
+      "direccion": "LA PLATA AV. 467, CABA",
+      "nombre_calle": "LA PLATA AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 467,
+          "cod_calle": 12054,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.428259",
+            "y": "-34.620269"
+          },
+          "direccion": "LA PLATA AV. 467, CABA",
+          "nombre_calle": "LA PLATA AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 467,
+          "cod_calle": 96129,
+          "cod_calle_cruce": null,
+          "cod_partido": "ezeiza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5778431693878,
+            "y": -34.9052831204082
+          },
+          "direccion": "Avenida de la Plata 467, Ezeiza",
+          "nombre_calle": "Avenida de la Plata",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Carlos Spegazzini",
+          "nombre_partido": "Ezeiza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 467,
+          "cod_calle": 35105,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3703761649269,
+            "y": -34.7458906162786
+          },
+          "direccion": "Avenida La Plata 467, Lomas de Zamora",
+          "nombre_calle": "Avenida La Plata",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Banfield",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 467,
+          "cod_calle": 86652,
+          "cod_calle_cruce": null,
+          "cod_partido": "lujan",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -59.105406277551,
+            "y": -34.5476215102041
+          },
+          "direccion": "La Plata 467, Luján",
+          "nombre_calle": "La Plata",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Luján",
+          "nombre_partido": "Luján",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 467,
+          "cod_calle": 149728,
+          "cod_calle_cruce": null,
+          "cod_partido": "moreno",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.78244144375,
+            "y": -34.62626338125
+          },
+          "direccion": "La Plata 467, Moreno",
+          "nombre_calle": "La Plata",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Moreno",
+          "nombre_partido": "Moreno",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 467,
+          "cod_calle": 71816,
+          "cod_calle_cruce": null,
+          "cod_partido": "moreno",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7654083948979,
+            "y": -34.5684449510204
+          },
+          "direccion": "Río de la Plata 467, Moreno",
+          "nombre_calle": "Río de la Plata",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Trujui",
+          "nombre_partido": "Moreno",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 467,
+          "cod_calle": 112614,
+          "cod_calle_cruce": null,
+          "cod_partido": "quilmes",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.2846523428572,
+            "y": -34.7269626081633
+          },
+          "direccion": "Avenida La Plata 467, Quilmes",
+          "nombre_calle": "Avenida La Plata",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Quilmes",
+          "nombre_partido": "Quilmes",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 467,
+          "cod_calle": 246957,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_vicente",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3807643852893,
+            "y": -34.9662336903754
+          },
+          "direccion": "La Plata 467, San Vicente",
+          "nombre_calle": "La Plata",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Vicente",
+          "nombre_partido": "San Vicente",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 467,
+          "cod_calle": 225268,
+          "cod_calle_cruce": null,
+          "cod_partido": "tigre",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7261864587248,
+            "y": -34.4032275332215
+          },
+          "direccion": "La Plata 467, Tigre",
+          "nombre_calle": "La Plata",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Benavídez",
+          "nombre_partido": "Tigre",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  103199.11997770234,
+                  100999.75502878553
+                ],
+                [
+                  103199.58597770109,
+                  100999.82802878486
+                ],
+                [
+                  103202.48097769285,
+                  101000.28402878164
+                ],
+                [
+                  103204.19997768875,
+                  101000.55502877926
+                ],
+                [
+                  103204.60597768717,
+                  101000.61902877907
+                ],
+                [
+                  103206.08397768327,
+                  101000.85202877727
+                ],
+                [
+                  103207.39197767994,
+                  101001.05802877597
+                ],
+                [
+                  103208.87297767572,
+                  101001.2920287743
+                ],
+                [
+                  103209.92697767334,
+                  101001.45802877238
+                ],
+                [
+                  103211.29709680358,
+                  100993.0091230337
+                ],
+                [
+                  103206.0099776769,
+                  100992.14102880159
+                ],
+                [
+                  103205.64497767767,
+                  100992.08102880247
+                ],
+                [
+                  103192.52797771322,
+                  100989.92802881845
+                ],
+                [
+                  103187.64597772606,
+                  100989.12702882438
+                ],
+                [
+                  103183.86297773643,
+                  100988.50502882854
+                ],
+                [
+                  103182.19797774086,
+                  100988.23202883053
+                ],
+                [
+                  103177.06597775438,
+                  100987.39002883653
+                ],
+                [
+                  103175.06497776048,
+                  100987.06102883909
+                ],
+                [
+                  103172.36497776757,
+                  100986.61802884238
+                ],
+                [
+                  103169.51697777498,
+                  100986.15002884643
+                ],
+                [
+                  103164.36606665597,
+                  100985.30514359844
+                ],
+                [
+                  103163.61905738064,
+                  100985.18215775947
+                ],
+                [
+                  103162.99997779244,
+                  100985.08002885405
+                ],
+                [
+                  103159.11797780267,
+                  100984.44302885866
+                ],
+                [
+                  103155.092977814,
+                  100983.7830288634
+                ],
+                [
+                  103154.79897781633,
+                  100986.70602885587
+                ],
+                [
+                  103154.51397782005,
+                  100989.54102884803
+                ],
+                [
+                  103154.19897782287,
+                  100992.67402883896
+                ],
+                [
+                  103157.35597781402,
+                  100993.17202883578
+                ],
+                [
+                  103158.52697781098,
+                  100993.3560288338
+                ],
+                [
+                  103161.88097780227,
+                  100993.88502882989
+                ],
+                [
+                  103162.79397779952,
+                  100994.02902882913
+                ],
+                [
+                  103163.98597779614,
+                  100994.21702882778
+                ],
+                [
+                  103165.23097779293,
+                  100994.41302882583
+                ],
+                [
+                  103168.3519777848,
+                  100994.90502882266
+                ],
+                [
+                  103171.14597777705,
+                  100995.34502881879
+                ],
+                [
+                  103174.42797776885,
+                  100995.86302881505
+                ],
+                [
+                  103174.97897776731,
+                  100995.94902881453
+                ],
+                [
+                  103175.66997776512,
+                  100996.05802881383
+                ],
+                [
+                  103179.71597775436,
+                  100996.69602880933
+                ],
+                [
+                  103182.23897774759,
+                  100997.09402880541
+                ],
+                [
+                  103183.26197774491,
+                  100997.25502880441
+                ],
+                [
+                  103187.96897773174,
+                  100997.99702879941
+                ],
+                [
+                  103191.25297772288,
+                  100998.5150287947
+                ],
+                [
+                  103194.3989777151,
+                  100999.01002879106
+                ],
+                [
+                  103199.11997770234,
+                  100999.75502878553
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "040-144-032",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AV. LA PLATA 467",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.42859954781823,
+      -34.62031574223752
+    ],
+    "direccion": "",
+    "fondo": "56.81",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "144",
+    "parcela": "032",
+    "pdamatriz": "154823",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "040",
+    "smp": "040-144-032",
+    "smp_anterior": "040-144-031",
+    "smp_siguiente": "040-144-033",
+    "srid": 4326,
+    "superficie_cubierta": "409.00",
+    "superficie_total": "492.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "040-144-032",
+  "_http_status": 200
+}

@@ -1,0 +1,371 @@
+{
+  "area_m2": 98.09537124633789,
+  "centroide_lonlat": {
+    "lat": -34.636763,
+    "lon": -58.431897
+  },
+  "centroide_xy": {
+    "x": 102879.4384061492,
+    "y": 99168.2200697569
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/1/94/038-032-017b_0000043194.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION038/038-032-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION038/PI-038-032-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "038-032-018a",
+            "038-032-016a",
+            "038-032-017a"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 98.181050000157,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 98.1,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "038-032-017B"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.M. PENNA",
+    "barrio": "Parque Chacabuco",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1424",
+    "codigo_postal_argentino": "C1424CVK",
+    "comisaria": "34",
+    "comisaria_vecinal": "7B",
+    "comuna": "Comuna 7",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "38"
+  },
+  "debug": {
+    "address": "BALBASTRO 987",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.43189717558457,
+        -34.636762774278814
+      ],
+      "direccion": "",
+      "fondo": "12.44",
+      "frente": "7.80",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "032",
+      "parcela": "017B",
+      "pdamatriz": "78732",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "038",
+      "smp": "038-032-017B",
+      "smp_anterior": "038-032-017A",
+      "smp_siguiente": "038-032-018A",
+      "srid": 4326,
+      "superficie_cubierta": "166.00",
+      "superficie_total": "97.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 987,
+      "cod_calle": 2011
+    },
+    "usig_direccion_elegida": {
+      "altura": 987,
+      "cod_calle": 2011,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.431877",
+        "y": "-34.636844"
+      },
+      "direccion": "BALBASTRO 987, CABA",
+      "nombre_calle": "BALBASTRO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 987,
+          "cod_calle": 2011,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.431877",
+            "y": "-34.636844"
+          },
+          "direccion": "BALBASTRO 987, CABA",
+          "nombre_calle": "BALBASTRO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 987,
+          "cod_calle": 270764,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7277952540816,
+            "y": -34.6885223714286
+          },
+          "direccion": "Balbastro 987, Merlo",
+          "nombre_calle": "Balbastro",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Parque San Martín",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 987,
+          "cod_calle": 146138,
+          "cod_calle_cruce": null,
+          "cod_partido": "tigre",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6294020346939,
+            "y": -34.4866052622449
+          },
+          "direccion": "Balbastro 987, Tigre",
+          "nombre_calle": "Balbastro",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Don Torcuato",
+          "nombre_partido": "Tigre",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102884.43797720209,
+                  99162.84203417401
+                ],
+                [
+                  102884.29897720207,
+                  99162.81303417488
+                ],
+                [
+                  102881.30397721044,
+                  99162.1940341776
+                ],
+                [
+                  102876.99997722224,
+                  99161.3040341833
+                ],
+                [
+                  102876.79897722203,
+                  99161.26203418404
+                ],
+                [
+                  102876.66697722305,
+                  99161.9490341813
+                ],
+                [
+                  102875.58197723061,
+                  99167.59003416632
+                ],
+                [
+                  102875.37597723166,
+                  99168.66403416425
+                ],
+                [
+                  102875.07397723365,
+                  99170.23603415964
+                ],
+                [
+                  102874.88497723453,
+                  99171.21903415705
+                ],
+                [
+                  102874.42297723814,
+                  99173.62103415161
+                ],
+                [
+                  102876.52197723236,
+                  99174.03503414852
+                ],
+                [
+                  102878.5529772276,
+                  99174.436034146
+                ],
+                [
+                  102881.83197721912,
+                  99175.08203414094
+                ],
+                [
+                  102882.10897721825,
+                  99175.13703414102
+                ],
+                [
+                  102882.40097721561,
+                  99173.59503414526
+                ],
+                [
+                  102882.48697721495,
+                  99173.1400341462
+                ],
+                [
+                  102882.89697721238,
+                  99170.97603415264
+                ],
+                [
+                  102884.43797720209,
+                  99162.84203417401
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "038-032-017B",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "BALBASTRO 987",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.43189717558457,
+      -34.636762774278814
+    ],
+    "direccion": "",
+    "fondo": "12.44",
+    "frente": "7.80",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "032",
+    "parcela": "017B",
+    "pdamatriz": "78732",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "038",
+    "smp": "038-032-017B",
+    "smp_anterior": "038-032-017A",
+    "smp_siguiente": "038-032-018A",
+    "srid": 4326,
+    "superficie_cubierta": "166.00",
+    "superficie_total": "97.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "038-032-017B",
+  "_http_status": 200
+}

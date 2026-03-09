@@ -1,0 +1,337 @@
+{
+  "area_m2": 139.34512996673584,
+  "centroide_lonlat": {
+    "lat": -34.568216,
+    "lon": -58.457716
+  },
+  "centroide_xy": {
+    "x": 100512.41305481577,
+    "y": 106772.89534467351
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.52,
+          "fot_perim_libre": 3.52,
+          "fot_semi_libre": 3.52
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/84/037-125-014b_0000093784.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION037/037-125-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION037/PI-037-125-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "037-125-014a",
+            "037-125-013",
+            "037-125-015"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2a II",
+          "incidencia_uva": 480.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 139.303249999825,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 139.3,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "037-125-014B"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Belgrano",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1426",
+    "codigo_postal_argentino": "C1426EIA",
+    "comisaria": "33",
+    "comisaria_vecinal": "13C",
+    "comuna": "Comuna 13",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   X",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "37"
+  },
+  "debug": {
+    "address": "ELCANO 2743",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.45771626817555,
+        -34.568216457458114
+      ],
+      "direccion": "",
+      "fondo": "13.90",
+      "frente": "10.00",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "125",
+      "parcela": "014B",
+      "pdamatriz": "414836",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "037",
+      "smp": "037-125-014B",
+      "smp_anterior": "037-125-014A",
+      "smp_siguiente": "037-125-015",
+      "srid": 4326,
+      "superficie_cubierta": "150.00",
+      "superficie_total": "139.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2743,
+      "cod_calle": 5017
+    },
+    "usig_direccion_elegida": {
+      "altura": 2743,
+      "cod_calle": 5017,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.457604",
+        "y": "-34.568217"
+      },
+      "direccion": "ELCANO 2743, CABA",
+      "nombre_calle": "ELCANO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2743,
+          "cod_calle": 5017,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.457604",
+            "y": "-34.568217"
+          },
+          "direccion": "ELCANO 2743, CABA",
+          "nombre_calle": "ELCANO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  100506.9169895983,
+                  106773.36001462105
+                ],
+                [
+                  100509.29898959225,
+                  106775.0930146144
+                ],
+                [
+                  100510.65398958961,
+                  106776.07901461018
+                ],
+                [
+                  100512.28598958618,
+                  106777.26601460556
+                ],
+                [
+                  100518.14398957294,
+                  106781.52701458914
+                ],
+                [
+                  100520.23998956813,
+                  106783.05201458363
+                ],
+                [
+                  100519.93398956647,
+                  106779.56701459334
+                ],
+                [
+                  100519.65298956443,
+                  106776.37801460223
+                ],
+                [
+                  100519.34698956281,
+                  106772.89101461251
+                ],
+                [
+                  100517.42298956751,
+                  106771.49101461843
+                ],
+                [
+                  100515.40198957144,
+                  106770.02001462324
+                ],
+                [
+                  100514.75598957317,
+                  106769.54901462517
+                ],
+                [
+                  100513.79298957491,
+                  106768.84801462843
+                ],
+                [
+                  100509.56398958509,
+                  106765.77001463957
+                ],
+                [
+                  100507.41798958926,
+                  106764.2080146457
+                ],
+                [
+                  100502.87698960741,
+                  106770.42101463216
+                ],
+                [
+                  100505.23598960135,
+                  106772.1370146256
+                ],
+                [
+                  100506.65598959899,
+                  106773.17001462137
+                ],
+                [
+                  100506.9169895983,
+                  106773.36001462105
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "037-125-014B",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ELCANO 2743",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.45771626817555,
+      -34.568216457458114
+    ],
+    "direccion": "",
+    "fondo": "13.90",
+    "frente": "10.00",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "125",
+    "parcela": "014B",
+    "pdamatriz": "414836",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "037",
+    "smp": "037-125-014B",
+    "smp_anterior": "037-125-014A",
+    "smp_siguiente": "037-125-015",
+    "srid": 4326,
+    "superficie_cubierta": "150.00",
+    "superficie_total": "139.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "037-125-014B",
+  "_http_status": 200
+}

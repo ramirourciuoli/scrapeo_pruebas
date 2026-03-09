@@ -1,0 +1,355 @@
+{
+  "area_m2": 223.86533451080322,
+  "centroide_lonlat": {
+    "lat": -34.615874,
+    "lon": -58.396636
+  },
+  "centroide_xy": {
+    "x": 106114.17199879643,
+    "y": 101483.9715809213
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 2.76,
+          "fot_perim_libre": 2.76,
+          "fot_semi_libre": 2.76
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/4/76/020-045-031_0000470476.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION020/020-045-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION020/PI-020-045-V3.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "020-045-032",
+            "020-045-030",
+            "020-045-036"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2a II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 155.876413272936,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 223.9,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "020-045-031"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. J.M. RAMOS MEJÍA",
+    "barrio": "Balvanera",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1222",
+    "codigo_postal_argentino": "C1222ABG",
+    "comisaria": "6",
+    "comisaria_vecinal": "3C",
+    "comuna": "Comuna 3",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   III",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "20"
+  },
+  "debug": {
+    "address": "MEXICO 2131",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.39663623968273,
+        -34.61587398442947
+      ],
+      "direccion": "MEXICO 2131",
+      "fondo": "25.29",
+      "frente": "8.70",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "045",
+      "parcela": "031",
+      "pdamatriz": "201042",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "3",
+      "propiedad_horizontal": "Si",
+      "seccion": "020",
+      "smp": "020-045-031",
+      "smp_anterior": "020-045-030",
+      "smp_siguiente": "020-045-032",
+      "srid": 4326,
+      "superficie_cubierta": "567.00",
+      "superficie_total": "220.00",
+      "unidades_funcionales": "6",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2131,
+      "cod_calle": 13076
+    },
+    "usig_direccion_elegida": {
+      "altura": 2131,
+      "cod_calle": 13076,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.396618",
+        "y": "-34.615996"
+      },
+      "direccion": "MEXICO 2131, CABA",
+      "nombre_calle": "MEXICO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2131,
+          "cod_calle": 13076,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.396618",
+            "y": "-34.615996"
+          },
+          "direccion": "MEXICO 2131, CABA",
+          "nombre_calle": "MEXICO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2131,
+          "cod_calle": 47572,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_isidro",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5269254989796,
+            "y": -34.5030284867347
+          },
+          "direccion": "México 2131, San Isidro",
+          "nombre_calle": "México",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Martínez",
+          "nombre_partido": "San Isidro",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  106108.14907880334,
+                  101494.4890999156
+                ],
+                [
+                  106112.49996990478,
+                  101494.9790252042
+                ],
+                [
+                  106118.77096988741,
+                  101495.68502519681
+                ],
+                [
+                  106118.85196988474,
+                  101492.12002520729
+                ],
+                [
+                  106119.03196987802,
+                  101484.26002522884
+                ],
+                [
+                  106119.10496987627,
+                  101481.07902523785
+                ],
+                [
+                  106119.29696986914,
+                  101472.65902526138
+                ],
+                [
+                  106117.31396987449,
+                  101472.40602526403
+                ],
+                [
+                  106112.9499698863,
+                  101471.84902526884
+                ],
+                [
+                  106112.17396988787,
+                  101471.75002526931
+                ],
+                [
+                  106110.58696989277,
+                  101471.54702527131
+                ],
+                [
+                  106110.49196989303,
+                  101472.44202526851
+                ],
+                [
+                  106110.04708903847,
+                  101476.62612389005
+                ],
+                [
+                  106109.7130436316,
+                  101479.77114341271
+                ],
+                [
+                  106109.29409832325,
+                  101483.71914144885
+                ],
+                [
+                  106108.53207440498,
+                  101490.88912433948
+                ],
+                [
+                  106108.14907880334,
+                  101494.4890999156
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "020-045-031",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MEXICO 2131",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.39663623968273,
+      -34.61587398442947
+    ],
+    "direccion": "MEXICO 2131",
+    "fondo": "25.29",
+    "frente": "8.70",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "045",
+    "parcela": "031",
+    "pdamatriz": "201042",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "3",
+    "propiedad_horizontal": "Si",
+    "puertas": [
+      {
+        "altura": 2131,
+        "calle": "MEXICO",
+        "codigo_calle": 13076,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "020",
+    "smp": "020-045-031",
+    "smp_anterior": "020-045-030",
+    "smp_siguiente": "020-045-032",
+    "srid": 4326,
+    "superficie_cubierta": "567.00",
+    "superficie_total": "220.00",
+    "unidades_funcionales": "6",
+    "vuc": "0.00"
+  },
+  "smp": "020-045-031"
+}

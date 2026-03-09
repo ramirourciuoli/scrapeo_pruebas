@@ -1,0 +1,346 @@
+{
+  "area_m2": 165.4129991531372,
+  "centroide_lonlat": {
+    "lat": -34.593949,
+    "lon": -58.420635
+  },
+  "centroide_xy": {
+    "x": 103914.0740028204,
+    "y": 103917.42600669542
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/93/019-042-027_0000324693.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION019/019-042-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION019/PI-019-042-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "019-042-026",
+            "019-042-024",
+            "019-042-025",
+            "019-042-028"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 420.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 165.389800000048,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 165.4,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "019-042-027"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.A.FERNÁNDEZ",
+    "barrio": "Palermo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1180",
+    "codigo_postal_argentino": "C1180ACG",
+    "comisaria": "21",
+    "comisaria_vecinal": "14A",
+    "comuna": "Comuna 14",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   II",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "19"
+  },
+  "debug": {
+    "address": "AV. HONDURAS 4075",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.42063545507976,
+        -34.59394904819826
+      ],
+      "direccion": "",
+      "fondo": "19.29",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "042",
+      "parcela": "027",
+      "pdamatriz": "424822",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "019",
+      "smp": "019-042-027",
+      "smp_anterior": "019-042-026",
+      "smp_siguiente": "019-042-028",
+      "srid": 4326,
+      "superficie_cubierta": "250.00",
+      "superficie_total": "167.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4075,
+      "cod_calle": 8020
+    },
+    "usig_direccion_elegida": {
+      "altura": 4075,
+      "cod_calle": 8020,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.420632",
+        "y": "-34.594091"
+      },
+      "direccion": "HONDURAS AV. 4075, CABA",
+      "nombre_calle": "HONDURAS AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4075,
+          "cod_calle": 8020,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.420632",
+            "y": "-34.594091"
+          },
+          "direccion": "HONDURAS AV. 4075, CABA",
+          "nombre_calle": "HONDURAS AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  103918.12997788453,
+                  103920.9590200521
+                ],
+                [
+                  103918.14797788441,
+                  103920.6590200531
+                ],
+                [
+                  103918.18297788399,
+                  103920.05902005514
+                ],
+                [
+                  103918.24197788254,
+                  103919.0590200579
+                ],
+                [
+                  103918.68197787605,
+                  103911.55302007854
+                ],
+                [
+                  103918.7299778757,
+                  103910.73402008068
+                ],
+                [
+                  103918.84797787367,
+                  103908.73402008621
+                ],
+                [
+                  103918.90597787296,
+                  103907.73702008853
+                ],
+                [
+                  103910.37597789647,
+                  103907.58602009577
+                ],
+                [
+                  103910.26997789781,
+                  103909.7760200892
+                ],
+                [
+                  103910.19097789936,
+                  103911.40302008501
+                ],
+                [
+                  103909.94597790466,
+                  103916.4500200713
+                ],
+                [
+                  103909.91397790464,
+                  103917.10402006959
+                ],
+                [
+                  103909.83597790633,
+                  103918.71502006464
+                ],
+                [
+                  103909.75297790728,
+                  103920.42102006017
+                ],
+                [
+                  103909.39397791462,
+                  103927.80702003968
+                ],
+                [
+                  103912.90997790422,
+                  103927.35102003807
+                ],
+                [
+                  103914.11397790066,
+                  103927.19502003814
+                ],
+                [
+                  103917.79297788952,
+                  103926.71802003673
+                ],
+                [
+                  103917.89197788839,
+                  103925.03402004106
+                ],
+                [
+                  103918.12997788453,
+                  103920.9590200521
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "019-042-027",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AV. HONDURAS 4075",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.42063545507976,
+      -34.59394904819826
+    ],
+    "direccion": "",
+    "fondo": "19.29",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "042",
+    "parcela": "027",
+    "pdamatriz": "424822",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "019",
+    "smp": "019-042-027",
+    "smp_anterior": "019-042-026",
+    "smp_siguiente": "019-042-028",
+    "srid": 4326,
+    "superficie_cubierta": "250.00",
+    "superficie_total": "167.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "019-042-027",
+  "_http_status": 200
+}

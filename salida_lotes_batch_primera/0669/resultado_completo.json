@@ -1,0 +1,511 @@
+{
+  "area_m2": 536.0581560134888,
+  "centroide_lonlat": {
+    "lat": -34.607013,
+    "lon": -58.37907
+  },
+  "centroide_xy": {
+    "x": 107726.07562492703,
+    "y": 102465.75948085493
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "PEV",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 5.0,
+          "fot_perim_libre": 7.0,
+          "fot_semi_libre": 5.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/98/001-002-024b_0000406598.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION001/001-002-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION001/PI-001-002-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "SI",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "001-002-023",
+            "001-002-021c"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "C1",
+          "incidencia_uva": 130.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 536.166549999978,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 536.1,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "001-002-024B"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C. ARGERICH",
+    "barrio": "San Nicolas",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1008",
+    "codigo_postal_argentino": "C1008AAC",
+    "comisaria": "3",
+    "comisaria_vecinal": "1D",
+    "comuna": "Comuna 1",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   I",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "01"
+  },
+  "debug": {
+    "address": "SUIPACHA 117",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.37907035672775,
+        -34.60701308268494
+      ],
+      "direccion": "",
+      "fondo": "18.08",
+      "frente": "30.48",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "002",
+      "parcela": "024B",
+      "pdamatriz": "221044",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "001",
+      "smp": "001-002-024B",
+      "smp_anterior": "001-002-023",
+      "smp_siguiente": "001-002-027",
+      "srid": 4326,
+      "superficie_cubierta": "1381.00",
+      "superficie_total": "551.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 117,
+      "cod_calle": 20123
+    },
+    "usig_direccion_elegida": {
+      "altura": 117,
+      "cod_calle": 20123,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.379258",
+        "y": "-34.606906"
+      },
+      "direccion": "SUIPACHA 117, CABA",
+      "nombre_calle": "SUIPACHA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 117,
+          "cod_calle": 20123,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.379258",
+            "y": "-34.606906"
+          },
+          "direccion": "SUIPACHA 117, CABA",
+          "nombre_calle": "SUIPACHA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 117,
+          "cod_calle": 81150,
+          "cod_calle_cruce": null,
+          "cod_partido": "ezeiza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5273656020408,
+            "y": -34.8427988316327
+          },
+          "direccion": "Suipacha 117, Ezeiza",
+          "nombre_calle": "Suipacha",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ezeiza",
+          "nombre_partido": "Ezeiza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 117,
+          "cod_calle": 270249,
+          "cod_calle_cruce": null,
+          "cod_partido": "general_las_heras",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.9416329914141,
+            "y": -34.9221320732323
+          },
+          "direccion": "Suipacha 117, General Las Heras",
+          "nombre_calle": "Suipacha",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "General Las Heras",
+          "nombre_partido": "General Las Heras",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": null,
+          "cod_calle": 63518,
+          "cod_calle_cruce": null,
+          "cod_partido": "general_san_martin",
+          "direccion": "117 - Suipacha, Billinghurst, General San Martín",
+          "nombre_calle": "117 - Suipacha",
+          "nombre_calle_cruce": null,
+          "nombre_localidad": "Billinghurst",
+          "nombre_partido": "General San Martín",
+          "tipo": "calle"
+        },
+        {
+          "altura": null,
+          "cod_calle": 83119,
+          "cod_calle_cruce": null,
+          "cod_partido": "general_san_martin",
+          "direccion": "117 - Suipacha, Villa Lynch, General San Martín",
+          "nombre_calle": "117 - Suipacha",
+          "nombre_calle_cruce": null,
+          "nombre_localidad": "Villa Lynch",
+          "nombre_partido": "General San Martín",
+          "tipo": "calle"
+        },
+        {
+          "altura": 117,
+          "cod_calle": 14416,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.561656825,
+            "y": -34.646707926
+          },
+          "direccion": "Suipacha 117, La Matanza",
+          "nombre_calle": "Suipacha",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ramos Mejía",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 117,
+          "cod_calle": 33137,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3616485653061,
+            "y": -34.7038876877551
+          },
+          "direccion": "Suipacha 117, Lanús",
+          "nombre_calle": "Suipacha",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lanús Este",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 117,
+          "cod_calle": 201039,
+          "cod_calle_cruce": null,
+          "cod_partido": "lobos",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -59.0986149938775,
+            "y": -35.1840306744898
+          },
+          "direccion": "Suipacha 117, Lobos",
+          "nombre_calle": "Suipacha",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lobos",
+          "nombre_partido": "Lobos",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 117,
+          "cod_calle": 20645,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4047333193878,
+            "y": -34.7913541204082
+          },
+          "direccion": "Suipacha 117, Lomas de Zamora",
+          "nombre_calle": "Suipacha",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Turdera",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 117,
+          "cod_calle": 37091,
+          "cod_calle_cruce": null,
+          "cod_partido": "moron",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5984527970702,
+            "y": -34.6468262270281
+          },
+          "direccion": "Suipacha 117, Morón",
+          "nombre_calle": "Suipacha",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Haedo",
+          "nombre_partido": "Morón",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  107710.60296616053,
+                  102473.824021256
+                ],
+                [
+                  107712.86196615294,
+                  102473.91202125387
+                ],
+                [
+                  107715.45896614662,
+                  102474.0120212512
+                ],
+                [
+                  107716.20296614425,
+                  102474.04102125057
+                ],
+                [
+                  107716.20696614456,
+                  102473.81102125096
+                ],
+                [
+                  107717.79196613978,
+                  102473.9470212507
+                ],
+                [
+                  107719.78596613466,
+                  102474.11902124822
+                ],
+                [
+                  107720.40096613196,
+                  102474.17202124739
+                ],
+                [
+                  107720.37096613436,
+                  102475.9920212426
+                ],
+                [
+                  107722.26796612884,
+                  102476.0520212418
+                ],
+                [
+                  107723.81896612496,
+                  102476.10102123953
+                ],
+                [
+                  107723.82596612418,
+                  102475.68502124041
+                ],
+                [
+                  107725.8669661176,
+                  102475.773021239
+                ],
+                [
+                  107726.00296611605,
+                  102474.24602124357
+                ],
+                [
+                  107733.1359660959,
+                  102474.64402123619
+                ],
+                [
+                  107736.84396608616,
+                  102474.85102123371
+                ],
+                [
+                  107741.00396607573,
+                  102475.08302123018
+                ],
+                [
+                  107741.17596607108,
+                  102469.5300212446
+                ],
+                [
+                  107740.35596607286,
+                  102469.50402124561
+                ],
+                [
+                  107741.02796606583,
+                  102461.88902126646
+                ],
+                [
+                  107741.31496606316,
+                  102458.63002127441
+                ],
+                [
+                  107741.40296606152,
+                  102457.63402127754
+                ],
+                [
+                  107716.98806612774,
+                  102455.4941213014
+                ],
+                [
+                  107710.97376614925,
+                  102460.85782129009
+                ],
+                [
+                  107710.66896615806,
+                  102471.52502126215
+                ],
+                [
+                  107710.60896616042,
+                  102473.61202125618
+                ],
+                [
+                  107710.60296616053,
+                  102473.824021256
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "001-002-024B",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "SUIPACHA 117",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.37907035672775,
+      -34.60701308268494
+    ],
+    "direccion": "",
+    "fondo": "18.08",
+    "frente": "30.48",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "002",
+    "parcela": "024B",
+    "pdamatriz": "221044",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "001",
+    "smp": "001-002-024B",
+    "smp_anterior": "001-002-023",
+    "smp_siguiente": "001-002-027",
+    "srid": 4326,
+    "superficie_cubierta": "1381.00",
+    "superficie_total": "551.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "001-002-024B",
+  "_http_status": 200
+}

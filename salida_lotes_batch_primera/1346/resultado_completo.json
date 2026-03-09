@@ -1,0 +1,518 @@
+{
+  "area_m2": 362.11738777160645,
+  "centroide_lonlat": {
+    "lat": -34.588975,
+    "lon": -58.383534
+  },
+  "centroide_xy": {
+    "x": 107318.24776025422,
+    "y": 104467.15159580433
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.29,
+          "fot_perim_libre": 3.29,
+          "fot_semi_libre": 3.29
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/4/99/007-054-008c_0000458499.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION007/007-054-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION007/PI-007-054-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "007-054-008i",
+            "007-054-017",
+            "007-054-015"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2a I",
+          "incidencia_uva": 630.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 213.381410955664,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 362.1,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "007-054-008C"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.A.FERNÁNDEZ",
+    "barrio": "Retiro",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1016",
+    "codigo_postal_argentino": "C1016ABH",
+    "comisaria": "17",
+    "comisaria_vecinal": "1A",
+    "comuna": "Comuna 1",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   I",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "07"
+  },
+  "debug": {
+    "address": "LIBERTAD 1650",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.38353373974288,
+        -34.58897508545544
+      ],
+      "direccion": "",
+      "fondo": "38.78",
+      "frente": "9.49",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "054",
+      "parcela": "008C",
+      "pdamatriz": "453314",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "007",
+      "smp": "007-054-008C",
+      "smp_anterior": "007-054-006I",
+      "smp_siguiente": "007-054-008I",
+      "srid": 4326,
+      "superficie_cubierta": "470.00",
+      "superficie_total": "368.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1650,
+      "cod_calle": 12106
+    },
+    "usig_direccion_elegida": {
+      "altura": 1650,
+      "cod_calle": 12106,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.383317",
+        "y": "-34.589051"
+      },
+      "direccion": "LIBERTAD 1650, CABA",
+      "nombre_calle": "LIBERTAD",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1650,
+          "cod_calle": 12106,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.383317",
+            "y": "-34.589051"
+          },
+          "direccion": "LIBERTAD 1650, CABA",
+          "nombre_calle": "LIBERTAD",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1650,
+          "cod_calle": 12107,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.397433",
+            "y": "-34.583202"
+          },
+          "direccion": "DEL LIBERTADOR AV. 1650, CABA",
+          "nombre_calle": "DEL LIBERTADOR AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1650,
+          "cod_calle": 85150,
+          "cod_calle_cruce": null,
+          "cod_partido": "canuelas",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.767128177551,
+            "y": -35.0490639306122
+          },
+          "direccion": "Libertad 1650, Cañuelas",
+          "nombre_calle": "Libertad",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Cañuelas",
+          "nombre_partido": "Cañuelas",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1650,
+          "cod_calle": 128641,
+          "cod_calle_cruce": null,
+          "cod_partido": "esteban_echeverria",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4762936,
+            "y": -34.8437206
+          },
+          "direccion": "Libertad 1650, Esteban Echeverría",
+          "nombre_calle": "Libertad",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Monte Grande",
+          "nombre_partido": "Esteban Echeverría",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1650,
+          "cod_calle": 284465,
+          "cod_calle_cruce": null,
+          "cod_partido": "general_san_martin",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5623098836735,
+            "y": -34.5289718265306
+          },
+          "direccion": "162 - Libertador 1650, General San Martín",
+          "nombre_calle": "162 - Libertador",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "José León Suárez",
+          "nombre_partido": "General San Martín",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1650,
+          "cod_calle": 86904,
+          "cod_calle_cruce": null,
+          "cod_partido": "lujan",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -59.0922872938776,
+            "y": -34.5634609183674
+          },
+          "direccion": "Calle 452 - Libertad 1650, Luján",
+          "nombre_calle": "Calle 452 - Libertad",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Luján",
+          "nombre_partido": "Luján",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1650,
+          "cod_calle": 347036,
+          "cod_calle_cruce": null,
+          "cod_partido": "marcos_paz",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.8398213,
+            "y": -34.77601225
+          },
+          "direccion": "Avenida Libertad 1650, Marcos Paz",
+          "nombre_calle": "Avenida Libertad",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Marcos Paz",
+          "nombre_partido": "Marcos Paz",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1650,
+          "cod_calle": 12440,
+          "cod_calle_cruce": null,
+          "cod_partido": "moreno",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7815611701733,
+            "y": -34.6309648273218
+          },
+          "direccion": "Avenida del Libertador 1650, Moreno",
+          "nombre_calle": "Avenida del Libertador",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Moreno",
+          "nombre_partido": "Moreno",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1650,
+          "cod_calle": 138856,
+          "cod_calle_cruce": null,
+          "cod_partido": "presidente_peron",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.37525185,
+            "y": -34.9294987
+          },
+          "direccion": "Libertador General José de San Martín 1650, Presidente Perón",
+          "nombre_calle": "Libertador General José de San Martín",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Presidente Perón",
+          "nombre_partido": "Presidente Perón",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1650,
+          "cod_calle": 49330,
+          "cod_calle_cruce": null,
+          "cod_partido": "quilmes",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.235072,
+            "y": -34.7356048
+          },
+          "direccion": "Libertad 1650, Quilmes",
+          "nombre_calle": "Libertad",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Quilmes",
+          "nombre_partido": "Quilmes",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  107312.96796878133,
+                  104474.60001594399
+                ],
+                [
+                  107318.72596876271,
+                  104472.09601594697
+                ],
+                [
+                  107324.36396874538,
+                  104469.64501594924
+                ],
+                [
+                  107327.95296873379,
+                  104468.08401595117
+                ],
+                [
+                  107331.86196872151,
+                  104466.38401595279
+                ],
+                [
+                  107332.41196871964,
+                  104466.14501595299
+                ],
+                [
+                  107336.0079687092,
+                  104464.58101595537
+                ],
+                [
+                  107337.84196870323,
+                  104463.78401595596
+                ],
+                [
+                  107334.18596870662,
+                  104455.18901598308
+                ],
+                [
+                  107332.32096871317,
+                  104455.99701598243
+                ],
+                [
+                  107331.4029687155,
+                  104456.39401598184
+                ],
+                [
+                  107330.88396871684,
+                  104456.61901598121
+                ],
+                [
+                  107329.09296872315,
+                  104457.39501598003
+                ],
+                [
+                  107326.66896873014,
+                  104458.4440159795
+                ],
+                [
+                  107323.25796874145,
+                  104459.92101597786
+                ],
+                [
+                  107318.25896875636,
+                  104462.0860159756
+                ],
+                [
+                  107313.21296877295,
+                  104464.27101597286
+                ],
+                [
+                  107310.3059687815,
+                  104465.53001597206
+                ],
+                [
+                  107309.84796878329,
+                  104465.72801597172
+                ],
+                [
+                  107309.2259687848,
+                  104465.99801597092
+                ],
+                [
+                  107306.70796879253,
+                  104467.0880159706
+                ],
+                [
+                  107297.79796882118,
+                  104470.94601596647
+                ],
+                [
+                  107303.31808404558,
+                  104478.79609748285
+                ],
+                [
+                  107305.89907768986,
+                  104477.6740882067
+                ],
+                [
+                  107306.81496880067,
+                  104477.27601594111
+                ],
+                [
+                  107312.96796878133,
+                  104474.60001594399
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "007-054-008C",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "LIBERTAD 1650",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.38353373974288,
+      -34.58897508545544
+    ],
+    "direccion": "",
+    "fondo": "38.78",
+    "frente": "9.49",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "054",
+    "parcela": "008C",
+    "pdamatriz": "453314",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "007",
+    "smp": "007-054-008C",
+    "smp_anterior": "007-054-006I",
+    "smp_siguiente": "007-054-008I",
+    "srid": 4326,
+    "superficie_cubierta": "470.00",
+    "superficie_total": "368.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "007-054-008C",
+  "_http_status": 200
+}

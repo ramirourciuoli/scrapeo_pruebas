@@ -1,0 +1,389 @@
+{
+  "area_m2": 141.3115930557251,
+  "centroide_lonlat": {
+    "lat": -34.56423,
+    "lon": -58.437627
+  },
+  "centroide_xy": {
+    "x": 102356.06353898176,
+    "y": 107214.87910426127
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 4.31,
+          "fot_perim_libre": 4.31,
+          "fot_semi_libre": 4.31
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/67/023-123-020b_0000341567.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION023/023-123-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION023/PI-023-123-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "DI-2025-713-GCABA-DGIUR",
+          "pdf": "023-123.pdf"
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "023-123-020a",
+            "023-123-020c"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2a I",
+          "incidencia_uva": 490.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 141.265550000262,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 141.3,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "023-123-020B"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.A.FERNÁNDEZ",
+    "barrio": "Palermo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1426",
+    "codigo_postal_argentino": "C1426BUO",
+    "comisaria": "31",
+    "comisaria_vecinal": "14B",
+    "comuna": "Comuna 14",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   IX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "23"
+  },
+  "debug": {
+    "address": "MIGUELETES 1107",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.43762736712099,
+        -34.56422972813771
+      ],
+      "direccion": "",
+      "fondo": "28.20",
+      "frente": "5.00",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "123",
+      "parcela": "020B",
+      "pdamatriz": "414794",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "3",
+      "propiedad_horizontal": "Si",
+      "seccion": "023",
+      "smp": "023-123-020B",
+      "smp_anterior": "023-123-020A",
+      "smp_siguiente": "023-123-020C",
+      "srid": 4326,
+      "superficie_cubierta": "470.00",
+      "superficie_total": "141.00",
+      "unidades_funcionales": "9",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1107,
+      "cod_calle": 13079
+    },
+    "usig_direccion_elegida": {
+      "altura": 1107,
+      "cod_calle": 13079,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.437692",
+        "y": "-34.564274"
+      },
+      "direccion": "MIGUELETES 1107, CABA",
+      "nombre_calle": "MIGUELETES",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1107,
+          "cod_calle": 13079,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.437692",
+            "y": "-34.564274"
+          },
+          "direccion": "MIGUELETES 1107, CABA",
+          "nombre_calle": "MIGUELETES",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1107,
+          "cod_calle": 35322,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5158723642857,
+            "y": -34.7134298632653
+          },
+          "direccion": "Migueletes 1107, La Matanza",
+          "nombre_calle": "Migueletes",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Aldo Bonzi",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102354.7319847528,
+                  107221.00201197612
+                ],
+                [
+                  102355.51798475088,
+                  107220.4270119761
+                ],
+                [
+                  102358.0849847421,
+                  107218.54701197761
+                ],
+                [
+                  102358.90398473901,
+                  107217.94701198116
+                ],
+                [
+                  102359.67398473612,
+                  107217.38301198205
+                ],
+                [
+                  102361.3379847312,
+                  107216.16401198393
+                ],
+                [
+                  102362.44998472705,
+                  107215.34901198489
+                ],
+                [
+                  102365.43298471722,
+                  107213.16301198685
+                ],
+                [
+                  102366.12298471437,
+                  107212.65801198868
+                ],
+                [
+                  102365.43898471583,
+                  107211.92101199139
+                ],
+                [
+                  102364.07098471942,
+                  107210.44501199664
+                ],
+                [
+                  102362.87998472134,
+                  107209.16001200164
+                ],
+                [
+                  102361.64698472469,
+                  107209.03801200347
+                ],
+                [
+                  102358.0419847345,
+                  107208.68201200626
+                ],
+                [
+                  102356.91598473808,
+                  107208.56501200693
+                ],
+                [
+                  102355.97398474086,
+                  107209.25201200551
+                ],
+                [
+                  102354.35798474598,
+                  107210.43101200342
+                ],
+                [
+                  102349.64298476197,
+                  107213.8700119984
+                ],
+                [
+                  102348.02598476739,
+                  107215.04901199567
+                ],
+                [
+                  102346.81398477117,
+                  107215.9330119956
+                ],
+                [
+                  102347.25698477044,
+                  107216.55501199156
+                ],
+                [
+                  102347.53698476932,
+                  107216.94701199158
+                ],
+                [
+                  102351.22798476374,
+                  107222.12101197417
+                ],
+                [
+                  102351.9069847624,
+                  107223.07201196995
+                ],
+                [
+                  102352.13498476203,
+                  107222.90501197107
+                ],
+                [
+                  102353.78098475626,
+                  107221.69901197313
+                ],
+                [
+                  102354.40198475403,
+                  107221.24401197367
+                ],
+                [
+                  102354.7319847528,
+                  107221.00201197612
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "023-123-020B",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MIGUELETES 1107",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.43762736712099,
+      -34.56422972813771
+    ],
+    "direccion": "",
+    "fondo": "28.20",
+    "frente": "5.00",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "123",
+    "parcela": "020B",
+    "pdamatriz": "414794",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "3",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "023",
+    "smp": "023-123-020B",
+    "smp_anterior": "023-123-020A",
+    "smp_siguiente": "023-123-020C",
+    "srid": 4326,
+    "superficie_cubierta": "470.00",
+    "superficie_total": "141.00",
+    "unidades_funcionales": "9",
+    "vuc": "0.00"
+  },
+  "smp": "023-123-020B",
+  "_http_status": 200
+}

@@ -1,0 +1,426 @@
+{
+  "area_m2": 254.79459190368652,
+  "centroide_lonlat": {
+    "lat": -34.590925,
+    "lon": -58.433931
+  },
+  "centroide_xy": {
+    "x": 102694.41732101355,
+    "y": 104253.31278674013
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/33/031-111-018b_0000263733.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION031/031-111-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION031/PI-031-111-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "031-111-018a",
+            "031-111-018c",
+            "031-111-019"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 490.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 166.83782614345,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 254.8,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "031-111-018B"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.A.FERNÁNDEZ",
+    "barrio": "Palermo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1414",
+    "codigo_postal_argentino": "C1414DEZ",
+    "comisaria": "25",
+    "comisaria_vecinal": "14A",
+    "comuna": "Comuna 14",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   IX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "31"
+  },
+  "debug": {
+    "address": "SERRANO 1284",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.433931135752,
+        -34.59092521456169
+      ],
+      "direccion": "",
+      "fondo": "24.38",
+      "frente": "10.50",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "111",
+      "parcela": "018B",
+      "pdamatriz": "432411",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "3",
+      "propiedad_horizontal": "Si",
+      "seccion": "031",
+      "smp": "031-111-018B",
+      "smp_anterior": "031-111-018A",
+      "smp_siguiente": "031-111-018D",
+      "srid": 4326,
+      "superficie_cubierta": "464.00",
+      "superficie_total": "256.00",
+      "unidades_funcionales": "5",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1284,
+      "cod_calle": 20090
+    },
+    "usig_direccion_elegida": {
+      "altura": 1284,
+      "cod_calle": 20090,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.433827",
+        "y": "-34.591034"
+      },
+      "direccion": "SERRANO 1284, CABA",
+      "nombre_calle": "SERRANO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1284,
+          "cod_calle": 20090,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.433827",
+            "y": "-34.591034"
+          },
+          "direccion": "SERRANO 1284, CABA",
+          "nombre_calle": "SERRANO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1284,
+          "cod_calle": 40997,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4121890864322,
+            "y": -34.8144951703518
+          },
+          "direccion": "José Serrano 1284, Almirante Brown",
+          "nombre_calle": "José Serrano",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Malvinas Argentinas",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1284,
+          "cod_calle": 46663,
+          "cod_calle_cruce": null,
+          "cod_partido": "general_san_martin",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5786745959184,
+            "y": -34.5103616387755
+          },
+          "direccion": "218 - Serrano 1284, General San Martín",
+          "nombre_calle": "218 - Serrano",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "José León Suárez",
+          "nombre_partido": "General San Martín",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1284,
+          "cod_calle": 65336,
+          "cod_calle_cruce": null,
+          "cod_partido": "ituzaingo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6693304428572,
+            "y": -34.6428368020408
+          },
+          "direccion": "Serrano 1284, Ituzaingó",
+          "nombre_calle": "Serrano",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ituzaingó",
+          "nombre_partido": "Ituzaingó",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1284,
+          "cod_calle": 437,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3769877938776,
+            "y": -34.7433990612245
+          },
+          "direccion": "Serrano 1284, Lomas de Zamora",
+          "nombre_calle": "Serrano",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Banfield",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1284,
+          "cod_calle": 290630,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_miguel",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7032631687375,
+            "y": -34.5429114867735
+          },
+          "direccion": "Serrano 1284, San Miguel",
+          "nombre_calle": "Serrano",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Miguel",
+          "nombre_partido": "San Miguel",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102692.94798157824,
+                  104263.54502001457
+                ],
+                [
+                  102695.67698157017,
+                  104260.09802002157
+                ],
+                [
+                  102698.34498155877,
+                  104256.7300200302
+                ],
+                [
+                  102700.77698154874,
+                  104253.65902003742
+                ],
+                [
+                  102706.07798152883,
+                  104246.96402005004
+                ],
+                [
+                  102701.00398154001,
+                  104242.95002006568
+                ],
+                [
+                  102699.96998154231,
+                  104242.13202006868
+                ],
+                [
+                  102698.24398154631,
+                  104240.76702007366
+                ],
+                [
+                  102697.8669815468,
+                  104240.46802007509
+                ],
+                [
+                  102697.49698154903,
+                  104240.94002007417
+                ],
+                [
+                  102692.46698156773,
+                  104247.35502005991
+                ],
+                [
+                  102692.20998156848,
+                  104247.68302005893
+                ],
+                [
+                  102690.31798157559,
+                  104250.09602005337
+                ],
+                [
+                  102687.47998158674,
+                  104253.71602004548
+                ],
+                [
+                  102684.7669815965,
+                  104257.17602003779
+                ],
+                [
+                  102684.14998159923,
+                  104257.96302003649
+                ],
+                [
+                  102682.80898160426,
+                  104259.67302003261
+                ],
+                [
+                  102687.68954925041,
+                  104263.64155326557
+                ],
+                [
+                  102690.84098158538,
+                  104266.206020009
+                ],
+                [
+                  102692.94798157824,
+                  104263.54502001457
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "031-111-018B",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "SERRANO 1284",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.433931135752,
+      -34.59092521456169
+    ],
+    "direccion": "",
+    "fondo": "24.38",
+    "frente": "10.50",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "111",
+    "parcela": "018B",
+    "pdamatriz": "432411",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "3",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "031",
+    "smp": "031-111-018B",
+    "smp_anterior": "031-111-018A",
+    "smp_siguiente": "031-111-018D",
+    "srid": 4326,
+    "superficie_cubierta": "464.00",
+    "superficie_total": "256.00",
+    "unidades_funcionales": "5",
+    "vuc": "0.00"
+  },
+  "smp": "031-111-018B",
+  "_http_status": 200
+}

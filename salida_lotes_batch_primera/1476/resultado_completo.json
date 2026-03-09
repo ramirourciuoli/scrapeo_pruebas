@@ -1,0 +1,407 @@
+{
+  "area_m2": 347.7576332092285,
+  "centroide_lonlat": {
+    "lat": -34.678551,
+    "lon": -58.471996
+  },
+  "centroide_xy": {
+    "x": 99203.03805283224,
+    "y": 94532.73353094654
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "E-CCA",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/53/080-107-031b_0000002553.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION080/080-107-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION080/PI-080-107-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "080-107-030",
+            "080-107-026",
+            "080-107-032",
+            "080-107-027c"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 243.774345555551,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 347.8,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "080-107-031B"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DRA. CECILIA GRIERSON",
+    "barrio": "Villa Lugano",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1439",
+    "codigo_postal_argentino": "C1439FOG",
+    "comisaria": "52",
+    "comisaria_vecinal": "8A",
+    "comuna": "Comuna 8",
+    "distrito_economico": "DISTRITO DEL DEPORTE",
+    "distrito_escolar": "Distrito Escolar   XXI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "80"
+  },
+  "debug": {
+    "address": "OLIDEN 4469",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.47199593836931,
+        -34.678551417440914
+      ],
+      "direccion": "",
+      "fondo": "34.60",
+      "frente": "10.00",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "107",
+      "parcela": "031B",
+      "pdamatriz": "66545",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "080",
+      "smp": "080-107-031B",
+      "smp_anterior": "080-107-030",
+      "smp_siguiente": "080-107-032",
+      "srid": 4326,
+      "superficie_cubierta": "185.00",
+      "superficie_total": "346.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4469,
+      "cod_calle": 16016
+    },
+    "usig_direccion_elegida": {
+      "altura": 4469,
+      "cod_calle": 16016,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.471832",
+        "y": "-34.678407"
+      },
+      "direccion": "OLIDEN 4469, CABA",
+      "nombre_calle": "OLIDEN",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4469,
+          "cod_calle": 16016,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.471832",
+            "y": "-34.678407"
+          },
+          "direccion": "OLIDEN 4469, CABA",
+          "nombre_calle": "OLIDEN",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 4469,
+          "cod_calle": 6830,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4375010540816,
+            "y": -34.6984850744898
+          },
+          "direccion": "Gobernador Oliden 4469, Lanús",
+          "nombre_calle": "Gobernador Oliden",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lanús Oeste",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99210.8379840323,
+                  94549.15104987714
+                ],
+                [
+                  99212.58498402513,
+                  94547.5150498802
+                ],
+                [
+                  99214.04398401984,
+                  94546.14704988325
+                ],
+                [
+                  99218.18598400534,
+                  94542.26704989161
+                ],
+                [
+                  99216.82998400816,
+                  94540.73604989516
+                ],
+                [
+                  99211.71098401844,
+                  94534.96104991599
+                ],
+                [
+                  99209.39098402226,
+                  94532.34304992514
+                ],
+                [
+                  99209.14098402343,
+                  94532.06004992677
+                ],
+                [
+                  99206.88698402772,
+                  94529.51704993729
+                ],
+                [
+                  99203.53998403423,
+                  94525.74004994953
+                ],
+                [
+                  99201.3419840384,
+                  94523.26004995735
+                ],
+                [
+                  99198.97998404376,
+                  94520.59504996685
+                ],
+                [
+                  99198.64798404361,
+                  94520.2200499684
+                ],
+                [
+                  99195.1919840502,
+                  94516.32004998134
+                ],
+                [
+                  99190.68498406632,
+                  94520.51604997167
+                ],
+                [
+                  99187.87998407625,
+                  94523.12704996759
+                ],
+                [
+                  99188.8999840751,
+                  94524.28404996451
+                ],
+                [
+                  99190.33598407188,
+                  94525.91104995745
+                ],
+                [
+                  99191.70698406955,
+                  94527.46504995108
+                ],
+                [
+                  99196.39898405963,
+                  94532.78404993408
+                ],
+                [
+                  99198.85898405554,
+                  94535.57204992461
+                ],
+                [
+                  99199.26898405422,
+                  94536.03704992172
+                ],
+                [
+                  99200.74498405175,
+                  94537.71004991751
+                ],
+                [
+                  99201.51798404925,
+                  94538.58704991498
+                ],
+                [
+                  99201.93598404828,
+                  94539.06004991129
+                ],
+                [
+                  99203.18798404683,
+                  94540.4800499083
+                ],
+                [
+                  99204.5109840436,
+                  94541.97904990235
+                ],
+                [
+                  99206.93898403879,
+                  94544.73204989232
+                ],
+                [
+                  99208.05798403706,
+                  94545.9990498877
+                ],
+                [
+                  99209.514984034,
+                  94547.65204988234
+                ],
+                [
+                  99210.1759840328,
+                  94548.40104987958
+                ],
+                [
+                  99210.8379840323,
+                  94549.15104987714
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "080-107-031B",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "OLIDEN 4469",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.47199593836931,
+      -34.678551417440914
+    ],
+    "direccion": "",
+    "fondo": "34.60",
+    "frente": "10.00",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "107",
+    "parcela": "031B",
+    "pdamatriz": "66545",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "080",
+    "smp": "080-107-031B",
+    "smp_anterior": "080-107-030",
+    "smp_siguiente": "080-107-032",
+    "srid": 4326,
+    "superficie_cubierta": "185.00",
+    "superficie_total": "346.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "080-107-031B",
+  "_http_status": 200
+}

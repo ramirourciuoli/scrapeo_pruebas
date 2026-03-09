@@ -1,0 +1,140 @@
+from flask import Flask, jsonify, request, send_from_directory
+import requests
+
+# ✅ IMPORTS LOCALES
+import api_datos_catastrales as adc
+from api_datos_utiles import consultar_datos_utiles
+import api_n_geograficos as pg
+import api_buscador_caba as abc
+from ciudad3d.servicio_ciudad3d import obtener_prefactibilidad
+
+app = Flask(__name__)
+
+
+# =========================
+# HOME
+# =========================
+@app.get("/")
+def home():
+    return send_from_directory(".", "index.html")
+
+
+@app.get("/health")
+def health():
+    return jsonify({"ok": True})
+
+
+# =========================
+# AUTOCOMPLETE
+# =========================
+@app.get("/autocomplete/calles")
+def autocomplete_calles():
+    q = (request.args.get("q") or "").strip()
+    limit = int(request.args.get("limit") or 12)
+
+    try:
+        data = abc.sugerir_calles_caba(q, limit=limit)
+        return jsonify(data)
+    except Exception as e:
+        return jsonify({
+            "query": q,
+            "sugerencias": [],
+            "error": str(e)
+        }), 500
+
+
+# =========================
+# API CATASTRO + CIUDAD3D
+# =========================
+@app.post("/api/catastro")
+def api_catastro():
+    payload = request.get_json(force=True, silent=True) or {}
+    address = (payload.get("direccion") or "").strip()
+
+    if not address:
+        return jsonify({
+            "ok": False,
+            "error": "Falta 'direccion'"
+        }), 400
+
+    dbg = {"address": address}
+
+    try:
+        # 1️⃣ Resolver SMP
+        smp, resolver_dbg = adc.resolve_smp_from_address(address)
+
+        if isinstance(resolver_dbg, dict):
+            dbg.update(resolver_dbg)
+
+        if not smp:
+            return jsonify({
+                "ok": False,
+                "error": "No se encontró parcela para esa altura.",
+                "debug": dbg
+            }), 404
+
+        # 2️⃣ Datos de parcela
+        parcela = adc.catastro_parcela_by_smp(smp)
+        geometria = adc.catastro_geometria_by_smp(smp)
+
+        # 3️⃣ Área
+        try:
+            area_m2 = adc.geojson_area_m2(geometria)
+        except Exception as e:
+            area_m2 = 0
+            dbg["area_error"] = str(e)
+
+        # 4️⃣ Centroide
+        cx, cy = adc.geojson_centroid_xy(geometria)
+        centroide_xy = {"x": cx, "y": cy}
+
+        lon, lat = pg.gkba_a_lonlat(float(cx), float(cy))
+        centroide_lonlat = {"lon": lon, "lat": lat}
+
+        # 5️⃣ Datos útiles
+        datos_utiles = None
+        try:
+            d = (dbg.get("usig_direccion_elegida") or {})
+            calle = d.get("nombre_calle")
+            altura = d.get("altura")
+
+            if calle and altura:
+                datos_utiles = consultar_datos_utiles(str(calle), int(altura))
+        except Exception as e:
+            dbg["datos_utiles_error"] = str(e)
+
+        # 6️⃣ Ciudad3D (CORREGIDO)
+        ciudad3d_data = None
+        try:
+            ciudad3d_data = obtener_prefactibilidad(smp)
+        except Exception as e:
+            dbg["ciudad3d_error"] = str(e)
+
+        # RESPUESTA FINAL
+        return jsonify({
+            "ok": True,
+            "input": address,
+            "smp": smp,
+            "parcela": parcela,
+            "geometria": geometria,
+            "area_m2": area_m2,
+            "centroide_xy": centroide_xy,
+            "centroide_lonlat": centroide_lonlat,
+            "datos_utiles": datos_utiles,
+            "ciudad3d": ciudad3d_data,
+            "debug": dbg
+        })
+
+    except Exception as e:
+        return jsonify({
+            "ok": False,
+            "error": str(e),
+            "debug": dbg
+        }), 500
+
+
+# =========================
+# RUN
+# =========================
+if __name__ == "__main__":
+    app.run(host="127.0.0.1", port=8000, debug=True)

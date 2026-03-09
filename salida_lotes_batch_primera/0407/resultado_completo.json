@@ -1,0 +1,379 @@
+{
+  "area_m2": 152.95737075805664,
+  "centroide_lonlat": {
+    "lat": -34.545689,
+    "lon": -58.483307
+  },
+  "centroide_xy": {
+    "x": 98163.48933136248,
+    "y": 109271.81713335827
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.0,
+          "fot_perim_libre": 1.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/4/17/043-064-027_0000229417.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION043/043-064-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION043/PI-043-064-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "043-064-024",
+            "043-064-025",
+            "043-064-026",
+            "043-064-028"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R1b I",
+          "incidencia_uva": 220.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 7267.61
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 152.937849999957,
+        "sup_max_edificable": 725.0,
+        "superficie_parcela": 153.0,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "043-064-027"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Saavedra",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1430",
+    "codigo_postal_argentino": "C1430FIL",
+    "comisaria": "35",
+    "comisaria_vecinal": "12A",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   X",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "43"
+  },
+  "debug": {
+    "address": "CONDE 4618",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.48330692832644,
+        -34.54568893775772
+      ],
+      "direccion": "",
+      "fondo": "17.32",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "064",
+      "parcela": "027",
+      "pdamatriz": "334395",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "043",
+      "smp": "043-064-027",
+      "smp_anterior": "043-064-026",
+      "smp_siguiente": "043-064-028",
+      "srid": 4326,
+      "superficie_cubierta": "220.00",
+      "superficie_total": "150.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4618,
+      "cod_calle": 3153
+    },
+    "usig_direccion_elegida": {
+      "altura": 4618,
+      "cod_calle": 3153,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.483203",
+        "y": "-34.545634"
+      },
+      "direccion": "CONDE 4618, CABA",
+      "nombre_calle": "CONDE",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4618,
+          "cod_calle": 3153,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.483203",
+            "y": "-34.545634"
+          },
+          "direccion": "CONDE 4618, CABA",
+          "nombre_calle": "CONDE",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 4618,
+          "cod_calle": 209794,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6391991081633,
+            "y": -34.7686076020408
+          },
+          "direccion": "Coronel Conde 4618, La Matanza",
+          "nombre_calle": "Coronel Conde",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "González Catán",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98164.40399804442,
+                  109267.1410093903
+                ],
+                [
+                  98164.28599804491,
+                  109267.06100939054
+                ],
+                [
+                  98161.96699805012,
+                  109265.49500939704
+                ],
+                [
+                  98160.96099805238,
+                  109264.81500939996
+                ],
+                [
+                  98160.59999805268,
+                  109264.571009401
+                ],
+                [
+                  98158.66599805772,
+                  109263.26500940532
+                ],
+                [
+                  98156.19499806766,
+                  109267.13300939705
+                ],
+                [
+                  98155.8989980687,
+                  109267.59700939569
+                ],
+                [
+                  98153.85299807678,
+                  109270.79900938776
+                ],
+                [
+                  98155.56599807234,
+                  109271.90700938343
+                ],
+                [
+                  98155.79199807254,
+                  109272.05300938347
+                ],
+                [
+                  98156.40699807042,
+                  109272.4500093818
+                ],
+                [
+                  98157.21399806856,
+                  109272.97200937956
+                ],
+                [
+                  98158.390998066,
+                  109273.7330093765
+                ],
+                [
+                  98160.63999806061,
+                  109275.18800937079
+                ],
+                [
+                  98164.1879980528,
+                  109277.4820093615
+                ],
+                [
+                  98166.02099804817,
+                  109278.66800935651
+                ],
+                [
+                  98168.53999804266,
+                  109280.29700935073
+                ],
+                [
+                  98171.61499803053,
+                  109275.42300936222
+                ],
+                [
+                  98173.10799802441,
+                  109273.05600936717
+                ],
+                [
+                  98172.2809980267,
+                  109272.49400936949
+                ],
+                [
+                  98172.00099802707,
+                  109272.3030093706
+                ],
+                [
+                  98166.69299803901,
+                  109268.69100938406
+                ],
+                [
+                  98165.76199804133,
+                  109268.05800938708
+                ],
+                [
+                  98164.40399804442,
+                  109267.1410093903
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "043-064-027",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CONDE 4618",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.48330692832644,
+      -34.54568893775772
+    ],
+    "direccion": "",
+    "fondo": "17.32",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "064",
+    "parcela": "027",
+    "pdamatriz": "334395",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "043",
+    "smp": "043-064-027",
+    "smp_anterior": "043-064-026",
+    "smp_siguiente": "043-064-028",
+    "srid": 4326,
+    "superficie_cubierta": "220.00",
+    "superficie_total": "150.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "043-064-027",
+  "_http_status": 200
+}

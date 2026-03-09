@@ -1,0 +1,397 @@
+{
+  "area_m2": 230.3578815460205,
+  "centroide_lonlat": {
+    "lat": -34.586649,
+    "lon": -58.487731
+  },
+  "centroide_xy": {
+    "x": 97758.46958323511,
+    "y": 104727.83391446482
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/42/061-143-004_0000104542.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION061/061-143-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION061/PI-061-143-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "061-143-005",
+            "061-143-046a",
+            "061-143-003a",
+            "061-143-043a"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 140.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 1,
+        "subzona": "",
+        "sup_edificable_planta": 230.363099999652,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 230.4,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "061-143-004"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. A. ZUBIZARRETA",
+    "barrio": "Agronomia",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1419",
+    "codigo_postal_argentino": "C1419HFB",
+    "comisaria": "47",
+    "comisaria_vecinal": "15C",
+    "comuna": "Comuna 15",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "61"
+  },
+  "debug": {
+    "address": "ASUNCION 2126",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.48773119359339,
+        -34.58664885216938
+      ],
+      "direccion": "",
+      "fondo": "26.91",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "143",
+      "parcela": "004",
+      "pdamatriz": "298507",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "061",
+      "smp": "061-143-004",
+      "smp_anterior": "061-143-003A",
+      "smp_siguiente": "061-143-005",
+      "srid": 4326,
+      "superficie_cubierta": "148.00",
+      "superficie_total": "233.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2126,
+      "cod_calle": 1131
+    },
+    "usig_direccion_elegida": {
+      "altura": 2126,
+      "cod_calle": 1131,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.487848",
+        "y": "-34.586519"
+      },
+      "direccion": "ASUNCION 2126, CABA",
+      "nombre_calle": "ASUNCION",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2126,
+          "cod_calle": 1131,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.487848",
+            "y": "-34.586519"
+          },
+          "direccion": "ASUNCION 2126, CABA",
+          "nombre_calle": "ASUNCION",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2126,
+          "cod_calle": 48513,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_isidro",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5198198795919,
+            "y": -34.4997618428572
+          },
+          "direccion": "Asunción 2126, San Isidro",
+          "nombre_calle": "Asunción",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Martínez",
+          "nombre_partido": "San Isidro",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2126,
+          "cod_calle": 267882,
+          "cod_calle_cruce": null,
+          "cod_partido": "tigre",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6206553949665,
+            "y": -34.4953415436242
+          },
+          "direccion": "Asunción 2126, Tigre",
+          "nombre_calle": "Asunción",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Don Torcuato",
+          "nombre_partido": "Tigre",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2126,
+          "cod_calle": 8955,
+          "cod_calle_cruce": null,
+          "cod_partido": "tres_de_febrero",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5328034265306,
+            "y": -34.6149301285714
+          },
+          "direccion": "277 - Asunción 2126, Tres de Febrero",
+          "nombre_calle": "277 - Asunción",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "José Ingenieros",
+          "nombre_partido": "Tres de Febrero",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97746.97899580462,
+                  104736.00002241167
+                ],
+                [
+                  97752.79799579171,
+                  104740.35702239492
+                ],
+                [
+                  97753.84299578928,
+                  104741.13902239254
+                ],
+                [
+                  97756.01199578082,
+                  104738.27502239886
+                ],
+                [
+                  97756.37399577917,
+                  104737.79702239978
+                ],
+                [
+                  97761.5089957594,
+                  104730.94102241454
+                ],
+                [
+                  97764.48099574816,
+                  104726.9740224242
+                ],
+                [
+                  97766.00399574239,
+                  104724.94102242796
+                ],
+                [
+                  97766.70399574177,
+                  104724.00702243068
+                ],
+                [
+                  97767.44599573762,
+                  104723.01602243434
+                ],
+                [
+                  97769.89599572754,
+                  104719.74602244026
+                ],
+                [
+                  97765.9009088178,
+                  104716.58245169141
+                ],
+                [
+                  97763.18399574302,
+                  104714.43102246078
+                ],
+                [
+                  97761.63299574987,
+                  104716.49502245637
+                ],
+                [
+                  97760.59899575383,
+                  104717.87202245268
+                ],
+                [
+                  97758.99899575845,
+                  104720.00102244763
+                ],
+                [
+                  97757.7989957628,
+                  104721.59902244428
+                ],
+                [
+                  97757.1979957653,
+                  104722.39902244232
+                ],
+                [
+                  97754.4689957754,
+                  104726.03102243444
+                ],
+                [
+                  97749.54499579451,
+                  104732.58502241925
+                ],
+                [
+                  97746.97899580462,
+                  104736.00002241167
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "061-143-004",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ASUNCION 2126",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.48773119359339,
+      -34.58664885216938
+    ],
+    "direccion": "",
+    "fondo": "26.91",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "143",
+    "parcela": "004",
+    "pdamatriz": "298507",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "061",
+    "smp": "061-143-004",
+    "smp_anterior": "061-143-003A",
+    "smp_siguiente": "061-143-005",
+    "srid": 4326,
+    "superficie_cubierta": "148.00",
+    "superficie_total": "233.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "061-143-004",
+  "_http_status": 200
+}

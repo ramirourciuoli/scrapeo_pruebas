@@ -1,0 +1,374 @@
+{
+  "area_m2": 111.8441514968872,
+  "centroide_lonlat": {
+    "lat": -34.551698,
+    "lon": -58.483562
+  },
+  "centroide_xy": {
+    "x": 98140.16587844084,
+    "y": 108605.17981091727
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 1,
+          "ensanche": 1,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/8/22/043-020-011_0000233822.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION043/043-020-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION043/PI-043-020-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "043-020-009",
+            "043-020-012",
+            "043-020-010"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 300.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 111.846900000052,
+        "sup_max_edificable": 915.8,
+        "superficie_parcela": 111.8,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "043-020-011"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Saavedra",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1430",
+    "codigo_postal_argentino": "C1430EVE",
+    "comisaria": "49",
+    "comisaria_vecinal": "12A",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   X",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "43"
+  },
+  "debug": {
+    "address": "WASHINGTON 4087",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.483562481572925,
+        -34.55169817522444
+      ],
+      "direccion": "",
+      "fondo": "12.90",
+      "frente": "8.45",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "020",
+      "parcela": "011",
+      "pdamatriz": "332400",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "043",
+      "smp": "043-020-011",
+      "smp_anterior": "043-020-010",
+      "smp_siguiente": "043-020-012",
+      "srid": 4326,
+      "superficie_cubierta": "151.00",
+      "superficie_total": "109.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4087,
+      "cod_calle": 24003
+    },
+    "usig_direccion_elegida": {
+      "altura": 4087,
+      "cod_calle": 24003,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.483647",
+        "y": "-34.551742"
+      },
+      "direccion": "WASHINGTON 4087, CABA",
+      "nombre_calle": "WASHINGTON",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4087,
+          "cod_calle": 24003,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.483647",
+            "y": "-34.551742"
+          },
+          "direccion": "WASHINGTON 4087, CABA",
+          "nombre_calle": "WASHINGTON",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 4087,
+          "cod_calle": 55303,
+          "cod_calle_cruce": null,
+          "cod_partido": "vicente_lopez",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5423006316326,
+            "y": -34.5205797438776
+          },
+          "direccion": "Washington 4087, Vicente López",
+          "nombre_calle": "Washington",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Adelina",
+          "nombre_partido": "Vicente López",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98141.2659976151,
+                  108610.92601124811
+                ],
+                [
+                  98143.42799761056,
+                  108612.28401124271
+                ],
+                [
+                  98145.46399760178,
+                  108609.03701124983
+                ],
+                [
+                  98145.99599760023,
+                  108608.18901125251
+                ],
+                [
+                  98146.15299759927,
+                  108607.93801125293
+                ],
+                [
+                  98147.95999759206,
+                  108605.0570112596
+                ],
+                [
+                  98145.96399759642,
+                  108603.78901126451
+                ],
+                [
+                  98142.67699760455,
+                  108601.70101127331
+                ],
+                [
+                  98141.34299760782,
+                  108600.85301127646
+                ],
+                [
+                  98141.02699760799,
+                  108600.65201127692
+                ],
+                [
+                  98139.65399761153,
+                  108599.78001128085
+                ],
+                [
+                  98138.80999761299,
+                  108599.24401128272
+                ],
+                [
+                  98138.47299761439,
+                  108599.03001128387
+                ],
+                [
+                  98136.94299761769,
+                  108598.05801128768
+                ],
+                [
+                  98134.63299762737,
+                  108601.72801127905
+                ],
+                [
+                  98133.88799763023,
+                  108602.91301127593
+                ],
+                [
+                  98132.36299763594,
+                  108605.33601127064
+                ],
+                [
+                  98133.86899763248,
+                  108606.28201126639
+                ],
+                [
+                  98134.27099763133,
+                  108606.53401126573
+                ],
+                [
+                  98134.54599763105,
+                  108606.70701126545
+                ],
+                [
+                  98135.05399762932,
+                  108607.02601126337
+                ],
+                [
+                  98136.44699762622,
+                  108607.90001126064
+                ],
+                [
+                  98136.74799762553,
+                  108608.0890112592
+                ],
+                [
+                  98141.2659976151,
+                  108610.92601124811
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "043-020-011",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "WASHINGTON 4087",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.483562481572925,
+      -34.55169817522444
+    ],
+    "direccion": "",
+    "fondo": "12.90",
+    "frente": "8.45",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "020",
+    "parcela": "011",
+    "pdamatriz": "332400",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "043",
+    "smp": "043-020-011",
+    "smp_anterior": "043-020-010",
+    "smp_siguiente": "043-020-012",
+    "srid": 4326,
+    "superficie_cubierta": "151.00",
+    "superficie_total": "109.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "043-020-011",
+  "_http_status": 200
+}

@@ -1,0 +1,348 @@
+{
+  "area_m2": 99.1971321105957,
+  "centroide_lonlat": {
+    "lat": -34.590719,
+    "lon": -58.489514
+  },
+  "centroide_xy": {
+    "x": 97595.0567889224,
+    "y": 104276.28777132803
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/66/071-104-009b_0000111666.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION071/071-104-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION071/PI-071-104-V1.pdf"
+        },
+        "lr": 1,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "071-104-010",
+            "071-104-009a"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 170.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 99.2144000000463,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 99.2,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "071-104-009B"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. A. ZUBIZARRETA",
+    "barrio": "Agronomia",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1419",
+    "codigo_postal_argentino": "C1419EFD",
+    "comisaria": "47",
+    "comisaria_vecinal": "15C",
+    "comuna": "Comuna 15",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "71"
+  },
+  "debug": {
+    "address": "ZAMUDIO 3608",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.489513554586956,
+        -34.59071882090826
+      ],
+      "direccion": "",
+      "fondo": "11.43",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "104",
+      "parcela": "009B",
+      "pdamatriz": "298073",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "071",
+      "smp": "071-104-009B",
+      "smp_anterior": "071-104-009A",
+      "smp_siguiente": "071-104-010",
+      "srid": 4326,
+      "superficie_cubierta": "216.00",
+      "superficie_total": "99.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3608,
+      "cod_calle": 27004
+    },
+    "usig_direccion_elegida": {
+      "altura": 3608,
+      "cod_calle": 27004,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.489433",
+        "y": "-34.590671"
+      },
+      "direccion": "ZAMUDIO 3608, CABA",
+      "nombre_calle": "ZAMUDIO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3608,
+          "cod_calle": 27004,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.489433",
+            "y": "-34.590671"
+          },
+          "direccion": "ZAMUDIO 3608, CABA",
+          "nombre_calle": "ZAMUDIO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97588.28599590535,
+                  104278.51202381423
+                ],
+                [
+                  97590.31899590054,
+                  104279.96902380805
+                ],
+                [
+                  97591.38099589806,
+                  104280.73002380601
+                ],
+                [
+                  97591.47599589755,
+                  104280.79802380569
+                ],
+                [
+                  97591.63899589784,
+                  104280.91502380488
+                ],
+                [
+                  97591.90999589696,
+                  104281.10902380425
+                ],
+                [
+                  97592.55999589496,
+                  104281.57502380246
+                ],
+                [
+                  97595.09499588933,
+                  104283.39102379506
+                ],
+                [
+                  97595.41999588878,
+                  104283.62402379425
+                ],
+                [
+                  97595.71799588806,
+                  104283.2190237949
+                ],
+                [
+                  97597.25999588158,
+                  104281.12502380004
+                ],
+                [
+                  97599.97299587168,
+                  104277.44202380814
+                ],
+                [
+                  97600.20999587051,
+                  104277.12002380908
+                ],
+                [
+                  97599.34999586815,
+                  104271.24002382637
+                ],
+                [
+                  97595.73199587646,
+                  104268.53902383635
+                ],
+                [
+                  97593.0909958867,
+                  104272.07602382888
+                ],
+                [
+                  97592.33499588951,
+                  104273.08802382671
+                ],
+                [
+                  97590.87699589545,
+                  104275.041023822
+                ],
+                [
+                  97590.54099589662,
+                  104275.49102382126
+                ],
+                [
+                  97590.33899589689,
+                  104275.7620238204
+                ],
+                [
+                  97589.46499590037,
+                  104276.93302381781
+                ],
+                [
+                  97588.28599590535,
+                  104278.51202381423
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "071-104-009B",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ZAMUDIO 3608",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.489513554586956,
+      -34.59071882090826
+    ],
+    "direccion": "",
+    "fondo": "11.43",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "104",
+    "parcela": "009B",
+    "pdamatriz": "298073",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "071",
+    "smp": "071-104-009B",
+    "smp_anterior": "071-104-009A",
+    "smp_siguiente": "071-104-010",
+    "srid": 4326,
+    "superficie_cubierta": "216.00",
+    "superficie_total": "99.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "071-104-009B",
+  "_http_status": 200
+}

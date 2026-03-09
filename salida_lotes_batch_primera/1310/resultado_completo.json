@@ -1,0 +1,350 @@
+{
+  "area_m2": 245.8852415084839,
+  "centroide_lonlat": {
+    "lat": -34.560933,
+    "lon": -58.482713
+  },
+  "centroide_xy": {
+    "x": 98218.3648770938,
+    "y": 107580.71894434563
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/9/43/053-108-031_0000243943.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION053/053-108-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION053/PI-053-108-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "053-108-032",
+            "053-108-030",
+            "053-108-003",
+            "053-108-004"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 240.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 152.762472275797,
+        "sup_max_edificable": 1199.7,
+        "superficie_parcela": 245.9,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "053-108-031"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Villa Urquiza",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1430",
+    "codigo_postal_argentino": "C1430DIF",
+    "comisaria": "49",
+    "comisaria_vecinal": "12C",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "53"
+  },
+  "debug": {
+    "address": "PLAZA 3384",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.48271266334469,
+        -34.56093309763131
+      ],
+      "direccion": "",
+      "fondo": "27.71",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "108",
+      "parcela": "031",
+      "pdamatriz": "348501",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "053",
+      "smp": "053-108-031",
+      "smp_anterior": "053-108-030",
+      "smp_siguiente": "053-108-032",
+      "srid": 4326,
+      "superficie_cubierta": "203.00",
+      "superficie_total": "240.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3384,
+      "cod_calle": 17099
+    },
+    "usig_direccion_elegida": {
+      "altura": 3384,
+      "cod_calle": 17099,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.482564",
+        "y": "-34.560862"
+      },
+      "direccion": "PLAZA 3384, CABA",
+      "nombre_calle": "PLAZA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3384,
+          "cod_calle": 17099,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.482564",
+            "y": "-34.560862"
+          },
+          "direccion": "PLAZA 3384, CABA",
+          "nombre_calle": "PLAZA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3384,
+          "cod_calle": 9984,
+          "cod_calle_cruce": null,
+          "cod_partido": "tres_de_febrero",
+          "direccion": "231 - Teodoro Plaza 3384, Tres de Febrero",
+          "nombre_calle": "231 - Teodoro Plaza",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ciudadela",
+          "nombre_partido": "Tres de Febrero",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98204.39199666059,
+                  107577.05101410148
+                ],
+                [
+                  98207.88299665289,
+                  107579.27301409136
+                ],
+                [
+                  98211.7019966426,
+                  107581.70401408192
+                ],
+                [
+                  98215.10599663468,
+                  107583.87101407215
+                ],
+                [
+                  98227.91499660579,
+                  107592.02501403971
+                ],
+                [
+                  98232.33699658769,
+                  107584.38701405842
+                ],
+                [
+                  98228.6829965963,
+                  107582.06101406872
+                ],
+                [
+                  98228.04099659785,
+                  107581.65201406745
+                ],
+                [
+                  98227.78499659825,
+                  107581.48901407028
+                ],
+                [
+                  98220.8619966136,
+                  107577.08201408765
+                ],
+                [
+                  98215.594996626,
+                  107573.72801410005
+                ],
+                [
+                  98214.42399662867,
+                  107572.98301410387
+                ],
+                [
+                  98212.49699663385,
+                  107571.75701410882
+                ],
+                [
+                  98209.49099664076,
+                  107569.84301411727
+                ],
+                [
+                  98208.81599664205,
+                  107569.41301411661
+                ],
+                [
+                  98207.29099664865,
+                  107572.04601411129
+                ],
+                [
+                  98206.40699665158,
+                  107573.57301410945
+                ],
+                [
+                  98205.1819966565,
+                  107575.6870141029
+                ],
+                [
+                  98204.39199666059,
+                  107577.05101410148
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "053-108-031",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "PLAZA 3384",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.48271266334469,
+      -34.56093309763131
+    ],
+    "direccion": "",
+    "fondo": "27.71",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "108",
+    "parcela": "031",
+    "pdamatriz": "348501",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "053",
+    "smp": "053-108-031",
+    "smp_anterior": "053-108-030",
+    "smp_siguiente": "053-108-032",
+    "srid": 4326,
+    "superficie_cubierta": "203.00",
+    "superficie_total": "240.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "053-108-031",
+  "_http_status": 200
+}

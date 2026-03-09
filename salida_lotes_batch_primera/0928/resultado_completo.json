@@ -1,0 +1,366 @@
+{
+  "area_m2": 137.39019680023193,
+  "centroide_lonlat": {
+    "lat": -34.559248,
+    "lon": -58.464821
+  },
+  "centroide_xy": {
+    "x": 99860.37801414084,
+    "y": 107767.87667948923
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 1,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 2.77,
+          "fot_perim_libre": 2.77,
+          "fot_semi_libre": 2.77
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/64/041-109-029_0000451664.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION041/041-109-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION041/PI-041-109-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "041-109-028",
+            "041-109-003",
+            "041-109-030"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2a II",
+          "incidencia_uva": 460.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 125.997392603206,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 137.4,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "041-109-029"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Belgrano",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1428",
+    "codigo_postal_argentino": "C1428CSR",
+    "comisaria": "33",
+    "comisaria_vecinal": "13C",
+    "comuna": "Comuna 13",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   X",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "41"
+  },
+  "debug": {
+    "address": "VIDAL 2680",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.46482129674501,
+        -34.559247546353156
+      ],
+      "direccion": "",
+      "fondo": "17.41",
+      "frente": "8.04",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "109",
+      "parcela": "029",
+      "pdamatriz": "327538",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "5",
+      "propiedad_horizontal": "Si",
+      "seccion": "041",
+      "smp": "041-109-029",
+      "smp_anterior": "041-109-028",
+      "smp_siguiente": "041-109-030",
+      "srid": 4326,
+      "superficie_cubierta": "814.00",
+      "superficie_total": "140.00",
+      "unidades_funcionales": "8",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2680,
+      "cod_calle": 23049
+    },
+    "usig_direccion_elegida": {
+      "altura": 2680,
+      "cod_calle": 23049,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.464721",
+        "y": "-34.559188"
+      },
+      "direccion": "VIDAL 2680, CABA",
+      "nombre_calle": "VIDAL",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2680,
+          "cod_calle": 23049,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.464721",
+            "y": "-34.559188"
+          },
+          "direccion": "VIDAL 2680, CABA",
+          "nombre_calle": "VIDAL",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2680,
+          "cod_calle": 9831,
+          "cod_calle_cruce": null,
+          "cod_partido": "general_san_martin",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.534342077551,
+            "y": -34.5661605632653
+          },
+          "direccion": "62 - Profesor A. Vidal 2680, General San Martín",
+          "nombre_calle": "62 - Profesor A. Vidal",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Andrés",
+          "nombre_partido": "General San Martín",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99868.25109077094,
+                  107768.5761231503
+                ],
+                [
+                  99867.84979213902,
+                  107768.29561231146
+                ],
+                [
+                  99866.22466255291,
+                  107767.15974131989
+                ],
+                [
+                  99864.83867622797,
+                  107766.19190685102
+                ],
+                [
+                  99861.29149606024,
+                  107763.71229260278
+                ],
+                [
+                  99858.99608590922,
+                  107762.10853284341
+                ],
+                [
+                  99856.40190866904,
+                  107760.29511732314
+                ],
+                [
+                  99855.5051191203,
+                  107759.66810316543
+                ],
+                [
+                  99853.09209422731,
+                  107763.10072034504
+                ],
+                [
+                  99850.96031933326,
+                  107766.16230481077
+                ],
+                [
+                  99853.48827342903,
+                  107767.90833751883
+                ],
+                [
+                  99854.54051952038,
+                  107768.6350831214
+                ],
+                [
+                  99856.9974676577,
+                  107770.33194650634
+                ],
+                [
+                  99858.85507263392,
+                  107771.61514962633
+                ],
+                [
+                  99859.22130564248,
+                  107771.86793222991
+                ],
+                [
+                  99861.01866891963,
+                  107773.10896005717
+                ],
+                [
+                  99861.32488229785,
+                  107773.32050790786
+                ],
+                [
+                  99864.29106881452,
+                  107775.36909188429
+                ],
+                [
+                  99865.27709176147,
+                  107776.05012215505
+                ],
+                [
+                  99869.8261029744,
+                  107769.67713632964
+                ],
+                [
+                  99868.78166938302,
+                  107768.94709482862
+                ],
+                [
+                  99868.25109077094,
+                  107768.5761231503
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "041-109-029",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "VIDAL 2680",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.46482129674501,
+      -34.559247546353156
+    ],
+    "direccion": "",
+    "fondo": "17.41",
+    "frente": "8.04",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "109",
+    "parcela": "029",
+    "pdamatriz": "327538",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "5",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "041",
+    "smp": "041-109-029",
+    "smp_anterior": "041-109-028",
+    "smp_siguiente": "041-109-030",
+    "srid": 4326,
+    "superficie_cubierta": "814.00",
+    "superficie_total": "140.00",
+    "unidades_funcionales": "8",
+    "vuc": "0.00"
+  },
+  "smp": "041-109-029",
+  "_http_status": 200
+}

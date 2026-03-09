@@ -1,0 +1,457 @@
+{
+  "area_m2": 382.12059211730957,
+  "centroide_lonlat": {
+    "lat": -34.569398,
+    "lon": -58.466219
+  },
+  "centroide_xy": {
+    "x": 99732.16120615591,
+    "y": 106641.78394776607
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 11.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "U",
+            "distrito_especifico": "U 28"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.0,
+          "fot_perim_libre": 1.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/29/039-023-012_0000223029.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION039/039-023-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION039/PI-039-023-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "039-023-016",
+            "039-023-017",
+            "039-023-011",
+            "039-023-015",
+            "039-023-013"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "U28",
+          "incidencia_uva": 470.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 17497.39
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 132.958926552818,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 382.1,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "039-023-012"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Belgrano",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1430",
+    "codigo_postal_argentino": "C1430BTD",
+    "comisaria": "37",
+    "comisaria_vecinal": "13C",
+    "comuna": "Comuna 13",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   X",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "39"
+  },
+  "debug": {
+    "address": "ECHEVERRIA 3480",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.46621866478044,
+        -34.569398428061724
+      ],
+      "direccion": "",
+      "fondo": "38.30",
+      "frente": "10.00",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "023",
+      "parcela": "012",
+      "pdamatriz": "325303",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "039",
+      "smp": "039-023-012",
+      "smp_anterior": "039-023-011",
+      "smp_siguiente": "039-023-013",
+      "srid": 4326,
+      "superficie_cubierta": "447.00",
+      "superficie_total": "383.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3480,
+      "cod_calle": 5007
+    },
+    "usig_direccion_elegida": {
+      "altura": 3480,
+      "cod_calle": 5007,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.466365",
+        "y": "-34.569226"
+      },
+      "direccion": "ECHEVERRIA 3480, CABA",
+      "nombre_calle": "ECHEVERRIA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3480,
+          "cod_calle": 5007,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.466365",
+            "y": "-34.569226"
+          },
+          "direccion": "ECHEVERRIA 3480, CABA",
+          "nombre_calle": "ECHEVERRIA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3480,
+          "cod_calle": 92782,
+          "cod_calle_cruce": null,
+          "cod_partido": "esteban_echeverria",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4871136234694,
+            "y": -34.7835147469388
+          },
+          "direccion": "Esteban Echeverría 3480, Esteban Echeverría",
+          "nombre_calle": "Esteban Echeverría",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Monte Grande",
+          "nombre_partido": "Esteban Echeverría",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3480,
+          "cod_calle": 213166,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "direccion": "Esteban Echeverría 3480, La Matanza",
+          "nombre_calle": "Esteban Echeverría",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Gregorio de Laferrere",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3480,
+          "cod_calle": 198649,
+          "cod_calle_cruce": null,
+          "cod_partido": "vicente_lopez",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5190627099329,
+            "y": -34.5162820456534
+          },
+          "direccion": "Esteban Echeverría 3480, Vicente López",
+          "nombre_calle": "Esteban Echeverría",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Munro",
+          "nombre_partido": "Vicente López",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99747.37206193186,
+                  106629.02009616364
+                ],
+                [
+                  99740.89006731767,
+                  106624.37013280267
+                ],
+                [
+                  99739.34999163717,
+                  106623.26501561908
+                ],
+                [
+                  99737.5389916444,
+                  106625.78601561405
+                ],
+                [
+                  99736.79099164759,
+                  106626.8270156109
+                ],
+                [
+                  99733.75799165946,
+                  106631.04801560217
+                ],
+                [
+                  99732.01499166543,
+                  106633.47301559654
+                ],
+                [
+                  99728.35499168035,
+                  106638.56701558459
+                ],
+                [
+                  99725.92099168932,
+                  106641.92901557672
+                ],
+                [
+                  99725.21999169166,
+                  106642.89701557488
+                ],
+                [
+                  99724.3439916949,
+                  106644.10801557227
+                ],
+                [
+                  99722.99599170077,
+                  106645.97001556776
+                ],
+                [
+                  99720.31199171071,
+                  106649.67801555994
+                ],
+                [
+                  99719.71499171294,
+                  106650.50301555736
+                ],
+                [
+                  99718.98399171607,
+                  106651.5130155558
+                ],
+                [
+                  99716.93399172416,
+                  106654.34501554887
+                ],
+                [
+                  99720.62299171514,
+                  106657.00201553924
+                ],
+                [
+                  99725.128991705,
+                  106660.24701552684
+                ],
+                [
+                  99726.261991701,
+                  106658.65701552966
+                ],
+                [
+                  99727.3279916965,
+                  106657.16001553356
+                ],
+                [
+                  99727.89199169457,
+                  106656.368015535
+                ],
+                [
+                  99728.03499169418,
+                  106656.16701553599
+                ],
+                [
+                  99728.64099169151,
+                  106655.31601553719
+                ],
+                [
+                  99730.10599168573,
+                  106653.26001554204
+                ],
+                [
+                  99730.78699168295,
+                  106652.30401554398
+                ],
+                [
+                  99731.52399168079,
+                  106651.26901554706
+                ],
+                [
+                  99732.38299167764,
+                  106650.06401554972
+                ],
+                [
+                  99732.62099167661,
+                  106649.73001555065
+                ],
+                [
+                  99733.49799167259,
+                  106648.49901555286
+                ],
+                [
+                  99733.7419916716,
+                  106648.15601555427
+                ],
+                [
+                  99735.82799166371,
+                  106645.22701556043
+                ],
+                [
+                  99736.58799166148,
+                  106644.16001556301
+                ],
+                [
+                  99739.42199165035,
+                  106640.18101557175
+                ],
+                [
+                  99739.53399164962,
+                  106640.0240155725
+                ],
+                [
+                  99739.6269916496,
+                  106639.8940155729
+                ],
+                [
+                  99740.09899164786,
+                  106639.23101557375
+                ],
+                [
+                  99747.37206193186,
+                  106629.02009616364
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "039-023-012",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ECHEVERRIA 3480",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.46621866478044,
+      -34.569398428061724
+    ],
+    "direccion": "",
+    "fondo": "38.30",
+    "frente": "10.00",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "023",
+    "parcela": "012",
+    "pdamatriz": "325303",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "039",
+    "smp": "039-023-012",
+    "smp_anterior": "039-023-011",
+    "smp_siguiente": "039-023-013",
+    "srid": 4326,
+    "superficie_cubierta": "447.00",
+    "superficie_total": "383.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "039-023-012",
+  "_http_status": 200
+}

@@ -1,0 +1,337 @@
+{
+  "area_m2": 98.38628482818604,
+  "centroide_lonlat": {
+    "lat": -34.578317,
+    "lon": -58.448324
+  },
+  "centroide_xy": {
+    "x": 101374.1396282648,
+    "y": 105652.29945890405
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "U",
+            "distrito_especifico": "U 20"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.5,
+          "fot_perim_libre": 1.5,
+          "fot_semi_libre": 1.5
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/2/22/035-013-017_0000268222.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION035/035-013-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION035/PI-035-013-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "035-013-016",
+            "035-013-019",
+            "035-013-018"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "U20",
+          "incidencia_uva": 370.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "Zona 2A",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 98.4,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "035-013-017"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Colegiales",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1426",
+    "codigo_postal_argentino": "C1426CSJ",
+    "comisaria": "31",
+    "comisaria_vecinal": "13C",
+    "comuna": "Comuna 13",
+    "distrito_economico": "DISTRITO AUDIOVISUAL",
+    "distrito_escolar": "Distrito Escolar   IX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "35"
+  },
+  "debug": {
+    "address": "OLLEROS 3188",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.448324283369416,
+        -34.57831701538946
+      ],
+      "direccion": "",
+      "fondo": "12.67",
+      "frente": "7.50",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "013",
+      "parcela": "017",
+      "pdamatriz": "405992",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "035",
+      "smp": "035-013-017",
+      "smp_anterior": "035-013-016",
+      "smp_siguiente": "035-013-018",
+      "srid": 4326,
+      "superficie_cubierta": "127.00",
+      "superficie_total": "95.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3188,
+      "cod_calle": 16022
+    },
+    "usig_direccion_elegida": {
+      "altura": 3188,
+      "cod_calle": 16022,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.448420",
+        "y": "-34.578277"
+      },
+      "direccion": "OLLEROS 3188, CABA",
+      "nombre_calle": "OLLEROS",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3188,
+          "cod_calle": 16022,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.448420",
+            "y": "-34.578277"
+          },
+          "direccion": "OLLEROS 3188, CABA",
+          "nombre_calle": "OLLEROS",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  101366.70798634214,
+                  105651.69701711883
+                ],
+                [
+                  101369.9830796002,
+                  105658.57814209737
+                ],
+                [
+                  101371.21910254551,
+                  105657.96510498878
+                ],
+                [
+                  101373.92607275175,
+                  105656.6201342874
+                ],
+                [
+                  101376.10106053781,
+                  105655.54011719889
+                ],
+                [
+                  101378.32505955419,
+                  105654.43611329416
+                ],
+                [
+                  101378.68098631073,
+                  105654.25901710254
+                ],
+                [
+                  101379.71498630743,
+                  105653.7450171037
+                ],
+                [
+                  101381.89398630099,
+                  105652.6630171047
+                ],
+                [
+                  101380.27398630344,
+                  105650.01701711363
+                ],
+                [
+                  101379.95298630347,
+                  105649.49501711543
+                ],
+                [
+                  101379.40198630435,
+                  105648.595017118
+                ],
+                [
+                  101378.87798630497,
+                  105647.74001712128
+                ],
+                [
+                  101377.88798630727,
+                  105646.12501712632
+                ],
+                [
+                  101376.34198631207,
+                  105646.89501712489
+                ],
+                [
+                  101374.65798631706,
+                  105647.73401712443
+                ],
+                [
+                  101371.2559863281,
+                  105649.43001712178
+                ],
+                [
+                  101367.94298633856,
+                  105651.08101712016
+                ],
+                [
+                  101366.70798634214,
+                  105651.69701711883
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "035-013-017",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "OLLEROS 3188",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.448324283369416,
+      -34.57831701538946
+    ],
+    "direccion": "",
+    "fondo": "12.67",
+    "frente": "7.50",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "013",
+    "parcela": "017",
+    "pdamatriz": "405992",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "035",
+    "smp": "035-013-017",
+    "smp_anterior": "035-013-016",
+    "smp_siguiente": "035-013-018",
+    "srid": 4326,
+    "superficie_cubierta": "127.00",
+    "superficie_total": "95.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "035-013-017",
+  "_http_status": 200
+}

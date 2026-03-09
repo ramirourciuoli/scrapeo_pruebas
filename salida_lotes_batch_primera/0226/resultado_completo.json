@@ -1,0 +1,426 @@
+{
+  "area_m2": 436.6448059082031,
+  "centroide_lonlat": {
+    "lat": -34.648553,
+    "lon": -58.412511
+  },
+  "centroide_xy": {
+    "x": 104656.33402223808,
+    "y": 97859.48985265353
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "E-CCA",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.0,
+          "fot_perim_libre": 3.0,
+          "fot_semi_libre": 3.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/3/88/034-050B-022_0000322388.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION034/034-050B-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION034/PI-034-050B-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "034-050B-014",
+            "034-050B-023"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "E3",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 436.716249999977,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 436.6,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "034-050B-022"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.M. PENNA",
+    "barrio": "Nueva Pompeya",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1437",
+    "codigo_postal_argentino": "C1437DYI",
+    "comisaria": "32",
+    "comisaria_vecinal": "4A",
+    "comuna": "Comuna 4",
+    "distrito_economico": "DISTRITO TECNOLOGICO",
+    "distrito_escolar": "Distrito Escolar   V",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "34"
+  },
+  "debug": {
+    "address": "CACHI 457",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.41251135312351,
+        -34.648553336627046
+      ],
+      "direccion": "",
+      "fondo": "56.36",
+      "frente": "7.79",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "050B",
+      "parcela": "022",
+      "pdamatriz": "107273",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "3",
+      "propiedad_horizontal": "Si",
+      "seccion": "034",
+      "smp": "034-050B-022",
+      "smp_anterior": "034-050B-014",
+      "smp_siguiente": "034-050B-023",
+      "srid": 4326,
+      "superficie_cubierta": "686.00",
+      "superficie_total": "439.00",
+      "unidades_funcionales": "5",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 457,
+      "cod_calle": 3012
+    },
+    "usig_direccion_elegida": {
+      "altura": 457,
+      "cod_calle": 3012,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.412185",
+        "y": "-34.648499"
+      },
+      "direccion": "CACHI 457, CABA",
+      "nombre_calle": "CACHI",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 457,
+          "cod_calle": 3012,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.412185",
+            "y": "-34.648499"
+          },
+          "direccion": "CACHI 457, CABA",
+          "nombre_calle": "CACHI",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 457,
+          "cod_calle": 3013,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.441613",
+            "y": "-34.625916"
+          },
+          "direccion": "CACHIMAYO 457, CABA",
+          "nombre_calle": "CACHIMAYO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 457,
+          "cod_calle": 164288,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7516292040816,
+            "y": -34.6652013193878
+          },
+          "direccion": "Cachimayo 457, Merlo",
+          "nombre_calle": "Cachimayo",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Merlo",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  104682.57497118533,
+                  97868.74003645015
+                ],
+                [
+                  104682.68597118458,
+                  97868.17703645185
+                ],
+                [
+                  104683.48697117949,
+                  97864.12703646228
+                ],
+                [
+                  104683.99197117535,
+                  97861.57103646846
+                ],
+                [
+                  104684.11197117438,
+                  97860.9620364708
+                ],
+                [
+                  104674.88397119899,
+                  97859.13103648234
+                ],
+                [
+                  104672.57497120611,
+                  97858.67203648444
+                ],
+                [
+                  104670.51197121135,
+                  97858.2630364892
+                ],
+                [
+                  104661.49597123497,
+                  97856.4740365007
+                ],
+                [
+                  104659.27297124143,
+                  97856.03203650145
+                ],
+                [
+                  104657.36797124572,
+                  97855.65403650535
+                ],
+                [
+                  104652.62197125948,
+                  97854.7120365121
+                ],
+                [
+                  104651.06597126307,
+                  97854.40403651397
+                ],
+                [
+                  104649.59397126645,
+                  97854.11203651418
+                ],
+                [
+                  104646.91297127388,
+                  97853.57903651905
+                ],
+                [
+                  104643.23297128323,
+                  97852.84903652422
+                ],
+                [
+                  104630.06097131816,
+                  97850.23503654072
+                ],
+                [
+                  104629.80997132034,
+                  97851.5690365372
+                ],
+                [
+                  104628.58997132885,
+                  97858.02703652123
+                ],
+                [
+                  104638.256971303,
+                  97859.94503650776
+                ],
+                [
+                  104641.71297129393,
+                  97860.63103650342
+                ],
+                [
+                  104646.83897128003,
+                  97861.648036495
+                ],
+                [
+                  104651.1759712692,
+                  97862.50903648933
+                ],
+                [
+                  104655.81597125654,
+                  97863.43003648467
+                ],
+                [
+                  104657.41397125214,
+                  97863.74703648224
+                ],
+                [
+                  104658.06897125079,
+                  97863.87703648277
+                ],
+                [
+                  104659.86697124533,
+                  97864.23403648037
+                ],
+                [
+                  104668.8339712214,
+                  97866.0130364669
+                ],
+                [
+                  104670.52797121707,
+                  97866.34903646595
+                ],
+                [
+                  104673.35997121042,
+                  97866.91103646162
+                ],
+                [
+                  104676.68997120135,
+                  97867.57203645521
+                ],
+                [
+                  104678.4739711964,
+                  97867.9260364525
+                ],
+                [
+                  104682.57497118533,
+                  97868.74003645015
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "034-050B-022",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CACHI 457",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.41251135312351,
+      -34.648553336627046
+    ],
+    "direccion": "",
+    "fondo": "56.36",
+    "frente": "7.79",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "050B",
+    "parcela": "022",
+    "pdamatriz": "107273",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "3",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "034",
+    "smp": "034-050B-022",
+    "smp_anterior": "034-050B-014",
+    "smp_siguiente": "034-050B-023",
+    "srid": 4326,
+    "superficie_cubierta": "686.00",
+    "superficie_total": "439.00",
+    "unidades_funcionales": "5",
+    "vuc": "0.00"
+  },
+  "smp": "034-050B-022",
+  "_http_status": 200
+}

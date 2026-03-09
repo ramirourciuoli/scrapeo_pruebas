@@ -1,0 +1,334 @@
+{
+  "area_m2": 610.2607526779175,
+  "centroide_lonlat": {
+    "lat": -34.62311,
+    "lon": -58.500701
+  },
+  "centroide_xy": {
+    "x": 96569.98003850247,
+    "y": 100682.58447891458
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.0,
+          "fot_perim_libre": 3.0,
+          "fot_semi_libre": 3.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/10/085-059-007_0000393010.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION085/085-059-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION085/PI-085-059-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "085-059-027",
+            "085-059-028",
+            "085-059-008",
+            "085-059-006"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "E3",
+          "incidencia_uva": 60.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 207.815970371914,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 610.3,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "085-059-007"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Velez Sarsfield",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1407",
+    "codigo_postal_argentino": "C1407FXD",
+    "comisaria": "43",
+    "comisaria_vecinal": "10A",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "85"
+  },
+  "debug": {
+    "address": "JUAN AGUSTIN GARCIA 4748",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.50070128517577,
+        -34.62311032292327
+      ],
+      "direccion": "",
+      "fondo": "71.82",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "059",
+      "parcela": "007",
+      "pdamatriz": "276064",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "085",
+      "smp": "085-059-007",
+      "smp_anterior": "085-059-006",
+      "smp_siguiente": "085-059-008",
+      "srid": 4326,
+      "superficie_cubierta": "626.00",
+      "superficie_total": "622.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4748,
+      "cod_calle": 7029
+    },
+    "usig_direccion_elegida": {
+      "altura": 4748,
+      "cod_calle": 7029,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.500929",
+        "y": "-34.622800"
+      },
+      "direccion": "GARCIA, JUAN AGUSTIN 4748, CABA",
+      "nombre_calle": "GARCIA, JUAN AGUSTIN",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4748,
+          "cod_calle": 7029,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.500929",
+            "y": "-34.622800"
+          },
+          "direccion": "GARCIA, JUAN AGUSTIN 4748, CABA",
+          "nombre_calle": "GARCIA, JUAN AGUSTIN",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96548.14799613741,
+                  100711.17603459983
+                ],
+                [
+                  96555.52999611924,
+                  100715.66303458254
+                ],
+                [
+                  96557.45499611192,
+                  100712.37803459034
+                ],
+                [
+                  96559.73299610206,
+                  100708.48903459983
+                ],
+                [
+                  96562.97699608948,
+                  100702.95203461181
+                ],
+                [
+                  96565.17299608013,
+                  100699.2030346209
+                ],
+                [
+                  96567.50099607036,
+                  100695.23003463229
+                ],
+                [
+                  96571.22799605498,
+                  100688.86903464608
+                ],
+                [
+                  96574.56099604198,
+                  100683.1800346607
+                ],
+                [
+                  96578.60099602483,
+                  100676.28403467577
+                ],
+                [
+                  96591.51199597213,
+                  100654.24703472873
+                ],
+                [
+                  96589.1189959771,
+                  100652.05003473596
+                ],
+                [
+                  96587.82399598001,
+                  100650.86103473968
+                ],
+                [
+                  96585.25099598618,
+                  100648.49803474863
+                ],
+                [
+                  96571.31399604221,
+                  100672.04203469356
+                ],
+                [
+                  96550.40799612732,
+                  100707.35903461123
+                ],
+                [
+                  96548.4019961351,
+                  100710.74703460175
+                ],
+                [
+                  96548.14799613741,
+                  100711.17603459983
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "085-059-007",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "JUAN AGUSTIN GARCIA 4748",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.50070128517577,
+      -34.62311032292327
+    ],
+    "direccion": "",
+    "fondo": "71.82",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "059",
+    "parcela": "007",
+    "pdamatriz": "276064",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "085",
+    "smp": "085-059-007",
+    "smp_anterior": "085-059-006",
+    "smp_siguiente": "085-059-008",
+    "srid": 4326,
+    "superficie_cubierta": "626.00",
+    "superficie_total": "622.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "085-059-007",
+  "_http_status": 200
+}

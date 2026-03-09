@@ -1,0 +1,369 @@
+{
+  "area_m2": 478.6625003814697,
+  "centroide_lonlat": {
+    "lat": -34.608353,
+    "lon": -58.456433
+  },
+  "centroide_xy": {
+    "x": 100629.87126341688,
+    "y": 102320.34900148732
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/4/05/059-142-032_0000469405.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION059/059-142-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION059/PI-059-142-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "059-142-040",
+            "059-142-020a",
+            "059-142-033",
+            "059-142-031",
+            "059-142-041"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2b III",
+          "incidencia_uva": 220.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 452.100544591203,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 478.7,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "059-142-032"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. T. ÁLVAREZ",
+    "barrio": "Caballito",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1416",
+    "codigo_postal_argentino": "C1416DGO",
+    "comisaria": "13",
+    "comisaria_vecinal": "6A",
+    "comuna": "Comuna 6",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "59"
+  },
+  "debug": {
+    "address": "GALICIA 1241",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.456433036139906,
+        -34.60835272573096
+      ],
+      "direccion": "",
+      "fondo": "54.96",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "142",
+      "parcela": "032",
+      "pdamatriz": "232987",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "059",
+      "smp": "059-142-032",
+      "smp_anterior": "059-142-031",
+      "smp_siguiente": "059-142-033",
+      "srid": 4326,
+      "superficie_cubierta": "818.00",
+      "superficie_total": "476.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1241,
+      "cod_calle": 7012
+    },
+    "usig_direccion_elegida": {
+      "altura": 1241,
+      "cod_calle": 7012,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.456264",
+        "y": "-34.608602"
+      },
+      "direccion": "GALICIA 1241, CABA",
+      "nombre_calle": "GALICIA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1241,
+          "cod_calle": 7012,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.456264",
+            "y": "-34.608602"
+          },
+          "direccion": "GALICIA 1241, CABA",
+          "nombre_calle": "GALICIA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1241,
+          "cod_calle": 22749,
+          "cod_calle_cruce": null,
+          "cod_partido": "avellaneda",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3949447867347,
+            "y": -34.6668428387755
+          },
+          "direccion": "Galicia 1241, Avellaneda",
+          "nombre_calle": "Galicia",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Piñeyro",
+          "nombre_partido": "Avellaneda",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1241,
+          "cod_calle": 75012,
+          "cod_calle_cruce": null,
+          "cod_partido": "moron",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6526510908163,
+            "y": -34.6602672816327
+          },
+          "direccion": "Galicia 1241, Morón",
+          "nombre_calle": "Galicia",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Castelar",
+          "nombre_partido": "Morón",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  100647.25298583606,
+                  102298.54702706507
+                ],
+                [
+                  100639.69201173268,
+                  102294.30001780466
+                ],
+                [
+                  100634.76500980071,
+                  102302.95101876193
+                ],
+                [
+                  100629.87401860899,
+                  102311.53701727587
+                ],
+                [
+                  100628.3330029908,
+                  102314.24301092132
+                ],
+                [
+                  100621.9819898339,
+                  102325.39504946957
+                ],
+                [
+                  100619.22600839919,
+                  102330.23300111745
+                ],
+                [
+                  100617.49798106235,
+                  102333.26705872861
+                ],
+                [
+                  100612.55602551653,
+                  102341.94399962641
+                ],
+                [
+                  100614.47002697701,
+                  102343.09500059861
+                ],
+                [
+                  100620.06402110418,
+                  102346.46102841513
+                ],
+                [
+                  100622.15062998254,
+                  102342.77200254574
+                ],
+                [
+                  100622.26598642777,
+                  102342.56704649134
+                ],
+                [
+                  100624.2889966735,
+                  102338.98904357036
+                ],
+                [
+                  100629.57097907425,
+                  102329.68704163862
+                ],
+                [
+                  100631.48803228754,
+                  102326.3110040506
+                ],
+                [
+                  100633.29900640107,
+                  102323.1220392136
+                ],
+                [
+                  100647.25298583606,
+                  102298.54702706507
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "059-142-032",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "GALICIA 1241",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.456433036139906,
+      -34.60835272573096
+    ],
+    "direccion": "",
+    "fondo": "54.96",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "142",
+    "parcela": "032",
+    "pdamatriz": "232987",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "059",
+    "smp": "059-142-032",
+    "smp_anterior": "059-142-031",
+    "smp_siguiente": "059-142-033",
+    "srid": 4326,
+    "superficie_cubierta": "818.00",
+    "superficie_total": "476.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "059-142-032",
+  "_http_status": 200
+}

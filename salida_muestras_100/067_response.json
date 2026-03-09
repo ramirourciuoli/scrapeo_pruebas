@@ -1,0 +1,338 @@
+{
+  "area_m2": 265.29063415527344,
+  "centroide_lonlat": {
+    "lat": -34.694365,
+    "lon": -58.471647
+  },
+  "centroide_xy": {
+    "x": 99235.20034409555,
+    "y": 92778.36876783885
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/2/80/082-009-001_0000003280.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION082/082-009-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION082/PI-082-009-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "082-009-002",
+            "082-009-038"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 265.279000000095,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 265.3,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "082-009-001"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DRA. CECILIA GRIERSON",
+    "barrio": "Villa Riachuelo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1439",
+    "codigo_postal_argentino": "C1439DKP",
+    "comisaria": "52",
+    "comisaria_vecinal": "8C",
+    "comuna": "Comuna 8",
+    "distrito_economico": "DISTRITO DEL DEPORTE",
+    "distrito_escolar": "Distrito Escolar   XXI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "82"
+  },
+  "debug": {
+    "address": "MADARIAGA 6816",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.47164659523298,
+        -34.694365457882085
+      ],
+      "direccion": "MADARIAGA 6816",
+      "fondo": "16.24",
+      "frente": "16.87",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "009",
+      "parcela": "001",
+      "pdamatriz": "70452",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "082",
+      "smp": "082-009-001",
+      "smp_anterior": "082-009-038",
+      "smp_siguiente": "082-009-002",
+      "srid": 4326,
+      "superficie_cubierta": "240.00",
+      "superficie_total": "274.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 6816,
+      "cod_calle": 13004
+    },
+    "usig_direccion_elegida": {
+      "altura": 6816,
+      "cod_calle": 13004,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.471758",
+        "y": "-34.694292"
+      },
+      "direccion": "MADARIAGA 6816, CABA",
+      "nombre_calle": "MADARIAGA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 6816,
+          "cod_calle": 13004,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.471758",
+            "y": "-34.694292"
+          },
+          "direccion": "MADARIAGA 6816, CABA",
+          "nombre_calle": "MADARIAGA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99235.7489826206,
+                  92767.16305485679
+                ],
+                [
+                  99235.29698262374,
+                  92767.57205485465
+                ],
+                [
+                  99232.23598263154,
+                  92770.33605484894
+                ],
+                [
+                  99229.34598264284,
+                  92772.9450548442
+                ],
+                [
+                  99228.41798264526,
+                  92773.78405484211
+                ],
+                [
+                  99224.15298266055,
+                  92777.63605483418
+                ],
+                [
+                  99223.41098266348,
+                  92778.30605483391
+                ],
+                [
+                  99226.17298265849,
+                  92781.32405482387
+                ],
+                [
+                  99228.46198265396,
+                  92783.82505481533
+                ],
+                [
+                  99231.55998264524,
+                  92787.21005480233
+                ],
+                [
+                  99237.56998263107,
+                  92787.49005479817
+                ],
+                [
+                  99247.04098259812,
+                  92778.84405481434
+                ],
+                [
+                  99244.56998260255,
+                  92776.28805482484
+                ],
+                [
+                  99240.14798261113,
+                  92771.71305483975
+                ],
+                [
+                  99235.7489826206,
+                  92767.16305485679
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "082-009-001",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MADARIAGA 6816",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 2,
+    "centroide": [
+      -58.47164659523298,
+      -34.694365457882085
+    ],
+    "direccion": "MADARIAGA 6816",
+    "fondo": "16.24",
+    "frente": "16.87",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "009",
+    "parcela": "001",
+    "pdamatriz": "70452",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [
+      {
+        "altura": 6816,
+        "calle": "MADARIAGA",
+        "codigo_calle": 13004,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      },
+      {
+        "altura": 5709,
+        "calle": "SUAREZ, JOSE LEON",
+        "codigo_calle": 20119,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "082",
+    "smp": "082-009-001",
+    "smp_anterior": "082-009-038",
+    "smp_siguiente": "082-009-002",
+    "srid": 4326,
+    "superficie_cubierta": "240.00",
+    "superficie_total": "274.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "082-009-001"
+}

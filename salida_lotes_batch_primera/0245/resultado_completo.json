@@ -1,0 +1,354 @@
+{
+  "area_m2": 143.15734958648682,
+  "centroide_lonlat": {
+    "lat": -34.54965,
+    "lon": -58.494043
+  },
+  "centroide_xy": {
+    "x": 97178.1598699737,
+    "y": 108832.10669269286
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/49/055-174-002_0000239649.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION055/055-174-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION055/PI-055-174-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "055-174-031",
+            "055-174-001c",
+            "055-174-001b",
+            "055-174-003"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 280.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 143.172050000002,
+        "sup_max_edificable": 752.1,
+        "superficie_parcela": 143.2,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "055-174-002"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Saavedra",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1430",
+    "codigo_postal_argentino": "C1430CYH",
+    "comisaria": "49",
+    "comisaria_vecinal": "12A",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "55"
+  },
+  "debug": {
+    "address": "PICO 4520",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.49404257063139,
+        -34.549650400983595
+      ],
+      "direccion": "",
+      "fondo": "16.63",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "174",
+      "parcela": "002",
+      "pdamatriz": "358666",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "055",
+      "smp": "055-174-002",
+      "smp_anterior": "055-174-001C",
+      "smp_siguiente": "055-174-003",
+      "srid": 4326,
+      "superficie_cubierta": "201.00",
+      "superficie_total": "144.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4520,
+      "cod_calle": 17074
+    },
+    "usig_direccion_elegida": {
+      "altura": 4520,
+      "cod_calle": 17074,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.494118",
+        "y": "-34.549553"
+      },
+      "direccion": "PICO 4520, CABA",
+      "nombre_calle": "PICO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4520,
+          "cod_calle": 17074,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.494118",
+            "y": "-34.549553"
+          },
+          "direccion": "PICO 4520, CABA",
+          "nombre_calle": "PICO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97178.18000048847,
+                  108840.2740113301
+                ],
+                [
+                  97179.20300048438,
+                  108838.59601133372
+                ],
+                [
+                  97180.26300048063,
+                  108836.85701133774
+                ],
+                [
+                  97180.48800047935,
+                  108836.48801133869
+                ],
+                [
+                  97181.73100047413,
+                  108834.45001134372
+                ],
+                [
+                  97182.21000047248,
+                  108833.66501134544
+                ],
+                [
+                  97183.01900046953,
+                  108832.3370113488
+                ],
+                [
+                  97183.44000046795,
+                  108831.64801135016
+                ],
+                [
+                  97183.72400046677,
+                  108831.18201135122
+                ],
+                [
+                  97184.37600046389,
+                  108830.11201135346
+                ],
+                [
+                  97184.51000046298,
+                  108829.89201135424
+                ],
+                [
+                  97186.22500045589,
+                  108827.07901136074
+                ],
+                [
+                  97184.57300046005,
+                  108826.12701136508
+                ],
+                [
+                  97183.29200046361,
+                  108825.38901136821
+                ],
+                [
+                  97182.01100046618,
+                  108824.65001137118
+                ],
+                [
+                  97178.89200047367,
+                  108822.85201137816
+                ],
+                [
+                  97175.97900048557,
+                  108827.48901136746
+                ],
+                [
+                  97173.26000049597,
+                  108831.81801135727
+                ],
+                [
+                  97170.8760005059,
+                  108835.61401134852
+                ],
+                [
+                  97170.11100050838,
+                  108836.832011346
+                ],
+                [
+                  97173.75100050053,
+                  108839.15601133683
+                ],
+                [
+                  97177.42900049135,
+                  108841.5050113269
+                ],
+                [
+                  97178.18000048847,
+                  108840.2740113301
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "055-174-002",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "PICO 4520",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.49404257063139,
+      -34.549650400983595
+    ],
+    "direccion": "",
+    "fondo": "16.63",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "174",
+    "parcela": "002",
+    "pdamatriz": "358666",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "055",
+    "smp": "055-174-002",
+    "smp_anterior": "055-174-001C",
+    "smp_siguiente": "055-174-003",
+    "srid": 4326,
+    "superficie_cubierta": "201.00",
+    "superficie_total": "144.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "055-174-002",
+  "_http_status": 200
+}

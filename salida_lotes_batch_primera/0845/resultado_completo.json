@@ -1,0 +1,400 @@
+{
+  "area_m2": 251.0053653717041,
+  "centroide_lonlat": {
+    "lat": -34.590243,
+    "lon": -58.437618
+  },
+  "centroide_xy": {
+    "x": 102356.16872254063,
+    "y": 104329.1362411764
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/52/031-082-007_0000265552.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION031/031-082-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION031/PI-031-082-V3.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "031-082-012a",
+            "031-082-008",
+            "031-082-006"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 410.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 144.451652327958,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 251.0,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "031-082-007"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Villa Crespo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1414",
+    "codigo_postal_argentino": "C1414CYC",
+    "comisaria": "25",
+    "comisaria_vecinal": "15B",
+    "comuna": "Comuna 15",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   IX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "31"
+  },
+  "debug": {
+    "address": "GODOY CRUZ 1341",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.43761822163439,
+        -34.590242556939025
+      ],
+      "direccion": "",
+      "fondo": "28.49",
+      "frente": "8.67",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "082",
+      "parcela": "007",
+      "pdamatriz": "423502",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "2",
+      "propiedad_horizontal": "Si",
+      "seccion": "031",
+      "smp": "031-082-007",
+      "smp_anterior": "031-082-006",
+      "smp_siguiente": "031-082-008",
+      "srid": 4326,
+      "superficie_cubierta": "247.00",
+      "superficie_total": "247.00",
+      "unidades_funcionales": "3",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1341,
+      "cod_calle": 7054
+    },
+    "usig_direccion_elegida": {
+      "altura": 1341,
+      "cod_calle": 7054,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.437747",
+        "y": "-34.590123"
+      },
+      "direccion": "GODOY CRUZ 1341, CABA",
+      "nombre_calle": "GODOY CRUZ",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1341,
+          "cod_calle": 7054,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.437747",
+            "y": "-34.590123"
+          },
+          "direccion": "GODOY CRUZ 1341, CABA",
+          "nombre_calle": "GODOY CRUZ",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1341,
+          "cod_calle": 54785,
+          "cod_calle_cruce": null,
+          "cod_partido": "avellaneda",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3065614122449,
+            "y": -34.6913495438776
+          },
+          "direccion": "Godoy Cruz 1341, Avellaneda",
+          "nombre_calle": "Godoy Cruz",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Wilde",
+          "nombre_partido": "Avellaneda",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1341,
+          "cod_calle": 84741,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "direccion": "Godoy Cruz 1341, La Matanza",
+          "nombre_calle": "Godoy Cruz",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "La Tablada",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1341,
+          "cod_calle": 18070,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4118514612245,
+            "y": -34.7354443163265
+          },
+          "direccion": "Tomás Godoy Cruz 1341, Lomas de Zamora",
+          "nombre_calle": "Tomás Godoy Cruz",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Banfield",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1341,
+          "cod_calle": 177751,
+          "cod_calle_cruce": null,
+          "cod_partido": "tigre",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6942359663265,
+            "y": -34.4307406367347
+          },
+          "direccion": "Godoy Cruz 1341, Tigre",
+          "nombre_calle": "Godoy Cruz",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Benavídez",
+          "nombre_partido": "Tigre",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102344.25098261215,
+                  104337.60102006831
+                ],
+                [
+                  102350.81998259827,
+                  104343.4700200478
+                ],
+                [
+                  102355.61398258075,
+                  104337.12202006267
+                ],
+                [
+                  102356.16698257806,
+                  104336.39002006355
+                ],
+                [
+                  102358.63298256867,
+                  104333.1260200704
+                ],
+                [
+                  102362.62309046328,
+                  104327.84309869536
+                ],
+                [
+                  102365.29905480861,
+                  104324.30110651578
+                ],
+                [
+                  102365.63310021747,
+                  104323.8581133527
+                ],
+                [
+                  102368.24906700439,
+                  104320.39510066513
+                ],
+                [
+                  102365.57298253756,
+                  104318.3260201069
+                ],
+                [
+                  102364.38598254026,
+                  104317.40802010981
+                ],
+                [
+                  102361.30998254675,
+                  104315.03002011924
+                ],
+                [
+                  102358.6819825572,
+                  104318.5070201114
+                ],
+                [
+                  102356.35898256613,
+                  104321.58002010448
+                ],
+                [
+                  102354.93598257116,
+                  104323.46402009981
+                ],
+                [
+                  102353.98198257486,
+                  104324.72602009712
+                ],
+                [
+                  102353.83698257586,
+                  104324.91702009726
+                ],
+                [
+                  102352.17298258227,
+                  104327.1190200919
+                ],
+                [
+                  102344.25098261215,
+                  104337.60102006831
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "031-082-007",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "GODOY CRUZ 1341",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.43761822163439,
+      -34.590242556939025
+    ],
+    "direccion": "",
+    "fondo": "28.49",
+    "frente": "8.67",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "082",
+    "parcela": "007",
+    "pdamatriz": "423502",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "2",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "031",
+    "smp": "031-082-007",
+    "smp_anterior": "031-082-006",
+    "smp_siguiente": "031-082-008",
+    "srid": 4326,
+    "superficie_cubierta": "247.00",
+    "superficie_total": "247.00",
+    "unidades_funcionales": "3",
+    "vuc": "0.00"
+  },
+  "smp": "031-082-007",
+  "_http_status": 200
+}

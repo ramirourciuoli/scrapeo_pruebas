@@ -1,0 +1,358 @@
+{
+  "area_m2": 260.86120891571045,
+  "centroide_lonlat": {
+    "lat": -34.584717,
+    "lon": -58.491556
+  },
+  "centroide_xy": {
+    "x": 97407.48316977057,
+    "y": 104942.10452308103
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/1/70/073-074-035_0000116170.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION073/073-074-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION073/PI-073-074-V3.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "073-074-003",
+            "073-074-032a",
+            "073-074-036"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 100.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 260.823249999993,
+        "sup_max_edificable": 257.4,
+        "superficie_parcela": 260.9,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "073-074-035"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. A. ZUBIZARRETA",
+    "barrio": "Villa Pueyrredon",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1419",
+    "codigo_postal_argentino": "C1419ENP",
+    "comisaria": "47",
+    "comisaria_vecinal": "12B",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "73"
+  },
+  "debug": {
+    "address": "GAVILAN 4274",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.491556058876554,
+        -34.5847165387702
+      ],
+      "direccion": "",
+      "fondo": "30.29",
+      "frente": "8.55",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "074",
+      "parcela": "035",
+      "pdamatriz": "359797",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "073",
+      "smp": "073-074-035",
+      "smp_anterior": "073-074-032A",
+      "smp_siguiente": "073-074-036",
+      "srid": 4326,
+      "superficie_cubierta": "202.00",
+      "superficie_total": "259.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4274,
+      "cod_calle": 7040
+    },
+    "usig_direccion_elegida": {
+      "altura": 4274,
+      "cod_calle": 7040,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.491381",
+        "y": "-34.584608"
+      },
+      "direccion": "GAVILAN 4274, CABA",
+      "nombre_calle": "GAVILAN",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4274,
+          "cod_calle": 7040,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.491381",
+            "y": "-34.584608"
+          },
+          "direccion": "GAVILAN 4274, CABA",
+          "nombre_calle": "GAVILAN",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 4274,
+          "cod_calle": 142359,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5554594265306,
+            "y": -34.705323377551
+          },
+          "direccion": "Gavilán 4274, La Matanza",
+          "nombre_calle": "Gavilán",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Justo",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97392.72599694876,
+                  104936.45202211611
+                ],
+                [
+                  97398.48099693489,
+                  104940.73902209988
+                ],
+                [
+                  97402.0099969278,
+                  104943.36802208933
+                ],
+                [
+                  97405.37799692042,
+                  104945.87702208059
+                ],
+                [
+                  97408.88399691248,
+                  104948.48902207063
+                ],
+                [
+                  97412.56899690459,
+                  104951.23402206044
+                ],
+                [
+                  97413.6439969023,
+                  104952.03502205588
+                ],
+                [
+                  97414.89799689877,
+                  104952.96902205332
+                ],
+                [
+                  97417.14099689334,
+                  104954.64002204643
+                ],
+                [
+                  97418.81499688845,
+                  104952.39402205235
+                ],
+                [
+                  97422.25799687444,
+                  104947.79002206284
+                ],
+                [
+                  97415.87199688907,
+                  104943.02402208155
+                ],
+                [
+                  97414.00699689356,
+                  104941.631022085
+                ],
+                [
+                  97408.05099690668,
+                  104937.1850221025
+                ],
+                [
+                  97407.19699690843,
+                  104936.54802210667
+                ],
+                [
+                  97404.13199691527,
+                  104934.2610221121
+                ],
+                [
+                  97401.31399692135,
+                  104932.15702212014
+                ],
+                [
+                  97400.80599692286,
+                  104931.77802212327
+                ],
+                [
+                  97397.83599692961,
+                  104929.56102213127
+                ],
+                [
+                  97392.72599694876,
+                  104936.45202211611
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "073-074-035",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "GAVILAN 4274",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.491556058876554,
+      -34.5847165387702
+    ],
+    "direccion": "",
+    "fondo": "30.29",
+    "frente": "8.55",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "074",
+    "parcela": "035",
+    "pdamatriz": "359797",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "073",
+    "smp": "073-074-035",
+    "smp_anterior": "073-074-032A",
+    "smp_siguiente": "073-074-036",
+    "srid": 4326,
+    "superficie_cubierta": "202.00",
+    "superficie_total": "259.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "073-074-035",
+  "_http_status": 200
+}

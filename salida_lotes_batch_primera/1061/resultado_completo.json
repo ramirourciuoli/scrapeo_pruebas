@@ -1,0 +1,353 @@
+{
+  "area_m2": 155.47282791137695,
+  "centroide_lonlat": {
+    "lat": -34.600685,
+    "lon": -58.469685
+  },
+  "centroide_xy": {
+    "x": 99414.3068196985,
+    "y": 103170.99669059092
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 5.0,
+          "fot_perim_libre": 7.0,
+          "fot_semi_libre": 5.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/67/059-047-010_0000397667.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION059/059-047-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION059/PI-059-047-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "059-047-012",
+            "059-047-009",
+            "059-047-011"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "C2",
+          "incidencia_uva": 60.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 149.628020325605,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 155.5,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "059-047-010"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. T. ÁLVAREZ",
+    "barrio": "Paternal",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1416",
+    "codigo_postal_argentino": "C1416CFF",
+    "comisaria": "41",
+    "comisaria_vecinal": "15A",
+    "comuna": "Comuna 15",
+    "distrito_economico": "DISTRITO AUDIOVISUAL",
+    "distrito_escolar": "Distrito Escolar   XIV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "59"
+  },
+  "debug": {
+    "address": "ESPINOSA 2684",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.46968474038361,
+        -34.60068482632488
+      ],
+      "direccion": "",
+      "fondo": "18.28",
+      "frente": "8.70",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "047",
+      "parcela": "010",
+      "pdamatriz": "242784",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "059",
+      "smp": "059-047-010",
+      "smp_anterior": "059-047-009",
+      "smp_siguiente": "059-047-011",
+      "srid": 4326,
+      "superficie_cubierta": "154.00",
+      "superficie_total": "159.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2684,
+      "cod_calle": 5079
+    },
+    "usig_direccion_elegida": {
+      "altura": 2684,
+      "cod_calle": 5079,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.469646",
+        "y": "-34.600564"
+      },
+      "direccion": "ESPINOSA 2684, CABA",
+      "nombre_calle": "ESPINOSA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2684,
+          "cod_calle": 5079,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.469646",
+            "y": "-34.600564"
+          },
+          "direccion": "ESPINOSA 2684, CABA",
+          "nombre_calle": "ESPINOSA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99407.76598996278,
+                  103163.5500255719
+                ],
+                [
+                  99408.25198996332,
+                  103165.31502556644
+                ],
+                [
+                  99408.66398996252,
+                  103166.81002556058
+                ],
+                [
+                  99408.73598996326,
+                  103167.0690255622
+                ],
+                [
+                  99409.10698996317,
+                  103168.41702555804
+                ],
+                [
+                  99410.31798996255,
+                  103172.81202554307
+                ],
+                [
+                  99411.23998996275,
+                  103176.157025533
+                ],
+                [
+                  99412.3029899633,
+                  103180.01602552136
+                ],
+                [
+                  99412.51598996285,
+                  103180.78802551824
+                ],
+                [
+                  99419.69998994187,
+                  103178.893025519
+                ],
+                [
+                  99420.83198993783,
+                  103178.59502551882
+                ],
+                [
+                  99419.32198993769,
+                  103173.01602553486
+                ],
+                [
+                  99418.67498993826,
+                  103170.62202554534
+                ],
+                [
+                  99418.47998993832,
+                  103169.90302554518
+                ],
+                [
+                  99418.28698993783,
+                  103169.18802554783
+                ],
+                [
+                  99418.1819899382,
+                  103168.80202554975
+                ],
+                [
+                  99417.7359899378,
+                  103167.15202555389
+                ],
+                [
+                  99417.14198993845,
+                  103164.9580255601
+                ],
+                [
+                  99416.04498993848,
+                  103161.11202557059
+                ],
+                [
+                  99412.38898994967,
+                  103162.18902557282
+                ],
+                [
+                  99410.63198995532,
+                  103162.7060255709
+                ],
+                [
+                  99408.9169899607,
+                  103163.21102557119
+                ],
+                [
+                  99407.76598996278,
+                  103163.5500255719
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "059-047-010",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ESPINOSA 2684",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.46968474038361,
+      -34.60068482632488
+    ],
+    "direccion": "",
+    "fondo": "18.28",
+    "frente": "8.70",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "047",
+    "parcela": "010",
+    "pdamatriz": "242784",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "059",
+    "smp": "059-047-010",
+    "smp_anterior": "059-047-009",
+    "smp_siguiente": "059-047-011",
+    "srid": 4326,
+    "superficie_cubierta": "154.00",
+    "superficie_total": "159.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "059-047-010",
+  "_http_status": 200
+}

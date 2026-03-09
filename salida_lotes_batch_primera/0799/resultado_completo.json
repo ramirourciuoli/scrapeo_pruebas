@@ -1,0 +1,320 @@
+{
+  "area_m2": 148.96933364868164,
+  "centroide_lonlat": {
+    "lat": -34.652328,
+    "lon": -58.431058
+  },
+  "centroide_xy": {
+    "x": 102955.82488477307,
+    "y": 97441.48940047425
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 2.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/52/046-114-023c_0000070652.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION046/046-114-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION046/PI-046-114-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "046-114-023b",
+            "046-114-024b"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "I2",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 476.6,
+          "plusvalia_sl": 476.6
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 148.937150000033,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 149.0,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "046-114-023C"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.M. PENNA",
+    "barrio": "Nueva Pompeya",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1437",
+    "codigo_postal_argentino": "C1437GVE",
+    "comisaria": "34",
+    "comisaria_vecinal": "4B",
+    "comuna": "Comuna 4",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "46"
+  },
+  "debug": {
+    "address": "ITAQUI 1909",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.431058083226034,
+        -34.65232757363634
+      ],
+      "direccion": "",
+      "fondo": "13.23",
+      "frente": "11.26",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "114",
+      "parcela": "023C",
+      "pdamatriz": "75807",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "046",
+      "smp": "046-114-023C",
+      "smp_anterior": "046-114-023B",
+      "smp_siguiente": "046-114-024B",
+      "srid": 4326,
+      "superficie_cubierta": "92.00",
+      "superficie_total": "149.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1909,
+      "cod_calle": 9027
+    },
+    "usig_direccion_elegida": {
+      "altura": 1909,
+      "cod_calle": 9027,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.430968",
+        "y": "-34.652401"
+      },
+      "direccion": "ITAQUI 1909, CABA",
+      "nombre_calle": "ITAQUI",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1909,
+          "cod_calle": 9027,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.430968",
+            "y": "-34.652401"
+          },
+          "direccion": "ITAQUI 1909, CABA",
+          "nombre_calle": "ITAQUI",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102955.21897571466,
+                  97450.37203892448
+                ],
+                [
+                  102958.04497570504,
+                  97447.90203892702
+                ],
+                [
+                  102961.7099756916,
+                  97444.70003893482
+                ],
+                [
+                  102962.56997568592,
+                  97438.79003895051
+                ],
+                [
+                  102961.62297568691,
+                  97437.72003895338
+                ],
+                [
+                  102957.1209756963,
+                  97432.63303897195
+                ],
+                [
+                  102953.50497570881,
+                  97435.85603896555
+                ],
+                [
+                  102953.00897570966,
+                  97436.29703896446
+                ],
+                [
+                  102950.68597571856,
+                  97438.36803896038
+                ],
+                [
+                  102950.11497572088,
+                  97438.87603895937
+                ],
+                [
+                  102947.39197572926,
+                  97441.3030389557
+                ],
+                [
+                  102947.54197572994,
+                  97441.47703895243
+                ],
+                [
+                  102950.93597572247,
+                  97445.40903894193
+                ],
+                [
+                  102952.56197571979,
+                  97447.29303893427
+                ],
+                [
+                  102955.21897571466,
+                  97450.37203892448
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "046-114-023C",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ITAQUI 1909",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.431058083226034,
+      -34.65232757363634
+    ],
+    "direccion": "",
+    "fondo": "13.23",
+    "frente": "11.26",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "114",
+    "parcela": "023C",
+    "pdamatriz": "75807",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "046",
+    "smp": "046-114-023C",
+    "smp_anterior": "046-114-023B",
+    "smp_siguiente": "046-114-024B",
+    "srid": 4326,
+    "superficie_cubierta": "92.00",
+    "superficie_total": "149.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "046-114-023C",
+  "_http_status": 200
+}

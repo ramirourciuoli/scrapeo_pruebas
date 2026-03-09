@@ -1,0 +1,350 @@
+{
+  "area_m2": 140.09452438354492,
+  "centroide_lonlat": {
+    "lat": -34.592748,
+    "lon": -58.500193
+  },
+  "centroide_xy": {
+    "x": 96615.38291728227,
+    "y": 104050.82661818036
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 28"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/91/071-032-012_0000116791.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION071/071-032-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION071/PI-071-032-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "071-032-015",
+            "071-032-013",
+            "071-032-011",
+            "071-032-014"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 100.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 140.031750000036,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 140.1,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "071-032-012"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. A. ZUBIZARRETA",
+    "barrio": "Agronomia",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1419",
+    "codigo_postal_argentino": "C1419CUC",
+    "comisaria": "47",
+    "comisaria_vecinal": "15C",
+    "comuna": "Comuna 15",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "71"
+  },
+  "debug": {
+    "address": "HELGUERA 4027",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.50019278282994,
+        -34.59274843349081
+      ],
+      "direccion": "",
+      "fondo": "16.51",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "032",
+      "parcela": "012",
+      "pdamatriz": "257760",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "071",
+      "smp": "071-032-012",
+      "smp_anterior": "071-032-011",
+      "smp_siguiente": "071-032-013",
+      "srid": 4326,
+      "superficie_cubierta": "139.00",
+      "superficie_total": "143.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4027,
+      "cod_calle": 8007
+    },
+    "usig_direccion_elegida": {
+      "altura": 4027,
+      "cod_calle": 8007,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.500301",
+        "y": "-34.592817"
+      },
+      "direccion": "HELGUERA 4027, CABA",
+      "nombre_calle": "HELGUERA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4027,
+          "cod_calle": 8007,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.500301",
+            "y": "-34.592817"
+          },
+          "direccion": "HELGUERA 4027, CABA",
+          "nombre_calle": "HELGUERA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96611.45499846688,
+                  104042.5480252115
+                ],
+                [
+                  96608.68699847726,
+                  104046.222025203
+                ],
+                [
+                  96608.03599848015,
+                  104047.08502520088
+                ],
+                [
+                  96606.32199848603,
+                  104049.3610251954
+                ],
+                [
+                  96608.22799848221,
+                  104050.81902519043
+                ],
+                [
+                  96609.26299848006,
+                  104051.61002518763
+                ],
+                [
+                  96609.93609466968,
+                  104052.124109658
+                ],
+                [
+                  96612.3380722034,
+                  104053.96114578386
+                ],
+                [
+                  96616.06699846439,
+                  104056.81202516754
+                ],
+                [
+                  96617.54899846093,
+                  104057.94502516359
+                ],
+                [
+                  96619.14199845777,
+                  104059.16302515843
+                ],
+                [
+                  96620.65299845191,
+                  104057.16502516321
+                ],
+                [
+                  96621.51006924955,
+                  104056.03115309539
+                ],
+                [
+                  96621.81909024445,
+                  104055.62313307679
+                ],
+                [
+                  96624.46410976566,
+                  104052.12514724472
+                ],
+                [
+                  96621.66499844386,
+                  104050.06502518273
+                ],
+                [
+                  96621.03729092568,
+                  104049.60274735204
+                ],
+                [
+                  96618.06909024877,
+                  104047.41713945029
+                ],
+                [
+                  96616.00012052688,
+                  104045.89412920218
+                ],
+                [
+                  96614.35899846046,
+                  104044.68602520268
+                ],
+                [
+                  96613.54899846172,
+                  104044.08902520486
+                ],
+                [
+                  96611.45499846688,
+                  104042.5480252115
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "071-032-012",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "HELGUERA 4027",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.50019278282994,
+      -34.59274843349081
+    ],
+    "direccion": "",
+    "fondo": "16.51",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "032",
+    "parcela": "012",
+    "pdamatriz": "257760",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "071",
+    "smp": "071-032-012",
+    "smp_anterior": "071-032-011",
+    "smp_siguiente": "071-032-013",
+    "srid": 4326,
+    "superficie_cubierta": "139.00",
+    "superficie_total": "143.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "071-032-012",
+  "_http_status": 200
+}

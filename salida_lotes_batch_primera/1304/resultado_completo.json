@@ -1,0 +1,304 @@
+{
+  "area_m2": 129.1561632156372,
+  "centroide_lonlat": {
+    "lat": -34.597258,
+    "lon": -58.431066
+  },
+  "centroide_xy": {
+    "x": 102957.03754064592,
+    "y": 103550.7184250702
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.48,
+          "fot_perim_libre": 3.48,
+          "fot_semi_libre": 3.48
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/3/27/031-062-031b_0000265327.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION031/031-062-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION031/PI-031-062-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "031-062-032",
+            "031-062-031a"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2a II",
+          "incidencia_uva": 380.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 129.183250000341,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 129.2,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "031-062-031B"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Villa Crespo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1414",
+    "codigo_postal_argentino": "C1414DRR",
+    "comisaria": "25",
+    "comisaria_vecinal": "15B",
+    "comuna": "Comuna 15",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   II",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "31"
+  },
+  "debug": {
+    "address": "JULIAN ALVAREZ 890",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.43106615668766,
+        -34.59725784026196
+      ],
+      "direccion": "",
+      "fondo": "18.30",
+      "frente": "7.21",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "062",
+      "parcela": "031B",
+      "pdamatriz": "433458",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "031",
+      "smp": "031-062-031B",
+      "smp_anterior": "031-062-031A",
+      "smp_siguiente": "031-062-032",
+      "srid": 4326,
+      "superficie_cubierta": "243.00",
+      "superficie_total": "132.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 890,
+      "cod_calle": 1057
+    },
+    "usig_direccion_elegida": {
+      "altura": 890,
+      "cod_calle": 1057,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.431011",
+        "y": "-34.597325"
+      },
+      "direccion": "ALVAREZ, JULIAN 890, CABA",
+      "nombre_calle": "ALVAREZ, JULIAN",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 890,
+          "cod_calle": 1057,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.431011",
+            "y": "-34.597325"
+          },
+          "direccion": "ALVAREZ, JULIAN 890, CABA",
+          "nombre_calle": "ALVAREZ, JULIAN",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102958.81298030246,
+                  103558.88402178939
+                ],
+                [
+                  102963.1899802863,
+                  103553.27002180179
+                ],
+                [
+                  102962.43998028398,
+                  103547.42002181913
+                ],
+                [
+                  102956.01998029741,
+                  103542.43302183817
+                ],
+                [
+                  102951.62298031428,
+                  103548.32502182497
+                ],
+                [
+                  102951.38098031557,
+                  103548.6490218243
+                ],
+                [
+                  102949.24498032377,
+                  103551.5110218176
+                ],
+                [
+                  102951.24798031886,
+                  103553.05402181137
+                ],
+                [
+                  102951.63898031876,
+                  103553.35602181038
+                ],
+                [
+                  102953.88398031297,
+                  103555.08602180428
+                ],
+                [
+                  102958.81298030246,
+                  103558.88402178939
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "031-062-031B",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "JULIAN ALVAREZ 890",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.43106615668766,
+      -34.59725784026196
+    ],
+    "direccion": "",
+    "fondo": "18.30",
+    "frente": "7.21",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "062",
+    "parcela": "031B",
+    "pdamatriz": "433458",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "031",
+    "smp": "031-062-031B",
+    "smp_anterior": "031-062-031A",
+    "smp_siguiente": "031-062-032",
+    "srid": 4326,
+    "superficie_cubierta": "243.00",
+    "superficie_total": "132.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "031-062-031B",
+  "_http_status": 200
+}

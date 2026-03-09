@@ -1,0 +1,385 @@
+{
+  "area_m2": 356.700608253479,
+  "centroide_lonlat": {
+    "lat": -34.6542,
+    "lon": -58.423201
+  },
+  "centroide_xy": {
+    "x": 103676.05679955479,
+    "y": 97233.49020984044
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 2.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/81/046-148-039_0000071681.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION046/046-148-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION046/PI-046-148-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "046-148-015",
+            "046-148-038",
+            "046-148-014",
+            "046-148-013",
+            "046-148-040"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "I2",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 760.18,
+          "plusvalia_sl": 760.18
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 237.556923695002,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 356.7,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "046-148-039"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.M. PENNA",
+    "barrio": "Nueva Pompeya",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1437",
+    "codigo_postal_argentino": "C1437FOE",
+    "comisaria": "34",
+    "comisaria_vecinal": "4B",
+    "comuna": "Comuna 4",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "46"
+  },
+  "debug": {
+    "address": "SANTA CATALINA 1545",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.423200941884296,
+        -34.654200175151594
+      ],
+      "direccion": "",
+      "fondo": "41.57",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "148",
+      "parcela": "039",
+      "pdamatriz": "50981",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "046",
+      "smp": "046-148-039",
+      "smp_anterior": "046-148-038",
+      "smp_siguiente": "046-148-040",
+      "srid": 4326,
+      "superficie_cubierta": "706.00",
+      "superficie_total": "360.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1545,
+      "cod_calle": 20054
+    },
+    "usig_direccion_elegida": {
+      "altura": 1545,
+      "cod_calle": 20054,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.422994",
+        "y": "-34.654349"
+      },
+      "direccion": "SANTA CATALINA 1545, CABA",
+      "nombre_calle": "SANTA CATALINA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1545,
+          "cod_calle": 20054,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.422994",
+            "y": "-34.654349"
+          },
+          "direccion": "SANTA CATALINA 1545, CABA",
+          "nombre_calle": "SANTA CATALINA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1545,
+          "cod_calle": 280159,
+          "cod_calle_cruce": null,
+          "cod_partido": "esteban_echeverria",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4600628489229,
+            "y": -34.789813895131
+          },
+          "direccion": "Santa Catalina 1545, Esteban Echeverría",
+          "nombre_calle": "Santa Catalina",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Luis Guillón",
+          "nombre_partido": "Esteban Echeverría",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1545,
+          "cod_calle": 76280,
+          "cod_calle_cruce": null,
+          "cod_partido": "moron",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6252282653061,
+            "y": -34.6820617734694
+          },
+          "direccion": "Santa Catalina 1545, Morón",
+          "nombre_calle": "Santa Catalina",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Morón",
+          "nombre_partido": "Morón",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  103678.92697351589,
+                  97225.2810390101
+                ],
+                [
+                  103665.14197356357,
+                  97237.31503898685
+                ],
+                [
+                  103664.99097356475,
+                  97237.44703898515
+                ],
+                [
+                  103664.48597356556,
+                  97237.88803898395
+                ],
+                [
+                  103659.01197358446,
+                  97242.66703897645
+                ],
+                [
+                  103657.56197358907,
+                  97243.9330389734
+                ],
+                [
+                  103660.16297358379,
+                  97246.90803896368
+                ],
+                [
+                  103663.1819735785,
+                  97250.36203895017
+                ],
+                [
+                  103669.98797355493,
+                  97244.45103896255
+                ],
+                [
+                  103670.22197355458,
+                  97244.24803896202
+                ],
+                [
+                  103670.62097355287,
+                  97243.90103896329
+                ],
+                [
+                  103670.77197355223,
+                  97243.77003896394
+                ],
+                [
+                  103671.8489735495,
+                  97242.83503896522
+                ],
+                [
+                  103679.37597352325,
+                  97236.3000389779
+                ],
+                [
+                  103680.88997351687,
+                  97234.98603897876
+                ],
+                [
+                  103683.02397351022,
+                  97233.1320389845
+                ],
+                [
+                  103690.06397348615,
+                  97227.01703899595
+                ],
+                [
+                  103692.4409734772,
+                  97224.95303900019
+                ],
+                [
+                  103694.51797347049,
+                  97223.1500390057
+                ],
+                [
+                  103688.83297348069,
+                  97216.63203902554
+                ],
+                [
+                  103684.65297349585,
+                  97220.28203901756
+                ],
+                [
+                  103678.92697351589,
+                  97225.2810390101
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "046-148-039",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "SANTA CATALINA 1545",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.423200941884296,
+      -34.654200175151594
+    ],
+    "direccion": "",
+    "fondo": "41.57",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "148",
+    "parcela": "039",
+    "pdamatriz": "50981",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "046",
+    "smp": "046-148-039",
+    "smp_anterior": "046-148-038",
+    "smp_siguiente": "046-148-040",
+    "srid": 4326,
+    "superficie_cubierta": "706.00",
+    "superficie_total": "360.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "046-148-039",
+  "_http_status": 200
+}

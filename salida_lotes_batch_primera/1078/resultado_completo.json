@@ -1,0 +1,381 @@
+{
+  "area_m2": 194.96425342559814,
+  "centroide_lonlat": {
+    "lat": -34.652374,
+    "lon": -58.509894
+  },
+  "centroide_xy": {
+    "x": 95728.41392892128,
+    "y": 97435.84426021077
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/26/074-104-029_0000385526.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION074/074-104-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION074/PI-074-104-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "074-104-032",
+            "074-104-030",
+            "074-104-028"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 50.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 194.998700000057,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 195.0,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "074-104-029"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Mataderos",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1440",
+    "codigo_postal_argentino": "C1440FLF",
+    "comisaria": "42",
+    "comisaria_vecinal": "9A",
+    "comuna": "Comuna 9",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "74"
+  },
+  "debug": {
+    "address": "CAFAYATE 1380",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.50989415929369,
+        -34.652373809161254
+      ],
+      "direccion": "",
+      "fondo": "22.94",
+      "frente": "8.63",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "104",
+      "parcela": "029",
+      "pdamatriz": "15322",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "074",
+      "smp": "074-104-029",
+      "smp_anterior": "074-104-028",
+      "smp_siguiente": "074-104-030",
+      "srid": 4326,
+      "superficie_cubierta": "309.00",
+      "superficie_total": "198.00",
+      "unidades_funcionales": "2",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1380,
+      "cod_calle": 3015
+    },
+    "usig_direccion_elegida": {
+      "altura": 1380,
+      "cod_calle": 3015,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.510003",
+        "y": "-34.652479"
+      },
+      "direccion": "CAFAYATE 1380, CABA",
+      "nombre_calle": "CAFAYATE",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1380,
+          "cod_calle": 3015,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.510003",
+            "y": "-34.652479"
+          },
+          "direccion": "CAFAYATE 1380, CABA",
+          "nombre_calle": "CAFAYATE",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  95721.28299598895,
+                  97434.31904441322
+                ],
+                [
+                  95721.78299598799,
+                  97434.88704441121
+                ],
+                [
+                  95725.34199598142,
+                  97438.92604439706
+                ],
+                [
+                  95726.44499597934,
+                  97440.17804439305
+                ],
+                [
+                  95726.63699597878,
+                  97440.3960443917
+                ],
+                [
+                  95728.75099597471,
+                  97442.79604438375
+                ],
+                [
+                  95729.4119959728,
+                  97443.545044381
+                ],
+                [
+                  95732.60199596698,
+                  97447.1660443687
+                ],
+                [
+                  95733.18099596491,
+                  97446.65404436958
+                ],
+                [
+                  95735.96899595493,
+                  97444.1880443744
+                ],
+                [
+                  95737.04199595201,
+                  97443.23904437624
+                ],
+                [
+                  95738.2959959474,
+                  97442.13004437822
+                ],
+                [
+                  95739.04199594505,
+                  97441.47004437933
+                ],
+                [
+                  95735.98599595019,
+                  97437.94104439148
+                ],
+                [
+                  95735.33199595229,
+                  97437.18504439405
+                ],
+                [
+                  95733.05199595644,
+                  97434.55204440368
+                ],
+                [
+                  95728.45399596509,
+                  97429.24204442152
+                ],
+                [
+                  95727.73399596676,
+                  97428.41004442488
+                ],
+                [
+                  95727.42699596731,
+                  97428.05604442584
+                ],
+                [
+                  95727.02299596801,
+                  97427.59004442746
+                ],
+                [
+                  95725.84499596996,
+                  97426.22904443258
+                ],
+                [
+                  95724.41099597333,
+                  97424.57304443789
+                ],
+                [
+                  95723.57499597609,
+                  97425.28804443637
+                ],
+                [
+                  95721.32699598321,
+                  97427.20804443257
+                ],
+                [
+                  95718.56399599345,
+                  97429.57004442872
+                ],
+                [
+                  95717.7279959962,
+                  97430.28404442704
+                ],
+                [
+                  95719.16899599301,
+                  97431.91904442114
+                ],
+                [
+                  95720.35899599112,
+                  97433.27004441625
+                ],
+                [
+                  95721.07199598923,
+                  97434.07904441378
+                ],
+                [
+                  95721.28299598895,
+                  97434.31904441322
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "074-104-029",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CAFAYATE 1380",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.50989415929369,
+      -34.652373809161254
+    ],
+    "direccion": "",
+    "fondo": "22.94",
+    "frente": "8.63",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "104",
+    "parcela": "029",
+    "pdamatriz": "15322",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "074",
+    "smp": "074-104-029",
+    "smp_anterior": "074-104-028",
+    "smp_siguiente": "074-104-030",
+    "srid": 4326,
+    "superficie_cubierta": "309.00",
+    "superficie_total": "198.00",
+    "unidades_funcionales": "2",
+    "vuc": "0.00"
+  },
+  "smp": "074-104-029",
+  "_http_status": 200
+}

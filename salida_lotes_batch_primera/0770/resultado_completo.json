@@ -1,0 +1,342 @@
+{
+  "area_m2": 172.19039058685303,
+  "centroide_lonlat": {
+    "lat": -34.599682,
+    "lon": -58.444368
+  },
+  "centroide_xy": {
+    "x": 101736.70982006851,
+    "y": 103282.1436723705
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.44,
+          "fot_perim_libre": 3.44,
+          "fot_semi_libre": 3.44
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/1/44/047-135-009_0000130144.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION047/047-135-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION047/PI-047-135-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "047-135-013",
+            "047-135-010",
+            "047-135-012",
+            "047-135-008"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2a II",
+          "incidencia_uva": 310.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 162.846710701074,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 172.2,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "047-135-009"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Villa Crespo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1414",
+    "codigo_postal_argentino": "C1414DHE",
+    "comisaria": "27",
+    "comisaria_vecinal": "15B",
+    "comuna": "Comuna 15",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "47"
+  },
+  "debug": {
+    "address": "GURRUCHAGA 223",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.44436806368794,
+        -34.599681625847964
+      ],
+      "direccion": "",
+      "fondo": "21.50",
+      "frente": "8.00",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "135",
+      "parcela": "009",
+      "pdamatriz": "226140",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "047",
+      "smp": "047-135-009",
+      "smp_anterior": "047-135-008",
+      "smp_siguiente": "047-135-010",
+      "srid": 4326,
+      "superficie_cubierta": "186.00",
+      "superficie_total": "172.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 223,
+      "cod_calle": 7108
+    },
+    "usig_direccion_elegida": {
+      "altura": 223,
+      "cod_calle": 7108,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.444469",
+        "y": "-34.599596"
+      },
+      "direccion": "GURRUCHAGA 223, CABA",
+      "nombre_calle": "GURRUCHAGA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 223,
+          "cod_calle": 7108,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.444469",
+            "y": "-34.599596"
+          },
+          "direccion": "GURRUCHAGA 223, CABA",
+          "nombre_calle": "GURRUCHAGA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  101726.72098355246,
+                  103286.85402348175
+                ],
+                [
+                  101732.41298354106,
+                  103292.48502346038
+                ],
+                [
+                  101733.85298353583,
+                  103291.02802346222
+                ],
+                [
+                  101735.72798353,
+                  103289.13002346741
+                ],
+                [
+                  101736.04698352836,
+                  103288.8080234681
+                ],
+                [
+                  101739.11998351676,
+                  103285.69802347364
+                ],
+                [
+                  101740.82198351098,
+                  103283.97602347721
+                ],
+                [
+                  101742.10598350636,
+                  103282.67602347943
+                ],
+                [
+                  101743.51198350155,
+                  103281.25302348367
+                ],
+                [
+                  101744.49698349807,
+                  103280.25602348513
+                ],
+                [
+                  101746.85598348948,
+                  103277.86902348927
+                ],
+                [
+                  101743.34698349767,
+                  103274.62702350091
+                ],
+                [
+                  101740.33698350395,
+                  103271.84602351248
+                ],
+                [
+                  101738.98698350768,
+                  103273.33402350915
+                ],
+                [
+                  101735.45398352153,
+                  103277.22802350076
+                ],
+                [
+                  101732.50798353212,
+                  103280.47502349361
+                ],
+                [
+                  101732.32798353209,
+                  103280.67302349242
+                ],
+                [
+                  101729.81898354134,
+                  103283.43902348762
+                ],
+                [
+                  101727.68698354876,
+                  103285.78902348134
+                ],
+                [
+                  101726.72098355246,
+                  103286.85402348175
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "047-135-009",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "GURRUCHAGA 223",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.44436806368794,
+      -34.599681625847964
+    ],
+    "direccion": "",
+    "fondo": "21.50",
+    "frente": "8.00",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "135",
+    "parcela": "009",
+    "pdamatriz": "226140",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "047",
+    "smp": "047-135-009",
+    "smp_anterior": "047-135-008",
+    "smp_siguiente": "047-135-010",
+    "srid": 4326,
+    "superficie_cubierta": "186.00",
+    "superficie_total": "172.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "047-135-009",
+  "_http_status": 200
+}

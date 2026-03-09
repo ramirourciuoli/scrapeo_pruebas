@@ -1,0 +1,346 @@
+{
+  "area_m2": 158.13111782073975,
+  "centroide_lonlat": {
+    "lat": -34.624226,
+    "lon": -58.478003
+  },
+  "centroide_xy": {
+    "x": 98651.62784043909,
+    "y": 100559.39284294186
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 0.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/25/077-154-016_0000393625.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION077/077-154-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION077/PI-077-154-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "077-154-015",
+            "077-154-017",
+            "077-154-019"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "C3 II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 793.3,
+          "plusvalia_pl": 793.3,
+          "plusvalia_sl": 793.3
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 137.72533817224,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 158.1,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "077-154-016"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. T. ÁLVAREZ",
+    "barrio": "Floresta",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1406",
+    "codigo_postal_argentino": "C1406AUM",
+    "comisaria": "50",
+    "comisaria_vecinal": "10A",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "77"
+  },
+  "debug": {
+    "address": "CAMPANA 721",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.478002978747014,
+        -34.62422563889696
+      ],
+      "direccion": "",
+      "fondo": "18.36",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "154",
+      "parcela": "016",
+      "pdamatriz": "226",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "2",
+      "propiedad_horizontal": "Si",
+      "seccion": "077",
+      "smp": "077-154-016",
+      "smp_anterior": "077-154-015",
+      "smp_siguiente": "077-154-017",
+      "srid": 4326,
+      "superficie_cubierta": "272.00",
+      "superficie_total": "159.00",
+      "unidades_funcionales": "4",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 721,
+      "cod_calle": 3039
+    },
+    "usig_direccion_elegida": {
+      "altura": 721,
+      "cod_calle": 3039,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.478131",
+        "y": "-34.624266"
+      },
+      "direccion": "CAMPANA 721, CABA",
+      "nombre_calle": "CAMPANA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 721,
+          "cod_calle": 3039,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.478131",
+            "y": "-34.624266"
+          },
+          "direccion": "CAMPANA 721, CABA",
+          "nombre_calle": "CAMPANA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 721,
+          "cod_calle": 24480,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4451154795919,
+            "y": -34.7072786071429
+          },
+          "direccion": "Campana 721, Lomas de Zamora",
+          "nombre_calle": "Campana",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Fiorito",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98662.01099009386,
+                  100558.17103343917
+                ],
+                [
+                  98654.02699011425,
+                  100555.65603345283
+                ],
+                [
+                  98650.20399012417,
+                  100554.45203345761
+                ],
+                [
+                  98644.79799013794,
+                  100552.74903346732
+                ],
+                [
+                  98644.41699013853,
+                  100552.6290334679
+                ],
+                [
+                  98643.34612051463,
+                  100555.43612965316
+                ],
+                [
+                  98642.19206778619,
+                  100558.46011645961
+                ],
+                [
+                  98641.43706290663,
+                  100560.43814379888
+                ],
+                [
+                  98641.29411857208,
+                  100560.81314379981
+                ],
+                [
+                  98644.26909414968,
+                  100561.68814379352
+                ],
+                [
+                  98648.25099013625,
+                  100562.85903343666
+                ],
+                [
+                  98649.98199013124,
+                  100563.36803343354
+                ],
+                [
+                  98650.21199013137,
+                  100563.43603343389
+                ],
+                [
+                  98656.5339901145,
+                  100565.29503342419
+                ],
+                [
+                  98659.03508532306,
+                  100566.03116134871
+                ],
+                [
+                  98660.94487535255,
+                  100560.98636155686
+                ],
+                [
+                  98662.01099009386,
+                  100558.17103343917
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "077-154-016",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CAMPANA 721",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.478002978747014,
+      -34.62422563889696
+    ],
+    "direccion": "",
+    "fondo": "18.36",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "154",
+    "parcela": "016",
+    "pdamatriz": "226",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "2",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "077",
+    "smp": "077-154-016",
+    "smp_anterior": "077-154-015",
+    "smp_siguiente": "077-154-017",
+    "srid": 4326,
+    "superficie_cubierta": "272.00",
+    "superficie_total": "159.00",
+    "unidades_funcionales": "4",
+    "vuc": "0.00"
+  },
+  "smp": "077-154-016",
+  "_http_status": 200
+}

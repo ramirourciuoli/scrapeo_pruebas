@@ -1,0 +1,337 @@
+{
+  "area_m2": 125.22348976135254,
+  "centroide_lonlat": {
+    "lat": -34.593976,
+    "lon": -58.46785
+  },
+  "centroide_xy": {
+    "x": 99582.55903770764,
+    "y": 103915.22060327533
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 2.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/63/049-014-011_0000090663.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION049/049-014-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION049/PI-049-014-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "049-014-009b",
+            "049-014-012",
+            "049-014-013"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "R2b III 1",
+          "incidencia_uva": 100.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 1001.2,
+          "plusvalia_sl": 1001.2
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 125.149799999944,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 125.2,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "049-014-011"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. E. TORNÚ",
+    "barrio": "Paternal",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1427",
+    "codigo_postal_argentino": "C1427DSF",
+    "comisaria": "41",
+    "comisaria_vecinal": "15A",
+    "comuna": "Comuna 15",
+    "distrito_economico": "DISTRITO AUDIOVISUAL",
+    "distrito_escolar": "Distrito Escolar   XIV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "49"
+  },
+  "debug": {
+    "address": "PAZ SOLDAN 4966",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.46785022779671,
+        -34.593976303412546
+      ],
+      "direccion": "",
+      "fondo": "13.97",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "014",
+      "parcela": "011",
+      "pdamatriz": "242013",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "049",
+      "smp": "049-014-011",
+      "smp_anterior": "049-014-009B",
+      "smp_siguiente": "049-014-012",
+      "srid": 4326,
+      "superficie_cubierta": "264.00",
+      "superficie_total": "121.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4966,
+      "cod_calle": 17044
+    },
+    "usig_direccion_elegida": {
+      "altura": 4966,
+      "cod_calle": 17044,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.468026",
+        "y": "-34.593910"
+      },
+      "direccion": "PAZ SOLDAN 4966, CABA",
+      "nombre_calle": "PAZ SOLDAN",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4966,
+          "cod_calle": 17044,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.468026",
+            "y": "-34.593910"
+          },
+          "direccion": "PAZ SOLDAN 4966, CABA",
+          "nombre_calle": "PAZ SOLDAN",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99574.73199006286,
+                  103918.12702332987
+                ],
+                [
+                  99578.99999005359,
+                  103921.53002331703
+                ],
+                [
+                  99580.01699005136,
+                  103922.34102331378
+                ],
+                [
+                  99581.58099004818,
+                  103923.58802330945
+                ],
+                [
+                  99585.01999003452,
+                  103919.18402331919
+                ],
+                [
+                  99586.80299002852,
+                  103916.8990233241
+                ],
+                [
+                  99587.78899002439,
+                  103915.63702332674
+                ],
+                [
+                  99588.40399002231,
+                  103914.84902332883
+                ],
+                [
+                  99590.37099001507,
+                  103912.3300233341
+                ],
+                [
+                  99587.23099002137,
+                  103909.7960233436
+                ],
+                [
+                  99584.93799002681,
+                  103907.94502335071
+                ],
+                [
+                  99583.5659900294,
+                  103906.8370233548
+                ],
+                [
+                  99580.64899004095,
+                  103910.56602334595
+                ],
+                [
+                  99579.86599004407,
+                  103911.56602334371
+                ],
+                [
+                  99578.81799004758,
+                  103912.90602334152
+                ],
+                [
+                  99578.4609900491,
+                  103913.36202333984
+                ],
+                [
+                  99578.24699005022,
+                  103913.63602333938
+                ],
+                [
+                  99577.2589900531,
+                  103914.89802333672
+                ],
+                [
+                  99574.73199006286,
+                  103918.12702332987
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "049-014-011",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "PAZ SOLDAN 4966",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.46785022779671,
+      -34.593976303412546
+    ],
+    "direccion": "",
+    "fondo": "13.97",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "014",
+    "parcela": "011",
+    "pdamatriz": "242013",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "049",
+    "smp": "049-014-011",
+    "smp_anterior": "049-014-009B",
+    "smp_siguiente": "049-014-012",
+    "srid": 4326,
+    "superficie_cubierta": "264.00",
+    "superficie_total": "121.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "049-014-011",
+  "_http_status": 200
+}

@@ -1,0 +1,285 @@
+{
+  "area_m2": 1448.8686122894287,
+  "centroide_lonlat": {
+    "lat": -34.621386,
+    "lon": -58.454417
+  },
+  "centroide_xy": {
+    "x": 100814.70747045368,
+    "y": 100874.52161524905
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.16,
+          "fot_perim_libre": 3.16,
+          "fot_semi_libre": 3.16
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/fp/SECCION057/FP-057-051-010a-VD.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION057/057-051-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION057/PI-057-051-V3.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": ""
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2a II",
+          "incidencia_uva": 280.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 734.438976424333,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 1448.9,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "057-051-010A"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. T. ÁLVAREZ",
+    "barrio": "Caballito",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1406",
+    "codigo_postal_argentino": "C1406BQC",
+    "comisaria": "13",
+    "comisaria_vecinal": "6A",
+    "comuna": "Comuna 6",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "57"
+  },
+  "debug": {
+    "address": "MORELOS 345",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.45441653070403,
+        -34.621385575087196
+      ],
+      "direccion": "",
+      "manzana": "051",
+      "parcela": "010A",
+      "seccion": "057",
+      "smp": "057-051-010A",
+      "smp_anterior": "057-051-009",
+      "smp_siguiente": "057-051-013",
+      "srid": 4326
+    },
+    "usig_cod_calle_altura": {
+      "altura": 345,
+      "cod_calle": 13125
+    },
+    "usig_direccion_elegida": {
+      "altura": 345,
+      "cod_calle": 13125,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.454670",
+        "y": "-34.621507"
+      },
+      "direccion": "MORELOS 345, CABA",
+      "nombre_calle": "MORELOS",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 345,
+          "cod_calle": 13125,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.454670",
+            "y": "-34.621507"
+          },
+          "direccion": "MORELOS 345, CABA",
+          "nombre_calle": "MORELOS",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  100839.6060633418,
+                  100894.432342868
+                ],
+                [
+                  100846.02708381959,
+                  100878.7121280641
+                ],
+                [
+                  100846.26798420947,
+                  100878.12203089785
+                ],
+                [
+                  100838.26798422927,
+                  100874.74903091294
+                ],
+                [
+                  100830.25798424879,
+                  100871.37603092869
+                ],
+                [
+                  100822.33898426831,
+                  100868.04203094286
+                ],
+                [
+                  100825.62498425276,
+                  100859.99403096308
+                ],
+                [
+                  100817.67798427289,
+                  100856.64303098066
+                ],
+                [
+                  100799.86198431751,
+                  100849.25603101222
+                ],
+                [
+                  100787.6269843765,
+                  100881.7570309329
+                ],
+                [
+                  100821.53306534512,
+                  100893.73312413425
+                ],
+                [
+                  100823.7780604509,
+                  100887.76712073144
+                ],
+                [
+                  100839.6060633418,
+                  100894.432342868
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "057-051-010A",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MORELOS 345",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.45441653070403,
+      -34.621385575087196
+    ],
+    "direccion": "",
+    "manzana": "051",
+    "parcela": "010A",
+    "puertas": [],
+    "seccion": "057",
+    "smp": "057-051-010A",
+    "smp_anterior": "057-051-009",
+    "smp_siguiente": "057-051-013",
+    "srid": 4326
+  },
+  "smp": "057-051-010A",
+  "_http_status": 200
+}

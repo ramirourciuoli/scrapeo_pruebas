@@ -1,0 +1,399 @@
+{
+  "area_m2": 124.25679969787598,
+  "centroide_lonlat": {
+    "lat": -34.546123,
+    "lon": -58.479531
+  },
+  "centroide_xy": {
+    "x": 98510.11324653307,
+    "y": 109223.68655182043
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.0,
+          "fot_perim_libre": 3.0,
+          "fot_semi_libre": 3.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/4/14/043-101B-019_0000230414.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION043/043-101B-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION043/PI-043-101B-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "043-101B-018",
+            "043-101B-021",
+            "043-101B-020"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "E3",
+          "incidencia_uva": 340.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 124.299649999943,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 124.3,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "043-101B-019"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Saavedra",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1429",
+    "codigo_postal_argentino": "C1429DRY",
+    "comisaria": "35",
+    "comisaria_vecinal": "12A",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   X",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "43"
+  },
+  "debug": {
+    "address": "CORREA 3073",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.47953088950251,
+        -34.546123357970906
+      ],
+      "direccion": "",
+      "fondo": "15.50",
+      "frente": "8.00",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "101B",
+      "parcela": "019",
+      "pdamatriz": "333799",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "043",
+      "smp": "043-101B-019",
+      "smp_anterior": "043-101B-018",
+      "smp_siguiente": "043-101B-020",
+      "srid": 4326,
+      "superficie_cubierta": "168.00",
+      "superficie_total": "124.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3073,
+      "cod_calle": 3169
+    },
+    "usig_direccion_elegida": {
+      "altura": 3073,
+      "cod_calle": 3169,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.479490",
+        "y": "-34.546208"
+      },
+      "direccion": "CORREA 3073, CABA",
+      "nombre_calle": "CORREA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3073,
+          "cod_calle": 3169,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.479490",
+            "y": "-34.546208"
+          },
+          "direccion": "CORREA 3073, CABA",
+          "nombre_calle": "CORREA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3073,
+          "cod_calle": 3172,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.440982",
+            "y": "-34.661942"
+          },
+          "direccion": "CORREA MORALES, LUCIO 3073, CABA",
+          "nombre_calle": "CORREA MORALES, LUCIO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3073,
+          "cod_calle": 192833,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6388008045454,
+            "y": -34.7072784545455
+          },
+          "direccion": "Fray O. Correa 3073, La Matanza",
+          "nombre_calle": "Fray O. Correa",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Rafael Castillo",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98512.83599702909,
+                  109216.36900927054
+                ],
+                [
+                  98509.34699703778,
+                  109214.9580092768
+                ],
+                [
+                  98509.1969970381,
+                  109215.32900927615
+                ],
+                [
+                  98509.04799703952,
+                  109215.70000927549
+                ],
+                [
+                  98508.49799704133,
+                  109217.06500927228
+                ],
+                [
+                  98507.89099704432,
+                  109218.57000926844
+                ],
+                [
+                  98507.65999704576,
+                  109219.14200926671
+                ],
+                [
+                  98507.50999704606,
+                  109219.51500926542
+                ],
+                [
+                  98505.24299705666,
+                  109225.138009252
+                ],
+                [
+                  98504.99299705782,
+                  109225.75800925051
+                ],
+                [
+                  98503.493997065,
+                  109229.47600924067
+                ],
+                [
+                  98508.99199705086,
+                  109231.63500923043
+                ],
+                [
+                  98509.31599705006,
+                  109231.76300923034
+                ],
+                [
+                  98510.31899704806,
+                  109232.15700922787
+                ],
+                [
+                  98510.89799704652,
+                  109232.38400922675
+                ],
+                [
+                  98511.80499704195,
+                  109230.13800923302
+                ],
+                [
+                  98511.95399704145,
+                  109229.76800923384
+                ],
+                [
+                  98512.2509970403,
+                  109229.03200923518
+                ],
+                [
+                  98512.50799703934,
+                  109228.39600923684
+                ],
+                [
+                  98514.10699703133,
+                  109224.4380092471
+                ],
+                [
+                  98514.2049970311,
+                  109224.19400924776
+                ],
+                [
+                  98514.80099702824,
+                  109222.71800925166
+                ],
+                [
+                  98515.37699702589,
+                  109221.29200925524
+                ],
+                [
+                  98516.72899701953,
+                  109217.94400926339
+                ],
+                [
+                  98513.94799702604,
+                  109216.81900926863
+                ],
+                [
+                  98512.83599702909,
+                  109216.36900927054
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "043-101B-019",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CORREA 3073",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.47953088950251,
+      -34.546123357970906
+    ],
+    "direccion": "",
+    "fondo": "15.50",
+    "frente": "8.00",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "101B",
+    "parcela": "019",
+    "pdamatriz": "333799",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "043",
+    "smp": "043-101B-019",
+    "smp_anterior": "043-101B-018",
+    "smp_siguiente": "043-101B-020",
+    "srid": 4326,
+    "superficie_cubierta": "168.00",
+    "superficie_total": "124.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "043-101B-019",
+  "_http_status": 200
+}

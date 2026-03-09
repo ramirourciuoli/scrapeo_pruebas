@@ -1,0 +1,402 @@
+{
+  "area_m2": 330.3511571884155,
+  "centroide_lonlat": {
+    "lat": -34.626712,
+    "lon": -58.52418
+  },
+  "centroide_xy": {
+    "x": 94417.05513066685,
+    "y": 100281.93039308117
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/34/093-078-021_0000208034.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION093/093-078-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION093/PI-093-078-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "093-078-022",
+            "093-078-018",
+            "093-078-017",
+            "093-078-020"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 140.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 330.385399999878,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 330.4,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "093-078-021"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Versalles",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1408",
+    "codigo_postal_argentino": "C1408AYS",
+    "comisaria": "44",
+    "comisaria_vecinal": "10B",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "93"
+  },
+  "debug": {
+    "address": "SANTO TOME 6265",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.524179627561324,
+        -34.62671243667907
+      ],
+      "direccion": "",
+      "fondo": "38.34",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "078",
+      "parcela": "021",
+      "pdamatriz": "293455",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "093",
+      "smp": "093-078-021",
+      "smp_anterior": "093-078-020",
+      "smp_siguiente": "093-078-022",
+      "srid": 4326,
+      "superficie_cubierta": "584.00",
+      "superficie_total": "332.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 6265,
+      "cod_calle": 20068
+    },
+    "usig_direccion_elegida": {
+      "altura": 6265,
+      "cod_calle": 20068,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.524116",
+        "y": "-34.626920"
+      },
+      "direccion": "SANTO TOME 6265, CABA",
+      "nombre_calle": "SANTO TOME",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 6265,
+          "cod_calle": 20068,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.524116",
+            "y": "-34.626920"
+          },
+          "direccion": "SANTO TOME 6265, CABA",
+          "nombre_calle": "SANTO TOME",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  94425.83200175269,
+                  100264.42103745157
+                ],
+                [
+                  94423.22600175889,
+                  100263.7560374554
+                ],
+                [
+                  94420.31900176684,
+                  100263.01503745923
+                ],
+                [
+                  94417.41200177383,
+                  100262.27303746392
+                ],
+                [
+                  94416.02200178234,
+                  100267.98203744879
+                ],
+                [
+                  94415.69100178407,
+                  100269.34203744555
+                ],
+                [
+                  94414.15400179359,
+                  100275.66103742909
+                ],
+                [
+                  94412.78300180139,
+                  100281.29503741389
+                ],
+                [
+                  94412.27300180463,
+                  100283.38803740876
+                ],
+                [
+                  94411.94300180649,
+                  100284.74403740489
+                ],
+                [
+                  94411.90300180671,
+                  100284.90903740449
+                ],
+                [
+                  94411.56900180888,
+                  100286.27803740086
+                ],
+                [
+                  94410.38700181579,
+                  100291.13603738812
+                ],
+                [
+                  94409.371001822,
+                  100295.31503737762
+                ],
+                [
+                  94409.33800182235,
+                  100295.45003737707
+                ],
+                [
+                  94409.27600182185,
+                  100295.70303737596
+                ],
+                [
+                  94409.20700182304,
+                  100295.98703737522
+                ],
+                [
+                  94408.33300182744,
+                  100299.5780373658
+                ],
+                [
+                  94408.86000182679,
+                  100299.71403736496
+                ],
+                [
+                  94415.8990018083,
+                  100301.52503735528
+                ],
+                [
+                  94416.58000180636,
+                  100301.70103735424
+                ],
+                [
+                  94417.47100180101,
+                  100298.11203736303
+                ],
+                [
+                  94417.71200179996,
+                  100297.13803736618
+                ],
+                [
+                  94418.07300179741,
+                  100295.68203736967
+                ],
+                [
+                  94419.97800178659,
+                  100288.00803739019
+                ],
+                [
+                  94420.2580017852,
+                  100286.88203739288
+                ],
+                [
+                  94420.7510017821,
+                  100284.89503739748
+                ],
+                [
+                  94421.11300177971,
+                  100283.43603740152
+                ],
+                [
+                  94421.16200177911,
+                  100283.23803740213
+                ],
+                [
+                  94421.45100177824,
+                  100282.07303740512
+                ],
+                [
+                  94422.47600177166,
+                  100277.94403741622
+                ],
+                [
+                  94424.07600176288,
+                  100271.49903743278
+                ],
+                [
+                  94424.41300176029,
+                  100270.14003743624
+                ],
+                [
+                  94424.52800175981,
+                  100269.67403743739
+                ],
+                [
+                  94425.83200175269,
+                  100264.42103745157
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "093-078-021",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "SANTO TOME 6265",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.524179627561324,
+      -34.62671243667907
+    ],
+    "direccion": "",
+    "fondo": "38.34",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "078",
+    "parcela": "021",
+    "pdamatriz": "293455",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "093",
+    "smp": "093-078-021",
+    "smp_anterior": "093-078-020",
+    "smp_siguiente": "093-078-022",
+    "srid": 4326,
+    "superficie_cubierta": "584.00",
+    "superficie_total": "332.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "093-078-021",
+  "_http_status": 200
+}

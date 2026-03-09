@@ -1,0 +1,460 @@
+{
+  "area_m2": 157.28615951538086,
+  "centroide_lonlat": {
+    "lat": -34.631442,
+    "lon": -58.418283
+  },
+  "centroide_xy": {
+    "x": 104128.05143409788,
+    "y": 99757.9897754611
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "PEV",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 5.26,
+          "fot_perim_libre": 5.26,
+          "fot_semi_libre": 5.26
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/32/036-087-015_0000297032.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION036/036-087-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION036/PI-036-087-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "036-087-014",
+            "036-087-016"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "AE 26",
+          "incidencia_uva": 200.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 157.254700000007,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 157.3,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "036-087-015"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Boedo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1237",
+    "codigo_postal_argentino": "C1237ACB",
+    "comisaria": "10",
+    "comisaria_vecinal": "5B",
+    "comuna": "Comuna 5",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "36"
+  },
+  "debug": {
+    "address": "PEREYRA 1590",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.41828280159668,
+        -34.6314422105881
+      ],
+      "direccion": "",
+      "fondo": "34.27",
+      "frente": "4.64",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "087",
+      "parcela": "015",
+      "pdamatriz": "37991",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "10",
+      "propiedad_horizontal": "Si",
+      "seccion": "036",
+      "smp": "036-087-015",
+      "smp_anterior": "036-087-014",
+      "smp_siguiente": "036-087-016",
+      "srid": 4326,
+      "superficie_cubierta": "1660.00",
+      "superficie_total": "159.00",
+      "unidades_funcionales": "34",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1590,
+      "cod_calle": 17059
+    },
+    "usig_direccion_elegida": {
+      "altura": 1590,
+      "cod_calle": 17059,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.418359",
+        "y": "-34.631489"
+      },
+      "direccion": "PEREYRA 1590, CABA",
+      "nombre_calle": "PEREYRA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1590,
+          "cod_calle": 17059,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.418359",
+            "y": "-34.631489"
+          },
+          "direccion": "PEREYRA 1590, CABA",
+          "nombre_calle": "PEREYRA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1590,
+          "cod_calle": 111457,
+          "cod_calle_cruce": null,
+          "cod_partido": "florencio_varela",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.2947544306122,
+            "y": -34.7852188102041
+          },
+          "direccion": "Pereyra Lucena 1590, Florencio Varela",
+          "nombre_calle": "Pereyra Lucena",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Florencio Varela",
+          "nombre_partido": "Florencio Varela",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1590,
+          "cod_calle": 17437,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4181839653061,
+            "y": -34.7520092020408
+          },
+          "direccion": "José Pereyra Lucena 1590, Lomas de Zamora",
+          "nombre_calle": "José Pereyra Lucena",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lomas de Zamora",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1590,
+          "cod_calle": 17670,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4236348306122,
+            "y": -34.737987555102
+          },
+          "direccion": "Ingeniero M. Pereyra 1590, Lomas de Zamora",
+          "nombre_calle": "Ingeniero M. Pereyra",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Banfield",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1590,
+          "cod_calle": 12003,
+          "cod_calle_cruce": null,
+          "cod_partido": "tigre",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5790593375,
+            "y": -34.4379755041667
+          },
+          "direccion": "Luis José Pereyra 1590, Tigre",
+          "nombre_calle": "Luis José Pereyra",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Tigre",
+          "nombre_partido": "Tigre",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  104123.32097417738,
+                  99759.56103156769
+                ],
+                [
+                  104123.36797417825,
+                  99761.80003156146
+                ],
+                [
+                  104123.371974179,
+                  99761.96403156093
+                ],
+                [
+                  104123.39297417938,
+                  99762.96503155821
+                ],
+                [
+                  104123.44297418089,
+                  99765.36903155156
+                ],
+                [
+                  104123.4639741813,
+                  99766.37003154887
+                ],
+                [
+                  104125.60897417585,
+                  99766.44503154725
+                ],
+                [
+                  104127.31097417069,
+                  99766.50503154536
+                ],
+                [
+                  104128.06797416879,
+                  99766.53203154446
+                ],
+                [
+                  104129.18797416578,
+                  99766.57103154436
+                ],
+                [
+                  104132.79397415547,
+                  99766.69803154064
+                ],
+                [
+                  104132.78397415549,
+                  99766.41103154191
+                ],
+                [
+                  104132.7749741557,
+                  99766.13103154243
+                ],
+                [
+                  104132.73597415417,
+                  99764.99603154589
+                ],
+                [
+                  104132.68497415318,
+                  99763.50103155003
+                ],
+                [
+                  104132.63197415278,
+                  99761.94303155423
+                ],
+                [
+                  104132.6169741519,
+                  99761.48803155543
+                ],
+                [
+                  104132.54897415065,
+                  99759.48803156111
+                ],
+                [
+                  104132.3849741476,
+                  99754.68203157483
+                ],
+                [
+                  104132.37697414795,
+                  99754.43803157561
+                ],
+                [
+                  104132.32697414624,
+                  99752.95403157963
+                ],
+                [
+                  104132.2679741457,
+                  99751.21603158463
+                ],
+                [
+                  104132.19197414388,
+                  99748.99103159129
+                ],
+                [
+                  104131.6199741457,
+                  99748.90003159194
+                ],
+                [
+                  104130.33197414948,
+                  99748.69503159344
+                ],
+                [
+                  104129.21797415239,
+                  99748.51803159466
+                ],
+                [
+                  104127.6929741561,
+                  99748.27503159666
+                ],
+                [
+                  104125.57797416323,
+                  99750.1260315929
+                ],
+                [
+                  104125.24597416489,
+                  99750.41703159251
+                ],
+                [
+                  104123.16797417142,
+                  99752.23503158896
+                ],
+                [
+                  104123.21797417381,
+                  99754.60503158235
+                ],
+                [
+                  104123.26797417528,
+                  99757.0080315755
+                ],
+                [
+                  104123.32097417738,
+                  99759.56103156769
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "036-087-015",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "PEREYRA 1590",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.41828280159668,
+      -34.6314422105881
+    ],
+    "direccion": "",
+    "fondo": "34.27",
+    "frente": "4.64",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "087",
+    "parcela": "015",
+    "pdamatriz": "37991",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "10",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "036",
+    "smp": "036-087-015",
+    "smp_anterior": "036-087-014",
+    "smp_siguiente": "036-087-016",
+    "srid": 4326,
+    "superficie_cubierta": "1660.00",
+    "superficie_total": "159.00",
+    "unidades_funcionales": "34",
+    "vuc": "0.00"
+  },
+  "smp": "036-087-015",
+  "_http_status": 200
+}

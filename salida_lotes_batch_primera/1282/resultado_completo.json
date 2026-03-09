@@ -1,0 +1,337 @@
+{
+  "area_m2": 281.8523178100586,
+  "centroide_lonlat": {
+    "lat": -34.543363,
+    "lon": -58.461671
+  },
+  "centroide_xy": {
+    "x": 100149.51522265536,
+    "y": 109530.07930038717
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 8.56,
+          "fot_perim_libre": 8.56,
+          "fot_semi_libre": 8.56
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/63/029-096-023c_0000475763.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION029/029-096-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION029/PI-029-096-V5.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "029-096-024a",
+            "029-096-022"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2a I",
+          "incidencia_uva": 540.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 281.825749999896,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 281.9,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "029-096-023C"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Nuñez",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1429",
+    "codigo_postal_argentino": "C1429BMX",
+    "comisaria": "35",
+    "comisaria_vecinal": "13B",
+    "comuna": "Comuna 13",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   X",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "29"
+  },
+  "debug": {
+    "address": "AV. DEL LIBERTADOR 7706",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.461671224221064,
+        -34.54336251632359
+      ],
+      "direccion": "",
+      "fondo": "30.82",
+      "frente": "8.63",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "096",
+      "parcela": "023C",
+      "pdamatriz": "378812",
+      "pisos_bajo_rasante": "1",
+      "pisos_sobre_rasante": "13",
+      "propiedad_horizontal": "Si",
+      "seccion": "029",
+      "smp": "029-096-023C",
+      "smp_anterior": "029-096-022",
+      "smp_siguiente": "029-096-024A",
+      "srid": 4326,
+      "superficie_cubierta": "4391.00",
+      "superficie_total": "266.00",
+      "unidades_funcionales": "68",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 7706,
+      "cod_calle": 12107
+    },
+    "usig_direccion_elegida": {
+      "altura": 7706,
+      "cod_calle": 12107,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.461482",
+        "y": "-34.543225"
+      },
+      "direccion": "DEL LIBERTADOR AV. 7706, CABA",
+      "nombre_calle": "DEL LIBERTADOR AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 7706,
+          "cod_calle": 12107,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.461482",
+            "y": "-34.543225"
+          },
+          "direccion": "DEL LIBERTADOR AV. 7706, CABA",
+          "nombre_calle": "DEL LIBERTADOR AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 7706,
+          "cod_calle": 237483,
+          "cod_calle_cruce": null,
+          "cod_partido": "moreno",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7461426571429,
+            "y": -34.5822227551021
+          },
+          "direccion": "Avenida del Libertador 7706, Moreno",
+          "nombre_calle": "Avenida del Libertador",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Trujui",
+          "nombre_partido": "Moreno",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  100142.53008302019,
+                  109521.18707994299
+                ],
+                [
+                  100141.44371827842,
+                  109522.87128404062
+                ],
+                [
+                  100138.25267825201,
+                  109527.81873275962
+                ],
+                [
+                  100136.74510989859,
+                  109530.15711166049
+                ],
+                [
+                  100139.65639270401,
+                  109531.92500716096
+                ],
+                [
+                  100139.74987063376,
+                  109531.98169661404
+                ],
+                [
+                  100144.38489269314,
+                  109534.79580714996
+                ],
+                [
+                  100145.83751710384,
+                  109535.6776804858
+                ],
+                [
+                  100151.96306640588,
+                  109539.39710185744
+                ],
+                [
+                  100152.31090576053,
+                  109539.60810039178
+                ],
+                [
+                  100154.13707763125,
+                  109540.71710917636
+                ],
+                [
+                  100163.04467037223,
+                  109530.76453351398
+                ],
+                [
+                  100143.90999268282,
+                  109519.04700719431
+                ],
+                [
+                  100142.86687501104,
+                  109520.66468004187
+                ],
+                [
+                  100142.53008302019,
+                  109521.18707994299
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "029-096-023C",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AV. DEL LIBERTADOR 7706",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.461671224221064,
+      -34.54336251632359
+    ],
+    "direccion": "",
+    "fondo": "30.82",
+    "frente": "8.63",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "096",
+    "parcela": "023C",
+    "pdamatriz": "378812",
+    "pisos_bajo_rasante": "1",
+    "pisos_sobre_rasante": "13",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "029",
+    "smp": "029-096-023C",
+    "smp_anterior": "029-096-022",
+    "smp_siguiente": "029-096-024A",
+    "srid": 4326,
+    "superficie_cubierta": "4391.00",
+    "superficie_total": "266.00",
+    "unidades_funcionales": "68",
+    "vuc": "0.00"
+  },
+  "smp": "029-096-023C",
+  "_http_status": 200
+}

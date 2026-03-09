@@ -1,0 +1,326 @@
+{
+  "area_m2": 252.5817165374756,
+  "centroide_lonlat": {
+    "lat": -34.666627,
+    "lon": -58.468728
+  },
+  "centroide_xy": {
+    "x": 99502.45012067081,
+    "y": 95855.58308240116
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/48/066-089-017_0000024048.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION066/066-089-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION066/PI-066-089-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "066-089-021",
+            "066-089-020",
+            "066-089-016",
+            "066-089-018"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 157.357890838531,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 252.6,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "066-089-017"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. P. PIÑERO",
+    "barrio": "Villa Lugano",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1439",
+    "codigo_postal_argentino": "C1439FGT",
+    "comisaria": "48",
+    "comisaria_vecinal": "8A",
+    "comuna": "Comuna 8",
+    "distrito_economico": "DISTRITO DEL DEPORTE",
+    "distrito_escolar": "Distrito Escolar   XXI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "66"
+  },
+  "debug": {
+    "address": "GUARDIA NACIONAL 3280",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.46872817199303,
+        -34.666627290810275
+      ],
+      "direccion": "",
+      "fondo": "29.22",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "089",
+      "parcela": "017",
+      "pdamatriz": "82378",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "066",
+      "smp": "066-089-017",
+      "smp_anterior": "066-089-016",
+      "smp_siguiente": "066-089-018",
+      "srid": 4326,
+      "superficie_cubierta": "253.00",
+      "superficie_total": "253.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3280,
+      "cod_calle": 7091
+    },
+    "usig_direccion_elegida": {
+      "altura": 3280,
+      "cod_calle": 7091,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.468869",
+        "y": "-34.666751"
+      },
+      "direccion": "GUARDIA NACIONAL 3280, CABA",
+      "nombre_calle": "GUARDIA NACIONAL",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3280,
+          "cod_calle": 7091,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.468869",
+            "y": "-34.666751"
+          },
+          "direccion": "GUARDIA NACIONAL 3280, CABA",
+          "nombre_calle": "GUARDIA NACIONAL",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99493.04698422058,
+                  95852.07204601119
+                ],
+                [
+                  99497.8399842107,
+                  95857.06604599333
+                ],
+                [
+                  99499.26498420765,
+                  95858.55004598791
+                ],
+                [
+                  99501.71998420305,
+                  95861.10704597848
+                ],
+                [
+                  99505.39298419603,
+                  95864.93404596599
+                ],
+                [
+                  99509.37598418802,
+                  95869.08404595198
+                ],
+                [
+                  99510.83798418303,
+                  95867.67504595386
+                ],
+                [
+                  99512.79698417571,
+                  95865.78804595774
+                ],
+                [
+                  99515.16398416745,
+                  95863.50804596429
+                ],
+                [
+                  99515.611984165,
+                  95863.07604596362
+                ],
+                [
+                  99509.56598417772,
+                  95856.73304598525
+                ],
+                [
+                  99506.66598418339,
+                  95853.69004599683
+                ],
+                [
+                  99503.2549841908,
+                  95850.11304600918
+                ],
+                [
+                  99495.6339842053,
+                  95842.1180460373
+                ],
+                [
+                  99489.26098422783,
+                  95848.12804602503
+                ],
+                [
+                  99493.04698422058,
+                  95852.07204601119
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "066-089-017",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "GUARDIA NACIONAL 3280",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.46872817199303,
+      -34.666627290810275
+    ],
+    "direccion": "",
+    "fondo": "29.22",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "089",
+    "parcela": "017",
+    "pdamatriz": "82378",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "066",
+    "smp": "066-089-017",
+    "smp_anterior": "066-089-016",
+    "smp_siguiente": "066-089-018",
+    "srid": 4326,
+    "superficie_cubierta": "253.00",
+    "superficie_total": "253.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "066-089-017",
+  "_http_status": 200
+}

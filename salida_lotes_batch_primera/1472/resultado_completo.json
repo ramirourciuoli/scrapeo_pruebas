@@ -1,0 +1,354 @@
+{
+  "area_m2": 225.12375450134277,
+  "centroide_lonlat": {
+    "lat": -34.593464,
+    "lon": -58.494707
+  },
+  "centroide_xy": {
+    "x": 97118.67393442462,
+    "y": 103971.56551681721
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/4/20/071-056-003_0000117420.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION071/071-056-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION071/PI-071-056-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": true,
+          "smp_linderas": [
+            "071-056-004",
+            "071-056-002",
+            "071-056-021",
+            "071-056-022"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 110.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 196.532584347854,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 225.1,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "071-056-003"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. A. ZUBIZARRETA",
+    "barrio": "Agronomia",
+    "codigo_de_planeamiento_urbano": "R2b II",
+    "codigo_postal": "1419",
+    "codigo_postal_argentino": "C1419IDF",
+    "comisaria": "47",
+    "comisaria_vecinal": "15C",
+    "comuna": "Comuna 15",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "71"
+  },
+  "debug": {
+    "address": "GUTENBERG 2844",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.49470711252513,
+        -34.59346444605985
+      ],
+      "direccion": "",
+      "fondo": "22.57",
+      "frente": "9.57",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "056",
+      "parcela": "003",
+      "pdamatriz": "257244",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "071",
+      "smp": "071-056-003",
+      "smp_anterior": "071-056-002",
+      "smp_siguiente": "071-056-004",
+      "srid": 4326,
+      "superficie_cubierta": "208.00",
+      "superficie_total": "216.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2844,
+      "cod_calle": 7109
+    },
+    "usig_direccion_elegida": {
+      "altura": 2844,
+      "cod_calle": 7109,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.494707",
+        "y": "-34.593432"
+      },
+      "direccion": "GUTENBERG 2844, CABA",
+      "nombre_calle": "GUTENBERG",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2844,
+          "cod_calle": 7109,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.494707",
+            "y": "-34.593432"
+          },
+          "direccion": "GUTENBERG 2844, CABA",
+          "nombre_calle": "GUTENBERG",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97128.24499695726,
+                  103962.37702504723
+                ],
+                [
+                  97126.75199696084,
+                  103961.25102505137
+                ],
+                [
+                  97123.13899696904,
+                  103958.52502506194
+                ],
+                [
+                  97121.7519969742,
+                  103960.39302505754
+                ],
+                [
+                  97119.86799698089,
+                  103962.93102505157
+                ],
+                [
+                  97119.61099698163,
+                  103963.27702505066
+                ],
+                [
+                  97117.33299699042,
+                  103966.34602504387
+                ],
+                [
+                  97114.88199700035,
+                  103969.64702503648
+                ],
+                [
+                  97113.04099700737,
+                  103972.1260250312
+                ],
+                [
+                  97108.67799702412,
+                  103978.00302501742
+                ],
+                [
+                  97108.0819970265,
+                  103978.80602501589
+                ],
+                [
+                  97106.26099703298,
+                  103981.2590250101
+                ],
+                [
+                  97111.34599701935,
+                  103982.16102500449
+                ],
+                [
+                  97115.75199700802,
+                  103982.94302499865
+                ],
+                [
+                  97116.22999700633,
+                  103982.29802500049
+                ],
+                [
+                  97121.5599969851,
+                  103975.10802501626
+                ],
+                [
+                  97122.5249969822,
+                  103973.8050250189
+                ],
+                [
+                  97124.13199697588,
+                  103971.63702502416
+                ],
+                [
+                  97124.71099697359,
+                  103970.85702502565
+                ],
+                [
+                  97127.36099696293,
+                  103967.28102503423
+                ],
+                [
+                  97128.04199696112,
+                  103966.36302503577
+                ],
+                [
+                  97130.009996953,
+                  103963.7080250415
+                ],
+                [
+                  97128.24499695726,
+                  103962.37702504723
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "071-056-003",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "GUTENBERG 2844",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.49470711252513,
+      -34.59346444605985
+    ],
+    "direccion": "",
+    "fondo": "22.57",
+    "frente": "9.57",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "056",
+    "parcela": "003",
+    "pdamatriz": "257244",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "071",
+    "smp": "071-056-003",
+    "smp_anterior": "071-056-002",
+    "smp_siguiente": "071-056-004",
+    "srid": 4326,
+    "superficie_cubierta": "208.00",
+    "superficie_total": "216.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "071-056-003",
+  "_http_status": 200
+}

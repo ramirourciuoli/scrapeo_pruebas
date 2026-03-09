@@ -1,0 +1,328 @@
+{
+  "area_m2": 219.86760234832764,
+  "centroide_lonlat": {
+    "lat": -34.657417,
+    "lon": -58.470881
+  },
+  "centroide_xy": {
+    "x": 99305.02805375912,
+    "y": 96877.30089335755
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/76/064-130B-001i_0000026076.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION064/064-130B-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION064/PI-064-130B-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "064-130B-002",
+            "064-130B-026b"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "AE 26",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 219.9,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "064-130B-001I"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. P. PIÑERO",
+    "barrio": "Parque Avellaneda",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": null,
+    "codigo_postal_argentino": null,
+    "comisaria": "40",
+    "comisaria_vecinal": "9C",
+    "comuna": "Comuna 9",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "64"
+  },
+  "debug": {
+    "address": "SHANGHAI 2077",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.47088116686635,
+        -34.657417275066706
+      ],
+      "direccion": "",
+      "fondo": "44.00",
+      "frente": "5.00",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "130B",
+      "parcela": "001I",
+      "pdamatriz": "87170",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "064",
+      "smp": "064-130B-001I",
+      "smp_anterior": "064-130B-026B",
+      "smp_siguiente": "064-130B-002",
+      "srid": 4326,
+      "superficie_cubierta": "240.00",
+      "superficie_total": "220.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2077,
+      "cod_calle": 20094
+    },
+    "usig_direccion_elegida": {
+      "altura": 2077,
+      "cod_calle": 20094,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.470776",
+        "y": "-34.657307"
+      },
+      "direccion": "SHANGHAI 2077, CABA",
+      "nombre_calle": "SHANGHAI",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2077,
+          "cod_calle": 20094,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.470776",
+            "y": "-34.657307"
+          },
+          "direccion": "SHANGHAI 2077, CABA",
+          "nombre_calle": "SHANGHAI",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99310.28698551474,
+                  96890.98604323508
+                ],
+                [
+                  99314.0859855028,
+                  96887.73504324167
+                ],
+                [
+                  99311.74398550382,
+                  96881.75804325964
+                ],
+                [
+                  99309.69398550618,
+                  96876.52404327661
+                ],
+                [
+                  99307.13598550798,
+                  96869.99504329829
+                ],
+                [
+                  99306.5779855091,
+                  96868.5710433001
+                ],
+                [
+                  99304.82798550965,
+                  96864.10404331578
+                ],
+                [
+                  99303.53898551455,
+                  96865.19904331176
+                ],
+                [
+                  99301.74298552016,
+                  96866.72204331
+                ],
+                [
+                  99301.384985522,
+                  96867.02604330811
+                ],
+                [
+                  99298.30798553336,
+                  96869.63804330528
+                ],
+                [
+                  99296.94498553826,
+                  96870.79604330228
+                ],
+                [
+                  99294.67898554514,
+                  96872.7190432974
+                ],
+                [
+                  99298.34498553738,
+                  96877.01004328273
+                ],
+                [
+                  99302.9039855295,
+                  96882.34604326522
+                ],
+                [
+                  99304.21698552697,
+                  96883.88204325986
+                ],
+                [
+                  99310.28698551474,
+                  96890.98604323508
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "064-130B-001I",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "SHANGHAI 2077",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.47088116686635,
+      -34.657417275066706
+    ],
+    "direccion": "",
+    "fondo": "44.00",
+    "frente": "5.00",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "130B",
+    "parcela": "001I",
+    "pdamatriz": "87170",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "064",
+    "smp": "064-130B-001I",
+    "smp_anterior": "064-130B-026B",
+    "smp_siguiente": "064-130B-002",
+    "srid": 4326,
+    "superficie_cubierta": "240.00",
+    "superficie_total": "220.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "064-130B-001I",
+  "_http_status": 200
+}

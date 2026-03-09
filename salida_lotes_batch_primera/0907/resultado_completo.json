@@ -1,0 +1,369 @@
+{
+  "area_m2": 162.32610511779785,
+  "centroide_lonlat": {
+    "lat": -34.611268,
+    "lon": -58.527057
+  },
+  "centroide_xy": {
+    "x": 94152.13728134638,
+    "y": 101995.13504348813
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/89/089-018B-008_0000201689.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION089/089-018B-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION089/PI-089-018B-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "089-018B-009",
+            "089-018B-006",
+            "089-018B-007"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 100.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 162.303450000054,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 162.3,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "089-018B-008"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Villa Devoto",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1419",
+    "codigo_postal_argentino": "C1419HHT",
+    "comisaria": "45",
+    "comisaria_vecinal": "11B",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "89"
+  },
+  "debug": {
+    "address": "ASUNCION 5240",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.52705662374864,
+        -34.61126779977585
+      ],
+      "direccion": "",
+      "fondo": "18.82",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "018B",
+      "parcela": "008",
+      "pdamatriz": "291332",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "089",
+      "smp": "089-018B-008",
+      "smp_anterior": "089-018B-007",
+      "smp_siguiente": "089-018B-009",
+      "srid": 4326,
+      "superficie_cubierta": "223.00",
+      "superficie_total": "163.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 5240,
+      "cod_calle": 1131
+    },
+    "usig_direccion_elegida": {
+      "altura": 5240,
+      "cod_calle": 1131,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.527148",
+        "y": "-34.611176"
+      },
+      "direccion": "ASUNCION 5240, CABA",
+      "nombre_calle": "ASUNCION",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 5240,
+          "cod_calle": 1131,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.527148",
+            "y": "-34.611176"
+          },
+          "direccion": "ASUNCION 5240, CABA",
+          "nombre_calle": "ASUNCION",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 5240,
+          "cod_calle": 125887,
+          "cod_calle_cruce": null,
+          "cod_partido": "quilmes",
+          "direccion": "Asunción 5240, Quilmes",
+          "nombre_calle": "Asunción",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ezpeleta",
+          "nombre_partido": "Quilmes",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  94153.62400381232,
+                  101986.63703282629
+                ],
+                [
+                  94153.21000381293,
+                  101987.14003282564
+                ],
+                [
+                  94152.31900381736,
+                  101988.22103282291
+                ],
+                [
+                  94151.57600381988,
+                  101989.12303282088
+                ],
+                [
+                  94149.94600382657,
+                  101991.10203281685
+                ],
+                [
+                  94148.39100383168,
+                  101992.98903281265
+                ],
+                [
+                  94145.88900384138,
+                  101996.025032807
+                ],
+                [
+                  94144.60500384643,
+                  101997.58303280186
+                ],
+                [
+                  94142.8460038519,
+                  101999.71903279686
+                ],
+                [
+                  94149.42300383764,
+                  102005.15703277712
+                ],
+                [
+                  94151.98300382718,
+                  102002.10403278336
+                ],
+                [
+                  94152.62600382614,
+                  102001.33803278714
+                ],
+                [
+                  94153.90200382083,
+                  101999.81703278926
+                ],
+                [
+                  94156.58300381132,
+                  101996.62103279703
+                ],
+                [
+                  94157.09700380887,
+                  101996.00803279984
+                ],
+                [
+                  94157.92000380672,
+                  101995.02603279945
+                ],
+                [
+                  94158.23000380535,
+                  101994.65703279973
+                ],
+                [
+                  94160.2480037977,
+                  101992.25003280517
+                ],
+                [
+                  94161.10400379497,
+                  101991.23003280879
+                ],
+                [
+                  94159.05200379844,
+                  101988.93203281614
+                ],
+                [
+                  94158.05400379947,
+                  101987.81303282076
+                ],
+                [
+                  94156.8580038027,
+                  101986.47403282434
+                ],
+                [
+                  94155.24600380656,
+                  101984.66803282948
+                ],
+                [
+                  94153.62400381232,
+                  101986.63703282629
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "089-018B-008",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ASUNCION 5240",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.52705662374864,
+      -34.61126779977585
+    ],
+    "direccion": "",
+    "fondo": "18.82",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "018B",
+    "parcela": "008",
+    "pdamatriz": "291332",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "089",
+    "smp": "089-018B-008",
+    "smp_anterior": "089-018B-007",
+    "smp_siguiente": "089-018B-009",
+    "srid": 4326,
+    "superficie_cubierta": "223.00",
+    "superficie_total": "163.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "089-018B-008",
+  "_http_status": 200
+}

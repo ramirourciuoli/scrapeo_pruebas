@@ -1,0 +1,392 @@
+{
+  "area_m2": 438.1172876358032,
+  "centroide_lonlat": {
+    "lat": -34.564368,
+    "lon": -58.480671
+  },
+  "centroide_xy": {
+    "x": 98405.81250830727,
+    "y": 107199.66660820844
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 1,
+          "lep": 1,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.0,
+          "fot_perim_libre": 1.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/01/053-105-020_0000434601.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION053/053-105-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION053/PI-053-105-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "053-105-021",
+            "053-105-019",
+            "053-105-004",
+            "053-105-005",
+            "053-105-012"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R1b II 7",
+          "incidencia_uva": 380.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 23077.8
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 216.896625380951,
+        "sup_max_edificable": 1588.9,
+        "superficie_parcela": 438.1,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "053-105-020"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Villa Urquiza",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1430",
+    "codigo_postal_argentino": "C1430BAC",
+    "comisaria": "49",
+    "comisaria_vecinal": "12C",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "53"
+  },
+  "debug": {
+    "address": "AV. CONGRESO 4157",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.48067095154436,
+        -34.564368317949246
+      ],
+      "direccion": "",
+      "fondo": "50.35",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "105",
+      "parcela": "020",
+      "pdamatriz": "346918",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "3",
+      "propiedad_horizontal": "Si",
+      "seccion": "053",
+      "smp": "053-105-020",
+      "smp_anterior": "053-105-019",
+      "smp_siguiente": "053-105-021",
+      "srid": 4326,
+      "superficie_cubierta": "256.00",
+      "superficie_total": "436.00",
+      "unidades_funcionales": "3",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4157,
+      "cod_calle": 3156
+    },
+    "usig_direccion_elegida": {
+      "altura": 4157,
+      "cod_calle": 3156,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.480507",
+        "y": "-34.564584"
+      },
+      "direccion": "CONGRESO AV. 4157, CABA",
+      "nombre_calle": "CONGRESO AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4157,
+          "cod_calle": 3156,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.480507",
+            "y": "-34.564584"
+          },
+          "direccion": "CONGRESO AV. 4157, CABA",
+          "nombre_calle": "CONGRESO AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 4157,
+          "cod_calle": 416533,
+          "cod_calle_cruce": null,
+          "cod_partido": "general_san_martin",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5526178444444,
+            "y": -34.5571474166667
+          },
+          "direccion": "Congreso 4157, General San Martín",
+          "nombre_calle": "Congreso",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Ballester",
+          "nombre_partido": "General San Martín",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98422.93399574945,
+                  107180.71601504713
+                ],
+                [
+                  98415.50799576708,
+                  107176.0760150656
+                ],
+                [
+                  98411.37299578196,
+                  107182.65501505046
+                ],
+                [
+                  98410.74199578498,
+                  107183.65901504617
+                ],
+                [
+                  98408.54099579406,
+                  107187.16001503842
+                ],
+                [
+                  98405.64899580638,
+                  107191.76101502794
+                ],
+                [
+                  98402.72099581774,
+                  107196.42001501881
+                ],
+                [
+                  98398.95999583264,
+                  107202.4040150035
+                ],
+                [
+                  98396.90399584018,
+                  107205.67501499743
+                ],
+                [
+                  98395.57499584643,
+                  107207.7900149927
+                ],
+                [
+                  98391.07199586413,
+                  107214.95501497609
+                ],
+                [
+                  98390.10599586749,
+                  107216.49101497172
+                ],
+                [
+                  98388.67699587384,
+                  107218.76501496523
+                ],
+                [
+                  98395.99399585644,
+                  107223.32801494683
+                ],
+                [
+                  98398.20899584724,
+                  107219.82501495606
+                ],
+                [
+                  98402.0969958324,
+                  107213.67401496964
+                ],
+                [
+                  98403.79399582552,
+                  107210.99001497816
+                ],
+                [
+                  98404.1969958235,
+                  107210.35201497891
+                ],
+                [
+                  98406.26199581525,
+                  107207.08701498626
+                ],
+                [
+                  98406.54199581516,
+                  107206.64401498763
+                ],
+                [
+                  98409.55999580224,
+                  107201.87001499798
+                ],
+                [
+                  98410.0689957999,
+                  107201.06501499924
+                ],
+                [
+                  98412.95499578834,
+                  107196.50001500995
+                ],
+                [
+                  98414.37599578334,
+                  107194.25301501428
+                ],
+                [
+                  98415.9129957767,
+                  107191.8210150222
+                ],
+                [
+                  98418.20799576762,
+                  107188.19101502845
+                ],
+                [
+                  98419.06999576425,
+                  107186.82801503155
+                ],
+                [
+                  98422.93399574945,
+                  107180.71601504713
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "053-105-020",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AV. CONGRESO 4157",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.48067095154436,
+      -34.564368317949246
+    ],
+    "direccion": "",
+    "fondo": "50.35",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "105",
+    "parcela": "020",
+    "pdamatriz": "346918",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "3",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "053",
+    "smp": "053-105-020",
+    "smp_anterior": "053-105-019",
+    "smp_siguiente": "053-105-021",
+    "srid": 4326,
+    "superficie_cubierta": "256.00",
+    "superficie_total": "436.00",
+    "unidades_funcionales": "3",
+    "vuc": "0.00"
+  },
+  "smp": "053-105-020",
+  "_http_status": 200
+}

@@ -1,0 +1,382 @@
+{
+  "area_m2": 185.46879482269287,
+  "centroide_lonlat": {
+    "lat": -34.641367,
+    "lon": -58.495497
+  },
+  "centroide_xy": {
+    "x": 97047.94133284374,
+    "y": 98657.4219963153
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/fp/SECCION060/FP-060-127-013-VD.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION060/060-127-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION060/PI-060-127-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "060-127-011",
+            "060-127-012",
+            "060-127-014"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 60.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 185.5,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "060-127-013"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. P. PIÑERO",
+    "barrio": "Villa Luro",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1407",
+    "codigo_postal_argentino": "C1407IEH",
+    "comisaria": "40",
+    "comisaria_vecinal": "10C",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "60"
+  },
+  "debug": {
+    "address": "DONIZETTI 350",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.495496601703564,
+        -34.64136698028815
+      ],
+      "direccion": "",
+      "fondo": "21.59",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "127",
+      "parcela": "013",
+      "pdamatriz": "7974",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "060",
+      "smp": "060-127-013",
+      "smp_anterior": "060-127-012",
+      "smp_siguiente": "060-127-014",
+      "srid": 4326,
+      "superficie_cubierta": "214.00",
+      "superficie_total": "187.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 350,
+      "cod_calle": 4086
+    },
+    "usig_direccion_elegida": {
+      "altura": 350,
+      "cod_calle": 4086,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.495706",
+        "y": "-34.641130"
+      },
+      "direccion": "DONIZETTI 350, CABA",
+      "nombre_calle": "DONIZETTI",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 350,
+          "cod_calle": 4086,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.495706",
+            "y": "-34.641130"
+          },
+          "direccion": "DONIZETTI 350, CABA",
+          "nombre_calle": "DONIZETTI",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 350,
+          "cod_calle": 17534,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4258634821001,
+            "y": -34.7526990859752
+          },
+          "direccion": "C. Donizetti 350, Lomas de Zamora",
+          "nombre_calle": "C. Donizetti",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lomas de Zamora",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97036.65099322244,
+                  98659.8780399856
+                ],
+                [
+                  97037.29199322147,
+                  98659.98703998499
+                ],
+                [
+                  97044.60899320168,
+                  98661.2330399763
+                ],
+                [
+                  97048.95999318986,
+                  98661.97403997133
+                ],
+                [
+                  97050.15999318684,
+                  98662.17903996899
+                ],
+                [
+                  97053.34399317774,
+                  98662.72103996537
+                ],
+                [
+                  97057.73499316676,
+                  98663.46903995972
+                ],
+                [
+                  97058.18299316351,
+                  98661.0410399668
+                ],
+                [
+                  97058.49599316146,
+                  98659.34103997107
+                ],
+                [
+                  97058.55199316092,
+                  98659.04003997194
+                ],
+                [
+                  97059.31299315565,
+                  98654.91203998248
+                ],
+                [
+                  97056.27899316375,
+                  98654.42003998655
+                ],
+                [
+                  97051.88799317573,
+                  98653.70803999153
+                ],
+                [
+                  97051.66599317624,
+                  98653.67203999244
+                ],
+                [
+                  97050.78399317841,
+                  98653.5290399933
+                ],
+                [
+                  97050.15999318025,
+                  98653.4280399943
+                ],
+                [
+                  97049.56799318167,
+                  98653.33203999509
+                ],
+                [
+                  97048.97499318291,
+                  98653.23603999498
+                ],
+                [
+                  97042.8729931993,
+                  98652.246040003
+                ],
+                [
+                  97038.9059932107,
+                  98651.60304000767
+                ],
+                [
+                  97038.55999321077,
+                  98651.54704000827
+                ],
+                [
+                  97037.9189932127,
+                  98651.44304000874
+                ],
+                [
+                  97037.45799321614,
+                  98654.50904000012
+                ],
+                [
+                  97037.10799321927,
+                  98656.83303999392
+                ],
+                [
+                  97037.02999322015,
+                  98657.35403999311
+                ],
+                [
+                  97036.65099322244,
+                  98659.8780399856
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "060-127-013",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "DONIZETTI 350",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.495496601703564,
+      -34.64136698028815
+    ],
+    "direccion": "",
+    "fondo": "21.59",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "127",
+    "parcela": "013",
+    "pdamatriz": "7974",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "060",
+    "smp": "060-127-013",
+    "smp_anterior": "060-127-012",
+    "smp_siguiente": "060-127-014",
+    "srid": 4326,
+    "superficie_cubierta": "214.00",
+    "superficie_total": "187.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "060-127-013",
+  "_http_status": 200
+}

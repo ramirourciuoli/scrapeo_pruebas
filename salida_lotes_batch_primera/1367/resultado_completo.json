@@ -1,0 +1,391 @@
+{
+  "area_m2": 297.2455892562866,
+  "centroide_lonlat": {
+    "lat": -34.585719,
+    "lon": -58.421127
+  },
+  "centroide_xy": {
+    "x": 103869.35369544785,
+    "y": 104830.39919057146
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 4.12,
+          "fot_perim_libre": 4.12,
+          "fot_semi_libre": 4.12
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/3/48/019-138-012_0000254348.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION019/019-138-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION019/PI-019-138-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "019-138-013",
+            "019-138-011",
+            "019-138-004b",
+            "019-138-007"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2a I",
+          "incidencia_uva": 470.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 156.915920093693,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 297.2,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "019-138-012"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.A.FERNÁNDEZ",
+    "barrio": "Palermo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1425",
+    "codigo_postal_argentino": "C1425FBE",
+    "comisaria": "23",
+    "comisaria_vecinal": "14A",
+    "comuna": "Comuna 14",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   IX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "19"
+  },
+  "debug": {
+    "address": "ARMENIA 2279",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.42112708061406,
+        -34.585719463208854
+      ],
+      "direccion": "",
+      "fondo": "37.37",
+      "frente": "8.00",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "138",
+      "parcela": "012",
+      "pdamatriz": "426949",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "8",
+      "propiedad_horizontal": "Si",
+      "seccion": "019",
+      "smp": "019-138-012",
+      "smp_anterior": "019-138-011",
+      "smp_siguiente": "019-138-013",
+      "srid": 4326,
+      "superficie_cubierta": "1814.00",
+      "superficie_total": "299.00",
+      "unidades_funcionales": "16",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2279,
+      "cod_calle": 1003
+    },
+    "usig_direccion_elegida": {
+      "altura": 2279,
+      "cod_calle": 1003,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.421268",
+        "y": "-34.585567"
+      },
+      "direccion": "ARMENIA 2279, CABA",
+      "nombre_calle": "ARMENIA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2279,
+          "cod_calle": 1003,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.421268",
+            "y": "-34.585567"
+          },
+          "direccion": "ARMENIA 2279, CABA",
+          "nombre_calle": "ARMENIA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2279,
+          "cod_calle": 55125,
+          "cod_calle_cruce": null,
+          "cod_partido": "vicente_lopez",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5203868928571,
+            "y": -34.5321220357143
+          },
+          "direccion": "Armenia 2279, Vicente López",
+          "nombre_calle": "Armenia",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Munro",
+          "nombre_partido": "Vicente López",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  103866.84497871932,
+                  104839.13101751605
+                ],
+                [
+                  103866.97697871906,
+                  104838.9920175159
+                ],
+                [
+                  103867.39597871732,
+                  104838.55201751736
+                ],
+                [
+                  103868.36697871375,
+                  104837.53401751933
+                ],
+                [
+                  103873.07997869722,
+                  104832.59001752947
+                ],
+                [
+                  103873.42497869575,
+                  104832.22801753052
+                ],
+                [
+                  103877.57297868088,
+                  104827.87701753981
+                ],
+                [
+                  103879.53197867364,
+                  104825.8210175442
+                ],
+                [
+                  103881.32597866787,
+                  104823.94001754807
+                ],
+                [
+                  103884.22797865723,
+                  104820.89501755362
+                ],
+                [
+                  103878.34397866823,
+                  104814.32401757693
+                ],
+                [
+                  103872.99897868792,
+                  104820.21201756471
+                ],
+                [
+                  103869.23597870133,
+                  104824.35801755561
+                ],
+                [
+                  103867.284978709,
+                  104826.50701755128
+                ],
+                [
+                  103867.18997870959,
+                  104826.6120175506
+                ],
+                [
+                  103866.18097871271,
+                  104827.72401754887
+                ],
+                [
+                  103862.33297872645,
+                  104831.96301753997
+                ],
+                [
+                  103860.7919787328,
+                  104833.66101753621
+                ],
+                [
+                  103859.48597873676,
+                  104835.09901753324
+                ],
+                [
+                  103859.150978738,
+                  104835.46801753237
+                ],
+                [
+                  103855.32297875219,
+                  104839.68501752272
+                ],
+                [
+                  103853.89297875765,
+                  104841.26101751969
+                ],
+                [
+                  103854.28997875664,
+                  104841.5660175182
+                ],
+                [
+                  103857.47297874976,
+                  104844.0110175093
+                ],
+                [
+                  103860.19797874332,
+                  104846.10401750176
+                ],
+                [
+                  103861.64897873846,
+                  104844.58101750485
+                ],
+                [
+                  103863.80197873065,
+                  104842.32301750922
+                ],
+                [
+                  103866.84497871932,
+                  104839.13101751605
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "019-138-012",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ARMENIA 2279",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.42112708061406,
+      -34.585719463208854
+    ],
+    "direccion": "",
+    "fondo": "37.37",
+    "frente": "8.00",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "138",
+    "parcela": "012",
+    "pdamatriz": "426949",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "8",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "019",
+    "smp": "019-138-012",
+    "smp_anterior": "019-138-011",
+    "smp_siguiente": "019-138-013",
+    "srid": 4326,
+    "superficie_cubierta": "1814.00",
+    "superficie_total": "299.00",
+    "unidades_funcionales": "16",
+    "vuc": "0.00"
+  },
+  "smp": "019-138-012",
+  "_http_status": 200
+}

@@ -1,0 +1,371 @@
+{
+  "area_m2": 327.1315402984619,
+  "centroide_lonlat": {
+    "lat": -34.611134,
+    "lon": -58.519226
+  },
+  "centroide_xy": {
+    "x": 94870.3503961005,
+    "y": 102010.41707443366
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/90/087-057-034_0000199090.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION087/087-057-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION087/PI-087-057-V4.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "087-057-004a",
+            "087-057-015",
+            "087-057-033",
+            "087-057-016",
+            "087-057-035"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 230.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 179.598279442317,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 327.1,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "087-057-034"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. A. ZUBIZARRETA",
+    "barrio": "Villa Devoto",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1417",
+    "codigo_postal_argentino": "C1417BVF",
+    "comisaria": "45",
+    "comisaria_vecinal": "11B",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "87"
+  },
+  "debug": {
+    "address": "QUEVEDO 3454",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.51922618410119,
+        -34.61113388984075
+      ],
+      "direccion": "",
+      "fondo": "37.65",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "057",
+      "parcela": "034",
+      "pdamatriz": "280149",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "087",
+      "smp": "087-057-034",
+      "smp_anterior": "087-057-033",
+      "smp_siguiente": "087-057-035",
+      "srid": 4326,
+      "superficie_cubierta": "326.00",
+      "superficie_total": "326.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3454,
+      "cod_calle": 18006
+    },
+    "usig_direccion_elegida": {
+      "altura": 3454,
+      "cod_calle": 18006,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.519019",
+        "y": "-34.610994"
+      },
+      "direccion": "QUEVEDO 3454, CABA",
+      "nombre_calle": "QUEVEDO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3454,
+          "cod_calle": 18006,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.519019",
+            "y": "-34.610994"
+          },
+          "direccion": "QUEVEDO 3454, CABA",
+          "nombre_calle": "QUEVEDO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  94874.87100180608,
+                  102008.5080322228
+                ],
+                [
+                  94873.03100181025,
+                  102006.97903222835
+                ],
+                [
+                  94872.23100181125,
+                  102006.31303223062
+                ],
+                [
+                  94870.60300181522,
+                  102004.96003223554
+                ],
+                [
+                  94867.19200182235,
+                  102002.12503224611
+                ],
+                [
+                  94865.63200182613,
+                  102000.82803225069
+                ],
+                [
+                  94863.94000183004,
+                  101999.42203225638
+                ],
+                [
+                  94862.8080018323,
+                  101998.48103225933
+                ],
+                [
+                  94862.36600183345,
+                  101998.11303226088
+                ],
+                [
+                  94858.48200184137,
+                  101994.88403227256
+                ],
+                [
+                  94853.46300186106,
+                  102001.59103225794
+                ],
+                [
+                  94859.99500184688,
+                  102007.53403223635
+                ],
+                [
+                  94862.65100184058,
+                  102009.75003222816
+                ],
+                [
+                  94866.88300183218,
+                  102013.28003221529
+                ],
+                [
+                  94873.9460018169,
+                  102019.17203219343
+                ],
+                [
+                  94874.72200181478,
+                  102019.82003219108
+                ],
+                [
+                  94876.23500181176,
+                  102021.08303218576
+                ],
+                [
+                  94877.05200180977,
+                  102021.76303218387
+                ],
+                [
+                  94878.29000180699,
+                  102022.7960321799
+                ],
+                [
+                  94881.05000180079,
+                  102025.09903217165
+                ],
+                [
+                  94881.81700179909,
+                  102025.73903216893
+                ],
+                [
+                  94882.98400179512,
+                  102024.3450321717
+                ],
+                [
+                  94886.74100178143,
+                  102019.85803218168
+                ],
+                [
+                  94887.47300177856,
+                  102018.98403218374
+                ],
+                [
+                  94883.45100178749,
+                  102015.6410321958
+                ],
+                [
+                  94880.15900179424,
+                  102012.90403220625
+                ],
+                [
+                  94874.87100180608,
+                  102008.5080322228
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "087-057-034",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "QUEVEDO 3454",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.51922618410119,
+      -34.61113388984075
+    ],
+    "direccion": "",
+    "fondo": "37.65",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "057",
+    "parcela": "034",
+    "pdamatriz": "280149",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "087",
+    "smp": "087-057-034",
+    "smp_anterior": "087-057-033",
+    "smp_siguiente": "087-057-035",
+    "srid": 4326,
+    "superficie_cubierta": "326.00",
+    "superficie_total": "326.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "087-057-034",
+  "_http_status": 200
+}

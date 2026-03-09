@@ -1,0 +1,333 @@
+{
+  "area_m2": 168.06281280517578,
+  "centroide_lonlat": {
+    "lat": -34.593895,
+    "lon": -58.451954
+  },
+  "centroide_xy": {
+    "x": 101040.89926996581,
+    "y": 103924.16179405467
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 2.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/8/51/047-125-026_0000129851.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION047/047-125-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION047/PI-047-125-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "047-125-025",
+            "047-125-029",
+            "047-125-027"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "E2",
+          "incidencia_uva": 50.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 1668.89,
+          "plusvalia_sl": 1668.89
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 154.526696229125,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 168.1,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "047-125-026"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. E. TORNÚ",
+    "barrio": "Chacarita",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1427",
+    "codigo_postal_argentino": "C1427EMK",
+    "comisaria": "29",
+    "comisaria_vecinal": "15A",
+    "comuna": "Comuna 15",
+    "distrito_economico": "DISTRITO AUDIOVISUAL",
+    "distrito_escolar": "Distrito Escolar   XIV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "47"
+  },
+  "debug": {
+    "address": "LEIVA 4429",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.45195390587336,
+        -34.593895266257526
+      ],
+      "direccion": "",
+      "fondo": "18.16",
+      "frente": "9.25",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "125",
+      "parcela": "026",
+      "pdamatriz": "227160",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "047",
+      "smp": "047-125-026",
+      "smp_anterior": "047-125-025",
+      "smp_siguiente": "047-125-027",
+      "srid": 4326,
+      "superficie_cubierta": "225.00",
+      "superficie_total": "168.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4429,
+      "cod_calle": 12097
+    },
+    "usig_direccion_elegida": {
+      "altura": 4429,
+      "cod_calle": 12097,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.451845",
+        "y": "-34.593977"
+      },
+      "direccion": "LEIVA 4429, CABA",
+      "nombre_calle": "LEIVA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4429,
+          "cod_calle": 12097,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.451845",
+            "y": "-34.593977"
+          },
+          "direccion": "LEIVA 4429, CABA",
+          "nombre_calle": "LEIVA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  101051.6659859247,
+                  103922.28402220685
+                ],
+                [
+                  101051.31198592519,
+                  103921.90302220781
+                ],
+                [
+                  101045.51498593576,
+                  103915.67502222944
+                ],
+                [
+                  101045.30998593697,
+                  103915.45402223017
+                ],
+                [
+                  101041.87298594823,
+                  103917.91402222545
+                ],
+                [
+                  101040.44898595278,
+                  103918.93302222333
+                ],
+                [
+                  101036.16498596742,
+                  103921.99902221787
+                ],
+                [
+                  101035.35198597048,
+                  103922.58102221743
+                ],
+                [
+                  101031.87298598171,
+                  103925.07102221446
+                ],
+                [
+                  101030.1919859876,
+                  103926.27402221141
+                ],
+                [
+                  101033.38698598176,
+                  103929.77702219744
+                ],
+                [
+                  101034.80698597786,
+                  103931.33402219345
+                ],
+                [
+                  101036.15198597561,
+                  103932.80802218823
+                ],
+                [
+                  101043.45098595246,
+                  103927.85702219675
+                ],
+                [
+                  101045.20398594538,
+                  103926.66802219817
+                ],
+                [
+                  101048.06098593606,
+                  103924.72902220211
+                ],
+                [
+                  101049.62198593166,
+                  103923.6710222029
+                ],
+                [
+                  101051.6659859247,
+                  103922.28402220685
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "047-125-026",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "LEIVA 4429",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.45195390587336,
+      -34.593895266257526
+    ],
+    "direccion": "",
+    "fondo": "18.16",
+    "frente": "9.25",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "125",
+    "parcela": "026",
+    "pdamatriz": "227160",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "047",
+    "smp": "047-125-026",
+    "smp_anterior": "047-125-025",
+    "smp_siguiente": "047-125-027",
+    "srid": 4326,
+    "superficie_cubierta": "225.00",
+    "superficie_total": "168.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "047-125-026",
+  "_http_status": 200
+}

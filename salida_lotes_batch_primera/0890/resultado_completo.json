@@ -1,0 +1,485 @@
+{
+  "area_m2": 328.23312187194824,
+  "centroide_lonlat": {
+    "lat": -34.586116,
+    "lon": -58.419493
+  },
+  "centroide_xy": {
+    "x": 104019.22232127322,
+    "y": 104786.36282815422
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 4.13,
+          "fot_perim_libre": 4.13,
+          "fot_semi_libre": 4.13
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/8/26/019-151-012_0000254826.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION019/019-151-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION019/PI-019-151-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "019-151-013",
+            "019-151-011",
+            "019-151-015",
+            "019-151-014"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2a I",
+          "incidencia_uva": 450.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 328.138950000173,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 328.2,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "019-151-012"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.A.FERNÁNDEZ",
+    "barrio": "Palermo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1425",
+    "codigo_postal_argentino": "C1425EZG",
+    "comisaria": "23",
+    "comisaria_vecinal": "14A",
+    "comuna": "Comuna 14",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   IX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "19"
+  },
+  "debug": {
+    "address": "MALABIA 2319",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.41949342261735,
+        -34.58611584254677
+      ],
+      "direccion": "",
+      "fondo": "31.54",
+      "frente": "10.40",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "151",
+      "parcela": "012",
+      "pdamatriz": "426589",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "019",
+      "smp": "019-151-012",
+      "smp_anterior": "019-151-011",
+      "smp_siguiente": "019-151-013",
+      "srid": 4326,
+      "superficie_cubierta": "1445.00",
+      "superficie_total": "328.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2319,
+      "cod_calle": 13016
+    },
+    "usig_direccion_elegida": {
+      "altura": 2319,
+      "cod_calle": 13016,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.419618",
+        "y": "-34.585980"
+      },
+      "direccion": "MALABIA 2319, CABA",
+      "nombre_calle": "MALABIA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2319,
+          "cod_calle": 13016,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.419618",
+            "y": "-34.585980"
+          },
+          "direccion": "MALABIA 2319, CABA",
+          "nombre_calle": "MALABIA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2319,
+          "cod_calle": 36792,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5661126877551,
+            "y": -34.6721088663265
+          },
+          "direccion": "Malabia 2319, La Matanza",
+          "nombre_calle": "Malabia",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Justo",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2319,
+          "cod_calle": 233619,
+          "cod_calle_cruce": null,
+          "cod_partido": "malvinas_argentinas",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6808282755102,
+            "y": -34.5171799428571
+          },
+          "direccion": "José Malabia 2319, Malvinas Argentinas",
+          "nombre_calle": "José Malabia",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Los Polvorines",
+          "nombre_partido": "Malvinas Argentinas",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2319,
+          "cod_calle": 7333,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_isidro",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5715443734694,
+            "y": -34.5082393897959
+          },
+          "direccion": "Malabia 2319, San Isidro",
+          "nombre_calle": "Malabia",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Boulogne Sur Mer",
+          "nombre_partido": "San Isidro",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  104004.61897830058,
+                  104795.83501753365
+                ],
+                [
+                  104004.74497830046,
+                  104795.93001753307
+                ],
+                [
+                  104007.13997829464,
+                  104797.7380175264
+                ],
+                [
+                  104007.9789782934,
+                  104798.3710175243
+                ],
+                [
+                  104009.57197828926,
+                  104799.57301751937
+                ],
+                [
+                  104010.22597828787,
+                  104800.06701751743
+                ],
+                [
+                  104012.61997828282,
+                  104801.87401751065
+                ],
+                [
+                  104012.74897828225,
+                  104801.97101751028
+                ],
+                [
+                  104013.98497827818,
+                  104800.48001751408
+                ],
+                [
+                  104015.18497827298,
+                  104799.03201751647
+                ],
+                [
+                  104016.45297826845,
+                  104797.50301751969
+                ],
+                [
+                  104018.61297826059,
+                  104794.89801752588
+                ],
+                [
+                  104018.71397825997,
+                  104794.77701752583
+                ],
+                [
+                  104020.61297825314,
+                  104792.4850175314
+                ],
+                [
+                  104021.6489782496,
+                  104791.23601753337
+                ],
+                [
+                  104021.85797824862,
+                  104790.9840175345
+                ],
+                [
+                  104022.81797824505,
+                  104789.82601753721
+                ],
+                [
+                  104023.92497824077,
+                  104788.49101754016
+                ],
+                [
+                  104025.09097823665,
+                  104787.08301754246
+                ],
+                [
+                  104026.13697823283,
+                  104785.8230175454
+                ],
+                [
+                  104026.56697823093,
+                  104785.30401754621
+                ],
+                [
+                  104028.31497822507,
+                  104783.19501755162
+                ],
+                [
+                  104029.4439782206,
+                  104781.83301755393
+                ],
+                [
+                  104032.06297821082,
+                  104778.67401756081
+                ],
+                [
+                  104033.75097820461,
+                  104776.63801756589
+                ],
+                [
+                  104031.50497820936,
+                  104774.87101757253
+                ],
+                [
+                  104027.55497821789,
+                  104771.76401758433
+                ],
+                [
+                  104026.11397822143,
+                  104770.63001758812
+                ],
+                [
+                  104024.1759782285,
+                  104772.90301758324
+                ],
+                [
+                  104023.46197823144,
+                  104773.73901758157
+                ],
+                [
+                  104022.87697823363,
+                  104774.42501757984
+                ],
+                [
+                  104020.57897824165,
+                  104777.12001757429
+                ],
+                [
+                  104018.39597824955,
+                  104779.68001756835
+                ],
+                [
+                  104017.71197825264,
+                  104780.48201756677
+                ],
+                [
+                  104016.47697825686,
+                  104781.93001756349
+                ],
+                [
+                  104014.23597826468,
+                  104784.5580175583
+                ],
+                [
+                  104013.67397826689,
+                  104785.21701755689
+                ],
+                [
+                  104013.11397826934,
+                  104785.87401755509
+                ],
+                [
+                  104011.82997827412,
+                  104787.37901755172
+                ],
+                [
+                  104010.37597827957,
+                  104789.08501754826
+                ],
+                [
+                  104010.06097828031,
+                  104789.4540175474
+                ],
+                [
+                  104005.14997829901,
+                  104795.21201753535
+                ],
+                [
+                  104004.61897830058,
+                  104795.83501753365
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "019-151-012",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MALABIA 2319",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.41949342261735,
+      -34.58611584254677
+    ],
+    "direccion": "",
+    "fondo": "31.54",
+    "frente": "10.40",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "151",
+    "parcela": "012",
+    "pdamatriz": "426589",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "019",
+    "smp": "019-151-012",
+    "smp_anterior": "019-151-011",
+    "smp_siguiente": "019-151-013",
+    "srid": 4326,
+    "superficie_cubierta": "1445.00",
+    "superficie_total": "328.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "019-151-012",
+  "_http_status": 200
+}

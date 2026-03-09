@@ -1,0 +1,373 @@
+{
+  "area_m2": 494.4430561065674,
+  "centroide_lonlat": {
+    "lat": -34.618211,
+    "lon": -58.453961
+  },
+  "centroide_xy": {
+    "x": 100856.49819288604,
+    "y": 101226.7051295854
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/9/78/057-062-039_0000130978.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION057/057-062-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION057/PI-057-062-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "057-062-015",
+            "057-062-038",
+            "057-062-040"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 300.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 325.159609454632,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 494.4,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "057-062-039"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. T. ÁLVAREZ",
+    "barrio": "Caballito",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1405",
+    "codigo_postal_argentino": "C1405ASD",
+    "comisaria": "13",
+    "comisaria_vecinal": "6A",
+    "comuna": "Comuna 6",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "57"
+  },
+  "debug": {
+    "address": "JOSE JUAN BIEDMA 560",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.45396120340101,
+        -34.61821088830382
+      ],
+      "direccion": "",
+      "fondo": "56.81",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "062",
+      "parcela": "039",
+      "pdamatriz": "132076",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "057",
+      "smp": "057-062-039",
+      "smp_anterior": "057-062-038",
+      "smp_siguiente": "057-062-040",
+      "srid": 4326,
+      "superficie_cubierta": "385.00",
+      "superficie_total": "492.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 560,
+      "cod_calle": 2080
+    },
+    "usig_direccion_elegida": {
+      "altura": 560,
+      "cod_calle": 2080,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.453627",
+        "y": "-34.618104"
+      },
+      "direccion": "BIEDMA, JOSE JUAN 560, CABA",
+      "nombre_calle": "BIEDMA, JOSE JUAN",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 560,
+          "cod_calle": 2080,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.453627",
+            "y": "-34.618104"
+          },
+          "direccion": "BIEDMA, JOSE JUAN 560, CABA",
+          "nombre_calle": "BIEDMA, JOSE JUAN",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  100831.52498450199,
+                  101212.70002997157
+                ],
+                [
+                  100829.28898451236,
+                  101218.68802995575
+                ],
+                [
+                  100828.47198451673,
+                  101220.87402995006
+                ],
+                [
+                  100833.06798450577,
+                  101222.59602994102
+                ],
+                [
+                  100855.13698444993,
+                  101230.86502990249
+                ],
+                [
+                  100862.16298443181,
+                  101233.49702988891
+                ],
+                [
+                  100862.75298442964,
+                  101233.71802988928
+                ],
+                [
+                  100863.31498442942,
+                  101233.92902988842
+                ],
+                [
+                  100864.35998442626,
+                  101234.32002988466
+                ],
+                [
+                  100866.59198442132,
+                  101235.15702987948
+                ],
+                [
+                  100867.52098441788,
+                  101235.5050298796
+                ],
+                [
+                  100868.92498441436,
+                  101236.03102987618
+                ],
+                [
+                  100873.36098440376,
+                  101237.69302986815
+                ],
+                [
+                  100874.60898440101,
+                  101238.160029866
+                ],
+                [
+                  100881.38698438386,
+                  101240.70002985458
+                ],
+                [
+                  100881.87898438037,
+                  101239.4240298564
+                ],
+                [
+                  100884.53698436797,
+                  101232.52502987572
+                ],
+                [
+                  100877.93898438483,
+                  101230.05702988803
+                ],
+                [
+                  100877.6609843861,
+                  101229.9530298876
+                ],
+                [
+                  100876.91298438708,
+                  101229.6740298882
+                ],
+                [
+                  100866.3799844136,
+                  101225.73502990804
+                ],
+                [
+                  100865.81898441538,
+                  101225.52502990997
+                ],
+                [
+                  100860.23798442932,
+                  101223.43802991734
+                ],
+                [
+                  100848.82698445764,
+                  101219.1700299386
+                ],
+                [
+                  100844.28798446956,
+                  101217.47302994755
+                ],
+                [
+                  100840.54298448024,
+                  101216.072029954
+                ],
+                [
+                  100836.14198449039,
+                  101214.42702996067
+                ],
+                [
+                  100831.52498450199,
+                  101212.70002997157
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "057-062-039",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "JOSE JUAN BIEDMA 560",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.45396120340101,
+      -34.61821088830382
+    ],
+    "direccion": "",
+    "fondo": "56.81",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "062",
+    "parcela": "039",
+    "pdamatriz": "132076",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "057",
+    "smp": "057-062-039",
+    "smp_anterior": "057-062-038",
+    "smp_siguiente": "057-062-040",
+    "srid": 4326,
+    "superficie_cubierta": "385.00",
+    "superficie_total": "492.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "057-062-039",
+  "_http_status": 200
+}

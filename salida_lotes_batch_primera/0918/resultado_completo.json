@@ -1,0 +1,337 @@
+{
+  "area_m2": 122.85757732391357,
+  "centroide_lonlat": {
+    "lat": -34.610787,
+    "lon": -58.479952
+  },
+  "centroide_xy": {
+    "x": 98472.66568734715,
+    "y": 102050.16632330946
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "PEV",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.44,
+          "fot_perim_libre": 3.44,
+          "fot_semi_libre": 3.44
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/4/36/067-058-011_0000427436.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION067/067-058-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION067/PI-067-058-V4.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "067-058-010b",
+            "067-058-012"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2a II",
+          "incidencia_uva": 60.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 122.872750000063,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 122.9,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "067-058-011"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. T. ÁLVAREZ",
+    "barrio": "Villa Santa Rita",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1416",
+    "codigo_postal_argentino": "C1416ARQ",
+    "comisaria": "41",
+    "comisaria_vecinal": "11A",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "67"
+  },
+  "debug": {
+    "address": "TERRADA 1995",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.479951752616806,
+        -34.610787268981895
+      ],
+      "direccion": "",
+      "fondo": "20.00",
+      "frente": "5.75",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "058",
+      "parcela": "011",
+      "pdamatriz": "249708",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "5",
+      "propiedad_horizontal": "Si",
+      "seccion": "067",
+      "smp": "067-058-011",
+      "smp_anterior": "067-058-010B",
+      "smp_siguiente": "067-058-012",
+      "srid": 4326,
+      "superficie_cubierta": "703.00",
+      "superficie_total": "115.00",
+      "unidades_funcionales": "8",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1995,
+      "cod_calle": 21021
+    },
+    "usig_direccion_elegida": {
+      "altura": 1995,
+      "cod_calle": 21021,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.480035",
+        "y": "-34.610839"
+      },
+      "direccion": "TERRADA 1995, CABA",
+      "nombre_calle": "TERRADA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1995,
+          "cod_calle": 21021,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.480035",
+            "y": "-34.610839"
+          },
+          "direccion": "TERRADA 1995, CABA",
+          "nombre_calle": "TERRADA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1995,
+          "cod_calle": 23986,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4590459846939,
+            "y": -34.7491817510204
+          },
+          "direccion": "Terrada 1995, Lomas de Zamora",
+          "nombre_calle": "Terrada",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ingeniero Budge",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98470.27799174868,
+                  102042.64302942032
+                ],
+                [
+                  98467.13099176105,
+                  102047.4310294099
+                ],
+                [
+                  98464.63809177135,
+                  102050.98062940093
+                ],
+                [
+                  98468.3909917617,
+                  102053.27102939214
+                ],
+                [
+                  98475.41399174521,
+                  102057.75602937437
+                ],
+                [
+                  98478.31979173355,
+                  102052.72562938582
+                ],
+                [
+                  98480.37899172529,
+                  102049.16202939389
+                ],
+                [
+                  98478.70599172918,
+                  102048.08202939958
+                ],
+                [
+                  98478.1149917305,
+                  102047.70102940072
+                ],
+                [
+                  98477.27499173302,
+                  102047.15902940178
+                ],
+                [
+                  98476.95899173335,
+                  102046.95502940204
+                ],
+                [
+                  98475.22399173724,
+                  102045.83502940758
+                ],
+                [
+                  98474.94899173822,
+                  102045.65802940706
+                ],
+                [
+                  98474.56139173919,
+                  102045.40782940993
+                ],
+                [
+                  98470.27799174868,
+                  102042.64302942032
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "067-058-011",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "TERRADA 1995",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.479951752616806,
+      -34.610787268981895
+    ],
+    "direccion": "",
+    "fondo": "20.00",
+    "frente": "5.75",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "058",
+    "parcela": "011",
+    "pdamatriz": "249708",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "5",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "067",
+    "smp": "067-058-011",
+    "smp_anterior": "067-058-010B",
+    "smp_siguiente": "067-058-012",
+    "srid": 4326,
+    "superficie_cubierta": "703.00",
+    "superficie_total": "115.00",
+    "unidades_funcionales": "8",
+    "vuc": "0.00"
+  },
+  "smp": "067-058-011",
+  "_http_status": 200
+}

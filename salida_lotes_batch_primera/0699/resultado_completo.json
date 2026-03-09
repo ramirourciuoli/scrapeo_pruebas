@@ -1,0 +1,455 @@
+{
+  "area_m2": 377.493013381958,
+  "centroide_lonlat": {
+    "lat": -34.580339,
+    "lon": -58.465511
+  },
+  "centroide_xy": {
+    "x": 99797.17311073844,
+    "y": 105428.05725012961
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/51/049-105-016_0000095551.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION049/049-105-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION049/PI-049-105-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "049-105-017",
+            "049-105-015",
+            "049-105-007"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 300.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 224.783157336069,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 377.5,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "049-105-016"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. E. TORNÚ",
+    "barrio": "Villa Ortuzar",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1427",
+    "codigo_postal_argentino": "C1427BYG",
+    "comisaria": "37",
+    "comisaria_vecinal": "15C",
+    "comuna": "Comuna 15",
+    "distrito_economico": "DISTRITO AUDIOVISUAL",
+    "distrito_escolar": "Distrito Escolar   XIV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "49"
+  },
+  "debug": {
+    "address": "CHARLONE 1657",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.46551051107188,
+        -34.58033929076154
+      ],
+      "direccion": "",
+      "fondo": "43.63",
+      "frente": "8.64",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "105",
+      "parcela": "016",
+      "pdamatriz": "239512",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "2",
+      "propiedad_horizontal": "Si",
+      "seccion": "049",
+      "smp": "049-105-016",
+      "smp_anterior": "049-105-015",
+      "smp_siguiente": "049-105-017",
+      "srid": 4326,
+      "superficie_cubierta": "350.00",
+      "superficie_total": "377.00",
+      "unidades_funcionales": "5",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1657,
+      "cod_calle": 3220
+    },
+    "usig_direccion_elegida": {
+      "altura": 1657,
+      "cod_calle": 3220,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.465522",
+        "y": "-34.580578"
+      },
+      "direccion": "CHARLONE 1657, CABA",
+      "nombre_calle": "CHARLONE",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1657,
+          "cod_calle": 3220,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.465522",
+            "y": "-34.580578"
+          },
+          "direccion": "CHARLONE 1657, CABA",
+          "nombre_calle": "CHARLONE",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1657,
+          "cod_calle": 10149,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5051391020408,
+            "y": -34.6743094663265
+          },
+          "direccion": "Charlone 1657, La Matanza",
+          "nombre_calle": "Charlone",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "La Tablada",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1657,
+          "cod_calle": 10917,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_miguel",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7130082424243,
+            "y": -34.5466848348485
+          },
+          "direccion": "Charlone 1657, San Miguel",
+          "nombre_calle": "Charlone",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Miguel",
+          "nombre_partido": "San Miguel",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99792.35399057722,
+                  105411.70901897698
+                ],
+                [
+                  99792.38399057723,
+                  105412.708018974
+                ],
+                [
+                  99792.39899057816,
+                  105413.20801897257
+                ],
+                [
+                  99792.41399057818,
+                  105413.70801897117
+                ],
+                [
+                  99792.46099057945,
+                  105415.23301896724
+                ],
+                [
+                  99792.50499058017,
+                  105416.70801896264
+                ],
+                [
+                  99792.51599058037,
+                  105417.07001896229
+                ],
+                [
+                  99792.57199058145,
+                  105418.9090189568
+                ],
+                [
+                  99792.58599058221,
+                  105419.37401895534
+                ],
+                [
+                  99792.80499058662,
+                  105426.59801893533
+                ],
+                [
+                  99793.04599059228,
+                  105434.52001891224
+                ],
+                [
+                  99793.17299059541,
+                  105438.73101890046
+                ],
+                [
+                  99793.36599059962,
+                  105445.0830188824
+                ],
+                [
+                  99793.43799060091,
+                  105447.47101887598
+                ],
+                [
+                  99793.51499060218,
+                  105449.99701886936
+                ],
+                [
+                  99796.13299059549,
+                  105449.90701886688
+                ],
+                [
+                  99796.37199059487,
+                  105449.89901886726
+                ],
+                [
+                  99799.15999058669,
+                  105449.80401886476
+                ],
+                [
+                  99802.19599057843,
+                  105449.70001886343
+                ],
+                [
+                  99802.16599057752,
+                  105448.7590188655
+                ],
+                [
+                  99802.10099057581,
+                  105446.76001887131
+                ],
+                [
+                  99802.06399057547,
+                  105445.60401887505
+                ],
+                [
+                  99802.01299057447,
+                  105444.02701887905
+                ],
+                [
+                  99801.89999057227,
+                  105440.53601888948
+                ],
+                [
+                  99801.81799057018,
+                  105438.01801889643
+                ],
+                [
+                  99801.80099056981,
+                  105437.46901889739
+                ],
+                [
+                  99801.59799056592,
+                  105431.20101891592
+                ],
+                [
+                  99801.45599056303,
+                  105426.78801892773
+                ],
+                [
+                  99801.33399056009,
+                  105423.02401893889
+                ],
+                [
+                  99801.23499055859,
+                  105419.97401894766
+                ],
+                [
+                  99801.18399055759,
+                  105418.39001895147
+                ],
+                [
+                  99801.1619905563,
+                  105417.69001895419
+                ],
+                [
+                  99801.13099055618,
+                  105416.76001895618
+                ],
+                [
+                  99801.0159905536,
+                  105413.17201896681
+                ],
+                [
+                  99800.7849905492,
+                  105406.0390189866
+                ],
+                [
+                  99800.18499055035,
+                  105406.06101898689
+                ],
+                [
+                  99799.51199055274,
+                  105406.08501898753
+                ],
+                [
+                  99792.98899057119,
+                  105406.31801899179
+                ],
+                [
+                  99792.19099057301,
+                  105406.34701899241
+                ],
+                [
+                  99792.35399057722,
+                  105411.70901897698
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "049-105-016",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CHARLONE 1657",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.46551051107188,
+      -34.58033929076154
+    ],
+    "direccion": "",
+    "fondo": "43.63",
+    "frente": "8.64",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "105",
+    "parcela": "016",
+    "pdamatriz": "239512",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "2",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "049",
+    "smp": "049-105-016",
+    "smp_anterior": "049-105-015",
+    "smp_siguiente": "049-105-017",
+    "srid": 4326,
+    "superficie_cubierta": "350.00",
+    "superficie_total": "377.00",
+    "unidades_funcionales": "5",
+    "vuc": "0.00"
+  },
+  "smp": "049-105-016",
+  "_http_status": 200
+}

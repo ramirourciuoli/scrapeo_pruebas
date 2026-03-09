@@ -1,0 +1,351 @@
+{
+  "area_m2": 162.23154640197754,
+  "centroide_lonlat": {
+    "lat": -34.551704,
+    "lon": -58.489531
+  },
+  "centroide_xy": {
+    "x": 97592.30252510267,
+    "y": 108604.44384266612
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/24/055-214-005_0000474524.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION055/055-214-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION055/PI-055-214-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "055-214-006e",
+            "055-214-003",
+            "055-214-004",
+            "055-214-006b",
+            "055-214-006d"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 300.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 134.73519830114,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 162.2,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "055-214-005"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Saavedra",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1430",
+    "codigo_postal_argentino": "C1430DQI",
+    "comisaria": "49",
+    "comisaria_vecinal": "12A",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "55"
+  },
+  "debug": {
+    "address": "HOLMBERG 4377",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.48953132462896,
+        -34.55170366581709
+      ],
+      "direccion": "",
+      "fondo": "19.63",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "214",
+      "parcela": "005",
+      "pdamatriz": "369762",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "055",
+      "smp": "055-214-005",
+      "smp_anterior": "055-214-004",
+      "smp_siguiente": "055-214-006B",
+      "srid": 4326,
+      "superficie_cubierta": "85.00",
+      "superficie_total": "170.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4377,
+      "cod_calle": 8018
+    },
+    "usig_direccion_elegida": {
+      "altura": 4377,
+      "cod_calle": 8018,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.489654",
+        "y": "-34.551763"
+      },
+      "direccion": "HOLMBERG 4377, CABA",
+      "nombre_calle": "HOLMBERG",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4377,
+          "cod_calle": 8018,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.489654",
+            "y": "-34.551763"
+          },
+          "direccion": "HOLMBERG 4377, CABA",
+          "nombre_calle": "HOLMBERG",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97591.4779991556,
+                  108608.75201166843
+                ],
+                [
+                  97593.3969991508,
+                  108609.89401166371
+                ],
+                [
+                  97594.4189991483,
+                  108610.50201166127
+                ],
+                [
+                  97598.58699913898,
+                  108612.98201165069
+                ],
+                [
+                  97600.46399913075,
+                  108609.79501165831
+                ],
+                [
+                  97600.55699913067,
+                  108609.6360116587
+                ],
+                [
+                  97602.17999912376,
+                  108606.879011665
+                ],
+                [
+                  97602.84499912108,
+                  108605.75001166796
+                ],
+                [
+                  97597.47099913398,
+                  108602.64201168067
+                ],
+                [
+                  97596.4489991365,
+                  108602.05101168313
+                ],
+                [
+                  97595.73899913821,
+                  108601.64001168445
+                ],
+                [
+                  97595.2239991398,
+                  108601.34201168624
+                ],
+                [
+                  97587.13999915817,
+                  108596.66601170547
+                ],
+                [
+                  97585.90099916107,
+                  108595.95001170834
+                ],
+                [
+                  97583.8859991697,
+                  108599.42301170036
+                ],
+                [
+                  97581.76099917838,
+                  108603.08701169159
+                ],
+                [
+                  97582.71099917631,
+                  108603.64101168883
+                ],
+                [
+                  97586.75399916637,
+                  108605.99601167967
+                ],
+                [
+                  97587.0989991662,
+                  108606.19701167822
+                ],
+                [
+                  97588.44499916295,
+                  108606.98101167503
+                ],
+                [
+                  97591.0589991568,
+                  108608.50301166868
+                ],
+                [
+                  97591.4779991556,
+                  108608.75201166843
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "055-214-005",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "HOLMBERG 4377",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.48953132462896,
+      -34.55170366581709
+    ],
+    "direccion": "",
+    "fondo": "19.63",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "214",
+    "parcela": "005",
+    "pdamatriz": "369762",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "055",
+    "smp": "055-214-005",
+    "smp_anterior": "055-214-004",
+    "smp_siguiente": "055-214-006B",
+    "srid": 4326,
+    "superficie_cubierta": "85.00",
+    "superficie_total": "170.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "055-214-005",
+  "_http_status": 200
+}

@@ -1,0 +1,401 @@
+{
+  "area_m2": 111.83655452728271,
+  "centroide_lonlat": {
+    "lat": -34.638511,
+    "lon": -58.449304
+  },
+  "centroide_xy": {
+    "x": 101283.33804868069,
+    "y": 98974.59432537602
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 1,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/1/55/044-090-021_0000058155.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION044/044-090-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION044/PI-044-090-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "044-090-018",
+            "044-090-022",
+            "044-090-020"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 110.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 1,
+        "subzona": "",
+        "sup_edificable_planta": 111.871850000208,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 111.8,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "044-090-021"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. P. PIÑERO",
+    "barrio": "Parque Chacabuco",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1406",
+    "codigo_postal_argentino": "C1406HVH",
+    "comisaria": "38",
+    "comisaria_vecinal": "7B",
+    "comuna": "Comuna 7",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "44"
+  },
+  "debug": {
+    "address": "ASAMBLEA 1785",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.449303764502346,
+        -34.63851138197781
+      ],
+      "direccion": "",
+      "fondo": "12.59",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "090",
+      "parcela": "021",
+      "pdamatriz": "76275",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "044",
+      "smp": "044-090-021",
+      "smp_anterior": "044-090-020",
+      "smp_siguiente": "044-090-022",
+      "srid": 4326,
+      "superficie_cubierta": "139.00",
+      "superficie_total": "109.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1785,
+      "cod_calle": 1128
+    },
+    "usig_direccion_elegida": {
+      "altura": 1785,
+      "cod_calle": 1128,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.449217",
+        "y": "-34.638578"
+      },
+      "direccion": "ASAMBLEA AV. 1785, CABA",
+      "nombre_calle": "ASAMBLEA AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1785,
+          "cod_calle": 1128,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.449217",
+            "y": "-34.638578"
+          },
+          "direccion": "ASAMBLEA AV. 1785, CABA",
+          "nombre_calle": "ASAMBLEA AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1785,
+          "cod_calle": 46808,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4000541335496,
+            "y": -34.8309468525936
+          },
+          "direccion": "Asamblea 1785, Almirante Brown",
+          "nombre_calle": "Asamblea",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Burzaco",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1785,
+          "cod_calle": 64138,
+          "cod_calle_cruce": null,
+          "cod_partido": "general_san_martin",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5608835897959,
+            "y": -34.5316449357143
+          },
+          "direccion": "154 - Asamblea 1785, General San Martín",
+          "nombre_calle": "154 - Asamblea",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "José León Suárez",
+          "nombre_partido": "General San Martín",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1785,
+          "cod_calle": 184126,
+          "cod_calle_cruce": null,
+          "cod_partido": "hurlingham",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.644086,
+            "y": -34.58764719375
+          },
+          "direccion": "Asamblea 1785, Hurlingham",
+          "nombre_calle": "Asamblea",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Hurlingham",
+          "nombre_partido": "Hurlingham",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1785,
+          "cod_calle": 46490,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_isidro",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5837673020408,
+            "y": -34.5002679683674
+          },
+          "direccion": "Asamblea 1785, San Isidro",
+          "nombre_calle": "Asamblea",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Boulogne Sur Mer",
+          "nombre_partido": "San Isidro",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  101283.48798154523,
+                  98968.4000359246
+                ],
+                [
+                  101281.24898155303,
+                  98970.49103592045
+                ],
+                [
+                  101280.84598155452,
+                  98970.86803591909
+                ],
+                [
+                  101280.0929815576,
+                  98971.57003591821
+                ],
+                [
+                  101278.98498156147,
+                  98972.6060359155
+                ],
+                [
+                  101278.08898156397,
+                  98973.44203591393
+                ],
+                [
+                  101275.88298157239,
+                  98975.50303590953
+                ],
+                [
+                  101276.70398157039,
+                  98976.51703590658
+                ],
+                [
+                  101278.78398156656,
+                  98979.0860358979
+                ],
+                [
+                  101281.39998156205,
+                  98982.31803588677
+                ],
+                [
+                  101284.29198155191,
+                  98979.63903589253
+                ],
+                [
+                  101284.44598155147,
+                  98979.4970358928
+                ],
+                [
+                  101285.96498154555,
+                  98978.08903589487
+                ],
+                [
+                  101287.30598154083,
+                  98976.84703589775
+                ],
+                [
+                  101288.20598153808,
+                  98976.01403589977
+                ],
+                [
+                  101290.99398152801,
+                  98973.43103590436
+                ],
+                [
+                  101284.95598154042,
+                  98967.0280359269
+                ],
+                [
+                  101283.48798154523,
+                  98968.4000359246
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "044-090-021",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ASAMBLEA 1785",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.449303764502346,
+      -34.63851138197781
+    ],
+    "direccion": "",
+    "fondo": "12.59",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "090",
+    "parcela": "021",
+    "pdamatriz": "76275",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "044",
+    "smp": "044-090-021",
+    "smp_anterior": "044-090-020",
+    "smp_siguiente": "044-090-022",
+    "srid": 4326,
+    "superficie_cubierta": "139.00",
+    "superficie_total": "109.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "044-090-021",
+  "_http_status": 200
+}

@@ -1,0 +1,395 @@
+{
+  "area_m2": 319.96537494659424,
+  "centroide_lonlat": {
+    "lat": -34.557671,
+    "lon": -58.470674
+  },
+  "centroide_xy": {
+    "x": 99323.21643772484,
+    "y": 107942.77893047521
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/fp/SECCION041/FP-041-077-027-VD.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION041/041-077-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION041/PI-041-077-V5.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": true,
+          "smp_linderas": [
+            "041-077-013c",
+            "041-077-026",
+            "041-077-028"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 350.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 251.76766990429,
+        "sup_max_edificable": 1239.7,
+        "superficie_parcela": 320.0,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "041-077-027"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Coghlan",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1429",
+    "codigo_postal_argentino": "C1429AND",
+    "comisaria": "35",
+    "comisaria_vecinal": "13B",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   X",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "41"
+  },
+  "debug": {
+    "address": "ZAPIOLA 3038",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.470673933644385,
+        -34.55767070651106
+      ],
+      "direccion": "",
+      "fondo": "36.79",
+      "frente": "8.67",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "077",
+      "parcela": "027",
+      "pdamatriz": "329188",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "0",
+      "propiedad_horizontal": "No",
+      "seccion": "041",
+      "smp": "041-077-027",
+      "smp_anterior": "041-077-026",
+      "smp_siguiente": "041-077-028",
+      "srid": 4326,
+      "superficie_cubierta": "0.00",
+      "superficie_total": "319.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3038,
+      "cod_calle": 27008
+    },
+    "usig_direccion_elegida": {
+      "altura": 3038,
+      "cod_calle": 27008,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.470483",
+        "y": "-34.557556"
+      },
+      "direccion": "ZAPIOLA 3038, CABA",
+      "nombre_calle": "ZAPIOLA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3038,
+          "cod_calle": 27008,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.470483",
+            "y": "-34.557556"
+          },
+          "direccion": "ZAPIOLA 3038, CABA",
+          "nombre_calle": "ZAPIOLA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3038,
+          "cod_calle": 263105,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.556938775,
+            "y": -34.6737315
+          },
+          "direccion": "Zapiola 3038, La Matanza",
+          "nombre_calle": "Zapiola",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Justo",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3038,
+          "cod_calle": 12148,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_miguel",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7345218061224,
+            "y": -34.5392775795918
+          },
+          "direccion": "J. M. Zapiola 3038, San Miguel",
+          "nombre_calle": "J. M. Zapiola",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Miguel",
+          "nombre_partido": "San Miguel",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99306.76199383731,
+                  107933.912012269
+                ],
+                [
+                  99305.46299384287,
+                  107935.99901226445
+                ],
+                [
+                  99308.59499383498,
+                  107938.12301225596
+                ],
+                [
+                  99308.88599383451,
+                  107938.32001225583
+                ],
+                [
+                  99309.88799383254,
+                  107939.00001225283
+                ],
+                [
+                  99311.97199382755,
+                  107940.41301224704
+                ],
+                [
+                  99316.47999381757,
+                  107943.46901223494
+                ],
+                [
+                  99323.8449938,
+                  107948.46401221547
+                ],
+                [
+                  99330.58599378492,
+                  107953.03501219806
+                ],
+                [
+                  99332.14199378123,
+                  107954.09001219366
+                ],
+                [
+                  99335.7259937728,
+                  107956.52001218381
+                ],
+                [
+                  99337.3429937671,
+                  107954.29801218968
+                ],
+                [
+                  99341.02199375257,
+                  107949.24401220062
+                ],
+                [
+                  99334.55099376763,
+                  107945.01601221724
+                ],
+                [
+                  99330.65299377659,
+                  107942.46901222705
+                ],
+                [
+                  99324.47799379105,
+                  107938.43401224387
+                ],
+                [
+                  99323.69199379254,
+                  107937.92001224539
+                ],
+                [
+                  99321.44899379797,
+                  107936.45501225139
+                ],
+                [
+                  99320.61299379976,
+                  107935.90901225343
+                ],
+                [
+                  99319.4079938025,
+                  107935.12101225686
+                ],
+                [
+                  99317.2829938074,
+                  107933.73301226209
+                ],
+                [
+                  99312.32699381863,
+                  107930.49501227497
+                ],
+                [
+                  99309.88299382504,
+                  107928.89801228119
+                ],
+                [
+                  99307.18899383573,
+                  107933.2260122709
+                ],
+                [
+                  99306.76199383731,
+                  107933.912012269
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "041-077-027",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ZAPIOLA 3038",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.470673933644385,
+      -34.55767070651106
+    ],
+    "direccion": "",
+    "fondo": "36.79",
+    "frente": "8.67",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "077",
+    "parcela": "027",
+    "pdamatriz": "329188",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "0",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "041",
+    "smp": "041-077-027",
+    "smp_anterior": "041-077-026",
+    "smp_siguiente": "041-077-028",
+    "srid": 4326,
+    "superficie_cubierta": "0.00",
+    "superficie_total": "319.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "041-077-027",
+  "_http_status": 200
+}

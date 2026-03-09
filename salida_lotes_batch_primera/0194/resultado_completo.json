@@ -1,0 +1,267 @@
+{
+  "area_m2": 565.4854068756104,
+  "centroide_lonlat": {
+    "lat": -34.665153,
+    "lon": -58.455362
+  },
+  "centroide_xy": {
+    "x": 100727.60346174284,
+    "y": 96019.09099714407
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 0.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "UBP",
+            "distrito_especifico": "UBP 52"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 2.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/fp/SECCION056/FP-056-186-001-VD.pdf",
+          "perimetro_manzana": "",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION056/PI-056-186-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "056-186-002"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "U52",
+          "incidencia_uva": 0.0,
+          "plusvalia_em": -0.0,
+          "plusvalia_pl": 0.0,
+          "plusvalia_sl": 0.0
+        },
+        "rivolta": 0,
+        "subzona": "Barrio Los Piletones",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 565.5,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "056-186-001"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. P. PIÑERO",
+    "barrio": "Villa Soldati",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": null,
+    "codigo_postal_argentino": null,
+    "comisaria": "36",
+    "comisaria_vecinal": "8B",
+    "comuna": "Comuna 8",
+    "distrito_economico": "DISTRITO DEL DEPORTE",
+    "distrito_escolar": "Distrito Escolar   XXI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "66"
+  },
+  "debug": {
+    "address": "PLUMERILLO 3924",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.455362132645604,
+        -34.66515327063418
+      ],
+      "direccion": "",
+      "manzana": "186",
+      "parcela": "001",
+      "seccion": "056",
+      "smp": "056-186-001",
+      "smp_anterior": "056-186-002",
+      "smp_siguiente": "056-186-002",
+      "srid": 4326
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3924,
+      "cod_calle": 17100
+    },
+    "usig_direccion_elegida": {
+      "altura": 3924,
+      "cod_calle": 17100,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.455570",
+        "y": "-34.665109"
+      },
+      "direccion": "PLUMERILLO 3924, CABA",
+      "nombre_calle": "PLUMERILLO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3924,
+          "cod_calle": 17100,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.455570",
+            "y": "-34.665109"
+          },
+          "direccion": "PLUMERILLO 3924, CABA",
+          "nombre_calle": "PLUMERILLO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  100738.60618507626,
+                  96026.34568406706
+                ],
+                [
+                  100744.47747624962,
+                  96020.4702254548
+                ],
+                [
+                  100726.2069812096,
+                  96002.21970438099
+                ],
+                [
+                  100710.73061877464,
+                  96017.71391071627
+                ],
+                [
+                  100721.84950930248,
+                  96028.82064533283
+                ],
+                [
+                  100728.99768404261,
+                  96035.96100520846
+                ],
+                [
+                  100729.31214332716,
+                  96035.64632272109
+                ],
+                [
+                  100738.60618507626,
+                  96026.34568406706
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "056-186-001",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "PLUMERILLO 3924",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.455362132645604,
+      -34.66515327063418
+    ],
+    "direccion": "",
+    "manzana": "186",
+    "parcela": "001",
+    "puertas": [],
+    "seccion": "056",
+    "smp": "056-186-001",
+    "smp_anterior": "056-186-002",
+    "smp_siguiente": "056-186-002",
+    "srid": 4326
+  },
+  "smp": "056-186-001",
+  "_http_status": 200
+}

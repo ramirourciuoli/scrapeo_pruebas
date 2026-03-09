@@ -1,0 +1,351 @@
+{
+  "area_m2": 373.82727813720703,
+  "centroide_lonlat": {
+    "lat": -34.670067,
+    "lon": -58.485299
+  },
+  "centroide_xy": {
+    "x": 97983.62486691117,
+    "y": 95473.83248609287
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/39/078-127-031_0000064539.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION078/078-127-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION078/PI-078-127-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "078-127-016a",
+            "078-127-030",
+            "078-127-018",
+            "078-127-032"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "R2b III",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 150.694057374333,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 373.8,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "078-127-031"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Villa Lugano",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1439",
+    "codigo_postal_argentino": "C1439FQI",
+    "comisaria": "48",
+    "comisaria_vecinal": "8A",
+    "comuna": "Comuna 8",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "78"
+  },
+  "debug": {
+    "address": "MURGUIONDO 3359",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.485299159949086,
+        -34.670066572852974
+      ],
+      "direccion": "",
+      "fondo": "43.64",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "127",
+      "parcela": "031",
+      "pdamatriz": "64308",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "078",
+      "smp": "078-127-031",
+      "smp_anterior": "078-127-030",
+      "smp_siguiente": "078-127-032",
+      "srid": 4326,
+      "superficie_cubierta": "181.00",
+      "superficie_total": "378.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3359,
+      "cod_calle": 13145
+    },
+    "usig_direccion_elegida": {
+      "altura": 3359,
+      "cod_calle": 13145,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.485115",
+        "y": "-34.669904"
+      },
+      "direccion": "MURGUIONDO 3359, CABA",
+      "nombre_calle": "MURGUIONDO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3359,
+          "cod_calle": 13145,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.485115",
+            "y": "-34.669904"
+          },
+          "direccion": "MURGUIONDO 3359, CABA",
+          "nombre_calle": "MURGUIONDO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3359,
+          "cod_calle": 22260,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4382727748576,
+            "y": -34.6855125996409
+          },
+          "direccion": "Coronel Murguiondo 3359, Lanús",
+          "nombre_calle": "Coronel Murguiondo",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lanús Oeste",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97974.15998818283,
+                  95457.20004826234
+                ],
+                [
+                  97971.9009881866,
+                  95454.7370482703
+                ],
+                [
+                  97967.75798820275,
+                  95458.57104826257
+                ],
+                [
+                  97965.69398820915,
+                  95460.48004826061
+                ],
+                [
+                  97979.94298818053,
+                  95476.12204820506
+                ],
+                [
+                  97981.97598817629,
+                  95478.3540481972
+                ],
+                [
+                  97990.60198815848,
+                  95487.82204816378
+                ],
+                [
+                  97995.22598815056,
+                  95492.89904814525
+                ],
+                [
+                  97997.15098814393,
+                  95491.10204814863
+                ],
+                [
+                  98001.51398812913,
+                  95487.03104815845
+                ],
+                [
+                  97997.6999881368,
+                  95482.8720481728
+                ],
+                [
+                  97993.18398814528,
+                  95477.94704818845
+                ],
+                [
+                  97991.82998814828,
+                  95476.47004819477
+                ],
+                [
+                  97990.63698815045,
+                  95475.16904819923
+                ],
+                [
+                  97986.23598815815,
+                  95470.37004821587
+                ],
+                [
+                  97985.84598816009,
+                  95469.94404821716
+                ],
+                [
+                  97982.7639881669,
+                  95466.58304822835
+                ],
+                [
+                  97974.15998818283,
+                  95457.20004826234
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "078-127-031",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MURGUIONDO 3359",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.485299159949086,
+      -34.670066572852974
+    ],
+    "direccion": "",
+    "fondo": "43.64",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "127",
+    "parcela": "031",
+    "pdamatriz": "64308",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "078",
+    "smp": "078-127-031",
+    "smp_anterior": "078-127-030",
+    "smp_siguiente": "078-127-032",
+    "srid": 4326,
+    "superficie_cubierta": "181.00",
+    "superficie_total": "378.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "078-127-031",
+  "_http_status": 200
+}

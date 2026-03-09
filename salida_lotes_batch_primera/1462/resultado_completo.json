@@ -1,0 +1,408 @@
+{
+  "area_m2": 253.84868621826172,
+  "centroide_lonlat": {
+    "lat": -34.632824,
+    "lon": -58.459458
+  },
+  "centroide_xy": {
+    "x": 100352.30925015903,
+    "y": 99605.64236276924
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": -1.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/2/50/048-116-035_0000087250.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION048/048-116-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION048/PI-048-116-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "048-116-034",
+            "048-116-036",
+            "048-116-039",
+            "048-116-040"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "C3 II",
+          "incidencia_uva": 120.0,
+          "plusvalia_em": 9868.03,
+          "plusvalia_pl": 4385.95,
+          "plusvalia_sl": 4385.95
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 253.816549999984,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 253.8,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "048-116-035"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. P. PIÑERO",
+    "barrio": "Flores",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1406",
+    "codigo_postal_argentino": "C1406GZM",
+    "comisaria": "38",
+    "comisaria_vecinal": "7A",
+    "comuna": "Comuna 7",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "48"
+  },
+  "debug": {
+    "address": "AV. DIRECTORIO 2309",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.459457936778236,
+        -34.63282375012714
+      ],
+      "direccion": "",
+      "fondo": "32.11",
+      "frente": "7.91",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "116",
+      "parcela": "035",
+      "pdamatriz": "142258",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "2",
+      "propiedad_horizontal": "Si",
+      "seccion": "048",
+      "smp": "048-116-035",
+      "smp_anterior": "048-116-034",
+      "smp_siguiente": "048-116-036",
+      "srid": 4326,
+      "superficie_cubierta": "297.00",
+      "superficie_total": "254.00",
+      "unidades_funcionales": "2",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2309,
+      "cod_calle": 4078
+    },
+    "usig_direccion_elegida": {
+      "altura": 2309,
+      "cod_calle": 4078,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.459382",
+        "y": "-34.632992"
+      },
+      "direccion": "DIRECTORIO AV. 2309, CABA",
+      "nombre_calle": "DIRECTORIO AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2309,
+          "cod_calle": 4078,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.459382",
+            "y": "-34.632992"
+          },
+          "direccion": "DIRECTORIO AV. 2309, CABA",
+          "nombre_calle": "DIRECTORIO AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2309,
+          "cod_calle": 204431,
+          "cod_calle_cruce": null,
+          "cod_partido": "general_rodriguez",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.9608401346939,
+            "y": -34.6044100673469
+          },
+          "direccion": "Directorio 2309, General Rodríguez",
+          "nombre_calle": "Directorio",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "General Rodríguez",
+          "nombre_partido": "General Rodríguez",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2309,
+          "cod_calle": 159259,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6820486357143,
+            "y": -34.6796304285714
+          },
+          "direccion": "Directorio 2309, Merlo",
+          "nombre_calle": "Directorio",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Antonio de Padua",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  100342.6419846738,
+                  99619.37903480654
+                ],
+                [
+                  100343.7069846715,
+                  99619.7420348046
+                ],
+                [
+                  100345.9789846656,
+                  99620.51703480107
+                ],
+                [
+                  100350.0809846551,
+                  99621.91603479433
+                ],
+                [
+                  100351.5559846478,
+                  99618.20403480335
+                ],
+                [
+                  100352.55698464326,
+                  99615.68503480926
+                ],
+                [
+                  100353.16098464072,
+                  99614.1650348136
+                ],
+                [
+                  100354.1069846358,
+                  99611.78503481965
+                ],
+                [
+                  100354.23998463555,
+                  99611.45103482067
+                ],
+                [
+                  100357.70398461899,
+                  99602.73403484229
+                ],
+                [
+                  100358.7029846141,
+                  99600.22003484823
+                ],
+                [
+                  100359.2719846116,
+                  99598.78903485191
+                ],
+                [
+                  100359.88098460888,
+                  99597.2570348561
+                ],
+                [
+                  100361.95298459881,
+                  99592.04203486932
+                ],
+                [
+                  100361.6549846001,
+                  99591.93103486937
+                ],
+                [
+                  100356.05798461415,
+                  99589.84703487955
+                ],
+                [
+                  100354.55798461795,
+                  99589.28803488193
+                ],
+                [
+                  100351.072984634,
+                  99598.08803486067
+                ],
+                [
+                  100350.90098463457,
+                  99598.52203485894
+                ],
+                [
+                  100350.69898463592,
+                  99599.03303485762
+                ],
+                [
+                  100350.00098463934,
+                  99600.79603485344
+                ],
+                [
+                  100349.5659846409,
+                  99601.89503485023
+                ],
+                [
+                  100348.55098464598,
+                  99604.45603484445
+                ],
+                [
+                  100348.2729846474,
+                  99605.15903484248
+                ],
+                [
+                  100348.16298464757,
+                  99605.43803484185
+                ],
+                [
+                  100347.88898464956,
+                  99606.12903483975
+                ],
+                [
+                  100346.79998465406,
+                  99608.87803483265
+                ],
+                [
+                  100342.6419846738,
+                  99619.37903480654
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "048-116-035",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AV. DIRECTORIO 2309",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.459457936778236,
+      -34.63282375012714
+    ],
+    "direccion": "",
+    "fondo": "32.11",
+    "frente": "7.91",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "116",
+    "parcela": "035",
+    "pdamatriz": "142258",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "2",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "048",
+    "smp": "048-116-035",
+    "smp_anterior": "048-116-034",
+    "smp_siguiente": "048-116-036",
+    "srid": 4326,
+    "superficie_cubierta": "297.00",
+    "superficie_total": "254.00",
+    "unidades_funcionales": "2",
+    "vuc": "0.00"
+  },
+  "smp": "048-116-035",
+  "_http_status": 200
+}

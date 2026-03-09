@@ -1,0 +1,337 @@
+{
+  "area_m2": 163.00582122802734,
+  "centroide_lonlat": {
+    "lat": -34.634639,
+    "lon": -58.414499
+  },
+  "centroide_xy": {
+    "x": 104474.81054776286,
+    "y": 99403.24325009914
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/44/032-035-042_0000318644.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION032/032-035-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION032/PI-032-035-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "032-035-041",
+            "032-035-045",
+            "032-035-043a"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 163.030450000138,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 163.0,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "032-035-042"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.M. PENNA",
+    "barrio": "Boedo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1238",
+    "codigo_postal_argentino": "C1238ACC",
+    "comisaria": "32",
+    "comisaria_vecinal": "5B",
+    "comuna": "Comuna 5",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "32"
+  },
+  "debug": {
+    "address": "LAS CASAS 3511",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.414499468093574,
+        -34.63463851246213
+      ],
+      "direccion": "",
+      "fondo": "18.82",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "035",
+      "parcela": "042",
+      "pdamatriz": "104363",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "032",
+      "smp": "032-035-042",
+      "smp_anterior": "032-035-041",
+      "smp_siguiente": "032-035-043A",
+      "srid": 4326,
+      "superficie_cubierta": "221.00",
+      "superficie_total": "163.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3511,
+      "cod_calle": 12072
+    },
+    "usig_direccion_elegida": {
+      "altura": 3511,
+      "cod_calle": 12072,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.414452",
+        "y": "-34.634745"
+      },
+      "direccion": "LAS CASAS 3511, CABA",
+      "nombre_calle": "LAS CASAS",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3511,
+          "cod_calle": 12072,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.414452",
+            "y": "-34.634745"
+          },
+          "direccion": "LAS CASAS 3511, CABA",
+          "nombre_calle": "LAS CASAS",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  104471.4289729297,
+                  99399.9190323134
+                ],
+                [
+                  104471.13997293121,
+                  99400.71803231345
+                ],
+                [
+                  104470.63797293448,
+                  99402.11003230864
+                ],
+                [
+                  104469.77897293828,
+                  99404.49203230307
+                ],
+                [
+                  104468.82397294298,
+                  99407.14003229595
+                ],
+                [
+                  104468.1739729461,
+                  99408.94003229195
+                ],
+                [
+                  104467.50497294855,
+                  99410.79603228858
+                ],
+                [
+                  104470.4299729419,
+                  99411.72703228227
+                ],
+                [
+                  104474.09297293253,
+                  99412.89303227604
+                ],
+                [
+                  104475.77097292754,
+                  99413.42703227446
+                ],
+                [
+                  104477.08497292142,
+                  99409.7540322817
+                ],
+                [
+                  104477.52297291953,
+                  99408.53203228704
+                ],
+                [
+                  104478.36397291484,
+                  99406.18003229226
+                ],
+                [
+                  104479.00797291228,
+                  99404.38203229551
+                ],
+                [
+                  104481.32897290029,
+                  99397.89603231181
+                ],
+                [
+                  104482.06397289722,
+                  99395.84203231713
+                ],
+                [
+                  104473.96397291741,
+                  99392.89103233142
+                ],
+                [
+                  104471.67897292873,
+                  99399.22403231694
+                ],
+                [
+                  104471.4289729297,
+                  99399.9190323134
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "032-035-042",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "LAS CASAS 3511",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.414499468093574,
+      -34.63463851246213
+    ],
+    "direccion": "",
+    "fondo": "18.82",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "035",
+    "parcela": "042",
+    "pdamatriz": "104363",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "032",
+    "smp": "032-035-042",
+    "smp_anterior": "032-035-041",
+    "smp_siguiente": "032-035-043A",
+    "srid": 4326,
+    "superficie_cubierta": "221.00",
+    "superficie_total": "163.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "032-035-042",
+  "_http_status": 200
+}

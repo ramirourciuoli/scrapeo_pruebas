@@ -1,0 +1,309 @@
+{
+  "area_m2": 145.629656791687,
+  "centroide_lonlat": {
+    "lat": -34.606969,
+    "lon": -58.503835
+  },
+  "centroide_xy": {
+    "x": 96281.90420802313,
+    "y": 102473.12940858351
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.0,
+          "fot_perim_libre": 1.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/8/71/081-074B-007_0000166871.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION081/081-074B-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION081/PI-081-074B-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "081-074B-006",
+            "081-074B-003",
+            "081-074B-008"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R1b I",
+          "incidencia_uva": 100.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0.0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 145.6,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "081-074B-007"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. A. ZUBIZARRETA",
+    "barrio": "Villa Devoto",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1417",
+    "codigo_postal_argentino": "C1417ASQ",
+    "comisaria": "45",
+    "comisaria_vecinal": "11B",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "81"
+  },
+  "debug": {
+    "address": "BAHIA BLANCA 2965",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.5038346528197,
+        -34.606968994167815
+      ],
+      "direccion": "",
+      "fondo": "16.97",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "074B",
+      "parcela": "007",
+      "pdamatriz": "267830",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "081",
+      "smp": "081-074B-007",
+      "smp_anterior": "081-074B-006",
+      "smp_siguiente": "081-074B-008",
+      "srid": 4326,
+      "superficie_cubierta": "138.00",
+      "superficie_total": "147.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2965,
+      "cod_calle": 2008
+    },
+    "usig_direccion_elegida": {
+      "altura": 2965,
+      "cod_calle": 2008,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.503947",
+        "y": "-34.607037"
+      },
+      "direccion": "BAHIA BLANCA 2965, CABA",
+      "nombre_calle": "BAHIA BLANCA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2965,
+          "cod_calle": 2008,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.503947",
+            "y": "-34.607037"
+          },
+          "direccion": "BAHIA BLANCA 2965, CABA",
+          "nombre_calle": "BAHIA BLANCA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96286.27899820394,
+                  102481.69102983273
+                ],
+                [
+                  96290.21099818873,
+                  102476.06602984553
+                ],
+                [
+                  96291.19199818456,
+                  102474.66302984874
+                ],
+                [
+                  96288.46099819106,
+                  102472.64102985663
+                ],
+                [
+                  96286.56599819483,
+                  102471.23702986189
+                ],
+                [
+                  96277.6239982151,
+                  102464.6150298877
+                ],
+                [
+                  96272.54099823491,
+                  102471.5180298721
+                ],
+                [
+                  96279.67299821912,
+                  102476.79902985142
+                ],
+                [
+                  96280.16499821762,
+                  102477.16302985008
+                ],
+                [
+                  96281.6939982143,
+                  102478.29602984613
+                ],
+                [
+                  96282.97999821171,
+                  102479.24802984207
+                ],
+                [
+                  96286.27899820394,
+                  102481.69102983273
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "081-074B-007",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "BAHIA BLANCA 2965",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.5038346528197,
+      -34.606968994167815
+    ],
+    "direccion": "",
+    "fondo": "16.97",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "074B",
+    "parcela": "007",
+    "pdamatriz": "267830",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "081",
+    "smp": "081-074B-007",
+    "smp_anterior": "081-074B-006",
+    "smp_siguiente": "081-074B-008",
+    "srid": 4326,
+    "superficie_cubierta": "138.00",
+    "superficie_total": "147.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "081-074B-007",
+  "_http_status": 200
+}

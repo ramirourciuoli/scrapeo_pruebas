@@ -1,0 +1,428 @@
+{
+  "area_m2": 114.23586654663086,
+  "centroide_lonlat": {
+    "lat": -34.605827,
+    "lon": -58.428915
+  },
+  "centroide_xy": {
+    "x": 103154.0853441724,
+    "y": 102599.98442984636
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "PEV",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 2.8,
+          "fot_perim_libre": 2.8,
+          "fot_semi_libre": 2.8
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/8/02/017-030-021_0000158802.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION017/017-030-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION017/PI-017-030-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "017-030-020",
+            "017-030-022"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2a II",
+          "incidencia_uva": 220.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 114.184900000171,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 114.2,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "017-030-021"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Almagro",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1184",
+    "codigo_postal_argentino": "C1184ADI",
+    "comisaria": "11",
+    "comisaria_vecinal": "5A",
+    "comuna": "Comuna 5",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   II",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "17"
+  },
+  "debug": {
+    "address": "YATAY 503",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.42891465702646,
+        -34.6058273762104
+      ],
+      "direccion": "",
+      "fondo": "9.51",
+      "frente": "12.30",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "030",
+      "parcela": "021",
+      "pdamatriz": "172716",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "017",
+      "smp": "017-030-021",
+      "smp_anterior": "017-030-020",
+      "smp_siguiente": "017-030-022",
+      "srid": 4326,
+      "superficie_cubierta": "477.00",
+      "superficie_total": "117.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 503,
+      "cod_calle": 26002
+    },
+    "usig_direccion_elegida": {
+      "altura": 503,
+      "cod_calle": 26002,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.429035",
+        "y": "-34.605799"
+      },
+      "direccion": "YATAY 503, CABA",
+      "nombre_calle": "YATAY",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 503,
+          "cod_calle": 26002,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.429035",
+            "y": "-34.605799"
+          },
+          "direccion": "YATAY 503, CABA",
+          "nombre_calle": "YATAY",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 503,
+          "cod_calle": 130019,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4305264918368,
+            "y": -34.8312752367347
+          },
+          "direccion": "Yatay 503, Almirante Brown",
+          "nombre_calle": "Yatay",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Malvinas Argentinas",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 503,
+          "cod_calle": 98235,
+          "cod_calle_cruce": null,
+          "cod_partido": "ezeiza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5234641732323,
+            "y": -34.8579930722222
+          },
+          "direccion": "Yatay 503, Ezeiza",
+          "nombre_calle": "Yatay",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ezeiza",
+          "nombre_partido": "Ezeiza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 503,
+          "cod_calle": 10791,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4116897939394,
+            "y": -34.6669491065657
+          },
+          "direccion": "Yatay 503, Lanús",
+          "nombre_calle": "Yatay",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Valentín Alsina",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 503,
+          "cod_calle": 37844,
+          "cod_calle_cruce": null,
+          "cod_partido": "moron",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.615179117347,
+            "y": -34.6538957132653
+          },
+          "direccion": "Yatay 503, Morón",
+          "nombre_calle": "Yatay",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Morón",
+          "nombre_partido": "Morón",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  103154.13677541671,
+                  102595.9400580342
+                ],
+                [
+                  103153.77697317164,
+                  102595.94103459694
+                ],
+                [
+                  103152.7749590143,
+                  102595.94402532035
+                ],
+                [
+                  103150.7699541371,
+                  102595.95006780233
+                ],
+                [
+                  103149.6479448629,
+                  102595.95305852583
+                ],
+                [
+                  103145.82799858812,
+                  102600.61705998043
+                ],
+                [
+                  103145.98699517064,
+                  102601.90807560174
+                ],
+                [
+                  103146.01195854963,
+                  102602.10705021053
+                ],
+                [
+                  103146.23296685112,
+                  102603.8930609475
+                ],
+                [
+                  103146.31896538657,
+                  102604.58806826975
+                ],
+                [
+                  103151.73296683573,
+                  102603.93407656826
+                ],
+                [
+                  103154.32097952355,
+                  102603.62206484843
+                ],
+                [
+                  103154.46636526533,
+                  102603.60466982887
+                ],
+                [
+                  103156.89206887138,
+                  102603.31209707438
+                ],
+                [
+                  103158.29606056653,
+                  102603.14211416358
+                ],
+                [
+                  103158.85709572116,
+                  102603.07412099931
+                ],
+                [
+                  103159.44230079759,
+                  102603.00374746392
+                ],
+                [
+                  103161.925979013,
+                  102602.70402431826
+                ],
+                [
+                  103161.90897901235,
+                  102601.74602432133
+                ],
+                [
+                  103161.80797900849,
+                  102595.91802433706
+                ],
+                [
+                  103159.08098927006,
+                  102595.92601994463
+                ],
+                [
+                  103158.35094776815,
+                  102595.92803410525
+                ],
+                [
+                  103157.78496876589,
+                  102595.93004826587
+                ],
+                [
+                  103155.78197804882,
+                  102595.93505315017
+                ],
+                [
+                  103154.13677541671,
+                  102595.9400580342
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "017-030-021",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "YATAY 503",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.42891465702646,
+      -34.6058273762104
+    ],
+    "direccion": "",
+    "fondo": "9.51",
+    "frente": "12.30",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "030",
+    "parcela": "021",
+    "pdamatriz": "172716",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "017",
+    "smp": "017-030-021",
+    "smp_anterior": "017-030-020",
+    "smp_siguiente": "017-030-022",
+    "srid": 4326,
+    "superficie_cubierta": "477.00",
+    "superficie_total": "117.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "017-030-021",
+  "_http_status": 200
+}

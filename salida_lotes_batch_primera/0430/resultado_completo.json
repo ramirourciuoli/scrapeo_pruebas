@@ -1,0 +1,441 @@
+{
+  "area_m2": 254.98530387878418,
+  "centroide_lonlat": {
+    "lat": -34.591516,
+    "lon": -58.385626
+  },
+  "centroide_xy": {
+    "x": 107126.0609631985,
+    "y": 104185.45065005377
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.34,
+          "fot_perim_libre": 3.34,
+          "fot_semi_libre": 3.34
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/14/007-052-006a_0000155614.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION007/007-052-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION007/PI-007-052-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "007-052-005b",
+            "007-052-005a",
+            "007-052-007a",
+            "007-052-005c"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2a I",
+          "incidencia_uva": 800.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 237.622179614403,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 255.0,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "007-052-006A"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.A.FERNÁNDEZ",
+    "barrio": "Retiro",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1014",
+    "codigo_postal_argentino": "C1014ACA",
+    "comisaria": "17",
+    "comisaria_vecinal": "1A",
+    "comuna": "Comuna 1",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   I",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "07"
+  },
+  "debug": {
+    "address": "PRESIDENTE QUINTANA 89",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.38562614144155,
+        -34.591515753668666
+      ],
+      "direccion": "",
+      "fondo": "30.17",
+      "frente": "8.52",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "052",
+      "parcela": "006A",
+      "pdamatriz": "451468",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "10",
+      "propiedad_horizontal": "Si",
+      "seccion": "007",
+      "smp": "007-052-006A",
+      "smp_anterior": "007-052-005C",
+      "smp_siguiente": "007-052-007A",
+      "srid": 4326,
+      "superficie_cubierta": "2320.00",
+      "superficie_total": "257.00",
+      "unidades_funcionales": "10",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 89,
+      "cod_calle": 18012
+    },
+    "usig_direccion_elegida": {
+      "altura": 89,
+      "cod_calle": 18012,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.385763",
+        "y": "-34.591634"
+      },
+      "direccion": "QUINTANA, MANUEL, PRES. 89, CABA",
+      "nombre_calle": "QUINTANA, MANUEL, PRES.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 89,
+          "cod_calle": 18012,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.385763",
+            "y": "-34.591634"
+          },
+          "direccion": "QUINTANA, MANUEL, PRES. 89, CABA",
+          "nombre_calle": "QUINTANA, MANUEL, PRES.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 89,
+          "cod_calle": 19775,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3931969704081,
+            "y": -34.7103447316327
+          },
+          "direccion": "Presidente Quintana 89, Lanús",
+          "nombre_calle": "Presidente Quintana",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lanús Oeste",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 89,
+          "cod_calle": 31642,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.380273665625,
+            "y": -34.744993146875
+          },
+          "direccion": "Presidente Quintana 89, Lomas de Zamora",
+          "nombre_calle": "Presidente Quintana",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Banfield",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 89,
+          "cod_calle": 74856,
+          "cod_calle_cruce": null,
+          "cod_partido": "moron",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6310235833333,
+            "y": -34.6497538939394
+          },
+          "direccion": "Presidente Manuel Quintana 89, Morón",
+          "nombre_calle": "Presidente Manuel Quintana",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Castelar",
+          "nombre_partido": "Morón",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  107139.66496905537,
+                  104193.41201686292
+                ],
+                [
+                  107136.06296906272,
+                  104189.69101687608
+                ],
+                [
+                  107135.39196906399,
+                  104188.99801687861
+                ],
+                [
+                  107129.69296907554,
+                  104183.11101689932
+                ],
+                [
+                  107125.516969084,
+                  104178.79801691542
+                ],
+                [
+                  107124.47496908577,
+                  104177.72101691872
+                ],
+                [
+                  107123.26496908824,
+                  104176.47101692317
+                ],
+                [
+                  107122.80596908936,
+                  104175.99701692534
+                ],
+                [
+                  107121.33596909263,
+                  104174.47901693056
+                ],
+                [
+                  107119.57496909623,
+                  104172.66001693683
+                ],
+                [
+                  107119.48596909581,
+                  104172.56801693694
+                ],
+                [
+                  107118.67096909796,
+                  104171.72601693976
+                ],
+                [
+                  107117.8009691009,
+                  104172.55301693862
+                ],
+                [
+                  107115.91696910794,
+                  104174.34401693431
+                ],
+                [
+                  107113.4089691164,
+                  104176.72901693013
+                ],
+                [
+                  107112.53996911953,
+                  104177.55601692811
+                ],
+                [
+                  107113.82196911654,
+                  104178.88501692333
+                ],
+                [
+                  107115.1259691144,
+                  104180.23701691849
+                ],
+                [
+                  107115.20196911367,
+                  104180.3150169189
+                ],
+                [
+                  107119.1189691061,
+                  104184.37501690417
+                ],
+                [
+                  107119.813969105,
+                  104185.09501690138
+                ],
+                [
+                  107120.50796910371,
+                  104185.81601689872
+                ],
+                [
+                  107121.14096910188,
+                  104186.47101689668
+                ],
+                [
+                  107123.23996909804,
+                  104188.64701688898
+                ],
+                [
+                  107124.35796909557,
+                  104189.80601688483
+                ],
+                [
+                  107124.98196909411,
+                  104190.45301688247
+                ],
+                [
+                  107129.38496908513,
+                  104195.01801686676
+                ],
+                [
+                  107129.94096908388,
+                  104195.59401686414
+                ],
+                [
+                  107133.30396907697,
+                  104199.08101685246
+                ],
+                [
+                  107133.39796907717,
+                  104198.99701685287
+                ],
+                [
+                  107133.99596907532,
+                  104198.46501685333
+                ],
+                [
+                  107139.66496905537,
+                  104193.41201686292
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "007-052-006A",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "PRESIDENTE QUINTANA 89",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.38562614144155,
+      -34.591515753668666
+    ],
+    "direccion": "",
+    "fondo": "30.17",
+    "frente": "8.52",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "052",
+    "parcela": "006A",
+    "pdamatriz": "451468",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "10",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "007",
+    "smp": "007-052-006A",
+    "smp_anterior": "007-052-005C",
+    "smp_siguiente": "007-052-007A",
+    "srid": 4326,
+    "superficie_cubierta": "2320.00",
+    "superficie_total": "257.00",
+    "unidades_funcionales": "10",
+    "vuc": "0.00"
+  },
+  "smp": "007-052-006A",
+  "_http_status": 200
+}

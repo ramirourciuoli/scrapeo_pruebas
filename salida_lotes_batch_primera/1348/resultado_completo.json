@@ -1,0 +1,555 @@
+{
+  "area_m2": 288.6244287490845,
+  "centroide_lonlat": {
+    "lat": -34.635076,
+    "lon": -58.463894
+  },
+  "centroide_xy": {
+    "x": 99945.49842799082,
+    "y": 99355.82902354789
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/53/048-078-028_0000072553.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION048/048-078-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION048/PI-048-078-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "048-078-009a",
+            "048-078-007",
+            "048-078-027",
+            "048-078-029",
+            "048-078-008"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "AE 26",
+          "incidencia_uva": 100.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 288.6,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "048-078-028"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. P. PIÑERO",
+    "barrio": "Flores",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1406",
+    "codigo_postal_argentino": "C1406ERA",
+    "comisaria": "38",
+    "comisaria_vecinal": "7A",
+    "comuna": "Comuna 7",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "48"
+  },
+  "debug": {
+    "address": "ITALIA 441",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.46389437750202,
+        -34.635075670804646
+      ],
+      "direccion": "",
+      "fondo": "31.30",
+      "frente": "9.52",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "078",
+      "parcela": "028",
+      "pdamatriz": "143735",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "048",
+      "smp": "048-078-028",
+      "smp_anterior": "048-078-027",
+      "smp_siguiente": "048-078-029",
+      "srid": 4326,
+      "superficie_cubierta": "332.00",
+      "superficie_total": "298.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 441,
+      "cod_calle": 9026
+    },
+    "usig_direccion_elegida": {
+      "altura": 441,
+      "cod_calle": 9026,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.463762",
+        "y": "-34.634965"
+      },
+      "direccion": "ITALIA 441, CABA",
+      "nombre_calle": "ITALIA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 441,
+          "cod_calle": 9026,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.463762",
+            "y": "-34.634965"
+          },
+          "direccion": "ITALIA 441, CABA",
+          "nombre_calle": "ITALIA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 441,
+          "cod_calle": 4046,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.362421",
+            "y": "-34.602165"
+          },
+          "direccion": "DE LOS ITALIANOS AV. 441, CABA",
+          "nombre_calle": "DE LOS ITALIANOS AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 441,
+          "cod_calle": 407524,
+          "cod_calle_cruce": null,
+          "cod_partido": "avellaneda",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3310127285714,
+            "y": -34.7010716163265
+          },
+          "direccion": "Boulevard de los Italianos 441, Avellaneda",
+          "nombre_calle": "Boulevard de los Italianos",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Domínico",
+          "nombre_partido": "Avellaneda",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 441,
+          "cod_calle": 407524,
+          "cod_calle_cruce": null,
+          "cod_partido": "avellaneda",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3310127285714,
+            "y": -34.7010716163265
+          },
+          "direccion": "Boulevard de los Italianos 441, Avellaneda",
+          "nombre_calle": "Boulevard de los Italianos",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Wilde",
+          "nombre_partido": "Avellaneda",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 441,
+          "cod_calle": 61569,
+          "cod_calle_cruce": null,
+          "cod_partido": "escobar",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7872030887755,
+            "y": -34.3496281163265
+          },
+          "direccion": "Italia 441, Escobar",
+          "nombre_calle": "Italia",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Belén de Escobar",
+          "nombre_partido": "Escobar",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 441,
+          "cod_calle": 91338,
+          "cod_calle_cruce": null,
+          "cod_partido": "esteban_echeverria",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4706258418367,
+            "y": -34.8233441244898
+          },
+          "direccion": "Intendente Juan Italiani 441, Esteban Echeverría",
+          "nombre_calle": "Intendente Juan Italiani",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Monte Grande",
+          "nombre_partido": "Esteban Echeverría",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 441,
+          "cod_calle": 108231,
+          "cod_calle_cruce": null,
+          "cod_partido": "florencio_varela",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.2642040663265,
+            "y": -34.8058139979592
+          },
+          "direccion": "Italia 441, Florencio Varela",
+          "nombre_calle": "Italia",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Florencio Varela",
+          "nombre_partido": "Florencio Varela",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 441,
+          "cod_calle": 277765,
+          "cod_calle_cruce": null,
+          "cod_partido": "general_las_heras",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.9362679954082,
+            "y": -34.9233854040816
+          },
+          "direccion": "Italia 441, General Las Heras",
+          "nombre_calle": "Italia",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "General Las Heras",
+          "nombre_partido": "General Las Heras",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 441,
+          "cod_calle": 291504,
+          "cod_calle_cruce": null,
+          "cod_partido": "general_las_heras",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.936598684375,
+            "y": -34.8245553625
+          },
+          "direccion": "Italia 441, General Las Heras",
+          "nombre_calle": "Italia",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villars",
+          "nombre_partido": "General Las Heras",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 441,
+          "cod_calle": 74013,
+          "cod_calle_cruce": null,
+          "cod_partido": "general_san_martin",
+          "direccion": "94 - Italia 441, General San Martín",
+          "nombre_calle": "94 - Italia",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Andrés",
+          "nombre_partido": "General San Martín",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99958.24798555995,
+                  99364.93503580935
+                ],
+                [
+                  99959.89698555427,
+                  99363.2310358129
+                ],
+                [
+                  99961.47198554878,
+                  99361.60303581675
+                ],
+                [
+                  99964.73598553661,
+                  99358.22903582387
+                ],
+                [
+                  99963.75598553955,
+                  99357.88103582535
+                ],
+                [
+                  99962.05998554341,
+                  99357.27803582826
+                ],
+                [
+                  99960.74998554715,
+                  99356.81303583068
+                ],
+                [
+                  99959.98198554893,
+                  99356.54003583195
+                ],
+                [
+                  99959.06298555151,
+                  99356.213035834
+                ],
+                [
+                  99958.63898555297,
+                  99356.06203583421
+                ],
+                [
+                  99958.03098555448,
+                  99355.84603583522
+                ],
+                [
+                  99953.58998556518,
+                  99354.2680358433
+                ],
+                [
+                  99950.04598557437,
+                  99353.00803584966
+                ],
+                [
+                  99948.52298557821,
+                  99352.46703585214
+                ],
+                [
+                  99946.95198558173,
+                  99351.91803585432
+                ],
+                [
+                  99946.69798558266,
+                  99351.82903585501
+                ],
+                [
+                  99945.8479855852,
+                  99351.53203585625
+                ],
+                [
+                  99941.5709855963,
+                  99350.03803586375
+                ],
+                [
+                  99938.7749856033,
+                  99349.06203586879
+                ],
+                [
+                  99935.1709856122,
+                  99347.80203587527
+                ],
+                [
+                  99934.97298561283,
+                  99347.73303587548
+                ],
+                [
+                  99934.60498561399,
+                  99347.60503587654
+                ],
+                [
+                  99933.75198561605,
+                  99347.3070358776
+                ],
+                [
+                  99930.78098562366,
+                  99346.26903588304
+                ],
+                [
+                  99927.90398563734,
+                  99354.15103586236
+                ],
+                [
+                  99931.74698562793,
+                  99355.51703585603
+                ],
+                [
+                  99937.18598561345,
+                  99357.45003584673
+                ],
+                [
+                  99944.11798559592,
+                  99359.91303583409
+                ],
+                [
+                  99945.41498559287,
+                  99360.37403583195
+                ],
+                [
+                  99945.66598559241,
+                  99360.46303583219
+                ],
+                [
+                  99949.29898558265,
+                  99361.75503582522
+                ],
+                [
+                  99955.14898556835,
+                  99363.83403581497
+                ],
+                [
+                  99955.26298556813,
+                  99363.87403581475
+                ],
+                [
+                  99956.18098556538,
+                  99364.2000358135
+                ],
+                [
+                  99957.17198556327,
+                  99364.5530358119
+                ],
+                [
+                  99958.24798555995,
+                  99364.93503580935
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "048-078-028",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ITALIA 441",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.46389437750202,
+      -34.635075670804646
+    ],
+    "direccion": "",
+    "fondo": "31.30",
+    "frente": "9.52",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "078",
+    "parcela": "028",
+    "pdamatriz": "143735",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "048",
+    "smp": "048-078-028",
+    "smp_anterior": "048-078-027",
+    "smp_siguiente": "048-078-029",
+    "srid": 4326,
+    "superficie_cubierta": "332.00",
+    "superficie_total": "298.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "048-078-028",
+  "_http_status": 200
+}

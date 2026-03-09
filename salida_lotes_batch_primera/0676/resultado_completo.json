@@ -1,0 +1,340 @@
+{
+  "area_m2": 578.6275978088379,
+  "centroide_lonlat": {
+    "lat": -34.55284,
+    "lon": -58.442966
+  },
+  "centroide_xy": {
+    "x": 101866.33452270484,
+    "y": 108478.4606798242
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [
+          {
+            "estado_parcelario_constituido": "Si",
+            "fecha_de_constitucion": "11-8-2023",
+            "tipo_de_construccion": "Construido",
+            "vencimiento_de_construccion": "11-8-2029"
+          }
+        ],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 0.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "U",
+            "distrito_especifico": "U 23"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 0.8,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/fp/SECCION025/FP-025-098-035-VD.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION025/025-098-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION025/PI-025-098-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "025-098-002",
+            "025-098-001",
+            "025-098-033c"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "U23",
+          "incidencia_uva": 570.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0.0,
+          "plusvalia_sl": 0.0
+        },
+        "rivolta": 0,
+        "subzona": "Zona 1",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 578.6,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "025-098-035"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Belgrano",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1428",
+    "codigo_postal_argentino": "C1428AYH",
+    "comisaria": "51",
+    "comisaria_vecinal": "13A",
+    "comuna": "Comuna 13",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   X",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "25"
+  },
+  "debug": {
+    "address": "HUSARES 2180",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.44296642227541,
+        -34.552840443877706
+      ],
+      "direccion": "",
+      "fondo": "30.64",
+      "frente": "18.50",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "098",
+      "parcela": "035",
+      "pdamatriz": "377853",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "025",
+      "smp": "025-098-035",
+      "smp_anterior": "025-098-033C",
+      "smp_siguiente": "025-098-001",
+      "srid": 4326,
+      "superficie_cubierta": "440.00",
+      "superficie_total": "567.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2180,
+      "cod_calle": 8038
+    },
+    "usig_direccion_elegida": {
+      "altura": 2180,
+      "cod_calle": 8038,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.442804",
+        "y": "-34.552744"
+      },
+      "direccion": "HUSARES 2180, CABA",
+      "nombre_calle": "HUSARES",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2180,
+          "cod_calle": 8038,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.442804",
+            "y": "-34.552744"
+          },
+          "direccion": "HUSARES 2180, CABA",
+          "nombre_calle": "HUSARES",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2180,
+          "cod_calle": 123063,
+          "cod_calle_cruce": null,
+          "cod_partido": "quilmes",
+          "direccion": "Húsares 2180, Quilmes",
+          "nombre_calle": "Húsares",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Quilmes",
+          "nombre_partido": "Quilmes",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  101848.5379871182,
+                  108476.99000883295
+                ],
+                [
+                  101873.26998706188,
+                  108495.25300876237
+                ],
+                [
+                  101876.10508959058,
+                  108491.30109519736
+                ],
+                [
+                  101877.72007981909,
+                  108489.0490810441
+                ],
+                [
+                  101879.60411301398,
+                  108486.4231044869
+                ],
+                [
+                  101880.13707199736,
+                  108485.68012353207
+                ],
+                [
+                  101880.8240837132,
+                  108484.7221157199
+                ],
+                [
+                  101882.25206222326,
+                  108482.73212549061
+                ],
+                [
+                  101884.20506514469,
+                  108480.00910303675
+                ],
+                [
+                  101880.2579870297,
+                  108477.09600880972
+                ],
+                [
+                  101875.38498704019,
+                  108473.49900882345
+                ],
+                [
+                  101871.81298704757,
+                  108470.86200883269
+                ],
+                [
+                  101870.69498705094,
+                  108470.03700883474
+                ],
+                [
+                  101859.29798707634,
+                  108461.62400886934
+                ],
+                [
+                  101848.5379871182,
+                  108476.99000883295
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "025-098-035",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "HUSARES 2180",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.44296642227541,
+      -34.552840443877706
+    ],
+    "direccion": "",
+    "fondo": "30.64",
+    "frente": "18.50",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "098",
+    "parcela": "035",
+    "pdamatriz": "377853",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "025",
+    "smp": "025-098-035",
+    "smp_anterior": "025-098-033C",
+    "smp_siguiente": "025-098-001",
+    "srid": 4326,
+    "superficie_cubierta": "440.00",
+    "superficie_total": "567.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "025-098-035",
+  "_http_status": 200
+}

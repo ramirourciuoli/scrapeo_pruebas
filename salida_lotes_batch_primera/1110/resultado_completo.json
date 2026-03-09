@@ -1,0 +1,403 @@
+{
+  "area_m2": 137.67020988464355,
+  "centroide_lonlat": {
+    "lat": -34.603596,
+    "lon": -58.438301
+  },
+  "centroide_xy": {
+    "x": 102293.18878539087,
+    "y": 102847.77678920548
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/2/56/047-149-007_0000129256.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION047/047-149-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION047/PI-047-149-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "047-149-009",
+            "047-149-008c",
+            "047-149-006",
+            "047-149-010"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 260.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 137.685299999998,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 137.7,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "047-149-007"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Villa Crespo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1414",
+    "codigo_postal_argentino": "C1414DTA",
+    "comisaria": "27",
+    "comisaria_vecinal": "15B",
+    "comuna": "Comuna 15",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "47"
+  },
+  "debug": {
+    "address": "LAVALLEJA 33",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.43830069443218,
+        -34.60359601510983
+      ],
+      "direccion": "",
+      "fondo": "15.93",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "149",
+      "parcela": "007",
+      "pdamatriz": "225655",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "047",
+      "smp": "047-149-007",
+      "smp_anterior": "047-149-006",
+      "smp_siguiente": "047-149-008C",
+      "srid": 4326,
+      "superficie_cubierta": "256.00",
+      "superficie_total": "138.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 33,
+      "cod_calle": 12090
+    },
+    "usig_direccion_elegida": {
+      "altura": 33,
+      "cod_calle": 12090,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.438380",
+        "y": "-34.603512"
+      },
+      "direccion": "LAVALLEJA 33, CABA",
+      "nombre_calle": "LAVALLEJA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 33,
+          "cod_calle": 12090,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.438380",
+            "y": "-34.603512"
+          },
+          "direccion": "LAVALLEJA 33, CABA",
+          "nombre_calle": "LAVALLEJA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 33,
+          "cod_calle": 65331,
+          "cod_calle_cruce": null,
+          "cod_partido": "ituzaingo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6571150289922,
+            "y": -34.6428461538092
+          },
+          "direccion": "Lavalleja 33, Ituzaingó",
+          "nombre_calle": "Lavalleja",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ituzaingó",
+          "nombre_partido": "Ituzaingó",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 33,
+          "cod_calle": 213333,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "direccion": "Lavalleja 33, La Matanza",
+          "nombre_calle": "Lavalleja",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Isidro Casanova",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 33,
+          "cod_calle": 120500,
+          "cod_calle_cruce": null,
+          "cod_partido": "quilmes",
+          "direccion": "Lavalleja 33, Quilmes",
+          "nombre_calle": "Lavalleja",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Quilmes",
+          "nombre_partido": "Quilmes",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102292.40998164173,
+                  102855.30002426344
+                ],
+                [
+                  102292.54898164119,
+                  102855.11602426451
+                ],
+                [
+                  102293.91298163611,
+                  102853.30202426887
+                ],
+                [
+                  102294.2129816347,
+                  102852.90302427034
+                ],
+                [
+                  102295.98898162837,
+                  102850.54302427493
+                ],
+                [
+                  102296.61798162456,
+                  102849.70702427684
+                ],
+                [
+                  102298.91898161694,
+                  102846.64802428408
+                ],
+                [
+                  102299.27998161587,
+                  102846.1690242837
+                ],
+                [
+                  102299.72798161375,
+                  102845.57302428671
+                ],
+                [
+                  102301.53298160626,
+                  102843.17402429291
+                ],
+                [
+                  102298.6719816137,
+                  102840.85202429906
+                ],
+                [
+                  102298.31098161399,
+                  102840.55802429983
+                ],
+                [
+                  102296.28998161881,
+                  102838.9180243072
+                ],
+                [
+                  102295.48398161982,
+                  102838.26402431051
+                ],
+                [
+                  102293.67798162678,
+                  102840.66202430331
+                ],
+                [
+                  102290.89198163823,
+                  102844.36202429506
+                ],
+                [
+                  102289.01198164492,
+                  102846.85802429143
+                ],
+                [
+                  102288.9519816445,
+                  102846.93802429107
+                ],
+                [
+                  102288.77098164542,
+                  102847.17802428856
+                ],
+                [
+                  102286.33398165423,
+                  102850.41402428219
+                ],
+                [
+                  102284.79698166167,
+                  102852.45402427838
+                ],
+                [
+                  102289.77698164909,
+                  102856.3060242642
+                ],
+                [
+                  102290.96298164764,
+                  102857.2240242605
+                ],
+                [
+                  102291.5179816446,
+                  102856.48602426107
+                ],
+                [
+                  102292.40998164173,
+                  102855.30002426344
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "047-149-007",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "LAVALLEJA 33",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.43830069443218,
+      -34.60359601510983
+    ],
+    "direccion": "",
+    "fondo": "15.93",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "149",
+    "parcela": "007",
+    "pdamatriz": "225655",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "047",
+    "smp": "047-149-007",
+    "smp_anterior": "047-149-006",
+    "smp_siguiente": "047-149-008C",
+    "srid": 4326,
+    "superficie_cubierta": "256.00",
+    "superficie_total": "138.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "047-149-007",
+  "_http_status": 200
+}

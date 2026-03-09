@@ -1,0 +1,320 @@
+{
+  "area_m2": 191.62843704223633,
+  "centroide_lonlat": {
+    "lat": -34.65813,
+    "lon": -58.513238
+  },
+  "centroide_xy": {
+    "x": 95422.13512585555,
+    "y": 96797.07969939298
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/90/074-039B-019_0000039790.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION074/074-039B-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION074/PI-074-039B-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "074-039B-018",
+            "074-039B-020"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 80.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 191.621349999987,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 191.6,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "074-039B-019"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Mataderos",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1440",
+    "codigo_postal_argentino": "C1440EQL",
+    "comisaria": "42",
+    "comisaria_vecinal": "9A",
+    "comuna": "Comuna 9",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "74"
+  },
+  "debug": {
+    "address": "CARHUE 1906",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.51323848850236,
+        -34.65813040674259
+      ],
+      "direccion": "",
+      "fondo": "19.94",
+      "frente": "9.63",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "039B",
+      "parcela": "019",
+      "pdamatriz": "19535",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "074",
+      "smp": "074-039B-019",
+      "smp_anterior": "074-039B-018",
+      "smp_siguiente": "074-039B-020",
+      "srid": 4326,
+      "superficie_cubierta": "194.00",
+      "superficie_total": "192.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1906,
+      "cod_calle": 3071
+    },
+    "usig_direccion_elegida": {
+      "altura": 1906,
+      "cod_calle": 3071,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.513316",
+        "y": "-34.658208"
+      },
+      "direccion": "CARHUE 1906, CABA",
+      "nombre_calle": "CARHUE",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1906,
+          "cod_calle": 3071,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.513316",
+            "y": "-34.658208"
+          },
+          "direccion": "CARHUE 1906, CABA",
+          "nombre_calle": "CARHUE",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  95420.93599635919,
+                  96807.29104639773
+                ],
+                [
+                  95425.26399634467,
+                  96803.21604640572
+                ],
+                [
+                  95428.35999633367,
+                  96800.30204641173
+                ],
+                [
+                  95430.22299632705,
+                  96798.5480464155
+                ],
+                [
+                  95431.55699632215,
+                  96797.29204641795
+                ],
+                [
+                  95428.37299632793,
+                  96793.5590464308
+                ],
+                [
+                  95427.90799632897,
+                  96793.01404643274
+                ],
+                [
+                  95427.08799633117,
+                  96792.0520464358
+                ],
+                [
+                  95422.66699633958,
+                  96786.86804645328
+                ],
+                [
+                  95420.28099634798,
+                  96789.09304644942
+                ],
+                [
+                  95418.82799635241,
+                  96790.44804644625
+                ],
+                [
+                  95417.20999635832,
+                  96791.95704644377
+                ],
+                [
+                  95415.06099636565,
+                  96793.96104643948
+                ],
+                [
+                  95414.65099637114,
+                  96799.9410464225
+                ],
+                [
+                  95420.93599635919,
+                  96807.29104639773
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "074-039B-019",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CARHUE 1906",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.51323848850236,
+      -34.65813040674259
+    ],
+    "direccion": "",
+    "fondo": "19.94",
+    "frente": "9.63",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "039B",
+    "parcela": "019",
+    "pdamatriz": "19535",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "074",
+    "smp": "074-039B-019",
+    "smp_anterior": "074-039B-018",
+    "smp_siguiente": "074-039B-020",
+    "srid": 4326,
+    "superficie_cubierta": "194.00",
+    "superficie_total": "192.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "074-039B-019",
+  "_http_status": 200
+}

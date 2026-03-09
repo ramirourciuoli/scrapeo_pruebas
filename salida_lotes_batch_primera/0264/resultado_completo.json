@@ -1,0 +1,505 @@
+{
+  "area_m2": 385.62313175201416,
+  "centroide_lonlat": {
+    "lat": -34.616133,
+    "lon": -58.423567
+  },
+  "centroide_xy": {
+    "x": 103644.15804662707,
+    "y": 101456.55674414404
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/2/50/036-061-005a_0000296250.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION036/036-061-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION036/PI-036-061-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": true,
+          "smp_linderas": [
+            "036-061-021",
+            "036-061-020",
+            "036-061-006a",
+            "036-061-004a"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 150.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 190.841422214146,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 385.6,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "036-061-005A"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Almagro",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1210",
+    "codigo_postal_argentino": "C1210AAV",
+    "comisaria": "10",
+    "comisaria_vecinal": "5A",
+    "comuna": "Comuna 5",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "36"
+  },
+  "debug": {
+    "address": "BELGRANO 4042",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.423567056042785,
+        -34.616132849311306
+      ],
+      "direccion": "",
+      "fondo": "50.33",
+      "frente": "7.45",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "061",
+      "parcela": "005A",
+      "pdamatriz": "161126",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "036",
+      "smp": "036-061-005A",
+      "smp_anterior": "036-061-003B",
+      "smp_siguiente": "036-061-006A",
+      "srid": 4326,
+      "superficie_cubierta": "229.00",
+      "superficie_total": "375.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4042,
+      "cod_calle": 2051
+    },
+    "usig_direccion_elegida": {
+      "altura": 4042,
+      "cod_calle": 2051,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.423589",
+        "y": "-34.615878"
+      },
+      "direccion": "BELGRANO 4042, CABA",
+      "nombre_calle": "BELGRANO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4042,
+          "cod_calle": 2051,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.423589",
+            "y": "-34.615878"
+          },
+          "direccion": "BELGRANO 4042, CABA",
+          "nombre_calle": "BELGRANO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 4042,
+          "cod_calle": 500106,
+          "cod_calle_cruce": null,
+          "cod_partido": "avellaneda",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.339492522449,
+            "y": -34.6904047469388
+          },
+          "direccion": "Avenida Belgrano 4042, Avellaneda",
+          "nombre_calle": "Avenida Belgrano",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Domínico",
+          "nombre_partido": "Avellaneda",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 4042,
+          "cod_calle": 48377,
+          "cod_calle_cruce": null,
+          "cod_partido": "general_san_martin",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5394382102041,
+            "y": -34.579497122449
+          },
+          "direccion": "52 - Belgrano 4042, General San Martín",
+          "nombre_calle": "52 - Belgrano",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "General San Martín",
+          "nombre_partido": "General San Martín",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 4042,
+          "cod_calle": 237357,
+          "cod_calle_cruce": null,
+          "cod_partido": "moreno",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7582393193878,
+            "y": -34.6219148173469
+          },
+          "direccion": "General Manuel Belgrano 4042, Moreno",
+          "nombre_calle": "General Manuel Belgrano",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Paso del Rey",
+          "nombre_partido": "Moreno",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 4042,
+          "cod_calle": 32370,
+          "cod_calle_cruce": null,
+          "cod_partido": "quilmes",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.2883108285714,
+            "y": -34.7661137346939
+          },
+          "direccion": "Camino General Belgrano 4042, Quilmes",
+          "nombre_calle": "Camino General Belgrano",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa La Florida",
+          "nombre_partido": "Quilmes",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 4042,
+          "cod_calle": 64434,
+          "cod_calle_cruce": null,
+          "cod_partido": "quilmes",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.2883108285714,
+            "y": -34.7661137346939
+          },
+          "direccion": "Camino General Belgrano 4042, Quilmes",
+          "nombre_calle": "Camino General Belgrano",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Quilmes",
+          "nombre_partido": "Quilmes",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 4042,
+          "cod_calle": 47419,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_miguel",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.734768355102,
+            "y": -34.5647753959184
+          },
+          "direccion": "Belgrano 4042, San Miguel",
+          "nombre_calle": "Belgrano",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Santa María",
+          "nombre_partido": "San Miguel",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 4042,
+          "cod_calle": 27253,
+          "cod_calle_cruce": null,
+          "cod_partido": "tres_de_febrero",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5521645285714,
+            "y": -34.6094701836735
+          },
+          "direccion": "606 - General Manuel Belgrano 4042, Tres de Febrero",
+          "nombre_calle": "606 - General Manuel Belgrano",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Caseros",
+          "nombre_partido": "Tres de Febrero",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  103639.43897683044,
+                  101481.78502710254
+                ],
+                [
+                  103647.00897680901,
+                  101482.33902709489
+                ],
+                [
+                  103647.18897680537,
+                  101477.29602710923
+                ],
+                [
+                  103647.22097680424,
+                  101476.41702711198
+                ],
+                [
+                  103647.25697680465,
+                  101475.41402711518
+                ],
+                [
+                  103647.26097680333,
+                  101475.31402711582
+                ],
+                [
+                  103647.38497680021,
+                  101471.83402712509
+                ],
+                [
+                  103647.62497679656,
+                  101465.11602714428
+                ],
+                [
+                  103647.65797679467,
+                  101464.2020271451
+                ],
+                [
+                  103647.94997678715,
+                  101456.03902716716
+                ],
+                [
+                  103648.02197678511,
+                  101454.00602717485
+                ],
+                [
+                  103648.0459767857,
+                  101453.3460271765
+                ],
+                [
+                  103648.12997678442,
+                  101451.00202718345
+                ],
+                [
+                  103648.15997678212,
+                  101450.1620271841
+                ],
+                [
+                  103648.25697677986,
+                  101447.45702719342
+                ],
+                [
+                  103648.73997676837,
+                  101433.92302723191
+                ],
+                [
+                  103648.79597676685,
+                  101432.37102723427
+                ],
+                [
+                  103648.83597676596,
+                  101431.27202723685
+                ],
+                [
+                  103646.54097677233,
+                  101431.07202723899
+                ],
+                [
+                  103644.41997677785,
+                  101430.88802724166
+                ],
+                [
+                  103643.59797678041,
+                  101430.81702724198
+                ],
+                [
+                  103641.92697678489,
+                  101430.67102724392
+                ],
+                [
+                  103641.36097678589,
+                  101430.62202724491
+                ],
+                [
+                  103641.2259767892,
+                  101434.22802723455
+                ],
+                [
+                  103640.57197680401,
+                  101451.62602718631
+                ],
+                [
+                  103640.49497680622,
+                  101453.68502718004
+                ],
+                [
+                  103640.15397681399,
+                  101462.75602715526
+                ],
+                [
+                  103639.92897681854,
+                  101468.7340271388
+                ],
+                [
+                  103639.87197682078,
+                  101470.26502713404
+                ],
+                [
+                  103639.83297682086,
+                  101471.30102713153
+                ],
+                [
+                  103639.43897683044,
+                  101481.78502710254
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "036-061-005A",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "BELGRANO 4042",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.423567056042785,
+      -34.616132849311306
+    ],
+    "direccion": "",
+    "fondo": "50.33",
+    "frente": "7.45",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "061",
+    "parcela": "005A",
+    "pdamatriz": "161126",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "036",
+    "smp": "036-061-005A",
+    "smp_anterior": "036-061-003B",
+    "smp_siguiente": "036-061-006A",
+    "srid": 4326,
+    "superficie_cubierta": "229.00",
+    "superficie_total": "375.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "036-061-005A",
+  "_http_status": 200
+}

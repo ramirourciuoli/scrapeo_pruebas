@@ -1,0 +1,61 @@
+{
+  "debug": {
+    "address": "DR. GREGORIO ARAOZ ALFARO 492",
+    "catastro_parcela_por_codcalle_altura_error": "503 Server Error: Service Temporarily Unavailable for url: https://epok.buenosaires.gob.ar/catastro/parcela/?codigo_calle=1160&altura=492&ib=&ft=",
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "ARAOZ ALFARO, GREGORIO, DR",
+      "puerta": 492
+    },
+    "usig_cod_calle_altura": {
+      "altura": 492,
+      "cod_calle": 1160
+    },
+    "usig_direccion_elegida": {
+      "altura": 492,
+      "cod_calle": 1160,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.437390",
+        "y": "-34.615858"
+      },
+      "direccion": "ARAOZ ALFARO, GREGORIO, DR 492, CABA",
+      "nombre_calle": "ARAOZ ALFARO, GREGORIO, DR",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.615858,
+      "lng": -58.43739
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 492,
+          "cod_calle": 1160,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.437390",
+            "y": "-34.615858"
+          },
+          "direccion": "ARAOZ ALFARO, GREGORIO, DR 492, CABA",
+          "nombre_calle": "ARAOZ ALFARO, GREGORIO, DR",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura.",
+  "ok": false,
+  "_http_status": 404
+}

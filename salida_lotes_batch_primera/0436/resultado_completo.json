@@ -1,0 +1,383 @@
+{
+  "area_m2": 210.1848955154419,
+  "centroide_lonlat": {
+    "lat": -34.65429,
+    "lon": -58.427737
+  },
+  "centroide_xy": {
+    "x": 103260.23803085429,
+    "y": 97223.72230207083
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 2.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/8/10/046-126-025_0000070810.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION046/046-126-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION046/PI-046-126-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "046-126-027",
+            "046-126-028",
+            "046-126-026a",
+            "046-126-024"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "I2",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 672.48,
+          "plusvalia_sl": 672.48
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 210.149300000078,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 210.2,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "046-126-025"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.M. PENNA",
+    "barrio": "Nueva Pompeya",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1437",
+    "codigo_postal_argentino": "C1437AVO",
+    "comisaria": "34",
+    "comisaria_vecinal": "4B",
+    "comuna": "Comuna 4",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "46"
+  },
+  "debug": {
+    "address": "EREZCANO 3082",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.42773672200901,
+        -34.654289628621434
+      ],
+      "direccion": "",
+      "fondo": "24.25",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "126",
+      "parcela": "025",
+      "pdamatriz": "51365",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "046",
+      "smp": "046-126-025",
+      "smp_anterior": "046-126-024",
+      "smp_siguiente": "046-126-026A",
+      "srid": 4326,
+      "superficie_cubierta": "221.00",
+      "superficie_total": "210.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3082,
+      "cod_calle": 5066
+    },
+    "usig_direccion_elegida": {
+      "altura": 3082,
+      "cod_calle": 5066,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.427857",
+        "y": "-34.654404"
+      },
+      "direccion": "EREZCANO 3082, CABA",
+      "nombre_calle": "EREZCANO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3082,
+          "cod_calle": 5066,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.427857",
+            "y": "-34.654404"
+          },
+          "direccion": "EREZCANO 3082, CABA",
+          "nombre_calle": "EREZCANO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3082,
+          "cod_calle": 24878,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4132942387755,
+            "y": -34.6740633653061
+          },
+          "direccion": "Coronel Erezcano 3082, Lanús",
+          "nombre_calle": "Coronel Erezcano",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Valentín Alsina",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  103249.01197471537,
+                  97217.32603935548
+                ],
+                [
+                  103254.02697470569,
+                  97223.13403933463
+                ],
+                [
+                  103255.31997470303,
+                  97224.63003932984
+                ],
+                [
+                  103257.69397469852,
+                  97227.37903932063
+                ],
+                [
+                  103257.80797469703,
+                  97227.51103931942
+                ],
+                [
+                  103258.94897469641,
+                  97228.8320393154
+                ],
+                [
+                  103260.44097469261,
+                  97230.55903931038
+                ],
+                [
+                  103260.55797469283,
+                  97230.69503931055
+                ],
+                [
+                  103261.09397469154,
+                  97231.31603930757
+                ],
+                [
+                  103264.92397468444,
+                  97235.75103929217
+                ],
+                [
+                  103267.14797467671,
+                  97233.83703929512
+                ],
+                [
+                  103267.61097467461,
+                  97233.43803929578
+                ],
+                [
+                  103267.6869746748,
+                  97233.3720392966
+                ],
+                [
+                  103271.47197466166,
+                  97230.11403930295
+                ],
+                [
+                  103267.63297466912,
+                  97225.67603931666
+                ],
+                [
+                  103265.68497467237,
+                  97223.42403932608
+                ],
+                [
+                  103265.45297467352,
+                  97223.15503932684
+                ],
+                [
+                  103263.97097467605,
+                  97221.44303933333
+                ],
+                [
+                  103262.16297467955,
+                  97219.35303934038
+                ],
+                [
+                  103260.57797468283,
+                  97217.52003934479
+                ],
+                [
+                  103260.049974684,
+                  97216.91003934943
+                ],
+                [
+                  103256.95097469058,
+                  97213.32703936013
+                ],
+                [
+                  103255.53197469279,
+                  97211.68703936564
+                ],
+                [
+                  103255.37197469414,
+                  97211.82603936634
+                ],
+                [
+                  103249.15797471465,
+                  97217.20003935427
+                ],
+                [
+                  103249.01197471537,
+                  97217.32603935548
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "046-126-025",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "EREZCANO 3082",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.42773672200901,
+      -34.654289628621434
+    ],
+    "direccion": "",
+    "fondo": "24.25",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "126",
+    "parcela": "025",
+    "pdamatriz": "51365",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "046",
+    "smp": "046-126-025",
+    "smp_anterior": "046-126-024",
+    "smp_siguiente": "046-126-026A",
+    "srid": 4326,
+    "superficie_cubierta": "221.00",
+    "superficie_total": "210.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "046-126-025",
+  "_http_status": 200
+}

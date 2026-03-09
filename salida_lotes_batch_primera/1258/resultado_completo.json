@@ -1,0 +1,382 @@
+{
+  "area_m2": 263.77661323547363,
+  "centroide_lonlat": {
+    "lat": -34.651482,
+    "lon": -58.504901
+  },
+  "centroide_xy": {
+    "x": 96186.10305250346,
+    "y": 97534.96360621859
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/83/074-129-040_0000034083.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION074/074-129-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION074/PI-074-129-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "074-129-003",
+            "074-129-039",
+            "074-129-031",
+            "074-129-041"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 60.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 263.774499999913,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 263.8,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "074-129-040"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Mataderos",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1440",
+    "codigo_postal_argentino": "C1440BRU",
+    "comisaria": "42",
+    "comisaria_vecinal": "9A",
+    "comuna": "Comuna 9",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "74"
+  },
+  "debug": {
+    "address": "MANUEL ARTIGAS 6145",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.50490128934748,
+        -34.65148215282817
+      ],
+      "direccion": "",
+      "fondo": "30.02",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "129",
+      "parcela": "040",
+      "pdamatriz": "13538",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "074",
+      "smp": "074-129-040",
+      "smp_anterior": "074-129-039",
+      "smp_siguiente": "074-129-041",
+      "srid": 4326,
+      "superficie_cubierta": "252.00",
+      "superficie_total": "260.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 6145,
+      "cod_calle": 1126
+    },
+    "usig_direccion_elegida": {
+      "altura": 6145,
+      "cod_calle": 1126,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.504749",
+        "y": "-34.651594"
+      },
+      "direccion": "ARTIGAS MANUEL DE 6145, CABA",
+      "nombre_calle": "ARTIGAS MANUEL DE",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 6145,
+          "cod_calle": 1126,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.504749",
+            "y": "-34.651594"
+          },
+          "direccion": "ARTIGAS MANUEL DE 6145, CABA",
+          "nombre_calle": "ARTIGAS MANUEL DE",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96175.43799479943,
+                  97545.75504375857
+                ],
+                [
+                  96178.2049947935,
+                  97548.15304374986
+                ],
+                [
+                  96180.19399478659,
+                  97546.32704375312
+                ],
+                [
+                  96181.39499478185,
+                  97545.22504375532
+                ],
+                [
+                  96186.0419947664,
+                  97540.95904376399
+                ],
+                [
+                  96186.26299476555,
+                  97540.75604376459
+                ],
+                [
+                  96188.6939947569,
+                  97538.52404376917
+                ],
+                [
+                  96190.16699475198,
+                  97537.17204377198
+                ],
+                [
+                  96190.42499475053,
+                  97536.93504377178
+                ],
+                [
+                  96190.75599474959,
+                  97536.6310437728
+                ],
+                [
+                  96191.12499474824,
+                  97536.29204377378
+                ],
+                [
+                  96194.65199473572,
+                  97533.05504377955
+                ],
+                [
+                  96196.51199472953,
+                  97531.34704378332
+                ],
+                [
+                  96199.0279947206,
+                  97529.0380437875
+                ],
+                [
+                  96200.13199471701,
+                  97528.0240437901
+                ],
+                [
+                  96199.84899471773,
+                  97527.7070437913
+                ],
+                [
+                  96194.26299472856,
+                  97521.439043813
+                ],
+                [
+                  96193.43499473078,
+                  97522.21104381135
+                ],
+                [
+                  96191.57299473755,
+                  97523.94804380758
+                ],
+                [
+                  96187.07299475334,
+                  97528.14504379887
+                ],
+                [
+                  96186.97499475346,
+                  97528.23704379887
+                ],
+                [
+                  96185.18899476035,
+                  97529.90204379559
+                ],
+                [
+                  96184.6749947617,
+                  97530.38304379527
+                ],
+                [
+                  96184.55799476252,
+                  97530.49204379425
+                ],
+                [
+                  96182.6799947686,
+                  97532.24204379079
+                ],
+                [
+                  96180.42499477664,
+                  97534.34604378688
+                ],
+                [
+                  96177.25699478813,
+                  97537.30104378102
+                ],
+                [
+                  96171.67999480719,
+                  97542.50304377021
+                ],
+                [
+                  96172.16399480632,
+                  97542.920043769
+                ],
+                [
+                  96175.43799479943,
+                  97545.75504375857
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "074-129-040",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MANUEL ARTIGAS 6145",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.50490128934748,
+      -34.65148215282817
+    ],
+    "direccion": "",
+    "fondo": "30.02",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "129",
+    "parcela": "040",
+    "pdamatriz": "13538",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "074",
+    "smp": "074-129-040",
+    "smp_anterior": "074-129-039",
+    "smp_siguiente": "074-129-041",
+    "srid": 4326,
+    "superficie_cubierta": "252.00",
+    "superficie_total": "260.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "074-129-040",
+  "_http_status": 200
+}

@@ -1,0 +1,573 @@
+{
+  "area_m2": 202.35570240020752,
+  "centroide_lonlat": {
+    "lat": -34.620069,
+    "lon": -58.438914
+  },
+  "centroide_xy": {
+    "x": 102236.52333934567,
+    "y": 101020.32041712012
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 38.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 4.0,
+          "fot_perim_libre": 4.0,
+          "fot_semi_libre": 4.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/4/02/040-042A-023_0000415402.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION040/040-042A-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION040/PI-040-042A-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "DI-2022-2591-GCABA-DGIUR",
+          "pdf": "040-042A.pdf"
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "040-042A-001",
+            "040-042A-022"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "C3 I",
+          "incidencia_uva": 180.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 202.358299999967,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 202.4,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "040-042A-023"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Caballito",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1424",
+    "codigo_postal_argentino": "C1424CCO",
+    "comisaria": "12",
+    "comisaria_vecinal": "6B",
+    "comuna": "Comuna 6",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "40"
+  },
+  "debug": {
+    "address": "ROSARIO 701",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.43891361239549,
+        -34.62006920312578
+      ],
+      "direccion": "ROSARIO 701",
+      "fondo": "28.49",
+      "frente": "7.09",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "042A",
+      "parcela": "023",
+      "pdamatriz": "158092",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "9",
+      "propiedad_horizontal": "Si",
+      "seccion": "040",
+      "smp": "040-042A-023",
+      "smp_anterior": "040-042A-022",
+      "smp_siguiente": "040-042A-001",
+      "srid": 4326,
+      "superficie_cubierta": "1894.00",
+      "superficie_total": "202.00",
+      "unidades_funcionales": "36",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 701,
+      "cod_calle": 19086
+    },
+    "usig_direccion_elegida": {
+      "altura": 701,
+      "cod_calle": 19086,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.438866",
+        "y": "-34.620172"
+      },
+      "direccion": "ROSARIO 701, CABA",
+      "nombre_calle": "ROSARIO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 701,
+          "cod_calle": 19086,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.438866",
+            "y": "-34.620172"
+          },
+          "direccion": "ROSARIO 701, CABA",
+          "nombre_calle": "ROSARIO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 701,
+          "cod_calle": 126033,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4076886,
+            "y": -34.8683294
+          },
+          "direccion": "Rosario 701, Almirante Brown",
+          "nombre_calle": "Rosario",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Longchamps",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 701,
+          "cod_calle": 128621,
+          "cod_calle_cruce": null,
+          "cod_partido": "esteban_echeverria",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4433037,
+            "y": -34.8336506
+          },
+          "direccion": "Rosario 701, Esteban Echeverría",
+          "nombre_calle": "Rosario",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Monte Grande",
+          "nombre_partido": "Esteban Echeverría",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 701,
+          "cod_calle": 96067,
+          "cod_calle_cruce": null,
+          "cod_partido": "ezeiza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.582183,
+            "y": -34.9102455
+          },
+          "direccion": "Rosario 701, Ezeiza",
+          "nombre_calle": "Rosario",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Carlos Spegazzini",
+          "nombre_partido": "Ezeiza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 701,
+          "cod_calle": 8643,
+          "cod_calle_cruce": null,
+          "cod_partido": "general_san_martin",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5334616,
+            "y": -34.5935007
+          },
+          "direccion": "109 - Nuestra Señora del Rosario 701, General San Martín",
+          "nombre_calle": "109 - Nuestra Señora del Rosario",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Lynch",
+          "nombre_partido": "General San Martín",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 701,
+          "cod_calle": 195965,
+          "cod_calle_cruce": null,
+          "cod_partido": "pilar",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.8669375,
+            "y": -34.3740433
+          },
+          "direccion": "Rosario Casco 701, Pilar",
+          "nombre_calle": "Rosario Casco",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Zelaya",
+          "nombre_partido": "Pilar",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 701,
+          "cod_calle": 194403,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_isidro",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5246673045538,
+            "y": -34.4534325404487
+          },
+          "direccion": "Rosario de Santa Fe 701, San Isidro",
+          "nombre_calle": "Rosario de Santa Fe",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Beccar",
+          "nombre_partido": "San Isidro",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 701,
+          "cod_calle": 131895,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_vicente",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.379672,
+            "y": -34.9928521
+          },
+          "direccion": "Rosario 701, San Vicente",
+          "nombre_calle": "Rosario",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Vicente",
+          "nombre_partido": "San Vicente",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102240.88698040921,
+                  101025.88502943341
+                ],
+                [
+                  102240.92698040907,
+                  101025.76302943417
+                ],
+                [
+                  102241.9279804041,
+                  101022.72302944196
+                ],
+                [
+                  102242.76398039999,
+                  101020.18602944797
+                ],
+                [
+                  102242.81098039908,
+                  101020.04402944833
+                ],
+                [
+                  102243.7999803941,
+                  101017.04002945629
+                ],
+                [
+                  102242.45498039617,
+                  101014.39802946468
+                ],
+                [
+                  102241.0599803975,
+                  101011.66002947351
+                ],
+                [
+                  102238.77698040353,
+                  101010.92302947753
+                ],
+                [
+                  102238.08098040581,
+                  101010.69802947817
+                ],
+                [
+                  102237.42698040736,
+                  101010.48702947912
+                ],
+                [
+                  102234.57198041424,
+                  101009.56502948457
+                ],
+                [
+                  102234.27498041565,
+                  101009.46902948423
+                ],
+                [
+                  102233.6149804189,
+                  101011.49302947926
+                ],
+                [
+                  102233.55298041928,
+                  101011.68302947917
+                ],
+                [
+                  102233.21798042106,
+                  101012.71202947659
+                ],
+                [
+                  102233.15598042143,
+                  101012.90202947563
+                ],
+                [
+                  102232.24498042578,
+                  101015.69402946881
+                ],
+                [
+                  102231.982980427,
+                  101016.4990294665
+                ],
+                [
+                  102231.75298042776,
+                  101017.20402946472
+                ],
+                [
+                  102231.0499804316,
+                  101019.36102945887
+                ],
+                [
+                  102230.84598043276,
+                  101019.98602945727
+                ],
+                [
+                  102230.65998043392,
+                  101020.55602945611
+                ],
+                [
+                  102230.47398043513,
+                  101021.12702945515
+                ],
+                [
+                  102230.22598043577,
+                  101021.887029453
+                ],
+                [
+                  102229.27898044097,
+                  101024.79302944505
+                ],
+                [
+                  102228.84698044311,
+                  101026.1160294424
+                ],
+                [
+                  102228.52198044458,
+                  101027.11402943954
+                ],
+                [
+                  102231.77498043675,
+                  101028.17402943375
+                ],
+                [
+                  102234.23498043042,
+                  101028.97602942979
+                ],
+                [
+                  102235.85798042595,
+                  101029.50502942712
+                ],
+                [
+                  102237.33798042261,
+                  101029.98702942455
+                ],
+                [
+                  102239.32298041694,
+                  101030.63402942108
+                ],
+                [
+                  102240.27598041183,
+                  101027.73902942898
+                ],
+                [
+                  102240.88698040921,
+                  101025.88502943341
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "040-042A-023",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ROSARIO 701",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 6,
+    "centroide": [
+      -58.43891361239549,
+      -34.62006920312578
+    ],
+    "direccion": "ROSARIO 701",
+    "fondo": "28.49",
+    "frente": "7.09",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "042A",
+    "parcela": "023",
+    "pdamatriz": "158092",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "9",
+    "propiedad_horizontal": "Si",
+    "puertas": [
+      {
+        "altura": 701,
+        "calle": "ROSARIO",
+        "codigo_calle": 19086,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      },
+      {
+        "altura": 707,
+        "calle": "ROSARIO",
+        "codigo_calle": 19086,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      },
+      {
+        "altura": 709,
+        "calle": "ROSARIO",
+        "codigo_calle": 19086,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      },
+      {
+        "altura": 71,
+        "calle": "SAN JOSE DE CALASANZ",
+        "codigo_calle": 20039,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      },
+      {
+        "altura": 75,
+        "calle": "SAN JOSE DE CALASANZ",
+        "codigo_calle": 20039,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      },
+      {
+        "altura": 83,
+        "calle": "SAN JOSE DE CALASANZ",
+        "codigo_calle": 20039,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "040",
+    "smp": "040-042A-023",
+    "smp_anterior": "040-042A-022",
+    "smp_siguiente": "040-042A-001",
+    "srid": 4326,
+    "superficie_cubierta": "1894.00",
+    "superficie_total": "202.00",
+    "unidades_funcionales": "36",
+    "vuc": "0.00"
+  },
+  "smp": "040-042A-023"
+}

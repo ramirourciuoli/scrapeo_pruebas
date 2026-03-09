@@ -1,0 +1,428 @@
+{
+  "area_m2": 274.68792152404785,
+  "centroide_lonlat": {
+    "lat": -34.632455,
+    "lon": -58.489596
+  },
+  "centroide_xy": {
+    "x": 97588.73774491684,
+    "y": 99646.26855601178
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 1,
+          "ensanche": 1,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/2/52/077-050-023_0000193252.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION077/077-050-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION077/PI-077-050-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "077-050-024",
+            "077-050-022"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 50.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 274.704400000005,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 274.7,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "077-050-023"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Velez Sarsfield",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1407",
+    "codigo_postal_argentino": "C1407EJM",
+    "comisaria": "43",
+    "comisaria_vecinal": "10A",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "77"
+  },
+  "debug": {
+    "address": "AVELLANEDA 4505",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.48959559726148,
+        -34.632454764406425
+      ],
+      "direccion": "",
+      "fondo": "10.50",
+      "frente": "26.00",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "050",
+      "parcela": "023",
+      "pdamatriz": "2895",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "2",
+      "propiedad_horizontal": "Si",
+      "seccion": "077",
+      "smp": "077-050-023",
+      "smp_anterior": "077-050-022",
+      "smp_siguiente": "077-050-024",
+      "srid": 4326,
+      "superficie_cubierta": "323.00",
+      "superficie_total": "273.00",
+      "unidades_funcionales": "3",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4505,
+      "cod_calle": 1141
+    },
+    "usig_direccion_elegida": {
+      "altura": 4505,
+      "cod_calle": 1141,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.489450",
+        "y": "-34.632569"
+      },
+      "direccion": "AVELLANEDA 4505, CABA",
+      "nombre_calle": "AVELLANEDA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4505,
+          "cod_calle": 1141,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.489450",
+            "y": "-34.632569"
+          },
+          "direccion": "AVELLANEDA 4505, CABA",
+          "nombre_calle": "AVELLANEDA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 4505,
+          "cod_calle": 117554,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.34703073125,
+            "y": -34.78175745625
+          },
+          "direccion": "Marco Avellaneda 4505, Almirante Brown",
+          "nombre_calle": "Marco Avellaneda",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Rafael Calzada",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 4505,
+          "cod_calle": 76522,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5299153653061,
+            "y": -34.6816745387755
+          },
+          "direccion": "Avellaneda 4505, La Matanza",
+          "nombre_calle": "Avellaneda",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "La Tablada",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 4505,
+          "cod_calle": 25548,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.43025016875,
+            "y": -34.69520363125
+          },
+          "direccion": "Marco Avellaneda 4505, Lanús",
+          "nombre_calle": "Marco Avellaneda",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lanús Oeste",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 4505,
+          "cod_calle": 105093,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_fernando",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.581346121875,
+            "y": -34.464898734375
+          },
+          "direccion": "Avenida Nicolás Avellaneda 4505, San Fernando",
+          "nombre_calle": "Avenida Nicolás Avellaneda",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Virreyes",
+          "nombre_partido": "San Fernando",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97578.98699245288,
+                  99657.2270367801
+                ],
+                [
+                  97581.50899244766,
+                  99659.92303677252
+                ],
+                [
+                  97587.89499242489,
+                  99653.76603678364
+                ],
+                [
+                  97594.29299240184,
+                  99647.59603679526
+                ],
+                [
+                  97597.35799239154,
+                  99644.64103680186
+                ],
+                [
+                  97600.17999238189,
+                  99641.92003680748
+                ],
+                [
+                  97600.29999237708,
+                  99635.87003682501
+                ],
+                [
+                  97596.7999923842,
+                  99632.18203683788
+                ],
+                [
+                  97595.38399238858,
+                  99633.53503683535
+                ],
+                [
+                  97594.66199239083,
+                  99634.22503683265
+                ],
+                [
+                  97594.29899239202,
+                  99634.57103683238
+                ],
+                [
+                  97590.80199240558,
+                  99637.9120368257
+                ],
+                [
+                  97590.58499240587,
+                  99638.11903682622
+                ],
+                [
+                  97589.6389924095,
+                  99639.02303682352
+                ],
+                [
+                  97588.12099241461,
+                  99640.47403682253
+                ],
+                [
+                  97587.75899241482,
+                  99640.81903682122
+                ],
+                [
+                  97587.39699241638,
+                  99641.16503681877
+                ],
+                [
+                  97586.51699242032,
+                  99642.00703681837
+                ],
+                [
+                  97585.22899242514,
+                  99643.23803681461
+                ],
+                [
+                  97584.69299242515,
+                  99643.7500368128
+                ],
+                [
+                  97583.1019924319,
+                  99645.2700368106
+                ],
+                [
+                  97578.7219924481,
+                  99649.4540368038
+                ],
+                [
+                  97575.14099246061,
+                  99653.11603679592
+                ],
+                [
+                  97578.48899245323,
+                  99656.69403678327
+                ],
+                [
+                  97578.98699245288,
+                  99657.2270367801
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "077-050-023",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AVELLANEDA 4505",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.48959559726148,
+      -34.632454764406425
+    ],
+    "direccion": "",
+    "fondo": "10.50",
+    "frente": "26.00",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "050",
+    "parcela": "023",
+    "pdamatriz": "2895",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "2",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "077",
+    "smp": "077-050-023",
+    "smp_anterior": "077-050-022",
+    "smp_siguiente": "077-050-024",
+    "srid": 4326,
+    "superficie_cubierta": "323.00",
+    "superficie_total": "273.00",
+    "unidades_funcionales": "3",
+    "vuc": "0.00"
+  },
+  "smp": "077-050-023",
+  "_http_status": 200
+}

@@ -1,0 +1,485 @@
+{
+  "area_m2": 442.3454694747925,
+  "centroide_lonlat": {
+    "lat": -34.627061,
+    "lon": -58.373054
+  },
+  "centroide_xy": {
+    "x": 108275.940108835,
+    "y": 100241.24367605997
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 13.0,
+        "catalogacion": {
+          "catalogacion": "APH",
+          "denominacion": null,
+          "estado": "CPU/CUr",
+          "ley_3056": "NO",
+          "proteccion": "GENERAL"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "APH",
+            "distrito_especifico": "APH 1"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 0.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/18/008-043-004_0000357018.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION008/008-043-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION008/PI-008-043-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": true,
+          "smp_linderas": [
+            "008-043-031",
+            "008-043-005",
+            "008-043-003"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "APH 1",
+          "incidencia_uva": 300.0,
+          "plusvalia_em": 0.0,
+          "plusvalia_pl": 0.0,
+          "plusvalia_sl": 0.0
+        },
+        "rivolta": 0,
+        "subzona": "3c",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 442.3,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "008-043-004"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C. ARGERICH",
+    "barrio": "Barracas",
+    "codigo_de_planeamiento_urbano": "APH 1",
+    "codigo_postal": "1152",
+    "codigo_postal_argentino": "C1152AAO",
+    "comisaria": "14",
+    "comisaria_vecinal": "1F",
+    "comuna": "Comuna 4",
+    "distrito_economico": "DISTRITO DE LAS ARTES",
+    "distrito_escolar": "Distrito Escolar   IV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "08"
+  },
+  "debug": {
+    "address": "AV. CASEROS 540",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.373054043503096,
+        -34.627061001880165
+      ],
+      "direccion": "",
+      "fondo": "42.29",
+      "frente": "10.50",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "043",
+      "parcela": "004",
+      "pdamatriz": "110837",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "008",
+      "smp": "008-043-004",
+      "smp_anterior": "008-043-003",
+      "smp_siguiente": "008-043-005",
+      "srid": 4326,
+      "superficie_cubierta": "444.00",
+      "superficie_total": "444.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 540,
+      "cod_calle": 3085
+    },
+    "usig_direccion_elegida": {
+      "altura": 540,
+      "cod_calle": 3085,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.373060",
+        "y": "-34.626873"
+      },
+      "direccion": "CASEROS AV. 540, CABA",
+      "nombre_calle": "CASEROS AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 540,
+          "cod_calle": 3085,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.373060",
+            "y": "-34.626873"
+          },
+          "direccion": "CASEROS AV. 540, CABA",
+          "nombre_calle": "CASEROS AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 540,
+          "cod_calle": 415751,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3982832306123,
+            "y": -34.8925186693878
+          },
+          "direccion": "Caseros 540, Almirante Brown",
+          "nombre_calle": "Caseros",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Glew",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 540,
+          "cod_calle": 87087,
+          "cod_calle_cruce": null,
+          "cod_partido": "ezeiza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5170269591837,
+            "y": -34.847384244898
+          },
+          "direccion": "Caseros 540, Ezeiza",
+          "nombre_calle": "Caseros",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ezeiza",
+          "nombre_partido": "Ezeiza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 540,
+          "cod_calle": 14724,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5630933418367,
+            "y": -34.6535612683673
+          },
+          "direccion": "Caseros 540, La Matanza",
+          "nombre_calle": "Caseros",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ramos Mejía",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 540,
+          "cod_calle": 17177,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4143049346939,
+            "y": -34.7709605632653
+          },
+          "direccion": "Caseros 540, Lomas de Zamora",
+          "nombre_calle": "Caseros",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lomas de Zamora",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 540,
+          "cod_calle": 62199,
+          "cod_calle_cruce": null,
+          "cod_partido": "moron",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5943083122449,
+            "y": -34.6395616204082
+          },
+          "direccion": "Caseros 540, Morón",
+          "nombre_calle": "Caseros",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Haedo",
+          "nombre_partido": "Morón",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 540,
+          "cod_calle": 293079,
+          "cod_calle_cruce": null,
+          "cod_partido": "quilmes",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.2789282041667,
+            "y": -34.7025628625
+          },
+          "direccion": "Avenida Caseros 540, Quilmes",
+          "nombre_calle": "Avenida Caseros",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Bernal",
+          "nombre_partido": "Quilmes",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 540,
+          "cod_calle": 178436,
+          "cod_calle_cruce": null,
+          "cod_partido": "tigre",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6041399265306,
+            "y": -34.4544505102041
+          },
+          "direccion": "Caseros 540, Tigre",
+          "nombre_calle": "Caseros",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Troncos del Talar",
+          "nombre_partido": "Tigre",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 540,
+          "cod_calle": 4865,
+          "cod_calle_cruce": null,
+          "cod_partido": "vicente_lopez",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4816101958333,
+            "y": -34.5344945
+          },
+          "direccion": "Caseros 540, Vicente López",
+          "nombre_calle": "Caseros",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Florida",
+          "nombre_partido": "Vicente López",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  108267.821962932,
+                  100261.92202703978
+                ],
+                [
+                  108278.50896290215,
+                  100262.17102703094
+                ],
+                [
+                  108279.8799628907,
+                  100251.72702705901
+                ],
+                [
+                  108280.13996288826,
+                  100249.74302706419
+                ],
+                [
+                  108280.44796288581,
+                  100247.39302707094
+                ],
+                [
+                  108281.02696288077,
+                  100242.98302708272
+                ],
+                [
+                  108281.1859628794,
+                  100241.77102708572
+                ],
+                [
+                  108281.36796287788,
+                  100240.38302709014
+                ],
+                [
+                  108281.94196287301,
+                  100236.00802710195
+                ],
+                [
+                  108282.30996286967,
+                  100233.20702710957
+                ],
+                [
+                  108282.66196286661,
+                  100230.52502711682
+                ],
+                [
+                  108282.89096286491,
+                  100228.77802712106
+                ],
+                [
+                  108283.42596286054,
+                  100224.70502713224
+                ],
+                [
+                  108283.92396285592,
+                  100220.9070271421
+                ],
+                [
+                  108277.83896287245,
+                  100220.15302714906
+                ],
+                [
+                  108273.63906200527,
+                  100219.63314482951
+                ],
+                [
+                  108271.81508741099,
+                  100232.89413112187
+                ],
+                [
+                  108270.58796290986,
+                  100241.81102709362
+                ],
+                [
+                  108270.28996291193,
+                  100243.97702708797
+                ],
+                [
+                  108269.7809629165,
+                  100247.6830270782
+                ],
+                [
+                  108269.22596292051,
+                  100251.71602706713
+                ],
+                [
+                  108267.821962932,
+                  100261.92202703978
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "008-043-004",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AV. CASEROS 540",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.373054043503096,
+      -34.627061001880165
+    ],
+    "direccion": "",
+    "fondo": "42.29",
+    "frente": "10.50",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "043",
+    "parcela": "004",
+    "pdamatriz": "110837",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "008",
+    "smp": "008-043-004",
+    "smp_anterior": "008-043-003",
+    "smp_siguiente": "008-043-005",
+    "srid": 4326,
+    "superficie_cubierta": "444.00",
+    "superficie_total": "444.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "008-043-004",
+  "_http_status": 200
+}

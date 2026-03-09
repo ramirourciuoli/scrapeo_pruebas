@@ -1,0 +1,317 @@
+{
+  "area_m2": 258.4846420288086,
+  "centroide_lonlat": {
+    "lat": -34.647718,
+    "lon": -58.409366
+  },
+  "centroide_xy": {
+    "x": 104944.71392739043,
+    "y": 97952.0054321565
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "E-CCA",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/8/96/034-073B-024_0000322896.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION034/034-073B-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION034/PI-034-073B-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "034-073B-004",
+            "034-073B-023",
+            "034-073B-025"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 228.659696544787,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 258.5,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "034-073B-024"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.M. PENNA",
+    "barrio": "Parque Patricios",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1437",
+    "codigo_postal_argentino": "C1437EIQ",
+    "comisaria": "32",
+    "comisaria_vecinal": "4A",
+    "comuna": "Comuna 4",
+    "distrito_economico": "DISTRITO TECNOLOGICO",
+    "distrito_escolar": "Distrito Escolar   V",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "34"
+  },
+  "debug": {
+    "address": "PEPIRI 835",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.409366412491565,
+        -34.64771803856602
+      ],
+      "direccion": "",
+      "fondo": "30.99",
+      "frente": "8.23",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "073B",
+      "parcela": "024",
+      "pdamatriz": "106839",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "034",
+      "smp": "034-073B-024",
+      "smp_anterior": "034-073B-023",
+      "smp_siguiente": "034-073B-025",
+      "srid": 4326,
+      "superficie_cubierta": "171.00",
+      "superficie_total": "255.00",
+      "unidades_funcionales": "2",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 835,
+      "cod_calle": 17056
+    },
+    "usig_direccion_elegida": {
+      "altura": 835,
+      "cod_calle": 17056,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.409166",
+        "y": "-34.647685"
+      },
+      "direccion": "PEPIRI 835, CABA",
+      "nombre_calle": "PEPIRI",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 835,
+          "cod_calle": 17056,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.409166",
+            "y": "-34.647685"
+          },
+          "direccion": "PEPIRI 835, CABA",
+          "nombre_calle": "PEPIRI",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  104959.20197047708,
+                  97959.06503598759
+                ],
+                [
+                  104960.81697046726,
+                  97950.96303600844
+                ],
+                [
+                  104952.89597048817,
+                  97949.39303602066
+                ],
+                [
+                  104949.78997049677,
+                  97948.77803602407
+                ],
+                [
+                  104939.00497052434,
+                  97946.6410360375
+                ],
+                [
+                  104937.1079705302,
+                  97946.26503603853
+                ],
+                [
+                  104930.28597054863,
+                  97944.913036049
+                ],
+                [
+                  104928.65797055821,
+                  97953.10203602733
+                ],
+                [
+                  104932.32597054976,
+                  97953.81803602452
+                ],
+                [
+                  104937.58597053547,
+                  97954.84503601439
+                ],
+                [
+                  104945.42697051473,
+                  97956.37603600521
+                ],
+                [
+                  104948.54197050566,
+                  97956.9840360008
+                ],
+                [
+                  104954.22197049038,
+                  97958.09303599494
+                ],
+                [
+                  104959.20197047708,
+                  97959.06503598759
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "034-073B-024",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "PEPIRI 835",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.409366412491565,
+      -34.64771803856602
+    ],
+    "direccion": "",
+    "fondo": "30.99",
+    "frente": "8.23",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "073B",
+    "parcela": "024",
+    "pdamatriz": "106839",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "034",
+    "smp": "034-073B-024",
+    "smp_anterior": "034-073B-023",
+    "smp_siguiente": "034-073B-025",
+    "srid": 4326,
+    "superficie_cubierta": "171.00",
+    "superficie_total": "255.00",
+    "unidades_funcionales": "2",
+    "vuc": "0.00"
+  },
+  "smp": "034-073B-024",
+  "_http_status": 200
+}

@@ -1,0 +1,367 @@
+{
+  "area_m2": 280.04469203948975,
+  "centroide_lonlat": {
+    "lat": -34.579539,
+    "lon": -58.455329
+  },
+  "centroide_xy": {
+    "x": 100731.40942447347,
+    "y": 105516.82029615968
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/1/88/037-018-024_0000088188.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION037/037-018-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION037/PI-037-018-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "037-018-029",
+            "037-018-025",
+            "037-018-023b",
+            "037-018-030"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 360.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 142.666964090859,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 280.0,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "037-018-024"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. E. TORNÚ",
+    "barrio": "Chacarita",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1427",
+    "codigo_postal_argentino": "C1427EAA",
+    "comisaria": "37",
+    "comisaria_vecinal": "15A",
+    "comuna": "Comuna 15",
+    "distrito_economico": "DISTRITO AUDIOVISUAL",
+    "distrito_escolar": "Distrito Escolar   XIV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "37"
+  },
+  "debug": {
+    "address": "CESPEDES 3523",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.455328799592955,
+        -34.57953891679492
+      ],
+      "direccion": "",
+      "fondo": "31.22",
+      "frente": "9.00",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "018",
+      "parcela": "024",
+      "pdamatriz": "406872",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "037",
+      "smp": "037-018-024",
+      "smp_anterior": "037-018-023B",
+      "smp_siguiente": "037-018-025",
+      "srid": 4326,
+      "superficie_cubierta": "591.00",
+      "superficie_total": "281.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3523,
+      "cod_calle": 3121
+    },
+    "usig_direccion_elegida": {
+      "altura": 3523,
+      "cod_calle": 3121,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.455147",
+        "y": "-34.579619"
+      },
+      "direccion": "CESPEDES 3523, CABA",
+      "nombre_calle": "CESPEDES",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3523,
+          "cod_calle": 3121,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.455147",
+            "y": "-34.579619"
+          },
+          "direccion": "CESPEDES 3523, CABA",
+          "nombre_calle": "CESPEDES",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3523,
+          "cod_calle": 88899,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6310059151515,
+            "y": -34.7501850272727
+          },
+          "direccion": "Céspedes 3523, La Matanza",
+          "nombre_calle": "Céspedes",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "González Catán",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  100716.07198806753,
+                  105519.75001797889
+                ],
+                [
+                  100717.56798806676,
+                  105523.92701796617
+                ],
+                [
+                  100718.30098806624,
+                  105525.97401796014
+                ],
+                [
+                  100718.90198806558,
+                  105527.65501795485
+                ],
+                [
+                  100719.1319880659,
+                  105528.29601795273
+                ],
+                [
+                  100722.39398805556,
+                  105526.58201795534
+                ],
+                [
+                  100724.08398804964,
+                  105525.69401795632
+                ],
+                [
+                  100724.60298804828,
+                  105525.42101795669
+                ],
+                [
+                  100725.32298804574,
+                  105525.04201795749
+                ],
+                [
+                  100726.82298804093,
+                  105524.2540179579
+                ],
+                [
+                  100727.76298803833,
+                  105523.76301795914
+                ],
+                [
+                  100730.54198802955,
+                  105522.3110179606
+                ],
+                [
+                  100732.45098802344,
+                  105521.31301796227
+                ],
+                [
+                  100733.16398802065,
+                  105520.94101796232
+                ],
+                [
+                  100747.28498797579,
+                  105513.56201797264
+                ],
+                [
+                  100743.0709879819,
+                  105505.59101799826
+                ],
+                [
+                  100731.83398801718,
+                  105511.48401799035
+                ],
+                [
+                  100728.91898802647,
+                  105513.01301798841
+                ],
+                [
+                  100723.52698804376,
+                  105515.8400179841
+                ],
+                [
+                  100720.04498805504,
+                  105517.66601798194
+                ],
+                [
+                  100719.64398805672,
+                  105517.87701798178
+                ],
+                [
+                  100716.07198806753,
+                  105519.75001797889
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "037-018-024",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CESPEDES 3523",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.455328799592955,
+      -34.57953891679492
+    ],
+    "direccion": "",
+    "fondo": "31.22",
+    "frente": "9.00",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "018",
+    "parcela": "024",
+    "pdamatriz": "406872",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "037",
+    "smp": "037-018-024",
+    "smp_anterior": "037-018-023B",
+    "smp_siguiente": "037-018-025",
+    "srid": 4326,
+    "superficie_cubierta": "591.00",
+    "superficie_total": "281.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "037-018-024",
+  "_http_status": 200
+}

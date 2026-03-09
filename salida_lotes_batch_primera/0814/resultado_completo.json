@@ -1,0 +1,407 @@
+{
+  "area_m2": 151.85732173919678,
+  "centroide_lonlat": {
+    "lat": -34.58173,
+    "lon": -58.408127
+  },
+  "centroide_xy": {
+    "x": 105062.36587566425,
+    "y": 105272.3495899238
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 4.16,
+          "fot_perim_libre": 4.16,
+          "fot_semi_libre": 4.16
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/3/25/021-041-004_0000358325.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION021/021-041-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION021/PI-021-041-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "021-041-039",
+            "021-041-005",
+            "021-041-003",
+            "021-041-036b",
+            "021-041-036c"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2a I",
+          "incidencia_uva": 700.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 137.987391572822,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 151.9,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "021-041-004"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.A.FERNÁNDEZ",
+    "barrio": "Palermo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1425",
+    "codigo_postal_argentino": "C1425APH",
+    "comisaria": "53",
+    "comisaria_vecinal": "14C",
+    "comuna": "Comuna 14",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   I",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "21"
+  },
+  "debug": {
+    "address": "CABELLO 3332",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.4081268195624,
+        -34.5817304264461
+      ],
+      "direccion": "",
+      "fondo": "21.70",
+      "frente": "6.96",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "041",
+      "parcela": "004",
+      "pdamatriz": "429844",
+      "pisos_bajo_rasante": "1",
+      "pisos_sobre_rasante": "9",
+      "propiedad_horizontal": "Si",
+      "seccion": "021",
+      "smp": "021-041-004",
+      "smp_anterior": "021-041-003",
+      "smp_siguiente": "021-041-005",
+      "srid": 4326,
+      "superficie_cubierta": "1393.00",
+      "superficie_total": "151.00",
+      "unidades_funcionales": "17",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3332,
+      "cod_calle": 3003
+    },
+    "usig_direccion_elegida": {
+      "altura": 3332,
+      "cod_calle": 3003,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.408074",
+        "y": "-34.581614"
+      },
+      "direccion": "CABELLO 3332, CABA",
+      "nombre_calle": "CABELLO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3332,
+          "cod_calle": 3003,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.408074",
+            "y": "-34.581614"
+          },
+          "direccion": "CABELLO 3332, CABA",
+          "nombre_calle": "CABELLO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  105062.93397570011,
+                  105283.69801536776
+                ],
+                [
+                  105063.40197569835,
+                  105283.52201537054
+                ],
+                [
+                  105068.97097568173,
+                  105281.4270153711
+                ],
+                [
+                  105069.50397567905,
+                  105281.22701537065
+                ],
+                [
+                  105069.07597568032,
+                  105280.10501537382
+                ],
+                [
+                  105068.79097568056,
+                  105279.35801537766
+                ],
+                [
+                  105068.72597568044,
+                  105279.18701537696
+                ],
+                [
+                  105068.38197568042,
+                  105278.2840153795
+                ],
+                [
+                  105068.1119756808,
+                  105277.57701538355
+                ],
+                [
+                  105067.18797568182,
+                  105275.1530153889
+                ],
+                [
+                  105066.73997568245,
+                  105273.97701539428
+                ],
+                [
+                  105065.60297568244,
+                  105270.99601540298
+                ],
+                [
+                  105064.80097568294,
+                  105268.89301540982
+                ],
+                [
+                  105063.24797568483,
+                  105264.81901542097
+                ],
+                [
+                  105062.85997568592,
+                  105263.80101542475
+                ],
+                [
+                  105061.78797568547,
+                  105260.98901543356
+                ],
+                [
+                  105058.89797569477,
+                  105262.08601543357
+                ],
+                [
+                  105058.06997569744,
+                  105262.40101543299
+                ],
+                [
+                  105055.23397570661,
+                  105263.47801543181
+                ],
+                [
+                  105056.29697570586,
+                  105266.26901542439
+                ],
+                [
+                  105056.79497570494,
+                  105267.57701541856
+                ],
+                [
+                  105056.89797570462,
+                  105267.84701541971
+                ],
+                [
+                  105057.18197570494,
+                  105268.59501541546
+                ],
+                [
+                  105057.46697570491,
+                  105269.34201541371
+                ],
+                [
+                  105057.75197570505,
+                  105270.09001541161
+                ],
+                [
+                  105058.23597570369,
+                  105271.36201540695
+                ],
+                [
+                  105059.94397570232,
+                  105275.8470153932
+                ],
+                [
+                  105060.05097570193,
+                  105276.12901539131
+                ],
+                [
+                  105060.6529757012,
+                  105277.70901538729
+                ],
+                [
+                  105060.90197570194,
+                  105278.36201538614
+                ],
+                [
+                  105061.50997570064,
+                  105279.96001538046
+                ],
+                [
+                  105061.89897570075,
+                  105280.98001537734
+                ],
+                [
+                  105062.22197570064,
+                  105281.82901537413
+                ],
+                [
+                  105062.29297569959,
+                  105282.01501537359
+                ],
+                [
+                  105062.3639757005,
+                  105282.20201537339
+                ],
+                [
+                  105062.93397570011,
+                  105283.69801536776
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "021-041-004",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CABELLO 3332",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.4081268195624,
+      -34.5817304264461
+    ],
+    "direccion": "",
+    "fondo": "21.70",
+    "frente": "6.96",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "041",
+    "parcela": "004",
+    "pdamatriz": "429844",
+    "pisos_bajo_rasante": "1",
+    "pisos_sobre_rasante": "9",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "021",
+    "smp": "021-041-004",
+    "smp_anterior": "021-041-003",
+    "smp_siguiente": "021-041-005",
+    "srid": 4326,
+    "superficie_cubierta": "1393.00",
+    "superficie_total": "151.00",
+    "unidades_funcionales": "17",
+    "vuc": "0.00"
+  },
+  "smp": "021-041-004",
+  "_http_status": 200
+}

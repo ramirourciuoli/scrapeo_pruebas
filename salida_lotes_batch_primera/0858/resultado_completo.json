@@ -1,0 +1,402 @@
+{
+  "area_m2": 119.39946842193604,
+  "centroide_lonlat": {
+    "lat": -34.637875,
+    "lon": -58.437742
+  },
+  "centroide_xy": {
+    "x": 102343.43076796702,
+    "y": 99045.02221003686
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/23/044-161-015_0000066523.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION044/044-161-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION044/PI-044-161-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "044-161-016",
+            "044-161-017",
+            "044-161-014"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 119.35765000001,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 119.4,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "044-161-015"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. P. PIÑERO",
+    "barrio": "Parque Chacabuco",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1424",
+    "codigo_postal_argentino": "C1424AZH",
+    "comisaria": "12",
+    "comisaria_vecinal": "7B",
+    "comuna": "Comuna 7",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "44"
+  },
+  "debug": {
+    "address": "EMILIO MITRE 1602",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.43774245872408,
+        -34.637874653635556
+      ],
+      "direccion": "",
+      "fondo": "16.85",
+      "frente": "7.18",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "161",
+      "parcela": "015",
+      "pdamatriz": "46194",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "044",
+      "smp": "044-161-015",
+      "smp_anterior": "044-161-014",
+      "smp_siguiente": "044-161-016",
+      "srid": 4326,
+      "superficie_cubierta": "146.00",
+      "superficie_total": "121.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1602,
+      "cod_calle": 13095
+    },
+    "usig_direccion_elegida": {
+      "altura": 1602,
+      "cod_calle": 13095,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.437739",
+        "y": "-34.638224"
+      },
+      "direccion": "MITRE, EMILIO 1602, CABA",
+      "nombre_calle": "MITRE, EMILIO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1602,
+          "cod_calle": 13095,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.437739",
+            "y": "-34.638224"
+          },
+          "direccion": "MITRE, EMILIO 1602, CABA",
+          "nombre_calle": "MITRE, EMILIO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1602,
+          "cod_calle": 412123,
+          "cod_calle_cruce": null,
+          "cod_partido": "marcos_paz",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.8370409826531,
+            "y": -34.7768758510204
+          },
+          "direccion": "Emilio Mitre 1602, Marcos Paz",
+          "nombre_calle": "Emilio Mitre",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Marcos Paz",
+          "nombre_partido": "Marcos Paz",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102337.60997864758,
+                  99045.51503491416
+                ],
+                [
+                  102338.2999786473,
+                  99048.40903490584
+                ],
+                [
+                  102339.45897864473,
+                  99049.3610349019
+                ],
+                [
+                  102340.64197864236,
+                  99050.33203489913
+                ],
+                [
+                  102343.39697863623,
+                  99052.59403488983
+                ],
+                [
+                  102343.67897863526,
+                  99052.82603488979
+                ],
+                [
+                  102344.4369786328,
+                  99051.89703489136
+                ],
+                [
+                  102344.6009786321,
+                  99051.69603489237
+                ],
+                [
+                  102345.20097863041,
+                  99050.96103489364
+                ],
+                [
+                  102346.80497862378,
+                  99048.99703489829
+                ],
+                [
+                  102347.78197862007,
+                  99047.80003490031
+                ],
+                [
+                  102349.04697861597,
+                  99046.25003490387
+                ],
+                [
+                  102349.54797861425,
+                  99045.63603490515
+                ],
+                [
+                  102350.8239786091,
+                  99044.07403490861
+                ],
+                [
+                  102352.09697860442,
+                  99042.51403491246
+                ],
+                [
+                  102350.1099786098,
+                  99041.91903491499
+                ],
+                [
+                  102349.54197861126,
+                  99041.74903491596
+                ],
+                [
+                  102349.39797861135,
+                  99041.70603491654
+                ],
+                [
+                  102348.46597861373,
+                  99041.42603491776
+                ],
+                [
+                  102346.74197861778,
+                  99040.9100349207
+                ],
+                [
+                  102345.26597862178,
+                  99040.46803492325
+                ],
+                [
+                  102344.32097862485,
+                  99040.18503492404
+                ],
+                [
+                  102344.03297862496,
+                  99040.09903492528
+                ],
+                [
+                  102343.8979786255,
+                  99040.05803492531
+                ],
+                [
+                  102343.07497862779,
+                  99039.81203492632
+                ],
+                [
+                  102342.39597862907,
+                  99039.60903492765
+                ],
+                [
+                  102339.75097863635,
+                  99038.81603493137
+                ],
+                [
+                  102338.74497863888,
+                  99038.51503493296
+                ],
+                [
+                  102337.25697864733,
+                  99044.03503491907
+                ],
+                [
+                  102337.30397864668,
+                  99044.23203491818
+                ],
+                [
+                  102337.60997864758,
+                  99045.51503491416
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "044-161-015",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "EMILIO MITRE 1602",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.43774245872408,
+      -34.637874653635556
+    ],
+    "direccion": "",
+    "fondo": "16.85",
+    "frente": "7.18",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "161",
+    "parcela": "015",
+    "pdamatriz": "46194",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "044",
+    "smp": "044-161-015",
+    "smp_anterior": "044-161-014",
+    "smp_siguiente": "044-161-016",
+    "srid": 4326,
+    "superficie_cubierta": "146.00",
+    "superficie_total": "121.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "044-161-015",
+  "_http_status": 200
+}

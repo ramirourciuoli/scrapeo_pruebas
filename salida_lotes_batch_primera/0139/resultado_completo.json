@@ -1,0 +1,376 @@
+{
+  "area_m2": 369.7160749435425,
+  "centroide_lonlat": {
+    "lat": -34.550752,
+    "lon": -58.447545
+  },
+  "centroide_xy": {
+    "x": 101446.08245161739,
+    "y": 108710.21072858213
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 0.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "U",
+            "distrito_especifico": "U 89"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.0,
+          "fot_perim_libre": 1.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/2/93/027-111C-009_0000220293.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION027/027-111C-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION027/PI-027-111C-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "027-111C-008",
+            "027-111C-010"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R1b I 4",
+          "incidencia_uva": 490.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0.0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 369.7,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "027-111C-009"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Belgrano",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1428",
+    "codigo_postal_argentino": "C1428CFA",
+    "comisaria": "51",
+    "comisaria_vecinal": "13A",
+    "comuna": "Comuna 13",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   X",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "27"
+  },
+  "debug": {
+    "address": "RAFAEL HERNANDEZ 2501",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.44754543085566,
+        -34.55075205677513
+      ],
+      "direccion": "",
+      "fondo": "18.21",
+      "frente": "20.21",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "111C",
+      "parcela": "009",
+      "pdamatriz": "376543",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "027",
+      "smp": "027-111C-009",
+      "smp_anterior": "027-111C-008",
+      "smp_siguiente": "027-111C-010",
+      "srid": 4326,
+      "superficie_cubierta": "397.00",
+      "superficie_total": "368.00",
+      "unidades_funcionales": "2",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2501,
+      "cod_calle": 8012
+    },
+    "usig_direccion_elegida": {
+      "altura": 2501,
+      "cod_calle": 8012,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.447699",
+        "y": "-34.550810"
+      },
+      "direccion": "HERNANDEZ, RAFAEL 2501, CABA",
+      "nombre_calle": "HERNANDEZ, RAFAEL",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2501,
+          "cod_calle": 8012,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.447699",
+            "y": "-34.550810"
+          },
+          "direccion": "HERNANDEZ, RAFAEL 2501, CABA",
+          "nombre_calle": "HERNANDEZ, RAFAEL",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  101441.71498843931,
+                  108717.06300846633
+                ],
+                [
+                  101442.04998843855,
+                  108717.30100846532
+                ],
+                [
+                  101443.52498843576,
+                  108718.34700846134
+                ],
+                [
+                  101450.64298841938,
+                  108723.39800844179
+                ],
+                [
+                  101452.02298841397,
+                  108721.48500844638
+                ],
+                [
+                  101453.06798840986,
+                  108720.03500844949
+                ],
+                [
+                  101453.3139884092,
+                  108719.69500845045
+                ],
+                [
+                  101457.56398839281,
+                  108713.80200846362
+                ],
+                [
+                  101458.00698839106,
+                  108713.18800846496
+                ],
+                [
+                  101459.32798838554,
+                  108711.35600846866
+                ],
+                [
+                  101460.11198838252,
+                  108710.26800847161
+                ],
+                [
+                  101458.43398838694,
+                  108709.06700847589
+                ],
+                [
+                  101458.06498838784,
+                  108708.80300847744
+                ],
+                [
+                  101455.96898839173,
+                  108707.30300848317
+                ],
+                [
+                  101451.38798840281,
+                  108704.0220084954
+                ],
+                [
+                  101447.24298841172,
+                  108701.05400850647
+                ],
+                [
+                  101443.54998842013,
+                  108698.41000851733
+                ],
+                [
+                  101439.47298843278,
+                  108699.4910085176
+                ],
+                [
+                  101439.05298843414,
+                  108699.60200851716
+                ],
+                [
+                  101437.88998843696,
+                  108699.91000851741
+                ],
+                [
+                  101435.98198844556,
+                  108703.96900850683
+                ],
+                [
+                  101434.94698844997,
+                  108706.17100850199
+                ],
+                [
+                  101432.8009884597,
+                  108710.73800849059
+                ],
+                [
+                  101433.7289884579,
+                  108711.39600848785
+                ],
+                [
+                  101434.56598845536,
+                  108711.99000848609
+                ],
+                [
+                  101436.24298845168,
+                  108713.18000848097
+                ],
+                [
+                  101437.58598844902,
+                  108714.13300847795
+                ],
+                [
+                  101438.60398844685,
+                  108714.85600847442
+                ],
+                [
+                  101441.71498843931,
+                  108717.06300846633
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "027-111C-009",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "RAFAEL HERNANDEZ 2501",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.44754543085566,
+      -34.55075205677513
+    ],
+    "direccion": "",
+    "fondo": "18.21",
+    "frente": "20.21",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "111C",
+    "parcela": "009",
+    "pdamatriz": "376543",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "027",
+    "smp": "027-111C-009",
+    "smp_anterior": "027-111C-008",
+    "smp_siguiente": "027-111C-010",
+    "srid": 4326,
+    "superficie_cubierta": "397.00",
+    "superficie_total": "368.00",
+    "unidades_funcionales": "2",
+    "vuc": "0.00"
+  },
+  "smp": "027-111C-009",
+  "_http_status": 200
+}

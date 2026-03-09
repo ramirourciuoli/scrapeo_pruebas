@@ -1,0 +1,363 @@
+{
+  "area_m2": 144.58955574035645,
+  "centroide_lonlat": {
+    "lat": -34.612057,
+    "lon": -58.445516
+  },
+  "centroide_xy": {
+    "x": 101631.16831459114,
+    "y": 101909.25665142995
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/80/045-024-002_0000122780.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION045/045-024-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION045/PI-045-024-V3.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "045-024-001",
+            "045-024-044",
+            "045-024-042a",
+            "045-024-003"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 310.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 144.594600000099,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 144.6,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "045-024-002"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Caballito",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1405",
+    "codigo_postal_argentino": "C1405CYJ",
+    "comisaria": "13",
+    "comisaria_vecinal": "6A",
+    "comuna": "Comuna 6",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "45"
+  },
+  "debug": {
+    "address": "ARENGREEN 924",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.44551592702736,
+        -34.61205728966371
+      ],
+      "direccion": "",
+      "fondo": "16.51",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "024",
+      "parcela": "002",
+      "pdamatriz": "177338",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "045",
+      "smp": "045-024-002",
+      "smp_anterior": "045-024-001",
+      "smp_siguiente": "045-024-003",
+      "srid": 4326,
+      "superficie_cubierta": "171.00",
+      "superficie_total": "143.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 924,
+      "cod_calle": 1105
+    },
+    "usig_direccion_elegida": {
+      "altura": 924,
+      "cod_calle": 1105,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.445568",
+        "y": "-34.611965"
+      },
+      "direccion": "ARENGREEN 924, CABA",
+      "nombre_calle": "ARENGREEN",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 924,
+          "cod_calle": 1105,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.445568",
+            "y": "-34.611965"
+          },
+          "direccion": "ARENGREEN 924, CABA",
+          "nombre_calle": "ARENGREEN",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 924,
+          "cod_calle": 159440,
+          "cod_calle_cruce": null,
+          "cod_partido": "ituzaingo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6663199836735,
+            "y": -34.6690918510204
+          },
+          "direccion": "Juan Arengreen 924, Ituzaingó",
+          "nombre_calle": "Juan Arengreen",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ituzaingó",
+          "nombre_partido": "Ituzaingó",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  101630.27998277952,
+                  101899.76002744236
+                ],
+                [
+                  101629.63298278267,
+                  101901.35102743842
+                ],
+                [
+                  101628.9489827855,
+                  101903.03402743439
+                ],
+                [
+                  101627.99698279033,
+                  101905.37502742853
+                ],
+                [
+                  101627.47798279245,
+                  101906.65102742493
+                ],
+                [
+                  101626.85898279538,
+                  101908.17402742113
+                ],
+                [
+                  101625.83198280039,
+                  101910.70102741555
+                ],
+                [
+                  101624.50998280589,
+                  101913.95202740669
+                ],
+                [
+                  101624.05798280843,
+                  101915.06502740478
+                ],
+                [
+                  101631.82898278907,
+                  101918.6820273884
+                ],
+                [
+                  101633.93798277974,
+                  101913.92902739966
+                ],
+                [
+                  101634.05998277874,
+                  101913.65402740086
+                ],
+                [
+                  101634.35498277823,
+                  101912.98902740242
+                ],
+                [
+                  101635.25998277347,
+                  101910.95002740758
+                ],
+                [
+                  101635.68498277137,
+                  101909.99802740949
+                ],
+                [
+                  101635.99898277021,
+                  101909.29402741126
+                ],
+                [
+                  101636.3929827688,
+                  101908.41202741326
+                ],
+                [
+                  101636.43798276849,
+                  101908.3120274139
+                ],
+                [
+                  101638.4299827592,
+                  101903.85002742457
+                ],
+                [
+                  101635.95998276542,
+                  101902.61002743067
+                ],
+                [
+                  101630.27998277952,
+                  101899.76002744236
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "045-024-002",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ARENGREEN 924",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.44551592702736,
+      -34.61205728966371
+    ],
+    "direccion": "",
+    "fondo": "16.51",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "024",
+    "parcela": "002",
+    "pdamatriz": "177338",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "045",
+    "smp": "045-024-002",
+    "smp_anterior": "045-024-001",
+    "smp_siguiente": "045-024-003",
+    "srid": 4326,
+    "superficie_cubierta": "171.00",
+    "superficie_total": "143.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "045-024-002",
+  "_http_status": 200
+}

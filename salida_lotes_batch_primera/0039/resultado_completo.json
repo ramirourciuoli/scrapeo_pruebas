@@ -1,0 +1,398 @@
+{
+  "area_m2": 122.8938398361206,
+  "centroide_lonlat": {
+    "lat": -34.628778,
+    "lon": -58.492027
+  },
+  "centroide_xy": {
+    "x": 97365.67628251998,
+    "y": 100054.1412052645
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/8/58/077-065-012_0000193858.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION077/077-065-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION077/PI-077-065-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "077-065-011",
+            "077-065-009",
+            "077-065-008",
+            "077-065-013"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 60.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 122.880300000086,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 122.9,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "077-065-012"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Velez Sarsfield",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1407",
+    "codigo_postal_argentino": "C1407ASM",
+    "comisaria": "43",
+    "comisaria_vecinal": "10A",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "77"
+  },
+  "debug": {
+    "address": "BELEN 783",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.492026896775705,
+        -34.62877758703754
+      ],
+      "direccion": "",
+      "fondo": "14.25",
+      "frente": "8.70",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "065",
+      "parcela": "012",
+      "pdamatriz": "2649",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "3",
+      "propiedad_horizontal": "Si",
+      "seccion": "077",
+      "smp": "077-065-012",
+      "smp_anterior": "077-065-011",
+      "smp_siguiente": "077-065-013",
+      "srid": 4326,
+      "superficie_cubierta": "368.00",
+      "superficie_total": "124.00",
+      "unidades_funcionales": "6",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 783,
+      "cod_calle": 2047
+    },
+    "usig_direccion_elegida": {
+      "altura": 783,
+      "cod_calle": 2047,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.492117",
+        "y": "-34.628849"
+      },
+      "direccion": "BELEN 783, CABA",
+      "nombre_calle": "BELEN",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 783,
+          "cod_calle": 2047,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.492117",
+            "y": "-34.628849"
+          },
+          "direccion": "BELEN 783, CABA",
+          "nombre_calle": "BELEN",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 783,
+          "cod_calle": 193985,
+          "cod_calle_cruce": null,
+          "cod_partido": "escobar",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7835756234694,
+            "y": -34.3385319673469
+          },
+          "direccion": "Belén 783, Escobar",
+          "nombre_calle": "Belén",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Belén de Escobar",
+          "nombre_partido": "Escobar",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 783,
+          "cod_calle": 6891,
+          "cod_calle_cruce": null,
+          "cod_partido": "ituzaingo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6832571928572,
+            "y": -34.6340840663265
+          },
+          "direccion": "Belen 783, Ituzaingó",
+          "nombre_calle": "Belen",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ituzaingó",
+          "nombre_partido": "Ituzaingó",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 783,
+          "cod_calle": 10049,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5218918908163,
+            "y": -34.6665207234694
+          },
+          "direccion": "Belén 783, La Matanza",
+          "nombre_calle": "Belén",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lomas del Mirador",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 783,
+          "cod_calle": 165580,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7395661,
+            "y": -34.6957738387755
+          },
+          "direccion": "Belén 783, Merlo",
+          "nombre_calle": "Belén",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Parque San Martín",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97371.999993332,
+                  100054.64303582237
+                ],
+                [
+                  97369.8259933372,
+                  100052.51903583022
+                ],
+                [
+                  97369.21999333773,
+                  100051.92603583148
+                ],
+                [
+                  97363.49099335042,
+                  100046.3260358528
+                ],
+                [
+                  97363.06299335198,
+                  100046.74703585115
+                ],
+                [
+                  97358.3149933689,
+                  100051.41203583978
+                ],
+                [
+                  97357.60099337049,
+                  100052.1130358408
+                ],
+                [
+                  97357.17299337259,
+                  100052.53403583917
+                ],
+                [
+                  97358.04399336963,
+                  100053.3600358362
+                ],
+                [
+                  97360.15599336699,
+                  100055.3640358294
+                ],
+                [
+                  97362.70499336087,
+                  100057.78203582077
+                ],
+                [
+                  97362.93899336022,
+                  100058.00403581889
+                ],
+                [
+                  97365.11499335564,
+                  100060.06803581191
+                ],
+                [
+                  97373.27399333146,
+                  100058.71003580981
+                ],
+                [
+                  97375.73999332433,
+                  100058.29903580836
+                ],
+                [
+                  97372.80299333119,
+                  100055.428035819
+                ],
+                [
+                  97371.999993332,
+                  100054.64303582237
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "077-065-012",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "BELEN 783",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.492026896775705,
+      -34.62877758703754
+    ],
+    "direccion": "",
+    "fondo": "14.25",
+    "frente": "8.70",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "065",
+    "parcela": "012",
+    "pdamatriz": "2649",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "3",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "077",
+    "smp": "077-065-012",
+    "smp_anterior": "077-065-011",
+    "smp_siguiente": "077-065-013",
+    "srid": 4326,
+    "superficie_cubierta": "368.00",
+    "superficie_total": "124.00",
+    "unidades_funcionales": "6",
+    "vuc": "0.00"
+  },
+  "smp": "077-065-012",
+  "_http_status": 200
+}

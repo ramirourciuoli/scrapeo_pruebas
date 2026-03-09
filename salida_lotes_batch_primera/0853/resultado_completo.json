@@ -1,0 +1,332 @@
+{
+  "area_m2": 142.19404888153076,
+  "centroide_lonlat": {
+    "lat": -34.588865,
+    "lon": -58.513117
+  },
+  "centroide_xy": {
+    "x": 95429.44788060721,
+    "y": 104481.11969826298
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/32/083-180A-014_0000176532.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION083/083-180A-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION083/PI-083-180A-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "083-180A-013",
+            "083-180A-015"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "AE 26",
+          "incidencia_uva": 180.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 142.240200000047,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 142.2,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "083-180A-014"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. A. ZUBIZARRETA",
+    "barrio": "Villa Devoto",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1419",
+    "codigo_postal_argentino": "C1419EYW",
+    "comisaria": "47",
+    "comisaria_vecinal": "11B",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "83"
+  },
+  "debug": {
+    "address": "LADINES 3551",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.5131173095708,
+        -34.588865074195134
+      ],
+      "direccion": "",
+      "fondo": "14.52",
+      "frente": "9.23",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "180A",
+      "parcela": "014",
+      "pdamatriz": "273252",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "083",
+      "smp": "083-180A-014",
+      "smp_anterior": "083-180A-013",
+      "smp_siguiente": "083-180A-015",
+      "srid": 4326,
+      "superficie_cubierta": "165.00",
+      "superficie_total": "134.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3551,
+      "cod_calle": 12014
+    },
+    "usig_direccion_elegida": {
+      "altura": 3551,
+      "cod_calle": 12014,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.513046",
+        "y": "-34.588940"
+      },
+      "direccion": "LADINES 3551, CABA",
+      "nombre_calle": "LADINES",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3551,
+          "cod_calle": 12014,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.513046",
+            "y": "-34.588940"
+          },
+          "direccion": "LADINES 3551, CABA",
+          "nombre_calle": "LADINES",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  95438.09200208692,
+                  104480.2050248679
+                ],
+                [
+                  95434.7390020962,
+                  104477.70302487625
+                ],
+                [
+                  95430.81000210269,
+                  104474.77002488723
+                ],
+                [
+                  95429.82900210586,
+                  104474.87402488789
+                ],
+                [
+                  95425.06000211928,
+                  104475.38002489012
+                ],
+                [
+                  95424.7770021224,
+                  104475.7580248898
+                ],
+                [
+                  95424.53700212215,
+                  104476.07802489033
+                ],
+                [
+                  95420.59800213788,
+                  104481.34302487725
+                ],
+                [
+                  95421.48258311405,
+                  104481.98755930521
+                ],
+                [
+                  95428.01404909258,
+                  104486.74659754627
+                ],
+                [
+                  95428.36400212019,
+                  104487.00202485739
+                ],
+                [
+                  95428.87899053488,
+                  104487.376821972
+                ],
+                [
+                  95431.36200211215,
+                  104489.18602484657
+                ],
+                [
+                  95433.19000210587,
+                  104486.74602485256
+                ],
+                [
+                  95434.40100210045,
+                  104485.13102485595
+                ],
+                [
+                  95435.36100209766,
+                  104483.85002485747
+                ],
+                [
+                  95437.7920020892,
+                  104480.60502486833
+                ],
+                [
+                  95438.09200208692,
+                  104480.2050248679
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "083-180A-014",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "LADINES 3551",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.5131173095708,
+      -34.588865074195134
+    ],
+    "direccion": "",
+    "fondo": "14.52",
+    "frente": "9.23",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "180A",
+    "parcela": "014",
+    "pdamatriz": "273252",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "083",
+    "smp": "083-180A-014",
+    "smp_anterior": "083-180A-013",
+    "smp_siguiente": "083-180A-015",
+    "srid": 4326,
+    "superficie_cubierta": "165.00",
+    "superficie_total": "134.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "083-180A-014",
+  "_http_status": 200
+}

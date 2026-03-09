@@ -1,0 +1,362 @@
+{
+  "area_m2": 420.44006538391113,
+  "centroide_lonlat": {
+    "lat": -34.576012,
+    "lon": -58.494455
+  },
+  "centroide_xy": {
+    "x": 97141.18132923612,
+    "y": 105907.63586158017
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/59/063-051-010_0000245559.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION063/063-051-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION063/PI-063-051-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "063-051-011",
+            "063-051-012",
+            "063-051-004",
+            "063-051-009"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 460.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 400.247100133721,
+        "sup_max_edificable": 1966.3,
+        "superficie_parcela": 420.4,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "063-051-010"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Villa Urquiza",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1431",
+    "codigo_postal_argentino": "C1431ELE",
+    "comisaria": "39",
+    "comisaria_vecinal": "12C",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "63"
+  },
+  "debug": {
+    "address": "CERETTI 2645",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.49445525805245,
+        -34.57601228981643
+      ],
+      "direccion": "",
+      "fondo": "35.00",
+      "frente": "12.00",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "051",
+      "parcela": "010",
+      "pdamatriz": "352341",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "3",
+      "propiedad_horizontal": "Si",
+      "seccion": "063",
+      "smp": "063-051-010",
+      "smp_anterior": "063-051-009",
+      "smp_siguiente": "063-051-011",
+      "srid": 4326,
+      "superficie_cubierta": "678.00",
+      "superficie_total": "421.00",
+      "unidades_funcionales": "11",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2645,
+      "cod_calle": 3115
+    },
+    "usig_direccion_elegida": {
+      "altura": 2645,
+      "cod_calle": 3115,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.494664",
+        "y": "-34.576127"
+      },
+      "direccion": "CERETTI 2645, CABA",
+      "nombre_calle": "CERETTI",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2645,
+          "cod_calle": 3115,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.494664",
+            "y": "-34.576127"
+          },
+          "direccion": "CERETTI 2645, CABA",
+          "nombre_calle": "CERETTI",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97123.22999843232,
+                  105902.87001960893
+                ],
+                [
+                  97125.30999842664,
+                  105904.25501960327
+                ],
+                [
+                  97125.81099842569,
+                  105904.58901960176
+                ],
+                [
+                  97129.65199841687,
+                  105907.14701959188
+                ],
+                [
+                  97133.30699840866,
+                  105909.58201958283
+                ],
+                [
+                  97136.33399840147,
+                  105911.59801957474
+                ],
+                [
+                  97139.68499839355,
+                  105913.83001956576
+                ],
+                [
+                  97140.43699839216,
+                  105914.33101956398
+                ],
+                [
+                  97141.51799838989,
+                  105915.05101956087
+                ],
+                [
+                  97142.84899838708,
+                  105915.9380195575
+                ],
+                [
+                  97152.46099836467,
+                  105922.34001953207
+                ],
+                [
+                  97154.34099835715,
+                  105919.50801953912
+                ],
+                [
+                  97159.11899833828,
+                  105912.31101955508
+                ],
+                [
+                  97146.31999836818,
+                  105903.85801958869
+                ],
+                [
+                  97139.90999838279,
+                  105899.62501960539
+                ],
+                [
+                  97138.90299838493,
+                  105898.96001960797
+                ],
+                [
+                  97137.28299838856,
+                  105897.89001961186
+                ],
+                [
+                  97136.29899839063,
+                  105897.24001961501
+                ],
+                [
+                  97129.80199840611,
+                  105892.94901963172
+                ],
+                [
+                  97128.0389984128,
+                  105895.61001962592
+                ],
+                [
+                  97126.64599841813,
+                  105897.71301962118
+                ],
+                [
+                  97126.33399841946,
+                  105898.18401961998
+                ],
+                [
+                  97125.77099842159,
+                  105899.03401961765
+                ],
+                [
+                  97124.97399842541,
+                  105900.23801961477
+                ],
+                [
+                  97123.22999843232,
+                  105902.87001960893
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "063-051-010",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CERETTI 2645",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.49445525805245,
+      -34.57601228981643
+    ],
+    "direccion": "",
+    "fondo": "35.00",
+    "frente": "12.00",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "051",
+    "parcela": "010",
+    "pdamatriz": "352341",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "3",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "063",
+    "smp": "063-051-010",
+    "smp_anterior": "063-051-009",
+    "smp_siguiente": "063-051-011",
+    "srid": 4326,
+    "superficie_cubierta": "678.00",
+    "superficie_total": "421.00",
+    "unidades_funcionales": "11",
+    "vuc": "0.00"
+  },
+  "smp": "063-051-010",
+  "_http_status": 200
+}

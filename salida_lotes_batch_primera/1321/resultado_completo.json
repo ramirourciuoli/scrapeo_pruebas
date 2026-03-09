@@ -1,0 +1,330 @@
+{
+  "area_m2": 602.419153213501,
+  "centroide_lonlat": {
+    "lat": -34.631548,
+    "lon": -58.505338
+  },
+  "centroide_xy": {
+    "x": 96145.13574474244,
+    "y": 99746.33593534428
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": "SINGULAR",
+          "denominacion": null,
+          "estado": "CATALOGO PREVENTIVO",
+          "ley_3056": "SI",
+          "proteccion": "CAUTELAR"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/4/07/091-086-029_0000205407.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION091/091-086-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION091/PI-091-086-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "091-086-008",
+            "091-086-030",
+            "091-086-028",
+            "091-086-009"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 110.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 602.4,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "091-086-029"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Villa Luro",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1407",
+    "codigo_postal_argentino": "C1407BTM",
+    "comisaria": "44",
+    "comisaria_vecinal": "10B",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "91"
+  },
+  "debug": {
+    "address": "MOLIERE 757",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.50533808760969,
+        -34.63154832952481
+      ],
+      "direccion": "",
+      "fondo": "68.36",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "086",
+      "parcela": "029",
+      "pdamatriz": "284525",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "091",
+      "smp": "091-086-029",
+      "smp_anterior": "091-086-028",
+      "smp_siguiente": "091-086-030",
+      "srid": 4326,
+      "superficie_cubierta": "180.00",
+      "superficie_total": "592.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 757,
+      "cod_calle": 13100
+    },
+    "usig_direccion_elegida": {
+      "altura": 757,
+      "cod_calle": 13100,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.505622",
+        "y": "-34.631808"
+      },
+      "direccion": "MOLIERE 757, CABA",
+      "nombre_calle": "MOLIERE",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 757,
+          "cod_calle": 13100,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.505622",
+            "y": "-34.631808"
+          },
+          "direccion": "MOLIERE 757, CABA",
+          "nombre_calle": "MOLIERE",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96167.01799649314,
+                  99764.43103754288
+                ],
+                [
+                  96153.36299651957,
+                  99749.01803759669
+                ],
+                [
+                  96131.74399656191,
+                  99724.61403768128
+                ],
+                [
+                  96128.33499656859,
+                  99720.76503769428
+                ],
+                [
+                  96125.57899657392,
+                  99717.65503770567
+                ],
+                [
+                  96120.5949965911,
+                  99722.1660376967
+                ],
+                [
+                  96119.08599659677,
+                  99723.53103769422
+                ],
+                [
+                  96121.98799659086,
+                  99726.80803768264
+                ],
+                [
+                  96125.44499658453,
+                  99730.71103766904
+                ],
+                [
+                  96135.76099656396,
+                  99742.35703762833
+                ],
+                [
+                  96138.10899655963,
+                  99745.00803761967
+                ],
+                [
+                  96160.45999651571,
+                  99770.24103753208
+                ],
+                [
+                  96162.68499651102,
+                  99772.75403752262
+                ],
+                [
+                  96164.6949965078,
+                  99775.02303751514
+                ],
+                [
+                  96168.12699649582,
+                  99771.8990375215
+                ],
+                [
+                  96171.17499648471,
+                  99769.1240375266
+                ],
+                [
+                  96167.01799649314,
+                  99764.43103754288
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "091-086-029",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MOLIERE 757",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.50533808760969,
+      -34.63154832952481
+    ],
+    "direccion": "",
+    "fondo": "68.36",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "086",
+    "parcela": "029",
+    "pdamatriz": "284525",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "091",
+    "smp": "091-086-029",
+    "smp_anterior": "091-086-028",
+    "smp_siguiente": "091-086-030",
+    "srid": 4326,
+    "superficie_cubierta": "180.00",
+    "superficie_total": "592.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "091-086-029",
+  "_http_status": 200
+}

@@ -1,0 +1,370 @@
+{
+  "area_m2": 336.56974601745605,
+  "centroide_lonlat": {
+    "lat": -34.627704,
+    "lon": -58.485274
+  },
+  "centroide_xy": {
+    "x": 97984.87470281303,
+    "y": 100173.41087334088
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/53/077-095-006_0000194553.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION077/077-095-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION077/PI-077-095-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "077-095-015b",
+            "077-095-005",
+            "077-095-014",
+            "077-095-007"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 80.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 295.290629712221,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 336.6,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "077-095-006"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. T. ÁLVAREZ",
+    "barrio": "Floresta",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1407",
+    "codigo_postal_argentino": "C1407ENN",
+    "comisaria": "43",
+    "comisaria_vecinal": "10A",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "77"
+  },
+  "debug": {
+    "address": "MORON 3952",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.48527434115443,
+        -34.62770386268506
+      ],
+      "direccion": "",
+      "fondo": "39.38",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "095",
+      "parcela": "006",
+      "pdamatriz": "1836",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "077",
+      "smp": "077-095-006",
+      "smp_anterior": "077-095-005",
+      "smp_siguiente": "077-095-007",
+      "srid": 4326,
+      "superficie_cubierta": "385.00",
+      "superficie_total": "341.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3952,
+      "cod_calle": 13132
+    },
+    "usig_direccion_elegida": {
+      "altura": 3952,
+      "cod_calle": 13132,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.485344",
+        "y": "-34.627504"
+      },
+      "direccion": "MORON 3952, CABA",
+      "nombre_calle": "MORON",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3952,
+          "cod_calle": 13132,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.485344",
+            "y": "-34.627504"
+          },
+          "direccion": "MORON 3952, CABA",
+          "nombre_calle": "MORON",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97984.60499169385,
+                  100159.10003506675
+                ],
+                [
+                  97984.00499169622,
+                  100161.12703506346
+                ],
+                [
+                  97983.07099170105,
+                  100164.33203505605
+                ],
+                [
+                  97983.00599170204,
+                  100164.55703505402
+                ],
+                [
+                  97982.47199170472,
+                  100166.38803504914
+                ],
+                [
+                  97981.57499170906,
+                  100169.46703503988
+                ],
+                [
+                  97980.31299171588,
+                  100173.79803502906
+                ],
+                [
+                  97979.24799172193,
+                  100177.45403502078
+                ],
+                [
+                  97978.33599172653,
+                  100180.58403501267
+                ],
+                [
+                  97978.05599172777,
+                  100181.54403501088
+                ],
+                [
+                  97977.57299173066,
+                  100183.20403500649
+                ],
+                [
+                  97976.81099173457,
+                  100185.81903499863
+                ],
+                [
+                  97976.73999173575,
+                  100186.06203499783
+                ],
+                [
+                  97976.25099173852,
+                  100187.74003499394
+                ],
+                [
+                  97975.271991743,
+                  100191.10103498367
+                ],
+                [
+                  97979.87099173162,
+                  100192.42703497873
+                ],
+                [
+                  97983.49099172218,
+                  100193.47103497354
+                ],
+                [
+                  97985.00699171434,
+                  100188.27803498696
+                ],
+                [
+                  97985.16499171348,
+                  100187.73603498662
+                ],
+                [
+                  97987.29299170086,
+                  100180.4490350053
+                ],
+                [
+                  97990.23299168523,
+                  100170.38003503231
+                ],
+                [
+                  97991.23299168015,
+                  100166.95403504107
+                ],
+                [
+                  97992.1519916746,
+                  100163.80703504974
+                ],
+                [
+                  97992.82699167062,
+                  100161.49603505625
+                ],
+                [
+                  97994.40699166246,
+                  100156.0830350699
+                ],
+                [
+                  97986.40699168236,
+                  100153.01903508377
+                ],
+                [
+                  97984.60499169385,
+                  100159.10003506675
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "077-095-006",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MORON 3952",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.48527434115443,
+      -34.62770386268506
+    ],
+    "direccion": "",
+    "fondo": "39.38",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "095",
+    "parcela": "006",
+    "pdamatriz": "1836",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "077",
+    "smp": "077-095-006",
+    "smp_anterior": "077-095-005",
+    "smp_siguiente": "077-095-007",
+    "srid": 4326,
+    "superficie_cubierta": "385.00",
+    "superficie_total": "341.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "077-095-006",
+  "_http_status": 200
+}

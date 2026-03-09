@@ -1,0 +1,425 @@
+{
+  "area_m2": 577.2811031341553,
+  "centroide_lonlat": {
+    "lat": -34.625033,
+    "lon": -58.386533
+  },
+  "centroide_xy": {
+    "x": 107039.98845410456,
+    "y": 100467.23068208646
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.0,
+          "fot_perim_libre": 3.0,
+          "fot_semi_libre": 3.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/50/014-027-004_0000304550.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION014/014-027-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION014/PI-014-027-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "014-027-025a",
+            "014-027-003b",
+            "014-027-005"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "E3",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 577.3,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "014-027-004"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. J.M. RAMOS MEJÍA",
+    "barrio": "Constitucion",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1151",
+    "codigo_postal_argentino": "C1151AAJ",
+    "comisaria": "18",
+    "comisaria_vecinal": "1C",
+    "comuna": "Comuna 1",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   III",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "14"
+  },
+  "debug": {
+    "address": "CONSTITUCION 1458",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.386533486429215,
+        -34.62503314085231
+      ],
+      "direccion": "",
+      "fondo": "36.18",
+      "frente": "15.95",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "027",
+      "parcela": "004",
+      "pdamatriz": "213017",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "2",
+      "propiedad_horizontal": "Si",
+      "seccion": "014",
+      "smp": "014-027-004",
+      "smp_anterior": "014-027-003B",
+      "smp_siguiente": "014-027-005",
+      "srid": 4326,
+      "superficie_cubierta": "1233.00",
+      "superficie_total": "577.00",
+      "unidades_funcionales": "12",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1458,
+      "cod_calle": 3159
+    },
+    "usig_direccion_elegida": {
+      "altura": 1458,
+      "cod_calle": 3159,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.386552",
+        "y": "-34.624845"
+      },
+      "direccion": "CONSTITUCION 1458, CABA",
+      "nombre_calle": "CONSTITUCION",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1458,
+          "cod_calle": 3159,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.386552",
+            "y": "-34.624845"
+          },
+          "direccion": "CONSTITUCION 1458, CABA",
+          "nombre_calle": "CONSTITUCION",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1458,
+          "cod_calle": 49820,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4088647428572,
+            "y": -34.8296312142857
+          },
+          "direccion": "Constitución 1458, Almirante Brown",
+          "nombre_calle": "Constitución",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Burzaco",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1458,
+          "cod_calle": 15166,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.568430975,
+            "y": -34.6602398375
+          },
+          "direccion": "Constitución 1458, La Matanza",
+          "nombre_calle": "Constitución",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ramos Mejía",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1458,
+          "cod_calle": 211251,
+          "cod_calle_cruce": null,
+          "cod_partido": "marcos_paz",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.8359502428571,
+            "y": -34.7712838285714
+          },
+          "direccion": "Constitución 1458, Marcos Paz",
+          "nombre_calle": "Constitución",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Marcos Paz",
+          "nombre_partido": "Marcos Paz",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1458,
+          "cod_calle": 512703,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_fernando",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5537680714286,
+            "y": -34.4433166
+          },
+          "direccion": "Constitución 1458, San Fernando",
+          "nombre_calle": "Constitución",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Fernando",
+          "nombre_partido": "San Fernando",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  107030.65196656922,
+                  100484.67502734595
+                ],
+                [
+                  107031.7059665668,
+                  100484.75802734544
+                ],
+                [
+                  107033.69896656112,
+                  100484.91402734301
+                ],
+                [
+                  107035.39296655662,
+                  100485.0460273416
+                ],
+                [
+                  107036.93696655214,
+                  100485.16702734033
+                ],
+                [
+                  107037.38596655091,
+                  100485.20202733911
+                ],
+                [
+                  107039.07996654641,
+                  100485.33502733783
+                ],
+                [
+                  107041.07296654073,
+                  100485.4910273364
+                ],
+                [
+                  107042.76696653619,
+                  100485.62402733412
+                ],
+                [
+                  107044.7599665305,
+                  100485.78002733263
+                ],
+                [
+                  107046.453966526,
+                  100485.91302733045
+                ],
+                [
+                  107047.89796650872,
+                  100468.19902737933
+                ],
+                [
+                  107048.59596650023,
+                  100459.64802740284
+                ],
+                [
+                  107049.08696649467,
+                  100453.62002741947
+                ],
+                [
+                  107049.41604315057,
+                  100449.5841338757
+                ],
+                [
+                  107045.05709540876,
+                  100449.40511776623
+                ],
+                [
+                  107037.7470368353,
+                  100449.10610654211
+                ],
+                [
+                  107033.33004466005,
+                  100448.92513730761
+                ],
+                [
+                  107032.66696654395,
+                  100457.78102742045
+                ],
+                [
+                  107032.35196654758,
+                  100461.9870274082
+                ],
+                [
+                  107031.98096655206,
+                  100466.93602739461
+                ],
+                [
+                  107031.66296655618,
+                  100471.17202738347
+                ],
+                [
+                  107031.21896656175,
+                  100477.11202736659
+                ],
+                [
+                  107030.65196656922,
+                  100484.67502734595
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "014-027-004",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CONSTITUCION 1458",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.386533486429215,
+      -34.62503314085231
+    ],
+    "direccion": "",
+    "fondo": "36.18",
+    "frente": "15.95",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "027",
+    "parcela": "004",
+    "pdamatriz": "213017",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "2",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "014",
+    "smp": "014-027-004",
+    "smp_anterior": "014-027-003B",
+    "smp_siguiente": "014-027-005",
+    "srid": 4326,
+    "superficie_cubierta": "1233.00",
+    "superficie_total": "577.00",
+    "unidades_funcionales": "12",
+    "vuc": "0.00"
+  },
+  "smp": "014-027-004",
+  "_http_status": 200
+}

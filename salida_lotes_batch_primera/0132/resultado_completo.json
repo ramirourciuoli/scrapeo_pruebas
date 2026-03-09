@@ -1,0 +1,349 @@
+{
+  "area_m2": 372.0339937210083,
+  "centroide_lonlat": {
+    "lat": -34.565061,
+    "lon": -58.455941
+  },
+  "centroide_xy": {
+    "x": 100675.33259567256,
+    "y": 107122.97370682537
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.15,
+          "fot_perim_libre": 3.15,
+          "fot_semi_libre": 3.15
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/2/18/039-088-015_0000343218.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION039/039-088-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION039/PI-039-088-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": true,
+          "smp_linderas": [
+            "039-088-016",
+            "039-088-014",
+            "039-088-003h"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2a I",
+          "incidencia_uva": 430.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 189.443555337934,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 372.0,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "039-088-015"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Belgrano",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1428",
+    "codigo_postal_argentino": "C1428CPD",
+    "comisaria": "33",
+    "comisaria_vecinal": "13C",
+    "comuna": "Comuna 13",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   X",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "39"
+  },
+  "debug": {
+    "address": "CIUDAD DE LA PAZ 1866",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.455941226069555,
+        -34.56506066345372
+      ],
+      "direccion": "",
+      "fondo": "43.76",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "088",
+      "parcela": "015",
+      "pdamatriz": "325201",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "039",
+      "smp": "039-088-015",
+      "smp_anterior": "039-088-014",
+      "smp_siguiente": "039-088-016",
+      "srid": 4326,
+      "superficie_cubierta": "1173.00",
+      "superficie_total": "379.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1866,
+      "cod_calle": 3128
+    },
+    "usig_direccion_elegida": {
+      "altura": 1866,
+      "cod_calle": 3128,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.455726",
+        "y": "-34.564934"
+      },
+      "direccion": "CIUDAD DE LA PAZ 1866, CABA",
+      "nombre_calle": "CIUDAD DE LA PAZ",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1866,
+          "cod_calle": 3128,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.455726",
+            "y": "-34.564934"
+          },
+          "direccion": "CIUDAD DE LA PAZ 1866, CABA",
+          "nombre_calle": "CIUDAD DE LA PAZ",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  100673.39328939686,
+                  107126.88031350434
+                ],
+                [
+                  100675.04768939348,
+                  107128.09931349926
+                ],
+                [
+                  100675.81678939189,
+                  107128.6660134974
+                ],
+                [
+                  100679.8156893829,
+                  107131.61271348633
+                ],
+                [
+                  100683.80498937347,
+                  107134.55221347447
+                ],
+                [
+                  100686.98968936643,
+                  107136.89881346532
+                ],
+                [
+                  100688.57778936313,
+                  107138.06911346118
+                ],
+                [
+                  100690.20898935918,
+                  107139.27101345634
+                ],
+                [
+                  100695.25698934014,
+                  107132.22301347283
+                ],
+                [
+                  100693.76558934285,
+                  107131.13221347664
+                ],
+                [
+                  100692.11618934703,
+                  107129.9258134817
+                ],
+                [
+                  100687.82728935668,
+                  107126.78891349348
+                ],
+                [
+                  100684.68038936371,
+                  107124.48721350255
+                ],
+                [
+                  100680.89708937198,
+                  107121.72011351236
+                ],
+                [
+                  100677.86308937885,
+                  107119.50101352151
+                ],
+                [
+                  100676.82208938194,
+                  107118.7395135244
+                ],
+                [
+                  100673.33998938915,
+                  107116.19301353401
+                ],
+                [
+                  100668.26498940043,
+                  107112.48101354795
+                ],
+                [
+                  100660.32298941854,
+                  107106.67201357082
+                ],
+                [
+                  100655.33498943779,
+                  107113.57401355496
+                ],
+                [
+                  100672.79058939852,
+                  107126.43621350607
+                ],
+                [
+                  100673.39328939686,
+                  107126.88031350434
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "039-088-015",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CIUDAD DE LA PAZ 1866",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.455941226069555,
+      -34.56506066345372
+    ],
+    "direccion": "",
+    "fondo": "43.76",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "088",
+    "parcela": "015",
+    "pdamatriz": "325201",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "039",
+    "smp": "039-088-015",
+    "smp_anterior": "039-088-014",
+    "smp_siguiente": "039-088-016",
+    "srid": 4326,
+    "superficie_cubierta": "1173.00",
+    "superficie_total": "379.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "039-088-015",
+  "_http_status": 200
+}

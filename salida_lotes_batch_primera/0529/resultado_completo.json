@@ -1,0 +1,355 @@
+{
+  "area_m2": 172.28112697601318,
+  "centroide_lonlat": {
+    "lat": -34.615583,
+    "lon": -58.447654
+  },
+  "centroide_xy": {
+    "x": 101434.96912177796,
+    "y": 101518.17192220091
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/3/27/057-110-009_0000133327.pdf",
+          "perimetro_manzana": "",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION057/PI-057-110-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "057-110-010",
+            "057-110-008",
+            "057-110-007",
+            "057-110-012"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 180.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 172.267350000039,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 172.3,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "057-110-009"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. T. ÁLVAREZ",
+    "barrio": "Caballito",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1405",
+    "codigo_postal_argentino": "C1405ALA",
+    "comisaria": "13",
+    "comisaria_vecinal": "6A",
+    "comuna": "Comuna 6",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "57"
+  },
+  "debug": {
+    "address": "PUJOL 555",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.447654363369516,
+        -34.615582904620815
+      ],
+      "direccion": "",
+      "fondo": "20.32",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "110",
+      "parcela": "009",
+      "pdamatriz": "130128",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "057",
+      "smp": "057-110-009",
+      "smp_anterior": "057-110-008",
+      "smp_siguiente": "057-110-010",
+      "srid": 4326,
+      "superficie_cubierta": "169.00",
+      "superficie_total": "176.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 555,
+      "cod_calle": 17135
+    },
+    "usig_direccion_elegida": {
+      "altura": 555,
+      "cod_calle": 17135,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.447793",
+        "y": "-34.615634"
+      },
+      "direccion": "PUJOL 555, CABA",
+      "nombre_calle": "PUJOL",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 555,
+          "cod_calle": 17135,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.447793",
+            "y": "-34.615634"
+          },
+          "direccion": "PUJOL 555, CABA",
+          "nombre_calle": "PUJOL",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 555,
+          "cod_calle": 158125,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6058184632653,
+            "y": -34.6800713959184
+          },
+          "direccion": "Pujol 555, La Matanza",
+          "nombre_calle": "Pujol",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Luzuriaga",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  101431.62298305143,
+                  101521.24002865294
+                ],
+                [
+                  101432.37298304909,
+                  101521.54102865138
+                ],
+                [
+                  101434.1469830446,
+                  101522.25302864789
+                ],
+                [
+                  101436.32998304024,
+                  101523.12802864434
+                ],
+                [
+                  101437.3729830364,
+                  101523.54702864308
+                ],
+                [
+                  101439.2299830324,
+                  101524.29202863944
+                ],
+                [
+                  101441.2079830269,
+                  101525.08502863577
+                ],
+                [
+                  101443.24698302323,
+                  101525.90302863138
+                ],
+                [
+                  101443.97998301966,
+                  101524.0600286363
+                ],
+                [
+                  101444.55398301582,
+                  101522.61802864034
+                ],
+                [
+                  101444.9189830137,
+                  101521.7000286422
+                ],
+                [
+                  101446.22998300995,
+                  101518.40402865096
+                ],
+                [
+                  101442.44598301846,
+                  101516.82602865735
+                ],
+                [
+                  101437.12198303097,
+                  101514.60602866748
+                ],
+                [
+                  101434.7049830367,
+                  101513.59802867338
+                ],
+                [
+                  101431.40798304515,
+                  101512.2240286794
+                ],
+                [
+                  101427.0489830559,
+                  101510.40602868816
+                ],
+                [
+                  101423.59398307081,
+                  101518.01902866876
+                ],
+                [
+                  101431.62298305143,
+                  101521.24002865294
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "057-110-009",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "PUJOL 555",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.447654363369516,
+      -34.615582904620815
+    ],
+    "direccion": "",
+    "fondo": "20.32",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "110",
+    "parcela": "009",
+    "pdamatriz": "130128",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "057",
+    "smp": "057-110-009",
+    "smp_anterior": "057-110-008",
+    "smp_siguiente": "057-110-010",
+    "srid": 4326,
+    "superficie_cubierta": "169.00",
+    "superficie_total": "176.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "057-110-009",
+  "_http_status": 200
+}

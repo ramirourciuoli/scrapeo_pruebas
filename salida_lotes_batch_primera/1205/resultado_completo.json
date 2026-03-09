@@ -1,0 +1,363 @@
+{
+  "area_m2": 388.1450824737549,
+  "centroide_lonlat": {
+    "lat": -34.613899,
+    "lon": -58.448229
+  },
+  "centroide_xy": {
+    "x": 101382.31772135964,
+    "y": 101705.02152888507
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/4/02/057-112-022_0000133402.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION057/057-112-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION057/PI-057-112-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "057-112-016",
+            "057-112-021",
+            "057-112-014",
+            "057-112-023",
+            "057-112-015"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 310.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 314.162614078803,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 388.1,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "057-112-022"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. T. ÁLVAREZ",
+    "barrio": "Caballito",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1405",
+    "codigo_postal_argentino": "C1405CWM",
+    "comisaria": "13",
+    "comisaria_vecinal": "6A",
+    "comuna": "Comuna 6",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "57"
+  },
+  "debug": {
+    "address": "FELIPE VALLESE 979",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.44822872944405,
+        -34.613898674699506
+      ],
+      "direccion": "",
+      "fondo": "45.27",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "112",
+      "parcela": "022",
+      "pdamatriz": "146639",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "057",
+      "smp": "057-112-022",
+      "smp_anterior": "057-112-021",
+      "smp_siguiente": "057-112-023",
+      "srid": 4326,
+      "superficie_cubierta": "457.00",
+      "superficie_total": "392.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 979,
+      "cod_calle": 23081
+    },
+    "usig_direccion_elegida": {
+      "altura": 979,
+      "cod_calle": 23081,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.448105",
+        "y": "-34.614105"
+      },
+      "direccion": "VALLESE, FELIPE 979, CABA",
+      "nombre_calle": "VALLESE, FELIPE",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 979,
+          "cod_calle": 23081,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.448105",
+            "y": "-34.614105"
+          },
+          "direccion": "VALLESE, FELIPE 979, CABA",
+          "nombre_calle": "VALLESE, FELIPE",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  101368.32011277555,
+                  101723.18014288112
+                ],
+                [
+                  101376.15611129114,
+                  101726.98513553935
+                ],
+                [
+                  101376.9569833586,
+                  101725.38602812187
+                ],
+                [
+                  101384.75098332475,
+                  101709.82002815977
+                ],
+                [
+                  101387.42198331398,
+                  101704.48602817318
+                ],
+                [
+                  101387.64698331195,
+                  101704.035028174
+                ],
+                [
+                  101393.12398328846,
+                  101693.09702820025
+                ],
+                [
+                  101396.23398327579,
+                  101686.88602821529
+                ],
+                [
+                  101388.51598329404,
+                  101683.00202823264
+                ],
+                [
+                  101385.4049833081,
+                  101689.21202821733
+                ],
+                [
+                  101384.5629833111,
+                  101690.89302821262
+                ],
+                [
+                  101384.3389833121,
+                  101691.34002821185
+                ],
+                [
+                  101383.70998331485,
+                  101692.59702820863
+                ],
+                [
+                  101382.48998332034,
+                  101695.03202820229
+                ],
+                [
+                  101380.83798332803,
+                  101698.32902819413
+                ],
+                [
+                  101380.52998332852,
+                  101698.94502819492
+                ],
+                [
+                  101378.3839833374,
+                  101703.22802818404
+                ],
+                [
+                  101376.14098334701,
+                  101707.70602817307
+                ],
+                [
+                  101373.97298335744,
+                  101712.03902816144
+                ],
+                [
+                  101372.18298336481,
+                  101715.61602815444
+                ],
+                [
+                  101370.8399833696,
+                  101718.30102814679
+                ],
+                [
+                  101370.28298337242,
+                  101719.41502814373
+                ],
+                [
+                  101369.80798337517,
+                  101720.3650281422
+                ],
+                [
+                  101368.85198337838,
+                  101722.27502813903
+                ],
+                [
+                  101368.32011277555,
+                  101723.18014288112
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "057-112-022",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "FELIPE VALLESE 979",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.44822872944405,
+      -34.613898674699506
+    ],
+    "direccion": "",
+    "fondo": "45.27",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "112",
+    "parcela": "022",
+    "pdamatriz": "146639",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "057",
+    "smp": "057-112-022",
+    "smp_anterior": "057-112-021",
+    "smp_siguiente": "057-112-023",
+    "srid": 4326,
+    "superficie_cubierta": "457.00",
+    "superficie_total": "392.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "057-112-022",
+  "_http_status": 200
+}

@@ -1,0 +1,406 @@
+{
+  "area_m2": 157.96412467956543,
+  "centroide_lonlat": {
+    "lat": -34.632555,
+    "lon": -58.424343
+  },
+  "centroide_xy": {
+    "x": 103572.30970093216,
+    "y": 99634.82278389156
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/9/10/038-139-042_0000045910.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION038/038-139-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION038/PI-038-139-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "038-139-041",
+            "038-139-001b",
+            "038-139-001a",
+            "038-139-002"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b III",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 151.707057076379,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 158.0,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "038-139-042"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.M. PENNA",
+    "barrio": "Boedo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1255",
+    "codigo_postal_argentino": "C1255ACK",
+    "comisaria": "34",
+    "comisaria_vecinal": "5B",
+    "comuna": "Comuna 5",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "38"
+  },
+  "debug": {
+    "address": "MUÑIZ 1617",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.42434275690915,
+        -34.632554550073664
+      ],
+      "direccion": "",
+      "fondo": "18.25",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "139",
+      "parcela": "042",
+      "pdamatriz": "39439",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "038",
+      "smp": "038-139-042",
+      "smp_anterior": "038-139-041",
+      "smp_siguiente": "038-139-001A",
+      "srid": 4326,
+      "superficie_cubierta": "179.00",
+      "superficie_total": "158.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1617,
+      "cod_calle": 13142
+    },
+    "usig_direccion_elegida": {
+      "altura": 1617,
+      "cod_calle": 13142,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.424211",
+        "y": "-34.632534"
+      },
+      "direccion": "MUÑIZ 1617, CABA",
+      "nombre_calle": "MUÑIZ",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1617,
+          "cod_calle": 13142,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.424211",
+            "y": "-34.632534"
+          },
+          "direccion": "MUÑIZ 1617, CABA",
+          "nombre_calle": "MUÑIZ",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1617,
+          "cod_calle": 47763,
+          "cod_calle_cruce": null,
+          "cod_partido": "ituzaingo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6725574877551,
+            "y": -34.6326533367347
+          },
+          "direccion": "Eduardo Muñiz 1617, Ituzaingó",
+          "nombre_calle": "Eduardo Muñiz",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ituzaingó",
+          "nombre_partido": "Ituzaingó",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1617,
+          "cod_calle": 85041,
+          "cod_calle_cruce": null,
+          "cod_partido": "lujan",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -59.1020741928571,
+            "y": -34.5752234204082
+          },
+          "direccion": "Doctor Muñíz 1617, Luján",
+          "nombre_calle": "Doctor Muñíz",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Luján",
+          "nombre_partido": "Luján",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1617,
+          "cod_calle": 208239,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7115880156566,
+            "y": -34.7303250141414
+          },
+          "direccion": "Muñiz 1617, Merlo",
+          "nombre_calle": "Muñiz",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Pontevedra",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1617,
+          "cod_calle": 290717,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_miguel",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7315999785714,
+            "y": -34.5596308142857
+          },
+          "direccion": "Doctor F. J. Muñiz 1617, San Miguel",
+          "nombre_calle": "Doctor F. J. Muñiz",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Santa María",
+          "nombre_partido": "San Miguel",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  103562.74197565604,
+                  99637.32003233387
+                ],
+                [
+                  103567.17797564573,
+                  99638.1980323261
+                ],
+                [
+                  103571.24397563448,
+                  99639.0030323214
+                ],
+                [
+                  103572.86397562997,
+                  99639.32403231962
+                ],
+                [
+                  103575.49897562258,
+                  99639.84503231497
+                ],
+                [
+                  103576.78897561984,
+                  99640.1010323147
+                ],
+                [
+                  103580.53197560998,
+                  99640.84203231041
+                ],
+                [
+                  103582.1469755988,
+                  99632.39403233328
+                ],
+                [
+                  103579.10997560699,
+                  99631.80303233775
+                ],
+                [
+                  103575.00697561848,
+                  99631.00603234096
+                ],
+                [
+                  103572.10397562537,
+                  99630.44103234357
+                ],
+                [
+                  103570.56597562971,
+                  99630.14203234782
+                ],
+                [
+                  103569.39697563217,
+                  99629.91503234941
+                ],
+                [
+                  103569.14997563348,
+                  99629.86703234882
+                ],
+                [
+                  103563.7599756474,
+                  99628.81903235687
+                ],
+                [
+                  103563.1639756535,
+                  99633.79303234193
+                ],
+                [
+                  103563.0679756545,
+                  99634.59703233998
+                ],
+                [
+                  103562.75597565658,
+                  99637.19903233307
+                ],
+                [
+                  103562.74197565604,
+                  99637.32003233387
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "038-139-042",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MUÑIZ 1617",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.42434275690915,
+      -34.632554550073664
+    ],
+    "direccion": "",
+    "fondo": "18.25",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "139",
+    "parcela": "042",
+    "pdamatriz": "39439",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "038",
+    "smp": "038-139-042",
+    "smp_anterior": "038-139-041",
+    "smp_siguiente": "038-139-001A",
+    "srid": 4326,
+    "superficie_cubierta": "179.00",
+    "superficie_total": "158.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "038-139-042",
+  "_http_status": 200
+}

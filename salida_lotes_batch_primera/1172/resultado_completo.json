@@ -1,0 +1,349 @@
+{
+  "area_m2": 180.00826263427734,
+  "centroide_lonlat": {
+    "lat": -34.613985,
+    "lon": -58.520207
+  },
+  "centroide_xy": {
+    "x": 94780.5537034556,
+    "y": 101694.02342041479
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/8/15/087-026A-022_0000197815.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION087/087-026A-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION087/PI-087-026A-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "087-026A-005",
+            "087-026A-023",
+            "087-026A-021"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "AE 26",
+          "incidencia_uva": 220.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 180.070650000061,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 180.0,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "087-026A-022"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Villa Devoto",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1417",
+    "codigo_postal_argentino": "C1417CFA",
+    "comisaria": "45",
+    "comisaria_vecinal": "11B",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "87"
+  },
+  "debug": {
+    "address": "HAWAI 3043",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.5202071412384,
+        -34.61398547326191
+      ],
+      "direccion": "",
+      "fondo": "21.48",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "026A",
+      "parcela": "022",
+      "pdamatriz": "286969",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "087",
+      "smp": "087-026A-022",
+      "smp_anterior": "087-026A-021",
+      "smp_siguiente": "087-026A-023",
+      "srid": 4326,
+      "superficie_cubierta": "142.00",
+      "superficie_total": "186.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3043,
+      "cod_calle": 8005
+    },
+    "usig_direccion_elegida": {
+      "altura": 3043,
+      "cod_calle": 8005,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.520298",
+        "y": "-34.614067"
+      },
+      "direccion": "HAWAI 3043, CABA",
+      "nombre_calle": "HAWAI",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3043,
+          "cod_calle": 8005,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.520298",
+            "y": "-34.614067"
+          },
+          "direccion": "HAWAI 3043, CABA",
+          "nombre_calle": "HAWAI",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  94787.22900181603,
+                  101695.20903316684
+                ],
+                [
+                  94785.53200181872,
+                  101693.2950331736
+                ],
+                [
+                  94785.20800181934,
+                  101692.93003317463
+                ],
+                [
+                  94782.70600182484,
+                  101690.10903318488
+                ],
+                [
+                  94780.03700182935,
+                  101687.09903319558
+                ],
+                [
+                  94779.24500183148,
+                  101686.20603319848
+                ],
+                [
+                  94776.5910018366,
+                  101683.21303320915
+                ],
+                [
+                  94774.4590018438,
+                  101685.1790332043
+                ],
+                [
+                  94770.30800185874,
+                  101689.00603319713
+                ],
+                [
+                  94773.73000185222,
+                  101692.77603318362
+                ],
+                [
+                  94774.72700184978,
+                  101693.87503318011
+                ],
+                [
+                  94776.79600184583,
+                  101696.15403317226
+                ],
+                [
+                  94777.49700184478,
+                  101696.92703316966
+                ],
+                [
+                  94778.561001842,
+                  101698.09903316581
+                ],
+                [
+                  94781.09300183758,
+                  101700.88803315596
+                ],
+                [
+                  94783.25100183311,
+                  101703.2660331472
+                ],
+                [
+                  94784.64000182989,
+                  101704.7960331421
+                ],
+                [
+                  94789.8800018119,
+                  101700.07703315088
+                ],
+                [
+                  94790.80600180864,
+                  101699.24303315277
+                ],
+                [
+                  94788.23400181395,
+                  101696.34203316327
+                ],
+                [
+                  94788.16500181396,
+                  101696.26403316378
+                ],
+                [
+                  94787.22900181603,
+                  101695.20903316684
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "087-026A-022",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "HAWAI 3043",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.5202071412384,
+      -34.61398547326191
+    ],
+    "direccion": "",
+    "fondo": "21.48",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "026A",
+    "parcela": "022",
+    "pdamatriz": "286969",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "087",
+    "smp": "087-026A-022",
+    "smp_anterior": "087-026A-021",
+    "smp_siguiente": "087-026A-023",
+    "srid": 4326,
+    "superficie_cubierta": "142.00",
+    "superficie_total": "186.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "087-026A-022",
+  "_http_status": 200
+}

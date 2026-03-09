@@ -1,0 +1,403 @@
+{
+  "area_m2": 410.40052223205566,
+  "centroide_lonlat": {
+    "lat": -34.568668,
+    "lon": -58.450028
+  },
+  "centroide_xy": {
+    "x": 101217.95711896886,
+    "y": 106722.72292345262
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 38.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 4.14,
+          "fot_perim_libre": 4.14,
+          "fot_semi_libre": 4.14
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/3/98/037-154-026_0000459398.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION037/037-154-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION037/PI-037-154-V3.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "037-154-014",
+            "037-154-025",
+            "037-154-015a",
+            "037-154-027"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2a I",
+          "incidencia_uva": 520.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 410.455550000616,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 410.4,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "037-154-026"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Colegiales",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1426",
+    "codigo_postal_argentino": "C1426DQS",
+    "comisaria": "33",
+    "comisaria_vecinal": "13C",
+    "comuna": "Comuna 13",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   IX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "37"
+  },
+  "debug": {
+    "address": "ZABALA 2473",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.450027928903516,
+        -34.56866812963933
+      ],
+      "direccion": "",
+      "fondo": "40.94",
+      "frente": "10.04",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "154",
+      "parcela": "026",
+      "pdamatriz": "410260",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "9",
+      "propiedad_horizontal": "Si",
+      "seccion": "037",
+      "smp": "037-154-026",
+      "smp_anterior": "037-154-025",
+      "smp_siguiente": "037-154-027",
+      "srid": 4326,
+      "superficie_cubierta": "2733.00",
+      "superficie_total": "411.00",
+      "unidades_funcionales": "46",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2473,
+      "cod_calle": 27001
+    },
+    "usig_direccion_elegida": {
+      "altura": 2473,
+      "cod_calle": 27001,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.449808",
+        "y": "-34.568782"
+      },
+      "direccion": "ZABALA 2473, CABA",
+      "nombre_calle": "ZABALA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2473,
+          "cod_calle": 27001,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.449808",
+            "y": "-34.568782"
+          },
+          "direccion": "ZABALA 2473, CABA",
+          "nombre_calle": "ZABALA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2473,
+          "cod_calle": 46998,
+          "cod_calle_cruce": null,
+          "cod_partido": "moron",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6411042183674,
+            "y": -34.6380114612245
+          },
+          "direccion": "Zabala 2473, Morón",
+          "nombre_calle": "Zabala",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Castelar",
+          "nombre_partido": "Morón",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  101223.76098754413,
+                  106713.0620142511
+                ],
+                [
+                  101217.9179875611,
+                  106716.77401424447
+                ],
+                [
+                  101206.63298759983,
+                  106723.94201423335
+                ],
+                [
+                  101203.60698760921,
+                  106725.86501423066
+                ],
+                [
+                  101198.0989876269,
+                  106729.36401422392
+                ],
+                [
+                  101198.16398762628,
+                  106729.46501422339
+                ],
+                [
+                  101200.9129876216,
+                  106733.72101420941
+                ],
+                [
+                  101201.63298762114,
+                  106734.83601420597
+                ],
+                [
+                  101202.28898761953,
+                  106735.85201420248
+                ],
+                [
+                  101203.61898761745,
+                  106737.91001419586
+                ],
+                [
+                  101206.43998760862,
+                  106736.10101419847
+                ],
+                [
+                  101212.11898758948,
+                  106732.45901420442
+                ],
+                [
+                  101212.41598758876,
+                  106732.26901420526
+                ],
+                [
+                  101213.19198758581,
+                  106731.77101420547
+                ],
+                [
+                  101219.02798756678,
+                  106728.02901421199
+                ],
+                [
+                  101222.2189875559,
+                  106725.98301421519
+                ],
+                [
+                  101228.48898753576,
+                  106721.962014222
+                ],
+                [
+                  101229.19998753356,
+                  106721.50601422251
+                ],
+                [
+                  101232.21198752377,
+                  106719.57401422565
+                ],
+                [
+                  101234.26598751658,
+                  106718.257014228
+                ],
+                [
+                  101236.21698751049,
+                  106717.00601422988
+                ],
+                [
+                  101236.68598750852,
+                  106716.67801423161
+                ],
+                [
+                  101237.18498750668,
+                  106716.32901423093
+                ],
+                [
+                  101237.84298750524,
+                  106715.86901423265
+                ],
+                [
+                  101237.4879875063,
+                  106715.32201423327
+                ],
+                [
+                  101233.96298751174,
+                  106709.89901425262
+                ],
+                [
+                  101232.8839875136,
+                  106708.23901425698
+                ],
+                [
+                  101232.43698751465,
+                  106707.5510142601
+                ],
+                [
+                  101230.8249875193,
+                  106708.57501425769
+                ],
+                [
+                  101228.41698752923,
+                  106710.10401425441
+                ],
+                [
+                  101223.76098754413,
+                  106713.0620142511
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "037-154-026",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ZABALA 2473",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.450027928903516,
+      -34.56866812963933
+    ],
+    "direccion": "",
+    "fondo": "40.94",
+    "frente": "10.04",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "154",
+    "parcela": "026",
+    "pdamatriz": "410260",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "9",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "037",
+    "smp": "037-154-026",
+    "smp_anterior": "037-154-025",
+    "smp_siguiente": "037-154-027",
+    "srid": 4326,
+    "superficie_cubierta": "2733.00",
+    "superficie_total": "411.00",
+    "unidades_funcionales": "46",
+    "vuc": "0.00"
+  },
+  "smp": "037-154-026",
+  "_http_status": 200
+}

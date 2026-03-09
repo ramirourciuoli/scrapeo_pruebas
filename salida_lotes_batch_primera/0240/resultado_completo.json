@@ -1,0 +1,548 @@
+{
+  "area_m2": 353.9567403793335,
+  "centroide_lonlat": {
+    "lat": -34.60011,
+    "lon": -58.387026
+  },
+  "centroide_xy": {
+    "x": 106996.92280989424,
+    "y": 103232.19465059672
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [
+          {
+            "estado_parcelario_constituido": "Si",
+            "fecha_de_constitucion": "28-8-2023",
+            "tipo_de_construccion": "Baldio",
+            "vencimiento_de_construccion": "28-8-2025"
+          }
+        ],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 38.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 5.0,
+          "fot_perim_libre": 7.0,
+          "fot_semi_libre": 5.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/fp/SECCION005/FP-005-034-026c-VD.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION005/005-034-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION005/PI-005-034-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "SI",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": true,
+          "smp_linderas": [
+            "005-034-024h",
+            "005-034-027"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "C2",
+          "incidencia_uva": 180.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 353.968100000022,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 354.0,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "005-034-026C"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. J.M. RAMOS MEJÍA",
+    "barrio": "San Nicolas",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1015",
+    "codigo_postal_argentino": "C1015ABP",
+    "comisaria": "3",
+    "comisaria_vecinal": "1B",
+    "comuna": "Comuna 1",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   I",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "05"
+  },
+  "debug": {
+    "address": "AV. URUGUAY 740",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.38702588509027,
+        -34.60010950056684
+      ],
+      "direccion": "",
+      "fondo": "29.17",
+      "frente": "11.93",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "034",
+      "parcela": "026C",
+      "pdamatriz": "222371",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "005",
+      "smp": "005-034-026C",
+      "smp_anterior": "005-034-024H",
+      "smp_siguiente": "005-034-027",
+      "srid": 4326,
+      "superficie_cubierta": "1029.00",
+      "superficie_total": "348.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 740,
+      "cod_calle": 22015
+    },
+    "usig_direccion_elegida": {
+      "altura": 740,
+      "cod_calle": 22015,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.386825",
+        "y": "-34.600099"
+      },
+      "direccion": "URUGUAY AV. 740, CABA",
+      "nombre_calle": "URUGUAY AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 740,
+          "cod_calle": 22015,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.386825",
+            "y": "-34.600099"
+          },
+          "direccion": "URUGUAY AV. 740, CABA",
+          "nombre_calle": "URUGUAY AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 740,
+          "cod_calle": 10755,
+          "cod_calle_cruce": null,
+          "cod_partido": "avellaneda",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3892500897959,
+            "y": -34.6686590040816
+          },
+          "direccion": "Uruguay 740, Avellaneda",
+          "nombre_calle": "Uruguay",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Piñeyro",
+          "nombre_partido": "Avellaneda",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 740,
+          "cod_calle": 56395,
+          "cod_calle_cruce": null,
+          "cod_partido": "avellaneda",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3353550122449,
+            "y": -34.6985458163265
+          },
+          "direccion": "Centenario Uruguayo 740, Avellaneda",
+          "nombre_calle": "Centenario Uruguayo",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Domínico",
+          "nombre_partido": "Avellaneda",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 740,
+          "cod_calle": 243867,
+          "cod_calle_cruce": null,
+          "cod_partido": "canuelas",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7515240428572,
+            "y": -35.0471092734694
+          },
+          "direccion": "República Oriental del Uruguay 740, Cañuelas",
+          "nombre_calle": "República Oriental del Uruguay",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Cañuelas",
+          "nombre_partido": "Cañuelas",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 740,
+          "cod_calle": 128644,
+          "cod_calle_cruce": null,
+          "cod_partido": "esteban_echeverria",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4655440125,
+            "y": -34.83647921875
+          },
+          "direccion": "Uruguay 740, Esteban Echeverría",
+          "nombre_calle": "Uruguay",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Monte Grande",
+          "nombre_partido": "Esteban Echeverría",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 740,
+          "cod_calle": 87329,
+          "cod_calle_cruce": null,
+          "cod_partido": "ezeiza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5191197387755,
+            "y": -34.8396977653061
+          },
+          "direccion": "Uruguay 740, Ezeiza",
+          "nombre_calle": "Uruguay",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ezeiza",
+          "nombre_partido": "Ezeiza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 740,
+          "cod_calle": 277525,
+          "cod_calle_cruce": null,
+          "cod_partido": "ezeiza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5208524551021,
+            "y": -34.8631686928571
+          },
+          "direccion": "Uruguayana 740, Ezeiza",
+          "nombre_calle": "Uruguayana",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ezeiza",
+          "nombre_partido": "Ezeiza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 740,
+          "cod_calle": 71196,
+          "cod_calle_cruce": null,
+          "cod_partido": "jose_c_paz",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7877310346939,
+            "y": -34.5273127836735
+          },
+          "direccion": "Corbeta Uruguay 740, José C. Paz",
+          "nombre_calle": "Corbeta Uruguay",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "José C. Paz",
+          "nombre_partido": "José C. Paz",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 740,
+          "cod_calle": 33000,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3553148877551,
+            "y": -34.7159001081633
+          },
+          "direccion": "Centenario Uruguayo 740, Lanús",
+          "nombre_calle": "Centenario Uruguayo",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Monte Chingolo",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 740,
+          "cod_calle": 33000,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3553148877551,
+            "y": -34.7159001081633
+          },
+          "direccion": "Centenario Uruguayo 740, Lanús",
+          "nombre_calle": "Centenario Uruguayo",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Remedios de Escalada",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  107011.57596869163,
+                  103231.78501965711
+                ],
+                [
+                  107011.64996868925,
+                  103230.30701965996
+                ],
+                [
+                  107011.82496868604,
+                  103226.81201967126
+                ],
+                [
+                  107004.55396870559,
+                  103226.48001967781
+                ],
+                [
+                  107001.01196871625,
+                  103226.31801967917
+                ],
+                [
+                  106996.54796872873,
+                  103226.11501968434
+                ],
+                [
+                  106993.427968738,
+                  103225.97201968689
+                ],
+                [
+                  106989.88796874776,
+                  103225.81101968931
+                ],
+                [
+                  106985.89096875739,
+                  103225.62801969168
+                ],
+                [
+                  106982.70596876755,
+                  103225.48301969573
+                ],
+                [
+                  106982.38196877195,
+                  103230.27901968238
+                ],
+                [
+                  106981.89196877823,
+                  103237.52501966475
+                ],
+                [
+                  106985.9939687663,
+                  103237.72101965899
+                ],
+                [
+                  106986.35696876631,
+                  103237.73901965845
+                ],
+                [
+                  106986.78096876541,
+                  103237.75901965782
+                ],
+                [
+                  106988.49196876094,
+                  103237.8410196561
+                ],
+                [
+                  106990.25796875582,
+                  103237.92501965436
+                ],
+                [
+                  106990.57696875418,
+                  103237.94001965565
+                ],
+                [
+                  106991.65696875092,
+                  103237.99201965198
+                ],
+                [
+                  106992.16196874894,
+                  103238.01601965338
+                ],
+                [
+                  106993.01096874768,
+                  103238.05701965393
+                ],
+                [
+                  106994.857968742,
+                  103238.14501964994
+                ],
+                [
+                  106997.41496873532,
+                  103238.26801965019
+                ],
+                [
+                  107001.31796872434,
+                  103238.45401964537
+                ],
+                [
+                  107002.66296872089,
+                  103238.5190196445
+                ],
+                [
+                  107004.32796871578,
+                  103238.59801964322
+                ],
+                [
+                  107006.92796870935,
+                  103238.72301963982
+                ],
+                [
+                  107009.0979687029,
+                  103238.82701963675
+                ],
+                [
+                  107010.4199686996,
+                  103238.89001963811
+                ],
+                [
+                  107011.21896869717,
+                  103238.92801963625
+                ],
+                [
+                  107011.39396869476,
+                  103235.43201964584
+                ],
+                [
+                  107011.57596869163,
+                  103231.78501965711
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "005-034-026C",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AV. URUGUAY 740",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.38702588509027,
+      -34.60010950056684
+    ],
+    "direccion": "",
+    "fondo": "29.17",
+    "frente": "11.93",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "034",
+    "parcela": "026C",
+    "pdamatriz": "222371",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "005",
+    "smp": "005-034-026C",
+    "smp_anterior": "005-034-024H",
+    "smp_siguiente": "005-034-027",
+    "srid": 4326,
+    "superficie_cubierta": "1029.00",
+    "superficie_total": "348.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "005-034-026C",
+  "_http_status": 200
+}

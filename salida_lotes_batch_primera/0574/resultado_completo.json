@@ -1,0 +1,363 @@
+{
+  "area_m2": 225.8753147125244,
+  "centroide_lonlat": {
+    "lat": -34.646727,
+    "lon": -58.516695
+  },
+  "centroide_xy": {
+    "x": 95104.5751619981,
+    "y": 98061.96291004233
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/92/072-108-032_0000030092.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION072/072-108-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION072/PI-072-108-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "072-108-033",
+            "072-108-026",
+            "072-108-027",
+            "072-108-031"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 90.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 225.817599999938,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 225.9,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "072-108-032"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Liniers",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1408",
+    "codigo_postal_argentino": "C1408GVO",
+    "comisaria": "54",
+    "comisaria_vecinal": "9B",
+    "comuna": "Comuna 9",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "72"
+  },
+  "debug": {
+    "address": "MARTINIANO LEGUIZAMON 787",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.51669534126898,
+        -34.646727103823714
+      ],
+      "direccion": "",
+      "fondo": "25.52",
+      "frente": "8.70",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "108",
+      "parcela": "032",
+      "pdamatriz": "15133",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "072",
+      "smp": "072-108-032",
+      "smp_anterior": "072-108-031",
+      "smp_siguiente": "072-108-033",
+      "srid": 4326,
+      "superficie_cubierta": "146.00",
+      "superficie_total": "222.00",
+      "unidades_funcionales": "2",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 787,
+      "cod_calle": 12094
+    },
+    "usig_direccion_elegida": {
+      "altura": 787,
+      "cod_calle": 12094,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.516562",
+        "y": "-34.646611"
+      },
+      "direccion": "LEGUIZAMON, MARTINIANO 787, CABA",
+      "nombre_calle": "LEGUIZAMON, MARTINIANO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 787,
+          "cod_calle": 12094,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.516562",
+            "y": "-34.646611"
+          },
+          "direccion": "LEGUIZAMON, MARTINIANO 787, CABA",
+          "nombre_calle": "LEGUIZAMON, MARTINIANO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 787,
+          "cod_calle": 118563,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.358640244898,
+            "y": -34.8297847346939
+          },
+          "direccion": "Martiniano Leguizamón 787, Almirante Brown",
+          "nombre_calle": "Martiniano Leguizamón",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Francisco de Asís",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  95109.58699817663,
+                  98060.90404311643
+                ],
+                [
+                  95109.1969981761,
+                  98060.51104311834
+                ],
+                [
+                  95107.28399818114,
+                  98058.57804312499
+                ],
+                [
+                  95104.67999818633,
+                  98055.94804313389
+                ],
+                [
+                  95102.26899819127,
+                  98053.47304314285
+                ],
+                [
+                  95102.06199819106,
+                  98053.25904314307
+                ],
+                [
+                  95098.5559981979,
+                  98049.66004315586
+                ],
+                [
+                  95092.25599822089,
+                  98055.53504314367
+                ],
+                [
+                  95093.92699821707,
+                  98057.24404313808
+                ],
+                [
+                  95096.0859982127,
+                  98059.45304312944
+                ],
+                [
+                  95097.59899821007,
+                  98061.00104312447
+                ],
+                [
+                  95101.11399820319,
+                  98064.59704311288
+                ],
+                [
+                  95103.76799819767,
+                  98067.3130431035
+                ],
+                [
+                  95108.43199818797,
+                  98072.08504308533
+                ],
+                [
+                  95110.55399818337,
+                  98074.25604307937
+                ],
+                [
+                  95116.89299816138,
+                  98068.28304309008
+                ],
+                [
+                  95115.74999816334,
+                  98067.12904309283
+                ],
+                [
+                  95112.8809981696,
+                  98064.23104310414
+                ],
+                [
+                  95111.3089981727,
+                  98062.64304311041
+                ],
+                [
+                  95110.64199817437,
+                  98061.97004311145
+                ],
+                [
+                  95109.58699817663,
+                  98060.90404311643
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "072-108-032",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MARTINIANO LEGUIZAMON 787",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.51669534126898,
+      -34.646727103823714
+    ],
+    "direccion": "",
+    "fondo": "25.52",
+    "frente": "8.70",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "108",
+    "parcela": "032",
+    "pdamatriz": "15133",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "072",
+    "smp": "072-108-032",
+    "smp_anterior": "072-108-031",
+    "smp_siguiente": "072-108-033",
+    "srid": 4326,
+    "superficie_cubierta": "146.00",
+    "superficie_total": "222.00",
+    "unidades_funcionales": "2",
+    "vuc": "0.00"
+  },
+  "smp": "072-108-032",
+  "_http_status": 200
+}

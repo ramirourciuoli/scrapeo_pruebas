@@ -1,0 +1,342 @@
+{
+  "area_m2": 201.05674648284912,
+  "centroide_lonlat": {
+    "lat": -34.549498,
+    "lon": -58.47258
+  },
+  "centroide_xy": {
+    "x": 99148.20764066887,
+    "y": 108849.37697717275
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/8/19/043-154-006_0000236819.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION043/043-154-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION043/PI-043-154-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "043-154-007b",
+            "043-154-010a",
+            "043-154-015",
+            "043-154-005b"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 430.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 155.146268910315,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 201.1,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "043-154-006"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Saavedra",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1429",
+    "codigo_postal_argentino": "C1429DEQ",
+    "comisaria": "35",
+    "comisaria_vecinal": "12A",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   X",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "43"
+  },
+  "debug": {
+    "address": "AV. GARCIA DEL RIO 2774",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.472579847310676,
+        -34.54949823836404
+      ],
+      "direccion": "",
+      "fondo": "22.25",
+      "frente": "8.99",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "154",
+      "parcela": "006",
+      "pdamatriz": "368605",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "3",
+      "propiedad_horizontal": "Si",
+      "seccion": "043",
+      "smp": "043-154-006",
+      "smp_anterior": "043-154-005C",
+      "smp_siguiente": "043-154-007B",
+      "srid": 4326,
+      "superficie_cubierta": "459.00",
+      "superficie_total": "200.00",
+      "unidades_funcionales": "6",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2774,
+      "cod_calle": 7028
+    },
+    "usig_direccion_elegida": {
+      "altura": 2774,
+      "cod_calle": 7028,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.472609",
+        "y": "-34.549384"
+      },
+      "direccion": "GARCIA DEL RIO AV. 2774, CABA",
+      "nombre_calle": "GARCIA DEL RIO AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2774,
+          "cod_calle": 7028,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.472609",
+            "y": "-34.549384"
+          },
+          "direccion": "GARCIA DEL RIO AV. 2774, CABA",
+          "nombre_calle": "GARCIA DEL RIO AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99156.59499494321,
+                  108844.13800983017
+                ],
+                [
+                  99158.16899493692,
+                  108841.6200098359
+                ],
+                [
+                  99150.93499495366,
+                  108837.15000985414
+                ],
+                [
+                  99148.93299496229,
+                  108840.35200984622
+                ],
+                [
+                  99144.91499497823,
+                  108846.78000983156
+                ],
+                [
+                  99144.02899498187,
+                  108848.19800982779
+                ],
+                [
+                  99143.17999498485,
+                  108849.55600982462
+                ],
+                [
+                  99142.64899498752,
+                  108850.4050098231
+                ],
+                [
+                  99139.33899500026,
+                  108855.70100981081
+                ],
+                [
+                  99139.1709950013,
+                  108855.9690098094
+                ],
+                [
+                  99139.0039950016,
+                  108856.23700980892
+                ],
+                [
+                  99137.65999500743,
+                  108858.38700980431
+                ],
+                [
+                  99139.11899500343,
+                  108858.73700980181
+                ],
+                [
+                  99141.0639949986,
+                  108859.20300979906
+                ],
+                [
+                  99146.38199498461,
+                  108860.47900979203
+                ],
+                [
+                  99149.82199497029,
+                  108854.97400980498
+                ],
+                [
+                  99150.05999496924,
+                  108854.59500980523
+                ],
+                [
+                  99152.75299495843,
+                  108850.28500981568
+                ],
+                [
+                  99156.1609949455,
+                  108844.83200982865
+                ],
+                [
+                  99156.59499494321,
+                  108844.13800983017
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "043-154-006",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AV. GARCIA DEL RIO 2774",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.472579847310676,
+      -34.54949823836404
+    ],
+    "direccion": "",
+    "fondo": "22.25",
+    "frente": "8.99",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "154",
+    "parcela": "006",
+    "pdamatriz": "368605",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "3",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "043",
+    "smp": "043-154-006",
+    "smp_anterior": "043-154-005C",
+    "smp_siguiente": "043-154-007B",
+    "srid": 4326,
+    "superficie_cubierta": "459.00",
+    "superficie_total": "200.00",
+    "unidades_funcionales": "6",
+    "vuc": "0.00"
+  },
+  "smp": "043-154-006",
+  "_http_status": 200
+}

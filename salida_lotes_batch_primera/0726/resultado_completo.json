@@ -1,0 +1,352 @@
+{
+  "area_m2": 160.04279327392578,
+  "centroide_lonlat": {
+    "lat": -34.620935,
+    "lon": -58.496455
+  },
+  "centroide_xy": {
+    "x": 96959.34498324509,
+    "y": 100924.05849133072
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 19"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/8/94/079-020A-013_0000329894.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION079/079-020A-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION079/PI-079-020A-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "079-020A-012",
+            "079-020A-014"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "AE 26",
+          "incidencia_uva": 70.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 160.0,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "079-020A-013"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Floresta",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1407",
+    "codigo_postal_argentino": "C1407MCE",
+    "comisaria": "43",
+    "comisaria_vecinal": "10A",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "79"
+  },
+  "debug": {
+    "address": "SANABRIA 1649",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.49645474251069,
+        -34.620934854928734
+      ],
+      "direccion": "",
+      "fondo": "10.46",
+      "frente": "15.40",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "020A",
+      "parcela": "013",
+      "pdamatriz": "263239",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "079",
+      "smp": "079-020A-013",
+      "smp_anterior": "079-020A-012",
+      "smp_siguiente": "079-020A-014",
+      "srid": 4326,
+      "superficie_cubierta": "157.00",
+      "superficie_total": "161.00",
+      "unidades_funcionales": "2",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1649,
+      "cod_calle": 20021
+    },
+    "usig_direccion_elegida": {
+      "altura": 1649,
+      "cod_calle": 20021,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.496566",
+        "y": "-34.621028"
+      },
+      "direccion": "SANABRIA 1649, CABA",
+      "nombre_calle": "SANABRIA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1649,
+          "cod_calle": 20021,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.496566",
+            "y": "-34.621028"
+          },
+          "direccion": "SANABRIA 1649, CABA",
+          "nombre_calle": "SANABRIA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96961.46399513468,
+                  100920.30503370278
+                ],
+                [
+                  96960.14799513781,
+                  100918.96903370891
+                ],
+                [
+                  96958.6459951406,
+                  100917.44403371465
+                ],
+                [
+                  96958.06199514196,
+                  100916.85103371658
+                ],
+                [
+                  96957.64099514247,
+                  100916.42403371615
+                ],
+                [
+                  96955.6309951474,
+                  100914.38403372339
+                ],
+                [
+                  96955.13999514721,
+                  100913.88503372535
+                ],
+                [
+                  96951.93999515996,
+                  100916.94003371891
+                ],
+                [
+                  96951.89699516309,
+                  100922.08103370582
+                ],
+                [
+                  96951.88999516392,
+                  100922.93003370214
+                ],
+                [
+                  96953.9919951593,
+                  100925.0330336965
+                ],
+                [
+                  96956.07199515513,
+                  100927.11603368894
+                ],
+                [
+                  96962.7329951415,
+                  100933.7810336652
+                ],
+                [
+                  96966.61899512784,
+                  100930.04703367173
+                ],
+                [
+                  96966.78299512726,
+                  100929.89003367201
+                ],
+                [
+                  96968.90099511934,
+                  100927.85403367749
+                ],
+                [
+                  96965.7819951254,
+                  100924.68703368815
+                ],
+                [
+                  96965.38499512644,
+                  100924.28503369048
+                ],
+                [
+                  96964.82499512874,
+                  100923.7160336914
+                ],
+                [
+                  96962.90399513248,
+                  100921.76703369763
+                ],
+                [
+                  96962.30599513339,
+                  100921.15903370018
+                ],
+                [
+                  96961.99699513457,
+                  100920.84603370159
+                ],
+                [
+                  96961.46399513468,
+                  100920.30503370278
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "079-020A-013",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "SANABRIA 1649",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.49645474251069,
+      -34.620934854928734
+    ],
+    "direccion": "",
+    "fondo": "10.46",
+    "frente": "15.40",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "020A",
+    "parcela": "013",
+    "pdamatriz": "263239",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "079",
+    "smp": "079-020A-013",
+    "smp_anterior": "079-020A-012",
+    "smp_siguiente": "079-020A-014",
+    "srid": 4326,
+    "superficie_cubierta": "157.00",
+    "superficie_total": "161.00",
+    "unidades_funcionales": "2",
+    "vuc": "0.00"
+  },
+  "smp": "079-020A-013",
+  "_http_status": 200
+}

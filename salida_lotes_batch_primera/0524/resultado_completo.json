@@ -1,0 +1,405 @@
+{
+  "area_m2": 299.06644344329834,
+  "centroide_lonlat": {
+    "lat": -34.646015,
+    "lon": -58.513521
+  },
+  "centroide_xy": {
+    "x": 95395.53924937325,
+    "y": 98141.13464800284
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/1/00/072-125A-031a_0000412100.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION072/072-125A-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION072/PI-072-125A-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "072-125A-026",
+            "072-125A-028",
+            "072-125A-027",
+            "072-125A-030",
+            "072-125A-031b"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 150.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 299.1,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "072-125A-031A"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Liniers",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1408",
+    "codigo_postal_argentino": "C1408FAS",
+    "comisaria": "54",
+    "comisaria_vecinal": "9B",
+    "comuna": "Comuna 9",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "72"
+  },
+  "debug": {
+    "address": "PATRON 6225",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.51352130894461,
+        -34.64601478454562
+      ],
+      "direccion": "",
+      "fondo": "34.64",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "125A",
+      "parcela": "031A",
+      "pdamatriz": "13925",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "072",
+      "smp": "072-125A-031A",
+      "smp_anterior": "072-125A-030",
+      "smp_siguiente": "072-125A-031B",
+      "srid": 4326,
+      "superficie_cubierta": "441.00",
+      "superficie_total": "300.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 6225,
+      "cod_calle": 17035
+    },
+    "usig_direccion_elegida": {
+      "altura": 6225,
+      "cod_calle": 17035,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.513347",
+        "y": "-34.646148"
+      },
+      "direccion": "PATRON 6225, CABA",
+      "nombre_calle": "PATRON",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 6225,
+          "cod_calle": 17035,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.513347",
+            "y": "-34.646148"
+          },
+          "direccion": "PATRON 6225, CABA",
+          "nombre_calle": "PATRON",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 6225,
+          "cod_calle": 88891,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6137870683673,
+            "y": -34.766531472449
+          },
+          "direccion": "De Luca y Patrón 6225, La Matanza",
+          "nombre_calle": "De Luca y Patrón",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "González Catán",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 6225,
+          "cod_calle": 160227,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5932028825491,
+            "y": -34.754622827017
+          },
+          "direccion": "Prelado Don Buenaventura Risso Patrón 6225, La Matanza",
+          "nombre_calle": "Prelado Don Buenaventura Risso Patrón",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Gregorio de Laferrere",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  95388.98299745329,
+                  98141.38504267973
+                ],
+                [
+                  95388.62399745433,
+                  98141.7200426792
+                ],
+                [
+                  95386.03499746404,
+                  98144.13704267473
+                ],
+                [
+                  95383.97799747119,
+                  98146.05804267118
+                ],
+                [
+                  95383.49399747269,
+                  98146.51104266912
+                ],
+                [
+                  95379.83999748554,
+                  98149.92504266265
+                ],
+                [
+                  95381.75799748156,
+                  98152.02504265605
+                ],
+                [
+                  95384.91699747505,
+                  98155.48304264306
+                ],
+                [
+                  95385.53299747377,
+                  98156.15704264108
+                ],
+                [
+                  95389.21499746155,
+                  98152.77404264812
+                ],
+                [
+                  95391.00999745438,
+                  98151.12404265141
+                ],
+                [
+                  95394.81399744198,
+                  98147.62704265857
+                ],
+                [
+                  95397.28999743245,
+                  98145.35204266317
+                ],
+                [
+                  95397.75499743092,
+                  98144.9250426635
+                ],
+                [
+                  95399.78199742408,
+                  98143.06204266628
+                ],
+                [
+                  95401.75199741803,
+                  98141.25104267048
+                ],
+                [
+                  95403.87499741002,
+                  98139.30004267444
+                ],
+                [
+                  95404.85199740621,
+                  98138.40304267732
+                ],
+                [
+                  95407.04699739888,
+                  98136.38504267897
+                ],
+                [
+                  95409.22899739162,
+                  98134.37904268404
+                ],
+                [
+                  95411.21099738404,
+                  98132.55804268981
+                ],
+                [
+                  95405.29499739612,
+                  98126.15104271079
+                ],
+                [
+                  95398.4969974201,
+                  98132.50104269845
+                ],
+                [
+                  95392.29099744128,
+                  98138.2970426869
+                ],
+                [
+                  95391.44099744462,
+                  98139.0900426853
+                ],
+                [
+                  95389.1359974526,
+                  98141.24204267983
+                ],
+                [
+                  95388.98299745329,
+                  98141.38504267973
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "072-125A-031A",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "PATRON 6225",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.51352130894461,
+      -34.64601478454562
+    ],
+    "direccion": "",
+    "fondo": "34.64",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "125A",
+    "parcela": "031A",
+    "pdamatriz": "13925",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "072",
+    "smp": "072-125A-031A",
+    "smp_anterior": "072-125A-030",
+    "smp_siguiente": "072-125A-031B",
+    "srid": 4326,
+    "superficie_cubierta": "441.00",
+    "superficie_total": "300.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "072-125A-031A",
+  "_http_status": 200
+}

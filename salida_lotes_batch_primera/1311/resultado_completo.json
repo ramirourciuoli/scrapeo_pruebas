@@ -1,0 +1,350 @@
+{
+  "area_m2": 140.3630657196045,
+  "centroide_lonlat": {
+    "lat": -34.627483,
+    "lon": -58.432227
+  },
+  "centroide_xy": {
+    "x": 102849.47530529606,
+    "y": 100197.73487258097
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.0,
+          "fot_perim_libre": 3.0,
+          "fot_semi_libre": 3.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/75/040-095-020a_0000062075.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION040/040-095-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION040/PI-040-095-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "040-095-020b",
+            "040-095-021",
+            "040-095-020c",
+            "040-095-019"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "E3",
+          "incidencia_uva": 330.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 140.312800000195,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 140.4,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "040-095-020A"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Caballito",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1424",
+    "codigo_postal_argentino": "C1424BDR",
+    "comisaria": "10",
+    "comisaria_vecinal": "6B",
+    "comuna": "Comuna 6",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "40"
+  },
+  "debug": {
+    "address": "BEAUCHEF 884",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.432227411080575,
+        -34.62748263151418
+      ],
+      "direccion": "",
+      "fondo": "16.05",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "095",
+      "parcela": "020A",
+      "pdamatriz": "156415",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "040",
+      "smp": "040-095-020A",
+      "smp_anterior": "040-095-019",
+      "smp_siguiente": "040-095-020B",
+      "srid": 4326,
+      "superficie_cubierta": "272.00",
+      "superficie_total": "139.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 884,
+      "cod_calle": 2039
+    },
+    "usig_direccion_elegida": {
+      "altura": 884,
+      "cod_calle": 2039,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.432346",
+        "y": "-34.627501"
+      },
+      "direccion": "BEAUCHEF 884, CABA",
+      "nombre_calle": "BEAUCHEF",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 884,
+          "cod_calle": 2039,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.432346",
+            "y": "-34.627501"
+          },
+          "direccion": "BEAUCHEF 884, CABA",
+          "nombre_calle": "BEAUCHEF",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102842.32597809522,
+                  100192.11803131888
+                ],
+                [
+                  102840.70097810622,
+                  100200.63503129623
+                ],
+                [
+                  102841.88397810228,
+                  100200.83903129466
+                ],
+                [
+                  102842.17897810142,
+                  100200.89003129426
+                ],
+                [
+                  102847.10697808856,
+                  100201.74003128873
+                ],
+                [
+                  102848.4269780853,
+                  100201.96803128725
+                ],
+                [
+                  102849.07897808336,
+                  100202.08003128614
+                ],
+                [
+                  102851.93597807555,
+                  100202.5730312824
+                ],
+                [
+                  102852.05197807564,
+                  100202.59303128277
+                ],
+                [
+                  102854.32197806909,
+                  100202.98503127994
+                ],
+                [
+                  102856.60197806329,
+                  100203.37803127634
+                ],
+                [
+                  102857.41197805741,
+                  100199.1100312885
+                ],
+                [
+                  102858.22997805274,
+                  100194.79703129991
+                ],
+                [
+                  102856.88497805568,
+                  100194.57003130155
+                ],
+                [
+                  102855.80497805847,
+                  100194.3880313029
+                ],
+                [
+                  102855.53897805935,
+                  100194.34403130249
+                ],
+                [
+                  102855.2969780604,
+                  100194.30303130351
+                ],
+                [
+                  102854.3099780624,
+                  100194.13703130456
+                ],
+                [
+                  102850.04097807441,
+                  100193.41703131003
+                ],
+                [
+                  102849.9029780745,
+                  100193.39403131013
+                ],
+                [
+                  102847.41997808115,
+                  100192.97603131269
+                ],
+                [
+                  102842.32597809522,
+                  100192.11803131888
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "040-095-020A",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "BEAUCHEF 884",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.432227411080575,
+      -34.62748263151418
+    ],
+    "direccion": "",
+    "fondo": "16.05",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "095",
+    "parcela": "020A",
+    "pdamatriz": "156415",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "040",
+    "smp": "040-095-020A",
+    "smp_anterior": "040-095-019",
+    "smp_siguiente": "040-095-020B",
+    "srid": 4326,
+    "superficie_cubierta": "272.00",
+    "superficie_total": "139.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "040-095-020A",
+  "_http_status": 200
+}

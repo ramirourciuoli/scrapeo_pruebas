@@ -1,0 +1,399 @@
+{
+  "area_m2": 221.32668495178223,
+  "centroide_lonlat": {
+    "lat": -34.585082,
+    "lon": -58.486304
+  },
+  "centroide_xy": {
+    "x": 97889.3949447811,
+    "y": 104901.68527507543
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/1/51/061-154-029_0000102151.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION061/061-154-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION061/PI-061-154-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "061-154-025",
+            "061-154-030",
+            "061-154-028"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 150.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 221.326699999991,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 221.3,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "061-154-029"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. E. TORNÚ",
+    "barrio": "Parque Chas",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1431",
+    "codigo_postal_argentino": "C1431EGH",
+    "comisaria": "39",
+    "comisaria_vecinal": "15C",
+    "comuna": "Comuna 15",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "61"
+  },
+  "debug": {
+    "address": "BURELA 1640",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.48630376900002,
+        -34.58508199659859
+      ],
+      "direccion": "",
+      "fondo": "25.29",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "154",
+      "parcela": "029",
+      "pdamatriz": "247466",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "061",
+      "smp": "061-154-029",
+      "smp_anterior": "061-154-028",
+      "smp_siguiente": "061-154-030",
+      "srid": 4326,
+      "superficie_cubierta": "226.00",
+      "superficie_total": "219.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1640,
+      "cod_calle": 2130
+    },
+    "usig_direccion_elegida": {
+      "altura": 1640,
+      "cod_calle": 2130,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.486147",
+        "y": "-34.584999"
+      },
+      "direccion": "BURELA 1640, CABA",
+      "nombre_calle": "BURELA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1640,
+          "cod_calle": 2130,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.486147",
+            "y": "-34.584999"
+          },
+          "direccion": "BURELA 1640, CABA",
+          "nombre_calle": "BURELA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1640,
+          "cod_calle": 33948,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3705333326531,
+            "y": -34.6986109632653
+          },
+          "direccion": "Coronel Burela 1640, Lanús",
+          "nombre_calle": "Coronel Burela",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Gerli",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1640,
+          "cod_calle": 161525,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7710864612245,
+            "y": -34.669077544898
+          },
+          "direccion": "Burela 1640, Merlo",
+          "nombre_calle": "Burela",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Merlo",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97897.75499551406,
+                  104912.24802180359
+                ],
+                [
+                  97899.3759955079,
+                  104909.72402181014
+                ],
+                [
+                  97902.47799549553,
+                  104904.89402182132
+                ],
+                [
+                  97898.71999550385,
+                  104902.49102183094
+                ],
+                [
+                  97898.4369955047,
+                  104902.31002183087
+                ],
+                [
+                  97895.97399551088,
+                  104900.73502183793
+                ],
+                [
+                  97894.49399551388,
+                  104899.78802184106
+                ],
+                [
+                  97893.6039955163,
+                  104899.2190218432
+                ],
+                [
+                  97891.62899552032,
+                  104897.9560218488
+                ],
+                [
+                  97888.84699552713,
+                  104896.17802185603
+                ],
+                [
+                  97884.65699553645,
+                  104893.49802186599
+                ],
+                [
+                  97883.64599553886,
+                  104892.85202186892
+                ],
+                [
+                  97883.01299554092,
+                  104892.44702187018
+                ],
+                [
+                  97881.1859955446,
+                  104891.27902187529
+                ],
+                [
+                  97879.97299554972,
+                  104892.91002187168
+                ],
+                [
+                  97876.05899556476,
+                  104898.17402185933
+                ],
+                [
+                  97876.5479955637,
+                  104898.49102185885
+                ],
+                [
+                  97879.17599555713,
+                  104900.1960218522
+                ],
+                [
+                  97879.48799555635,
+                  104900.39902185104
+                ],
+                [
+                  97882.9859955479,
+                  104902.6680218415
+                ],
+                [
+                  97885.6799955418,
+                  104904.41502183498
+                ],
+                [
+                  97888.8779955343,
+                  104906.49002182696
+                ],
+                [
+                  97889.19599553444,
+                  104906.69602182638
+                ],
+                [
+                  97896.07799551776,
+                  104911.1600218084
+                ],
+                [
+                  97897.20999551537,
+                  104911.89502180487
+                ],
+                [
+                  97897.75499551406,
+                  104912.24802180359
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "061-154-029",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "BURELA 1640",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.48630376900002,
+      -34.58508199659859
+    ],
+    "direccion": "",
+    "fondo": "25.29",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "154",
+    "parcela": "029",
+    "pdamatriz": "247466",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "061",
+    "smp": "061-154-029",
+    "smp_anterior": "061-154-028",
+    "smp_siguiente": "061-154-030",
+    "srid": 4326,
+    "superficie_cubierta": "226.00",
+    "superficie_total": "219.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "061-154-029",
+  "_http_status": 200
+}

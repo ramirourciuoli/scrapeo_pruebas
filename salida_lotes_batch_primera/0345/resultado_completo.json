@@ -1,0 +1,496 @@
+{
+  "area_m2": 231.8581485748291,
+  "centroide_lonlat": {
+    "lat": -34.610106,
+    "lon": -58.425918
+  },
+  "centroide_xy": {
+    "x": 103428.76235034074,
+    "y": 102125.24393866223
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 2.75,
+          "fot_perim_libre": 2.75,
+          "fot_semi_libre": 2.75
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/3/85/017-055-028_0000437385.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION017/017-055-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION017/PI-017-055-V3.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "017-055-029",
+            "017-055-027"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2a II",
+          "incidencia_uva": 180.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 231.9,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "017-055-028"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Almagro",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1182",
+    "codigo_postal_argentino": "C1182ACC",
+    "comisaria": "11",
+    "comisaria_vecinal": "5A",
+    "comuna": "Comuna 5",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "17"
+  },
+  "debug": {
+    "address": "RAWSON 217",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.42591825607151,
+        -34.61010590788741
+      ],
+      "direccion": "",
+      "fondo": "11.76",
+      "frente": "19.73",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "055",
+      "parcela": "028",
+      "pdamatriz": "171678",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "8",
+      "propiedad_horizontal": "Si",
+      "seccion": "017",
+      "smp": "017-055-028",
+      "smp_anterior": "017-055-027",
+      "smp_siguiente": "017-055-029",
+      "srid": 4326,
+      "superficie_cubierta": "1892.00",
+      "superficie_total": "232.00",
+      "unidades_funcionales": "38",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 217,
+      "cod_calle": 19016
+    },
+    "usig_direccion_elegida": {
+      "altura": 217,
+      "cod_calle": 19016,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.426009",
+        "y": "-34.610119"
+      },
+      "direccion": "RAWSON 217, CABA",
+      "nombre_calle": "RAWSON",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 217,
+          "cod_calle": 19016,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.426009",
+            "y": "-34.610119"
+          },
+          "direccion": "RAWSON 217, CABA",
+          "nombre_calle": "RAWSON",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 217,
+          "cod_calle": 4098,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.361803",
+            "y": "-34.623555"
+          },
+          "direccion": "RAWSON DE DELLEPIANE, ELVIRA AV. 217, CABA",
+          "nombre_calle": "RAWSON DE DELLEPIANE, ELVIRA AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 217,
+          "cod_calle": 277450,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3212656244898,
+            "y": -34.7965731591837
+          },
+          "direccion": "Rawson 217, Almirante Brown",
+          "nombre_calle": "Rawson",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Claypole",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 217,
+          "cod_calle": 277450,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3212656244898,
+            "y": -34.7965731591837
+          },
+          "direccion": "Rawson 217, Almirante Brown",
+          "nombre_calle": "Rawson",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Francisco Solano",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 217,
+          "cod_calle": 222507,
+          "cod_calle_cruce": null,
+          "cod_partido": "campana",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.9612307625,
+            "y": -34.16052386875
+          },
+          "direccion": "Rawson 217, Campana",
+          "nombre_calle": "Rawson",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Campana",
+          "nombre_partido": "Campana",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 217,
+          "cod_calle": 168501,
+          "cod_calle_cruce": null,
+          "cod_partido": "escobar",
+          "direccion": "Rawson 217, Escobar",
+          "nombre_calle": "Rawson",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Garín",
+          "nombre_partido": "Escobar",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 217,
+          "cod_calle": 204799,
+          "cod_calle_cruce": null,
+          "cod_partido": "general_rodriguez",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.9594378489796,
+            "y": -34.609500367347
+          },
+          "direccion": "Rawson 217, General Rodríguez",
+          "nombre_calle": "Rawson",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "General Rodríguez",
+          "nombre_partido": "General Rodríguez",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 217,
+          "cod_calle": 14601,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5523552857143,
+            "y": -34.6484027581633
+          },
+          "direccion": "Rawson 217, La Matanza",
+          "nombre_calle": "Rawson",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ramos Mejía",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 217,
+          "cod_calle": 20943,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4218858639506,
+            "y": -34.7261566224126
+          },
+          "direccion": "Rawson 217, Lomas de Zamora",
+          "nombre_calle": "Rawson",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Centenario",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 217,
+          "cod_calle": 636187,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7242997367347,
+            "y": -34.6797007632653
+          },
+          "direccion": "Rawson 217, Merlo",
+          "nombre_calle": "Rawson",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Merlo",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  103433.60697789335,
+                  102127.52202544635
+                ],
+                [
+                  103433.91697789024,
+                  102123.89002545609
+                ],
+                [
+                  103434.0629778883,
+                  102122.17402546079
+                ],
+                [
+                  103434.78497787993,
+                  102113.71602548432
+                ],
+                [
+                  103434.49997788056,
+                  102113.66802548425
+                ],
+                [
+                  103429.78297789303,
+                  102112.86702549006
+                ],
+                [
+                  103429.43297789432,
+                  102112.8000254907
+                ],
+                [
+                  103424.56697791032,
+                  102116.43302548458
+                ],
+                [
+                  103424.49097791157,
+                  102117.05102548262
+                ],
+                [
+                  103424.1259779146,
+                  102120.02902547471
+                ],
+                [
+                  103424.09597791459,
+                  102120.27302547402
+                ],
+                [
+                  103423.72997791841,
+                  102123.25002546591
+                ],
+                [
+                  103423.6809779183,
+                  102123.64802546485
+                ],
+                [
+                  103423.19397792291,
+                  102127.61902545395
+                ],
+                [
+                  103422.90997792545,
+                  102129.93202544775
+                ],
+                [
+                  103422.19997793184,
+                  102135.71702543224
+                ],
+                [
+                  103422.16997793183,
+                  102135.96302543182
+                ],
+                [
+                  103429.33597791236,
+                  102136.49002542478
+                ],
+                [
+                  103432.81997790294,
+                  102136.74602542145
+                ],
+                [
+                  103433.19297789826,
+                  102132.36902543314
+                ],
+                [
+                  103433.28197789693,
+                  102131.33402543582
+                ],
+                [
+                  103433.60697789335,
+                  102127.52202544635
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "017-055-028",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "RAWSON 217",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.42591825607151,
+      -34.61010590788741
+    ],
+    "direccion": "",
+    "fondo": "11.76",
+    "frente": "19.73",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "055",
+    "parcela": "028",
+    "pdamatriz": "171678",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "8",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "017",
+    "smp": "017-055-028",
+    "smp_anterior": "017-055-027",
+    "smp_siguiente": "017-055-029",
+    "srid": 4326,
+    "superficie_cubierta": "1892.00",
+    "superficie_total": "232.00",
+    "unidades_funcionales": "38",
+    "vuc": "0.00"
+  },
+  "smp": "017-055-028",
+  "_http_status": 200
+}

@@ -1,0 +1,387 @@
+{
+  "area_m2": 149.0467872619629,
+  "centroide_lonlat": {
+    "lat": -34.618315,
+    "lon": -58.477989
+  },
+  "centroide_xy": {
+    "x": 98652.80407354912,
+    "y": 101215.11833045866
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "PEV",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.42,
+          "fot_perim_libre": 3.42,
+          "fot_semi_libre": 3.42
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/9/44/067-016-001g_0000147944.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION067/067-016-V2.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION067/PI-067-016-V4.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "067-016-001h",
+            "067-016-001f"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2a II",
+          "incidencia_uva": 130.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 149.000800000097,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 149.0,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "067-016-001G"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. T. ÁLVAREZ",
+    "barrio": "Villa Santa Rita",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1416",
+    "codigo_postal_argentino": "C1416AXF",
+    "comisaria": "50",
+    "comisaria_vecinal": "11A",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "67"
+  },
+  "debug": {
+    "address": "ARGERICH 1396",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.47798912358774,
+        -34.618314814864135
+      ],
+      "direccion": "",
+      "fondo": "12.14",
+      "frente": "12.36",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "016",
+      "parcela": "001G",
+      "pdamatriz": "312629",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "067",
+      "smp": "067-016-001G",
+      "smp_anterior": "067-016-001F",
+      "smp_siguiente": "067-016-001H",
+      "srid": 4326,
+      "superficie_cubierta": "296.00",
+      "superficie_total": "150.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1396,
+      "cod_calle": 1110
+    },
+    "usig_direccion_elegida": {
+      "altura": 1396,
+      "cod_calle": 1110,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.477866",
+        "y": "-34.618250"
+      },
+      "direccion": "ARGERICH 1396, CABA",
+      "nombre_calle": "ARGERICH",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1396,
+          "cod_calle": 1110,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.477866",
+            "y": "-34.618250"
+          },
+          "direccion": "ARGERICH 1396, CABA",
+          "nombre_calle": "ARGERICH",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1396,
+          "cod_calle": 110854,
+          "cod_calle_cruce": null,
+          "cod_partido": "florencio_varela",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.2972973285714,
+            "y": -34.7987346632653
+          },
+          "direccion": "Doctor Cosme Argerich 1396, Florencio Varela",
+          "nombre_calle": "Doctor Cosme Argerich",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Florencio Varela",
+          "nombre_partido": "Florencio Varela",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1396,
+          "cod_calle": 468261,
+          "cod_calle_cruce": null,
+          "cod_partido": "hurlingham",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.638393502349,
+            "y": -34.5910729161074
+          },
+          "direccion": "Germán Argerich 1396, Hurlingham",
+          "nombre_calle": "Germán Argerich",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Hurlingham",
+          "nombre_partido": "Hurlingham",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1396,
+          "cod_calle": 68362,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_isidro",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.543705055102,
+            "y": -34.5090049204082
+          },
+          "direccion": "Cosme Argerich 1396, San Isidro",
+          "nombre_calle": "Cosme Argerich",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Adelina",
+          "nombre_partido": "San Isidro",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98657.66099059922,
+                  101212.80203160708
+                ],
+                [
+                  98655.12299060424,
+                  101211.20103161325
+                ],
+                [
+                  98648.63699061934,
+                  101207.11003162796
+                ],
+                [
+                  98646.70999062748,
+                  101210.00603162238
+                ],
+                [
+                  98646.15599062925,
+                  101210.8380316225
+                ],
+                [
+                  98645.9499906302,
+                  101211.14703161948
+                ],
+                [
+                  98645.39599063242,
+                  101211.98003161926
+                ],
+                [
+                  98643.38499063978,
+                  101215.00103161033
+                ],
+                [
+                  98643.97599063811,
+                  101215.37603161065
+                ],
+                [
+                  98646.00199063396,
+                  101216.66403160532
+                ],
+                [
+                  98646.33999063278,
+                  101216.87903160456
+                ],
+                [
+                  98651.40599062164,
+                  101220.10003159032
+                ],
+                [
+                  98653.74999061663,
+                  101221.59003158339
+                ],
+                [
+                  98656.9669906067,
+                  101221.0000315842
+                ],
+                [
+                  98659.68999059957,
+                  101220.50003158202
+                ],
+                [
+                  98662.4579905871,
+                  101216.30003159304
+                ],
+                [
+                  98662.67799058682,
+                  101215.96603159403
+                ],
+                [
+                  98658.6249905961,
+                  101213.41003160432
+                ],
+                [
+                  98657.66099059922,
+                  101212.80203160708
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "067-016-001G",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ARGERICH 1396",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.47798912358774,
+      -34.618314814864135
+    ],
+    "direccion": "",
+    "fondo": "12.14",
+    "frente": "12.36",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "016",
+    "parcela": "001G",
+    "pdamatriz": "312629",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "067",
+    "smp": "067-016-001G",
+    "smp_anterior": "067-016-001F",
+    "smp_siguiente": "067-016-001H",
+    "srid": 4326,
+    "superficie_cubierta": "296.00",
+    "superficie_total": "150.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "067-016-001G",
+  "_http_status": 200
+}

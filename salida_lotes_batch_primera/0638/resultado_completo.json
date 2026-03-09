@@ -1,0 +1,353 @@
+{
+  "area_m2": 243.0881290435791,
+  "centroide_lonlat": {
+    "lat": -34.650901,
+    "lon": -58.491494
+  },
+  "centroide_xy": {
+    "x": 97415.23668700646,
+    "y": 97599.857956245
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": -1.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/8/57/062-106-022_0000021857.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION062/062-106-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION062/PI-062-106-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "062-106-027",
+            "062-106-021",
+            "062-106-023"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "C3 II",
+          "incidencia_uva": 70.0,
+          "plusvalia_em": 4854.13,
+          "plusvalia_pl": 1791.07,
+          "plusvalia_sl": 1791.07
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 177.68508558064,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 243.1,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "062-106-022"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Mataderos",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1440",
+    "codigo_postal_argentino": "C1440ASC",
+    "comisaria": "48",
+    "comisaria_vecinal": "9A",
+    "comuna": "Comuna 9",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "62"
+  },
+  "debug": {
+    "address": "AV. DIRECTORIO 5025",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.491493927990575,
+        -34.65090102039804
+      ],
+      "direccion": "",
+      "fondo": "28.18",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "106",
+      "parcela": "022",
+      "pdamatriz": "29003",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "062",
+      "smp": "062-106-022",
+      "smp_anterior": "062-106-021",
+      "smp_siguiente": "062-106-023",
+      "srid": 4326,
+      "superficie_cubierta": "326.00",
+      "superficie_total": "244.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 5025,
+      "cod_calle": 4078
+    },
+    "usig_direccion_elegida": {
+      "altura": 5025,
+      "cod_calle": 4078,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.491338",
+        "y": "-34.651028"
+      },
+      "direccion": "DIRECTORIO AV. 5025, CABA",
+      "nombre_calle": "DIRECTORIO AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 5025,
+          "cod_calle": 4078,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.491338",
+            "y": "-34.651028"
+          },
+          "direccion": "DIRECTORIO AV. 5025, CABA",
+          "nombre_calle": "DIRECTORIO AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97418.07999135806,
+                  97603.16404266312
+                ],
+                [
+                  97420.2669913491,
+                  97601.08004266644
+                ],
+                [
+                  97424.96999133361,
+                  97596.5960426757
+                ],
+                [
+                  97428.41399132082,
+                  97593.31304268303
+                ],
+                [
+                  97422.34199133408,
+                  97587.15204270292
+                ],
+                [
+                  97417.40899135129,
+                  97591.81004269343
+                ],
+                [
+                  97416.19499135597,
+                  97592.95704269435
+                ],
+                [
+                  97415.25699135926,
+                  97593.84204269023
+                ],
+                [
+                  97414.202991362,
+                  97594.83804268841
+                ],
+                [
+                  97413.25699136566,
+                  97595.73004268811
+                ],
+                [
+                  97412.09399136924,
+                  97596.82904268536
+                ],
+                [
+                  97405.17299139446,
+                  97603.36404267151
+                ],
+                [
+                  97404.3459913964,
+                  97604.14404266977
+                ],
+                [
+                  97403.76499139931,
+                  97604.69304266784
+                ],
+                [
+                  97402.89199140263,
+                  97605.51704266766
+                ],
+                [
+                  97402.09099140449,
+                  97606.27404266663
+                ],
+                [
+                  97407.20799139395,
+                  97611.5670426469
+                ],
+                [
+                  97408.19499139313,
+                  97612.5870426432
+                ],
+                [
+                  97410.36599138536,
+                  97610.51804264876
+                ],
+                [
+                  97411.1959913823,
+                  97609.72704264818
+                ],
+                [
+                  97411.386991382,
+                  97609.5440426489
+                ],
+                [
+                  97417.47299136032,
+                  97603.74304266018
+                ],
+                [
+                  97418.07999135806,
+                  97603.16404266312
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "062-106-022",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AV. DIRECTORIO 5025",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.491493927990575,
+      -34.65090102039804
+    ],
+    "direccion": "",
+    "fondo": "28.18",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "106",
+    "parcela": "022",
+    "pdamatriz": "29003",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "062",
+    "smp": "062-106-022",
+    "smp_anterior": "062-106-021",
+    "smp_siguiente": "062-106-023",
+    "srid": 4326,
+    "superficie_cubierta": "326.00",
+    "superficie_total": "244.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "062-106-022",
+  "_http_status": 200
+}

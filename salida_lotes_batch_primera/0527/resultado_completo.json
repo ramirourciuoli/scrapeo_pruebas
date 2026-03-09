@@ -1,0 +1,338 @@
+{
+  "area_m2": 91.02562236785889,
+  "centroide_lonlat": {
+    "lat": -34.631497,
+    "lon": -58.510059
+  },
+  "centroide_xy": {
+    "x": 95712.26275631125,
+    "y": 99751.86000104372
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/17/091-060-021c_0000205017.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION091/091-060-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION091/PI-091-060-V3.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "091-060-021a",
+            "091-060-021d",
+            "091-060-021b"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 91.0375000000296,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 91.0,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "091-060-021C"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Villa Luro",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1407",
+    "codigo_postal_argentino": "C1407FUQ",
+    "comisaria": "44",
+    "comisaria_vecinal": "10B",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "91"
+  },
+  "debug": {
+    "address": "SAN BLAS 5489",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.51005862480547,
+        -34.631496814577076
+      ],
+      "direccion": "",
+      "fondo": "11.68",
+      "frente": "7.79",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "060",
+      "parcela": "021C",
+      "pdamatriz": "285200",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "091",
+      "smp": "091-060-021C",
+      "smp_anterior": "091-060-021B",
+      "smp_siguiente": "091-060-021D",
+      "srid": 4326,
+      "superficie_cubierta": "82.00",
+      "superficie_total": "91.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 5489,
+      "cod_calle": 20026
+    },
+    "usig_direccion_elegida": {
+      "altura": 5489,
+      "cod_calle": 20026,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.509976",
+        "y": "-34.631561"
+      },
+      "direccion": "SAN BLAS 5489, CABA",
+      "nombre_calle": "SAN BLAS",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 5489,
+          "cod_calle": 20026,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.509976",
+            "y": "-34.631561"
+          },
+          "direccion": "SAN BLAS 5489, CABA",
+          "nombre_calle": "SAN BLAS",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 5489,
+          "cod_calle": 71028,
+          "cod_calle_cruce": null,
+          "cod_partido": "jose_c_paz",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.8161375781052,
+            "y": -34.5101417778096
+          },
+          "direccion": "San Blas 5489, José C. Paz",
+          "nombre_calle": "San Blas",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "José C. Paz",
+          "nombre_partido": "José C. Paz",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  95719.15999773875,
+                  99750.70003791884
+                ],
+                [
+                  95716.93699774297,
+                  99748.30803792723
+                ],
+                [
+                  95713.85999774952,
+                  99744.99903793843
+                ],
+                [
+                  95710.94699775917,
+                  99747.74203793277
+                ],
+                [
+                  95710.59799776092,
+                  99748.07203793217
+                ],
+                [
+                  95707.04399777291,
+                  99751.41903792552
+                ],
+                [
+                  95705.37299777869,
+                  99752.99203792223
+                ],
+                [
+                  95708.19899777343,
+                  99756.06203791179
+                ],
+                [
+                  95709.0039977715,
+                  99756.93703790876
+                ],
+                [
+                  95710.13699776966,
+                  99758.16903790427
+                ],
+                [
+                  95710.6589977685,
+                  99758.7360379021
+                ],
+                [
+                  95712.19499776342,
+                  99757.28403790543
+                ],
+                [
+                  95713.36299775892,
+                  99756.18003790735
+                ],
+                [
+                  95714.14699775614,
+                  99755.43903790938
+                ],
+                [
+                  95719.15999773875,
+                  99750.70003791884
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "091-060-021C",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "SAN BLAS 5489",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.51005862480547,
+      -34.631496814577076
+    ],
+    "direccion": "",
+    "fondo": "11.68",
+    "frente": "7.79",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "060",
+    "parcela": "021C",
+    "pdamatriz": "285200",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "091",
+    "smp": "091-060-021C",
+    "smp_anterior": "091-060-021B",
+    "smp_siguiente": "091-060-021D",
+    "srid": 4326,
+    "superficie_cubierta": "82.00",
+    "superficie_total": "91.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "091-060-021C",
+  "_http_status": 200
+}

@@ -1,0 +1,348 @@
+{
+  "area_m2": 146.80546760559082,
+  "centroide_lonlat": {
+    "lat": -34.622313,
+    "lon": -58.511741
+  },
+  "centroide_xy": {
+    "x": 95557.5248965446,
+    "y": 100770.64599121452
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/3/38/087-002A-001_0000196338.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION087/087-002A-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION087/PI-087-002A-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "087-002A-034",
+            "087-002A-002"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 220.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 146.8,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "087-002A-001"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Monte Castro",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1417",
+    "codigo_postal_argentino": "C1417HAG",
+    "comisaria": "43",
+    "comisaria_vecinal": "10A",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "87"
+  },
+  "debug": {
+    "address": "LASCANO 5201",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.51174073439691,
+        -34.62231263457324
+      ],
+      "direccion": "",
+      "fondo": "32.50",
+      "frente": "4.40",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "002A",
+      "parcela": "001",
+      "pdamatriz": "287203",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "5",
+      "propiedad_horizontal": "Si",
+      "seccion": "087",
+      "smp": "087-002A-001",
+      "smp_anterior": "087-002A-034",
+      "smp_siguiente": "087-002A-002",
+      "srid": 4326,
+      "superficie_cubierta": "387.00",
+      "superficie_total": "143.00",
+      "unidades_funcionales": "5",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 5201,
+      "cod_calle": 12071
+    },
+    "usig_direccion_elegida": {
+      "altura": 5201,
+      "cod_calle": 12071,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.511608",
+        "y": "-34.622376"
+      },
+      "direccion": "LASCANO 5201, CABA",
+      "nombre_calle": "LASCANO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 5201,
+          "cod_calle": 12071,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.511608",
+            "y": "-34.622376"
+          },
+          "direccion": "LASCANO 5201, CABA",
+          "nombre_calle": "LASCANO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  95551.35899897703,
+                  100770.52803518489
+                ],
+                [
+                  95550.6869989791,
+                  100771.14403518406
+                ],
+                [
+                  95548.54299898626,
+                  100773.10703517974
+                ],
+                [
+                  95551.0549989814,
+                  100775.88203517039
+                ],
+                [
+                  95551.43299898117,
+                  100776.30003516856
+                ],
+                [
+                  95553.60599897636,
+                  100778.70103516072
+                ],
+                [
+                  95554.54399897461,
+                  100779.7380351566
+                ],
+                [
+                  95558.43499896077,
+                  100776.10503516445
+                ],
+                [
+                  95561.34999895061,
+                  100773.38303516986
+                ],
+                [
+                  95562.22699894784,
+                  100772.56403517135
+                ],
+                [
+                  95564.32999894058,
+                  100770.60003517466
+                ],
+                [
+                  95564.53999893538,
+                  100764.52103519166
+                ],
+                [
+                  95564.399998936,
+                  100764.37203519291
+                ],
+                [
+                  95561.95699894096,
+                  100761.77403520176
+                ],
+                [
+                  95561.47599894129,
+                  100761.26203520343
+                ],
+                [
+                  95560.88599894349,
+                  100761.80203520239
+                ],
+                [
+                  95557.89899895417,
+                  100764.53803519657
+                ],
+                [
+                  95555.30199896322,
+                  100766.91603519238
+                ],
+                [
+                  95554.01599896737,
+                  100768.09503518956
+                ],
+                [
+                  95553.42599896959,
+                  100768.63503518855
+                ],
+                [
+                  95552.89899897165,
+                  100769.11803518754
+                ],
+                [
+                  95551.35899897703,
+                  100770.52803518489
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "087-002A-001",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "LASCANO 5201",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.51174073439691,
+      -34.62231263457324
+    ],
+    "direccion": "",
+    "fondo": "32.50",
+    "frente": "4.40",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "002A",
+    "parcela": "001",
+    "pdamatriz": "287203",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "5",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "087",
+    "smp": "087-002A-001",
+    "smp_anterior": "087-002A-034",
+    "smp_siguiente": "087-002A-002",
+    "srid": 4326,
+    "superficie_cubierta": "387.00",
+    "superficie_total": "143.00",
+    "unidades_funcionales": "5",
+    "vuc": "0.00"
+  },
+  "smp": "087-002A-001",
+  "_http_status": 200
+}

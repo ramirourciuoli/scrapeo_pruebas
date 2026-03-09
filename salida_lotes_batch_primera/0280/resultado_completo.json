@@ -1,0 +1,390 @@
+{
+  "area_m2": 195.09568691253662,
+  "centroide_lonlat": {
+    "lat": -34.557134,
+    "lon": -58.476022
+  },
+  "centroide_xy": {
+    "x": 98832.34853080437,
+    "y": 108002.28061129023
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/4/41/041-042A-002_0000375441.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION041/041-042A-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION041/PI-041-042A-V3.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "041-042A-034",
+            "041-042A-003",
+            "041-042A-001"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 320.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 195.033450000025,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 195.1,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "041-042A-002"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Coghlan",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1430",
+    "codigo_postal_argentino": "C1430AOD",
+    "comisaria": "35",
+    "comisaria_vecinal": "12C",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   X",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "41"
+  },
+  "debug": {
+    "address": "MANUELA PEDRAZA 3520",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.47602212740277,
+        -34.55713389824942
+      ],
+      "direccion": "",
+      "fondo": "21.94",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "042A",
+      "parcela": "002",
+      "pdamatriz": "329904",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "041",
+      "smp": "041-042A-002",
+      "smp_anterior": "041-042A-001",
+      "smp_siguiente": "041-042A-003",
+      "srid": 4326,
+      "superficie_cubierta": "280.00",
+      "superficie_total": "190.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3520,
+      "cod_calle": 17048
+    },
+    "usig_direccion_elegida": {
+      "altura": 3520,
+      "cod_calle": 17048,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.476114",
+        "y": "-34.557015"
+      },
+      "direccion": "PEDRAZA, MANUELA 3520, CABA",
+      "nombre_calle": "PEDRAZA, MANUELA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3520,
+          "cod_calle": 17048,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.476114",
+            "y": "-34.557015"
+          },
+          "direccion": "PEDRAZA, MANUELA 3520, CABA",
+          "nombre_calle": "PEDRAZA, MANUELA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3520,
+          "cod_calle": 265651,
+          "cod_calle_cruce": null,
+          "cod_partido": "vicente_lopez",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5407127959184,
+            "y": -34.5290276040816
+          },
+          "direccion": "Manuela Pedraza 3520, Vicente López",
+          "nombre_calle": "Manuela Pedraza",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Carapachay",
+          "nombre_partido": "Vicente López",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98822.64499525112,
+                  108009.24201242221
+                ],
+                [
+                  98826.44899524274,
+                  108011.68001241263
+                ],
+                [
+                  98829.95299523431,
+                  108013.92501240378
+                ],
+                [
+                  98831.9109952272,
+                  108010.96401241049
+                ],
+                [
+                  98832.81999522359,
+                  108009.59001241383
+                ],
+                [
+                  98833.90499521927,
+                  108007.95001241795
+                ],
+                [
+                  98835.34499521306,
+                  108005.77301242287
+                ],
+                [
+                  98835.98999521101,
+                  108004.79801242548
+                ],
+                [
+                  98837.72499520358,
+                  108002.17501243087
+                ],
+                [
+                  98837.9129952029,
+                  108001.8900124314
+                ],
+                [
+                  98839.52799519677,
+                  107999.4490124374
+                ],
+                [
+                  98840.18999519463,
+                  107998.44801243948
+                ],
+                [
+                  98841.34599518958,
+                  107996.70001244391
+                ],
+                [
+                  98842.10199518662,
+                  107995.55701244637
+                ],
+                [
+                  98840.18099519098,
+                  107994.30501245102
+                ],
+                [
+                  98839.28499519333,
+                  107993.72101245355
+                ],
+                [
+                  98838.96199519424,
+                  107993.51101245434
+                ],
+                [
+                  98837.64599519671,
+                  107992.6530124578
+                ],
+                [
+                  98834.5519952043,
+                  107990.63601246575
+                ],
+                [
+                  98834.12999520572,
+                  107991.29601246436
+                ],
+                [
+                  98831.52799521609,
+                  107995.3610124544
+                ],
+                [
+                  98830.18099522144,
+                  107997.46601245002
+                ],
+                [
+                  98829.72699522332,
+                  107998.17551244819
+                ],
+                [
+                  98827.75599523124,
+                  108001.25601244118
+                ],
+                [
+                  98826.62209523599,
+                  108003.0277124375
+                ],
+                [
+                  98825.54799524043,
+                  108004.70601243337
+                ],
+                [
+                  98823.95799524598,
+                  108007.19101242704
+                ],
+                [
+                  98822.64499525112,
+                  108009.24201242221
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "041-042A-002",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MANUELA PEDRAZA 3520",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.47602212740277,
+      -34.55713389824942
+    ],
+    "direccion": "",
+    "fondo": "21.94",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "042A",
+    "parcela": "002",
+    "pdamatriz": "329904",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "041",
+    "smp": "041-042A-002",
+    "smp_anterior": "041-042A-001",
+    "smp_siguiente": "041-042A-003",
+    "srid": 4326,
+    "superficie_cubierta": "280.00",
+    "superficie_total": "190.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "041-042A-002",
+  "_http_status": 200
+}

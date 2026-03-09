@@ -1,0 +1,346 @@
+{
+  "area_m2": 184.21616744995117,
+  "centroide_lonlat": {
+    "lat": -34.646401,
+    "lon": -58.371107
+  },
+  "centroide_xy": {
+    "x": 108452.51923583478,
+    "y": 98095.57438737463
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 1,
+          "ensanche": 1,
+          "lep": 1,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "E-CCA",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.0,
+          "fot_perim_libre": 3.0,
+          "fot_semi_libre": 3.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/8/30/010-018-002_0000298830.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION010/010-018-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION010/PI-010-018-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "010-018-003",
+            "010-018-025",
+            "010-018-026",
+            "010-018-001"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "E3",
+          "incidencia_uva": 90.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 138.464800447634,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 184.2,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "010-018-002"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C. ARGERICH",
+    "barrio": "Barracas",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1289",
+    "codigo_postal_argentino": "C1289AAF",
+    "comisaria": "30",
+    "comisaria_vecinal": "4D",
+    "comuna": "Comuna 4",
+    "distrito_economico": "DISTRITO DE DISEÑO",
+    "distrito_escolar": "Distrito Escolar   IV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "10"
+  },
+  "debug": {
+    "address": "CALIFORNIA 1520",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.37110712600886,
+        -34.646400969555806
+      ],
+      "direccion": "",
+      "fondo": "21.77",
+      "frente": "8.59",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "018",
+      "parcela": "002",
+      "pdamatriz": "123779",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "4",
+      "propiedad_horizontal": "Si",
+      "seccion": "010",
+      "smp": "010-018-002",
+      "smp_anterior": "010-018-001",
+      "smp_siguiente": "010-018-003",
+      "srid": 4326,
+      "superficie_cubierta": "627.00",
+      "superficie_total": "187.00",
+      "unidades_funcionales": "7",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1520,
+      "cod_calle": 1164
+    },
+    "usig_direccion_elegida": {
+      "altura": 1520,
+      "cod_calle": 1164,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.371145",
+        "y": "-34.646283"
+      },
+      "direccion": "CALIFORNIA 1520, CABA",
+      "nombre_calle": "CALIFORNIA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1520,
+          "cod_calle": 1164,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.371145",
+            "y": "-34.646283"
+          },
+          "direccion": "CALIFORNIA 1520, CABA",
+          "nombre_calle": "CALIFORNIA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  108458.34496075979,
+                  98085.84003299856
+                ],
+                [
+                  108453.6579607721,
+                  98084.64303300573
+                ],
+                [
+                  108450.15596078189,
+                  98083.7480330104
+                ],
+                [
+                  108448.73196079189,
+                  98092.53003298742
+                ],
+                [
+                  108448.1259607967,
+                  98096.26703297708
+                ],
+                [
+                  108447.53196080064,
+                  98099.93003296704
+                ],
+                [
+                  108446.66896080718,
+                  98105.25603295307
+                ],
+                [
+                  108449.75796079973,
+                  98106.06003294807
+                ],
+                [
+                  108453.42596078975,
+                  98107.01403294344
+                ],
+                [
+                  108454.39296078743,
+                  98107.2660329414
+                ],
+                [
+                  108454.90796078577,
+                  98107.40003294122
+                ],
+                [
+                  108455.44196078171,
+                  98104.05303295012
+                ],
+                [
+                  108455.49696078192,
+                  98103.70803295038
+                ],
+                [
+                  108456.05296077764,
+                  98100.2170329603
+                ],
+                [
+                  108456.36296077487,
+                  98098.27003296488
+                ],
+                [
+                  108456.4069607743,
+                  98098.000032966
+                ],
+                [
+                  108457.01596076989,
+                  98094.17403297595
+                ],
+                [
+                  108457.21296076903,
+                  98092.9410329792
+                ],
+                [
+                  108457.92296076364,
+                  98088.48503299194
+                ],
+                [
+                  108457.95396076293,
+                  98088.29403299186
+                ],
+                [
+                  108458.34496075979,
+                  98085.84003299856
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "010-018-002",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CALIFORNIA 1520",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.37110712600886,
+      -34.646400969555806
+    ],
+    "direccion": "",
+    "fondo": "21.77",
+    "frente": "8.59",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "018",
+    "parcela": "002",
+    "pdamatriz": "123779",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "4",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "010",
+    "smp": "010-018-002",
+    "smp_anterior": "010-018-001",
+    "smp_siguiente": "010-018-003",
+    "srid": 4326,
+    "superficie_cubierta": "627.00",
+    "superficie_total": "187.00",
+    "unidades_funcionales": "7",
+    "vuc": "0.00"
+  },
+  "smp": "010-018-002",
+  "_http_status": 200
+}

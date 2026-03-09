@@ -1,0 +1,349 @@
+{
+  "area_m2": 187.55090236663818,
+  "centroide_lonlat": {
+    "lat": -34.614453,
+    "lon": -58.470557
+  },
+  "centroide_xy": {
+    "x": 99334.4079047788,
+    "y": 101643.6214495907
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/54/067-086-008a_0000153054.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION067/067-086-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION067/PI-067-086-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "067-086-007d",
+            "067-086-008b"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b III",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 187.578449999997,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 187.6,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "067-086-008A"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. T. ÁLVAREZ",
+    "barrio": "Villa Gral. Mitre",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1416",
+    "codigo_postal_argentino": "C1416DDN",
+    "comisaria": "50",
+    "comisaria_vecinal": "11A",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "67"
+  },
+  "debug": {
+    "address": "TRES ARROYOS 2424",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.47055692477398,
+        -34.61445285978459
+      ],
+      "direccion": "",
+      "fondo": "23.00",
+      "frente": "8.00",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "086",
+      "parcela": "008A",
+      "pdamatriz": "248133",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "067",
+      "smp": "067-086-008A",
+      "smp_anterior": "067-086-007F",
+      "smp_siguiente": "067-086-008B",
+      "srid": 4326,
+      "superficie_cubierta": "227.00",
+      "superficie_total": "184.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2424,
+      "cod_calle": 21049
+    },
+    "usig_direccion_elegida": {
+      "altura": 2424,
+      "cod_calle": 21049,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.470644",
+        "y": "-34.614340"
+      },
+      "direccion": "TRES ARROYOS 2424, CABA",
+      "nombre_calle": "TRES ARROYOS",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2424,
+          "cod_calle": 21049,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.470644",
+            "y": "-34.614340"
+          },
+          "direccion": "TRES ARROYOS 2424, CABA",
+          "nombre_calle": "TRES ARROYOS",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2424,
+          "cod_calle": 136298,
+          "cod_calle_cruce": null,
+          "cod_partido": "malvinas_argentinas",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6826505795918,
+            "y": -34.5029119979592
+          },
+          "direccion": "Tres Arroyos 2424, Malvinas Argentinas",
+          "nombre_calle": "Tres Arroyos",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa de Mayo",
+          "nombre_partido": "Malvinas Argentinas",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99333.63498902263,
+                  101637.21602990729
+                ],
+                [
+                  99333.16298902362,
+                  101637.99202990538
+                ],
+                [
+                  99329.08098904135,
+                  101644.70002989087
+                ],
+                [
+                  99327.53398904746,
+                  101647.24202988215
+                ],
+                [
+                  99326.9969890495,
+                  101648.12402988091
+                ],
+                [
+                  99324.89998905797,
+                  101651.57002987419
+                ],
+                [
+                  99331.50998904179,
+                  101655.79002985725
+                ],
+                [
+                  99334.1619890315,
+                  101651.54802986755
+                ],
+                [
+                  99338.74798901338,
+                  101644.21102988505
+                ],
+                [
+                  99340.87798900434,
+                  101640.80402989293
+                ],
+                [
+                  99342.57698899752,
+                  101638.08602989838
+                ],
+                [
+                  99343.44398899468,
+                  101636.7000299007
+                ],
+                [
+                  99343.95998899231,
+                  101635.87402990257
+                ],
+                [
+                  99342.59298899578,
+                  101634.99802990729
+                ],
+                [
+                  99341.19098899793,
+                  101634.0990299106
+                ],
+                [
+                  99337.119989008,
+                  101631.49002992132
+                ],
+                [
+                  99334.19898902037,
+                  101636.29002990914
+                ],
+                [
+                  99333.63498902263,
+                  101637.21602990729
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "067-086-008A",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "TRES ARROYOS 2424",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.47055692477398,
+      -34.61445285978459
+    ],
+    "direccion": "",
+    "fondo": "23.00",
+    "frente": "8.00",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "086",
+    "parcela": "008A",
+    "pdamatriz": "248133",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "067",
+    "smp": "067-086-008A",
+    "smp_anterior": "067-086-007F",
+    "smp_siguiente": "067-086-008B",
+    "srid": 4326,
+    "superficie_cubierta": "227.00",
+    "superficie_total": "184.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "067-086-008A",
+  "_http_status": 200
+}

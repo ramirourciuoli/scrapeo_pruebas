@@ -1,0 +1,445 @@
+{
+  "area_m2": 1900.40531539917,
+  "centroide_lonlat": {
+    "lat": -34.591538,
+    "lon": -58.442638
+  },
+  "centroide_xy": {
+    "x": 101895.64431558139,
+    "y": 104185.56955519933
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/fp/SECCION033/FP-033-020-011a-VD.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION033/033-020-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION033/PI-033-020-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": ""
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 250.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 1147.08741886739,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 1900.4,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "033-020-011A"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Villa Crespo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1414",
+    "codigo_postal_argentino": "C1414AQY",
+    "comisaria": "29",
+    "comisaria_vecinal": "15B",
+    "comuna": "Comuna 15",
+    "distrito_economico": "DISTRITO AUDIOVISUAL",
+    "distrito_escolar": "Distrito Escolar   IX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "33"
+  },
+  "debug": {
+    "address": "JUAN RAMIREZ DE VELASCO 1255",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.442637523929825,
+        -34.59153765145369
+      ],
+      "direccion": "",
+      "manzana": "020",
+      "parcela": "011A",
+      "seccion": "033",
+      "smp": "033-020-011A",
+      "smp_anterior": "033-020-010",
+      "smp_siguiente": "033-020-013",
+      "srid": 4326
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1255,
+      "cod_calle": 19004
+    },
+    "usig_direccion_elegida": {
+      "altura": 1255,
+      "cod_calle": 19004,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.443055",
+        "y": "-34.591520"
+      },
+      "direccion": "RAMIREZ DE VELASCO, JUAN 1255, CABA",
+      "nombre_calle": "RAMIREZ DE VELASCO, JUAN",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1255,
+          "cod_calle": 19004,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.443055",
+            "y": "-34.591520"
+          },
+          "direccion": "RAMIREZ DE VELASCO, JUAN 1255, CABA",
+          "nombre_calle": "RAMIREZ DE VELASCO, JUAN",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  101905.14698373816,
+                  104196.71302079462
+                ],
+                [
+                  101921.04998368077,
+                  104179.8150208309
+                ],
+                [
+                  101925.13098366631,
+                  104175.47902083985
+                ],
+                [
+                  101926.36698366051,
+                  104174.1650208405
+                ],
+                [
+                  101928.55798365411,
+                  104171.83702084751
+                ],
+                [
+                  101923.750983664,
+                  104167.10002086376
+                ],
+                [
+                  101919.97998367203,
+                  104163.38602087638
+                ],
+                [
+                  101916.25098367853,
+                  104159.71102089062
+                ],
+                [
+                  101910.02098369281,
+                  104153.57302091131
+                ],
+                [
+                  101903.7169837044,
+                  104147.36202093336
+                ],
+                [
+                  101900.42298371684,
+                  104151.28902092588
+                ],
+                [
+                  101898.5819837255,
+                  104153.48402092047
+                ],
+                [
+                  101895.49598373585,
+                  104157.16202091373
+                ],
+                [
+                  101894.65298373772,
+                  104158.16502091021
+                ],
+                [
+                  101892.0809837494,
+                  104161.23102090409
+                ],
+                [
+                  101891.78098374883,
+                  104161.58902090238
+                ],
+                [
+                  101889.57798375539,
+                  104164.21502089684
+                ],
+                [
+                  101892.10598375188,
+                  104166.61302088917
+                ],
+                [
+                  101892.99198374998,
+                  104167.45402088622
+                ],
+                [
+                  101894.44698374704,
+                  104168.8350208822
+                ],
+                [
+                  101895.34398374407,
+                  104169.686020878
+                ],
+                [
+                  101897.63698374074,
+                  104171.86202087015
+                ],
+                [
+                  101897.96898373953,
+                  104172.17702086855
+                ],
+                [
+                  101898.62898373828,
+                  104172.80402086471
+                ],
+                [
+                  101899.54498373659,
+                  104173.67202086322
+                ],
+                [
+                  101901.9089837308,
+                  104175.91602085513
+                ],
+                [
+                  101900.17398373864,
+                  104177.90302085152
+                ],
+                [
+                  101896.8609837498,
+                  104181.6980208433
+                ],
+                [
+                  101894.34898375891,
+                  104184.54602083558
+                ],
+                [
+                  101891.66198376783,
+                  104187.59202083005
+                ],
+                [
+                  101889.74198377493,
+                  104189.77002082477
+                ],
+                [
+                  101887.13498378557,
+                  104192.72702081976
+                ],
+                [
+                  101886.30298378915,
+                  104193.67002081679
+                ],
+                [
+                  101885.16998379036,
+                  104192.79802082057
+                ],
+                [
+                  101879.13698380582,
+                  104188.15202083846
+                ],
+                [
+                  101876.50898381023,
+                  104186.12902084604
+                ],
+                [
+                  101874.17998381644,
+                  104184.33602085322
+                ],
+                [
+                  101867.98298382963,
+                  104179.56502087062
+                ],
+                [
+                  101862.83598384823,
+                  104186.22502085505
+                ],
+                [
+                  101857.50398386893,
+                  104193.12402084182
+                ],
+                [
+                  101863.87598385519,
+                  104198.0370208229
+                ],
+                [
+                  101874.91105560784,
+                  104206.54610233323
+                ],
+                [
+                  101893.23509121066,
+                  104220.67610716267
+                ],
+                [
+                  101899.242983768,
+                  104214.49502074884
+                ],
+                [
+                  101901.7299837598,
+                  104211.93602075477
+                ],
+                [
+                  101904.44098374927,
+                  104209.14902076003
+                ],
+                [
+                  101904.65330406139,
+                  104208.93074585788
+                ],
+                [
+                  101905.2509837469,
+                  104208.31502076291
+                ],
+                [
+                  101898.86998376009,
+                  104203.38302078054
+                ],
+                [
+                  101901.96598374881,
+                  104200.09302078927
+                ],
+                [
+                  101902.70398374606,
+                  104199.30902078998
+                ],
+                [
+                  101903.41598374382,
+                  104198.55202079043
+                ],
+                [
+                  101905.14698373816,
+                  104196.71302079462
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "033-020-011A",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "JUAN RAMIREZ DE VELASCO 1255",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.442637523929825,
+      -34.59153765145369
+    ],
+    "direccion": "",
+    "manzana": "020",
+    "parcela": "011A",
+    "puertas": [],
+    "seccion": "033",
+    "smp": "033-020-011A",
+    "smp_anterior": "033-020-010",
+    "smp_siguiente": "033-020-013",
+    "srid": 4326
+  },
+  "smp": "033-020-011A",
+  "_http_status": 200
+}

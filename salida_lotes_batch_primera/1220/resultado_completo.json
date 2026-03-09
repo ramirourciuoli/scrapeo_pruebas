@@ -1,0 +1,349 @@
+{
+  "area_m2": 135.90452766418457,
+  "centroide_lonlat": {
+    "lat": -34.628351,
+    "lon": -58.389976
+  },
+  "centroide_xy": {
+    "x": 106723.99904953626,
+    "y": 100099.43434722167
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "E-CCA",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.0,
+          "fot_perim_libre": 3.0,
+          "fot_semi_libre": 3.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/95/016-020-006_0000307795.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION016/016-020-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION016/PI-016-020-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "016-020-004",
+            "016-020-005",
+            "016-020-007"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "AE 26",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 135.841150000169,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 135.9,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "016-020-006"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.M. PENNA",
+    "barrio": "Constitucion",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1134",
+    "codigo_postal_argentino": "C1134ACD",
+    "comisaria": "28",
+    "comisaria_vecinal": "1C",
+    "comuna": "Comuna 1",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   III",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "16"
+  },
+  "debug": {
+    "address": "MOMPOX 1706",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.38997622450478,
+        -34.62835063992093
+      ],
+      "direccion": "",
+      "fondo": "17.66",
+      "frente": "7.76",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "020",
+      "parcela": "006",
+      "pdamatriz": "113249",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "2",
+      "propiedad_horizontal": "Si",
+      "seccion": "016",
+      "smp": "016-020-006",
+      "smp_anterior": "016-020-005",
+      "smp_siguiente": "016-020-007",
+      "srid": 4326,
+      "superficie_cubierta": "237.00",
+      "superficie_total": "137.00",
+      "unidades_funcionales": "2",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1706,
+      "cod_calle": 13104
+    },
+    "usig_direccion_elegida": {
+      "altura": 1706,
+      "cod_calle": 13104,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.390085",
+        "y": "-34.628359"
+      },
+      "direccion": "MOMPOX 1706, CABA",
+      "nombre_calle": "MOMPOX",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1706,
+          "cod_calle": 13104,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.390085",
+            "y": "-34.628359"
+          },
+          "direccion": "MOMPOX 1706, CABA",
+          "nombre_calle": "MOMPOX",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  106714.85696716783,
+                  100102.86802865472
+                ],
+                [
+                  106720.18296715291,
+                  100103.11202864943
+                ],
+                [
+                  106721.29796714966,
+                  100103.16302864681
+                ],
+                [
+                  106727.21096713346,
+                  100103.43302864284
+                ],
+                [
+                  106728.53396712927,
+                  100103.49402864208
+                ],
+                [
+                  106730.25396712465,
+                  100103.5720286397
+                ],
+                [
+                  106732.54196711924,
+                  100103.67702863965
+                ],
+                [
+                  106732.7399671165,
+                  100100.79102864783
+                ],
+                [
+                  106732.81596711472,
+                  100099.68402865008
+                ],
+                [
+                  106732.82496711466,
+                  100099.54502864953
+                ],
+                [
+                  106733.06996711167,
+                  100095.97702865998
+                ],
+                [
+                  106730.91396711761,
+                  100095.88102866226
+                ],
+                [
+                  106729.07696712186,
+                  100095.7990286634
+                ],
+                [
+                  106728.69896712336,
+                  100095.7830286639
+                ],
+                [
+                  106727.39996712802,
+                  100095.72502866568
+                ],
+                [
+                  106725.1909671326,
+                  100095.62702866588
+                ],
+                [
+                  106723.74496713717,
+                  100095.56202866894
+                ],
+                [
+                  106720.78496714518,
+                  100095.43102866979
+                ],
+                [
+                  106715.51296716035,
+                  100095.19602867597
+                ],
+                [
+                  106715.46196716046,
+                  100095.79402867338
+                ],
+                [
+                  106714.90796716556,
+                  100102.27002865585
+                ],
+                [
+                  106714.85696716783,
+                  100102.86802865472
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "016-020-006",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MOMPOX 1706",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.38997622450478,
+      -34.62835063992093
+    ],
+    "direccion": "",
+    "fondo": "17.66",
+    "frente": "7.76",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "020",
+    "parcela": "006",
+    "pdamatriz": "113249",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "2",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "016",
+    "smp": "016-020-006",
+    "smp_anterior": "016-020-005",
+    "smp_siguiente": "016-020-007",
+    "srid": 4326,
+    "superficie_cubierta": "237.00",
+    "superficie_total": "137.00",
+    "unidades_funcionales": "2",
+    "vuc": "0.00"
+  },
+  "smp": "016-020-006",
+  "_http_status": 200
+}

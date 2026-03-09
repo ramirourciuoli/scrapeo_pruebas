@@ -1,0 +1,361 @@
+{
+  "area_m2": 155.4310817718506,
+  "centroide_lonlat": {
+    "lat": -34.625625,
+    "lon": -58.422841
+  },
+  "centroide_xy": {
+    "x": 103710.34236297854,
+    "y": 100403.5538555705
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 1,
+          "ci_digital": 0,
+          "ensanche": 1,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/03/036-052-008_0000287603.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION036/036-052-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION036/PI-036-052-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "036-052-009",
+            "036-052-007"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 100.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 155.4,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "036-052-008"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Boedo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1236",
+    "codigo_postal_argentino": "C1236ACL",
+    "comisaria": "10",
+    "comisaria_vecinal": "5B",
+    "comuna": "Comuna 5",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "36"
+  },
+  "debug": {
+    "address": "TREINTA Y TRES ORIENTALES 956",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.4228408271141,
+        -34.62562457922242
+      ],
+      "direccion": "",
+      "fondo": "17.78",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "052",
+      "parcela": "008",
+      "pdamatriz": "152932",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "036",
+      "smp": "036-052-008",
+      "smp_anterior": "036-052-007",
+      "smp_siguiente": "036-052-009",
+      "srid": 4326,
+      "superficie_cubierta": "206.00",
+      "superficie_total": "154.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 956,
+      "cod_calle": 21045
+    },
+    "usig_direccion_elegida": {
+      "altura": 956,
+      "cod_calle": 21045,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.422974",
+        "y": "-34.625646"
+      },
+      "direccion": "TREINTA Y TRES ORIENTALES 956, CABA",
+      "nombre_calle": "TREINTA Y TRES ORIENTALES",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 956,
+          "cod_calle": 21045,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.422974",
+            "y": "-34.625646"
+          },
+          "direccion": "TREINTA Y TRES ORIENTALES 956, CABA",
+          "nombre_calle": "TREINTA Y TRES ORIENTALES",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 956,
+          "cod_calle": 192452,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6902770489796,
+            "y": -34.6831552938776
+          },
+          "direccion": "Treinta y Tres Orientales 956, Merlo",
+          "nombre_calle": "Treinta y Tres Orientales",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Libertad",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  103702.36297583758,
+                  100397.60003009511
+                ],
+                [
+                  103701.67097584237,
+                  100401.10603008582
+                ],
+                [
+                  103701.57497584305,
+                  100401.59603008482
+                ],
+                [
+                  103700.96997584664,
+                  100404.66003007692
+                ],
+                [
+                  103702.29997584442,
+                  100406.58003007047
+                ],
+                [
+                  103705.84997583479,
+                  100407.22403006631
+                ],
+                [
+                  103718.3689758017,
+                  100409.4930300499
+                ],
+                [
+                  103718.8909757977,
+                  100406.28403005871
+                ],
+                [
+                  103719.20097579592,
+                  100404.38003006371
+                ],
+                [
+                  103719.36197579409,
+                  100403.3870300666
+                ],
+                [
+                  103719.41197579353,
+                  100403.08103006758
+                ],
+                [
+                  103719.76797579147,
+                  100400.89203007318
+                ],
+                [
+                  103717.99797579573,
+                  100400.55703007549
+                ],
+                [
+                  103715.18597580332,
+                  100400.02503007944
+                ],
+                [
+                  103714.1249758064,
+                  100399.82503008062
+                ],
+                [
+                  103712.68197581022,
+                  100399.55203008241
+                ],
+                [
+                  103711.60497581353,
+                  100399.3480300839
+                ],
+                [
+                  103708.90897582022,
+                  100398.83803008759
+                ],
+                [
+                  103707.75597582338,
+                  100398.62003008867
+                ],
+                [
+                  103707.43797582423,
+                  100398.56003008861
+                ],
+                [
+                  103702.36297583758,
+                  100397.60003009511
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "036-052-008",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "TREINTA Y TRES ORIENTALES 956",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.4228408271141,
+      -34.62562457922242
+    ],
+    "direccion": "",
+    "fondo": "17.78",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "052",
+    "parcela": "008",
+    "pdamatriz": "152932",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "036",
+    "smp": "036-052-008",
+    "smp_anterior": "036-052-007",
+    "smp_siguiente": "036-052-009",
+    "srid": 4326,
+    "superficie_cubierta": "206.00",
+    "superficie_total": "154.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "036-052-008",
+  "_http_status": 200
+}

@@ -1,0 +1,396 @@
+{
+  "area_m2": 229.319580078125,
+  "centroide_lonlat": {
+    "lat": -34.583496,
+    "lon": -58.489502
+  },
+  "centroide_xy": {
+    "x": 97595.89007903861,
+    "y": 105077.52946078859
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/84/051-002A-025a_0000098784.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION051/051-002A-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION051/PI-051-002A-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "051-002A-026a",
+            "051-002A-010b",
+            "051-002A-024"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 280.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 229.3,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "051-002A-025A"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. E. TORNÚ",
+    "barrio": "Villa Urquiza",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1431",
+    "codigo_postal_argentino": "C1431CNA",
+    "comisaria": "39",
+    "comisaria_vecinal": "12C",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "51"
+  },
+  "debug": {
+    "address": "ECHEVERRIA 5869",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.48950221047678,
+        -34.58349624083025
+      ],
+      "direccion": "",
+      "fondo": "26.44",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "002A",
+      "parcela": "025A",
+      "pdamatriz": "372075",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "051",
+      "smp": "051-002A-025A",
+      "smp_anterior": "051-002A-024",
+      "smp_siguiente": "051-002A-026A",
+      "srid": 4326,
+      "superficie_cubierta": "230.00",
+      "superficie_total": "229.00",
+      "unidades_funcionales": "3",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 5869,
+      "cod_calle": 5007
+    },
+    "usig_direccion_elegida": {
+      "altura": 5869,
+      "cod_calle": 5007,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.489393",
+        "y": "-34.583628"
+      },
+      "direccion": "ECHEVERRIA 5869, CABA",
+      "nombre_calle": "ECHEVERRIA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 5869,
+          "cod_calle": 5007,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.489393",
+            "y": "-34.583628"
+          },
+          "direccion": "ECHEVERRIA 5869, CABA",
+          "nombre_calle": "ECHEVERRIA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 5869,
+          "cod_calle": 203145,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.587612762931,
+            "y": -34.7468075803893
+          },
+          "direccion": "Esteban Echeverría 5869, La Matanza",
+          "nombre_calle": "Esteban Echeverría",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Gregorio de Laferrere",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 5869,
+          "cod_calle": 149679,
+          "cod_calle_cruce": null,
+          "cod_partido": "moreno",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7908439,
+            "y": -34.6141080333333
+          },
+          "direccion": "Esteban Echeverría 5869, Moreno",
+          "nombre_calle": "Esteban Echeverría",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Moreno",
+          "nombre_partido": "Moreno",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 5869,
+          "cod_calle": 36151,
+          "cod_calle_cruce": null,
+          "cod_partido": "tres_de_febrero",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5744719142857,
+            "y": -34.5842810234694
+          },
+          "direccion": "804 - Esteban Echeverría 5869, Tres de Febrero",
+          "nombre_calle": "804 - Esteban Echeverría",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Bosch",
+          "nombre_partido": "Tres de Febrero",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97596.40699648837,
+                  105084.23002154886
+                ],
+                [
+                  97597.90499648315,
+                  105082.09002155316
+                ],
+                [
+                  97604.1279964583,
+                  105073.20202157315
+                ],
+                [
+                  97607.06999644767,
+                  105069.00002158317
+                ],
+                [
+                  97605.8509964499,
+                  105068.16102158671
+                ],
+                [
+                  97599.93799646376,
+                  105064.09002160211
+                ],
+                [
+                  97597.5469964732,
+                  105067.57002159461
+                ],
+                [
+                  97597.4089964735,
+                  105067.7720215937
+                ],
+                [
+                  97596.74299647589,
+                  105068.741021592
+                ],
+                [
+                  97596.53099647736,
+                  105069.05002159072
+                ],
+                [
+                  97591.21999649738,
+                  105076.78102157364
+                ],
+                [
+                  97589.91099650307,
+                  105078.68802156896
+                ],
+                [
+                  97587.01199651415,
+                  105082.9070215589
+                ],
+                [
+                  97584.7729965228,
+                  105086.16702155213
+                ],
+                [
+                  97588.34499651444,
+                  105088.7180215423
+                ],
+                [
+                  97591.50199650785,
+                  105090.97202153326
+                ],
+                [
+                  97591.62499650726,
+                  105091.06002153244
+                ],
+                [
+                  97593.87299649819,
+                  105087.84902154055
+                ],
+                [
+                  97594.75999649487,
+                  105086.58202154352
+                ],
+                [
+                  97595.06199649387,
+                  105086.15002154445
+                ],
+                [
+                  97596.40699648837,
+                  105084.23002154886
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "051-002A-025A",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ECHEVERRIA 5869",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.48950221047678,
+      -34.58349624083025
+    ],
+    "direccion": "",
+    "fondo": "26.44",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "002A",
+    "parcela": "025A",
+    "pdamatriz": "372075",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "051",
+    "smp": "051-002A-025A",
+    "smp_anterior": "051-002A-024",
+    "smp_siguiente": "051-002A-026A",
+    "srid": 4326,
+    "superficie_cubierta": "230.00",
+    "superficie_total": "229.00",
+    "unidades_funcionales": "3",
+    "vuc": "0.00"
+  },
+  "smp": "051-002A-025A",
+  "_http_status": 200
+}

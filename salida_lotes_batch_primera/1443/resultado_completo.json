@@ -1,0 +1,334 @@
+{
+  "area_m2": 185.77515602111816,
+  "centroide_lonlat": {
+    "lat": -34.571477,
+    "lon": -58.473029
+  },
+  "centroide_xy": {
+    "x": 99107.20578445402,
+    "y": 106411.15628117278
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 11.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "U",
+            "distrito_especifico": "U 28"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.0,
+          "fot_perim_libre": 1.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/1/09/051-117-020_0000100109.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION051/051-117-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/51/051-117_PI_00006251.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "051-117-019b",
+            "051-117-018",
+            "051-117-017",
+            "051-117-021"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "U28",
+          "incidencia_uva": 430.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 11517.42
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 95.6595942332385,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 185.8,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "051-117-020"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Villa Urquiza",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1430",
+    "codigo_postal_argentino": "C1430BSO",
+    "comisaria": "37",
+    "comisaria_vecinal": "12C",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "51"
+  },
+  "debug": {
+    "address": "JURAMENTO 4075",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.47302909690237,
+        -34.571477012482625
+      ],
+      "direccion": "",
+      "fondo": "21.59",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "117",
+      "parcela": "020",
+      "pdamatriz": "343834",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "051",
+      "smp": "051-117-020",
+      "smp_anterior": "051-117-019B",
+      "smp_siguiente": "051-117-021",
+      "srid": 4326,
+      "superficie_cubierta": "229.00",
+      "superficie_total": "187.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4075,
+      "cod_calle": 10017
+    },
+    "usig_direccion_elegida": {
+      "altura": 4075,
+      "cod_calle": 10017,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.472932",
+        "y": "-34.571589"
+      },
+      "direccion": "JURAMENTO 4075, CABA",
+      "nombre_calle": "JURAMENTO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4075,
+          "cod_calle": 10017,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.472932",
+            "y": "-34.571589"
+          },
+          "direccion": "JURAMENTO 4075, CABA",
+          "nombre_calle": "JURAMENTO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99114.80899322726,
+                  106407.92801669368
+                ],
+                [
+                  99116.9769932185,
+                  106404.89001669991
+                ],
+                [
+                  99109.9529932342,
+                  106399.89001671923
+                ],
+                [
+                  99108.1469932413,
+                  106402.42001671376
+                ],
+                [
+                  99105.11899325304,
+                  106406.66201670375
+                ],
+                [
+                  99104.22299325682,
+                  106407.9170167018
+                ],
+                [
+                  99102.50799326359,
+                  106410.3200166962
+                ],
+                [
+                  99100.74199326962,
+                  106412.79601669038
+                ],
+                [
+                  99099.2819932753,
+                  106414.84101668568
+                ],
+                [
+                  99097.41399328274,
+                  106417.46001667969
+                ],
+                [
+                  99098.21399328075,
+                  106418.01701667765
+                ],
+                [
+                  99099.89299327735,
+                  106419.18701667298
+                ],
+                [
+                  99104.49199326632,
+                  106422.39001666024
+                ],
+                [
+                  99107.18399325667,
+                  106418.61701666875
+                ],
+                [
+                  99108.91699325001,
+                  106416.18701667464
+                ],
+                [
+                  99112.8549932349,
+                  106410.66801668677
+                ],
+                [
+                  99113.00499323376,
+                  106410.45801668728
+                ],
+                [
+                  99114.80899322726,
+                  106407.92801669368
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "051-117-020",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "JURAMENTO 4075",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.47302909690237,
+      -34.571477012482625
+    ],
+    "direccion": "",
+    "fondo": "21.59",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "117",
+    "parcela": "020",
+    "pdamatriz": "343834",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "051",
+    "smp": "051-117-020",
+    "smp_anterior": "051-117-019B",
+    "smp_siguiente": "051-117-021",
+    "srid": 4326,
+    "superficie_cubierta": "229.00",
+    "superficie_total": "187.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "051-117-020",
+  "_http_status": 200
+}

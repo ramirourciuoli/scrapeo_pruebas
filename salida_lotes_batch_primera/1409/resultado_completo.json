@@ -1,0 +1,353 @@
+{
+  "area_m2": 326.8799657821655,
+  "centroide_lonlat": {
+    "lat": -34.597058,
+    "lon": -58.5046
+  },
+  "centroide_xy": {
+    "x": 96211.22316777552,
+    "y": 103572.63424962168
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.0,
+          "fot_perim_libre": 1.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/1/10/083-188-026_0000473110.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION083/083-188-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION083/PI-083-188-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "083-188-025",
+            "083-188-027a"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R1b I",
+          "incidencia_uva": 340.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 24005.03
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 326.865849999995,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 326.9,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "083-188-026"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. A. ZUBIZARRETA",
+    "barrio": "Villa Devoto",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1419",
+    "codigo_postal_argentino": "C1419HGF",
+    "comisaria": "45",
+    "comisaria_vecinal": "11B",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "83"
+  },
+  "debug": {
+    "address": "ASUNCION 3494",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.50460030578765,
+        -34.59705755421827
+      ],
+      "direccion": "",
+      "fondo": "19.21",
+      "frente": "17.44",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "188",
+      "parcela": "026",
+      "pdamatriz": "269758",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "9",
+      "propiedad_horizontal": "Si",
+      "seccion": "083",
+      "smp": "083-188-026",
+      "smp_anterior": "083-188-025",
+      "smp_siguiente": "083-188-027A",
+      "srid": 4326,
+      "superficie_cubierta": "2254.00",
+      "superficie_total": "335.00",
+      "unidades_funcionales": "41",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3494,
+      "cod_calle": 1131
+    },
+    "usig_direccion_elegida": {
+      "altura": 3494,
+      "cod_calle": 1131,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.504701",
+        "y": "-34.596949"
+      },
+      "direccion": "ASUNCION 3494, CABA",
+      "nombre_calle": "ASUNCION",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3494,
+          "cod_calle": 1131,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.504701",
+            "y": "-34.596949"
+          },
+          "direccion": "ASUNCION 3494, CABA",
+          "nombre_calle": "ASUNCION",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3494,
+          "cod_calle": 28887,
+          "cod_calle_cruce": null,
+          "cod_partido": "tres_de_febrero",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5478086734694,
+            "y": -34.6205940367347
+          },
+          "direccion": "277 - Asunción 3494, Tres de Febrero",
+          "nombre_calle": "277 - Asunción",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ciudadela",
+          "nombre_partido": "Tres de Febrero",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96207.56199925399,
+                  103583.67002680188
+                ],
+                [
+                  96210.71099924712,
+                  103586.02002679257
+                ],
+                [
+                  96214.14099923373,
+                  103581.42002680321
+                ],
+                [
+                  96219.77599921206,
+                  103573.86302682018
+                ],
+                [
+                  96220.37499921015,
+                  103573.06002682168
+                ],
+                [
+                  96221.87099920471,
+                  103571.05302682688
+                ],
+                [
+                  96223.64099919751,
+                  103568.6800268316
+                ],
+                [
+                  96217.99999921035,
+                  103564.50002684785
+                ],
+                [
+                  96215.1939992168,
+                  103562.42102685591
+                ],
+                [
+                  96211.21099922573,
+                  103559.47002686682
+                ],
+                [
+                  96209.18499923288,
+                  103562.15802686088
+                ],
+                [
+                  96208.90199923415,
+                  103562.53302686007
+                ],
+                [
+                  96205.44699924723,
+                  103567.11702684959
+                ],
+                [
+                  96201.53499926259,
+                  103572.30802683855
+                ],
+                [
+                  96200.74199926504,
+                  103573.36002683634
+                ],
+                [
+                  96201.4919992673,
+                  103579.1400268189
+                ],
+                [
+                  96205.05999925926,
+                  103581.80302680939
+                ],
+                [
+                  96207.35999925483,
+                  103583.51902680285
+                ],
+                [
+                  96207.56199925399,
+                  103583.67002680188
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "083-188-026",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ASUNCION 3494",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.50460030578765,
+      -34.59705755421827
+    ],
+    "direccion": "",
+    "fondo": "19.21",
+    "frente": "17.44",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "188",
+    "parcela": "026",
+    "pdamatriz": "269758",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "9",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "083",
+    "smp": "083-188-026",
+    "smp_anterior": "083-188-025",
+    "smp_siguiente": "083-188-027A",
+    "srid": 4326,
+    "superficie_cubierta": "2254.00",
+    "superficie_total": "335.00",
+    "unidades_funcionales": "41",
+    "vuc": "0.00"
+  },
+  "smp": "083-188-026",
+  "_http_status": 200
+}

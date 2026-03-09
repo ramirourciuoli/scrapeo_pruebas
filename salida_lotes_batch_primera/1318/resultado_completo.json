@@ -1,0 +1,345 @@
+{
+  "area_m2": 232.09130096435547,
+  "centroide_lonlat": {
+    "lat": -34.622981,
+    "lon": -58.506616
+  },
+  "centroide_xy": {
+    "x": 96027.52809206746,
+    "y": 100696.73781967134
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 2.5,
+          "fot_perim_libre": 2.5,
+          "fot_semi_libre": 2.5
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/70/085-038A-024_0000190670.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION085/085-038A-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION085/PI-085-038A-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "085-038A-025a",
+            "085-038A-018",
+            "085-038A-023"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "AE 26",
+          "incidencia_uva": 150.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 201.938644835603,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 232.1,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "085-038A-024"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Monte Castro",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1407",
+    "codigo_postal_argentino": "C1407CMD",
+    "comisaria": "43",
+    "comisaria_vecinal": "10A",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "85"
+  },
+  "debug": {
+    "address": "RENQUE CURA 1722",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.506616169953816,
+        -34.62298078543023
+      ],
+      "direccion": "",
+      "fondo": "29.52",
+      "frente": "7.79",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "038A",
+      "parcela": "024",
+      "pdamatriz": "282806",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "085",
+      "smp": "085-038A-024",
+      "smp_anterior": "085-038A-023",
+      "smp_siguiente": "085-038A-025A",
+      "srid": 4326,
+      "superficie_cubierta": "130.00",
+      "superficie_total": "230.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1722,
+      "cod_calle": 19023
+    },
+    "usig_direccion_elegida": {
+      "altura": 1722,
+      "cod_calle": 19023,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.506506",
+        "y": "-34.622856"
+      },
+      "direccion": "RENQUE CURA 1722, CABA",
+      "nombre_calle": "RENQUE CURA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1722,
+          "cod_calle": 19023,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.506506",
+            "y": "-34.622856"
+          },
+          "direccion": "RENQUE CURA 1722, CABA",
+          "nombre_calle": "RENQUE CURA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96034.42299757671,
+                  100710.35503499125
+                ],
+                [
+                  96035.94499757185,
+                  100708.95703499328
+                ],
+                [
+                  96036.50399756928,
+                  100708.44403499397
+                ],
+                [
+                  96040.2849975561,
+                  100704.97003500047
+                ],
+                [
+                  96036.56599756323,
+                  100700.86003501518
+                ],
+                [
+                  96030.89999757537,
+                  100694.60003503572
+                ],
+                [
+                  96029.50399757715,
+                  100693.05703504375
+                ],
+                [
+                  96027.56899758165,
+                  100690.92003505048
+                ],
+                [
+                  96026.36199758372,
+                  100689.58603505365
+                ],
+                [
+                  96020.50599759514,
+                  100683.11503507625
+                ],
+                [
+                  96015.71399761224,
+                  100687.45603506867
+                ],
+                [
+                  96014.74499761534,
+                  100688.33403506497
+                ],
+                [
+                  96015.8779976123,
+                  100689.60103506313
+                ],
+                [
+                  96020.3399976049,
+                  100694.59503504483
+                ],
+                [
+                  96021.74299760195,
+                  100696.16503503887
+                ],
+                [
+                  96022.75799760057,
+                  100697.30103503578
+                ],
+                [
+                  96024.79099759563,
+                  100699.57603502774
+                ],
+                [
+                  96025.06599759537,
+                  100699.8840350261
+                ],
+                [
+                  96030.67599758379,
+                  100706.16103500495
+                ],
+                [
+                  96030.90999758353,
+                  100706.42403500434
+                ],
+                [
+                  96034.42299757671,
+                  100710.35503499125
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "085-038A-024",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "RENQUE CURA 1722",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.506616169953816,
+      -34.62298078543023
+    ],
+    "direccion": "",
+    "fondo": "29.52",
+    "frente": "7.79",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "038A",
+    "parcela": "024",
+    "pdamatriz": "282806",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "085",
+    "smp": "085-038A-024",
+    "smp_anterior": "085-038A-023",
+    "smp_siguiente": "085-038A-025A",
+    "srid": 4326,
+    "superficie_cubierta": "130.00",
+    "superficie_total": "230.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "085-038A-024",
+  "_http_status": 200
+}

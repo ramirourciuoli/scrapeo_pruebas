@@ -1,0 +1,344 @@
+{
+  "area_m2": 190.52480125427246,
+  "centroide_lonlat": {
+    "lat": -34.61966,
+    "lon": -58.520955
+  },
+  "centroide_xy": {
+    "x": 94712.33394458986,
+    "y": 101064.43696506273
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/9/75/093-174A-011_0000380975.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION093/093-174A-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION093/PI-093-174A-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "093-174A-012",
+            "093-174A-010"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "AE 26",
+          "incidencia_uva": 180.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 190.5,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "093-174A-011"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Villa Real",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1408",
+    "codigo_postal_argentino": "C1408BDC",
+    "comisaria": "44",
+    "comisaria_vecinal": "10B",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "93"
+  },
+  "debug": {
+    "address": "NAZARRE 5441",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.52095485740384,
+        -34.619660338191636
+      ],
+      "direccion": "",
+      "fondo": "10.15",
+      "frente": "18.72",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "174A",
+      "parcela": "011",
+      "pdamatriz": "302898",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "093",
+      "smp": "093-174A-011",
+      "smp_anterior": "093-174A-010",
+      "smp_siguiente": "093-174A-012",
+      "srid": 4326,
+      "superficie_cubierta": "121.00",
+      "superficie_total": "190.00",
+      "unidades_funcionales": "2",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 5441,
+      "cod_calle": 14011
+    },
+    "usig_direccion_elegida": {
+      "altura": 5441,
+      "cod_calle": 14011,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.520789",
+        "y": "-34.619731"
+      },
+      "direccion": "NAZARRE 5441, CABA",
+      "nombre_calle": "NAZARRE",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 5441,
+          "cod_calle": 14011,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.520789",
+            "y": "-34.619731"
+          },
+          "direccion": "NAZARRE 5441, CABA",
+          "nombre_calle": "NAZARRE",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  94709.10800156624,
+                  101072.63303497212
+                ],
+                [
+                  94712.07900155592,
+                  101070.1210349768
+                ],
+                [
+                  94713.22400155244,
+                  101069.15303497828
+                ],
+                [
+                  94713.69900155047,
+                  101068.7520349795
+                ],
+                [
+                  94714.28300154826,
+                  101068.25903497971
+                ],
+                [
+                  94717.09900153914,
+                  101065.87803498426
+                ],
+                [
+                  94720.39800152741,
+                  101063.08903498965
+                ],
+                [
+                  94720.84100152589,
+                  101062.7150349906
+                ],
+                [
+                  94724.2240015146,
+                  101059.85503499664
+                ],
+                [
+                  94721.33000151985,
+                  101056.49003500806
+                ],
+                [
+                  94715.230001537,
+                  101056.05003501347
+                ],
+                [
+                  94714.72000153805,
+                  101056.48803501265
+                ],
+                [
+                  94710.23100155349,
+                  101060.35003500493
+                ],
+                [
+                  94708.10100156095,
+                  101062.18203500178
+                ],
+                [
+                  94704.0990015754,
+                  101065.62403499495
+                ],
+                [
+                  94702.98100157853,
+                  101066.58503499327
+                ],
+                [
+                  94701.03800158527,
+                  101068.2570349903
+                ],
+                [
+                  94703.84100158021,
+                  101071.59103497866
+                ],
+                [
+                  94706.54200157542,
+                  101074.80203496772
+                ],
+                [
+                  94708.57300156793,
+                  101073.08503497089
+                ],
+                [
+                  94709.10800156624,
+                  101072.63303497212
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "093-174A-011",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "NAZARRE 5441",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.52095485740384,
+      -34.619660338191636
+    ],
+    "direccion": "",
+    "fondo": "10.15",
+    "frente": "18.72",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "174A",
+    "parcela": "011",
+    "pdamatriz": "302898",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "093",
+    "smp": "093-174A-011",
+    "smp_anterior": "093-174A-010",
+    "smp_siguiente": "093-174A-012",
+    "srid": 4326,
+    "superficie_cubierta": "121.00",
+    "superficie_total": "190.00",
+    "unidades_funcionales": "2",
+    "vuc": "0.00"
+  },
+  "smp": "093-174A-011",
+  "_http_status": 200
+}

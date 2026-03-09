@@ -1,0 +1,325 @@
+{
+  "area_m2": 239.9206199645996,
+  "centroide_lonlat": {
+    "lat": -34.634705,
+    "lon": -58.492245
+  },
+  "centroide_xy": {
+    "x": 97345.82137193036,
+    "y": 99396.60355089967
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/40/077-035B-009_0000169040.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION077/077-035B-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION077/PI-077-035B-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "077-035B-008",
+            "077-035B-010"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 50.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 239.9,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "077-035B-009"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Velez Sarsfield",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1407",
+    "codigo_postal_argentino": "C1407BBA",
+    "comisaria": "43",
+    "comisaria_vecinal": "10A",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "77"
+  },
+  "debug": {
+    "address": "CARDOSO 129",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.49224545587343,
+        -34.63470468414647
+      ],
+      "direccion": "",
+      "fondo": "28.29",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "035B",
+      "parcela": "009",
+      "pdamatriz": "5444",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "0",
+      "propiedad_horizontal": "No",
+      "seccion": "077",
+      "smp": "077-035B-009",
+      "smp_anterior": "077-035B-008",
+      "smp_siguiente": "077-035B-010",
+      "srid": 4326,
+      "superficie_cubierta": "0.00",
+      "superficie_total": "245.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 129,
+      "cod_calle": 3070
+    },
+    "usig_direccion_elegida": {
+      "altura": 129,
+      "cod_calle": 3070,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.492428",
+        "y": "-34.634764"
+      },
+      "direccion": "CARDOSO 129, CABA",
+      "nombre_calle": "CARDOSO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 129,
+          "cod_calle": 3070,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.492428",
+            "y": "-34.634764"
+          },
+          "direccion": "CARDOSO 129, CABA",
+          "nombre_calle": "CARDOSO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 129,
+          "cod_calle": 17344,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4300083010204,
+            "y": -34.7579982357143
+          },
+          "direccion": "Cardoso 129, Lomas de Zamora",
+          "nombre_calle": "Cardoso",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lomas de Zamora",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97359.04099287804,
+                  99403.07603766018
+                ],
+                [
+                  97359.06799287807,
+                  99402.93003765866
+                ],
+                [
+                  97360.5949928674,
+                  99394.87303768215
+                ],
+                [
+                  97332.82199294165,
+                  99390.01003771514
+                ],
+                [
+                  97331.1679929521,
+                  99398.5100376923
+                ],
+                [
+                  97336.55399293803,
+                  99399.3920376852
+                ],
+                [
+                  97337.7379929349,
+                  99399.58603768298
+                ],
+                [
+                  97345.99399291349,
+                  99400.9390376746
+                ],
+                [
+                  97349.80799290272,
+                  99401.563037668
+                ],
+                [
+                  97351.86399289755,
+                  99401.9000376685
+                ],
+                [
+                  97353.0159928947,
+                  99402.08903766537
+                ],
+                [
+                  97359.04099287804,
+                  99403.07603766018
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "077-035B-009",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CARDOSO 129",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.49224545587343,
+      -34.63470468414647
+    ],
+    "direccion": "",
+    "fondo": "28.29",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "035B",
+    "parcela": "009",
+    "pdamatriz": "5444",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "0",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "077",
+    "smp": "077-035B-009",
+    "smp_anterior": "077-035B-008",
+    "smp_siguiente": "077-035B-010",
+    "srid": 4326,
+    "superficie_cubierta": "0.00",
+    "superficie_total": "245.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "077-035B-009",
+  "_http_status": 200
+}

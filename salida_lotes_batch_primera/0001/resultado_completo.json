@@ -1,0 +1,549 @@
+{
+  "area_m2": 195.82805633544922,
+  "centroide_lonlat": {
+    "lat": -34.599203,
+    "lon": -58.381023
+  },
+  "centroide_xy": {
+    "x": 107547.62883465974,
+    "y": 103332.37356444853
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          38.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 45.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 27"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 5.0,
+          "fot_perim_libre": 7.0,
+          "fot_semi_libre": 5.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/26/005-074-013a_0000456026.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION005/005-074-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION005/PI-005-074-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "005-074-014",
+            "005-074-011"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "C1",
+          "incidencia_uva": 100.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 195.767650000094,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 195.8,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          38.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "005-074-013A"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. J.M. RAMOS MEJÍA",
+    "barrio": "San Nicolas",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1054",
+    "codigo_postal_argentino": "C1054AAV",
+    "comisaria": "3",
+    "comisaria_vecinal": "1A",
+    "comuna": "Comuna 1",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   I",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "05"
+  },
+  "debug": {
+    "address": "AV. CORDOBA 1000",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.38102348399995,
+        -34.599202566944555
+      ],
+      "direccion": "",
+      "fondo": "14.63",
+      "frente": "13.40",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "074",
+      "parcela": "013A",
+      "pdamatriz": "221439",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "11",
+      "propiedad_horizontal": "Si",
+      "seccion": "005",
+      "smp": "005-074-013A",
+      "smp_anterior": "005-074-011",
+      "smp_siguiente": "005-074-014",
+      "srid": 4326,
+      "superficie_cubierta": "2367.00",
+      "superficie_total": "196.00",
+      "unidades_funcionales": "11",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1000,
+      "cod_calle": 3165
+    },
+    "usig_direccion_elegida": {
+      "altura": 1000,
+      "cod_calle": 3165,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.382330",
+        "y": "-34.599162"
+      },
+      "direccion": "CORDOBA AV. 1000, CABA",
+      "nombre_calle": "CORDOBA AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1000,
+          "cod_calle": 3165,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.382330",
+            "y": "-34.599162"
+          },
+          "direccion": "CORDOBA AV. 1000, CABA",
+          "nombre_calle": "CORDOBA AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1000,
+          "cod_calle": 113131,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3551514,
+            "y": -34.7830045
+          },
+          "direccion": "Provincia de Córdoba 1000, Almirante Brown",
+          "nombre_calle": "Provincia de Córdoba",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "José Mármol",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1000,
+          "cod_calle": 118543,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3656696,
+            "y": -34.8366551
+          },
+          "direccion": "Rufino Córdoba 1000, Almirante Brown",
+          "nombre_calle": "Rufino Córdoba",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ministro Rivadavia",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1000,
+          "cod_calle": 237588,
+          "cod_calle_cruce": null,
+          "cod_partido": "avellaneda",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3572859,
+            "y": -34.687557
+          },
+          "direccion": "Córdoba 1000, Avellaneda",
+          "nombre_calle": "Córdoba",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Gerli",
+          "nombre_partido": "Avellaneda",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1000,
+          "cod_calle": 277223,
+          "cod_calle_cruce": null,
+          "cod_partido": "esteban_echeverria",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4453231,
+            "y": -34.8230645
+          },
+          "direccion": "Córdoba 1000, Esteban Echeverría",
+          "nombre_calle": "Córdoba",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Monte Grande",
+          "nombre_partido": "Esteban Echeverría",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1000,
+          "cod_calle": 277236,
+          "cod_calle_cruce": null,
+          "cod_partido": "esteban_echeverria",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4453231,
+            "y": -34.8230645
+          },
+          "direccion": "Córdoba 1000, Esteban Echeverría",
+          "nombre_calle": "Córdoba",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Luis Guillón",
+          "nombre_partido": "Esteban Echeverría",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1000,
+          "cod_calle": 85781,
+          "cod_calle_cruce": null,
+          "cod_partido": "ezeiza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5819564,
+            "y": -34.9067087
+          },
+          "direccion": "Córdoba 1000, Ezeiza",
+          "nombre_calle": "Córdoba",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Carlos Spegazzini",
+          "nombre_partido": "Ezeiza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1000,
+          "cod_calle": 91561,
+          "cod_calle_cruce": null,
+          "cod_partido": "ezeiza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5130243,
+            "y": -34.8434279
+          },
+          "direccion": "Provincia de Córdoba 1000, Ezeiza",
+          "nombre_calle": "Provincia de Córdoba",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ezeiza",
+          "nombre_partido": "Ezeiza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1000,
+          "cod_calle": 226167,
+          "cod_calle_cruce": null,
+          "cod_partido": "general_las_heras",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.9406437,
+            "y": -34.9315054
+          },
+          "direccion": "Córdoba 1000, General Las Heras",
+          "nombre_calle": "Córdoba",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "General Las Heras",
+          "nombre_partido": "General Las Heras",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1000,
+          "cod_calle": 33209,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3764363,
+            "y": -34.7039761
+          },
+          "direccion": "Córdoba 1000, Lanús",
+          "nombre_calle": "Córdoba",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lanús Este",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  107554.80296724412,
+                  103333.27501896353
+                ],
+                [
+                  107555.0049672395,
+                  103329.24701897337
+                ],
+                [
+                  107555.02896723976,
+                  103328.78001897593
+                ],
+                [
+                  107555.11536723748,
+                  103327.05421898034
+                ],
+                [
+                  107555.16996723681,
+                  103325.96401898103
+                ],
+                [
+                  107552.76896724378,
+                  103325.91901898527
+                ],
+                [
+                  107551.6189672468,
+                  103325.8970189857
+                ],
+                [
+                  107551.18036724787,
+                  103325.88891898573
+                ],
+                [
+                  107550.96796724899,
+                  103325.88501898712
+                ],
+                [
+                  107550.40596725061,
+                  103325.87401898514
+                ],
+                [
+                  107549.01496725409,
+                  103325.84801898873
+                ],
+                [
+                  107547.80596725731,
+                  103325.8250189889
+                ],
+                [
+                  107542.7077672715,
+                  103325.72841899411
+                ],
+                [
+                  107541.41896727541,
+                  103325.70401899429
+                ],
+                [
+                  107540.0759672798,
+                  103325.67901899462
+                ],
+                [
+                  107539.9029672829,
+                  103329.25501898467
+                ],
+                [
+                  107539.83096728436,
+                  103330.75301898012
+                ],
+                [
+                  107539.75896728507,
+                  103332.25101897633
+                ],
+                [
+                  107539.63796728796,
+                  103334.74801896967
+                ],
+                [
+                  107541.08096728433,
+                  103336.35201896538
+                ],
+                [
+                  107542.24196728136,
+                  103337.64201895925
+                ],
+                [
+                  107543.67796727974,
+                  103339.2380189537
+                ],
+                [
+                  107543.99096727851,
+                  103339.25301895294
+                ],
+                [
+                  107545.98896727322,
+                  103339.35101895148
+                ],
+                [
+                  107548.67296726591,
+                  103339.48201895083
+                ],
+                [
+                  107550.48296726102,
+                  103339.57101895
+                ],
+                [
+                  107551.48096725746,
+                  103339.62001894816
+                ],
+                [
+                  107551.97996725688,
+                  103339.64401894744
+                ],
+                [
+                  107553.97796725125,
+                  103339.74201894464
+                ],
+                [
+                  107554.47696724893,
+                  103339.76601894462
+                ],
+                [
+                  107554.56496724799,
+                  103338.01601894977
+                ],
+                [
+                  107554.67346724594,
+                  103335.855018956
+                ],
+                [
+                  107554.77796724392,
+                  103333.7740189626
+                ],
+                [
+                  107554.80296724412,
+                  103333.27501896353
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "005-074-013A",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AV. CORDOBA 1000",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.38102348399995,
+      -34.599202566944555
+    ],
+    "direccion": "",
+    "fondo": "14.63",
+    "frente": "13.40",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "074",
+    "parcela": "013A",
+    "pdamatriz": "221439",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "11",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "005",
+    "smp": "005-074-013A",
+    "smp_anterior": "005-074-011",
+    "smp_siguiente": "005-074-014",
+    "srid": 4326,
+    "superficie_cubierta": "2367.00",
+    "superficie_total": "196.00",
+    "unidades_funcionales": "11",
+    "vuc": "0.00"
+  },
+  "smp": "005-074-013A",
+  "_http_status": 200
+}

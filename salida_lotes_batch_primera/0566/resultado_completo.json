@@ -1,0 +1,304 @@
+{
+  "area_m2": 148.63710403442383,
+  "centroide_lonlat": {
+    "lat": -34.620079,
+    "lon": -58.39182
+  },
+  "centroide_xy": {
+    "x": 106555.61503571965,
+    "y": 101017.20033001128
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          38.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 45.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "PEV",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 4.0,
+          "fot_perim_libre": 4.0,
+          "fot_semi_libre": 4.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/00/022-068-037_0000307500.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION022/022-068-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION022/PI-022-068-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "022-068-036",
+            "022-068-038a"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "C3 I",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 148.627550000228,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 148.6,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          38.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "022-068-037"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. J.M. RAMOS MEJÍA",
+    "barrio": "San Cristobal",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1230",
+    "codigo_postal_argentino": "C1230AAA",
+    "comisaria": "18",
+    "comisaria_vecinal": "3B",
+    "comuna": "Comuna 3",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   III",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "22"
+  },
+  "debug": {
+    "address": "CARLOS CALVO 1805",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.391819516082016,
+        -34.6200788260222
+      ],
+      "direccion": "",
+      "fondo": "1.89",
+      "frente": "76.35",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "068",
+      "parcela": "037",
+      "pdamatriz": "180079",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "022",
+      "smp": "022-068-037",
+      "smp_anterior": "022-068-036",
+      "smp_siguiente": "022-068-038A",
+      "srid": 4326,
+      "superficie_cubierta": "398.00",
+      "superficie_total": "145.00",
+      "unidades_funcionales": "6",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1805,
+      "cod_calle": 3028
+    },
+    "usig_direccion_elegida": {
+      "altura": 1805,
+      "cod_calle": 3028,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.391843",
+        "y": "-34.620197"
+      },
+      "direccion": "CALVO, CARLOS 1805, CABA",
+      "nombre_calle": "CALVO, CARLOS",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1805,
+          "cod_calle": 3028,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.391843",
+            "y": "-34.620197"
+          },
+          "direccion": "CALVO, CARLOS 1805, CABA",
+          "nombre_calle": "CALVO, CARLOS",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  106556.50796830747,
+                  101026.6620261826
+                ],
+                [
+                  106559.27796829937,
+                  101026.79002618065
+                ],
+                [
+                  106559.84996828513,
+                  101010.42002622603
+                ],
+                [
+                  106556.55996829152,
+                  101006.72002623865
+                ],
+                [
+                  106555.83996829377,
+                  101006.6650262397
+                ],
+                [
+                  106552.7049683026,
+                  101006.4270262428
+                ],
+                [
+                  106552.58896830362,
+                  101007.84002623861
+                ],
+                [
+                  106551.993968311,
+                  101015.09702621892
+                ],
+                [
+                  106551.42696831797,
+                  101022.01202620004
+                ],
+                [
+                  106551.06596832181,
+                  101026.4110261882
+                ],
+                [
+                  106556.50796830747,
+                  101026.6620261826
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "022-068-037",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CARLOS CALVO 1805",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.391819516082016,
+      -34.6200788260222
+    ],
+    "direccion": "",
+    "fondo": "1.89",
+    "frente": "76.35",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "068",
+    "parcela": "037",
+    "pdamatriz": "180079",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "022",
+    "smp": "022-068-037",
+    "smp_anterior": "022-068-036",
+    "smp_siguiente": "022-068-038A",
+    "srid": 4326,
+    "superficie_cubierta": "398.00",
+    "superficie_total": "145.00",
+    "unidades_funcionales": "6",
+    "vuc": "0.00"
+  },
+  "smp": "022-068-037",
+  "_http_status": 200
+}

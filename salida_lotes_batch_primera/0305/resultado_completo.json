@@ -1,0 +1,521 @@
+{
+  "area_m2": 322.9586582183838,
+  "centroide_lonlat": {
+    "lat": -34.627533,
+    "lon": -58.490837
+  },
+  "centroide_xy": {
+    "x": 97474.7280803547,
+    "y": 100192.22641524767
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 1,
+          "lep": 1,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 0.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/9/92/085-100-023_0000192992.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION085/085-100-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION085/PI-085-100-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "085-100-019",
+            "085-100-024",
+            "085-100-022",
+            "085-100-018"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "C3 II",
+          "incidencia_uva": 50.0,
+          "plusvalia_em": 1168.83,
+          "plusvalia_pl": 1168.83,
+          "plusvalia_sl": 1168.83
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 162.338125020405,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 323.0,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "085-100-023"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Velez Sarsfield",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1407",
+    "codigo_postal_argentino": "C1407ANR",
+    "comisaria": "43",
+    "comisaria_vecinal": "10A",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "85"
+  },
+  "debug": {
+    "address": "AV. SEGUROLA 840",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.490837279112625,
+        -34.627533124373144
+      ],
+      "direccion": "",
+      "fondo": "31.70",
+      "frente": "10.00",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "100",
+      "parcela": "023",
+      "pdamatriz": "307264",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "9",
+      "propiedad_horizontal": "Si",
+      "seccion": "085",
+      "smp": "085-100-023",
+      "smp_anterior": "085-100-022",
+      "smp_siguiente": "085-100-024",
+      "srid": 4326,
+      "superficie_cubierta": "2455.00",
+      "superficie_total": "317.00",
+      "unidades_funcionales": "16",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 840,
+      "cod_calle": 20088
+    },
+    "usig_direccion_elegida": {
+      "altura": 840,
+      "cod_calle": 20088,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.490685",
+        "y": "-34.627400"
+      },
+      "direccion": "SEGUROLA AV. 840, CABA",
+      "nombre_calle": "SEGUROLA AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 840,
+          "cod_calle": 20088,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.490685",
+            "y": "-34.627400"
+          },
+          "direccion": "SEGUROLA AV. 840, CABA",
+          "nombre_calle": "SEGUROLA AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 840,
+          "cod_calle": 652714,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3992932081633,
+            "y": -34.7928632163265
+          },
+          "direccion": "Avenida Segurola (LdZ) - 30 de Septiembre (AB) 840, Almirante Brown",
+          "nombre_calle": "Avenida Segurola (LdZ) - 30 de Septiembre (AB)",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Adrogué",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 840,
+          "cod_calle": 652714,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3992932081633,
+            "y": -34.7928632163265
+          },
+          "direccion": "Avenida Segurola (LdZ) - 30 de Septiembre (AB) 840, Lomas de Zamora",
+          "nombre_calle": "Avenida Segurola (LdZ) - 30 de Septiembre (AB)",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Turdera",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 840,
+          "cod_calle": 207431,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7095436326531,
+            "y": -34.7059922469388
+          },
+          "direccion": "Segurola 840, Merlo",
+          "nombre_calle": "Segurola",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Libertad",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 840,
+          "cod_calle": 149942,
+          "cod_calle_cruce": null,
+          "cod_partido": "moreno",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7794195083333,
+            "y": -34.6167878916667
+          },
+          "direccion": "Saturnino Segurola 840, Moreno",
+          "nombre_calle": "Saturnino Segurola",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Moreno",
+          "nombre_partido": "Moreno",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 840,
+          "cod_calle": 15486,
+          "cod_calle_cruce": null,
+          "cod_partido": "moron",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5644988326531,
+            "y": -34.631684055102
+          },
+          "direccion": "Doctor Saturnino Segurola 840, Morón",
+          "nombre_calle": "Doctor Saturnino Segurola",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Sarmiento",
+          "nombre_partido": "Morón",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 840,
+          "cod_calle": 147378,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_isidro",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5755640153061,
+            "y": -34.4854995265306
+          },
+          "direccion": "Saturnino Segurola 840, San Isidro",
+          "nombre_calle": "Saturnino Segurola",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Boulogne Sur Mer",
+          "nombre_partido": "San Isidro",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 840,
+          "cod_calle": 51839,
+          "cod_calle_cruce": null,
+          "cod_partido": "vicente_lopez",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4733158871941,
+            "y": -34.5270427289153
+          },
+          "direccion": "Saturnino Segurola 840, Vicente López",
+          "nombre_calle": "Saturnino Segurola",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Vicente López",
+          "nombre_partido": "Vicente López",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97483.57899313269,
+                  100205.83203531345
+                ],
+                [
+                  97484.15499313123,
+                  100205.2770353154
+                ],
+                [
+                  97487.99299311764,
+                  100201.57803532327
+                ],
+                [
+                  97489.0109931136,
+                  100200.59703532589
+                ],
+                [
+                  97489.28899311263,
+                  100200.32903532524
+                ],
+                [
+                  97487.94499311638,
+                  100198.91403532858
+                ],
+                [
+                  97487.11899311686,
+                  100198.0440353328
+                ],
+                [
+                  97486.1469931186,
+                  100197.02003533643
+                ],
+                [
+                  97484.99999312195,
+                  100195.81203534137
+                ],
+                [
+                  97484.54999312264,
+                  100195.33803534333
+                ],
+                [
+                  97482.9669931258,
+                  100193.6710353489
+                ],
+                [
+                  97481.9739931284,
+                  100192.62503535152
+                ],
+                [
+                  97480.49599313039,
+                  100191.0680353569
+                ],
+                [
+                  97478.22599313475,
+                  100188.67903536605
+                ],
+                [
+                  97473.33399314471,
+                  100183.52603538512
+                ],
+                [
+                  97471.41899314844,
+                  100181.50903539089
+                ],
+                [
+                  97468.78799315373,
+                  100178.73803540136
+                ],
+                [
+                  97466.80199315872,
+                  100176.64603540851
+                ],
+                [
+                  97466.16099315947,
+                  100175.97103541027
+                ],
+                [
+                  97463.66799316992,
+                  100180.87003539887
+                ],
+                [
+                  97461.64599317836,
+                  100184.84303539078
+                ],
+                [
+                  97461.26999317971,
+                  100185.58103538794
+                ],
+                [
+                  97464.15599317531,
+                  100188.61403537789
+                ],
+                [
+                  97467.82099316784,
+                  100192.46403536186
+                ],
+                [
+                  97468.5109931653,
+                  100193.19003535982
+                ],
+                [
+                  97470.85399316181,
+                  100195.65203535205
+                ],
+                [
+                  97474.86499315317,
+                  100199.86703533755
+                ],
+                [
+                  97477.61399314716,
+                  100202.75603532823
+                ],
+                [
+                  97478.87899314449,
+                  100204.08403532219
+                ],
+                [
+                  97479.87299314296,
+                  100205.12903531935
+                ],
+                [
+                  97480.69999314126,
+                  100205.9980353176
+                ],
+                [
+                  97481.16799314004,
+                  100206.49003531534
+                ],
+                [
+                  97481.99499313915,
+                  100207.35903531144
+                ],
+                [
+                  97482.58499313687,
+                  100206.79003531148
+                ],
+                [
+                  97483.57899313269,
+                  100205.83203531345
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "085-100-023",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AV. SEGUROLA 840",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.490837279112625,
+      -34.627533124373144
+    ],
+    "direccion": "",
+    "fondo": "31.70",
+    "frente": "10.00",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "100",
+    "parcela": "023",
+    "pdamatriz": "307264",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "9",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "085",
+    "smp": "085-100-023",
+    "smp_anterior": "085-100-022",
+    "smp_siguiente": "085-100-024",
+    "srid": 4326,
+    "superficie_cubierta": "2455.00",
+    "superficie_total": "317.00",
+    "unidades_funcionales": "16",
+    "vuc": "0.00"
+  },
+  "smp": "085-100-023",
+  "_http_status": 200
+}

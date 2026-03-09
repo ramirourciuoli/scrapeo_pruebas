@@ -1,0 +1,367 @@
+{
+  "area_m2": 412.02706718444824,
+  "centroide_lonlat": {
+    "lat": -34.572402,
+    "lon": -58.428949
+  },
+  "centroide_xy": {
+    "x": 103152.22661258552,
+    "y": 106308.02174895648
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/fp/SECCION023/FP-023-079-025-VD.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION023/023-079-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION023/PI-023-079-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": true,
+          "smp_linderas": [
+            "023-079-024",
+            "023-079-007",
+            "023-079-026",
+            "023-079-008a"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2b I 1",
+          "incidencia_uva": 660.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 240.483447683766,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 412.0,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "023-079-025"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.A.FERNÁNDEZ",
+    "barrio": "Palermo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1426",
+    "codigo_postal_argentino": "C1426DLF",
+    "comisaria": "31",
+    "comisaria_vecinal": "14B",
+    "comuna": "Comuna 14",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   IX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "23"
+  },
+  "debug": {
+    "address": "CLAY 3064",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.42894868221431,
+        -34.57240224910205
+      ],
+      "direccion": "CLAY 3064",
+      "fondo": "47.58",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "079",
+      "parcela": "025",
+      "pdamatriz": "412349",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "023",
+      "smp": "023-079-025",
+      "smp_anterior": "023-079-024",
+      "smp_siguiente": "023-079-026",
+      "srid": 4326,
+      "superficie_cubierta": "288.00",
+      "superficie_total": "412.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3064,
+      "cod_calle": 3132
+    },
+    "usig_direccion_elegida": {
+      "altura": 3064,
+      "cod_calle": 3132,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.428799",
+        "y": "-34.572624"
+      },
+      "direccion": "CLAY 3064, CABA",
+      "nombre_calle": "CLAY",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3064,
+          "cod_calle": 3132,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.428799",
+            "y": "-34.572624"
+          },
+          "direccion": "CLAY 3064, CABA",
+          "nombre_calle": "CLAY",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  103167.5319817726,
+                  106289.69301397513
+                ],
+                [
+                  103165.1399817781,
+                  106288.36701397982
+                ],
+                [
+                  103159.95798178994,
+                  106285.49401399356
+                ],
+                [
+                  103157.48798180059,
+                  106289.82001398268
+                ],
+                [
+                  103147.11998184341,
+                  106307.98301393786
+                ],
+                [
+                  103143.06998186104,
+                  106315.07701392149
+                ],
+                [
+                  103141.97598186495,
+                  106316.99401391795
+                ],
+                [
+                  103137.31798188374,
+                  106325.15301389745
+                ],
+                [
+                  103137.95398188279,
+                  106325.69301389583
+                ],
+                [
+                  103140.70298187611,
+                  106328.02801388648
+                ],
+                [
+                  103142.2539818734,
+                  106329.34501388294
+                ],
+                [
+                  103144.3310209317,
+                  106331.10802754771
+                ],
+                [
+                  103146.28498186049,
+                  106327.62001388578
+                ],
+                [
+                  103150.86198184185,
+                  106319.45001390329
+                ],
+                [
+                  103152.77002089535,
+                  106316.04502758276
+                ],
+                [
+                  103153.87102089211,
+                  106314.07902758734
+                ],
+                [
+                  103154.8539818251,
+                  106312.32501392119
+                ],
+                [
+                  103156.53098181848,
+                  106309.33001392861
+                ],
+                [
+                  103157.21198181623,
+                  106308.11501392984
+                ],
+                [
+                  103158.40698181011,
+                  106305.98101393523
+                ],
+                [
+                  103160.27898180325,
+                  106302.63901394422
+                ],
+                [
+                  103162.92698179174,
+                  106297.91301395552
+                ],
+                [
+                  103164.37398178494,
+                  106295.33001396173
+                ],
+                [
+                  103167.5319817726,
+                  106289.69301397513
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "023-079-025",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CLAY 3064",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.42894868221431,
+      -34.57240224910205
+    ],
+    "direccion": "CLAY 3064",
+    "fondo": "47.58",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "079",
+    "parcela": "025",
+    "pdamatriz": "412349",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [
+      {
+        "altura": 3064,
+        "calle": "CLAY",
+        "codigo_calle": 3132,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "023",
+    "smp": "023-079-025",
+    "smp_anterior": "023-079-024",
+    "smp_siguiente": "023-079-026",
+    "srid": 4326,
+    "superficie_cubierta": "288.00",
+    "superficie_total": "412.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "023-079-025"
+}

@@ -1,0 +1,61 @@
+{
+  "debug": {
+    "address": "HUMBOLDT 2040",
+    "catastro_parcela_por_codcalle_altura": {},
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "HUMBOLDT",
+      "puerta": 2040
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2040,
+      "cod_calle": 8036
+    },
+    "usig_direccion_elegida": {
+      "altura": 2040,
+      "cod_calle": 8036,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.432236",
+        "y": "-34.582052"
+      },
+      "direccion": "HUMBOLDT 2040, CABA",
+      "nombre_calle": "HUMBOLDT",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.582052,
+      "lng": -58.432236
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2040,
+          "cod_calle": 8036,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.432236",
+            "y": "-34.582052"
+          },
+          "direccion": "HUMBOLDT 2040, CABA",
+          "nombre_calle": "HUMBOLDT",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura.",
+  "ok": false,
+  "_http_status": 404
+}

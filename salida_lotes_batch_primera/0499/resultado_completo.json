@@ -1,0 +1,399 @@
+{
+  "area_m2": 140.57874393463135,
+  "centroide_lonlat": {
+    "lat": -34.584972,
+    "lon": -58.501837
+  },
+  "centroide_xy": {
+    "x": 96464.22966032273,
+    "y": 104913.49475026135
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/88/073-031-001c_0000367788.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION073/073-031-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION073/PI-073-031-V4.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "073-031-001b",
+            "073-031-002",
+            "073-031-029b",
+            "073-031-001a"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 230.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 140.54204999999,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 140.6,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "073-031-001C"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. A. ZUBIZARRETA",
+    "barrio": "Villa Pueyrredon",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1419",
+    "codigo_postal_argentino": "C1419DKV",
+    "comisaria": "47",
+    "comisaria_vecinal": "12B",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "73"
+  },
+  "debug": {
+    "address": "TERRADA 4784",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.50183678390047,
+        -34.58497162840716
+      ],
+      "direccion": "",
+      "fondo": "16.05",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "031",
+      "parcela": "001C",
+      "pdamatriz": "367479",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "2",
+      "propiedad_horizontal": "Si",
+      "seccion": "073",
+      "smp": "073-031-001C",
+      "smp_anterior": "073-031-001B",
+      "smp_siguiente": "073-031-002",
+      "srid": 4326,
+      "superficie_cubierta": "304.00",
+      "superficie_total": "139.00",
+      "unidades_funcionales": "4",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4784,
+      "cod_calle": 21021
+    },
+    "usig_direccion_elegida": {
+      "altura": 4784,
+      "cod_calle": 21021,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.501737",
+        "y": "-34.584910"
+      },
+      "direccion": "TERRADA 4784, CABA",
+      "nombre_calle": "TERRADA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4784,
+          "cod_calle": 21021,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.501737",
+            "y": "-34.584910"
+          },
+          "direccion": "TERRADA 4784, CABA",
+          "nombre_calle": "TERRADA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 4784,
+          "cod_calle": 151125,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "direccion": "Coronel Terrada 4784, La Matanza",
+          "nombre_calle": "Coronel Terrada",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Justo",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 4784,
+          "cod_calle": 23986,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4766173857143,
+            "y": -34.7256672142857
+          },
+          "direccion": "Terrada 4784, Lomas de Zamora",
+          "nombre_calle": "Terrada",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ingeniero Budge",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96464.1319995317,
+                  104907.98602289386
+                ],
+                [
+                  96460.38299953986,
+                  104905.19002290655
+                ],
+                [
+                  96458.02199954816,
+                  104908.33902289739
+                ],
+                [
+                  96457.76799954992,
+                  104908.67802289824
+                ],
+                [
+                  96455.14099955904,
+                  104912.18002288969
+                ],
+                [
+                  96457.11299955536,
+                  104913.64102288519
+                ],
+                [
+                  96458.38599955277,
+                  104914.58502288107
+                ],
+                [
+                  96458.82699955074,
+                  104914.91202287862
+                ],
+                [
+                  96460.17999954798,
+                  104915.91502287608
+                ],
+                [
+                  96461.2359995461,
+                  104916.69802287247
+                ],
+                [
+                  96462.30499954325,
+                  104917.4900228706
+                ],
+                [
+                  96463.78299953976,
+                  104918.58802286626
+                ],
+                [
+                  96464.23099953937,
+                  104918.92102286444
+                ],
+                [
+                  96467.29099953294,
+                  104921.19402285712
+                ],
+                [
+                  96468.09399953036,
+                  104921.79002285382
+                ],
+                [
+                  96468.39799952984,
+                  104921.3900228542
+                ],
+                [
+                  96469.95499952405,
+                  104919.31102285828
+                ],
+                [
+                  96470.2549995223,
+                  104918.91102286155
+                ],
+                [
+                  96471.15399951856,
+                  104917.71102286191
+                ],
+                [
+                  96471.4539995183,
+                  104917.31102286233
+                ],
+                [
+                  96473.31199951061,
+                  104914.83002286966
+                ],
+                [
+                  96472.50999951245,
+                  104914.23202287147
+                ],
+                [
+                  96470.0149995177,
+                  104912.37202287791
+                ],
+                [
+                  96466.46999952562,
+                  104909.72902288803
+                ],
+                [
+                  96465.80399952711,
+                  104909.2320228894
+                ],
+                [
+                  96465.40799952831,
+                  104908.9370228906
+                ],
+                [
+                  96464.1319995317,
+                  104907.98602289386
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "073-031-001C",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "TERRADA 4784",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.50183678390047,
+      -34.58497162840716
+    ],
+    "direccion": "",
+    "fondo": "16.05",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "031",
+    "parcela": "001C",
+    "pdamatriz": "367479",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "2",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "073",
+    "smp": "073-031-001C",
+    "smp_anterior": "073-031-001B",
+    "smp_siguiente": "073-031-002",
+    "srid": 4326,
+    "superficie_cubierta": "304.00",
+    "superficie_total": "139.00",
+    "unidades_funcionales": "4",
+    "vuc": "0.00"
+  },
+  "smp": "073-031-001C",
+  "_http_status": 200
+}

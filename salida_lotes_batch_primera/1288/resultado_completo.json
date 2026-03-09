@@ -1,0 +1,345 @@
+{
+  "area_m2": 99.83425998687744,
+  "centroide_lonlat": {
+    "lat": -34.601078,
+    "lon": -58.518175
+  },
+  "centroide_xy": {
+    "x": 94966.12081277058,
+    "y": 103126.04622137253
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 1,
+          "lep": 1,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.0,
+          "fot_perim_libre": 1.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/fp/SECCION089/FP-089-075-001d-VD.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION089/089-075-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION089/PI-089-075-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "089-075-002",
+            "089-075-001a",
+            "089-075-001c"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R1b I",
+          "incidencia_uva": 230.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 2822.07
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 56.8048806438112,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 99.8,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "089-075-001D"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. A. ZUBIZARRETA",
+    "barrio": "Villa Devoto",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1419",
+    "codigo_postal_argentino": "C1419BQF",
+    "comisaria": "45",
+    "comisaria_vecinal": "11B",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "89"
+  },
+  "debug": {
+    "address": "AV. SEGUROLA 4288",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.51817543250008,
+        -34.601077850950375
+      ],
+      "direccion": "",
+      "fondo": "10.00",
+      "frente": "10.00",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "075",
+      "parcela": "001D",
+      "pdamatriz": "304011",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "089",
+      "smp": "089-075-001D",
+      "smp_anterior": "089-075-001C",
+      "smp_siguiente": "089-075-002",
+      "srid": 4326,
+      "superficie_cubierta": "262.00",
+      "superficie_total": "100.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4288,
+      "cod_calle": 20088
+    },
+    "usig_direccion_elegida": {
+      "altura": 4288,
+      "cod_calle": 20088,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.518092",
+        "y": "-34.601026"
+      },
+      "direccion": "SEGUROLA AV. 4288, CABA",
+      "nombre_calle": "SEGUROLA AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4288,
+          "cod_calle": 20088,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.518092",
+            "y": "-34.601026"
+          },
+          "direccion": "SEGUROLA AV. 4288, CABA",
+          "nombre_calle": "SEGUROLA AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  94970.84800237983,
+                  103128.12502900965
+                ],
+                [
+                  94972.74800237147,
+                  103125.59502901579
+                ],
+                [
+                  94973.12000237037,
+                  103125.10002901783
+                ],
+                [
+                  94971.64600237322,
+                  103123.99302902125
+                ],
+                [
+                  94969.78700237775,
+                  103122.59602902614
+                ],
+                [
+                  94968.35200238148,
+                  103121.51802903163
+                ],
+                [
+                  94968.1920023812,
+                  103121.39802903053
+                ],
+                [
+                  94967.38700238406,
+                  103120.79402903173
+                ],
+                [
+                  94967.07000238466,
+                  103120.55602903536
+                ],
+                [
+                  94966.63300238569,
+                  103120.22702903565
+                ],
+                [
+                  94966.31300238635,
+                  103119.98702903779
+                ],
+                [
+                  94965.06300238922,
+                  103119.04802904013
+                ],
+                [
+                  94960.86100240385,
+                  103124.68902902814
+                ],
+                [
+                  94959.13300241229,
+                  103127.00902902274
+                ],
+                [
+                  94961.10800240701,
+                  103128.49302901543
+                ],
+                [
+                  94962.96500240215,
+                  103129.88702901301
+                ],
+                [
+                  94967.15800239312,
+                  103133.0370289993
+                ],
+                [
+                  94967.40900239235,
+                  103132.70302899959
+                ],
+                [
+                  94969.26100238512,
+                  103130.23802900448
+                ],
+                [
+                  94970.46200238066,
+                  103128.63902900994
+                ],
+                [
+                  94970.84800237983,
+                  103128.12502900965
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "089-075-001D",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AV. SEGUROLA 4288",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.51817543250008,
+      -34.601077850950375
+    ],
+    "direccion": "",
+    "fondo": "10.00",
+    "frente": "10.00",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "075",
+    "parcela": "001D",
+    "pdamatriz": "304011",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "089",
+    "smp": "089-075-001D",
+    "smp_anterior": "089-075-001C",
+    "smp_siguiente": "089-075-002",
+    "srid": 4326,
+    "superficie_cubierta": "262.00",
+    "superficie_total": "100.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "089-075-001D",
+  "_http_status": 200
+}

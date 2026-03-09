@@ -1,0 +1,386 @@
+{
+  "area_m2": 198.62871170043945,
+  "centroide_lonlat": {
+    "lat": -34.618803,
+    "lon": -58.384736
+  },
+  "centroide_xy": {
+    "x": 107205.36872826115,
+    "y": 101158.2004045184
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "PEV",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.0,
+          "fot_perim_libre": 3.0,
+          "fot_semi_libre": 3.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/9/00/014-041-004_0000304900.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION014/014-041-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION014/PI-014-041-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "014-041-048",
+            "014-041-005a",
+            "014-041-003"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2a I",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 157.460493927665,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 198.6,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "014-041-004"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. J.M. RAMOS MEJÍA",
+    "barrio": "Constitucion",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1101",
+    "codigo_postal_argentino": "C1101ABB",
+    "comisaria": "4",
+    "comisaria_vecinal": "1B",
+    "comuna": "Comuna 1",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   III",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "14"
+  },
+  "debug": {
+    "address": "ESTADOS UNIDOS 1332",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.384735990388265,
+        -34.61880346254051
+      ],
+      "direccion": "",
+      "fondo": "25.35",
+      "frente": "7.85",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "041",
+      "parcela": "004",
+      "pdamatriz": "212547",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "014",
+      "smp": "014-041-004",
+      "smp_anterior": "014-041-003",
+      "smp_siguiente": "014-041-005A",
+      "srid": 4326,
+      "superficie_cubierta": "253.00",
+      "superficie_total": "199.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1332,
+      "cod_calle": 5087
+    },
+    "usig_direccion_elegida": {
+      "altura": 1332,
+      "cod_calle": 5087,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.384744",
+        "y": "-34.618669"
+      },
+      "direccion": "ESTADOS UNIDOS 1332, CABA",
+      "nombre_calle": "ESTADOS UNIDOS",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1332,
+          "cod_calle": 5087,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.384744",
+            "y": "-34.618669"
+          },
+          "direccion": "ESTADOS UNIDOS 1332, CABA",
+          "nombre_calle": "ESTADOS UNIDOS",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1332,
+          "cod_calle": 109704,
+          "cod_calle_cruce": null,
+          "cod_partido": "florencio_varela",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.2918763469388,
+            "y": -34.799679905102
+          },
+          "direccion": "Estados Unidos de América 1332, Florencio Varela",
+          "nombre_calle": "Estados Unidos de América",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Florencio Varela",
+          "nombre_partido": "Florencio Varela",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  107200.72996660942,
+                  101170.83802529427
+                ],
+                [
+                  107208.62596658732,
+                  101171.31402528676
+                ],
+                [
+                  107208.79896658321,
+                  101167.1350252979
+                ],
+                [
+                  107208.87596658211,
+                  101165.26102530328
+                ],
+                [
+                  107208.99496657953,
+                  101162.3820253115
+                ],
+                [
+                  107209.1759665756,
+                  101158.00302532298
+                ],
+                [
+                  107209.42696657052,
+                  101151.94902534029
+                ],
+                [
+                  107209.56896656752,
+                  101148.50302534938
+                ],
+                [
+                  107209.70996656439,
+                  101145.09702535937
+                ],
+                [
+                  107208.80196656706,
+                  101145.06402536028
+                ],
+                [
+                  107206.30296657418,
+                  101144.97402536252
+                ],
+                [
+                  107205.81996657554,
+                  101144.95602536283
+                ],
+                [
+                  107203.83096658101,
+                  101144.88502536403
+                ],
+                [
+                  107203.0309665834,
+                  101144.85602536463
+                ],
+                [
+                  107202.4309665845,
+                  101144.83402536524
+                ],
+                [
+                  107202.30896658674,
+                  101146.69702536002
+                ],
+                [
+                  107202.23396658762,
+                  101147.84602535705
+                ],
+                [
+                  107202.17096658846,
+                  101148.80602535437
+                ],
+                [
+                  107202.04696659038,
+                  101150.69702534899
+                ],
+                [
+                  107201.82196659307,
+                  101154.13702533994
+                ],
+                [
+                  107201.79696659395,
+                  101154.52302533889
+                ],
+                [
+                  107201.5899665965,
+                  101157.69802532991
+                ],
+                [
+                  107201.53596659776,
+                  101158.51202532786
+                ],
+                [
+                  107201.33596660043,
+                  101161.5710253198
+                ],
+                [
+                  107201.19296660232,
+                  101163.7600253131
+                ],
+                [
+                  107200.99096660565,
+                  101166.84802530505
+                ],
+                [
+                  107200.72996660942,
+                  101170.83802529427
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "014-041-004",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ESTADOS UNIDOS 1332",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.384735990388265,
+      -34.61880346254051
+    ],
+    "direccion": "",
+    "fondo": "25.35",
+    "frente": "7.85",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "041",
+    "parcela": "004",
+    "pdamatriz": "212547",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "014",
+    "smp": "014-041-004",
+    "smp_anterior": "014-041-003",
+    "smp_siguiente": "014-041-005A",
+    "srid": 4326,
+    "superficie_cubierta": "253.00",
+    "superficie_total": "199.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "014-041-004",
+  "_http_status": 200
+}

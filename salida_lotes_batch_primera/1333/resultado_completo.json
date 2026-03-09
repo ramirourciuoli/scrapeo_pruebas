@@ -1,0 +1,380 @@
+{
+  "area_m2": 152.29861164093018,
+  "centroide_lonlat": {
+    "lat": -34.641612,
+    "lon": -58.417836
+  },
+  "centroide_xy": {
+    "x": 104168.52785702959,
+    "y": 98629.79990526916
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/04/038-205-021_0000059704.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION038/038-205-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION038/PI-038-205-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "038-205-020",
+            "038-205-022b",
+            "038-205-022a",
+            "038-205-023"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "R2b III",
+          "incidencia_uva": 90.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 152.295749999965,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 152.3,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "038-205-021"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.M. PENNA",
+    "barrio": "Nueva Pompeya",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1437",
+    "codigo_postal_argentino": "C1437DLD",
+    "comisaria": "34",
+    "comisaria_vecinal": "4B",
+    "comuna": "Comuna 4",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "38"
+  },
+  "debug": {
+    "address": "QUILMES 188",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.417835859365354,
+        -34.641611746858494
+      ],
+      "direccion": "",
+      "fondo": "17.68",
+      "frente": "8.60",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "205",
+      "parcela": "021",
+      "pdamatriz": "43007",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "038",
+      "smp": "038-205-021",
+      "smp_anterior": "038-205-020",
+      "smp_siguiente": "038-205-022A",
+      "srid": 4326,
+      "superficie_cubierta": "199.00",
+      "superficie_total": "152.00",
+      "unidades_funcionales": "2",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 188,
+      "cod_calle": 18007
+    },
+    "usig_direccion_elegida": {
+      "altura": 188,
+      "cod_calle": 18007,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.417965",
+        "y": "-34.641636"
+      },
+      "direccion": "QUILMES 188, CABA",
+      "nombre_calle": "QUILMES",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 188,
+          "cod_calle": 18007,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.417965",
+            "y": "-34.641636"
+          },
+          "direccion": "QUILMES 188, CABA",
+          "nombre_calle": "QUILMES",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 188,
+          "cod_calle": 31988,
+          "cod_calle_cruce": null,
+          "cod_partido": "quilmes",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.301915675,
+            "y": -34.72562055
+          },
+          "direccion": "Avenida Los Quilmes 188, Quilmes",
+          "nombre_calle": "Avenida Los Quilmes",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Bernal",
+          "nombre_partido": "Quilmes",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 188,
+          "cod_calle": 227028,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_vicente",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4151047306122,
+            "y": -35.0168092714286
+          },
+          "direccion": "Quilmes 188, San Vicente",
+          "nombre_calle": "Quilmes",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Vicente",
+          "nombre_partido": "San Vicente",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  104163.46697321619,
+                  98633.06003469633
+                ],
+                [
+                  104166.2969732096,
+                  98633.69303469284
+                ],
+                [
+                  104166.42397320854,
+                  98633.7210346917
+                ],
+                [
+                  104167.24997320707,
+                  98633.90603469167
+                ],
+                [
+                  104169.9369731994,
+                  98634.50703468872
+                ],
+                [
+                  104172.73897319197,
+                  98635.13303468359
+                ],
+                [
+                  104173.16897319077,
+                  98635.22903468335
+                ],
+                [
+                  104176.27797318259,
+                  98635.92403467876
+                ],
+                [
+                  104177.97597317184,
+                  98628.27203469825
+                ],
+                [
+                  104178.12997317144,
+                  98627.57803470071
+                ],
+                [
+                  104174.56397318034,
+                  98626.77203470611
+                ],
+                [
+                  104173.5669731824,
+                  98626.54703470744
+                ],
+                [
+                  104171.76197318839,
+                  98626.13903471027
+                ],
+                [
+                  104169.58797319353,
+                  98625.64803471204
+                ],
+                [
+                  104168.12397319703,
+                  98625.31703471456
+                ],
+                [
+                  104165.29597320453,
+                  98624.67803471885
+                ],
+                [
+                  104161.60697321448,
+                  98623.84403472402
+                ],
+                [
+                  104160.77997321686,
+                  98623.65703472408
+                ],
+                [
+                  104158.9489732283,
+                  98632.0500347025
+                ],
+                [
+                  104159.92597322556,
+                  98632.26803470225
+                ],
+                [
+                  104163.46697321619,
+                  98633.06003469633
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "038-205-021",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "QUILMES 188",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.417835859365354,
+      -34.641611746858494
+    ],
+    "direccion": "",
+    "fondo": "17.68",
+    "frente": "8.60",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "205",
+    "parcela": "021",
+    "pdamatriz": "43007",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "038",
+    "smp": "038-205-021",
+    "smp_anterior": "038-205-020",
+    "smp_siguiente": "038-205-022A",
+    "srid": 4326,
+    "superficie_cubierta": "199.00",
+    "superficie_total": "152.00",
+    "unidades_funcionales": "2",
+    "vuc": "0.00"
+  },
+  "smp": "038-205-021",
+  "_http_status": 200
+}

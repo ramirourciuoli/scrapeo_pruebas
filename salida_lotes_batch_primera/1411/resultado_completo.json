@@ -1,0 +1,340 @@
+{
+  "area_m2": 370.47561740875244,
+  "centroide_lonlat": {
+    "lat": -34.548412,
+    "lon": -58.479163
+  },
+  "centroide_xy": {
+    "x": 98543.88239103626,
+    "y": 108969.77616432178
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/9/22/043-084-006_0000229922.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION043/043-084-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION043/PI-043-084-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "043-084-018",
+            "043-084-005",
+            "043-084-019",
+            "043-084-007",
+            "043-084-020"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 330.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 229.283393384006,
+        "sup_max_edificable": 1040.3,
+        "superficie_parcela": 370.5,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "043-084-006"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Saavedra",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1429",
+    "codigo_postal_argentino": "C1429DJF",
+    "comisaria": "35",
+    "comisaria_vecinal": "12A",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   X",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "43"
+  },
+  "debug": {
+    "address": "BESARES 3250",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.47916345447548,
+        -34.54841224396942
+      ],
+      "direccion": "",
+      "fondo": "43.30",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "084",
+      "parcela": "006",
+      "pdamatriz": "332717",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "043",
+      "smp": "043-084-006",
+      "smp_anterior": "043-084-005",
+      "smp_siguiente": "043-084-007",
+      "srid": 4326,
+      "superficie_cubierta": "162.00",
+      "superficie_total": "375.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3250,
+      "cod_calle": 2073
+    },
+    "usig_direccion_elegida": {
+      "altura": 3250,
+      "cod_calle": 2073,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.479293",
+        "y": "-34.548233"
+      },
+      "direccion": "BESARES 3250, CABA",
+      "nombre_calle": "BESARES",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3250,
+          "cod_calle": 2073,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.479293",
+            "y": "-34.548233"
+          },
+          "direccion": "BESARES 3250, CABA",
+          "nombre_calle": "BESARES",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3250,
+          "cod_calle": 8962,
+          "cod_calle_cruce": null,
+          "cod_partido": "tres_de_febrero",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5398093758237,
+            "y": -34.619476477467
+          },
+          "direccion": "273 - Teniente Coronel Manuel Besares 3250, Tres de Febrero",
+          "nombre_calle": "273 - Teniente Coronel Manuel Besares",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ciudadela",
+          "nombre_partido": "Tres de Febrero",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98528.78499681098,
+                  108985.96600990475
+                ],
+                [
+                  98531.57999680437,
+                  108987.73600989717
+                ],
+                [
+                  98535.91299679395,
+                  108990.48100988634
+                ],
+                [
+                  98542.1919967689,
+                  108980.5020099103
+                ],
+                [
+                  98545.40099675591,
+                  108975.40200992164
+                ],
+                [
+                  98546.00899675344,
+                  108974.43400992439
+                ],
+                [
+                  98546.16099675353,
+                  108974.1940099248
+                ],
+                [
+                  98546.3739967522,
+                  108973.85500992587
+                ],
+                [
+                  98558.90899670223,
+                  108953.9320099719
+                ],
+                [
+                  98551.73099671837,
+                  108949.06400999115
+                ],
+                [
+                  98544.03999674963,
+                  108961.43200996207
+                ],
+                [
+                  98532.05099679768,
+                  108980.71400991664
+                ],
+                [
+                  98531.5839967994,
+                  108981.46400991495
+                ],
+                [
+                  98530.95099680252,
+                  108982.48300991286
+                ],
+                [
+                  98528.78499681098,
+                  108985.96600990475
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "043-084-006",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "BESARES 3250",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.47916345447548,
+      -34.54841224396942
+    ],
+    "direccion": "",
+    "fondo": "43.30",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "084",
+    "parcela": "006",
+    "pdamatriz": "332717",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "043",
+    "smp": "043-084-006",
+    "smp_anterior": "043-084-005",
+    "smp_siguiente": "043-084-007",
+    "srid": 4326,
+    "superficie_cubierta": "162.00",
+    "superficie_total": "375.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "043-084-006",
+  "_http_status": 200
+}

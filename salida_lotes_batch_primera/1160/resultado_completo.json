@@ -1,0 +1,399 @@
+{
+  "area_m2": 371.66440773010254,
+  "centroide_lonlat": {
+    "lat": -34.640866,
+    "lon": -58.510889
+  },
+  "centroide_xy": {
+    "x": 95636.58493706683,
+    "y": 98712.4925105741
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/47/060-040-035_0000012647.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION060/060-040-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION060/PI-060-040-V3.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "060-040-034",
+            "060-040-013",
+            "060-040-011",
+            "060-040-012",
+            "060-040-036a"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 180.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 248.804307182963,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 371.7,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "060-040-035"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Liniers",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1408",
+    "codigo_postal_argentino": "C1408HLC",
+    "comisaria": "54",
+    "comisaria_vecinal": "9B",
+    "comuna": "Comuna 9",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "60"
+  },
+  "debug": {
+    "address": "MIRALLA 137",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.51088925500114,
+        -34.64086552657622
+      ],
+      "direccion": "",
+      "fondo": "42.73",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "040",
+      "parcela": "035",
+      "pdamatriz": "10831",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "060",
+      "smp": "060-040-035",
+      "smp_anterior": "060-040-034",
+      "smp_siguiente": "060-040-036A",
+      "srid": 4326,
+      "superficie_cubierta": "250.00",
+      "superficie_total": "370.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 137,
+      "cod_calle": 13086
+    },
+    "usig_direccion_elegida": {
+      "altura": 137,
+      "cod_calle": 13086,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.510707",
+        "y": "-34.640698"
+      },
+      "direccion": "MIRALLA 137, CABA",
+      "nombre_calle": "MIRALLA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 137,
+          "cod_calle": 13086,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.510707",
+            "y": "-34.640698"
+          },
+          "direccion": "MIRALLA 137, CABA",
+          "nombre_calle": "MIRALLA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  95651.46099715451,
+                  98722.2740408539
+                ],
+                [
+                  95650.71699715602,
+                  98721.46504085636
+                ],
+                [
+                  95650.59299715645,
+                  98721.33004085705
+                ],
+                [
+                  95647.15699716257,
+                  98717.59104087009
+                ],
+                [
+                  95646.60899716418,
+                  98716.99504087225
+                ],
+                [
+                  95644.49899716803,
+                  98714.6990408802
+                ],
+                [
+                  95643.75399716942,
+                  98713.88804088329
+                ],
+                [
+                  95638.93699717916,
+                  98708.64704090118
+                ],
+                [
+                  95625.2569972066,
+                  98693.76104095331
+                ],
+                [
+                  95623.60299721232,
+                  98695.30304095062
+                ],
+                [
+                  95622.83299721454,
+                  98696.02104094854
+                ],
+                [
+                  95618.90899722863,
+                  98699.68104094148
+                ],
+                [
+                  95626.2569972143,
+                  98707.66904091337
+                ],
+                [
+                  95626.52799721344,
+                  98707.96304091308
+                ],
+                [
+                  95626.79999721279,
+                  98708.25904091116
+                ],
+                [
+                  95629.27299720813,
+                  98710.94804090203
+                ],
+                [
+                  95630.82899720491,
+                  98712.64004089593
+                ],
+                [
+                  95635.33099719627,
+                  98717.53404087911
+                ],
+                [
+                  95637.37399719183,
+                  98719.75504087124
+                ],
+                [
+                  95637.44199719166,
+                  98719.829040871
+                ],
+                [
+                  95638.11899719047,
+                  98720.56504086897
+                ],
+                [
+                  95641.68799718349,
+                  98724.44504085532
+                ],
+                [
+                  95642.31599718181,
+                  98725.12704085288
+                ],
+                [
+                  95644.33999717799,
+                  98727.32804084462
+                ],
+                [
+                  95644.41499717806,
+                  98727.41004084476
+                ],
+                [
+                  95644.58699717799,
+                  98727.597040844
+                ],
+                [
+                  95645.08399717647,
+                  98728.13704084215
+                ],
+                [
+                  95646.1669971749,
+                  98729.31504083832
+                ],
+                [
+                  95647.36899717209,
+                  98730.62104083365
+                ],
+                [
+                  95647.91099717138,
+                  98731.21004083124
+                ],
+                [
+                  95650.60499716208,
+                  98728.7310408359
+                ],
+                [
+                  95652.44299715517,
+                  98727.03804083934
+                ],
+                [
+                  95654.28299714859,
+                  98725.34504084269
+                ],
+                [
+                  95651.46099715451,
+                  98722.2740408539
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "060-040-035",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MIRALLA 137",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.51088925500114,
+      -34.64086552657622
+    ],
+    "direccion": "",
+    "fondo": "42.73",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "040",
+    "parcela": "035",
+    "pdamatriz": "10831",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "060",
+    "smp": "060-040-035",
+    "smp_anterior": "060-040-034",
+    "smp_siguiente": "060-040-036A",
+    "srid": 4326,
+    "superficie_cubierta": "250.00",
+    "superficie_total": "370.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "060-040-035",
+  "_http_status": 200
+}

@@ -1,0 +1,371 @@
+{
+  "area_m2": 218.5385036468506,
+  "centroide_lonlat": {
+    "lat": -34.583248,
+    "lon": -58.508758
+  },
+  "centroide_xy": {
+    "x": 95829.1059245237,
+    "y": 105104.4905156482
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/72/075-013-016_0000248072.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION075/075-013-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION075/PI-075-013-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "075-013-015",
+            "075-013-012",
+            "075-013-013",
+            "075-013-017"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 90.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 218.562800000041,
+        "sup_max_edificable": 227.5,
+        "superficie_parcela": 218.5,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "075-013-016"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. A. ZUBIZARRETA",
+    "barrio": "Villa Pueyrredon",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1419",
+    "codigo_postal_argentino": "C1419CVA",
+    "comisaria": "47",
+    "comisaria_vecinal": "12B",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "75"
+  },
+  "debug": {
+    "address": "HELGUERA 5257",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.50875812623871,
+        -34.58324755753323
+      ],
+      "direccion": "",
+      "fondo": "25.29",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "013",
+      "parcela": "016",
+      "pdamatriz": "363692",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "075",
+      "smp": "075-013-016",
+      "smp_anterior": "075-013-015",
+      "smp_siguiente": "075-013-017",
+      "srid": 4326,
+      "superficie_cubierta": "168.00",
+      "superficie_total": "219.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 5257,
+      "cod_calle": 8007
+    },
+    "usig_direccion_elegida": {
+      "altura": 5257,
+      "cod_calle": 8007,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.508895",
+        "y": "-34.583333"
+      },
+      "direccion": "HELGUERA 5257, CABA",
+      "nombre_calle": "HELGUERA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 5257,
+          "cod_calle": 8007,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.508895",
+            "y": "-34.583333"
+          },
+          "direccion": "HELGUERA 5257, CABA",
+          "nombre_calle": "HELGUERA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 5257,
+          "cod_calle": 56216,
+          "cod_calle_cruce": null,
+          "cod_partido": "avellaneda",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3403713418367,
+            "y": -34.7081851469388
+          },
+          "direccion": "Helguera 5257, Avellaneda",
+          "nombre_calle": "Helguera",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Domínico",
+          "nombre_partido": "Avellaneda",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  95834.80100144325,
+                  105103.325022821
+                ],
+                [
+                  95832.63400144772,
+                  105101.6780228274
+                ],
+                [
+                  95832.23200144885,
+                  105101.37302282799
+                ],
+                [
+                  95825.62300146345,
+                  105096.3520228473
+                ],
+                [
+                  95825.33400146422,
+                  105096.13302284852
+                ],
+                [
+                  95821.7500014724,
+                  105093.41002285862
+                ],
+                [
+                  95818.25400148547,
+                  105098.09302284833
+                ],
+                [
+                  95816.54700149251,
+                  105100.38002284276
+                ],
+                [
+                  95819.56000148514,
+                  105102.68202283414
+                ],
+                [
+                  95820.08100148464,
+                  105103.07902283256
+                ],
+                [
+                  95821.46900148087,
+                  105104.14002282827
+                ],
+                [
+                  95824.40600147517,
+                  105106.39002281975
+                ],
+                [
+                  95826.23400147085,
+                  105107.79002281482
+                ],
+                [
+                  95829.59400146277,
+                  105110.37002280515
+                ],
+                [
+                  95831.42800145941,
+                  105111.77302279978
+                ],
+                [
+                  95831.66700145896,
+                  105111.95602279928
+                ],
+                [
+                  95836.43000144765,
+                  105115.60002278484
+                ],
+                [
+                  95841.62500142805,
+                  105108.52002280075
+                ],
+                [
+                  95840.89500142928,
+                  105107.96402280295
+                ],
+                [
+                  95839.89200143192,
+                  105107.19902280622
+                ],
+                [
+                  95837.37500143753,
+                  105105.2800228137
+                ],
+                [
+                  95837.0810014384,
+                  105105.05602281415
+                ],
+                [
+                  95834.80100144325,
+                  105103.325022821
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "075-013-016",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "HELGUERA 5257",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.50875812623871,
+      -34.58324755753323
+    ],
+    "direccion": "",
+    "fondo": "25.29",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "013",
+    "parcela": "016",
+    "pdamatriz": "363692",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "075",
+    "smp": "075-013-016",
+    "smp_anterior": "075-013-015",
+    "smp_siguiente": "075-013-017",
+    "srid": 4326,
+    "superficie_cubierta": "168.00",
+    "superficie_total": "219.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "075-013-016",
+  "_http_status": 200
+}

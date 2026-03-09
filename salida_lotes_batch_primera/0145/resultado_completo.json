@@ -1,0 +1,342 @@
+{
+  "area_m2": 196.60004234313965,
+  "centroide_lonlat": {
+    "lat": -34.588578,
+    "lon": -58.426751
+  },
+  "centroide_xy": {
+    "x": 103353.29061383948,
+    "y": 104513.5385722452
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/4/92/019-066-004_0000255492.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION019/019-066-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION019/PI-019-066-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "019-066-034",
+            "019-066-005",
+            "019-066-035",
+            "019-066-003"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 700.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 196.524900000054,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 196.6,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "019-066-004"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.A.FERNÁNDEZ",
+    "barrio": "Palermo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1414",
+    "codigo_postal_argentino": "C1414BSJ",
+    "comisaria": "25",
+    "comisaria_vecinal": "14A",
+    "comuna": "Comuna 14",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   IX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "19"
+  },
+  "debug": {
+    "address": "COSTA RICA 4646",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.426750511627525,
+        -34.58857753543212
+      ],
+      "direccion": "",
+      "fondo": "22.98",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "066",
+      "parcela": "004",
+      "pdamatriz": "427170",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "019",
+      "smp": "019-066-004",
+      "smp_anterior": "019-066-003",
+      "smp_siguiente": "019-066-005",
+      "srid": 4326,
+      "superficie_cubierta": "165.00",
+      "superficie_total": "199.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4646,
+      "cod_calle": 3183
+    },
+    "usig_direccion_elegida": {
+      "altura": 4646,
+      "cod_calle": 3183,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.426651",
+        "y": "-34.588475"
+      },
+      "direccion": "COSTA RICA 4646, CABA",
+      "nombre_calle": "COSTA RICA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4646,
+          "cod_calle": 3183,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.426651",
+            "y": "-34.588475"
+          },
+          "direccion": "COSTA RICA 4646, CABA",
+          "nombre_calle": "COSTA RICA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  103352.00997992209,
+                  104518.91201880106
+                ],
+                [
+                  103357.045979913,
+                  104525.16401878008
+                ],
+                [
+                  103363.77297989001,
+                  104519.70901879022
+                ],
+                [
+                  103361.22007266815,
+                  104516.56911059804
+                ],
+                [
+                  103359.13706485959,
+                  104514.0011174428
+                ],
+                [
+                  103357.77109806528,
+                  104512.31514332737
+                ],
+                [
+                  103356.2660931853,
+                  104510.45912526734
+                ],
+                [
+                  103355.6509799048,
+                  104509.701018825
+                ],
+                [
+                  103354.60997990746,
+                  104508.41801882855
+                ],
+                [
+                  103354.49597990763,
+                  104508.27701882925
+                ],
+                [
+                  103348.81009954694,
+                  104501.265094537
+                ],
+                [
+                  103346.07010932281,
+                  104504.69514824043
+                ],
+                [
+                  103345.66197992935,
+                  104505.20601884497
+                ],
+                [
+                  103343.3259799389,
+                  104508.13001883819
+                ],
+                [
+                  103344.48397993659,
+                  104509.56801883332
+                ],
+                [
+                  103346.48697993241,
+                  104512.05501882461
+                ],
+                [
+                  103346.7979799325,
+                  104512.44101882324
+                ],
+                [
+                  103349.65897992671,
+                  104515.9930188113
+                ],
+                [
+                  103350.62997992482,
+                  104517.19801880719
+                ],
+                [
+                  103352.00997992209,
+                  104518.91201880106
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "019-066-004",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "COSTA RICA 4646",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.426750511627525,
+      -34.58857753543212
+    ],
+    "direccion": "",
+    "fondo": "22.98",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "066",
+    "parcela": "004",
+    "pdamatriz": "427170",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "019",
+    "smp": "019-066-004",
+    "smp_anterior": "019-066-003",
+    "smp_siguiente": "019-066-005",
+    "srid": 4326,
+    "superficie_cubierta": "165.00",
+    "superficie_total": "199.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "019-066-004",
+  "_http_status": 200
+}

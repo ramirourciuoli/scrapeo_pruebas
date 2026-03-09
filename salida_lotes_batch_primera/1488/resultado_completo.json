@@ -1,0 +1,329 @@
+{
+  "area_m2": 106.78424739837646,
+  "centroide_lonlat": {
+    "lat": -34.602001,
+    "lon": -58.438513
+  },
+  "centroide_xy": {
+    "x": 102273.74469310686,
+    "y": 103024.69513398982
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.45,
+          "fot_perim_libre": 3.45,
+          "fot_semi_libre": 3.45
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/69/047-170-017_0000129769.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION047/047-170-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION047/PI-047-170-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "047-170-018",
+            "047-170-016"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2a II",
+          "incidencia_uva": 300.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 106.773250000101,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 106.8,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "047-170-017"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Villa Crespo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1414",
+    "codigo_postal_argentino": "C1414DRF",
+    "comisaria": "27",
+    "comisaria_vecinal": "15B",
+    "comuna": "Comuna 15",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "47"
+  },
+  "debug": {
+    "address": "JULIAN ALVAREZ 202",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.43851312433584,
+        -34.60200126531281
+      ],
+      "direccion": "",
+      "fondo": "30.79",
+      "frente": "3.41",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "170",
+      "parcela": "017",
+      "pdamatriz": "225324",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "047",
+      "smp": "047-170-017",
+      "smp_anterior": "047-170-016",
+      "smp_siguiente": "047-170-018",
+      "srid": 4326,
+      "superficie_cubierta": "153.00",
+      "superficie_total": "105.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 202,
+      "cod_calle": 1057
+    },
+    "usig_direccion_elegida": {
+      "altura": 202,
+      "cod_calle": 1057,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.438442",
+        "y": "-34.602080"
+      },
+      "direccion": "ALVAREZ, JULIAN 202, CABA",
+      "nombre_calle": "ALVAREZ, JULIAN",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 202,
+          "cod_calle": 1057,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.438442",
+            "y": "-34.602080"
+          },
+          "direccion": "ALVAREZ, JULIAN 202, CABA",
+          "nombre_calle": "ALVAREZ, JULIAN",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 202,
+          "cod_calle": 560410,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3889767,
+            "y": -34.8890958
+          },
+          "direccion": "Julian Álvarez 202, Almirante Brown",
+          "nombre_calle": "Julian Álvarez",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Glew",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102269.93798183135,
+                  103023.0730238109
+                ],
+                [
+                  102266.28198184472,
+                  103027.93102380066
+                ],
+                [
+                  102270.00698183622,
+                  103030.75902378751
+                ],
+                [
+                  102272.30698183159,
+                  103032.50602378382
+                ],
+                [
+                  102272.63398183012,
+                  103032.07902378342
+                ],
+                [
+                  102273.73498182607,
+                  103030.64202378673
+                ],
+                [
+                  102274.78098182261,
+                  103029.2770237904
+                ],
+                [
+                  102275.98398181815,
+                  103027.7070237936
+                ],
+                [
+                  102276.74098181454,
+                  103026.72002379369
+                ],
+                [
+                  102281.53098179656,
+                  103020.469023808
+                ],
+                [
+                  102278.81998180314,
+                  103018.38002381608
+                ],
+                [
+                  102272.85998182064,
+                  103019.19002381925
+                ],
+                [
+                  102269.93798183135,
+                  103023.0730238109
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "047-170-017",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "JULIAN ALVAREZ 202",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.43851312433584,
+      -34.60200126531281
+    ],
+    "direccion": "",
+    "fondo": "30.79",
+    "frente": "3.41",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "170",
+    "parcela": "017",
+    "pdamatriz": "225324",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "047",
+    "smp": "047-170-017",
+    "smp_anterior": "047-170-016",
+    "smp_siguiente": "047-170-018",
+    "srid": 4326,
+    "superficie_cubierta": "153.00",
+    "superficie_total": "105.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "047-170-017",
+  "_http_status": 200
+}

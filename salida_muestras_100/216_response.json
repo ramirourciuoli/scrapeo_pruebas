@@ -1,0 +1,383 @@
+{
+  "area_m2": 175.08679580688477,
+  "centroide_lonlat": {
+    "lat": -34.591808,
+    "lon": -58.435708
+  },
+  "centroide_xy": {
+    "x": 102531.39458241743,
+    "y": 104155.37147000324
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/07/031-080-016_0000265507.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION031/031-080-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION031/PI-031-080-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "031-080-020",
+            "031-080-017",
+            "031-080-015"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 460.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 161.824514812778,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 175.1,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "031-080-016"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Villa Crespo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1414",
+    "codigo_postal_argentino": "C1414AYQ",
+    "comisaria": "25",
+    "comisaria_vecinal": "15B",
+    "comuna": "Comuna 15",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   IX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "31"
+  },
+  "debug": {
+    "address": "JUFRE 817",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.43570777285649,
+        -34.59180849402263
+      ],
+      "direccion": "JUFRE 817",
+      "fondo": "20.35",
+      "frente": "8.60",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "080",
+      "parcela": "016",
+      "pdamatriz": "423035",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "3",
+      "propiedad_horizontal": "Si",
+      "seccion": "031",
+      "smp": "031-080-016",
+      "smp_anterior": "031-080-015",
+      "smp_siguiente": "031-080-017",
+      "srid": 4326,
+      "superficie_cubierta": "324.00",
+      "superficie_total": "175.00",
+      "unidades_funcionales": "4",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 817,
+      "cod_calle": 10012
+    },
+    "usig_direccion_elegida": {
+      "altura": 817,
+      "cod_calle": 10012,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.435826",
+        "y": "-34.591885"
+      },
+      "direccion": "JUFRE 817, CABA",
+      "nombre_calle": "JUFRE",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 817,
+          "cod_calle": 10012,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.435826",
+            "y": "-34.591885"
+          },
+          "direccion": "JUFRE 817, CABA",
+          "nombre_calle": "JUFRE",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 817,
+          "cod_calle": 78042,
+          "cod_calle_cruce": null,
+          "cod_partido": "hurlingham",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6253738520408,
+            "y": -34.624686227551
+          },
+          "direccion": "Juan Jufrè 817, Hurlingham",
+          "nombre_calle": "Juan Jufrè",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Tesei",
+          "nombre_partido": "Hurlingham",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102525.95098195843,
+                  104145.81902046973
+                ],
+                [
+                  102525.85198195843,
+                  104145.947020469
+                ],
+                [
+                  102525.15498196134,
+                  104146.8470204674
+                ],
+                [
+                  102523.13398196832,
+                  104149.45602046174
+                ],
+                [
+                  102520.69398197805,
+                  104152.60702045436
+                ],
+                [
+                  102522.85998197342,
+                  104154.26602044806
+                ],
+                [
+                  102527.52998196296,
+                  104157.84302043504
+                ],
+                [
+                  102534.30598194746,
+                  104163.03302041488
+                ],
+                [
+                  102536.87298194157,
+                  104165.0000204076
+                ],
+                [
+                  102537.70098193907,
+                  104163.86902041009
+                ],
+                [
+                  102537.87898193774,
+                  104163.62602041085
+                ],
+                [
+                  102540.01698192985,
+                  104160.70402041718
+                ],
+                [
+                  102541.12398192543,
+                  104159.19102042032
+                ],
+                [
+                  102542.00998192196,
+                  104157.98002042386
+                ],
+                [
+                  102539.50798192817,
+                  104156.08502043056
+                ],
+                [
+                  102535.87798193544,
+                  104153.33602044114
+                ],
+                [
+                  102535.67598193634,
+                  104153.18302044182
+                ],
+                [
+                  102533.59998194064,
+                  104151.61102044719
+                ],
+                [
+                  102531.08098194686,
+                  104149.70402045475
+                ],
+                [
+                  102530.80298194756,
+                  104149.4940204556
+                ],
+                [
+                  102528.34698195281,
+                  104147.63402046231
+                ],
+                [
+                  102528.02798195339,
+                  104147.39202046362
+                ],
+                [
+                  102527.58798195492,
+                  104147.05902046524
+                ],
+                [
+                  102525.95098195843,
+                  104145.81902046973
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "031-080-016",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "JUFRE 817",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.43570777285649,
+      -34.59180849402263
+    ],
+    "direccion": "JUFRE 817",
+    "fondo": "20.35",
+    "frente": "8.60",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "080",
+    "parcela": "016",
+    "pdamatriz": "423035",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "3",
+    "propiedad_horizontal": "Si",
+    "puertas": [
+      {
+        "altura": 817,
+        "calle": "JUFRE",
+        "codigo_calle": 10012,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "031",
+    "smp": "031-080-016",
+    "smp_anterior": "031-080-015",
+    "smp_siguiente": "031-080-017",
+    "srid": 4326,
+    "superficie_cubierta": "324.00",
+    "superficie_total": "175.00",
+    "unidades_funcionales": "4",
+    "vuc": "0.00"
+  },
+  "smp": "031-080-016"
+}

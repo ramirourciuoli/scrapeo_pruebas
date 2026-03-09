@@ -1,0 +1,353 @@
+{
+  "area_m2": 219.60573768615723,
+  "centroide_lonlat": {
+    "lat": -34.606878,
+    "lon": -58.509481
+  },
+  "centroide_xy": {
+    "x": 95764.01789051485,
+    "y": 102482.94700080145
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/93/081-025-014_0000117793.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION081/081-025-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION081/PI-081-025-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "081-025-015",
+            "081-025-009",
+            "081-025-013"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 260.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 208.929186267115,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 219.6,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "081-025-014"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. A. ZUBIZARRETA",
+    "barrio": "Villa Devoto",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1417",
+    "codigo_postal_argentino": "C1417EVO",
+    "comisaria": "45",
+    "comisaria_vecinal": "11B",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "81"
+  },
+  "debug": {
+    "address": "SIMBRON 4245",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.509480589792496,
+        -34.60687848607866
+      ],
+      "direccion": "",
+      "fondo": "26.10",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "025",
+      "parcela": "014",
+      "pdamatriz": "268826",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "081",
+      "smp": "081-025-014",
+      "smp_anterior": "081-025-013",
+      "smp_siguiente": "081-025-015",
+      "srid": 4326,
+      "superficie_cubierta": "129.00",
+      "superficie_total": "226.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4245,
+      "cod_calle": 20097
+    },
+    "usig_direccion_elegida": {
+      "altura": 4245,
+      "cod_calle": 20097,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.509365",
+        "y": "-34.607007"
+      },
+      "direccion": "SIMBRON 4245, CABA",
+      "nombre_calle": "SIMBRON",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4245,
+          "cod_calle": 20097,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.509365",
+            "y": "-34.607007"
+          },
+          "direccion": "SIMBRON 4245, CABA",
+          "nombre_calle": "SIMBRON",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  95775.11899963235,
+                  102475.11403023635
+                ],
+                [
+                  95771.00299964118,
+                  102472.02503024842
+                ],
+                [
+                  95768.16999964789,
+                  102469.89903025632
+                ],
+                [
+                  95767.57799964999,
+                  102470.72803025434
+                ],
+                [
+                  95767.28799965107,
+                  102471.13503025312
+                ],
+                [
+                  95763.2859996671,
+                  102476.7460302409
+                ],
+                [
+                  95757.98999968746,
+                  102484.17103022386
+                ],
+                [
+                  95757.52499968941,
+                  102484.82303022212
+                ],
+                [
+                  95756.47499969271,
+                  102486.2950302189
+                ],
+                [
+                  95755.05999969813,
+                  102488.2800302147
+                ],
+                [
+                  95752.96209687462,
+                  102491.22116057883
+                ],
+                [
+                  95755.17309540483,
+                  102492.86410490848
+                ],
+                [
+                  95755.50699970115,
+                  102493.11203020031
+                ],
+                [
+                  95759.46299969252,
+                  102496.05103018932
+                ],
+                [
+                  95763.78399967555,
+                  102490.2720302022
+                ],
+                [
+                  95766.03399966698,
+                  102487.26303020929
+                ],
+                [
+                  95766.87199966425,
+                  102486.14203021149
+                ],
+                [
+                  95768.13299965938,
+                  102484.4560302156
+                ],
+                [
+                  95768.64799965709,
+                  102483.76803021703
+                ],
+                [
+                  95771.06999964811,
+                  102480.52803022409
+                ],
+                [
+                  95773.57899963816,
+                  102477.17403023131
+                ],
+                [
+                  95773.8029996377,
+                  102476.8740302322
+                ],
+                [
+                  95775.11899963235,
+                  102475.11403023635
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "081-025-014",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "SIMBRON 4245",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.509480589792496,
+      -34.60687848607866
+    ],
+    "direccion": "",
+    "fondo": "26.10",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "025",
+    "parcela": "014",
+    "pdamatriz": "268826",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "081",
+    "smp": "081-025-014",
+    "smp_anterior": "081-025-013",
+    "smp_siguiente": "081-025-015",
+    "srid": 4326,
+    "superficie_cubierta": "129.00",
+    "superficie_total": "226.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "081-025-014",
+  "_http_status": 200
+}

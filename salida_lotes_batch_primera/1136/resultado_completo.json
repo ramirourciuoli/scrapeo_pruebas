@@ -1,0 +1,401 @@
+{
+  "area_m2": 341.0248336791992,
+  "centroide_lonlat": {
+    "lat": -34.577149,
+    "lon": -58.452077
+  },
+  "centroide_xy": {
+    "x": 101029.80841871239,
+    "y": 105781.89119744665
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [
+          {
+            "estado_parcelario_constituido": "Si",
+            "fecha_de_constitucion": "14-7-2023",
+            "tipo_de_construccion": "CEP Demolicion",
+            "vencimiento_de_construccion": "14-7-2024"
+          }
+        ],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/fp/SECCION037/FP-037-050-041-VD.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION037/037-050-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION037/PI-037-050-V3.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "037-050-043",
+            "037-050-040",
+            "037-050-042",
+            "037-050-006"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 390.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 341.088600000609,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 341.0,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "037-050-041"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Colegiales",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1426",
+    "codigo_postal_argentino": "C1426DPI",
+    "comisaria": "37",
+    "comisaria_vecinal": "13C",
+    "comuna": "Comuna 13",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   IX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "37"
+  },
+  "debug": {
+    "address": "PALPA 3237",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.45207705397548,
+        -34.57714925005726
+      ],
+      "direccion": "",
+      "fondo": "190.80",
+      "frente": "1.74",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "050",
+      "parcela": "041",
+      "pdamatriz": "407570",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "037",
+      "smp": "037-050-041",
+      "smp_anterior": "037-050-040",
+      "smp_siguiente": "037-050-042",
+      "srid": 4326,
+      "superficie_cubierta": "240.00",
+      "superficie_total": "332.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3237,
+      "cod_calle": 17012
+    },
+    "usig_direccion_elegida": {
+      "altura": 3237,
+      "cod_calle": 17012,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.451718",
+        "y": "-34.577279"
+      },
+      "direccion": "PALPA 3237, CABA",
+      "nombre_calle": "PALPA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3237,
+          "cod_calle": 17012,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.451718",
+            "y": "-34.577279"
+          },
+          "direccion": "PALPA 3237, CABA",
+          "nombre_calle": "PALPA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  101017.29598742134,
+                  105783.01601701364
+                ],
+                [
+                  101015.66598742656,
+                  105783.74201701267
+                ],
+                [
+                  101014.80698742907,
+                  105784.12501701264
+                ],
+                [
+                  101014.11898743117,
+                  105784.43201701232
+                ],
+                [
+                  101011.37898743954,
+                  105785.65301701083
+                ],
+                [
+                  101009.82498744488,
+                  105786.34501700991
+                ],
+                [
+                  101011.54098744295,
+                  105790.15901699816
+                ],
+                [
+                  101013.44198744043,
+                  105794.38501698466
+                ],
+                [
+                  101016.64898743073,
+                  105792.94301698648
+                ],
+                [
+                  101017.00298742898,
+                  105792.78401698673
+                ],
+                [
+                  101017.99198742592,
+                  105792.33901698687
+                ],
+                [
+                  101020.6789874174,
+                  105791.13101698866
+                ],
+                [
+                  101023.6179874084,
+                  105789.81001698968
+                ],
+                [
+                  101028.2489873939,
+                  105787.72801699254
+                ],
+                [
+                  101029.89098738875,
+                  105786.98901699329
+                ],
+                [
+                  101031.49498738397,
+                  105786.2680169942
+                ],
+                [
+                  101035.77498737081,
+                  105784.34401699578
+                ],
+                [
+                  101038.30598736231,
+                  105783.20601699769
+                ],
+                [
+                  101040.02598735667,
+                  105782.4330169986
+                ],
+                [
+                  101043.41698734678,
+                  105780.90801699995
+                ],
+                [
+                  101045.76798733918,
+                  105779.85101700111
+                ],
+                [
+                  101043.24398734185,
+                  105774.2470170194
+                ],
+                [
+                  101042.93598734197,
+                  105773.56301702117
+                ],
+                [
+                  101043.11998734175,
+                  105773.48001702159
+                ],
+                [
+                  101047.54498732765,
+                  105771.4930170232
+                ],
+                [
+                  101049.91298732,
+                  105770.42901702417
+                ],
+                [
+                  101050.27798731909,
+                  105770.26501702442
+                ],
+                [
+                  101052.86098731062,
+                  105769.10501702657
+                ],
+                [
+                  101056.14498730027,
+                  105767.63001702764
+                ],
+                [
+                  101058.68898729296,
+                  105766.48701702879
+                ],
+                [
+                  101057.98098729317,
+                  105764.88701703417
+                ],
+                [
+                  101019.70398741357,
+                  105781.94301701503
+                ],
+                [
+                  101017.29598742134,
+                  105783.01601701364
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "037-050-041",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "PALPA 3237",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.45207705397548,
+      -34.57714925005726
+    ],
+    "direccion": "",
+    "fondo": "190.80",
+    "frente": "1.74",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "050",
+    "parcela": "041",
+    "pdamatriz": "407570",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "037",
+    "smp": "037-050-041",
+    "smp_anterior": "037-050-040",
+    "smp_siguiente": "037-050-042",
+    "srid": 4326,
+    "superficie_cubierta": "240.00",
+    "superficie_total": "332.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "037-050-041",
+  "_http_status": 200
+}

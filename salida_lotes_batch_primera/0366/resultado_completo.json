@@ -1,0 +1,424 @@
+{
+  "area_m2": 216.17861461639404,
+  "centroide_lonlat": {
+    "lat": -34.629836,
+    "lon": -58.430706
+  },
+  "centroide_xy": {
+    "x": 102988.9457292796,
+    "y": 99936.64789012042
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 0.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "RUA",
+            "distrito_especifico": "RUA"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION040/040-093-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION040/PI-040-093-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "040-093-034",
+            "040-093-030",
+            "040-093-032",
+            "040-093-033",
+            "040-093-003f",
+            "040-093-002a"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "RUA",
+          "incidencia_uva": 200.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 216.2,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "040-093-031"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Parque Chacabuco",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1424",
+    "codigo_postal_argentino": "C1424CLG",
+    "comisaria": "10",
+    "comisaria_vecinal": "7B",
+    "comuna": "Comuna 7",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "40"
+  },
+  "debug": {
+    "address": "TEJEDOR 311",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.43070560265715,
+        -34.62983571276717
+      ],
+      "direccion": "",
+      "fondo": "23.78",
+      "frente": "9.80",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "093",
+      "parcela": "031",
+      "pdamatriz": "156508",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "2",
+      "propiedad_horizontal": "Si",
+      "seccion": "040",
+      "smp": "040-093-031",
+      "smp_anterior": "040-093-030",
+      "smp_siguiente": "040-093-032",
+      "srid": 4326,
+      "superficie_cubierta": "310.00",
+      "superficie_total": "233.00",
+      "unidades_funcionales": "3",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 311,
+      "cod_calle": 21018
+    },
+    "usig_direccion_elegida": {
+      "altura": 311,
+      "cod_calle": 21018,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.430679",
+        "y": "-34.629978"
+      },
+      "direccion": "TEJEDOR 311, CABA",
+      "nombre_calle": "TEJEDOR",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 311,
+          "cod_calle": 21018,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.430679",
+            "y": "-34.629978"
+          },
+          "direccion": "TEJEDOR 311, CABA",
+          "nombre_calle": "TEJEDOR",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 311,
+          "cod_calle": 58081,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3579351035714,
+            "y": -34.8166334678572
+          },
+          "direccion": "Carlos Tejedor 311, Almirante Brown",
+          "nombre_calle": "Carlos Tejedor",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Claypole",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 311,
+          "cod_calle": 41531,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.51966625,
+            "y": -34.6763580625
+          },
+          "direccion": "Carlos Tejedor 311, La Matanza",
+          "nombre_calle": "Carlos Tejedor",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "La Tablada",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 311,
+          "cod_calle": 506145,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3960046938775,
+            "y": -34.7024849102041
+          },
+          "direccion": "Gobernador Carlos Tejedor 311, Lanús",
+          "nombre_calle": "Gobernador Carlos Tejedor",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lanús Oeste",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 311,
+          "cod_calle": 32538,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3866862244898,
+            "y": -34.7651356234694
+          },
+          "direccion": "Carlos Tejedor 311, Lomas de Zamora",
+          "nombre_calle": "Carlos Tejedor",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Temperley",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 311,
+          "cod_calle": 119641,
+          "cod_calle_cruce": null,
+          "cod_partido": "lujan",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -59.177877542953,
+            "y": -34.5981683624161
+          },
+          "direccion": "Los Tejedores 311, Luján",
+          "nombre_calle": "Los Tejedores",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Luján",
+          "nombre_partido": "Luján",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 311,
+          "cod_calle": 165153,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7217524295918,
+            "y": -34.6819505418367
+          },
+          "direccion": "Carlos Tejedor 311, Merlo",
+          "nombre_calle": "Carlos Tejedor",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Merlo",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 311,
+          "cod_calle": 316451,
+          "cod_calle_cruce": null,
+          "cod_partido": "moreno",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.8108565673469,
+            "y": -34.6035771459184
+          },
+          "direccion": "Carlos Tejedor 311, Moreno",
+          "nombre_calle": "Carlos Tejedor",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Moreno",
+          "nombre_partido": "Moreno",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 311,
+          "cod_calle": 141045,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_isidro",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5605524222222,
+            "y": -34.4967109888889
+          },
+          "direccion": "Carlos Tejedor 311, San Isidro",
+          "nombre_calle": "Carlos Tejedor",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Boulogne Sur Mer",
+          "nombre_partido": "San Isidro",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102991.55704650529,
+                  99950.48210249428
+                ],
+                [
+                  102993.08856167822,
+                  99940.18600342519
+                ],
+                [
+                  102995.17996420083,
+                  99926.11568215137
+                ],
+                [
+                  102985.90105526653,
+                  99924.52457055144
+                ],
+                [
+                  102982.66908433478,
+                  99945.13799646497
+                ],
+                [
+                  102991.55704650529,
+                  99950.48210249428
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "040-093-031",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "TEJEDOR 311",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.43070560265715,
+      -34.62983571276717
+    ],
+    "direccion": "",
+    "fondo": "23.78",
+    "frente": "9.80",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "093",
+    "parcela": "031",
+    "pdamatriz": "156508",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "2",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "040",
+    "smp": "040-093-031",
+    "smp_anterior": "040-093-030",
+    "smp_siguiente": "040-093-032",
+    "srid": 4326,
+    "superficie_cubierta": "310.00",
+    "superficie_total": "233.00",
+    "unidades_funcionales": "3",
+    "vuc": "0.00"
+  },
+  "smp": "040-093-031",
+  "_http_status": 200
+}

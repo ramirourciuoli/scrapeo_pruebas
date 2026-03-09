@@ -1,0 +1,345 @@
+{
+  "area_m2": 120.28477001190186,
+  "centroide_lonlat": {
+    "lat": -34.61835,
+    "lon": -58.518672
+  },
+  "centroide_xy": {
+    "x": 94921.58654563993,
+    "y": 101209.93397859353
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/39/087-008B-015_0000196739.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION087/087-008B-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION087/PI-087-008B-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "087-008B-016",
+            "087-008B-011",
+            "087-008B-014"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "AE 26",
+          "incidencia_uva": 100.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 120.326800000097,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 120.3,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "087-008B-015"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Villa Devoto",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1417",
+    "codigo_postal_argentino": "C1417FEC",
+    "comisaria": "45",
+    "comisaria_vecinal": "11B",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "87"
+  },
+  "debug": {
+    "address": "DESEADO 5271",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.518672372089505,
+        -34.61834985877554
+      ],
+      "direccion": "",
+      "fondo": "14.09",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "008B",
+      "parcela": "015",
+      "pdamatriz": "287605",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "087",
+      "smp": "087-008B-015",
+      "smp_anterior": "087-008B-014",
+      "smp_siguiente": "087-008B-016",
+      "srid": 4326,
+      "superficie_cubierta": "153.00",
+      "superficie_total": "122.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 5271,
+      "cod_calle": 4067
+    },
+    "usig_direccion_elegida": {
+      "altura": 5271,
+      "cod_calle": 4067,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.518598",
+        "y": "-34.618403"
+      },
+      "direccion": "DESEADO 5271, CABA",
+      "nombre_calle": "DESEADO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 5271,
+          "cod_calle": 4067,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.518598",
+            "y": "-34.618403"
+          },
+          "direccion": "DESEADO 5271, CABA",
+          "nombre_calle": "DESEADO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  94927.78300105344,
+                  101206.3430344325
+                ],
+                [
+                  94927.00100105531,
+                  101205.43203443533
+                ],
+                [
+                  94924.09600106064,
+                  101202.05003444679
+                ],
+                [
+                  94921.97700106802,
+                  101203.92103444343
+                ],
+                [
+                  94921.60900106953,
+                  101204.24403444267
+                ],
+                [
+                  94921.43100106984,
+                  101204.40103444198
+                ],
+                [
+                  94920.77400107245,
+                  101204.97703444122
+                ],
+                [
+                  94920.17600107429,
+                  101205.50303443981
+                ],
+                [
+                  94918.01300108207,
+                  101207.40203443632
+                ],
+                [
+                  94917.5620010833,
+                  101207.79803443619
+                ],
+                [
+                  94916.81700108576,
+                  101208.45203443407
+                ],
+                [
+                  94916.0660010882,
+                  101209.1110344328
+                ],
+                [
+                  94913.51400109786,
+                  101211.35203442883
+                ],
+                [
+                  94916.37400109174,
+                  101214.74003441742
+                ],
+                [
+                  94918.95800108662,
+                  101217.80103440667
+                ],
+                [
+                  94920.7900010807,
+                  101216.22703440965
+                ],
+                [
+                  94921.54300107768,
+                  101215.58103441118
+                ],
+                [
+                  94922.652001074,
+                  101214.62803441237
+                ],
+                [
+                  94924.5270010675,
+                  101213.01703441588
+                ],
+                [
+                  94929.6990010499,
+                  101208.5740344245
+                ],
+                [
+                  94927.78300105344,
+                  101206.3430344325
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "087-008B-015",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "DESEADO 5271",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.518672372089505,
+      -34.61834985877554
+    ],
+    "direccion": "",
+    "fondo": "14.09",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "008B",
+    "parcela": "015",
+    "pdamatriz": "287605",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "087",
+    "smp": "087-008B-015",
+    "smp_anterior": "087-008B-014",
+    "smp_siguiente": "087-008B-016",
+    "srid": 4326,
+    "superficie_cubierta": "153.00",
+    "superficie_total": "122.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "087-008B-015",
+  "_http_status": 200
+}

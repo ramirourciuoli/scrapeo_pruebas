@@ -1,0 +1,357 @@
+{
+  "area_m2": 187.70169830322266,
+  "centroide_lonlat": {
+    "lat": -34.570715,
+    "lon": -58.457826
+  },
+  "centroide_xy": {
+    "x": 100502.30329214947,
+    "y": 106495.7387059935
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/2/85/037-103-010_0000093285.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION037/037-103-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION037/PI-037-103-V4.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "037-103-011a",
+            "037-103-009",
+            "037-103-013"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 380.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 144.838077181301,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 187.7,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "037-103-010"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Colegiales",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1426",
+    "codigo_postal_argentino": "C1426EJN",
+    "comisaria": "37",
+    "comisaria_vecinal": "13C",
+    "comuna": "Comuna 13",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   IX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "37"
+  },
+  "debug": {
+    "address": "AV. ELCANO 2988",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.457826268143286,
+        -34.57071482575936
+      ],
+      "direccion": "",
+      "fondo": "23.62",
+      "frente": "7.79",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "103",
+      "parcela": "010",
+      "pdamatriz": "409238",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "037",
+      "smp": "037-103-010",
+      "smp_anterior": "037-103-009",
+      "smp_siguiente": "037-103-011A",
+      "srid": 4326,
+      "superficie_cubierta": "250.00",
+      "superficie_total": "184.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2988,
+      "cod_calle": 5017
+    },
+    "usig_direccion_elegida": {
+      "altura": 2988,
+      "cod_calle": 5017,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.458037",
+        "y": "-34.570657"
+      },
+      "direccion": "ELCANO AV. 2988, CABA",
+      "nombre_calle": "ELCANO AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2988,
+          "cod_calle": 5017,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.458037",
+            "y": "-34.570657"
+          },
+          "direccion": "ELCANO AV. 2988, CABA",
+          "nombre_calle": "ELCANO AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  100489.47398943763,
+                  106494.8280154147
+                ],
+                [
+                  100491.64898943709,
+                  106502.45601539218
+                ],
+                [
+                  100492.70198943329,
+                  106502.17901539145
+                ],
+                [
+                  100494.79098942765,
+                  106501.63101539193
+                ],
+                [
+                  100495.75798942492,
+                  106501.37701539227
+                ],
+                [
+                  100500.44298941047,
+                  106500.14701539167
+                ],
+                [
+                  100503.30898940224,
+                  106499.39501539129
+                ],
+                [
+                  100503.88898940056,
+                  106499.24201539136
+                ],
+                [
+                  100508.31998938714,
+                  106498.07901539159
+                ],
+                [
+                  100512.61598937429,
+                  106496.92601539165
+                ],
+                [
+                  100516.35698936255,
+                  106495.99601539172
+                ],
+                [
+                  100514.51998936526,
+                  106493.09001540084
+                ],
+                [
+                  100512.15898936949,
+                  106489.35401541353
+                ],
+                [
+                  100510.81698937333,
+                  106489.6780154137
+                ],
+                [
+                  100508.54798938069,
+                  106490.22501541316
+                ],
+                [
+                  100504.42598939253,
+                  106491.22001541356
+                ],
+                [
+                  100504.29298939258,
+                  106491.25201541415
+                ],
+                [
+                  100502.48198939822,
+                  106491.68901541422
+                ],
+                [
+                  100502.09298939991,
+                  106491.78301541382
+                ],
+                [
+                  100501.50998940105,
+                  106491.92401541368
+                ],
+                [
+                  100498.69398940983,
+                  106492.60301541438
+                ],
+                [
+                  100498.51998940978,
+                  106492.64501541381
+                ],
+                [
+                  100495.81798941824,
+                  106493.29701541475
+                ],
+                [
+                  100489.47398943763,
+                  106494.8280154147
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "037-103-010",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AV. ELCANO 2988",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.457826268143286,
+      -34.57071482575936
+    ],
+    "direccion": "",
+    "fondo": "23.62",
+    "frente": "7.79",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "103",
+    "parcela": "010",
+    "pdamatriz": "409238",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "037",
+    "smp": "037-103-010",
+    "smp_anterior": "037-103-009",
+    "smp_siguiente": "037-103-011A",
+    "srid": 4326,
+    "superficie_cubierta": "250.00",
+    "superficie_total": "184.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "037-103-010",
+  "_http_status": 200
+}

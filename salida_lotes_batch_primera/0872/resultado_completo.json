@@ -1,0 +1,431 @@
+{
+  "area_m2": 130.1348056793213,
+  "centroide_lonlat": {
+    "lat": -34.609069,
+    "lon": -58.436214
+  },
+  "centroide_xy": {
+    "x": 102484.44300173441,
+    "y": 102240.63004300217
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 0.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "U",
+            "distrito_especifico": "U 85"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/1/45/045-107-046_0000290145.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION045/045-107-V2.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION045/PI-045-107-V5.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "045-107-002",
+            "045-107-001",
+            "045-107-045"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2b III",
+          "incidencia_uva": 210.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "Zona 3a",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 130.1,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "045-107-046"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Caballito",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1405",
+    "codigo_postal_argentino": "C1405BOJ",
+    "comisaria": "11",
+    "comisaria_vecinal": "6A",
+    "comuna": "Comuna 6",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "45"
+  },
+  "debug": {
+    "address": "CAMPICHUELO 690",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.43621394887972,
+        -34.609068519914466
+      ],
+      "direccion": "",
+      "fondo": "12.86",
+      "frente": "10.34",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "107",
+      "parcela": "046",
+      "pdamatriz": "174926",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "4",
+      "propiedad_horizontal": "Si",
+      "seccion": "045",
+      "smp": "045-107-046",
+      "smp_anterior": "045-107-045",
+      "smp_siguiente": "045-107-001",
+      "srid": 4326,
+      "superficie_cubierta": "640.00",
+      "superficie_total": "133.00",
+      "unidades_funcionales": "6",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 690,
+      "cod_calle": 3040
+    },
+    "usig_direccion_elegida": {
+      "altura": 690,
+      "cod_calle": 3040,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.436112",
+        "y": "-34.609049"
+      },
+      "direccion": "CAMPICHUELO 690, CABA",
+      "nombre_calle": "CAMPICHUELO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 690,
+          "cod_calle": 3040,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.436112",
+            "y": "-34.609049"
+          },
+          "direccion": "CAMPICHUELO 690, CABA",
+          "nombre_calle": "CAMPICHUELO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 690,
+          "cod_calle": 38879,
+          "cod_calle_cruce": null,
+          "cod_partido": "avellaneda",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3767727122449,
+            "y": -34.6870114632653
+          },
+          "direccion": "Campichuelo 690, Avellaneda",
+          "nombre_calle": "Campichuelo",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Gerli",
+          "nombre_partido": "Avellaneda",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 690,
+          "cod_calle": 161653,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7610131326531,
+            "y": -34.6644860387755
+          },
+          "direccion": "Campichuelo 690, Merlo",
+          "nombre_calle": "Campichuelo",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Merlo",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102479.4240529153,
+                  102234.22213279907
+                ],
+                [
+                  102479.11405535857,
+                  102235.53713523701
+                ],
+                [
+                  102478.63206073256,
+                  102237.58114157931
+                ],
+                [
+                  102478.46398065513,
+                  102238.2920258551
+                ],
+                [
+                  102478.36898065599,
+                  102238.69602585415
+                ],
+                [
+                  102477.8699806591,
+                  102240.81102584788
+                ],
+                [
+                  102477.7829806594,
+                  102241.1780258475
+                ],
+                [
+                  102477.22098066281,
+                  102243.56302584105
+                ],
+                [
+                  102477.08398066352,
+                  102244.14202583936
+                ],
+                [
+                  102479.71398065651,
+                  102244.77102583533
+                ],
+                [
+                  102480.00598065612,
+                  102244.84102583522
+                ],
+                [
+                  102480.2239806559,
+                  102244.89302583507
+                ],
+                [
+                  102481.11598065353,
+                  102245.10602583329
+                ],
+                [
+                  102482.67498064888,
+                  102245.47902583174
+                ],
+                [
+                  102484.43198064445,
+                  102245.89902582913
+                ],
+                [
+                  102484.69498064402,
+                  102245.96202582886
+                ],
+                [
+                  102488.80898063332,
+                  102246.94602582318
+                ],
+                [
+                  102489.44098063096,
+                  102247.09702582186
+                ],
+                [
+                  102489.63198063034,
+                  102246.26902582432
+                ],
+                [
+                  102490.07098062793,
+                  102244.3690258289
+                ],
+                [
+                  102490.38698062566,
+                  102243.00502583248
+                ],
+                [
+                  102491.54698061879,
+                  102237.98702584553
+                ],
+                [
+                  102491.76798061734,
+                  102237.03202584793
+                ],
+                [
+                  102491.13398061847,
+                  102236.88802584945
+                ],
+                [
+                  102489.8139806226,
+                  102236.5870258513
+                ],
+                [
+                  102487.42898062814,
+                  102236.04402585409
+                ],
+                [
+                  102487.01198062982,
+                  102235.94902585488
+                ],
+                [
+                  102486.89298063017,
+                  102235.92202585534
+                ],
+                [
+                  102484.98898063507,
+                  102235.4890258578
+                ],
+                [
+                  102483.35298063947,
+                  102235.11602586039
+                ],
+                [
+                  102482.30998064167,
+                  102234.87902586118
+                ],
+                [
+                  102481.51698064418,
+                  102234.69802586242
+                ],
+                [
+                  102480.48598064648,
+                  102234.46402586368
+                ],
+                [
+                  102479.4240529153,
+                  102234.22213279907
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "045-107-046",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CAMPICHUELO 690",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.43621394887972,
+      -34.609068519914466
+    ],
+    "direccion": "",
+    "fondo": "12.86",
+    "frente": "10.34",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "107",
+    "parcela": "046",
+    "pdamatriz": "174926",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "4",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "045",
+    "smp": "045-107-046",
+    "smp_anterior": "045-107-045",
+    "smp_siguiente": "045-107-001",
+    "srid": 4326,
+    "superficie_cubierta": "640.00",
+    "superficie_total": "133.00",
+    "unidades_funcionales": "6",
+    "vuc": "0.00"
+  },
+  "smp": "045-107-046",
+  "_http_status": 200
+}

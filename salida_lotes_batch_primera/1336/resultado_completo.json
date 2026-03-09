@@ -1,0 +1,400 @@
+{
+  "area_m2": 380.2370319366455,
+  "centroide_lonlat": {
+    "lat": -34.544757,
+    "lon": -58.474193
+  },
+  "centroide_xy": {
+    "x": 99000.06875276341,
+    "y": 109375.34313228802
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/12/043-159-006_0000337512.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION043/043-159-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION043/PI-043-159-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "043-159-030",
+            "043-159-007",
+            "043-159-005",
+            "043-159-029",
+            "043-159-028"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 400.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 188.901372994213,
+        "sup_max_edificable": 1319.4,
+        "superficie_parcela": 380.2,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "043-159-006"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Saavedra",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1429",
+    "codigo_postal_argentino": "C1429DRP",
+    "comisaria": "35",
+    "comisaria_vecinal": "12A",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   X",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "43"
+  },
+  "debug": {
+    "address": "CORREA 2596",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.4741931284544,
+        -34.544756887995696
+      ],
+      "direccion": "",
+      "fondo": "43.25",
+      "frente": "8.74",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "159",
+      "parcela": "006",
+      "pdamatriz": "333579",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "043",
+      "smp": "043-159-006",
+      "smp_anterior": "043-159-005",
+      "smp_siguiente": "043-159-007",
+      "srid": 4326,
+      "superficie_cubierta": "303.00",
+      "superficie_total": "378.00",
+      "unidades_funcionales": "2",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2596,
+      "cod_calle": 3169
+    },
+    "usig_direccion_elegida": {
+      "altura": 2596,
+      "cod_calle": 3169,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.474291",
+        "y": "-34.544555"
+      },
+      "direccion": "CORREA 2596, CABA",
+      "nombre_calle": "CORREA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2596,
+          "cod_calle": 3169,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.474291",
+            "y": "-34.544555"
+          },
+          "direccion": "CORREA 2596, CABA",
+          "nombre_calle": "CORREA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2596,
+          "cod_calle": 192833,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6359125122449,
+            "y": -34.7052337734694
+          },
+          "direccion": "Fray O. Correa 2596, La Matanza",
+          "nombre_calle": "Fray O. Correa",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Rafael Castillo",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99007.06399575867,
+                  109369.73400846863
+                ],
+                [
+                  99010.75999574098,
+                  109360.59600849121
+                ],
+                [
+                  99011.37799573786,
+                  109359.06900849525
+                ],
+                [
+                  99012.27799573404,
+                  109356.84300850105
+                ],
+                [
+                  99004.11899575451,
+                  109353.6280085154
+                ],
+                [
+                  99002.64399576177,
+                  109357.27600850633
+                ],
+                [
+                  98997.47499578519,
+                  109370.06700847455
+                ],
+                [
+                  98995.25499579578,
+                  109375.5570084611
+                ],
+                [
+                  98994.89599579731,
+                  109376.44600845929
+                ],
+                [
+                  98994.76699579821,
+                  109376.76600845787
+                ],
+                [
+                  98994.12299580089,
+                  109378.36000845436
+                ],
+                [
+                  98993.41999580443,
+                  109380.09700844972
+                ],
+                [
+                  98993.16799580526,
+                  109380.72100844805
+                ],
+                [
+                  98991.4839958137,
+                  109384.88700843783
+                ],
+                [
+                  98989.82099582176,
+                  109389.00200842781
+                ],
+                [
+                  98989.69399582202,
+                  109389.31700842647
+                ],
+                [
+                  98989.44599582351,
+                  109389.92900842463
+                ],
+                [
+                  98988.23399582884,
+                  109392.92900841721
+                ],
+                [
+                  98987.85899583061,
+                  109393.85600841496
+                ],
+                [
+                  98991.1079958223,
+                  109395.13300840964
+                ],
+                [
+                  98993.30199581695,
+                  109395.9950084053
+                ],
+                [
+                  98996.01099580995,
+                  109397.06000839974
+                ],
+                [
+                  98996.38599580817,
+                  109396.13400840212
+                ],
+                [
+                  98996.96199580585,
+                  109394.710008406
+                ],
+                [
+                  98998.68499579711,
+                  109390.45000841687
+                ],
+                [
+                  98999.47999579426,
+                  109388.48400842177
+                ],
+                [
+                  99001.28899578526,
+                  109384.01100843278
+                ],
+                [
+                  99004.29699577161,
+                  109376.5740084514
+                ],
+                [
+                  99005.56599576506,
+                  109373.43800845928
+                ],
+                [
+                  99007.06399575867,
+                  109369.73400846863
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "043-159-006",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CORREA 2596",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.4741931284544,
+      -34.544756887995696
+    ],
+    "direccion": "",
+    "fondo": "43.25",
+    "frente": "8.74",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "159",
+    "parcela": "006",
+    "pdamatriz": "333579",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "043",
+    "smp": "043-159-006",
+    "smp_anterior": "043-159-005",
+    "smp_siguiente": "043-159-007",
+    "srid": 4326,
+    "superficie_cubierta": "303.00",
+    "superficie_total": "378.00",
+    "unidades_funcionales": "2",
+    "vuc": "0.00"
+  },
+  "smp": "043-159-006",
+  "_http_status": 200
+}

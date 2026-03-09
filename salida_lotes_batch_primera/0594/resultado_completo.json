@@ -1,0 +1,61 @@
+{
+  "debug": {
+    "address": "HUMBERTO SELVETTI 4445",
+    "catastro_parcela_por_codcalle_altura": {},
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "SELVETTI, HUMBERTO",
+      "puerta": 4445
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4445,
+      "cod_calle": 98872
+    },
+    "usig_direccion_elegida": {
+      "altura": 4445,
+      "cod_calle": 98872,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.455184",
+        "y": "-34.673945"
+      },
+      "direccion": "SELVETTI, HUMBERTO 4445, CABA",
+      "nombre_calle": "SELVETTI, HUMBERTO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.673945,
+      "lng": -58.455184
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4445,
+          "cod_calle": 98872,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.455184",
+            "y": "-34.673945"
+          },
+          "direccion": "SELVETTI, HUMBERTO 4445, CABA",
+          "nombre_calle": "SELVETTI, HUMBERTO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura.",
+  "ok": false,
+  "_http_status": 404
+}

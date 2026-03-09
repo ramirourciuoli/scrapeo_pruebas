@@ -1,0 +1,362 @@
+{
+  "area_m2": 197.7014684677124,
+  "centroide_lonlat": {
+    "lat": -34.633311,
+    "lon": -58.359436
+  },
+  "centroide_xy": {
+    "x": 109524.0338687481,
+    "y": 99546.67012120924
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 4.83,
+          "fot_perim_libre": 4.83,
+          "fot_semi_libre": 4.83
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/8/41/006-038-012c_0000301841.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION006/006-038-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION006/PI-006-038-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "006-038-012d",
+            "006-038-011",
+            "006-038-012b"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2a II 2",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 197.654800000249,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 197.7,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "006-038-012C"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C. ARGERICH",
+    "barrio": "Boca",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1161",
+    "codigo_postal_argentino": "C1161ACG",
+    "comisaria": "24",
+    "comisaria_vecinal": "4C",
+    "comuna": "Comuna 4",
+    "distrito_economico": "DISTRITO DE LAS ARTES",
+    "distrito_escolar": "Distrito Escolar   IV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "06"
+  },
+  "debug": {
+    "address": "PINZON 369",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.35943627174909,
+        -34.63331117117592
+      ],
+      "direccion": "PINZON 369",
+      "fondo": "22.11",
+      "frente": "9.00",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "038",
+      "parcela": "012C",
+      "pdamatriz": "124324",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "3",
+      "propiedad_horizontal": "Si",
+      "seccion": "006",
+      "smp": "006-038-012C",
+      "smp_anterior": "006-038-012B",
+      "smp_siguiente": "006-038-012D",
+      "srid": 4326,
+      "superficie_cubierta": "505.00",
+      "superficie_total": "199.00",
+      "unidades_funcionales": "6",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 369,
+      "cod_calle": 17088
+    },
+    "usig_direccion_elegida": {
+      "altura": 369,
+      "cod_calle": 17088,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.359376",
+        "y": "-34.633412"
+      },
+      "direccion": "PINZON 369, CABA",
+      "nombre_calle": "PINZON",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 369,
+          "cod_calle": 17088,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.359376",
+            "y": "-34.633412"
+          },
+          "direccion": "PINZON 369, CABA",
+          "nombre_calle": "PINZON",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  109516.85995889528,
+                  99551.26002809149
+                ],
+                [
+                  109516.3949588958,
+                  99552.21502808883
+                ],
+                [
+                  109515.17895890195,
+                  99554.71702808398
+                ],
+                [
+                  109517.74695889649,
+                  99556.02902807936
+                ],
+                [
+                  109521.9789588861,
+                  99558.19002806913
+                ],
+                [
+                  109522.2809588845,
+                  99557.56102807022
+                ],
+                [
+                  109523.38195888192,
+                  99558.16102806732
+                ],
+                [
+                  109524.85895887476,
+                  99555.14702807565
+                ],
+                [
+                  109525.79695887072,
+                  99553.23202807992
+                ],
+                [
+                  109527.80295886239,
+                  99549.13902809046
+                ],
+                [
+                  109528.79595885817,
+                  99547.11202809482
+                ],
+                [
+                  109529.06995885582,
+                  99546.55302809642
+                ],
+                [
+                  109529.58495885429,
+                  99545.502028099
+                ],
+                [
+                  109532.91395883993,
+                  99538.70802811527
+                ],
+                [
+                  109532.01795884236,
+                  99538.26502811813
+                ],
+                [
+                  109527.80595885206,
+                  99536.18102812627
+                ],
+                [
+                  109524.89195885969,
+                  99534.74002813324
+                ],
+                [
+                  109522.29595887073,
+                  99540.07902811933
+                ],
+                [
+                  109521.51795887435,
+                  99541.67902811471
+                ],
+                [
+                  109520.55095887808,
+                  99543.66702811045
+                ],
+                [
+                  109519.7689588825,
+                  99545.277028107
+                ],
+                [
+                  109519.11495888488,
+                  99546.62202810473
+                ],
+                [
+                  109516.85995889528,
+                  99551.26002809149
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "006-038-012C",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "PINZON 369",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.35943627174909,
+      -34.63331117117592
+    ],
+    "direccion": "PINZON 369",
+    "fondo": "22.11",
+    "frente": "9.00",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "038",
+    "parcela": "012C",
+    "pdamatriz": "124324",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "3",
+    "propiedad_horizontal": "Si",
+    "puertas": [
+      {
+        "altura": 369,
+        "calle": "PINZON",
+        "codigo_calle": 17088,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "006",
+    "smp": "006-038-012C",
+    "smp_anterior": "006-038-012B",
+    "smp_siguiente": "006-038-012D",
+    "srid": 4326,
+    "superficie_cubierta": "505.00",
+    "superficie_total": "199.00",
+    "unidades_funcionales": "6",
+    "vuc": "0.00"
+  },
+  "smp": "006-038-012C"
+}

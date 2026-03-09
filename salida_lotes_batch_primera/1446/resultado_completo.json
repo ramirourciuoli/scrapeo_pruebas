@@ -1,0 +1,406 @@
+{
+  "area_m2": 275.6654682159424,
+  "centroide_lonlat": {
+    "lat": -34.603822,
+    "lon": -58.473977
+  },
+  "centroide_xy": {
+    "x": 99020.62612450136,
+    "y": 102822.96540736989
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/9/79/069-094-045_0000106979.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION069/069-094-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION069/PI-069-094-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "069-094-004",
+            "069-094-046",
+            "069-094-044",
+            "069-094-005"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 275.637300000079,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 275.7,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "069-094-045"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. T. ÁLVAREZ",
+    "barrio": "Paternal",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1416",
+    "codigo_postal_argentino": "C1416FFG",
+    "comisaria": "41",
+    "comisaria_vecinal": "15A",
+    "comuna": "Comuna 15",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "69"
+  },
+  "debug": {
+    "address": "LINNEO 2115",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.47397672233064,
+        -34.60382175748377
+      ],
+      "direccion": "",
+      "fondo": "31.77",
+      "frente": "8.72",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "094",
+      "parcela": "045",
+      "pdamatriz": "243606",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "2",
+      "propiedad_horizontal": "Si",
+      "seccion": "069",
+      "smp": "069-094-045",
+      "smp_anterior": "069-094-044",
+      "smp_siguiente": "069-094-046",
+      "srid": 4326,
+      "superficie_cubierta": "491.00",
+      "superficie_total": "277.00",
+      "unidades_funcionales": "7",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2115,
+      "cod_calle": 12115
+    },
+    "usig_direccion_elegida": {
+      "altura": 2115,
+      "cod_calle": 12115,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.473772",
+        "y": "-34.603851"
+      },
+      "direccion": "LINNEO 2115, CABA",
+      "nombre_calle": "LINNEO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2115,
+          "cod_calle": 12115,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.473772",
+            "y": "-34.603851"
+          },
+          "direccion": "LINNEO 2115, CABA",
+          "nombre_calle": "LINNEO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99004.14999083818,
+                  102821.54802683496
+                ],
+                [
+                  99004.73199083775,
+                  102824.43802682549
+                ],
+                [
+                  99004.94999083824,
+                  102825.52402682364
+                ],
+                [
+                  99005.1169908382,
+                  102826.35102681952
+                ],
+                [
+                  99005.54999083882,
+                  102828.50002681368
+                ],
+                [
+                  99005.8679908396,
+                  102830.08202680701
+                ],
+                [
+                  99010.02399082715,
+                  102829.3210268092
+                ],
+                [
+                  99011.59899082442,
+                  102829.03202680667
+                ],
+                [
+                  99014.70099081425,
+                  102828.46402680656
+                ],
+                [
+                  99017.85899080394,
+                  102827.88602680521
+                ],
+                [
+                  99023.11999078844,
+                  102826.92202680546
+                ],
+                [
+                  99024.48499078462,
+                  102826.67302680464
+                ],
+                [
+                  99025.1729907826,
+                  102826.54702680375
+                ],
+                [
+                  99026.15899077976,
+                  102826.36602680525
+                ],
+                [
+                  99027.76999077472,
+                  102826.07102680489
+                ],
+                [
+                  99028.87899077103,
+                  102825.86802680301
+                ],
+                [
+                  99031.49999076339,
+                  102825.3880268042
+                ],
+                [
+                  99033.7709907564,
+                  102824.97202680263
+                ],
+                [
+                  99037.01599074708,
+                  102824.37802680276
+                ],
+                [
+                  99036.89499074723,
+                  102823.67602680335
+                ],
+                [
+                  99036.43899074651,
+                  102821.02502681199
+                ],
+                [
+                  99036.28799074666,
+                  102820.15002681469
+                ],
+                [
+                  99035.75199074592,
+                  102817.037026824
+                ],
+                [
+                  99035.54999074506,
+                  102815.86202682598
+                ],
+                [
+                  99034.80199074725,
+                  102815.99702682646
+                ],
+                [
+                  99034.57599074906,
+                  102816.0380268278
+                ],
+                [
+                  99031.29799075794,
+                  102816.63202682839
+                ],
+                [
+                  99030.46099075992,
+                  102816.7840268276
+                ],
+                [
+                  99028.60199076585,
+                  102817.1200268286
+                ],
+                [
+                  99025.04799077638,
+                  102817.76402682869
+                ],
+                [
+                  99023.70099078052,
+                  102818.00802683056
+                ],
+                [
+                  99022.00399078485,
+                  102818.3150268308
+                ],
+                [
+                  99021.2549907879,
+                  102818.45102682943
+                ],
+                [
+                  99015.47099080474,
+                  102819.49802683087
+                ],
+                [
+                  99012.8709908122,
+                  102819.96902683165
+                ],
+                [
+                  99004.14999083818,
+                  102821.54802683496
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "069-094-045",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "LINNEO 2115",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.47397672233064,
+      -34.60382175748377
+    ],
+    "direccion": "",
+    "fondo": "31.77",
+    "frente": "8.72",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "094",
+    "parcela": "045",
+    "pdamatriz": "243606",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "2",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "069",
+    "smp": "069-094-045",
+    "smp_anterior": "069-094-044",
+    "smp_siguiente": "069-094-046",
+    "srid": 4326,
+    "superficie_cubierta": "491.00",
+    "superficie_total": "277.00",
+    "unidades_funcionales": "7",
+    "vuc": "0.00"
+  },
+  "smp": "069-094-045",
+  "_http_status": 200
+}

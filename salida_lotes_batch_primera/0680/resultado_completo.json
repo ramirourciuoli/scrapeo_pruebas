@@ -1,0 +1,410 @@
+{
+  "area_m2": 471.5628356933594,
+  "centroide_lonlat": {
+    "lat": -34.667398,
+    "lon": -58.470649
+  },
+  "centroide_xy": {
+    "x": 99326.38335783313,
+    "y": 95770.07787635202
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/9/14/066-072-006_0000023914.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION066/066-072-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION066/PI-066-072-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "066-072-029",
+            "066-072-007",
+            "066-072-005",
+            "066-072-030"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 378.252464629003,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 471.6,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "066-072-006"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. P. PIÑERO",
+    "barrio": "Villa Lugano",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1439",
+    "codigo_postal_argentino": "C1439AGF",
+    "comisaria": "48",
+    "comisaria_vecinal": "8A",
+    "comuna": "Comuna 8",
+    "distrito_economico": "DISTRITO DEL DEPORTE",
+    "distrito_escolar": "Distrito Escolar   XXI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "66"
+  },
+  "debug": {
+    "address": "ZELARRAYAN 4758",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.47064909112541,
+        -34.667397943421165
+      ],
+      "direccion": "",
+      "fondo": "54.50",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "072",
+      "parcela": "006",
+      "pdamatriz": "82507",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "066",
+      "smp": "066-072-006",
+      "smp_anterior": "066-072-005",
+      "smp_siguiente": "066-072-007",
+      "srid": 4326,
+      "superficie_cubierta": "341.00",
+      "superficie_total": "472.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4758,
+      "cod_calle": 27016
+    },
+    "usig_direccion_elegida": {
+      "altura": 4758,
+      "cod_calle": 27016,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.470910",
+        "y": "-34.667209"
+      },
+      "direccion": "ZELARRAYAN 4758, CABA",
+      "nombre_calle": "ZELARRAYAN",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4758,
+          "cod_calle": 27016,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.470910",
+            "y": "-34.667209"
+          },
+          "direccion": "ZELARRAYAN 4758, CABA",
+          "nombre_calle": "ZELARRAYAN",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99310.44498468729,
+                  95790.50204632196
+                ],
+                [
+                  99312.46798467984,
+                  95788.65304632459
+                ],
+                [
+                  99313.69398467526,
+                  95787.53204632681
+                ],
+                [
+                  99316.09898466725,
+                  95785.33304633122
+                ],
+                [
+                  99318.99998465701,
+                  95782.68104633759
+                ],
+                [
+                  99319.70098465506,
+                  95782.04004633852
+                ],
+                [
+                  99321.62798464662,
+                  95780.27804634106
+                ],
+                [
+                  99322.17898464453,
+                  95779.77504634377
+                ],
+                [
+                  99322.92798464322,
+                  95779.09004634386
+                ],
+                [
+                  99323.23398464164,
+                  95778.810046344
+                ],
+                [
+                  99323.53898464017,
+                  95778.53104634589
+                ],
+                [
+                  99327.59498462592,
+                  95774.82204635162
+                ],
+                [
+                  99327.94098462543,
+                  95774.50604635358
+                ],
+                [
+                  99328.09498462439,
+                  95774.36504635366
+                ],
+                [
+                  99328.61398462288,
+                  95773.89104635423
+                ],
+                [
+                  99328.90698462196,
+                  95773.62304635419
+                ],
+                [
+                  99330.93598461413,
+                  95771.76704635791
+                ],
+                [
+                  99343.07598457311,
+                  95760.66804638109
+                ],
+                [
+                  99349.48898454879,
+                  95754.80404639128
+                ],
+                [
+                  99343.45998456256,
+                  95748.5690464142
+                ],
+                [
+                  99343.24798456268,
+                  95748.7630464131
+                ],
+                [
+                  99337.75998458214,
+                  95753.78804640431
+                ],
+                [
+                  99334.9779845925,
+                  95756.33604639929
+                ],
+                [
+                  99332.32498460107,
+                  95758.76604639436
+                ],
+                [
+                  99331.94698460227,
+                  95759.11104639305
+                ],
+                [
+                  99329.21298461285,
+                  95761.61504638928
+                ],
+                [
+                  99316.50598465634,
+                  95773.25104636443
+                ],
+                [
+                  99315.32598466074,
+                  95774.33004636344
+                ],
+                [
+                  99314.05798466557,
+                  95775.49204635955
+                ],
+                [
+                  99313.8619846658,
+                  95775.67204636213
+                ],
+                [
+                  99311.04498467586,
+                  95778.25104635561
+                ],
+                [
+                  99306.80898469097,
+                  95782.13004634765
+                ],
+                [
+                  99305.68598469389,
+                  95783.15904634519
+                ],
+                [
+                  99303.41098470277,
+                  95785.24204634022
+                ],
+                [
+                  99309.09398469093,
+                  95791.7380463178
+                ],
+                [
+                  99309.40598469066,
+                  95791.45204632083
+                ],
+                [
+                  99310.44498468729,
+                  95790.50204632196
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "066-072-006",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ZELARRAYAN 4758",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.47064909112541,
+      -34.667397943421165
+    ],
+    "direccion": "",
+    "fondo": "54.50",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "072",
+    "parcela": "006",
+    "pdamatriz": "82507",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "066",
+    "smp": "066-072-006",
+    "smp_anterior": "066-072-005",
+    "smp_siguiente": "066-072-007",
+    "srid": 4326,
+    "superficie_cubierta": "341.00",
+    "superficie_total": "472.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "066-072-006",
+  "_http_status": 200
+}

@@ -1,0 +1,332 @@
+{
+  "area_m2": 144.0016326904297,
+  "centroide_lonlat": {
+    "lat": -34.645885,
+    "lon": -58.43084
+  },
+  "centroide_xy": {
+    "x": 102976.03449331521,
+    "y": 98156.244896116
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/22/038-011A-011_0000043522.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION038/038-011A-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION038/PI-038-011A-V3.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "038-011A-010",
+            "038-011A-012"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 144.034299999998,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 144.0,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "038-011A-011"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.M. PENNA",
+    "barrio": "Nueva Pompeya",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1437",
+    "codigo_postal_argentino": "C1437AAR",
+    "comisaria": "34",
+    "comisaria_vecinal": "4B",
+    "comuna": "Comuna 4",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "38"
+  },
+  "debug": {
+    "address": "DEL BARCO CENTENERA 2406",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.43084014442705,
+        -34.645884597670445
+      ],
+      "direccion": "",
+      "fondo": "14.00",
+      "frente": "10.50",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "011A",
+      "parcela": "011",
+      "pdamatriz": "42830",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "038",
+      "smp": "038-011A-011",
+      "smp_anterior": "038-011A-010",
+      "smp_siguiente": "038-011A-012",
+      "srid": 4326,
+      "superficie_cubierta": "144.00",
+      "superficie_total": "147.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2406,
+      "cod_calle": 3112
+    },
+    "usig_direccion_elegida": {
+      "altura": 2406,
+      "cod_calle": 3112,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.430912",
+        "y": "-34.645935"
+      },
+      "direccion": "BARCO CENTENERA DEL AV. 2406, CABA",
+      "nombre_calle": "BARCO CENTENERA DEL AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2406,
+          "cod_calle": 3112,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.430912",
+            "y": "-34.645935"
+          },
+          "direccion": "BARCO CENTENERA DEL AV. 2406, CABA",
+          "nombre_calle": "BARCO CENTENERA DEL AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102970.33997620762,
+                  98161.53303691727
+                ],
+                [
+                  102973.15597620259,
+                  98165.1740369038
+                ],
+                [
+                  102974.06497619941,
+                  98164.39403690476
+                ],
+                [
+                  102975.24397619482,
+                  98163.38203690949
+                ],
+                [
+                  102978.8759761822,
+                  98160.26603691326
+                ],
+                [
+                  102978.97597618138,
+                  98160.18003691579
+                ],
+                [
+                  102981.69497617288,
+                  98157.84703691825
+                ],
+                [
+                  102981.98797617176,
+                  98157.59603691974
+                ],
+                [
+                  102984.62097616291,
+                  98155.33603692299
+                ],
+                [
+                  102983.45597616548,
+                  98154.01903692979
+                ],
+                [
+                  102978.2569761757,
+                  98148.14103694755
+                ],
+                [
+                  102977.75497617577,
+                  98147.57403695193
+                ],
+                [
+                  102972.07997619544,
+                  98152.49203694155
+                ],
+                [
+                  102971.62697619818,
+                  98152.88503693964
+                ],
+                [
+                  102969.88997620344,
+                  98154.39003693665
+                ],
+                [
+                  102969.43997620985,
+                  98160.37003691969
+                ],
+                [
+                  102969.97197620838,
+                  98161.05803691744
+                ],
+                [
+                  102970.33997620762,
+                  98161.53303691727
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "038-011A-011",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "DEL BARCO CENTENERA 2406",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.43084014442705,
+      -34.645884597670445
+    ],
+    "direccion": "",
+    "fondo": "14.00",
+    "frente": "10.50",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "011A",
+    "parcela": "011",
+    "pdamatriz": "42830",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "038",
+    "smp": "038-011A-011",
+    "smp_anterior": "038-011A-010",
+    "smp_siguiente": "038-011A-012",
+    "srid": 4326,
+    "superficie_cubierta": "144.00",
+    "superficie_total": "147.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "038-011A-011",
+  "_http_status": 200
+}

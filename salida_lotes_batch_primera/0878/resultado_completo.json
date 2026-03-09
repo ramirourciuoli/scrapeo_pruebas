@@ -1,0 +1,426 @@
+{
+  "area_m2": 161.1798620223999,
+  "centroide_lonlat": {
+    "lat": -34.64677,
+    "lon": -58.511478
+  },
+  "centroide_xy": {
+    "x": 95582.95210495128,
+    "y": 98057.40622936991
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/2/46/074-135-010_0000034246.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION074/074-135-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION074/PI-074-135-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "074-135-008",
+            "074-135-011",
+            "074-135-009"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 100.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 161.082300000028,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 161.2,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "074-135-010"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Liniers",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1408",
+    "codigo_postal_argentino": "C1408HCR",
+    "comisaria": "54",
+    "comisaria_vecinal": "9B",
+    "comuna": "Comuna 9",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "74"
+  },
+  "debug": {
+    "address": "OLIDEN 814",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.511477611721844,
+        -34.646770346585114
+      ],
+      "direccion": "",
+      "fondo": "19.05",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "135",
+      "parcela": "010",
+      "pdamatriz": "13296",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "074",
+      "smp": "074-135-010",
+      "smp_anterior": "074-135-009",
+      "smp_siguiente": "074-135-011",
+      "srid": 4326,
+      "superficie_cubierta": "215.00",
+      "superficie_total": "165.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 814,
+      "cod_calle": 16016
+    },
+    "usig_direccion_elegida": {
+      "altura": 814,
+      "cod_calle": 16016,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.511580",
+        "y": "-34.646862"
+      },
+      "direccion": "OLIDEN 814, CABA",
+      "nombre_calle": "OLIDEN",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 814,
+          "cod_calle": 16016,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.511580",
+            "y": "-34.646862"
+          },
+          "direccion": "OLIDEN 814, CABA",
+          "nombre_calle": "OLIDEN",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 814,
+          "cod_calle": 11696,
+          "cod_calle_cruce": null,
+          "cod_partido": "avellaneda",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.38529903125,
+            "y": -34.6612333458333
+          },
+          "direccion": "Oliden 814, Avellaneda",
+          "nombre_calle": "Oliden",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Piñeyro",
+          "nombre_partido": "Avellaneda",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 814,
+          "cod_calle": 69968,
+          "cod_calle_cruce": null,
+          "cod_partido": "jose_c_paz",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7466240428571,
+            "y": -34.507691767347
+          },
+          "direccion": "M. de Oliden 814, José C. Paz",
+          "nombre_calle": "M. de Oliden",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "José C. Paz",
+          "nombre_partido": "José C. Paz",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 814,
+          "cod_calle": 10654,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4033388836735,
+            "y": -34.6769869673469
+          },
+          "direccion": "Gobernador Oliden 814, Lanús",
+          "nombre_calle": "Gobernador Oliden",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Valentín Alsina",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 814,
+          "cod_calle": 354213,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4167861102041,
+            "y": -34.7717377897959
+          },
+          "direccion": "Vicente Oliden 814, Lomas de Zamora",
+          "nombre_calle": "Vicente Oliden",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Llavallol",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 814,
+          "cod_calle": 354213,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4167861102041,
+            "y": -34.7717377897959
+          },
+          "direccion": "Vicente Oliden 814, Lomas de Zamora",
+          "nombre_calle": "Vicente Oliden",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lomas de Zamora",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  95573.40599687026,
+                  98053.43604278789
+                ],
+                [
+                  95574.45599686795,
+                  98054.56104278393
+                ],
+                [
+                  95577.4089968618,
+                  98057.72304277332
+                ],
+                [
+                  95579.34999685759,
+                  98059.80204276589
+                ],
+                [
+                  95579.91999685678,
+                  98060.41304276334
+                ],
+                [
+                  95582.04799685295,
+                  98062.69204275546
+                ],
+                [
+                  95583.07399685055,
+                  98063.79204275217
+                ],
+                [
+                  95584.7649968468,
+                  98065.60204274542
+                ],
+                [
+                  95586.35999684429,
+                  98067.31104273925
+                ],
+                [
+                  95586.89899684224,
+                  98066.77304274059
+                ],
+                [
+                  95590.1749968302,
+                  98063.50404274702
+                ],
+                [
+                  95592.40799682225,
+                  98061.27604275139
+                ],
+                [
+                  95589.31499682904,
+                  98057.9490427635
+                ],
+                [
+                  95588.63299683036,
+                  98057.21504276592
+                ],
+                [
+                  95585.91199683497,
+                  98054.28804277602
+                ],
+                [
+                  95585.61999683612,
+                  98053.97404277782
+                ],
+                [
+                  95580.57499684625,
+                  98048.54604279654
+                ],
+                [
+                  95579.68999684825,
+                  98047.59404279935
+                ],
+                [
+                  95576.97999685777,
+                  98050.1130427946
+                ],
+                [
+                  95573.40599687026,
+                  98053.43604278789
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "074-135-010",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "OLIDEN 814",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.511477611721844,
+      -34.646770346585114
+    ],
+    "direccion": "",
+    "fondo": "19.05",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "135",
+    "parcela": "010",
+    "pdamatriz": "13296",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "074",
+    "smp": "074-135-010",
+    "smp_anterior": "074-135-009",
+    "smp_siguiente": "074-135-011",
+    "srid": 4326,
+    "superficie_cubierta": "215.00",
+    "superficie_total": "165.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "074-135-010",
+  "_http_status": 200
+}

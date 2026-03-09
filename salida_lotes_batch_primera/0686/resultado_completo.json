@@ -1,0 +1,338 @@
+{
+  "area_m2": 354.09050273895264,
+  "centroide_lonlat": {
+    "lat": -34.586489,
+    "lon": -58.499175
+  },
+  "centroide_xy": {
+    "x": 96708.50325991331,
+    "y": 104745.30808131724
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [
+          {
+            "estado_parcelario_constituido": "Si",
+            "fecha_de_constitucion": "4-7-2023",
+            "tipo_de_construccion": "Construido",
+            "vencimiento_de_construccion": "4-7-2029"
+          }
+        ],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/fp/SECCION073/FP-073-037-026-VD.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION073/073-037-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION073/PI-073-037-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "073-037-024a",
+            "073-037-005",
+            "073-037-027",
+            "073-037-004",
+            "073-037-006"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 220.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 236.070378390884,
+        "sup_max_edificable": 239.5,
+        "superficie_parcela": 354.1,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "073-037-026"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. A. ZUBIZARRETA",
+    "barrio": "Villa Pueyrredon",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1419",
+    "codigo_postal_argentino": "C1419GIO",
+    "comisaria": "47",
+    "comisaria_vecinal": "12B",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "73"
+  },
+  "debug": {
+    "address": "VALLEJOS 2741",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.49917505986465,
+        -34.58648850754105
+      ],
+      "direccion": "",
+      "fondo": "41.11",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "037",
+      "parcela": "026",
+      "pdamatriz": "360984",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "073",
+      "smp": "073-037-026",
+      "smp_anterior": "073-037-024A",
+      "smp_siguiente": "073-037-027",
+      "srid": 4326,
+      "superficie_cubierta": "450.00",
+      "superficie_total": "356.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2741,
+      "cod_calle": 23009
+    },
+    "usig_direccion_elegida": {
+      "altura": 2741,
+      "cod_calle": 23009,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.499009",
+        "y": "-34.586672"
+      },
+      "direccion": "VALLEJOS 2741, CABA",
+      "nombre_calle": "VALLEJOS",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2741,
+          "cod_calle": 23009,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.499009",
+            "y": "-34.586672"
+          },
+          "direccion": "VALLEJOS 2741, CABA",
+          "nombre_calle": "VALLEJOS",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96703.80799874716,
+                  104758.78202313161
+                ],
+                [
+                  96706.09899873887,
+                  104755.7140231393
+                ],
+                [
+                  96707.11499873459,
+                  104754.35402314333
+                ],
+                [
+                  96708.35299872939,
+                  104752.69602314703
+                ],
+                [
+                  96710.8369987204,
+                  104749.37102315496
+                ],
+                [
+                  96715.39199870332,
+                  104743.2710231677
+                ],
+                [
+                  96720.96299868193,
+                  104735.81202318409
+                ],
+                [
+                  96724.26599866914,
+                  104731.39002319425
+                ],
+                [
+                  96717.39799868489,
+                  104726.23002321387
+                ],
+                [
+                  96714.90599869385,
+                  104729.56402320688
+                ],
+                [
+                  96701.48699874425,
+                  104747.51402316694
+                ],
+                [
+                  96699.18999875418,
+                  104750.5860231599
+                ],
+                [
+                  96695.4599987677,
+                  104755.57602314855
+                ],
+                [
+                  96692.73299877878,
+                  104759.22402314018
+                ],
+                [
+                  96699.6369987634,
+                  104764.36602312012
+                ],
+                [
+                  96702.04399875345,
+                  104761.14402312844
+                ],
+                [
+                  96703.80799874716,
+                  104758.78202313161
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "073-037-026",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "VALLEJOS 2741",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.49917505986465,
+      -34.58648850754105
+    ],
+    "direccion": "",
+    "fondo": "41.11",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "037",
+    "parcela": "026",
+    "pdamatriz": "360984",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "073",
+    "smp": "073-037-026",
+    "smp_anterior": "073-037-024A",
+    "smp_siguiente": "073-037-027",
+    "srid": 4326,
+    "superficie_cubierta": "450.00",
+    "superficie_total": "356.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "073-037-026",
+  "_http_status": 200
+}

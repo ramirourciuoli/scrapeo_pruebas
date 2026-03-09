@@ -1,0 +1,334 @@
+{
+  "area_m2": 193.3663272857666,
+  "centroide_lonlat": {
+    "lat": -34.62605,
+    "lon": -58.528291
+  },
+  "centroide_xy": {
+    "x": 94039.99004749588,
+    "y": 100355.14719828949
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 0.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/84/093-028A-032_0000206584.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION093/093-028A-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION093/PI-093-028A-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "093-028A-036",
+            "093-028A-031",
+            "093-028A-033",
+            "093-028A-035"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "AE 19/U3",
+          "incidencia_uva": 180.0,
+          "plusvalia_em": 5010.78,
+          "plusvalia_pl": 5010.78,
+          "plusvalia_sl": 5010.78
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 193.317300000118,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 193.4,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "093-028A-032"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Villa Real",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1408",
+    "codigo_postal_argentino": "C1408BBS",
+    "comisaria": "44",
+    "comisaria_vecinal": "10B",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "93"
+  },
+  "debug": {
+    "address": "NOGOYA 6215",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.52829084291526,
+        -34.62605032456149
+      ],
+      "direccion": "",
+      "fondo": "21.83",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "028A",
+      "parcela": "032",
+      "pdamatriz": "296902",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "093",
+      "smp": "093-028A-032",
+      "smp_anterior": "093-028A-031",
+      "smp_siguiente": "093-028A-033",
+      "srid": 4326,
+      "superficie_cubierta": "183.00",
+      "superficie_total": "189.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 6215,
+      "cod_calle": 14025
+    },
+    "usig_direccion_elegida": {
+      "altura": 6215,
+      "cod_calle": 14025,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.528203",
+        "y": "-34.626170"
+      },
+      "direccion": "NOGOYA 6215, CABA",
+      "nombre_calle": "NOGOYA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 6215,
+          "cod_calle": 14025,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.528203",
+            "y": "-34.626170"
+          },
+          "direccion": "NOGOYA 6215, CABA",
+          "nombre_calle": "NOGOYA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  94040.02900290868,
+                  100363.22003746455
+                ],
+                [
+                  94041.96700290099,
+                  100360.10603747176
+                ],
+                [
+                  94042.42700289912,
+                  100359.36703747342
+                ],
+                [
+                  94043.59800289449,
+                  100357.48703747793
+                ],
+                [
+                  94044.49100289105,
+                  100356.05203748171
+                ],
+                [
+                  94044.59100289029,
+                  100355.89203748191
+                ],
+                [
+                  94049.48500287093,
+                  100348.03003750055
+                ],
+                [
+                  94048.23600287315,
+                  100347.26003750318
+                ],
+                [
+                  94042.02100288782,
+                  100343.4260375188
+                ],
+                [
+                  94041.29000289107,
+                  100344.60203751602
+                ],
+                [
+                  94040.86100289231,
+                  100345.29203751482
+                ],
+                [
+                  94038.88900290111,
+                  100348.46503750692
+                ],
+                [
+                  94037.13500290748,
+                  100351.28503750067
+                ],
+                [
+                  94034.76000291704,
+                  100355.10603749123
+                ],
+                [
+                  94033.65700292136,
+                  100356.88003748725
+                ],
+                [
+                  94031.02600293186,
+                  100361.1130374774
+                ],
+                [
+                  94037.16700292041,
+                  100367.8170374539
+                ],
+                [
+                  94040.02900290868,
+                  100363.22003746455
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "093-028A-032",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "NOGOYA 6215",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.52829084291526,
+      -34.62605032456149
+    ],
+    "direccion": "",
+    "fondo": "21.83",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "028A",
+    "parcela": "032",
+    "pdamatriz": "296902",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "093",
+    "smp": "093-028A-032",
+    "smp_anterior": "093-028A-031",
+    "smp_siguiente": "093-028A-033",
+    "srid": 4326,
+    "superficie_cubierta": "183.00",
+    "superficie_total": "189.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "093-028A-032",
+  "_http_status": 200
+}

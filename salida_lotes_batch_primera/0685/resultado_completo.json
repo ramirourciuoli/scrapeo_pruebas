@@ -1,0 +1,392 @@
+{
+  "area_m2": 8751.43199634552,
+  "centroide_lonlat": {
+    "lat": -34.662756,
+    "lon": -58.42729
+  },
+  "centroide_xy": {
+    "x": 103300.88692929482,
+    "y": 96284.45255520396
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 1,
+          "ci_digital": 0,
+          "ensanche": 1,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 2.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/fp/SECCION046/FP-046-041-001a-VD.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION046/046-041-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION046/PI-046-041-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "DI-2022-24-GCABA-DGIUR",
+          "pdf": "046-041.pdf"
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": ""
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "I1",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 27997.35,
+          "plusvalia_sl": 27997.35
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 8749.17173620173,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 8751.4,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "046-041-001A"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.M. PENNA",
+    "barrio": "Villa Soldati",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1437",
+    "codigo_postal_argentino": "C1437FUT",
+    "comisaria": "36",
+    "comisaria_vecinal": "8B",
+    "comuna": "Comuna 8",
+    "distrito_economico": "DISTRITO DEL DEPORTE",
+    "distrito_escolar": "Distrito Escolar   XIX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "46"
+  },
+  "debug": {
+    "address": "FERRE 2314",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.42728965957096,
+        -34.66275620719741
+      ],
+      "direccion": "",
+      "manzana": "041",
+      "parcela": "001A",
+      "seccion": "046",
+      "smp": "046-041-001A",
+      "smp_anterior": "046-041-011",
+      "smp_siguiente": "046-041-009",
+      "srid": 4326
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2314,
+      "cod_calle": 6022
+    },
+    "usig_direccion_elegida": {
+      "altura": 2314,
+      "cod_calle": 6022,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.427351",
+        "y": "-34.662242"
+      },
+      "direccion": "FERRE 2314, CABA",
+      "nombre_calle": "FERRE",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2314,
+          "cod_calle": 6022,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.427351",
+            "y": "-34.662242"
+          },
+          "direccion": "FERRE 2314, CABA",
+          "nombre_calle": "FERRE",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2314,
+          "cod_calle": 23557,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.361122444898,
+            "y": -34.8033566183674
+          },
+          "direccion": "José Ferré 2314, Almirante Brown",
+          "nombre_calle": "José Ferré",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Rafael Calzada",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2314,
+          "cod_calle": 193273,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6165789877551,
+            "y": -34.7150214510204
+          },
+          "direccion": "Pedro Ferré 2314, La Matanza",
+          "nombre_calle": "Pedro Ferré",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Rafael Castillo",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2314,
+          "cod_calle": 47354,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_miguel",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7483707494949,
+            "y": -34.5645242151515
+          },
+          "direccion": "Avenida Maestro Ferreyra 2314, San Miguel",
+          "nombre_calle": "Avenida Maestro Ferreyra",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Santa María",
+          "nombre_partido": "San Miguel",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  103322.4383971954,
+                  96328.47342488979
+                ],
+                [
+                  103336.8188602098,
+                  96306.62715770202
+                ],
+                [
+                  103350.95883260359,
+                  96316.52382584257
+                ],
+                [
+                  103353.6426566842,
+                  96312.43635993247
+                ],
+                [
+                  103373.13278540655,
+                  96282.75288056806
+                ],
+                [
+                  103358.666228646,
+                  96273.33255487069
+                ],
+                [
+                  103282.31583825554,
+                  96222.77690956587
+                ],
+                [
+                  103261.45750804564,
+                  96251.25713920174
+                ],
+                [
+                  103256.6906904206,
+                  96247.86394441742
+                ],
+                [
+                  103256.66747355656,
+                  96247.84741780689
+                ],
+                [
+                  103237.3232554447,
+                  96276.90638583692
+                ],
+                [
+                  103246.15251015016,
+                  96282.5555815982
+                ],
+                [
+                  103236.22363853225,
+                  96297.19370561614
+                ],
+                [
+                  103243.43828008763,
+                  96302.03736336634
+                ],
+                [
+                  103253.36345073197,
+                  96287.18058371719
+                ],
+                [
+                  103257.80095106093,
+                  96280.5399580647
+                ],
+                [
+                  103265.1056339537,
+                  96285.50870844204
+                ],
+                [
+                  103250.59917858992,
+                  96306.8449282384
+                ],
+                [
+                  103257.88013077721,
+                  96311.7330987158
+                ],
+                [
+                  103264.92358516871,
+                  96316.46182167745
+                ],
+                [
+                  103279.19136791439,
+                  96326.04069990382
+                ],
+                [
+                  103286.48250050981,
+                  96330.93570513869
+                ],
+                [
+                  103293.65681999527,
+                  96335.75228623775
+                ],
+                [
+                  103300.83986944429,
+                  96340.57472832012
+                ],
+                [
+                  103306.31551971611,
+                  96344.25088376112
+                ],
+                [
+                  103312.91605095248,
+                  96342.96698999754
+                ],
+                [
+                  103322.4383971954,
+                  96328.47342488979
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "046-041-001A",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "FERRE 2314",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.42728965957096,
+      -34.66275620719741
+    ],
+    "direccion": "",
+    "manzana": "041",
+    "parcela": "001A",
+    "puertas": [],
+    "seccion": "046",
+    "smp": "046-041-001A",
+    "smp_anterior": "046-041-011",
+    "smp_siguiente": "046-041-009",
+    "srid": 4326
+  },
+  "smp": "046-041-001A",
+  "_http_status": 200
+}

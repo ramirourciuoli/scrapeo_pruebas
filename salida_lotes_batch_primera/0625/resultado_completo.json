@@ -1,0 +1,400 @@
+{
+  "area_m2": 332.70141410827637,
+  "centroide_lonlat": {
+    "lat": -34.659526,
+    "lon": -58.481901
+  },
+  "centroide_xy": {
+    "x": 98294.91345541543,
+    "y": 96643.26990219689
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": -1.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/9/64/062-082-026_0000017964.pdf",
+          "perimetro_manzana": "",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION062/PI-062-082-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "062-082-025",
+            "062-082-002",
+            "062-082-001"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "C3 II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 3801.61,
+          "plusvalia_pl": 1406.17,
+          "plusvalia_sl": 1406.17
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 244.127274470974,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 332.7,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "062-082-026"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Mataderos",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1439",
+    "codigo_postal_argentino": "C1439BSD",
+    "comisaria": "48",
+    "comisaria_vecinal": "9A",
+    "comuna": "Comuna 9",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "62"
+  },
+  "debug": {
+    "address": "AV. EVA PERON 5219",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.48190056589438,
+        -34.65952567878104
+      ],
+      "direccion": "",
+      "fondo": "29.28",
+      "frente": "12.50",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "082",
+      "parcela": "026",
+      "pdamatriz": "92612",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "0",
+      "propiedad_horizontal": "No",
+      "seccion": "062",
+      "smp": "062-082-026",
+      "smp_anterior": "062-082-025",
+      "smp_siguiente": "062-082-000A",
+      "srid": 4326,
+      "superficie_cubierta": "0.00",
+      "superficie_total": "366.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 5219,
+      "cod_calle": 4056
+    },
+    "usig_direccion_elegida": {
+      "altura": 5219,
+      "cod_calle": 4056,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.481759",
+        "y": "-34.659686"
+      },
+      "direccion": "PERON, EVA AV. 5219, CABA",
+      "nombre_calle": "PERON, EVA AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 5219,
+          "cod_calle": 4056,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.481759",
+            "y": "-34.659686"
+          },
+          "direccion": "PERON, EVA AV. 5219, CABA",
+          "nombre_calle": "PERON, EVA AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 5219,
+          "cod_calle": 108132,
+          "cod_calle_cruce": null,
+          "cod_partido": "berazategui",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.190296372449,
+            "y": -34.7754314836735
+          },
+          "direccion": "Avenida Eva Perón 5219, Berazategui",
+          "nombre_calle": "Avenida Eva Perón",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ranelagh",
+          "nombre_partido": "Berazategui",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 5219,
+          "cod_calle": 108132,
+          "cod_calle_cruce": null,
+          "cod_partido": "berazategui",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.190296372449,
+            "y": -34.7754314836735
+          },
+          "direccion": "Avenida Eva Perón 5219, Berazategui",
+          "nombre_calle": "Avenida Eva Perón",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa España",
+          "nombre_partido": "Berazategui",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 5219,
+          "cod_calle": 312291,
+          "cod_calle_cruce": null,
+          "cod_partido": "berazategui",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.190296372449,
+            "y": -34.7754314836735
+          },
+          "direccion": "Avenida Eva Perón 5219, Berazategui",
+          "nombre_calle": "Avenida Eva Perón",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Plátanos",
+          "nombre_partido": "Berazategui",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 5219,
+          "cod_calle": 63737,
+          "cod_calle_cruce": null,
+          "cod_partido": "general_san_martin",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5968120755102,
+            "y": -34.5511815255102
+          },
+          "direccion": "125 - Eva Perón 5219, General San Martín",
+          "nombre_calle": "125 - Eva Perón",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Loma Hermosa",
+          "nombre_partido": "General San Martín",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 5219,
+          "cod_calle": 56774,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.345431855102,
+            "y": -34.7347113857143
+          },
+          "direccion": "Eva Perón 5219, Lanús",
+          "nombre_calle": "Eva Perón",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Monte Chingolo",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 5219,
+          "cod_calle": 79376,
+          "cod_calle_cruce": null,
+          "cod_partido": "malvinas_argentinas",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6692235255102,
+            "y": -34.4923405326531
+          },
+          "direccion": "Eva Perón 5219, Malvinas Argentinas",
+          "nombre_calle": "Eva Perón",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa de Mayo",
+          "nombre_partido": "Malvinas Argentinas",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 5219,
+          "cod_calle": 49442,
+          "cod_calle_cruce": null,
+          "cod_partido": "quilmes",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.302662622449,
+            "y": -34.7814194571429
+          },
+          "direccion": "Eva Perón 5219, Quilmes",
+          "nombre_calle": "Eva Perón",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Francisco Solano",
+          "nombre_partido": "Quilmes",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98288.12450292762,
+                  96657.69778255699
+                ],
+                [
+                  98310.06511079693,
+                  96636.0174214608
+                ],
+                [
+                  98301.59602908936,
+                  96629.35581904667
+                ],
+                [
+                  98280.23724750985,
+                  96649.37725781469
+                ],
+                [
+                  98288.12450292762,
+                  96657.69778255699
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "062-082-026",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AV. EVA PERON 5219",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.48190056589438,
+      -34.65952567878104
+    ],
+    "direccion": "",
+    "fondo": "29.28",
+    "frente": "12.50",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "082",
+    "parcela": "026",
+    "pdamatriz": "92612",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "0",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "062",
+    "smp": "062-082-026",
+    "smp_anterior": "062-082-025",
+    "smp_siguiente": "062-082-000A",
+    "srid": 4326,
+    "superficie_cubierta": "0.00",
+    "superficie_total": "366.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "062-082-026",
+  "_http_status": 200
+}

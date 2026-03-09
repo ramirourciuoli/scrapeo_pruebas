@@ -1,0 +1,366 @@
+{
+  "area_m2": 119.97482395172119,
+  "centroide_lonlat": {
+    "lat": -34.580303,
+    "lon": -58.456428
+  },
+  "centroide_xy": {
+    "x": 100630.50493482835,
+    "y": 105432.03711452315
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/42/037-012-031_0000439042.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION037/037-012-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION037/PI-037-012-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "037-012-030",
+            "037-012-001",
+            "037-012-002"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 380.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 119.964850000086,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 120.0,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "037-012-031"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. E. TORNÚ",
+    "barrio": "Chacarita",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1427",
+    "codigo_postal_argentino": "C1427CAJ",
+    "comisaria": "37",
+    "comisaria_vecinal": "15A",
+    "comuna": "Comuna 15",
+    "distrito_economico": "DISTRITO AUDIOVISUAL",
+    "distrito_escolar": "Distrito Escolar   XIV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "37"
+  },
+  "debug": {
+    "address": "GIRIBONE 994",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.45642843012512,
+        -34.58030323650583
+      ],
+      "direccion": "",
+      "fondo": "14.32",
+      "frente": "8.17",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "012",
+      "parcela": "031",
+      "pdamatriz": "406833",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "037",
+      "smp": "037-012-031",
+      "smp_anterior": "037-012-030",
+      "smp_siguiente": "037-012-001",
+      "srid": 4326,
+      "superficie_cubierta": "134.00",
+      "superficie_total": "117.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 994,
+      "cod_calle": 7052
+    },
+    "usig_direccion_elegida": {
+      "altura": 994,
+      "cod_calle": 7052,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.456388",
+        "y": "-34.580205"
+      },
+      "direccion": "GIRIBONE 994, CABA",
+      "nombre_calle": "GIRIBONE",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 994,
+          "cod_calle": 7052,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.456388",
+            "y": "-34.580205"
+          },
+          "direccion": "GIRIBONE 994, CABA",
+          "nombre_calle": "GIRIBONE",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 994,
+          "cod_calle": 11660,
+          "cod_calle_cruce": null,
+          "cod_partido": "avellaneda",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3833246102041,
+            "y": -34.6662068387755
+          },
+          "direccion": "Giribone 994, Avellaneda",
+          "nombre_calle": "Giribone",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Piñeyro",
+          "nombre_partido": "Avellaneda",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  100624.17198825591,
+                  105426.91001830861
+                ],
+                [
+                  100625.31498825522,
+                  105430.04001829881
+                ],
+                [
+                  100626.03998825433,
+                  105432.02501829306
+                ],
+                [
+                  100627.35698825314,
+                  105435.6290182813
+                ],
+                [
+                  100629.02398825227,
+                  105440.19301826751
+                ],
+                [
+                  100634.49198823495,
+                  105438.31501826906
+                ],
+                [
+                  100636.80898822859,
+                  105437.52001826875
+                ],
+                [
+                  100635.7949882288,
+                  105434.62401827791
+                ],
+                [
+                  100635.664988229,
+                  105434.25401827894
+                ],
+                [
+                  100634.26498822954,
+                  105430.253018291
+                ],
+                [
+                  100634.14198822994,
+                  105429.90201829231
+                ],
+                [
+                  100633.91998823003,
+                  105429.26901829478
+                ],
+                [
+                  100632.97598823054,
+                  105426.57101830322
+                ],
+                [
+                  100632.61998823108,
+                  105425.55501830552
+                ],
+                [
+                  100632.54498823093,
+                  105425.3410183065
+                ],
+                [
+                  100632.23398823135,
+                  105424.45201830883
+                ],
+                [
+                  100631.95998823133,
+                  105423.67001831156
+                ],
+                [
+                  100630.69798823516,
+                  105424.19501831138
+                ],
+                [
+                  100629.39698823926,
+                  105424.73601831018
+                ],
+                [
+                  100628.3959882422,
+                  105425.15301831008
+                ],
+                [
+                  100625.88098825038,
+                  105426.19901830915
+                ],
+                [
+                  100624.17198825591,
+                  105426.91001830861
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "037-012-031",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "GIRIBONE 994",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.45642843012512,
+      -34.58030323650583
+    ],
+    "direccion": "",
+    "fondo": "14.32",
+    "frente": "8.17",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "012",
+    "parcela": "031",
+    "pdamatriz": "406833",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "037",
+    "smp": "037-012-031",
+    "smp_anterior": "037-012-030",
+    "smp_siguiente": "037-012-001",
+    "srid": 4326,
+    "superficie_cubierta": "134.00",
+    "superficie_total": "117.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "037-012-031",
+  "_http_status": 200
+}

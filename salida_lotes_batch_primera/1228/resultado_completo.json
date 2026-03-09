@@ -1,0 +1,358 @@
+{
+  "area_m2": 89.55985832214355,
+  "centroide_lonlat": {
+    "lat": -34.581594,
+    "lon": -58.512267
+  },
+  "centroide_xy": {
+    "x": 95507.07251561315,
+    "y": 105287.81609481576
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/8/45/075-007B-014_0000250845.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION075/075-007B-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION075/PI-075-007B-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "075-007B-013",
+            "075-007B-015"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 110.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 89.5673499999961,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 89.6,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "075-007B-014"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. A. ZUBIZARRETA",
+    "barrio": "Villa Pueyrredon",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1419",
+    "codigo_postal_argentino": "C1419GBF",
+    "comisaria": "47",
+    "comisaria_vecinal": "12B",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "75"
+  },
+  "debug": {
+    "address": "CURUPAYTI 3198",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.51226697162602,
+        -34.58159366516784
+      ],
+      "direccion": "",
+      "fondo": "12.64",
+      "frente": "7.12",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "007B",
+      "parcela": "014",
+      "pdamatriz": "364761",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "075",
+      "smp": "075-007B-014",
+      "smp_anterior": "075-007B-013",
+      "smp_siguiente": "075-007B-015",
+      "srid": 4326,
+      "superficie_cubierta": "86.00",
+      "superficie_total": "90.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3198,
+      "cod_calle": 3210
+    },
+    "usig_direccion_elegida": {
+      "altura": 3198,
+      "cod_calle": 3210,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.512277",
+        "y": "-34.581526"
+      },
+      "direccion": "CURUPAYTI 3198, CABA",
+      "nombre_calle": "CURUPAYTI",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3198,
+          "cod_calle": 3210,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.512277",
+            "y": "-34.581526"
+          },
+          "direccion": "CURUPAYTI 3198, CABA",
+          "nombre_calle": "CURUPAYTI",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3198,
+          "cod_calle": 70654,
+          "cod_calle_cruce": null,
+          "cod_partido": "jose_c_paz",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7567848713504,
+            "y": -34.5338241120072
+          },
+          "direccion": "Curupaytí 3198, José C. Paz",
+          "nombre_calle": "Curupaytí",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "José C. Paz",
+          "nombre_partido": "José C. Paz",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3198,
+          "cod_calle": 108783,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_fernando",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5659555,
+            "y": -34.4677547
+          },
+          "direccion": "Curupaytí 3198, San Fernando",
+          "nombre_calle": "Curupaytí",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Victoria",
+          "nombre_partido": "San Fernando",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  95503.80400251245,
+                  105291.16102254356
+                ],
+                [
+                  95504.4180025113,
+                  105291.85702254067
+                ],
+                [
+                  95504.9060025112,
+                  105292.41002253906
+                ],
+                [
+                  95506.55500250589,
+                  105292.4800225379
+                ],
+                [
+                  95511.8120024915,
+                  105292.68002253264
+                ],
+                [
+                  95512.35200248635,
+                  105287.80002254609
+                ],
+                [
+                  95512.76600248227,
+                  105284.06002255599
+                ],
+                [
+                  95511.41400248604,
+                  105283.99402255757
+                ],
+                [
+                  95506.9840024986,
+                  105283.77902256165
+                ],
+                [
+                  95506.0550025007,
+                  105283.73402256254
+                ],
+                [
+                  95504.6170025046,
+                  105283.66402256358
+                ],
+                [
+                  95503.93800250694,
+                  105283.63102256431
+                ],
+                [
+                  95502.78100251048,
+                  105283.5740225653
+                ],
+                [
+                  95501.25000251428,
+                  105283.50002256664
+                ],
+                [
+                  95500.97700251837,
+                  105287.9600225543
+                ],
+                [
+                  95503.80400251245,
+                  105291.16102254356
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "075-007B-014",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CURUPAYTI 3198",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.51226697162602,
+      -34.58159366516784
+    ],
+    "direccion": "",
+    "fondo": "12.64",
+    "frente": "7.12",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "007B",
+    "parcela": "014",
+    "pdamatriz": "364761",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "075",
+    "smp": "075-007B-014",
+    "smp_anterior": "075-007B-013",
+    "smp_siguiente": "075-007B-015",
+    "srid": 4326,
+    "superficie_cubierta": "86.00",
+    "superficie_total": "90.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "075-007B-014",
+  "_http_status": 200
+}

@@ -1,0 +1,363 @@
+{
+  "area_m2": 230.5896167755127,
+  "centroide_lonlat": {
+    "lat": -34.602995,
+    "lon": -58.474821
+  },
+  "centroide_xy": {
+    "x": 98943.16924136068,
+    "y": 102914.67894007586
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/1/06/069-098-028_0000107106.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION069/069-098-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION069/PI-069-098-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "069-098-027",
+            "069-098-029",
+            "069-098-023",
+            "069-098-024"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 230.568550000041,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 230.6,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "069-098-028"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. T. ÁLVAREZ",
+    "barrio": "Paternal",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1416",
+    "codigo_postal_argentino": "C1416EZE",
+    "comisaria": "41",
+    "comisaria_vecinal": "15A",
+    "comuna": "Comuna 15",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "69"
+  },
+  "debug": {
+    "address": "BIARRITZ 2071",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.47482100927389,
+        -34.60299495366059
+      ],
+      "direccion": "BIARRITZ 2071",
+      "fondo": "27.02",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "098",
+      "parcela": "028",
+      "pdamatriz": "243474",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "069",
+      "smp": "069-098-028",
+      "smp_anterior": "069-098-027",
+      "smp_siguiente": "069-098-029",
+      "srid": 4326,
+      "superficie_cubierta": "193.00",
+      "superficie_total": "234.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2071,
+      "cod_calle": 2078
+    },
+    "usig_direccion_elegida": {
+      "altura": 2071,
+      "cod_calle": 2078,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.474643",
+        "y": "-34.603029"
+      },
+      "direccion": "BIARRITZ 2071, CABA",
+      "nombre_calle": "BIARRITZ",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2071,
+          "cod_calle": 2078,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.474643",
+            "y": "-34.603029"
+          },
+          "direccion": "BIARRITZ 2071, CABA",
+          "nombre_calle": "BIARRITZ",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98940.98799108181,
+                  102910.75602663128
+                ],
+                [
+                  98937.57499109278,
+                  102911.52502663343
+                ],
+                [
+                  98936.01499109602,
+                  102911.87602663148
+                ],
+                [
+                  98932.94799110523,
+                  102912.56602663128
+                ],
+                [
+                  98929.14299111787,
+                  102913.42302663249
+                ],
+                [
+                  98929.59399111703,
+                  102915.57602662663
+                ],
+                [
+                  98930.87999111871,
+                  102921.7070266087
+                ],
+                [
+                  98938.94799109474,
+                  102919.9800266079
+                ],
+                [
+                  98939.72299109263,
+                  102919.81402660676
+                ],
+                [
+                  98943.8989910804,
+                  102918.92102660579
+                ],
+                [
+                  98945.71099107516,
+                  102918.53302660628
+                ],
+                [
+                  98951.32399105838,
+                  102917.33102660673
+                ],
+                [
+                  98952.41199105376,
+                  102917.09902660773
+                ],
+                [
+                  98953.9489910507,
+                  102916.77002660447
+                ],
+                [
+                  98957.1379910414,
+                  102916.0870266048
+                ],
+                [
+                  98955.22499103972,
+                  102907.55002662979
+                ],
+                [
+                  98953.68699104367,
+                  102907.89602662894
+                ],
+                [
+                  98952.0349910488,
+                  102908.26802663069
+                ],
+                [
+                  98950.5889910531,
+                  102908.59402663077
+                ],
+                [
+                  98948.1029910605,
+                  102909.15402663124
+                ],
+                [
+                  98941.93799107888,
+                  102910.54202663142
+                ],
+                [
+                  98941.22199108089,
+                  102910.70402663184
+                ],
+                [
+                  98940.98799108181,
+                  102910.75602663128
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "069-098-028",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "BIARRITZ 2071",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.47482100927389,
+      -34.60299495366059
+    ],
+    "direccion": "BIARRITZ 2071",
+    "fondo": "27.02",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "098",
+    "parcela": "028",
+    "pdamatriz": "243474",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [
+      {
+        "altura": 2071,
+        "calle": "BIARRITZ",
+        "codigo_calle": 2078,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "069",
+    "smp": "069-098-028",
+    "smp_anterior": "069-098-027",
+    "smp_siguiente": "069-098-029",
+    "srid": 4326,
+    "superficie_cubierta": "193.00",
+    "superficie_total": "234.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "069-098-028"
+}

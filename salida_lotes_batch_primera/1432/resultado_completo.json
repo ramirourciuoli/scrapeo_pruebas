@@ -1,0 +1,476 @@
+{
+  "area_m2": 341.95262718200684,
+  "centroide_lonlat": {
+    "lat": -34.61487,
+    "lon": -58.493907
+  },
+  "centroide_xy": {
+    "x": 97192.81797900115,
+    "y": 101596.93061207936
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "PEV",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/90/079-085-010_0000174590.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION079/079-085-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION079/PI-079-085-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "079-085-009",
+            "079-085-023",
+            "079-085-011",
+            "079-085-022"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 110.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 1,
+        "subzona": "",
+        "sup_edificable_planta": 341.938049999958,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 342.0,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "079-085-010"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Villa Santa Rita",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1407",
+    "codigo_postal_argentino": "C1407DDL",
+    "comisaria": "43",
+    "comisaria_vecinal": "11A",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "79"
+  },
+  "debug": {
+    "address": "SAN NICOLAS 1970",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.49390677366622,
+        -34.614870122095624
+      ],
+      "direccion": "",
+      "fondo": "40.45",
+      "frente": "8.33",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "085",
+      "parcela": "010",
+      "pdamatriz": "260885",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "079",
+      "smp": "079-085-010",
+      "smp_anterior": "079-085-009",
+      "smp_siguiente": "079-085-011",
+      "srid": 4326,
+      "superficie_cubierta": "345.00",
+      "superficie_total": "337.00",
+      "unidades_funcionales": "2",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1970,
+      "cod_calle": 20049
+    },
+    "usig_direccion_elegida": {
+      "altura": 1970,
+      "cod_calle": 20049,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.493718",
+        "y": "-34.614708"
+      },
+      "direccion": "SAN NICOLAS 1970, CABA",
+      "nombre_calle": "SAN NICOLAS",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1970,
+          "cod_calle": 20049,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.493718",
+            "y": "-34.614708"
+          },
+          "direccion": "SAN NICOLAS 1970, CABA",
+          "nombre_calle": "SAN NICOLAS",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1970,
+          "cod_calle": 99851,
+          "cod_calle_cruce": null,
+          "cod_partido": "esteban_echeverria",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4700508265306,
+            "y": -34.7885015061225
+          },
+          "direccion": "San Nicolás 1970, Esteban Echeverría",
+          "nombre_calle": "San Nicolás",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Luis Guillón",
+          "nombre_partido": "Esteban Echeverría",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1970,
+          "cod_calle": 44189,
+          "cod_calle_cruce": null,
+          "cod_partido": "moron",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6462307229597,
+            "y": -34.638525071822
+          },
+          "direccion": "San Nicolás 1970, Morón",
+          "nombre_calle": "San Nicolás",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Castelar",
+          "nombre_partido": "Morón",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97203.89199497794,
+                  101614.50603157427
+                ],
+                [
+                  97206.61099496763,
+                  101611.89103157847
+                ],
+                [
+                  97209.93199495667,
+                  101608.69703158567
+                ],
+                [
+                  97208.47999495975,
+                  101607.18303159234
+                ],
+                [
+                  97207.44199496185,
+                  101606.10103159322
+                ],
+                [
+                  97206.58199496362,
+                  101605.20403159753
+                ],
+                [
+                  97206.24199496325,
+                  101604.85003159914
+                ],
+                [
+                  97206.05599496415,
+                  101604.6560316006
+                ],
+                [
+                  97203.21199496982,
+                  101601.68903161181
+                ],
+                [
+                  97202.63199497091,
+                  101601.0840316125
+                ],
+                [
+                  97199.74899497669,
+                  101598.07803162464
+                ],
+                [
+                  97199.4139949778,
+                  101597.73003162551
+                ],
+                [
+                  97198.72199497923,
+                  101597.0070316265
+                ],
+                [
+                  97198.3589949806,
+                  101596.62903162854
+                ],
+                [
+                  97197.40299498114,
+                  101595.63203163072
+                ],
+                [
+                  97195.84699498469,
+                  101594.01003163811
+                ],
+                [
+                  97195.71799498555,
+                  101593.87503163976
+                ],
+                [
+                  97195.38999498589,
+                  101593.53303163909
+                ],
+                [
+                  97194.6419949877,
+                  101592.7530316413
+                ],
+                [
+                  97188.76199499954,
+                  101586.6220316641
+                ],
+                [
+                  97187.72099500071,
+                  101585.53603166653
+                ],
+                [
+                  97185.9929950047,
+                  101583.73503167415
+                ],
+                [
+                  97185.06499500747,
+                  101582.76603167807
+                ],
+                [
+                  97181.80599501306,
+                  101579.36803168885
+                ],
+                [
+                  97180.50099501801,
+                  101580.62603168795
+                ],
+                [
+                  97178.17799502656,
+                  101582.86703168153
+                ],
+                [
+                  97175.79699503523,
+                  101585.16403167791
+                ],
+                [
+                  97175.72399503467,
+                  101585.23803167758
+                ],
+                [
+                  97179.85499502684,
+                  101589.53003166299
+                ],
+                [
+                  97183.7749950187,
+                  101593.60303164757
+                ],
+                [
+                  97183.91299501786,
+                  101593.74703164899
+                ],
+                [
+                  97184.25999501669,
+                  101594.10803164617
+                ],
+                [
+                  97184.9199950158,
+                  101594.79303164361
+                ],
+                [
+                  97187.90899500987,
+                  101597.8990316336
+                ],
+                [
+                  97188.57399500832,
+                  101598.59003163091
+                ],
+                [
+                  97189.32299500662,
+                  101599.36803162732
+                ],
+                [
+                  97189.78099500685,
+                  101599.84403162528
+                ],
+                [
+                  97191.43699500329,
+                  101601.56503161957
+                ],
+                [
+                  97192.29799500211,
+                  101602.45903161782
+                ],
+                [
+                  97192.82399500071,
+                  101603.0060316151
+                ],
+                [
+                  97194.22899499741,
+                  101604.46603161006
+                ],
+                [
+                  97195.61599499543,
+                  101605.90703160412
+                ],
+                [
+                  97197.15899499085,
+                  101607.51003159871
+                ],
+                [
+                  97200.00899498502,
+                  101610.4710315883
+                ],
+                [
+                  97203.89199497794,
+                  101614.50603157427
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "079-085-010",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "SAN NICOLAS 1970",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.49390677366622,
+      -34.614870122095624
+    ],
+    "direccion": "",
+    "fondo": "40.45",
+    "frente": "8.33",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "085",
+    "parcela": "010",
+    "pdamatriz": "260885",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "079",
+    "smp": "079-085-010",
+    "smp_anterior": "079-085-009",
+    "smp_siguiente": "079-085-011",
+    "srid": 4326,
+    "superficie_cubierta": "345.00",
+    "superficie_total": "337.00",
+    "unidades_funcionales": "2",
+    "vuc": "0.00"
+  },
+  "smp": "079-085-010",
+  "_http_status": 200
+}

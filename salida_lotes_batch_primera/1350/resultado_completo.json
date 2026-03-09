@@ -1,0 +1,308 @@
+{
+  "area_m2": 134.0047950744629,
+  "centroide_lonlat": {
+    "lat": -34.651356,
+    "lon": -58.395263
+  },
+  "centroide_xy": {
+    "x": 106237.48386702217,
+    "y": 97547.6625143275
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/3/83/026-023B-018_0000317383.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION026/026-023B-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION026/PI-026-023B-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "026-023B-017",
+            "026-023B-019"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 133.981999999995,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 134.0,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "026-023B-018"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.M. PENNA",
+    "barrio": "Barracas",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1291",
+    "codigo_postal_argentino": "C1291ACW",
+    "comisaria": "30",
+    "comisaria_vecinal": "4D",
+    "comuna": "Comuna 4",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   V",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "26"
+  },
+  "debug": {
+    "address": "AV. IRIARTE 3395",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.39526279169721,
+        -34.651355797752984
+      ],
+      "direccion": "",
+      "fondo": "25.43",
+      "frente": "5.27",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "023B",
+      "parcela": "018",
+      "pdamatriz": "106132",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "026",
+      "smp": "026-023B-018",
+      "smp_anterior": "026-023B-017",
+      "smp_siguiente": "026-023B-019",
+      "srid": 4326,
+      "superficie_cubierta": "134.00",
+      "superficie_total": "134.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3395,
+      "cod_calle": 9017
+    },
+    "usig_direccion_elegida": {
+      "altura": 3395,
+      "cod_calle": 9017,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.395280",
+        "y": "-34.651420"
+      },
+      "direccion": "IRIARTE, GRAL. AV. 3395, CABA",
+      "nombre_calle": "IRIARTE, GRAL. AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3395,
+          "cod_calle": 9017,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.395280",
+            "y": "-34.651420"
+          },
+          "direccion": "IRIARTE, GRAL. AV. 3395, CABA",
+          "nombre_calle": "IRIARTE, GRAL. AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  106244.07196656831,
+                  97552.72503615823
+                ],
+                [
+                  106244.68596655928,
+                  97543.90603618452
+                ],
+                [
+                  106244.74296655878,
+                  97543.0830361864
+                ],
+                [
+                  106244.47396656056,
+                  97543.06503618753
+                ],
+                [
+                  106235.99396658338,
+                  97542.48903619626
+                ],
+                [
+                  106233.9499665894,
+                  97542.35003619795
+                ],
+                [
+                  106230.17996660125,
+                  97545.65003619174
+                ],
+                [
+                  106229.73196660767,
+                  97551.86403617501
+                ],
+                [
+                  106229.72496660828,
+                  97551.96403617295
+                ],
+                [
+                  106234.79696659418,
+                  97552.23303616856
+                ],
+                [
+                  106239.25896658085,
+                  97552.47003616439
+                ],
+                [
+                  106244.07196656831,
+                  97552.72503615823
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "026-023B-018",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AV. IRIARTE 3395",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.39526279169721,
+      -34.651355797752984
+    ],
+    "direccion": "",
+    "fondo": "25.43",
+    "frente": "5.27",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "023B",
+    "parcela": "018",
+    "pdamatriz": "106132",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "026",
+    "smp": "026-023B-018",
+    "smp_anterior": "026-023B-017",
+    "smp_siguiente": "026-023B-019",
+    "srid": 4326,
+    "superficie_cubierta": "134.00",
+    "superficie_total": "134.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "026-023B-018",
+  "_http_status": 200
+}

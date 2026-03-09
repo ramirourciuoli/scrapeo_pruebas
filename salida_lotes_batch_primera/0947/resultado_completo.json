@@ -1,0 +1,426 @@
+{
+  "area_m2": 12338.365973472595,
+  "centroide_lonlat": {
+    "lat": -34.60609,
+    "lon": -58.472628
+  },
+  "centroide_xy": {
+    "x": 99144.35201960683,
+    "y": 102571.37594016295
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 1,
+          "lep": 1,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 0.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "EE",
+            "distrito_especifico": "EE 95"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 0.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/fp/SECCION067/FP-067-126-001-VD.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION067/067-126-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION067/PI-067-126-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": ""
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "E4",
+          "incidencia_uva": 50.0,
+          "plusvalia_em": 0.0,
+          "plusvalia_pl": 0.0,
+          "plusvalia_sl": 0.0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 12338.4,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "067-126-001"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. T. ÁLVAREZ",
+    "barrio": "Villa Gral. Mitre",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1416",
+    "codigo_postal_argentino": "C1416AAV",
+    "comisaria": "41",
+    "comisaria_vecinal": "11A",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "67"
+  },
+  "debug": {
+    "address": "BOYACA 2152",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.47262816854006,
+        -34.606089750829575
+      ],
+      "direccion": "",
+      "manzana": "126",
+      "parcela": "001",
+      "seccion": "067",
+      "smp": "067-126-001",
+      "smp_anterior": "067-126-001",
+      "smp_siguiente": "067-126-001",
+      "srid": 4326
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2152,
+      "cod_calle": 2107
+    },
+    "usig_direccion_elegida": {
+      "altura": 2152,
+      "cod_calle": 2107,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.472102",
+        "y": "-34.605816"
+      },
+      "direccion": "BOYACA 2152, CABA",
+      "nombre_calle": "BOYACA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2152,
+          "cod_calle": 2107,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.472102",
+            "y": "-34.605816"
+          },
+          "direccion": "BOYACA 2152, CABA",
+          "nombre_calle": "BOYACA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2152,
+          "cod_calle": 165915,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7544919285714,
+            "y": -34.6852093265306
+          },
+          "direccion": "Boyacá 2152, Merlo",
+          "nombre_calle": "Boyacá",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Parque San Martín",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99070.69199047511,
+                  102588.07402743801
+                ],
+                [
+                  99070.13999047673,
+                  102588.95002743683
+                ],
+                [
+                  99071.3199904792,
+                  102594.800027419
+                ],
+                [
+                  99074.62899047046,
+                  102596.80402741066
+                ],
+                [
+                  99087.00999044134,
+                  102604.30002738055
+                ],
+                [
+                  99089.57699043571,
+                  102605.8540273747
+                ],
+                [
+                  99113.18699038085,
+                  102620.15002731665
+                ],
+                [
+                  99114.81299037702,
+                  102621.13402731161
+                ],
+                [
+                  99140.8099903154,
+                  102636.8740272501
+                ],
+                [
+                  99141.83699031305,
+                  102637.49602724705
+                ],
+                [
+                  99144.40399030663,
+                  102639.05002724117
+                ],
+                [
+                  99148.70799029659,
+                  102641.65602723145
+                ],
+                [
+                  99152.5729902873,
+                  102643.99702722041
+                ],
+                [
+                  99155.69999028224,
+                  102645.89002721189
+                ],
+                [
+                  99161.54999026244,
+                  102644.56002721182
+                ],
+                [
+                  99163.11399025732,
+                  102642.068027217
+                ],
+                [
+                  99174.17299021316,
+                  102624.44702725875
+                ],
+                [
+                  99174.80999020925,
+                  102623.43102726107
+                ],
+                [
+                  99184.93999016969,
+                  102607.29002729847
+                ],
+                [
+                  99187.30599016014,
+                  102603.52102730772
+                ],
+                [
+                  99190.1759901486,
+                  102598.94802731927
+                ],
+                [
+                  99191.25599014407,
+                  102597.22602732189
+                ],
+                [
+                  99192.27199013953,
+                  102595.60702732703
+                ],
+                [
+                  99201.18699010466,
+                  102581.40202735967
+                ],
+                [
+                  99209.42599007094,
+                  102568.27402738886
+                ],
+                [
+                  99210.60099006695,
+                  102566.40302739452
+                ],
+                [
+                  99211.84999006163,
+                  102564.41302739721
+                ],
+                [
+                  99218.3129900362,
+                  102554.11502742299
+                ],
+                [
+                  99218.40999003609,
+                  102553.96002742404
+                ],
+                [
+                  99217.92399003425,
+                  102551.38902743076
+                ],
+                [
+                  99217.87699003518,
+                  102551.14202743318
+                ],
+                [
+                  99217.29999003361,
+                  102548.09002743999
+                ],
+                [
+                  99202.18699006959,
+                  102538.853027479
+                ],
+                [
+                  99134.39599022776,
+                  102497.42102764407
+                ],
+                [
+                  99133.32999023132,
+                  102496.77002764863
+                ],
+                [
+                  99127.49999024824,
+                  102497.99002764875
+                ],
+                [
+                  99111.15499031366,
+                  102523.9100275886
+                ],
+                [
+                  99109.02099032223,
+                  102527.29302757961
+                ],
+                [
+                  99102.13999034945,
+                  102538.20502755407
+                ],
+                [
+                  99099.22199036184,
+                  102542.83302754356
+                ],
+                [
+                  99086.49699041221,
+                  102563.01202749726
+                ],
+                [
+                  99072.09499046934,
+                  102585.85002744457
+                ],
+                [
+                  99071.23999047362,
+                  102587.20502744152
+                ],
+                [
+                  99070.69199047511,
+                  102588.07402743801
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "067-126-001",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "BOYACA 2152",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.47262816854006,
+      -34.606089750829575
+    ],
+    "direccion": "",
+    "manzana": "126",
+    "parcela": "001",
+    "puertas": [],
+    "seccion": "067",
+    "smp": "067-126-001",
+    "smp_anterior": "067-126-001",
+    "smp_siguiente": "067-126-001",
+    "srid": 4326
+  },
+  "smp": "067-126-001",
+  "_http_status": 200
+}

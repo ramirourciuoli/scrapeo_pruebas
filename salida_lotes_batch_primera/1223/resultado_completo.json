@@ -1,0 +1,423 @@
+{
+  "area_m2": 162.40616512298584,
+  "centroide_lonlat": {
+    "lat": -34.636908,
+    "lon": -58.432925
+  },
+  "centroide_xy": {
+    "x": 102785.2130463621,
+    "y": 99152.10115122031
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/87/038-020-017_0000042787.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION038/038-020-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION038/PI-038-020-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "038-020-016b",
+            "038-020-015",
+            "038-020-018"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 136.842995878381,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 162.4,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "038-020-017"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.M. PENNA",
+    "barrio": "Parque Chacabuco",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1424",
+    "codigo_postal_argentino": "C1424CVM",
+    "comisaria": "12",
+    "comisaria_vecinal": "7B",
+    "comuna": "Comuna 7",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "38"
+  },
+  "debug": {
+    "address": "BALBASTRO 1079",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.432924726371766,
+        -34.63690832735673
+      ],
+      "direccion": "",
+      "fondo": "18.82",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "020",
+      "parcela": "017",
+      "pdamatriz": "42488",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "038",
+      "smp": "038-020-017",
+      "smp_anterior": "038-020-016B",
+      "smp_siguiente": "038-020-018",
+      "srid": 4326,
+      "superficie_cubierta": "161.00",
+      "superficie_total": "163.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1079,
+      "cod_calle": 2011
+    },
+    "usig_direccion_elegida": {
+      "altura": 1079,
+      "cod_calle": 2011,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.432898",
+        "y": "-34.637018"
+      },
+      "direccion": "BALBASTRO 1079, CABA",
+      "nombre_calle": "BALBASTRO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1079,
+          "cod_calle": 2011,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.432898",
+            "y": "-34.637018"
+          },
+          "direccion": "BALBASTRO 1079, CABA",
+          "nombre_calle": "BALBASTRO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1079,
+          "cod_calle": 270764,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7265401071429,
+            "y": -34.6893605785714
+          },
+          "direccion": "Balbastro 1079, Merlo",
+          "nombre_calle": "Balbastro",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Parque San Martín",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1079,
+          "cod_calle": 146138,
+          "cod_calle_cruce": null,
+          "cod_partido": "tigre",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6287907571429,
+            "y": -34.4873907571429
+          },
+          "direccion": "Balbastro 1079, Tigre",
+          "nombre_calle": "Balbastro",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Don Torcuato",
+          "nombre_partido": "Tigre",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102779.41897749348,
+                  99159.59203426217
+                ],
+                [
+                  102783.30097748504,
+                  99161.38403425412
+                ],
+                [
+                  102787.39397747448,
+                  99163.27403424672
+                ],
+                [
+                  102787.57397747322,
+                  99162.31303424825
+                ],
+                [
+                  102788.0989774702,
+                  99159.5060342561
+                ],
+                [
+                  102788.37497746757,
+                  99158.0320342594
+                ],
+                [
+                  102788.63097746554,
+                  99156.66403426338
+                ],
+                [
+                  102788.74297746492,
+                  99156.06603426527
+                ],
+                [
+                  102789.25597746158,
+                  99153.32203427117
+                ],
+                [
+                  102789.396977461,
+                  99152.57303427407
+                ],
+                [
+                  102789.48897746042,
+                  99152.08103427658
+                ],
+                [
+                  102789.56197745976,
+                  99151.6870342764
+                ],
+                [
+                  102790.08697745603,
+                  99148.88603428341
+                ],
+                [
+                  102790.178977455,
+                  99148.39503428558
+                ],
+                [
+                  102790.29897745463,
+                  99147.75303428664
+                ],
+                [
+                  102790.40997745378,
+                  99147.15803428736
+                ],
+                [
+                  102790.46897745295,
+                  99146.8450342892
+                ],
+                [
+                  102790.57097745362,
+                  99146.29803429142
+                ],
+                [
+                  102791.07197744926,
+                  99143.62103429678
+                ],
+                [
+                  102789.62597745378,
+                  99143.32003430033
+                ],
+                [
+                  102789.40297745402,
+                  99143.2730343001
+                ],
+                [
+                  102787.34897745991,
+                  99142.84503430332
+                ],
+                [
+                  102786.78197746052,
+                  99142.727034304
+                ],
+                [
+                  102782.67297747258,
+                  99141.8700343094
+                ],
+                [
+                  102781.84497747727,
+                  99146.37803429764
+                ],
+                [
+                  102781.60597747863,
+                  99147.68003429315
+                ],
+                [
+                  102781.08097748234,
+                  99150.54303428732
+                ],
+                [
+                  102780.98697748342,
+                  99151.05503428457
+                ],
+                [
+                  102780.5889774854,
+                  99153.21903427955
+                ],
+                [
+                  102780.22797748898,
+                  99155.18703427364
+                ],
+                [
+                  102780.13397748841,
+                  99155.70003427257
+                ],
+                [
+                  102779.41897749348,
+                  99159.59203426217
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "038-020-017",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "BALBASTRO 1079",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.432924726371766,
+      -34.63690832735673
+    ],
+    "direccion": "",
+    "fondo": "18.82",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "020",
+    "parcela": "017",
+    "pdamatriz": "42488",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "038",
+    "smp": "038-020-017",
+    "smp_anterior": "038-020-016B",
+    "smp_siguiente": "038-020-018",
+    "srid": 4326,
+    "superficie_cubierta": "161.00",
+    "superficie_total": "163.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "038-020-017",
+  "_http_status": 200
+}

@@ -1,0 +1,464 @@
+{
+  "area_m2": 138.8666534423828,
+  "centroide_lonlat": {
+    "lat": -34.600216,
+    "lon": -58.415962
+  },
+  "centroide_xy": {
+    "x": 104342.51191901634,
+    "y": 103221.9750449367
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/34/013-021-016d_0000157534.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION013/013-021-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION013/PI-013-021-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "013-021-017",
+            "013-021-016c",
+            "013-021-016e"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 220.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 138.833300000174,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 138.9,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "013-021-016D"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. J.M. RAMOS MEJÍA",
+    "barrio": "Almagro",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1175",
+    "codigo_postal_argentino": "C1175ABO",
+    "comisaria": "9",
+    "comisaria_vecinal": "5A",
+    "comuna": "Comuna 5",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   II",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "13"
+  },
+  "debug": {
+    "address": "MARIO BRAVO 811",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.415961816614754,
+        -34.600216289575165
+      ],
+      "direccion": "BRAVO, MARIO 811",
+      "fondo": "14.00",
+      "frente": "10.00",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "021",
+      "parcela": "016D",
+      "pdamatriz": "195381",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "013",
+      "smp": "013-021-016D",
+      "smp_anterior": "013-021-016C",
+      "smp_siguiente": "013-021-016E",
+      "srid": 4326,
+      "superficie_cubierta": "227.00",
+      "superficie_total": "140.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 811,
+      "cod_calle": 2113
+    },
+    "usig_direccion_elegida": {
+      "altura": 811,
+      "cod_calle": 2113,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.416076",
+        "y": "-34.600213"
+      },
+      "direccion": "BRAVO, MARIO 811, CABA",
+      "nombre_calle": "BRAVO, MARIO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 811,
+          "cod_calle": 2113,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.416076",
+            "y": "-34.600213"
+          },
+          "direccion": "BRAVO, MARIO 811, CABA",
+          "nombre_calle": "BRAVO, MARIO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 811,
+          "cod_calle": 10710,
+          "cod_calle_cruce": null,
+          "cod_partido": "avellaneda",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3917856204082,
+            "y": -34.6729521438776
+          },
+          "direccion": "Mario Bravo 811, Avellaneda",
+          "nombre_calle": "Mario Bravo",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Piñeyro",
+          "nombre_partido": "Avellaneda",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 811,
+          "cod_calle": 77971,
+          "cod_calle_cruce": null,
+          "cod_partido": "hurlingham",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.61963224375,
+            "y": -34.62109119375
+          },
+          "direccion": "Mario Bravo 811, Hurlingham",
+          "nombre_calle": "Mario Bravo",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Tesei",
+          "nombre_partido": "Hurlingham",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 811,
+          "cod_calle": 21087,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4306213959184,
+            "y": -34.7210754132653
+          },
+          "direccion": "Mario Bravo 811, Lomas de Zamora",
+          "nombre_calle": "Mario Bravo",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Centenario",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 811,
+          "cod_calle": 495634,
+          "cod_calle_cruce": null,
+          "cod_partido": "lujan",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -59.1111758632653,
+            "y": -34.5482943357143
+          },
+          "direccion": "Mario Bravo 811, Luján",
+          "nombre_calle": "Mario Bravo",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Luján",
+          "nombre_partido": "Luján",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 811,
+          "cod_calle": 143476,
+          "cod_calle_cruce": null,
+          "cod_partido": "malvinas_argentinas",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7246392151889,
+            "y": -34.5027829723497
+          },
+          "direccion": "Mario Bravo 811, Malvinas Argentinas",
+          "nombre_calle": "Mario Bravo",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Grand Bourg",
+          "nombre_partido": "Malvinas Argentinas",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 811,
+          "cod_calle": 94727,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7139324459184,
+            "y": -34.6809255204082
+          },
+          "direccion": "Mario Bravo 811, Merlo",
+          "nombre_calle": "Mario Bravo",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Merlo",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  104335.21697618545,
+                  103217.21802171227
+                ],
+                [
+                  104335.29697618654,
+                  103218.83302170696
+                ],
+                [
+                  104335.62697619066,
+                  103225.45002168868
+                ],
+                [
+                  104335.71097619146,
+                  103227.13502168353
+                ],
+                [
+                  104341.14897617607,
+                  103226.82002168082
+                ],
+                [
+                  104341.9999761734,
+                  103226.77002167958
+                ],
+                [
+                  104343.02997617076,
+                  103226.71102167948
+                ],
+                [
+                  104343.99997616772,
+                  103226.6550216791
+                ],
+                [
+                  104346.24997616131,
+                  103226.52402167767
+                ],
+                [
+                  104346.76697615985,
+                  103226.49402167712
+                ],
+                [
+                  104349.38297615276,
+                  103226.34302167603
+                ],
+                [
+                  104351.27297614707,
+                  103226.23302167453
+                ],
+                [
+                  104350.48197614744,
+                  103224.06702168097
+                ],
+                [
+                  104349.77597614776,
+                  103222.1330216875
+                ],
+                [
+                  104349.634976148,
+                  103221.74902168819
+                ],
+                [
+                  104349.14197614859,
+                  103220.39702169239
+                ],
+                [
+                  104348.85597614851,
+                  103219.61402169499
+                ],
+                [
+                  104348.48397614926,
+                  103218.59602169791
+                ],
+                [
+                  104347.75497614953,
+                  103216.60002170378
+                ],
+                [
+                  104343.06697616278,
+                  103216.83102170733
+                ],
+                [
+                  104342.66697616444,
+                  103216.85102170712
+                ],
+                [
+                  104338.54897617546,
+                  103217.0540217094
+                ],
+                [
+                  104335.21697618545,
+                  103217.21802171227
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "013-021-016D",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MARIO BRAVO 811",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.415961816614754,
+      -34.600216289575165
+    ],
+    "direccion": "BRAVO, MARIO 811",
+    "fondo": "14.00",
+    "frente": "10.00",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "021",
+    "parcela": "016D",
+    "pdamatriz": "195381",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [
+      {
+        "altura": 811,
+        "calle": "BRAVO, MARIO",
+        "codigo_calle": 2113,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "013",
+    "smp": "013-021-016D",
+    "smp_anterior": "013-021-016C",
+    "smp_siguiente": "013-021-016E",
+    "srid": 4326,
+    "superficie_cubierta": "227.00",
+    "superficie_total": "140.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "013-021-016D"
+}

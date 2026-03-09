@@ -1,0 +1,371 @@
+{
+  "area_m2": 166.22418212890625,
+  "centroide_lonlat": {
+    "lat": -34.584592,
+    "lon": -58.429477
+  },
+  "centroide_xy": {
+    "x": 103103.30701692947,
+    "y": 104955.72376284706
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/3/85/019-096-024_0000256385.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION019/019-096-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION019/PI-019-096-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "019-096-027",
+            "019-096-026",
+            "019-096-025",
+            "019-096-023"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 550.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 166.240449999984,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 166.2,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "019-096-024"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.A.FERNÁNDEZ",
+    "barrio": "Palermo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1414",
+    "codigo_postal_argentino": "C1414BVQ",
+    "comisaria": "25",
+    "comisaria_vecinal": "14A",
+    "comuna": "Comuna 14",
+    "distrito_economico": "DISTRITO AUDIOVISUAL",
+    "distrito_escolar": "Distrito Escolar   IX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "19"
+  },
+  "debug": {
+    "address": "NICARAGUA 5117",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.42947685068421,
+        -34.58459236139505
+      ],
+      "direccion": "",
+      "fondo": "18.94",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "096",
+      "parcela": "024",
+      "pdamatriz": "428912",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "019",
+      "smp": "019-096-024",
+      "smp_anterior": "019-096-023",
+      "smp_siguiente": "019-096-025",
+      "srid": 4326,
+      "superficie_cubierta": "220.00",
+      "superficie_total": "164.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 5117,
+      "cod_calle": 14021
+    },
+    "usig_direccion_elegida": {
+      "altura": 5117,
+      "cod_calle": 14021,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.429576",
+        "y": "-34.584678"
+      },
+      "direccion": "NICARAGUA 5117, CABA",
+      "nombre_calle": "NICARAGUA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 5117,
+          "cod_calle": 14021,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.429576",
+            "y": "-34.584678"
+          },
+          "direccion": "NICARAGUA 5117, CABA",
+          "nombre_calle": "NICARAGUA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 5117,
+          "cod_calle": 377,
+          "cod_calle_cruce": null,
+          "cod_partido": "vicente_lopez",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5283493285714,
+            "y": -34.5332963112245
+          },
+          "direccion": "Nicaragua 5117, Vicente López",
+          "nombre_calle": "Nicaragua",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Munro",
+          "nombre_partido": "Vicente López",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  103093.51498097272,
+                  104951.71601778237
+                ],
+                [
+                  103093.9969809725,
+                  104952.22301778084
+                ],
+                [
+                  103094.5489809706,
+                  104952.80301777885
+                ],
+                [
+                  103096.90698096587,
+                  104955.2790177699
+                ],
+                [
+                  103098.15298096361,
+                  104956.58901776487
+                ],
+                [
+                  103103.37898095288,
+                  104962.08001774593
+                ],
+                [
+                  103104.75798095079,
+                  104963.52901774089
+                ],
+                [
+                  103106.51198094695,
+                  104965.37101773452
+                ],
+                [
+                  103109.04798093875,
+                  104963.48701773738
+                ],
+                [
+                  103110.49498093358,
+                  104962.41101773988
+                ],
+                [
+                  103110.66398093275,
+                  104962.28501773995
+                ],
+                [
+                  103113.36598092418,
+                  104960.27801774337
+                ],
+                [
+                  103111.85498092728,
+                  104958.65601774951
+                ],
+                [
+                  103110.73098092873,
+                  104957.44901775333
+                ],
+                [
+                  103110.04898093006,
+                  104956.71701775605
+                ],
+                [
+                  103108.95798093226,
+                  104955.5450177599
+                ],
+                [
+                  103106.7919809373,
+                  104953.22001776786
+                ],
+                [
+                  103103.74598094329,
+                  104949.9500177798
+                ],
+                [
+                  103100.98198094835,
+                  104946.98301779001
+                ],
+                [
+                  103099.82398095087,
+                  104945.74001779457
+                ],
+                [
+                  103097.27498096018,
+                  104948.15401778964
+                ],
+                [
+                  103095.17598096713,
+                  104950.14301778565
+                ],
+                [
+                  103093.51498097272,
+                  104951.71601778237
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "019-096-024",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "NICARAGUA 5117",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.42947685068421,
+      -34.58459236139505
+    ],
+    "direccion": "",
+    "fondo": "18.94",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "096",
+    "parcela": "024",
+    "pdamatriz": "428912",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "019",
+    "smp": "019-096-024",
+    "smp_anterior": "019-096-023",
+    "smp_siguiente": "019-096-025",
+    "srid": 4326,
+    "superficie_cubierta": "220.00",
+    "superficie_total": "164.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "019-096-024",
+  "_http_status": 200
+}

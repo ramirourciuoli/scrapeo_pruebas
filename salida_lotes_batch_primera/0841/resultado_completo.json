@@ -1,0 +1,453 @@
+{
+  "area_m2": 121.5994815826416,
+  "centroide_lonlat": {
+    "lat": -34.654663,
+    "lon": -58.465931
+  },
+  "centroide_xy": {
+    "x": 99758.81305716626,
+    "y": 97182.85513931111
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/76/056-083-045_0000007776.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION056/056-083-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION056/PI-056-083-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "056-083-044",
+            "056-083-046"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 121.606599999997,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 121.6,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "056-083-045"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. P. PIÑERO",
+    "barrio": "Parque Avellaneda",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1407",
+    "codigo_postal_argentino": "C1407JKK",
+    "comisaria": "36",
+    "comisaria_vecinal": "9C",
+    "comuna": "Comuna 9",
+    "distrito_economico": "DISTRITO DEL DEPORTE",
+    "distrito_escolar": "Distrito Escolar   XIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "56"
+  },
+  "debug": {
+    "address": "FERNANDEZ 1997",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.465930925404614,
+        -34.65466317441689
+      ],
+      "direccion": "",
+      "fondo": "21.59",
+      "frente": "5.65",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "083",
+      "parcela": "045",
+      "pdamatriz": "83877",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "056",
+      "smp": "056-083-045",
+      "smp_anterior": "056-083-044",
+      "smp_siguiente": "056-083-046",
+      "srid": 4326,
+      "superficie_cubierta": "102.00",
+      "superficie_total": "122.00",
+      "unidades_funcionales": "2",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1997,
+      "cod_calle": 6012
+    },
+    "usig_direccion_elegida": {
+      "altura": 1997,
+      "cod_calle": 6012,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.465870",
+        "y": "-34.654601"
+      },
+      "direccion": "FERNANDEZ 1997, CABA",
+      "nombre_calle": "FERNANDEZ",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1997,
+          "cod_calle": 6012,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.465870",
+            "y": "-34.654601"
+          },
+          "direccion": "FERNANDEZ 1997, CABA",
+          "nombre_calle": "FERNANDEZ",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1997,
+          "cod_calle": 3195,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.433008",
+            "y": "-34.651828"
+          },
+          "direccion": "FERNANDEZ DE LA CRUZ, F., GRAL. AV. 1997, CABA",
+          "nombre_calle": "FERNANDEZ DE LA CRUZ, F., GRAL. AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1997,
+          "cod_calle": 6063,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.452759",
+            "y": "-34.634417"
+          },
+          "direccion": "FERNANDEZ MORENO, BALDOMERO 1997, CABA",
+          "nombre_calle": "FERNANDEZ MORENO, BALDOMERO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1997,
+          "cod_calle": 71736,
+          "cod_calle_cruce": null,
+          "cod_partido": "hurlingham",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6636164751678,
+            "y": -34.5768488295302
+          },
+          "direccion": "Fernández de Enciso 1997, Hurlingham",
+          "nombre_calle": "Fernández de Enciso",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "William C. Morris",
+          "nombre_partido": "Hurlingham",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1997,
+          "cod_calle": 226234,
+          "cod_calle_cruce": null,
+          "cod_partido": "hurlingham",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6257057734694,
+            "y": -34.6065406806123
+          },
+          "direccion": "Aviador Fernández 1997, Hurlingham",
+          "nombre_calle": "Aviador Fernández",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Hurlingham",
+          "nombre_partido": "Hurlingham",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1997,
+          "cod_calle": 74207,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4069284561225,
+            "y": -34.6905253581633
+          },
+          "direccion": "Enrique Fernández 1997, Lanús",
+          "nombre_calle": "Enrique Fernández",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lanús Oeste",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1997,
+          "cod_calle": 17047,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4255342857143,
+            "y": -34.7632019816327
+          },
+          "direccion": "Sixto Fernández 1997, Lomas de Zamora",
+          "nombre_calle": "Sixto Fernández",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lomas de Zamora",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1997,
+          "cod_calle": 20151,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4231811908163,
+            "y": -34.7834362357143
+          },
+          "direccion": "J. M. Fernández 1997, Lomas de Zamora",
+          "nombre_calle": "J. M. Fernández",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Llavallol",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1997,
+          "cod_calle": 103503,
+          "cod_calle_cruce": null,
+          "cod_partido": "lujan",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -59.0851630989796,
+            "y": -34.5555776959184
+          },
+          "direccion": "Fernández Moreno 1997, Luján",
+          "nombre_calle": "Fernández Moreno",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Luján",
+          "nombre_partido": "Luján",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1997,
+          "cod_calle": 27093,
+          "cod_calle_cruce": null,
+          "cod_partido": "moron",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5833536744898,
+            "y": -34.6228541928572
+          },
+          "direccion": "Macedonio Fernández 1997, Morón",
+          "nombre_calle": "Macedonio Fernández",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "El Palomar",
+          "nombre_partido": "Morón",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99758.34698448496,
+                  97190.87404205778
+                ],
+                [
+                  99762.93198446857,
+                  97186.47604206673
+                ],
+                [
+                  99764.20998446384,
+                  97185.25004206863
+                ],
+                [
+                  99764.54998445831,
+                  97179.14004208465
+                ],
+                [
+                  99761.010984465,
+                  97174.7930421
+                ],
+                [
+                  99756.1869844814,
+                  97178.75304209249
+                ],
+                [
+                  99753.54298448993,
+                  97180.92404208798
+                ],
+                [
+                  99750.87798449952,
+                  97183.1120420843
+                ],
+                [
+                  99751.67298449887,
+                  97183.9390420818
+                ],
+                [
+                  99758.34698448496,
+                  97190.87404205778
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "056-083-045",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "FERNANDEZ 1997",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.465930925404614,
+      -34.65466317441689
+    ],
+    "direccion": "",
+    "fondo": "21.59",
+    "frente": "5.65",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "083",
+    "parcela": "045",
+    "pdamatriz": "83877",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "056",
+    "smp": "056-083-045",
+    "smp_anterior": "056-083-044",
+    "smp_siguiente": "056-083-046",
+    "srid": 4326,
+    "superficie_cubierta": "102.00",
+    "superficie_total": "122.00",
+    "unidades_funcionales": "2",
+    "vuc": "0.00"
+  },
+  "smp": "056-083-045",
+  "_http_status": 200
+}

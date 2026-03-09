@@ -1,0 +1,391 @@
+{
+  "area_m2": 293.4824171066284,
+  "centroide_lonlat": {
+    "lat": -34.556805,
+    "lon": -58.457904
+  },
+  "centroide_xy": {
+    "x": 100495.23143658049,
+    "y": 108038.7857864794
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.46,
+          "fot_perim_libre": 3.46,
+          "fot_semi_libre": 3.46
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/82/027-023-016_0000224582.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION027/027-023-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION027/PI-027-023-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "027-023-017",
+            "027-023-015",
+            "027-023-013"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2a II",
+          "incidencia_uva": 480.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 152.604781552298,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 293.5,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "027-023-016"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Belgrano",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1428",
+    "codigo_postal_argentino": "C1428BLG",
+    "comisaria": "33",
+    "comisaria_vecinal": "13A",
+    "comuna": "Comuna 13",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   X",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "27"
+  },
+  "debug": {
+    "address": "MONROE 2189",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.45790423423462,
+        -34.556805376608736
+      ],
+      "direccion": "",
+      "fondo": "34.64",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "023",
+      "parcela": "016",
+      "pdamatriz": "336617",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "4",
+      "propiedad_horizontal": "Si",
+      "seccion": "027",
+      "smp": "027-023-016",
+      "smp_anterior": "027-023-015",
+      "smp_siguiente": "027-023-017",
+      "srid": 4326,
+      "superficie_cubierta": "710.00",
+      "superficie_total": "300.00",
+      "unidades_funcionales": "14",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2189,
+      "cod_calle": 4111
+    },
+    "usig_direccion_elegida": {
+      "altura": 2189,
+      "cod_calle": 4111,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.457780",
+        "y": "-34.556948"
+      },
+      "direccion": "MONROE 2189, CABA",
+      "nombre_calle": "MONROE",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2189,
+          "cod_calle": 4111,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.457780",
+            "y": "-34.556948"
+          },
+          "direccion": "MONROE 2189, CABA",
+          "nombre_calle": "MONROE",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2189,
+          "cod_calle": 7044,
+          "cod_calle_cruce": null,
+          "cod_partido": "ituzaingo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6892557204082,
+            "y": -34.6517296163265
+          },
+          "direccion": "Monroe 2189, Ituzaingó",
+          "nombre_calle": "Monroe",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ituzaingó",
+          "nombre_partido": "Ituzaingó",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2189,
+          "cod_calle": 69071,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_isidro",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.572122384375,
+            "y": -34.480096684375
+          },
+          "direccion": "Monroe 2189, San Isidro",
+          "nombre_calle": "Monroe",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Boulogne Sur Mer",
+          "nombre_partido": "San Isidro",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  100500.95899056643,
+                  108038.08701107875
+                ],
+                [
+                  100503.30299055795,
+                  108034.85401108608
+                ],
+                [
+                  100505.47699054923,
+                  108031.85601109226
+                ],
+                [
+                  100506.60999054526,
+                  108030.29301109564
+                ],
+                [
+                  100506.71099054467,
+                  108030.15401109646
+                ],
+                [
+                  100507.68099054071,
+                  108028.81601109903
+                ],
+                [
+                  100508.77099053634,
+                  108027.31301110287
+                ],
+                [
+                  100501.75108918533,
+                  108022.25410047773
+                ],
+                [
+                  100500.42906770606,
+                  108024.1225086766
+                ],
+                [
+                  100499.7291165369,
+                  108025.11213269777
+                ],
+                [
+                  100499.32549105014,
+                  108025.68214002071
+                ],
+                [
+                  100496.12907992971,
+                  108030.19929088937
+                ],
+                [
+                  100494.3911038622,
+                  108032.65571178222
+                ],
+                [
+                  100490.02306188692,
+                  108038.82813608463
+                ],
+                [
+                  100489.79131139956,
+                  108039.15650522447
+                ],
+                [
+                  100481.69299063006,
+                  108050.60101105765
+                ],
+                [
+                  100484.17599062447,
+                  108052.38701105112
+                ],
+                [
+                  100485.13099062239,
+                  108053.07401104836
+                ],
+                [
+                  100488.39299061512,
+                  108055.42001103921
+                ],
+                [
+                  100489.75599060976,
+                  108053.54001104354
+                ],
+                [
+                  100492.55899059927,
+                  108049.67401105195
+                ],
+                [
+                  100493.32199059568,
+                  108048.62101105496
+                ],
+                [
+                  100496.84799058267,
+                  108043.75801106603
+                ],
+                [
+                  100500.95899056643,
+                  108038.08701107875
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "027-023-016",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MONROE 2189",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.45790423423462,
+      -34.556805376608736
+    ],
+    "direccion": "",
+    "fondo": "34.64",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "023",
+    "parcela": "016",
+    "pdamatriz": "336617",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "4",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "027",
+    "smp": "027-023-016",
+    "smp_anterior": "027-023-015",
+    "smp_siguiente": "027-023-017",
+    "srid": 4326,
+    "superficie_cubierta": "710.00",
+    "superficie_total": "300.00",
+    "unidades_funcionales": "14",
+    "vuc": "0.00"
+  },
+  "smp": "027-023-016",
+  "_http_status": 200
+}

@@ -1,0 +1,408 @@
+{
+  "area_m2": 207.84411907196045,
+  "centroide_lonlat": {
+    "lat": -34.563735,
+    "lon": -58.485884
+  },
+  "centroide_xy": {
+    "x": 97927.35955170548,
+    "y": 107269.86663227499
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/3/92/053-068-011_0000234392.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION053/053-068-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION053/PI-053-068-V4.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "053-068-012",
+            "053-068-010",
+            "053-068-006"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 310.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 207.816650000166,
+        "sup_max_edificable": 1076.5,
+        "superficie_parcela": 207.8,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "053-068-011"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Villa Urquiza",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1430",
+    "codigo_postal_argentino": "C1430ECM",
+    "comisaria": "49",
+    "comisaria_vecinal": "12C",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "53"
+  },
+  "debug": {
+    "address": "LUGONES 3273",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.485884207711095,
+        -34.563734660767594
+      ],
+      "direccion": "",
+      "fondo": "24.60",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "068",
+      "parcela": "011",
+      "pdamatriz": "348050",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "053",
+      "smp": "053-068-011",
+      "smp_anterior": "053-068-010",
+      "smp_siguiente": "053-068-012",
+      "srid": 4326,
+      "superficie_cubierta": "296.00",
+      "superficie_total": "213.00",
+      "unidades_funcionales": "2",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3273,
+      "cod_calle": 12151
+    },
+    "usig_direccion_elegida": {
+      "altura": 3273,
+      "cod_calle": 12151,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.486025",
+        "y": "-34.563825"
+      },
+      "direccion": "LUGONES 3273, CABA",
+      "nombre_calle": "LUGONES",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3273,
+          "cod_calle": 12151,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.486025",
+            "y": "-34.563825"
+          },
+          "direccion": "LUGONES 3273, CABA",
+          "nombre_calle": "LUGONES",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3273,
+          "cod_calle": 193594,
+          "cod_calle_cruce": null,
+          "cod_partido": "escobar",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7635392571428,
+            "y": -34.3141226040816
+          },
+          "direccion": "Leopoldo Lugones 3273, Escobar",
+          "nombre_calle": "Leopoldo Lugones",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "El Cazador",
+          "nombre_partido": "Escobar",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3273,
+          "cod_calle": 9099,
+          "cod_calle_cruce": null,
+          "cod_partido": "tres_de_febrero",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5329947622449,
+            "y": -34.6308244244898
+          },
+          "direccion": "233 - Leopoldo Lugones 3273, Tres de Febrero",
+          "nombre_calle": "233 - Leopoldo Lugones",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ciudadela",
+          "nombre_partido": "Tres de Febrero",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3273,
+          "cod_calle": 55280,
+          "cod_calle_cruce": null,
+          "cod_partido": "vicente_lopez",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5121432591837,
+            "y": -34.5152840295918
+          },
+          "direccion": "Leopoldo Lugones 3273, Vicente López",
+          "nombre_calle": "Leopoldo Lugones",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Olivos",
+          "nombre_partido": "Vicente López",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97918.37399722982,
+                  107268.41301518082
+                ],
+                [
+                  97918.99699722852,
+                  107268.8880151783
+                ],
+                [
+                  97919.16599722886,
+                  107269.01701517886
+                ],
+                [
+                  97921.85999722237,
+                  107271.07001517201
+                ],
+                [
+                  97926.21899721149,
+                  107274.3910151576
+                ],
+                [
+                  97926.42899721142,
+                  107274.55101515728
+                ],
+                [
+                  97928.13299720829,
+                  107275.85001515324
+                ],
+                [
+                  97929.39199720486,
+                  107276.80901514986
+                ],
+                [
+                  97930.43999720358,
+                  107277.60801514474
+                ],
+                [
+                  97932.65699719806,
+                  107279.29801514006
+                ],
+                [
+                  97934.811997193,
+                  107280.94001513475
+                ],
+                [
+                  97936.8659971852,
+                  107277.21301514292
+                ],
+                [
+                  97939.0389971752,
+                  107273.2700151511
+                ],
+                [
+                  97934.67599718546,
+                  107269.94601516452
+                ],
+                [
+                  97933.34999718756,
+                  107268.9360151676
+                ],
+                [
+                  97931.50399719184,
+                  107267.53001517363
+                ],
+                [
+                  97927.48599720038,
+                  107264.46901518558
+                ],
+                [
+                  97927.14299720341,
+                  107264.20801518421
+                ],
+                [
+                  97924.27999720836,
+                  107262.02701519438
+                ],
+                [
+                  97923.63499720997,
+                  107261.53601519708
+                ],
+                [
+                  97920.4769972164,
+                  107259.13001520533
+                ],
+                [
+                  97917.83599722745,
+                  107262.56001519784
+                ],
+                [
+                  97915.19499723756,
+                  107265.9900151903
+                ],
+                [
+                  97918.37399722982,
+                  107268.41301518082
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "053-068-011",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "LUGONES 3273",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.485884207711095,
+      -34.563734660767594
+    ],
+    "direccion": "",
+    "fondo": "24.60",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "068",
+    "parcela": "011",
+    "pdamatriz": "348050",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "053",
+    "smp": "053-068-011",
+    "smp_anterior": "053-068-010",
+    "smp_siguiente": "053-068-012",
+    "srid": 4326,
+    "superficie_cubierta": "296.00",
+    "superficie_total": "213.00",
+    "unidades_funcionales": "2",
+    "vuc": "0.00"
+  },
+  "smp": "053-068-011",
+  "_http_status": 200
+}

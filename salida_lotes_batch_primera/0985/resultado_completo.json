@@ -1,0 +1,413 @@
+{
+  "area_m2": 599.3757047653198,
+  "centroide_lonlat": {
+    "lat": -34.628287,
+    "lon": -58.458125
+  },
+  "centroide_xy": {
+    "x": 100474.59780011683,
+    "y": 100108.8936380061
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 1,
+          "ensanche": 1,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 38.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 5.0,
+          "fot_perim_libre": 7.0,
+          "fot_semi_libre": 5.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/84/048-145-010_0000411084.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION048/048-145-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION048/PI-048-145-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "048-145-016g",
+            "048-145-009b",
+            "048-145-011",
+            "048-145-016h"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "C2",
+          "incidencia_uva": 100.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 505.605231376719,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 599.4,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "048-145-010"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. P. PIÑERO",
+    "barrio": "Flores",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1406",
+    "codigo_postal_argentino": "C1406DOB",
+    "comisaria": "38",
+    "comisaria_vecinal": "7C",
+    "comuna": "Comuna 7",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "48"
+  },
+  "debug": {
+    "address": "CAMACUA 78",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.45812461586084,
+        -34.62828730300918
+      ],
+      "direccion": "",
+      "fondo": "46.42",
+      "frente": "12.99",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "145",
+      "parcela": "010",
+      "pdamatriz": "140909",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "048",
+      "smp": "048-145-010",
+      "smp_anterior": "048-145-009B",
+      "smp_siguiente": "048-145-011",
+      "srid": 4326,
+      "superficie_cubierta": "1810.00",
+      "superficie_total": "603.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 78,
+      "cod_calle": 3032
+    },
+    "usig_direccion_elegida": {
+      "altura": 78,
+      "cod_calle": 3032,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.458384",
+        "y": "-34.628377"
+      },
+      "direccion": "CAMACUA 78, CABA",
+      "nombre_calle": "CAMACUA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 78,
+          "cod_calle": 3032,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.458384",
+            "y": "-34.628377"
+          },
+          "direccion": "CAMACUA 78, CABA",
+          "nombre_calle": "CAMACUA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 78,
+          "cod_calle": 7424,
+          "cod_calle_cruce": null,
+          "cod_partido": "ituzaingo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6632771877551,
+            "y": -34.6577807673469
+          },
+          "direccion": "Camacuá 78, Ituzaingó",
+          "nombre_calle": "Camacuá",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ituzaingó",
+          "nombre_partido": "Ituzaingó",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 78,
+          "cod_calle": 364709,
+          "cod_calle_cruce": null,
+          "cod_partido": "pilar",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -59.0042008857143,
+            "y": -34.4531477928571
+          },
+          "direccion": "Camacua 78, Pilar",
+          "nombre_calle": "Camacua",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Manzanares",
+          "nombre_partido": "Pilar",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 78,
+          "cod_calle": 69033,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_isidro",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5461955071429,
+            "y": -34.4913560928572
+          },
+          "direccion": "Camacuá 78, San Isidro",
+          "nombre_calle": "Camacuá",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Isidro",
+          "nombre_partido": "San Isidro",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  100465.84398468846,
+                  100098.42803337096
+                ],
+                [
+                  100464.48498469262,
+                  100097.88203337343
+                ],
+                [
+                  100463.37998469496,
+                  100097.43803337537
+                ],
+                [
+                  100459.60398470478,
+                  100095.92203338264
+                ],
+                [
+                  100455.59498471429,
+                  100094.31303339
+                ],
+                [
+                  100450.55798473793,
+                  100106.31803336
+                ],
+                [
+                  100451.48198473523,
+                  100106.68303335851
+                ],
+                [
+                  100455.08698472666,
+                  100108.10803335163
+                ],
+                [
+                  100456.62398472233,
+                  100108.71603334876
+                ],
+                [
+                  100458.54598471774,
+                  100109.4760333449
+                ],
+                [
+                  100459.87198471479,
+                  100110.00003334272
+                ],
+                [
+                  100460.55598471253,
+                  100110.27103334112
+                ],
+                [
+                  100474.33398467791,
+                  100115.71903331537
+                ],
+                [
+                  100493.85198462912,
+                  100123.4360332792
+                ],
+                [
+                  100496.09798461894,
+                  100117.91203329273
+                ],
+                [
+                  100498.66398460667,
+                  100111.6040333093
+                ],
+                [
+                  100493.78798461871,
+                  100109.6460333179
+                ],
+                [
+                  100491.25498462521,
+                  100108.63003332281
+                ],
+                [
+                  100485.63798463964,
+                  100106.37503333346
+                ],
+                [
+                  100483.0239846461,
+                  100105.32503333857
+                ],
+                [
+                  100482.48498464757,
+                  100105.10903333957
+                ],
+                [
+                  100479.42198465519,
+                  100103.87903334486
+                ],
+                [
+                  100479.30398465473,
+                  100103.83203334577
+                ],
+                [
+                  100474.15498466838,
+                  100101.76403335549
+                ],
+                [
+                  100465.84398468846,
+                  100098.42803337096
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "048-145-010",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CAMACUA 78",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.45812461586084,
+      -34.62828730300918
+    ],
+    "direccion": "",
+    "fondo": "46.42",
+    "frente": "12.99",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "145",
+    "parcela": "010",
+    "pdamatriz": "140909",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "048",
+    "smp": "048-145-010",
+    "smp_anterior": "048-145-009B",
+    "smp_siguiente": "048-145-011",
+    "srid": 4326,
+    "superficie_cubierta": "1810.00",
+    "superficie_total": "603.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "048-145-010",
+  "_http_status": 200
+}

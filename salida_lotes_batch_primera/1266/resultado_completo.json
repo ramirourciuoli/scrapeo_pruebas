@@ -1,0 +1,347 @@
+{
+  "area_m2": 328.68035411834717,
+  "centroide_lonlat": {
+    "lat": -34.638379,
+    "lon": -58.420804
+  },
+  "centroide_xy": {
+    "x": 103896.55788890921,
+    "y": 98988.49336577347
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/2/47/038-162-004_0000046247.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION038/038-162-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION038/PI-038-162-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "038-162-032",
+            "038-162-033",
+            "038-162-005b",
+            "038-162-003",
+            "038-162-034"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b III",
+          "incidencia_uva": 100.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 306.42143923168,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 328.7,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "038-162-004"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.M. PENNA",
+    "barrio": "Boedo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1255",
+    "codigo_postal_argentino": "C1255AAC",
+    "comisaria": "34",
+    "comisaria_vecinal": "5B",
+    "comuna": "Comuna 5",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "38"
+  },
+  "debug": {
+    "address": "GIBSON 4063",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.420803751443536,
+        -34.6383794930917
+      ],
+      "direccion": "",
+      "fondo": "38.27",
+      "frente": "8.70",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "162",
+      "parcela": "004",
+      "pdamatriz": "38958",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "038",
+      "smp": "038-162-004",
+      "smp_anterior": "038-162-003",
+      "smp_siguiente": "038-162-005B",
+      "srid": 4326,
+      "superficie_cubierta": "208.00",
+      "superficie_total": "333.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4063,
+      "cod_calle": 7047
+    },
+    "usig_direccion_elegida": {
+      "altura": 4063,
+      "cod_calle": 7047,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.420753",
+        "y": "-34.638576"
+      },
+      "direccion": "GIBSON 4063, CABA",
+      "nombre_calle": "GIBSON",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4063,
+          "cod_calle": 7047,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.420753",
+            "y": "-34.638576"
+          },
+          "direccion": "GIBSON 4063, CABA",
+          "nombre_calle": "GIBSON",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  103892.38097424354,
+                  98987.83403390576
+                ],
+                [
+                  103892.0639742456,
+                  98989.40603390324
+                ],
+                [
+                  103891.6859742466,
+                  98989.32503390362
+                ],
+                [
+                  103891.43897424829,
+                  98990.69903389885
+                ],
+                [
+                  103890.5609742546,
+                  98995.5760338858
+                ],
+                [
+                  103890.17497425704,
+                  98997.72303387997
+                ],
+                [
+                  103889.04497426454,
+                  99004.00803386379
+                ],
+                [
+                  103888.64397426836,
+                  99006.2370338575
+                ],
+                [
+                  103896.96797424609,
+                  99007.97303384621
+                ],
+                [
+                  103900.25397422405,
+                  98991.97703388927
+                ],
+                [
+                  103903.58297420292,
+                  98975.76903393172
+                ],
+                [
+                  103904.62097419708,
+                  98970.71403394421
+                ],
+                [
+                  103902.30597420243,
+                  98970.2310339474
+                ],
+                [
+                  103896.18197421872,
+                  98968.95403395523
+                ],
+                [
+                  103895.16297422515,
+                  98974.0140339437
+                ],
+                [
+                  103894.31697423081,
+                  98978.21603393188
+                ],
+                [
+                  103893.81197423363,
+                  98980.72703392463
+                ],
+                [
+                  103893.43797423717,
+                  98982.58303391887
+                ],
+                [
+                  103893.17597423881,
+                  98983.88203391622
+                ],
+                [
+                  103892.4959742432,
+                  98987.25803390873
+                ],
+                [
+                  103892.38097424354,
+                  98987.83403390576
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "038-162-004",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "GIBSON 4063",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.420803751443536,
+      -34.6383794930917
+    ],
+    "direccion": "",
+    "fondo": "38.27",
+    "frente": "8.70",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "162",
+    "parcela": "004",
+    "pdamatriz": "38958",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "038",
+    "smp": "038-162-004",
+    "smp_anterior": "038-162-003",
+    "smp_siguiente": "038-162-005B",
+    "srid": 4326,
+    "superficie_cubierta": "208.00",
+    "superficie_total": "333.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "038-162-004",
+  "_http_status": 200
+}

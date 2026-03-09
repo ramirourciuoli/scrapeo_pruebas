@@ -1,0 +1,365 @@
+{
+  "area_m2": 260.3373689651489,
+  "centroide_lonlat": {
+    "lat": -34.55536,
+    "lon": -58.444164
+  },
+  "centroide_xy": {
+    "x": 101756.36132558143,
+    "y": 108198.93498597329
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 0.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "U",
+            "distrito_especifico": "U 23"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 0.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/83/025-083-024_0000216083.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION025/025-083-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION025/PI-025-083-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "025-083-019c",
+            "025-083-023",
+            "025-083-025"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "U23",
+          "incidencia_uva": 580.0,
+          "plusvalia_em": 0.0,
+          "plusvalia_pl": 0.0,
+          "plusvalia_sl": 0.0
+        },
+        "rivolta": 0,
+        "subzona": "Zona 1",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 260.3,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "025-083-024"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Belgrano",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1428",
+    "codigo_postal_argentino": "C1428AUF",
+    "comisaria": "51",
+    "comisaria_vecinal": "13A",
+    "comuna": "Comuna 13",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   X",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "25"
+  },
+  "debug": {
+    "address": "ARTILLEROS 2048",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.44416399672303,
+        -34.555360365246294
+      ],
+      "direccion": "",
+      "fondo": "30.02",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "083",
+      "parcela": "024",
+      "pdamatriz": "341750",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "025",
+      "smp": "025-083-024",
+      "smp_anterior": "025-083-023",
+      "smp_siguiente": "025-083-025",
+      "srid": 4326,
+      "superficie_cubierta": "344.00",
+      "superficie_total": "260.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2048,
+      "cod_calle": 1127
+    },
+    "usig_direccion_elegida": {
+      "altura": 2048,
+      "cod_calle": 1127,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.444008",
+        "y": "-34.555268"
+      },
+      "direccion": "ARTILLEROS 2048, CABA",
+      "nombre_calle": "ARTILLEROS",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2048,
+          "cod_calle": 1127,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.444008",
+            "y": "-34.555268"
+          },
+          "direccion": "ARTILLEROS 2048, CABA",
+          "nombre_calle": "ARTILLEROS",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2048,
+          "cod_calle": 39706,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "direccion": "Artilleros 2048, La Matanza",
+          "nombre_calle": "Artilleros",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Aldo Bonzi",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  101762.19598715092,
+                  108197.7710096809
+                ],
+                [
+                  101758.10998715903,
+                  108194.81900969241
+                ],
+                [
+                  101755.18998716607,
+                  108192.70900970203
+                ],
+                [
+                  101754.0239871682,
+                  108191.86600970363
+                ],
+                [
+                  101753.10898717088,
+                  108191.20500970606
+                ],
+                [
+                  101751.15398717446,
+                  108189.79200971269
+                ],
+                [
+                  101748.2979871818,
+                  108187.72900972125
+                ],
+                [
+                  101748.12898718161,
+                  108187.60700972023
+                ],
+                [
+                  101746.78898718415,
+                  108186.64300972334
+                ],
+                [
+                  101741.73598720362,
+                  108193.75000970933
+                ],
+                [
+                  101743.14498720004,
+                  108194.76800970544
+                ],
+                [
+                  101746.07098719472,
+                  108196.88100969617
+                ],
+                [
+                  101753.16198717814,
+                  108202.00300967478
+                ],
+                [
+                  101754.04598717683,
+                  108202.64200967408
+                ],
+                [
+                  101761.96198715887,
+                  108208.36000965227
+                ],
+                [
+                  101762.75298715674,
+                  108208.93000965012
+                ],
+                [
+                  101764.5329871525,
+                  108210.21600964438
+                ],
+                [
+                  101765.18198715127,
+                  108210.68500964332
+                ],
+                [
+                  101765.93498714868,
+                  108211.22900964165
+                ],
+                [
+                  101770.98698712973,
+                  108204.12300965594
+                ],
+                [
+                  101769.56998713352,
+                  108203.09900966132
+                ],
+                [
+                  101765.71598714148,
+                  108200.3140096722
+                ],
+                [
+                  101762.19598715092,
+                  108197.7710096809
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "025-083-024",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ARTILLEROS 2048",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.44416399672303,
+      -34.555360365246294
+    ],
+    "direccion": "",
+    "fondo": "30.02",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "083",
+    "parcela": "024",
+    "pdamatriz": "341750",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "025",
+    "smp": "025-083-024",
+    "smp_anterior": "025-083-023",
+    "smp_siguiente": "025-083-025",
+    "srid": 4326,
+    "superficie_cubierta": "344.00",
+    "superficie_total": "260.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "025-083-024",
+  "_http_status": 200
+}

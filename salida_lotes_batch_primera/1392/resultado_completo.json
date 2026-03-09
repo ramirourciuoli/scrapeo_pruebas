@@ -1,0 +1,406 @@
+{
+  "area_m2": 333.7294807434082,
+  "centroide_lonlat": {
+    "lat": -34.594984,
+    "lon": -58.39756
+  },
+  "centroide_xy": {
+    "x": 106030.99494688897,
+    "y": 103801.47077340256
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 38.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.32,
+          "fot_perim_libre": 3.32,
+          "fot_semi_libre": 3.32
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/fp/SECCION011/FP-011-045-031-VD.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION011/011-045-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION011/PI-011-045-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "011-045-015",
+            "011-045-030",
+            "011-045-013",
+            "011-045-014",
+            "011-045-032"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2a I",
+          "incidencia_uva": 490.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 232.236598496399,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 333.7,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "011-045-031"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.A.FERNÁNDEZ",
+    "barrio": "Recoleta",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1113",
+    "codigo_postal_argentino": "C1113AAH",
+    "comisaria": "19",
+    "comisaria_vecinal": "2B",
+    "comuna": "Comuna 2",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   I",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "11"
+  },
+  "debug": {
+    "address": "JUNIN 1144",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.39755959730435,
+        -34.59498405112162
+      ],
+      "direccion": "",
+      "fondo": "38.80",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "045",
+      "parcela": "031",
+      "pdamatriz": "440580",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "0",
+      "propiedad_horizontal": "No",
+      "seccion": "011",
+      "smp": "011-045-031",
+      "smp_anterior": "011-045-030",
+      "smp_siguiente": "011-045-032",
+      "srid": 4326,
+      "superficie_cubierta": "0.00",
+      "superficie_total": "336.00",
+      "unidades_funcionales": "31",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1144,
+      "cod_calle": 10015
+    },
+    "usig_direccion_elegida": {
+      "altura": 1144,
+      "cod_calle": 10015,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.397323",
+        "y": "-34.595018"
+      },
+      "direccion": "JUNIN 1144, CABA",
+      "nombre_calle": "JUNIN",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1144,
+          "cod_calle": 10015,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.397323",
+            "y": "-34.595018"
+          },
+          "direccion": "JUNIN 1144, CABA",
+          "nombre_calle": "JUNIN",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1144,
+          "cod_calle": 46775,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "direccion": "Junín 1144, La Matanza",
+          "nombre_calle": "Junín",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Madero",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1144,
+          "cod_calle": 164628,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7382265428571,
+            "y": -34.6650499428571
+          },
+          "direccion": "Junín 1144, Merlo",
+          "nombre_calle": "Junín",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Merlo",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1144,
+          "cod_calle": 51621,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_fernando",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5623897285714,
+            "y": -34.4358641
+          },
+          "direccion": "Junín 1144, San Fernando",
+          "nombre_calle": "Junín",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Fernando",
+          "nombre_partido": "San Fernando",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1144,
+          "cod_calle": 46493,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_isidro",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5799008,
+            "y": -34.5043728428571
+          },
+          "direccion": "Junín 1144, San Isidro",
+          "nombre_calle": "Junín",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Boulogne Sur Mer",
+          "nombre_partido": "San Isidro",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  106050.86105579906,
+                  103802.75813645424
+                ],
+                [
+                  106049.39897181261,
+                  103794.24201880305
+                ],
+                [
+                  106047.817971817,
+                  103794.48901880399
+                ],
+                [
+                  106038.45004508656,
+                  103795.95112964668
+                ],
+                [
+                  106037.11606071547,
+                  103796.15913745968
+                ],
+                [
+                  106032.68008660732,
+                  103796.85109302745
+                ],
+                [
+                  106031.29709100592,
+                  103797.06709644585
+                ],
+                [
+                  106028.01809931626,
+                  103797.57912037265
+                ],
+                [
+                  106019.65097189893,
+                  103798.88501881258
+                ],
+                [
+                  106016.73797190771,
+                  103799.33901881336
+                ],
+                [
+                  106011.10797192428,
+                  103800.21801881585
+                ],
+                [
+                  106012.5119719268,
+                  103808.67501879053
+                ],
+                [
+                  106013.05508667119,
+                  103808.59212084129
+                ],
+                [
+                  106021.70505002486,
+                  103807.25709886587
+                ],
+                [
+                  106031.44997187158,
+                  103805.75301878422
+                ],
+                [
+                  106033.46497186532,
+                  103805.44201878383
+                ],
+                [
+                  106034.25607537883,
+                  103805.32014817835
+                ],
+                [
+                  106038.2219718517,
+                  103804.70801878208
+                ],
+                [
+                  106039.00009391965,
+                  103804.58809251271
+                ],
+                [
+                  106050.86105579906,
+                  103802.75813645424
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "011-045-031",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "JUNIN 1144",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.39755959730435,
+      -34.59498405112162
+    ],
+    "direccion": "",
+    "fondo": "38.80",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "045",
+    "parcela": "031",
+    "pdamatriz": "440580",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "0",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "011",
+    "smp": "011-045-031",
+    "smp_anterior": "011-045-030",
+    "smp_siguiente": "011-045-032",
+    "srid": 4326,
+    "superficie_cubierta": "0.00",
+    "superficie_total": "336.00",
+    "unidades_funcionales": "31",
+    "vuc": "0.00"
+  },
+  "smp": "011-045-031",
+  "_http_status": 200
+}

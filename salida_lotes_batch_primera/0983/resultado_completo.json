@@ -1,0 +1,506 @@
+{
+  "area_m2": 406.9963903427124,
+  "centroide_lonlat": {
+    "lat": -34.630739,
+    "lon": -58.461221
+  },
+  "centroide_xy": {
+    "x": 100190.66307206836,
+    "y": 99836.87735767536
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 1,
+          "lep": 1,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 38.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 5.0,
+          "fot_perim_libre": 7.0,
+          "fot_semi_libre": 5.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/3/29/048-118-025_0000087329.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION048/048-118-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION048/PI-048-118-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": true,
+          "smp_linderas": [
+            "048-118-024",
+            "048-118-016b",
+            "048-118-026",
+            "048-118-008"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "C2",
+          "incidencia_uva": 110.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 252.611723495681,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 407.0,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "048-118-025"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. P. PIÑERO",
+    "barrio": "Flores",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1406",
+    "codigo_postal_argentino": "C1406GRM",
+    "comisaria": "38",
+    "comisaria_vecinal": "7C",
+    "comuna": "Comuna 7",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "48"
+  },
+  "debug": {
+    "address": "AV. JUAN BAUTISTA ALBERDI 2363",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.461220800698676,
+        -34.63073940002451
+      ],
+      "direccion": "",
+      "fondo": "59.51",
+      "frente": "6.99",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "118",
+      "parcela": "025",
+      "pdamatriz": "142170",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "10",
+      "propiedad_horizontal": "Si",
+      "seccion": "048",
+      "smp": "048-118-025",
+      "smp_anterior": "048-118-024",
+      "smp_siguiente": "048-118-026",
+      "srid": 4326,
+      "superficie_cubierta": "2600.00",
+      "superficie_total": "416.00",
+      "unidades_funcionales": "37",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2363,
+      "cod_calle": 1033
+    },
+    "usig_direccion_elegida": {
+      "altura": 2363,
+      "cod_calle": 1033,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.461099",
+        "y": "-34.631016"
+      },
+      "direccion": "ALBERDI, JUAN BAUTISTA AV. 2363, CABA",
+      "nombre_calle": "ALBERDI, JUAN BAUTISTA AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2363,
+          "cod_calle": 1033,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.461099",
+            "y": "-34.631016"
+          },
+          "direccion": "ALBERDI, JUAN BAUTISTA AV. 2363, CABA",
+          "nombre_calle": "ALBERDI, JUAN BAUTISTA AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2363,
+          "cod_calle": 64857,
+          "cod_calle_cruce": null,
+          "cod_partido": "moreno",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.810841544898,
+            "y": -34.6624288438776
+          },
+          "direccion": "Juan Bautista Alberdi 2363, Moreno",
+          "nombre_calle": "Juan Bautista Alberdi",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Moreno",
+          "nombre_partido": "Moreno",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2363,
+          "cod_calle": 11490,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_miguel",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7090466636364,
+            "y": -34.5596094090909
+          },
+          "direccion": "Juan Bautista Alberdi 2363, San Miguel",
+          "nombre_calle": "Juan Bautista Alberdi",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Muñiz",
+          "nombre_partido": "San Miguel",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2363,
+          "cod_calle": 13453,
+          "cod_calle_cruce": null,
+          "cod_partido": "vicente_lopez",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5014723754375,
+            "y": -34.515283479192
+          },
+          "direccion": "Juan Bautista Alberdi 2363, Vicente López",
+          "nombre_calle": "Juan Bautista Alberdi",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Olivos",
+          "nombre_partido": "Vicente López",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2363,
+          "cod_calle": 313944,
+          "cod_calle_cruce": null,
+          "cod_partido": "zarate",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -59.0053156204082,
+            "y": -34.1389268020408
+          },
+          "direccion": "Juan Bautista Alberdi 2363, Zárate",
+          "nombre_calle": "Juan Bautista Alberdi",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Zárate",
+          "nombre_partido": "Zárate",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  100204.02198520617,
+                  99810.31303437578
+                ],
+                [
+                  100197.37498522305,
+                  99807.86003438794
+                ],
+                [
+                  100194.4539852374,
+                  99816.12703436692
+                ],
+                [
+                  100193.91398524,
+                  99817.6410343626
+                ],
+                [
+                  100193.68098524117,
+                  99818.29403436088
+                ],
+                [
+                  100193.47198524239,
+                  99818.88103435969
+                ],
+                [
+                  100191.88298525053,
+                  99823.33203434874
+                ],
+                [
+                  100190.85598525486,
+                  99826.21103434116
+                ],
+                [
+                  100190.04998525893,
+                  99828.4690343349
+                ],
+                [
+                  100189.47998526238,
+                  99830.06703433106
+                ],
+                [
+                  100188.46598526691,
+                  99832.91003432422
+                ],
+                [
+                  100188.09098526879,
+                  99833.96103432152
+                ],
+                [
+                  100187.89498526929,
+                  99834.51103431993
+                ],
+                [
+                  100187.66098527117,
+                  99835.1670343187
+                ],
+                [
+                  100186.81998527529,
+                  99837.52403431255
+                ],
+                [
+                  100182.37498529682,
+                  99849.98103428044
+                ],
+                [
+                  100181.9009852988,
+                  99851.30803427761
+                ],
+                [
+                  100181.0649853037,
+                  99853.65203427125
+                ],
+                [
+                  100180.25398530698,
+                  99855.92603426566
+                ],
+                [
+                  100180.18898530785,
+                  99856.10903426539
+                ],
+                [
+                  100177.28398532186,
+                  99864.25003424459
+                ],
+                [
+                  100179.88098531529,
+                  99865.12303423986
+                ],
+                [
+                  100183.53098530634,
+                  99866.35003423359
+                ],
+                [
+                  100186.4569852921,
+                  99858.33303425391
+                ],
+                [
+                  100187.32498528765,
+                  99855.95503426038
+                ],
+                [
+                  100188.6859852806,
+                  99852.22803426985
+                ],
+                [
+                  100190.21098527352,
+                  99848.04803428068
+                ],
+                [
+                  100191.48798526711,
+                  99844.55003428893
+                ],
+                [
+                  100191.59098526674,
+                  99844.26803429
+                ],
+                [
+                  100192.81098526053,
+                  99840.92403429796
+                ],
+                [
+                  100193.21298525928,
+                  99839.82503430126
+                ],
+                [
+                  100194.0789852545,
+                  99837.45103430745
+                ],
+                [
+                  100194.69398525174,
+                  99835.76503431096
+                ],
+                [
+                  100194.89998525097,
+                  99835.20103431313
+                ],
+                [
+                  100196.51498524242,
+                  99830.77803432388
+                ],
+                [
+                  100196.92798524104,
+                  99829.64403432718
+                ],
+                [
+                  100197.33998523856,
+                  99828.5170343297
+                ],
+                [
+                  100198.38998523325,
+                  99825.63903433736
+                ],
+                [
+                  100199.05098523037,
+                  99823.8280343413
+                ],
+                [
+                  100200.00698522596,
+                  99821.20903434796
+                ],
+                [
+                  100200.45798522321,
+                  99819.97303435154
+                ],
+                [
+                  100201.03498522089,
+                  99818.39403435562
+                ],
+                [
+                  100201.17698522017,
+                  99818.00403435601
+                ],
+                [
+                  100204.02198520617,
+                  99810.31303437578
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "048-118-025",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AV. JUAN BAUTISTA ALBERDI 2363",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.461220800698676,
+      -34.63073940002451
+    ],
+    "direccion": "",
+    "fondo": "59.51",
+    "frente": "6.99",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "118",
+    "parcela": "025",
+    "pdamatriz": "142170",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "10",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "048",
+    "smp": "048-118-025",
+    "smp_anterior": "048-118-024",
+    "smp_siguiente": "048-118-026",
+    "srid": 4326,
+    "superficie_cubierta": "2600.00",
+    "superficie_total": "416.00",
+    "unidades_funcionales": "37",
+    "vuc": "0.00"
+  },
+  "smp": "048-118-025",
+  "_http_status": 200
+}

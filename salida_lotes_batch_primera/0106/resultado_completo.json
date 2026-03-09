@@ -1,0 +1,320 @@
+{
+  "area_m2": 120.9956579208374,
+  "centroide_lonlat": {
+    "lat": -34.60392,
+    "lon": -58.49925
+  },
+  "centroide_xy": {
+    "x": 96702.27711274297,
+    "y": 102811.57339319112
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.0,
+          "fot_perim_libre": 1.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/54/081-115-001a_0000119754.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION081/081-115-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION081/PI-081-115-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "081-115-036",
+            "081-115-001b"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R1b I",
+          "incidencia_uva": 130.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 3398.74
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 121.037600000005,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 121.0,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "081-115-001A"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. A. ZUBIZARRETA",
+    "barrio": "Villa Del Parque",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1417",
+    "codigo_postal_argentino": "C1417AIR",
+    "comisaria": "45",
+    "comisaria_vecinal": "11B",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "81"
+  },
+  "debug": {
+    "address": "CONCORDIA 2986",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.49925043405961,
+        -34.60391962113212
+      ],
+      "direccion": "",
+      "fondo": "26.62",
+      "frente": "4.47",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "115",
+      "parcela": "001A",
+      "pdamatriz": "304117",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "081",
+      "smp": "081-115-001A",
+      "smp_anterior": "081-115-036",
+      "smp_siguiente": "081-115-001B",
+      "srid": 4326,
+      "superficie_cubierta": "136.00",
+      "superficie_total": "119.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2986,
+      "cod_calle": 3151
+    },
+    "usig_direccion_elegida": {
+      "altura": 2986,
+      "cod_calle": 3151,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.499176",
+        "y": "-34.603890"
+      },
+      "direccion": "CONCORDIA 2986, CABA",
+      "nombre_calle": "CONCORDIA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2986,
+          "cod_calle": 3151,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.499176",
+            "y": "-34.603890"
+          },
+          "direccion": "CONCORDIA 2986, CABA",
+          "nombre_calle": "CONCORDIA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96699.65299729047,
+                  102808.43002860533
+                ],
+                [
+                  96698.18799729626,
+                  102810.44302860103
+                ],
+                [
+                  96697.4209972992,
+                  102811.49602859895
+                ],
+                [
+                  96694.27499731154,
+                  102815.81902858909
+                ],
+                [
+                  96697.87099730331,
+                  102818.41002857915
+                ],
+                [
+                  96703.81899728574,
+                  102817.3710285777
+                ],
+                [
+                  96708.4809972666,
+                  102809.91502859487
+                ],
+                [
+                  96709.95999726094,
+                  102807.55002860012
+                ],
+                [
+                  96709.27799726251,
+                  102807.13102860207
+                ],
+                [
+                  96706.77299726848,
+                  102805.5930286086
+                ],
+                [
+                  96704.6249972735,
+                  102804.27402861373
+                ],
+                [
+                  96703.27999727687,
+                  102803.44802861675
+                ],
+                [
+                  96701.09499728473,
+                  102806.45002861027
+                ],
+                [
+                  96700.7329972864,
+                  102806.94702860867
+                ],
+                [
+                  96699.65299729047,
+                  102808.43002860533
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "081-115-001A",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CONCORDIA 2986",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.49925043405961,
+      -34.60391962113212
+    ],
+    "direccion": "",
+    "fondo": "26.62",
+    "frente": "4.47",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "115",
+    "parcela": "001A",
+    "pdamatriz": "304117",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "081",
+    "smp": "081-115-001A",
+    "smp_anterior": "081-115-036",
+    "smp_siguiente": "081-115-001B",
+    "srid": 4326,
+    "superficie_cubierta": "136.00",
+    "superficie_total": "119.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "081-115-001A",
+  "_http_status": 200
+}

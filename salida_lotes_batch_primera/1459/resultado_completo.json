@@ -1,0 +1,387 @@
+{
+  "area_m2": 95.91150856018066,
+  "centroide_lonlat": {
+    "lat": -34.663632,
+    "lon": -58.479735
+  },
+  "centroide_xy": {
+    "x": 98493.48874989917,
+    "y": 96187.71027713963
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/4/87/064-041A-010_0000020487.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION064/064-041A-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION064/PI-064-041A-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "064-041A-009",
+            "064-041A-011"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 95.931299999957,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 95.9,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "064-041A-010"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. P. PIÑERO",
+    "barrio": "Villa Lugano",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1439",
+    "codigo_postal_argentino": "C1439ETG",
+    "comisaria": "48",
+    "comisaria_vecinal": "8A",
+    "comuna": "Comuna 8",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "64"
+  },
+  "debug": {
+    "address": "ALBARIÑO 2805",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.479735137257194,
+        -34.66363245880403
+      ],
+      "direccion": "",
+      "fondo": "20.65",
+      "frente": "4.65",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "041A",
+      "parcela": "010",
+      "pdamatriz": "59358",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "2",
+      "propiedad_horizontal": "Si",
+      "seccion": "064",
+      "smp": "064-041A-010",
+      "smp_anterior": "064-041A-009",
+      "smp_siguiente": "064-041A-011",
+      "srid": 4326,
+      "superficie_cubierta": "177.00",
+      "superficie_total": "96.00",
+      "unidades_funcionales": "2",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2805,
+      "cod_calle": 1030
+    },
+    "usig_direccion_elegida": {
+      "altura": 2805,
+      "cod_calle": 1030,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.479650",
+        "y": "-34.663557"
+      },
+      "direccion": "ALBARIÑO 2805, CABA",
+      "nombre_calle": "ALBARIÑO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2805,
+          "cod_calle": 1030,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.479650",
+            "y": "-34.663557"
+          },
+          "direccion": "ALBARIÑO 2805, CABA",
+          "nombre_calle": "ALBARIÑO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2805,
+          "cod_calle": 226463,
+          "cod_calle_cruce": null,
+          "cod_partido": "hurlingham",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6531245520408,
+            "y": -34.5849089183673
+          },
+          "direccion": "Albarinos 2805, Hurlingham",
+          "nombre_calle": "Albarinos",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "William C. Morris",
+          "nombre_partido": "Hurlingham",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2805,
+          "cod_calle": 32949,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3816487530612,
+            "y": -34.7291633632653
+          },
+          "direccion": "Coronel Albariños 2805, Lanús",
+          "nombre_calle": "Coronel Albariños",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Remedios de Escalada",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2805,
+          "cod_calle": 207376,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7360135674497,
+            "y": -34.7223867348993
+          },
+          "direccion": "Albariños 2805, Merlo",
+          "nombre_calle": "Albariños",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Pontevedra",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98491.67098727776,
+                  96181.89504583948
+                ],
+                [
+                  98490.68298728082,
+                  96182.8150458381
+                ],
+                [
+                  98489.51498728449,
+                  96183.90204583548
+                ],
+                [
+                  98486.23498729683,
+                  96186.95804582944
+                ],
+                [
+                  98488.21098729239,
+                  96188.99904582326
+                ],
+                [
+                  98491.58998728533,
+                  96192.49004581143
+                ],
+                [
+                  98497.3399872689,
+                  96192.67004580461
+                ],
+                [
+                  98498.55098726564,
+                  96191.53304580785
+                ],
+                [
+                  98500.89698725671,
+                  96189.32904581196
+                ],
+                [
+                  98498.51998726091,
+                  96186.89704582072
+                ],
+                [
+                  98497.69598726349,
+                  96186.0550458231
+                ],
+                [
+                  98497.1969872641,
+                  96185.54404582462
+                ],
+                [
+                  98496.3879872661,
+                  96184.71604582889
+                ],
+                [
+                  98495.92998726643,
+                  96184.24804583009
+                ],
+                [
+                  98494.9889872685,
+                  96183.28604583428
+                ],
+                [
+                  98494.36098726958,
+                  96182.64404583588
+                ],
+                [
+                  98494.11698727089,
+                  96182.39404583743
+                ],
+                [
+                  98492.69598727411,
+                  96180.94004584316
+                ],
+                [
+                  98491.67098727776,
+                  96181.89504583948
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "064-041A-010",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ALBARIÑO 2805",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.479735137257194,
+      -34.66363245880403
+    ],
+    "direccion": "",
+    "fondo": "20.65",
+    "frente": "4.65",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "041A",
+    "parcela": "010",
+    "pdamatriz": "59358",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "2",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "064",
+    "smp": "064-041A-010",
+    "smp_anterior": "064-041A-009",
+    "smp_siguiente": "064-041A-011",
+    "srid": 4326,
+    "superficie_cubierta": "177.00",
+    "superficie_total": "96.00",
+    "unidades_funcionales": "2",
+    "vuc": "0.00"
+  },
+  "smp": "064-041A-010",
+  "_http_status": 200
+}

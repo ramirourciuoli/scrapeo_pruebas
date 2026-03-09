@@ -1,0 +1,337 @@
+{
+  "area_m2": 152.56185913085938,
+  "centroide_lonlat": {
+    "lat": -34.571787,
+    "lon": -58.476199
+  },
+  "centroide_xy": {
+    "x": 98816.31428369596,
+    "y": 106376.77691317056
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/4/11/051-097-027_0000099411.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION051/051-097-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION051/PI-051-097-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "051-097-028",
+            "051-097-026d",
+            "051-097-025"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 390.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 152.534349999985,
+        "sup_max_edificable": 972.5,
+        "superficie_parcela": 152.6,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "051-097-027"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Villa Urquiza",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1430",
+    "codigo_postal_argentino": "C1430DRR",
+    "comisaria": "37",
+    "comisaria_vecinal": "12C",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "51"
+  },
+  "debug": {
+    "address": "DONADO 2226",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.47619909450648,
+        -34.571786624601394
+      ],
+      "direccion": "",
+      "fondo": "17.32",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "097",
+      "parcela": "027",
+      "pdamatriz": "344289",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "051",
+      "smp": "051-097-027",
+      "smp_anterior": "051-097-026D",
+      "smp_siguiente": "051-097-028",
+      "srid": 4326,
+      "superficie_cubierta": "173.00",
+      "superficie_total": "150.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2226,
+      "cod_calle": 4082
+    },
+    "usig_direccion_elegida": {
+      "altura": 2226,
+      "cod_calle": 4082,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.476082",
+        "y": "-34.571719"
+      },
+      "direccion": "DONADO 2226, CABA",
+      "nombre_calle": "DONADO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2226,
+          "cod_calle": 4082,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.476082",
+            "y": "-34.571719"
+          },
+          "direccion": "DONADO 2226, CABA",
+          "nombre_calle": "DONADO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98811.68799404704,
+                  106368.07001703358
+                ],
+                [
+                  98806.67199406661,
+                  106375.15001701759
+                ],
+                [
+                  98808.56899406221,
+                  106376.52101701166
+                ],
+                [
+                  98812.8079940527,
+                  106379.58501700012
+                ],
+                [
+                  98816.72799404374,
+                  106382.4190169891
+                ],
+                [
+                  98820.9219940344,
+                  106385.45001697782
+                ],
+                [
+                  98825.99199401427,
+                  106378.47001699315
+                ],
+                [
+                  98823.39099402036,
+                  106376.5790170006
+                ],
+                [
+                  98822.62199402272,
+                  106376.0200170023
+                ],
+                [
+                  98821.7919940245,
+                  106375.41701700547
+                ],
+                [
+                  98821.63599402443,
+                  106375.30301700585
+                ],
+                [
+                  98821.39799402509,
+                  106375.1300170061
+                ],
+                [
+                  98820.1289940276,
+                  106374.20701701014
+                ],
+                [
+                  98818.97199403055,
+                  106373.36601701341
+                ],
+                [
+                  98817.87399403282,
+                  106372.56801701602
+                ],
+                [
+                  98817.12899403441,
+                  106372.02601701772
+                ],
+                [
+                  98814.61799404015,
+                  106370.20001702532
+                ],
+                [
+                  98814.42299404119,
+                  106370.05901702601
+                ],
+                [
+                  98811.68799404704,
+                  106368.07001703358
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "051-097-027",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "DONADO 2226",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.47619909450648,
+      -34.571786624601394
+    ],
+    "direccion": "",
+    "fondo": "17.32",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "097",
+    "parcela": "027",
+    "pdamatriz": "344289",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "051",
+    "smp": "051-097-027",
+    "smp_anterior": "051-097-026D",
+    "smp_siguiente": "051-097-028",
+    "srid": 4326,
+    "superficie_cubierta": "173.00",
+    "superficie_total": "150.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "051-097-027",
+  "_http_status": 200
+}

@@ -1,0 +1,469 @@
+{
+  "area_m2": 224.28276348114014,
+  "centroide_lonlat": {
+    "lat": -34.593945,
+    "lon": -58.438949
+  },
+  "centroide_xy": {
+    "x": 102233.96644464758,
+    "y": 103918.46547723016
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/2/61/031-044-019_0000424261.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION031/031-044-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION031/PI-031-044-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "031-044-018",
+            "031-044-020"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 260.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 224.253650000079,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 224.3,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "031-044-019"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Villa Crespo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1414",
+    "codigo_postal_argentino": "C1414DER",
+    "comisaria": "25",
+    "comisaria_vecinal": "15B",
+    "comuna": "Comuna 15",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   IX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "31"
+  },
+  "debug": {
+    "address": "SERRANO 802",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.43894911675385,
+        -34.59394470806134
+      ],
+      "direccion": "",
+      "fondo": "45.97",
+      "frente": "4.96",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "044",
+      "parcela": "019",
+      "pdamatriz": "422924",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "031",
+      "smp": "031-044-019",
+      "smp_anterior": "031-044-018",
+      "smp_siguiente": "031-044-020",
+      "srid": 4326,
+      "superficie_cubierta": "535.00",
+      "superficie_total": "228.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 802,
+      "cod_calle": 20090
+    },
+    "usig_direccion_elegida": {
+      "altura": 802,
+      "cod_calle": 20090,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.438844",
+        "y": "-34.594067"
+      },
+      "direccion": "SERRANO 802, CABA",
+      "nombre_calle": "SERRANO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 802,
+          "cod_calle": 20090,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.438844",
+            "y": "-34.594067"
+          },
+          "direccion": "SERRANO 802, CABA",
+          "nombre_calle": "SERRANO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 802,
+          "cod_calle": 14447,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5707873,
+            "y": -34.6527267
+          },
+          "direccion": "Serrano 802, La Matanza",
+          "nombre_calle": "Serrano",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ramos Mejía",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 802,
+          "cod_calle": 437,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3835707,
+            "y": -34.7414596
+          },
+          "direccion": "Serrano 802, Lomas de Zamora",
+          "nombre_calle": "Serrano",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Banfield",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 802,
+          "cod_calle": 46444,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_isidro",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5627966969697,
+            "y": -34.4962971505051
+          },
+          "direccion": "Serrano 802, San Isidro",
+          "nombre_calle": "Serrano",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Boulogne Sur Mer",
+          "nombre_partido": "San Isidro",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 802,
+          "cod_calle": 369830,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_miguel",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.700207,
+            "y": -34.5451275
+          },
+          "direccion": "Serrano 802, San Miguel",
+          "nombre_calle": "Serrano",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Muñiz",
+          "nombre_partido": "San Miguel",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 802,
+          "cod_calle": 227182,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_vicente",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4249358,
+            "y": -35.0348089
+          },
+          "direccion": "Serrano 802, San Vicente",
+          "nombre_calle": "Serrano",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Vicente",
+          "nombre_partido": "San Vicente",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102222.63298264326,
+                  103925.51702131567
+                ],
+                [
+                  102226.40298263443,
+                  103928.41702130513
+                ],
+                [
+                  102227.71498263143,
+                  103929.42602130093
+                ],
+                [
+                  102229.766982627,
+                  103931.00502129484
+                ],
+                [
+                  102230.85198262284,
+                  103929.60702129791
+                ],
+                [
+                  102231.44798262052,
+                  103928.84002129963
+                ],
+                [
+                  102231.80898261965,
+                  103928.3750213008
+                ],
+                [
+                  102232.26498261721,
+                  103927.78702130157
+                ],
+                [
+                  102232.5819826168,
+                  103927.37902130274
+                ],
+                [
+                  102233.37498261339,
+                  103926.35702130513
+                ],
+                [
+                  102233.71098261222,
+                  103925.92502130606
+                ],
+                [
+                  102234.28098261038,
+                  103925.19102130752
+                ],
+                [
+                  102236.24298260234,
+                  103922.6640213133
+                ],
+                [
+                  102236.98098259946,
+                  103921.71302131604
+                ],
+                [
+                  102237.20498259901,
+                  103921.42502131601
+                ],
+                [
+                  102237.51798259791,
+                  103921.02202131695
+                ],
+                [
+                  102237.86798259622,
+                  103920.57102131861
+                ],
+                [
+                  102238.02398259603,
+                  103920.3700213187
+                ],
+                [
+                  102238.89198259255,
+                  103919.25202132139
+                ],
+                [
+                  102239.00498259201,
+                  103919.10702132122
+                ],
+                [
+                  102240.04698258845,
+                  103917.76402132478
+                ],
+                [
+                  102240.69298258575,
+                  103916.93202132624
+                ],
+                [
+                  102241.98498258123,
+                  103915.2670213299
+                ],
+                [
+                  102243.94798257334,
+                  103912.73802133542
+                ],
+                [
+                  102244.78298257012,
+                  103911.66302133762
+                ],
+                [
+                  102245.70298256661,
+                  103910.47802134065
+                ],
+                [
+                  102241.62998257593,
+                  103907.5200213514
+                ],
+                [
+                  102235.799982593,
+                  103908.56002135295
+                ],
+                [
+                  102233.55598260154,
+                  103911.45002134715
+                ],
+                [
+                  102225.44898263227,
+                  103921.89002132343
+                ],
+                [
+                  102222.63298264326,
+                  103925.51702131567
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "031-044-019",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "SERRANO 802",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.43894911675385,
+      -34.59394470806134
+    ],
+    "direccion": "",
+    "fondo": "45.97",
+    "frente": "4.96",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "044",
+    "parcela": "019",
+    "pdamatriz": "422924",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "031",
+    "smp": "031-044-019",
+    "smp_anterior": "031-044-018",
+    "smp_siguiente": "031-044-020",
+    "srid": 4326,
+    "superficie_cubierta": "535.00",
+    "superficie_total": "228.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "031-044-019",
+  "_http_status": 200
+}

@@ -1,0 +1,424 @@
+{
+  "area_m2": 373.8876676559448,
+  "centroide_lonlat": {
+    "lat": -34.647792,
+    "lon": -58.518359
+  },
+  "centroide_xy": {
+    "x": 94952.13415733338,
+    "y": 97943.78485600789
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": -1.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/99/072-101-007a_0000029799.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION072/072-101-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION072/PI-072-101-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "072-101-006a",
+            "072-101-029a",
+            "072-101-008"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "C3 II",
+          "incidencia_uva": 140.0,
+          "plusvalia_em": 14289.57,
+          "plusvalia_pl": 4867.29,
+          "plusvalia_sl": 4867.29
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 241.432798330202,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 373.9,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "072-101-007A"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Liniers",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1408",
+    "codigo_postal_argentino": "C1408GUC",
+    "comisaria": "54",
+    "comisaria_vecinal": "9B",
+    "comuna": "Comuna 9",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "72"
+  },
+  "debug": {
+    "address": "PILAR 759",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.51835874968638,
+        -34.64779164042468
+      ],
+      "direccion": "",
+      "fondo": "43.30",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "101",
+      "parcela": "007A",
+      "pdamatriz": "84408",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "072",
+      "smp": "072-101-007A",
+      "smp_anterior": "072-101-006A",
+      "smp_siguiente": "072-101-008",
+      "srid": 4326,
+      "superficie_cubierta": "269.00",
+      "superficie_total": "375.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 759,
+      "cod_calle": 17081
+    },
+    "usig_direccion_elegida": {
+      "altura": 759,
+      "cod_calle": 17081,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.518178",
+        "y": "-34.647631"
+      },
+      "direccion": "PILAR 759, CABA",
+      "nombre_calle": "PILAR",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 759,
+          "cod_calle": 17081,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.518178",
+            "y": "-34.647631"
+          },
+          "direccion": "PILAR 759, CABA",
+          "nombre_calle": "PILAR",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 759,
+          "cod_calle": 131021,
+          "cod_calle_cruce": null,
+          "cod_partido": "florencio_varela",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.2672022442482,
+            "y": -34.7967374104282
+          },
+          "direccion": "Pilar 759, Florencio Varela",
+          "nombre_calle": "Pilar",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Florencio Varela",
+          "nombre_partido": "Florencio Varela",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 759,
+          "cod_calle": 191639,
+          "cod_calle_cruce": null,
+          "cod_partido": "lobos",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -59.0924433163265,
+            "y": -35.1941946938775
+          },
+          "direccion": "Dionisio Urquiola (ex Pilar) 759, Lobos",
+          "nombre_calle": "Dionisio Urquiola (ex Pilar)",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lobos",
+          "nombre_partido": "Lobos",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 759,
+          "cod_calle": 195862,
+          "cod_calle_cruce": null,
+          "cod_partido": "pilar",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.8677410145833,
+            "y": -34.3717026416667
+          },
+          "direccion": "Mariano del Pilar Bellera 759, Pilar",
+          "nombre_calle": "Mariano del Pilar Bellera",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Zelaya",
+          "nombre_partido": "Pilar",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  94961.32799851478,
+                  97959.21004351278
+                ],
+                [
+                  94964.26999850883,
+                  97962.18204350249
+                ],
+                [
+                  94970.50899848668,
+                  97956.35004351378
+                ],
+                [
+                  94959.71299851012,
+                  97945.34604355323
+                ],
+                [
+                  94959.12999851009,
+                  97944.75104355448
+                ],
+                [
+                  94958.78499851133,
+                  97944.40004355786
+                ],
+                [
+                  94953.96399852048,
+                  97939.4850435743
+                ],
+                [
+                  94952.08599852504,
+                  97937.57104358036
+                ],
+                [
+                  94950.82599852762,
+                  97936.28604358467
+                ],
+                [
+                  94950.71499852743,
+                  97936.17404358563
+                ],
+                [
+                  94948.27899853239,
+                  97933.69004359582
+                ],
+                [
+                  94944.35799854109,
+                  97929.69304360944
+                ],
+                [
+                  94942.02399854573,
+                  97927.31504361663
+                ],
+                [
+                  94940.18799854934,
+                  97925.44304362423
+                ],
+                [
+                  94933.79399857197,
+                  97931.38904361287
+                ],
+                [
+                  94938.06899856355,
+                  97935.70904359841
+                ],
+                [
+                  94938.42899856155,
+                  97936.07304359591
+                ],
+                [
+                  94941.4989985559,
+                  97939.17504358373
+                ],
+                [
+                  94943.02699855201,
+                  97940.71804357847
+                ],
+                [
+                  94945.87499854666,
+                  97943.59604356746
+                ],
+                [
+                  94947.1909985437,
+                  97944.92604356422
+                ],
+                [
+                  94947.76199854279,
+                  97945.50204356285
+                ],
+                [
+                  94948.83599854153,
+                  97946.58704355793
+                ],
+                [
+                  94949.5929985393,
+                  97947.35204355486
+                ],
+                [
+                  94950.9469985369,
+                  97948.72004354966
+                ],
+                [
+                  94952.83499853296,
+                  97950.62804354366
+                ],
+                [
+                  94953.5439985308,
+                  97951.34504354058
+                ],
+                [
+                  94961.32799851478,
+                  97959.21004351278
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "072-101-007A",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "PILAR 759",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.51835874968638,
+      -34.64779164042468
+    ],
+    "direccion": "",
+    "fondo": "43.30",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "101",
+    "parcela": "007A",
+    "pdamatriz": "84408",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "072",
+    "smp": "072-101-007A",
+    "smp_anterior": "072-101-006A",
+    "smp_siguiente": "072-101-008",
+    "srid": 4326,
+    "superficie_cubierta": "269.00",
+    "superficie_total": "375.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "072-101-007A",
+  "_http_status": 200
+}

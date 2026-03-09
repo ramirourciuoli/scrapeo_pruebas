@@ -1,0 +1,364 @@
+{
+  "area_m2": 168.36120700836182,
+  "centroide_lonlat": {
+    "lat": -34.644616,
+    "lon": -58.426905
+  },
+  "centroide_xy": {
+    "x": 103336.8946973371,
+    "y": 98296.89048529441
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/41/038-061A-019_0000044541.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION038/038-061A-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION038/PI-038-061A-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "DI-2023-82-GCABA-DGIUR",
+          "pdf": "038-061A.pdf"
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "038-061A-021",
+            "038-061A-025",
+            "038-061A-024",
+            "038-061A-020",
+            "038-061A-018"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "AE 26",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 168.311849999944,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 168.4,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "038-061A-019"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.M. PENNA",
+    "barrio": "Nueva Pompeya",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1437",
+    "codigo_postal_argentino": "C1437CVF",
+    "comisaria": "34",
+    "comisaria_vecinal": "4B",
+    "comuna": "Comuna 4",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "38"
+  },
+  "debug": {
+    "address": "ARQUIMEDES 2386",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.42690476986898,
+        -34.64461568739379
+      ],
+      "direccion": "",
+      "fondo": "195.35",
+      "frente": "0.86",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "061A",
+      "parcela": "019",
+      "pdamatriz": "41227",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "038",
+      "smp": "038-061A-019",
+      "smp_anterior": "038-061A-018",
+      "smp_siguiente": "038-061A-020",
+      "srid": 4326,
+      "superficie_cubierta": "151.00",
+      "superficie_total": "168.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2386,
+      "cod_calle": 1118
+    },
+    "usig_direccion_elegida": {
+      "altura": 2386,
+      "cod_calle": 1118,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.427029",
+        "y": "-34.644637"
+      },
+      "direccion": "ARQUIMEDES 2386, CABA",
+      "nombre_calle": "ARQUIMEDES",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2386,
+          "cod_calle": 1118,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.427029",
+            "y": "-34.644637"
+          },
+          "direccion": "ARQUIMEDES 2386, CABA",
+          "nombre_calle": "ARQUIMEDES",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2386,
+          "cod_calle": 78722,
+          "cod_calle_cruce": null,
+          "cod_partido": "malvinas_argentinas",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6800424857143,
+            "y": -34.5013492
+          },
+          "direccion": "Arquímedes 2386, Malvinas Argentinas",
+          "nombre_calle": "Arquímedes",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa de Mayo",
+          "nombre_partido": "Malvinas Argentinas",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  103346.6179752547,
+                  98297.93103625238
+                ],
+                [
+                  103347.43397525015,
+                  98294.59303626002
+                ],
+                [
+                  103345.528975255,
+                  98294.21003626357
+                ],
+                [
+                  103341.6259752652,
+                  98293.42503626784
+                ],
+                [
+                  103339.25197527185,
+                  98292.948036271
+                ],
+                [
+                  103337.24997527763,
+                  98292.54603627458
+                ],
+                [
+                  103333.36397528752,
+                  98291.76403627917
+                ],
+                [
+                  103332.42297529058,
+                  98291.57503628003
+                ],
+                [
+                  103328.27697530096,
+                  98290.74203628514
+                ],
+                [
+                  103327.05597530816,
+                  98296.58403626992
+                ],
+                [
+                  103326.49897531161,
+                  98299.24903626268
+                ],
+                [
+                  103332.2449752973,
+                  98300.3980362548
+                ],
+                [
+                  103338.05997528079,
+                  98301.561036248
+                ],
+                [
+                  103340.02297527614,
+                  98301.95403624492
+                ],
+                [
+                  103340.73597527464,
+                  98302.09603624456
+                ],
+                [
+                  103341.15797527283,
+                  98302.18103624269
+                ],
+                [
+                  103343.05597526877,
+                  98302.56003624061
+                ],
+                [
+                  103343.64897526693,
+                  98302.67903624102
+                ],
+                [
+                  103345.37297526217,
+                  98303.02403623881
+                ],
+                [
+                  103346.42697525618,
+                  98298.71203625054
+                ],
+                [
+                  103346.6179752547,
+                  98297.93103625238
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "038-061A-019",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ARQUIMEDES 2386",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.42690476986898,
+      -34.64461568739379
+    ],
+    "direccion": "",
+    "fondo": "195.35",
+    "frente": "0.86",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "061A",
+    "parcela": "019",
+    "pdamatriz": "41227",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "038",
+    "smp": "038-061A-019",
+    "smp_anterior": "038-061A-018",
+    "smp_siguiente": "038-061A-020",
+    "srid": 4326,
+    "superficie_cubierta": "151.00",
+    "superficie_total": "168.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "038-061A-019",
+  "_http_status": 200
+}

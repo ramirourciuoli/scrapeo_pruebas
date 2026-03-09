@@ -1,0 +1,428 @@
+{
+  "area_m2": 345.46790599823,
+  "centroide_lonlat": {
+    "lat": -34.570288,
+    "lon": -58.457007
+  },
+  "centroide_xy": {
+    "x": 100577.49565132927,
+    "y": 106543.10271324385
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/3/12/037-103-038_0000093312.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION037/037-103-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION037/PI-037-103-V4.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "037-103-027",
+            "037-103-037",
+            "037-103-039a",
+            "037-103-026"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 380.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 227.288317607701,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 345.5,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "037-103-038"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Colegiales",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1426",
+    "codigo_postal_argentino": "C1426APB",
+    "comisaria": "37",
+    "comisaria_vecinal": "13C",
+    "comuna": "Comuna 13",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   IX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "37"
+  },
+  "debug": {
+    "address": "CRAMER 1652",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.45700690943201,
+        -34.57028783405684
+      ],
+      "direccion": "",
+      "fondo": "43.65",
+      "frente": "7.79",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "103",
+      "parcela": "038",
+      "pdamatriz": "409253",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "037",
+      "smp": "037-103-038",
+      "smp_anterior": "037-103-037",
+      "smp_siguiente": "037-103-039A",
+      "srid": 4326,
+      "superficie_cubierta": "425.00",
+      "superficie_total": "340.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1652,
+      "cod_calle": 3189
+    },
+    "usig_direccion_elegida": {
+      "altura": 1652,
+      "cod_calle": 3189,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.456911",
+        "y": "-34.570071"
+      },
+      "direccion": "CRAMER 1652, CABA",
+      "nombre_calle": "CRAMER",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1652,
+          "cod_calle": 3189,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.456911",
+            "y": "-34.570071"
+          },
+          "direccion": "CRAMER 1652, CABA",
+          "nombre_calle": "CRAMER",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1652,
+          "cod_calle": 69682,
+          "cod_calle_cruce": null,
+          "cod_partido": "jose_c_paz",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7630350673469,
+            "y": -34.5059572408163
+          },
+          "direccion": "Cramer 1652, José C. Paz",
+          "nombre_calle": "Cramer",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "José C. Paz",
+          "nombre_partido": "José C. Paz",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1652,
+          "cod_calle": 207446,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7186657673469,
+            "y": -34.7112085959184
+          },
+          "direccion": "Cramer 1652, Merlo",
+          "nombre_calle": "Cramer",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Pontevedra",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  100567.64798924238,
+                  106527.18301526559
+                ],
+                [
+                  100573.21898923817,
+                  106542.92901521659
+                ],
+                [
+                  100576.57898923624,
+                  106552.4250151877
+                ],
+                [
+                  100581.10598923294,
+                  106565.22001514834
+                ],
+                [
+                  100588.39798921082,
+                  106562.53401515065
+                ],
+                [
+                  100587.6099892116,
+                  106560.26901515792
+                ],
+                [
+                  100587.54398921109,
+                  106560.07801515792
+                ],
+                [
+                  100586.75698921207,
+                  106557.81201516505
+                ],
+                [
+                  100586.69098921149,
+                  106557.6220151661
+                ],
+                [
+                  100586.57798921168,
+                  106557.29701516696
+                ],
+                [
+                  100586.19798921204,
+                  106556.20401516996
+                ],
+                [
+                  100584.49098921366,
+                  106551.29201518546
+                ],
+                [
+                  100584.2669892134,
+                  106550.64801518715
+                ],
+                [
+                  100581.94698921457,
+                  106543.9730152078
+                ],
+                [
+                  100580.96198921582,
+                  106541.1400152159
+                ],
+                [
+                  100580.78498921578,
+                  106540.63001521767
+                ],
+                [
+                  100580.63398921536,
+                  106540.19501521945
+                ],
+                [
+                  100579.27398921682,
+                  106536.2840152311
+                ],
+                [
+                  100579.20898921642,
+                  106536.09501523143
+                ],
+                [
+                  100579.17598921664,
+                  106536.00001523198
+                ],
+                [
+                  100578.86598921723,
+                  106535.10801523476
+                ],
+                [
+                  100578.51898921744,
+                  106534.11101523734
+                ],
+                [
+                  100578.45298921686,
+                  106533.92201523864
+                ],
+                [
+                  100578.38698921727,
+                  106533.73301523898
+                ],
+                [
+                  100578.32098921768,
+                  106533.54301523912
+                ],
+                [
+                  100576.33598921861,
+                  106527.83001525712
+                ],
+                [
+                  100574.43398922011,
+                  106522.4150152737
+                ],
+                [
+                  100573.69398922035,
+                  106520.30801528032
+                ],
+                [
+                  100572.2409892254,
+                  106521.25901527816
+                ],
+                [
+                  100571.3529892281,
+                  106521.8410152776
+                ],
+                [
+                  100571.14398922893,
+                  106521.97801527748
+                ],
+                [
+                  100566.80998924251,
+                  106524.81601527231
+                ],
+                [
+                  100567.64798924238,
+                  106527.18301526559
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "037-103-038",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CRAMER 1652",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.45700690943201,
+      -34.57028783405684
+    ],
+    "direccion": "",
+    "fondo": "43.65",
+    "frente": "7.79",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "103",
+    "parcela": "038",
+    "pdamatriz": "409253",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "037",
+    "smp": "037-103-038",
+    "smp_anterior": "037-103-037",
+    "smp_siguiente": "037-103-039A",
+    "srid": 4326,
+    "superficie_cubierta": "425.00",
+    "superficie_total": "340.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "037-103-038",
+  "_http_status": 200
+}

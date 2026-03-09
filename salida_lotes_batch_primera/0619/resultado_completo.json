@@ -1,0 +1,329 @@
+{
+  "area_m2": 192.29615020751953,
+  "centroide_lonlat": {
+    "lat": -34.619754,
+    "lon": -58.386257
+  },
+  "centroide_xy": {
+    "x": 107065.7892355829,
+    "y": 101052.90349223904
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "PEV",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.32,
+          "fot_perim_libre": 3.32,
+          "fot_semi_libre": 3.32
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/31/014-033-031_0000304631.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION014/014-033-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION014/PI-014-033-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "014-033-035a",
+            "014-033-030",
+            "014-033-032"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2a I",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 192.397200000276,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 192.3,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "014-033-031"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. J.M. RAMOS MEJÍA",
+    "barrio": "Constitucion",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1102",
+    "codigo_postal_argentino": "C1102ABC",
+    "comisaria": "18",
+    "comisaria_vecinal": "1C",
+    "comuna": "Comuna 1",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   III",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "14"
+  },
+  "debug": {
+    "address": "CARLOS CALVO 1425",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.386257027334885,
+        -34.619753603221056
+      ],
+      "direccion": "",
+      "fondo": "16.99",
+      "frente": "11.30",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "033",
+      "parcela": "031",
+      "pdamatriz": "212885",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "014",
+      "smp": "014-033-031",
+      "smp_anterior": "014-033-030",
+      "smp_siguiente": "014-033-032",
+      "srid": 4326,
+      "superficie_cubierta": "497.00",
+      "superficie_total": "192.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1425,
+      "cod_calle": 3028
+    },
+    "usig_direccion_elegida": {
+      "altura": 1425,
+      "cod_calle": 3028,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.386249",
+        "y": "-34.619852"
+      },
+      "direccion": "CALVO, CARLOS 1425, CABA",
+      "nombre_calle": "CALVO, CARLOS",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1425,
+          "cod_calle": 3028,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.386249",
+            "y": "-34.619852"
+          },
+          "direccion": "CALVO, CARLOS 1425, CABA",
+          "nombre_calle": "CALVO, CARLOS",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  107059.89596691869,
+                  101057.95202571602
+                ],
+                [
+                  107059.86896691927,
+                  101058.35102571506
+                ],
+                [
+                  107059.8419669199,
+                  101058.75102571433
+                ],
+                [
+                  107059.67696692215,
+                  101061.20502570752
+                ],
+                [
+                  107062.00796691599,
+                  101061.36502570545
+                ],
+                [
+                  107063.79896691031,
+                  101061.48902570363
+                ],
+                [
+                  107064.78796690765,
+                  101061.55602570248
+                ],
+                [
+                  107066.67796690305,
+                  101061.6870257007
+                ],
+                [
+                  107070.63996689151,
+                  101061.95902569685
+                ],
+                [
+                  107071.57896688001,
+                  101049.87802572982
+                ],
+                [
+                  107071.98596687459,
+                  101044.64002574433
+                ],
+                [
+                  107060.83996690558,
+                  101043.90302575496
+                ],
+                [
+                  107060.6439669088,
+                  101046.81502574743
+                ],
+                [
+                  107060.37896691191,
+                  101050.76202573633
+                ],
+                [
+                  107060.16396691508,
+                  101053.96102572756
+                ],
+                [
+                  107059.90396691891,
+                  101057.82602571708
+                ],
+                [
+                  107059.89596691869,
+                  101057.95202571602
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "014-033-031",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CARLOS CALVO 1425",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.386257027334885,
+      -34.619753603221056
+    ],
+    "direccion": "",
+    "fondo": "16.99",
+    "frente": "11.30",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "033",
+    "parcela": "031",
+    "pdamatriz": "212885",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "014",
+    "smp": "014-033-031",
+    "smp_anterior": "014-033-030",
+    "smp_siguiente": "014-033-032",
+    "srid": 4326,
+    "superficie_cubierta": "497.00",
+    "superficie_total": "192.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "014-033-031",
+  "_http_status": 200
+}

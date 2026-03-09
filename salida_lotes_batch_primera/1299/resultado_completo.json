@@ -1,0 +1,349 @@
+{
+  "area_m2": 165.35678672790527,
+  "centroide_lonlat": {
+    "lat": -34.650589,
+    "lon": -58.484997
+  },
+  "centroide_xy": {
+    "x": 98010.88026221724,
+    "y": 97634.59759199784
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/20/062-165-026_0000010620.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION062/062-165-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION062/PI-062-165-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "062-165-027",
+            "062-165-025",
+            "062-165-024"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 165.34665000001,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 165.4,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "062-165-026"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. P. PIÑERO",
+    "barrio": "Parque Avellaneda",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1407",
+    "codigo_postal_argentino": "C1407HMI",
+    "comisaria": "40",
+    "comisaria_vecinal": "9C",
+    "comuna": "Comuna 9",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "62"
+  },
+  "debug": {
+    "address": "AV. GRAL. EUGENIO GARZON 4783",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.48499672012507,
+        -34.65058919963545
+      ],
+      "direccion": "",
+      "fondo": "19.13",
+      "frente": "8.68",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "165",
+      "parcela": "026",
+      "pdamatriz": "27129",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "062",
+      "smp": "062-165-026",
+      "smp_anterior": "062-165-025",
+      "smp_siguiente": "062-165-027",
+      "srid": 4326,
+      "superficie_cubierta": "136.00",
+      "superficie_total": "166.00",
+      "unidades_funcionales": "2",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4783,
+      "cod_calle": 7038
+    },
+    "usig_direccion_elegida": {
+      "altura": 4783,
+      "cod_calle": 7038,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.484900",
+        "y": "-34.650665"
+      },
+      "direccion": "GARZON EUGENIO GENERAL 4783, CABA",
+      "nombre_calle": "GARZON EUGENIO GENERAL",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4783,
+          "cod_calle": 7038,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.484900",
+            "y": "-34.650665"
+          },
+          "direccion": "GARZON EUGENIO GENERAL 4783, CABA",
+          "nombre_calle": "GARZON EUGENIO GENERAL",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98013.93698971297,
+                  97637.63504211706
+                ],
+                [
+                  98015.7209897062,
+                  97635.96804212089
+                ],
+                [
+                  98020.853989689,
+                  97631.1690421296
+                ],
+                [
+                  98020.05198968988,
+                  97630.33104213196
+                ],
+                [
+                  98014.86198970069,
+                  97624.90504215195
+                ],
+                [
+                  98010.37198971666,
+                  97629.14904214506
+                ],
+                [
+                  98008.97398972188,
+                  97630.47104214117
+                ],
+                [
+                  98007.517989725,
+                  97631.84804213839
+                ],
+                [
+                  98005.86398973275,
+                  97633.41204213552
+                ],
+                [
+                  98005.696989733,
+                  97633.56904213596
+                ],
+                [
+                  98002.47198974378,
+                  97636.61804212816
+                ],
+                [
+                  98000.91798974962,
+                  97638.08704212561
+                ],
+                [
+                  98001.39798974915,
+                  97638.59004212491
+                ],
+                [
+                  98002.71598974604,
+                  97639.97204211814
+                ],
+                [
+                  98003.964989743,
+                  97641.2810421135
+                ],
+                [
+                  98005.59098974023,
+                  97642.98704210838
+                ],
+                [
+                  98006.82698973706,
+                  97644.28204210324
+                ],
+                [
+                  98009.0779897291,
+                  97642.17704210922
+                ],
+                [
+                  98010.66798972427,
+                  97640.6910421096
+                ],
+                [
+                  98011.18698972199,
+                  97640.20604211206
+                ],
+                [
+                  98013.46998971453,
+                  97638.07204211524
+                ],
+                [
+                  98013.93698971297,
+                  97637.63504211706
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "062-165-026",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AV. GRAL. EUGENIO GARZON 4783",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.48499672012507,
+      -34.65058919963545
+    ],
+    "direccion": "",
+    "fondo": "19.13",
+    "frente": "8.68",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "165",
+    "parcela": "026",
+    "pdamatriz": "27129",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "062",
+    "smp": "062-165-026",
+    "smp_anterior": "062-165-025",
+    "smp_siguiente": "062-165-027",
+    "srid": 4326,
+    "superficie_cubierta": "136.00",
+    "superficie_total": "166.00",
+    "unidades_funcionales": "2",
+    "vuc": "0.00"
+  },
+  "smp": "062-165-026",
+  "_http_status": 200
+}

@@ -1,0 +1,404 @@
+{
+  "area_m2": 341.56304359436035,
+  "centroide_lonlat": {
+    "lat": -34.637239,
+    "lon": -58.506726
+  },
+  "centroide_xy": {
+    "x": 96018.1286444373,
+    "y": 99114.9968404594
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/9/87/095-040-014_0000218987.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION095/095-040-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION095/PI-095-040-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "DI-2022-1449-GCABA-DGIUR",
+          "pdf": "095-040.pdf"
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "095-040-017",
+            "095-040-013",
+            "095-040-015"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 90.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 341.607299999985,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 341.6,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "095-040-014"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Villa Luro",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1408",
+    "codigo_postal_argentino": "C1408ACC",
+    "comisaria": "54",
+    "comisaria_vecinal": "10C",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "95"
+  },
+  "debug": {
+    "address": "YERBAL 5729",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.50672609149732,
+        -34.63723884332039
+      ],
+      "direccion": "YERBAL 5729",
+      "fondo": "39.49",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "040",
+      "parcela": "014",
+      "pdamatriz": "7266",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "095",
+      "smp": "095-040-014",
+      "smp_anterior": "095-040-013",
+      "smp_siguiente": "095-040-015",
+      "srid": 4326,
+      "superficie_cubierta": "358.00",
+      "superficie_total": "342.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 5729,
+      "cod_calle": 26003
+    },
+    "usig_direccion_elegida": {
+      "altura": 5729,
+      "cod_calle": 26003,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.506673",
+        "y": "-34.637448"
+      },
+      "direccion": "YERBAL 5729, CABA",
+      "nombre_calle": "YERBAL",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 5729,
+          "cod_calle": 26003,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.506673",
+            "y": "-34.637448"
+          },
+          "direccion": "YERBAL 5729, CABA",
+          "nombre_calle": "YERBAL",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 5729,
+          "cod_calle": 19680,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4344040916667,
+            "y": -34.681875875
+          },
+          "direccion": "Yerbal 5729, Lanús",
+          "nombre_calle": "Yerbal",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lanús Oeste",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 5729,
+          "cod_calle": 19680,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4344040916667,
+            "y": -34.681875875
+          },
+          "direccion": "Yerbal 5729, Lanús",
+          "nombre_calle": "Yerbal",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Remedios de Escalada",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96018.90099643251,
+                  99132.7840394259
+                ],
+                [
+                  96019.76099642737,
+                  99128.65503943712
+                ],
+                [
+                  96021.40599641726,
+                  99120.75703945797
+                ],
+                [
+                  96021.97399641361,
+                  99118.02803946487
+                ],
+                [
+                  96022.42699641042,
+                  99115.85303947085
+                ],
+                [
+                  96023.3879964044,
+                  99111.23603948252
+                ],
+                [
+                  96023.51699640333,
+                  99110.61703948423
+                ],
+                [
+                  96025.13799639317,
+                  99102.83303950485
+                ],
+                [
+                  96025.25199639249,
+                  99102.28403950666
+                ],
+                [
+                  96026.38799638517,
+                  99096.83103952132
+                ],
+                [
+                  96024.34999638991,
+                  99096.40303952375
+                ],
+                [
+                  96022.19899639596,
+                  99095.95003952694
+                ],
+                [
+                  96017.7959964077,
+                  99095.02503953298
+                ],
+                [
+                  96017.18699641146,
+                  99097.96303952532
+                ],
+                [
+                  96014.94399642608,
+                  99108.7780394961
+                ],
+                [
+                  96013.96599643226,
+                  99113.49703948415
+                ],
+                [
+                  96013.3969964358,
+                  99116.23803947636
+                ],
+                [
+                  96011.78299644613,
+                  99124.02203945568
+                ],
+                [
+                  96010.34299645592,
+                  99130.96903943701
+                ],
+                [
+                  96009.87699645889,
+                  99133.21403943119
+                ],
+                [
+                  96013.47899644931,
+                  99133.95003942691
+                ],
+                [
+                  96014.06699644726,
+                  99134.07003942621
+                ],
+                [
+                  96014.94899644513,
+                  99134.25003942478
+                ],
+                [
+                  96018.44699643555,
+                  99134.96503942003
+                ],
+                [
+                  96018.90099643251,
+                  99132.7840394259
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "095-040-014",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "YERBAL 5729",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.50672609149732,
+      -34.63723884332039
+    ],
+    "direccion": "YERBAL 5729",
+    "fondo": "39.49",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "040",
+    "parcela": "014",
+    "pdamatriz": "7266",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [
+      {
+        "altura": 5729,
+        "calle": "YERBAL",
+        "codigo_calle": 26003,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "095",
+    "smp": "095-040-014",
+    "smp_anterior": "095-040-013",
+    "smp_siguiente": "095-040-015",
+    "srid": 4326,
+    "superficie_cubierta": "358.00",
+    "superficie_total": "342.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "095-040-014"
+}

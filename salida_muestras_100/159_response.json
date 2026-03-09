@@ -1,0 +1,367 @@
+{
+  "area_m2": 175.43918228149414,
+  "centroide_lonlat": {
+    "lat": -34.608978,
+    "lon": -58.440276
+  },
+  "centroide_xy": {
+    "x": 102111.8780744643,
+    "y": 102250.74749291675
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 38.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "R-CCA",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 4.0,
+          "fot_perim_libre": 4.0,
+          "fot_semi_libre": 4.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/19/045-075-001_0000121519.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION045/045-075-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION045/PI-045-075-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "045-075-034",
+            "045-075-002"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "C3 I",
+          "incidencia_uva": 350.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 175.373200000127,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 175.4,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "045-075-001"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Caballito",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1405",
+    "codigo_postal_argentino": "C1405BGS",
+    "comisaria": "11",
+    "comisaria_vecinal": "6A",
+    "comuna": "Comuna 6",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "45"
+  },
+  "debug": {
+    "address": "AV. ACOYTE 794",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.440275766394734,
+        -34.60897814566383
+      ],
+      "direccion": "ACOYTE AV. 794",
+      "fondo": "18.42",
+      "frente": "8.96",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "075",
+      "parcela": "001",
+      "pdamatriz": "175576",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "045",
+      "smp": "045-075-001",
+      "smp_anterior": "045-075-034",
+      "smp_siguiente": "045-075-002",
+      "srid": 4326,
+      "superficie_cubierta": "550.00",
+      "superficie_total": "165.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 794,
+      "cod_calle": 1007
+    },
+    "usig_direccion_elegida": {
+      "altura": 794,
+      "cod_calle": 1007,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.440128",
+        "y": "-34.608986"
+      },
+      "direccion": "ACOYTE AV. 794, CABA",
+      "nombre_calle": "ACOYTE AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 794,
+          "cod_calle": 1007,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.440128",
+            "y": "-34.608986"
+          },
+          "direccion": "ACOYTE AV. 794, CABA",
+          "nombre_calle": "ACOYTE AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102109.0559816946,
+                  102242.70302612017
+                ],
+                [
+                  102107.38798169923,
+                  102242.13802612358
+                ],
+                [
+                  102107.21598170017,
+                  102243.02102612064
+                ],
+                [
+                  102106.99998170156,
+                  102244.12502611801
+                ],
+                [
+                  102106.75598170326,
+                  102245.3740261145
+                ],
+                [
+                  102106.68598170341,
+                  102245.7340261139
+                ],
+                [
+                  102104.34698171931,
+                  102257.71802608226
+                ],
+                [
+                  102104.93798171764,
+                  102257.72302608163
+                ],
+                [
+                  102114.2279816917,
+                  102257.80802607437
+                ],
+                [
+                  102117.50798168096,
+                  102255.40802607825
+                ],
+                [
+                  102120.28498166674,
+                  102247.1500260999
+                ],
+                [
+                  102120.47898166586,
+                  102246.57202610071
+                ],
+                [
+                  102118.45798167039,
+                  102245.88802610469
+                ],
+                [
+                  102117.63698167297,
+                  102245.60902610599
+                ],
+                [
+                  102115.61898167794,
+                  102244.92602610923
+                ],
+                [
+                  102113.09698168447,
+                  102244.07202611322
+                ],
+                [
+                  102111.97998168773,
+                  102243.69302611542
+                ],
+                [
+                  102111.03298168952,
+                  102243.37302611672
+                ],
+                [
+                  102110.55998169046,
+                  102243.21202611816
+                ],
+                [
+                  102109.0559816946,
+                  102242.70302612017
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "045-075-001",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AV. ACOYTE 794",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 3,
+    "centroide": [
+      -58.440275766394734,
+      -34.60897814566383
+    ],
+    "direccion": "ACOYTE AV. 794",
+    "fondo": "18.42",
+    "frente": "8.96",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "075",
+    "parcela": "001",
+    "pdamatriz": "175576",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [
+      {
+        "altura": 794,
+        "calle": "ACOYTE AV.",
+        "codigo_calle": 1007,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      },
+      {
+        "altura": 5202,
+        "calle": "DIAZ VELEZ AV.",
+        "codigo_calle": 4074,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      },
+      {
+        "altura": 5212,
+        "calle": "DIAZ VELEZ AV.",
+        "codigo_calle": 4074,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "045",
+    "smp": "045-075-001",
+    "smp_anterior": "045-075-034",
+    "smp_siguiente": "045-075-002",
+    "srid": 4326,
+    "superficie_cubierta": "550.00",
+    "superficie_total": "165.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "045-075-001"
+}

@@ -1,0 +1,401 @@
+{
+  "area_m2": 369.9251184463501,
+  "centroide_lonlat": {
+    "lat": -34.639232,
+    "lon": -58.3956
+  },
+  "centroide_xy": {
+    "x": 106207.44495029462,
+    "y": 98892.69872595451
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/4/95/024-071-009_0000314495.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION024/024-071-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION024/PI-024-071-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "024-071-004d",
+            "024-071-010",
+            "024-071-014",
+            "024-071-004e"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 286.370568893395,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 369.9,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "024-071-009"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.M. PENNA",
+    "barrio": "Parque Patricios",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1283",
+    "codigo_postal_argentino": "C1283ACB",
+    "comisaria": "28",
+    "comisaria_vecinal": "4A",
+    "comuna": "Comuna 4",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   V",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "24"
+  },
+  "debug": {
+    "address": "LOS PATOS 2470",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.395600298214106,
+        -34.63923161556841
+      ],
+      "direccion": "",
+      "fondo": "42.84",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "071",
+      "parcela": "009",
+      "pdamatriz": "101831",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "024",
+      "smp": "024-071-009",
+      "smp_anterior": "024-071-004G",
+      "smp_siguiente": "024-071-010",
+      "srid": 4326,
+      "superficie_cubierta": "135.00",
+      "superficie_total": "371.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2470,
+      "cod_calle": 12140
+    },
+    "usig_direccion_elegida": {
+      "altura": 2470,
+      "cod_calle": 12140,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.395667",
+        "y": "-34.639016"
+      },
+      "direccion": "LOS PATOS 2470, CABA",
+      "nombre_calle": "LOS PATOS",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2470,
+          "cod_calle": 12140,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.395667",
+            "y": "-34.639016"
+          },
+          "direccion": "LOS PATOS 2470, CABA",
+          "nombre_calle": "LOS PATOS",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2470,
+          "cod_calle": 47158,
+          "cod_calle_cruce": null,
+          "cod_partido": "hurlingham",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6393275571429,
+            "y": -34.5727105306123
+          },
+          "direccion": "Los Patos 2470, Hurlingham",
+          "nombre_calle": "Los Patos",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Hurlingham",
+          "nombre_partido": "Hurlingham",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2470,
+          "cod_calle": 234495,
+          "cod_calle_cruce": null,
+          "cod_partido": "malvinas_argentinas",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7400084061224,
+            "y": -34.4834047142857
+          },
+          "direccion": "Paso de los Patos 2470, Malvinas Argentinas",
+          "nombre_calle": "Paso de los Patos",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Tierras Altas",
+          "nombre_partido": "Malvinas Argentinas",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2470,
+          "cod_calle": 165612,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7130953040816,
+            "y": -34.6981448387755
+          },
+          "direccion": "Paso de Los Patos 2470, Merlo",
+          "nombre_calle": "Paso de Los Patos",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Parque San Martín",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  106198.05296772139,
+                  98912.63903238182
+                ],
+                [
+                  106203.05196770816,
+                  98913.87803237367
+                ],
+                [
+                  106204.00996770531,
+                  98914.1160323731
+                ],
+                [
+                  106206.39096769912,
+                  98914.70603236955
+                ],
+                [
+                  106207.71296769203,
+                  98909.37803238281
+                ],
+                [
+                  106212.5929676634,
+                  98889.706032435
+                ],
+                [
+                  106214.94096764899,
+                  98880.24003245975
+                ],
+                [
+                  106216.75896763836,
+                  98872.91103247902
+                ],
+                [
+                  106208.75396765897,
+                  98870.32903249189
+                ],
+                [
+                  106207.98496766393,
+                  98873.25403248408
+                ],
+                [
+                  106206.52796767178,
+                  98878.79403246962
+                ],
+                [
+                  106206.04196767503,
+                  98880.73303246484
+                ],
+                [
+                  106205.63696767713,
+                  98882.35303246067
+                ],
+                [
+                  106205.2089676793,
+                  98884.06203245604
+                ],
+                [
+                  106204.7329676823,
+                  98885.96103245128
+                ],
+                [
+                  106204.36896768436,
+                  98887.41703244773
+                ],
+                [
+                  106203.9689676863,
+                  98889.01503244281
+                ],
+                [
+                  106202.891967693,
+                  98893.31503243235
+                ],
+                [
+                  106202.62796769406,
+                  98894.3670324288
+                ],
+                [
+                  106199.58696771246,
+                  98906.51403239783
+                ],
+                [
+                  106199.52196771243,
+                  98906.77403239693
+                ],
+                [
+                  106198.05296772139,
+                  98912.63903238182
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "024-071-009",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "LOS PATOS 2470",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.395600298214106,
+      -34.63923161556841
+    ],
+    "direccion": "",
+    "fondo": "42.84",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "071",
+    "parcela": "009",
+    "pdamatriz": "101831",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "024",
+    "smp": "024-071-009",
+    "smp_anterior": "024-071-004G",
+    "smp_siguiente": "024-071-010",
+    "srid": 4326,
+    "superficie_cubierta": "135.00",
+    "superficie_total": "371.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "024-071-009",
+  "_http_status": 200
+}

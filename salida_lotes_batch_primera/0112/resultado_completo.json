@@ -1,0 +1,325 @@
+{
+  "area_m2": 146.0462303161621,
+  "centroide_lonlat": {
+    "lat": -34.611841,
+    "lon": -58.516414
+  },
+  "centroide_xy": {
+    "x": 95128.30840530402,
+    "y": 101932.1655117452
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.0,
+          "fot_perim_libre": 3.0,
+          "fot_semi_libre": 3.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/25/087-054-041a_0000199025.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION087/087-054-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION087/PI-087-054-V5.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "087-054-040a",
+            "087-054-002a",
+            "087-054-001a"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "E3",
+          "incidencia_uva": 150.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 146.053000000101,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 146.0,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "087-054-041A"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. A. ZUBIZARRETA",
+    "barrio": "Villa Devoto",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1417",
+    "codigo_postal_argentino": "C1417BSV",
+    "comisaria": "45",
+    "comisaria_vecinal": "11B",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "87"
+  },
+  "debug": {
+    "address": "DESAGUADERO 3282",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.516414237971865,
+        -34.611840522079405
+      ],
+      "direccion": "",
+      "fondo": "16.82",
+      "frente": "8.56",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "054",
+      "parcela": "041A",
+      "pdamatriz": "280049",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "087",
+      "smp": "087-054-041A",
+      "smp_anterior": "087-054-040A",
+      "smp_siguiente": "087-054-001A",
+      "srid": 4326,
+      "superficie_cubierta": "125.00",
+      "superficie_total": "144.00",
+      "unidades_funcionales": "2",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3282,
+      "cod_calle": 4066
+    },
+    "usig_direccion_elegida": {
+      "altura": 3282,
+      "cod_calle": 4066,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.516297",
+        "y": "-34.611768"
+      },
+      "direccion": "DESAGUADERO 3282, CABA",
+      "nombre_calle": "DESAGUADERO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3282,
+          "cod_calle": 4066,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.516297",
+            "y": "-34.611768"
+          },
+          "direccion": "DESAGUADERO 3282, CABA",
+          "nombre_calle": "DESAGUADERO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  95132.49511821981,
+                  101940.72012499208
+                ],
+                [
+                  95133.31512554087,
+                  101939.62314013121
+                ],
+                [
+                  95137.57500101313,
+                  101933.92303223428
+                ],
+                [
+                  95135.86900101665,
+                  101932.58503223889
+                ],
+                [
+                  95135.63300101763,
+                  101932.40003224
+                ],
+                [
+                  95131.79809672886,
+                  101929.39212209464
+                ],
+                [
+                  95129.95312602981,
+                  101927.94412405326
+                ],
+                [
+                  95129.62600103072,
+                  101927.68703225726
+                ],
+                [
+                  95126.49100103787,
+                  101925.22903226689
+                ],
+                [
+                  95126.1250010383,
+                  101924.94103226732
+                ],
+                [
+                  95124.30000104215,
+                  101923.51003227284
+                ],
+                [
+                  95122.80212507152,
+                  101925.55716117471
+                ],
+                [
+                  95119.05609237103,
+                  101930.67514212019
+                ],
+                [
+                  95124.7380991942,
+                  101934.9221513813
+                ],
+                [
+                  95127.54089459809,
+                  101937.0171220765
+                ],
+                [
+                  95132.49511821981,
+                  101940.72012499208
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "087-054-041A",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "DESAGUADERO 3282",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.516414237971865,
+      -34.611840522079405
+    ],
+    "direccion": "",
+    "fondo": "16.82",
+    "frente": "8.56",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "054",
+    "parcela": "041A",
+    "pdamatriz": "280049",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "087",
+    "smp": "087-054-041A",
+    "smp_anterior": "087-054-040A",
+    "smp_siguiente": "087-054-001A",
+    "srid": 4326,
+    "superficie_cubierta": "125.00",
+    "superficie_total": "144.00",
+    "unidades_funcionales": "2",
+    "vuc": "0.00"
+  },
+  "smp": "087-054-041A",
+  "_http_status": 200
+}

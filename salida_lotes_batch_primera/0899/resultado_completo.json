@@ -1,0 +1,395 @@
+{
+  "area_m2": 153.39593315124512,
+  "centroide_lonlat": {
+    "lat": -34.63772,
+    "lon": -58.430862
+  },
+  "centroide_xy": {
+    "x": 102974.32635071871,
+    "y": 99062.03321285178
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/1/68/038-031-034_0000043168.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION038/038-031-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION038/PI-038-031-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "038-031-035",
+            "038-031-032",
+            "038-031-033",
+            "038-031-031"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 153.367899999973,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 153.4,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "038-031-034"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.M. PENNA",
+    "barrio": "Parque Chacabuco",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1424",
+    "codigo_postal_argentino": "C1424BEI",
+    "comisaria": "34",
+    "comisaria_vecinal": "7B",
+    "comuna": "Comuna 7",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "38"
+  },
+  "debug": {
+    "address": "BEAUCHEF 1777",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.43086196103619,
+        -34.63771968577245
+      ],
+      "direccion": "",
+      "fondo": "19.42",
+      "frente": "7.88",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "031",
+      "parcela": "034",
+      "pdamatriz": "42035",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "038",
+      "smp": "038-031-034",
+      "smp_anterior": "038-031-033",
+      "smp_siguiente": "038-031-035",
+      "srid": 4326,
+      "superficie_cubierta": "151.00",
+      "superficie_total": "153.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1777,
+      "cod_calle": 2039
+    },
+    "usig_direccion_elegida": {
+      "altura": 1777,
+      "cod_calle": 2039,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.430722",
+        "y": "-34.637700"
+      },
+      "direccion": "BEAUCHEF 1777, CABA",
+      "nombre_calle": "BEAUCHEF",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1777,
+          "cod_calle": 2039,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.430722",
+            "y": "-34.637700"
+          },
+          "direccion": "BEAUCHEF 1777, CABA",
+          "nombre_calle": "BEAUCHEF",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1777,
+          "cod_calle": 143114,
+          "cod_calle_cruce": null,
+          "cod_partido": "malvinas_argentinas",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7261791642857,
+            "y": -34.4778612795918
+          },
+          "direccion": "Beaucheff 1777, Malvinas Argentinas",
+          "nombre_calle": "Beaucheff",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Grand Bourg",
+          "nombre_partido": "Malvinas Argentinas",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102969.91397688256,
+                  99057.3130344064
+                ],
+                [
+                  102969.53997688355,
+                  99057.2500344057
+                ],
+                [
+                  102969.1819768845,
+                  99057.1890344065
+                ],
+                [
+                  102965.46897689402,
+                  99056.55903441022
+                ],
+                [
+                  102964.78697689877,
+                  99059.79003440155
+                ],
+                [
+                  102964.71297690002,
+                  99060.13803440102
+                ],
+                [
+                  102963.846976905,
+                  99064.24003438998
+                ],
+                [
+                  102966.9389768967,
+                  99064.75403438613
+                ],
+                [
+                  102968.771976892,
+                  99065.0590343858
+                ],
+                [
+                  102971.19597688533,
+                  99065.46203438297
+                ],
+                [
+                  102971.66997688409,
+                  99065.5410343805
+                ],
+                [
+                  102975.22397687461,
+                  99066.13203437699
+                ],
+                [
+                  102975.42497687398,
+                  99066.16503437606
+                ],
+                [
+                  102976.71297687132,
+                  99066.37903437566
+                ],
+                [
+                  102980.3279768603,
+                  99066.98003437126
+                ],
+                [
+                  102983.36197685222,
+                  99067.48503436724
+                ],
+                [
+                  102983.72397685106,
+                  99065.38603437107
+                ],
+                [
+                  102983.92897684828,
+                  99064.20403437532
+                ],
+                [
+                  102984.68597684285,
+                  99059.81803438763
+                ],
+                [
+                  102981.48697685148,
+                  99059.2760343905
+                ],
+                [
+                  102980.65697685361,
+                  99059.13503439203
+                ],
+                [
+                  102978.50197686057,
+                  99058.77003439484
+                ],
+                [
+                  102977.48497686263,
+                  99058.59703439556
+                ],
+                [
+                  102974.15797687104,
+                  99058.0330344002
+                ],
+                [
+                  102973.74597687257,
+                  99057.9630344015
+                ],
+                [
+                  102973.61397687286,
+                  99057.94103439909
+                ],
+                [
+                  102973.09997687383,
+                  99057.85403440171
+                ],
+                [
+                  102971.29197687987,
+                  99057.54703440348
+                ],
+                [
+                  102969.91397688256,
+                  99057.3130344064
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "038-031-034",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "BEAUCHEF 1777",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.43086196103619,
+      -34.63771968577245
+    ],
+    "direccion": "",
+    "fondo": "19.42",
+    "frente": "7.88",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "031",
+    "parcela": "034",
+    "pdamatriz": "42035",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "038",
+    "smp": "038-031-034",
+    "smp_anterior": "038-031-033",
+    "smp_siguiente": "038-031-035",
+    "srid": 4326,
+    "superficie_cubierta": "151.00",
+    "superficie_total": "153.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "038-031-034",
+  "_http_status": 200
+}

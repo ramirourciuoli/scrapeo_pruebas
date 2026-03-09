@@ -1,0 +1,358 @@
+{
+  "area_m2": 383.2279396057129,
+  "centroide_lonlat": {
+    "lat": -34.622144,
+    "lon": -58.478684
+  },
+  "centroide_xy": {
+    "x": 98589.11065889761,
+    "y": 100790.33190801271
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "PEV",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.0,
+          "fot_perim_libre": 3.0,
+          "fot_semi_libre": 3.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/4/70/079-113-042_0000175470.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION079/079-113-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION079/PI-079-113-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "079-113-041",
+            "079-113-004",
+            "079-113-043",
+            "079-113-033"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "E3",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 317.696683231515,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 383.2,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "079-113-042"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. T. ÁLVAREZ",
+    "barrio": "Villa Santa Rita",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1416",
+    "codigo_postal_argentino": "C1416BCB",
+    "comisaria": "50",
+    "comisaria_vecinal": "11A",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "79"
+  },
+  "debug": {
+    "address": "CUENCA 948",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.478684301315724,
+        -34.62214382939687
+      ],
+      "direccion": "",
+      "fondo": "43.30",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "113",
+      "parcela": "042",
+      "pdamatriz": "257999",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "079",
+      "smp": "079-113-042",
+      "smp_anterior": "079-113-041",
+      "smp_siguiente": "079-113-043",
+      "srid": 4326,
+      "superficie_cubierta": "1351.00",
+      "superficie_total": "375.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 948,
+      "cod_calle": 3200
+    },
+    "usig_direccion_elegida": {
+      "altura": 948,
+      "cod_calle": 3200,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.478438",
+        "y": "-34.622009"
+      },
+      "direccion": "CUENCA 948, CABA",
+      "nombre_calle": "CUENCA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 948,
+          "cod_calle": 3200,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.478438",
+            "y": "-34.622009"
+          },
+          "direccion": "CUENCA 948, CABA",
+          "nombre_calle": "CUENCA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98605.22112081031,
+                  100805.53714216329
+                ],
+                [
+                  98609.99907489282,
+                  100798.24215927039
+                ],
+                [
+                  98607.88426776929,
+                  100796.91415634603
+                ],
+                [
+                  98605.21770283325,
+                  100795.23953477095
+                ],
+                [
+                  98604.34007832408,
+                  100794.68850938207
+                ],
+                [
+                  98602.21099043885,
+                  100793.35203282456
+                ],
+                [
+                  98600.21367452535,
+                  100792.09775011524
+                ],
+                [
+                  98594.46666526081,
+                  100788.48910755094
+                ],
+                [
+                  98590.75670433257,
+                  100786.15976185605
+                ],
+                [
+                  98588.72807884822,
+                  100784.88614125669
+                ],
+                [
+                  98587.88109398687,
+                  100784.35415883595
+                ],
+                [
+                  98583.3087063024,
+                  100781.48294302772
+                ],
+                [
+                  98579.24767115615,
+                  100778.93313835154
+                ],
+                [
+                  98576.44811061551,
+                  100777.17532585905
+                ],
+                [
+                  98575.37267116529,
+                  100776.4999108226
+                ],
+                [
+                  98573.18608669749,
+                  100775.1271080935
+                ],
+                [
+                  98571.39507107896,
+                  100777.87112664117
+                ],
+                [
+                  98571.14708524094,
+                  100778.25113152363
+                ],
+                [
+                  98568.31206327915,
+                  100782.59512565294
+                ],
+                [
+                  98571.72026639571,
+                  100784.71371695309
+                ],
+                [
+                  98592.15032005972,
+                  100797.41250840583
+                ],
+                [
+                  98595.50127219991,
+                  100799.49533310565
+                ],
+                [
+                  98599.6279201393,
+                  100802.06015243116
+                ],
+                [
+                  98605.22112081031,
+                  100805.53714216329
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "079-113-042",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CUENCA 948",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.478684301315724,
+      -34.62214382939687
+    ],
+    "direccion": "",
+    "fondo": "43.30",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "113",
+    "parcela": "042",
+    "pdamatriz": "257999",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "079",
+    "smp": "079-113-042",
+    "smp_anterior": "079-113-041",
+    "smp_siguiente": "079-113-043",
+    "srid": 4326,
+    "superficie_cubierta": "1351.00",
+    "superficie_total": "375.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "079-113-042",
+  "_http_status": 200
+}

@@ -1,0 +1,399 @@
+{
+  "area_m2": 169.44306182861328,
+  "centroide_lonlat": {
+    "lat": -34.580728,
+    "lon": -58.475453
+  },
+  "centroide_xy": {
+    "x": 98884.88179689106,
+    "y": 105384.88814412884
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "U",
+            "distrito_especifico": "U 39"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 0.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/2/52/061-085-003_0000346252.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION061/061-085-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION061/PI-061-085-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "061-085-004",
+            "061-085-016",
+            "061-085-014",
+            "061-085-002",
+            "061-085-015"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "U39",
+          "incidencia_uva": 180.0,
+          "plusvalia_em": 0.0,
+          "plusvalia_pl": 0.0,
+          "plusvalia_sl": 0.0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 169.4,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "061-085-003"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. E. TORNÚ",
+    "barrio": "Parque Chas",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1431",
+    "codigo_postal_argentino": "C1431FGB",
+    "comisaria": "39",
+    "comisaria_vecinal": "15C",
+    "comuna": "Comuna 15",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "61"
+  },
+  "debug": {
+    "address": "GINEBRA 3840",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.47545318220794,
+        -34.58072783901288
+      ],
+      "direccion": "",
+      "fondo": "19.00",
+      "frente": "9.00",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "085",
+      "parcela": "003",
+      "pdamatriz": "244370",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "061",
+      "smp": "061-085-003",
+      "smp_anterior": "061-085-002",
+      "smp_siguiente": "061-085-004",
+      "srid": 4326,
+      "superficie_cubierta": "168.00",
+      "superficie_total": "171.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3840,
+      "cod_calle": 7049
+    },
+    "usig_direccion_elegida": {
+      "altura": 3840,
+      "cod_calle": 7049,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.475419",
+        "y": "-34.580619"
+      },
+      "direccion": "GINEBRA 3840, CABA",
+      "nombre_calle": "GINEBRA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3840,
+          "cod_calle": 7049,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.475419",
+            "y": "-34.580619"
+          },
+          "direccion": "GINEBRA 3840, CABA",
+          "nombre_calle": "GINEBRA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98877.99399311504,
+                  105377.0640197628
+                ],
+                [
+                  98878.71099311509,
+                  105379.60801975493
+                ],
+                [
+                  98878.91399311481,
+                  105380.3250197529
+                ],
+                [
+                  98879.31899311501,
+                  105381.76201974848
+                ],
+                [
+                  98879.64099311468,
+                  105382.90301974487
+                ],
+                [
+                  98879.7769931146,
+                  105383.38501974329
+                ],
+                [
+                  98879.91299311451,
+                  105383.86701974168
+                ],
+                [
+                  98880.39599311446,
+                  105385.58101973709
+                ],
+                [
+                  98881.37499311464,
+                  105389.05401972597
+                ],
+                [
+                  98881.83899311424,
+                  105390.70001972158
+                ],
+                [
+                  98882.15099311413,
+                  105391.80601971794
+                ],
+                [
+                  98882.28699311404,
+                  105392.28801971636
+                ],
+                [
+                  98882.40899311448,
+                  105392.72201971544
+                ],
+                [
+                  98883.10099311419,
+                  105395.17501970773
+                ],
+                [
+                  98887.06599310205,
+                  105394.03501970824
+                ],
+                [
+                  98887.66799310021,
+                  105393.86201970786
+                ],
+                [
+                  98888.36399309855,
+                  105393.66201970776
+                ],
+                [
+                  98891.77499308856,
+                  105392.68101970825
+                ],
+                [
+                  98891.36499308846,
+                  105391.23401971292
+                ],
+                [
+                  98891.0619930882,
+                  105390.16201971556
+                ],
+                [
+                  98890.95799308791,
+                  105389.79501971701
+                ],
+                [
+                  98889.71199308877,
+                  105385.39401973074
+                ],
+                [
+                  98888.69399308877,
+                  105381.79701974147
+                ],
+                [
+                  98888.57499308883,
+                  105381.37601974269
+                ],
+                [
+                  98887.65399308888,
+                  105378.123019752
+                ],
+                [
+                  98887.62699308911,
+                  105378.0260197522
+                ],
+                [
+                  98887.47999308925,
+                  105377.50701975441
+                ],
+                [
+                  98886.66299308861,
+                  105374.62001976298
+                ],
+                [
+                  98883.774993098,
+                  105375.43401976317
+                ],
+                [
+                  98882.47599310134,
+                  105375.8000197626
+                ],
+                [
+                  98881.2809931056,
+                  105376.1370197628
+                ],
+                [
+                  98880.7179931072,
+                  105376.29601976278
+                ],
+                [
+                  98880.51199310756,
+                  105376.35401976292
+                ],
+                [
+                  98877.99399311504,
+                  105377.0640197628
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "061-085-003",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "GINEBRA 3840",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.47545318220794,
+      -34.58072783901288
+    ],
+    "direccion": "",
+    "fondo": "19.00",
+    "frente": "9.00",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "085",
+    "parcela": "003",
+    "pdamatriz": "244370",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "061",
+    "smp": "061-085-003",
+    "smp_anterior": "061-085-002",
+    "smp_siguiente": "061-085-004",
+    "srid": 4326,
+    "superficie_cubierta": "168.00",
+    "superficie_total": "171.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "061-085-003",
+  "_http_status": 200
+}

@@ -1,0 +1,383 @@
+{
+  "area_m2": 282.8491163253784,
+  "centroide_lonlat": {
+    "lat": -34.612755,
+    "lon": -58.485419
+  },
+  "centroide_xy": {
+    "x": 97971.28433138969,
+    "y": 101831.76681368054
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "PEV",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/86/067-011-028b_0000147586.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION067/067-011-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION067/PI-067-011-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "067-011-028a",
+            "067-011-019",
+            "067-011-038",
+            "067-011-029"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 70.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 238.333169465658,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 282.8,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "067-011-028B"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. T. ÁLVAREZ",
+    "barrio": "Villa Santa Rita",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1416",
+    "codigo_postal_argentino": "C1416BCS",
+    "comisaria": "41",
+    "comisaria_vecinal": "11A",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "67"
+  },
+  "debug": {
+    "address": "CUENCA 1853",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.485418573306966,
+        -34.61275509300862
+      ],
+      "direccion": "",
+      "fondo": "35.75",
+      "frente": "8.00",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "011",
+      "parcela": "028B",
+      "pdamatriz": "251999",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "067",
+      "smp": "067-011-028B",
+      "smp_anterior": "067-011-028A",
+      "smp_siguiente": "067-011-029",
+      "srid": 4326,
+      "superficie_cubierta": "332.00",
+      "superficie_total": "286.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1853,
+      "cod_calle": 3200
+    },
+    "usig_direccion_elegida": {
+      "altura": 1853,
+      "cod_calle": 3200,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.485623",
+        "y": "-34.612866"
+      },
+      "direccion": "CUENCA 1853, CABA",
+      "nombre_calle": "CUENCA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1853,
+          "cod_calle": 3200,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.485623",
+            "y": "-34.612866"
+          },
+          "direccion": "CUENCA 1853, CABA",
+          "nombre_calle": "CUENCA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1853,
+          "cod_calle": 295796,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7222133346939,
+            "y": -34.6992481387755
+          },
+          "direccion": "Cuenca 1853, Merlo",
+          "nombre_calle": "Cuenca",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Parque San Martín",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97965.30699300685,
+                  101832.68903039114
+                ],
+                [
+                  97968.97699299816,
+                  101834.97803038024
+                ],
+                [
+                  97969.46599299742,
+                  101835.28303037884
+                ],
+                [
+                  97969.55099299717,
+                  101835.33603037908
+                ],
+                [
+                  97976.40499298122,
+                  101839.61103036086
+                ],
+                [
+                  97976.8019929796,
+                  101839.85903035922
+                ],
+                [
+                  97980.05199297205,
+                  101841.88503035193
+                ],
+                [
+                  97980.2219929723,
+                  101841.99103035318
+                ],
+                [
+                  97980.31499297236,
+                  101842.04903035163
+                ],
+                [
+                  97980.47499297044,
+                  101842.14903035079
+                ],
+                [
+                  97983.44599296435,
+                  101844.00203034366
+                ],
+                [
+                  97983.57299296357,
+                  101844.08103034351
+                ],
+                [
+                  97983.69099296302,
+                  101844.15503034383
+                ],
+                [
+                  97984.41699296252,
+                  101844.6080303416
+                ],
+                [
+                  97988.66899294558,
+                  101838.1220303564
+                ],
+                [
+                  97969.40999299084,
+                  101825.90503040384
+                ],
+                [
+                  97966.54899299635,
+                  101824.09003041318
+                ],
+                [
+                  97964.17299300246,
+                  101822.58203041897
+                ],
+                [
+                  97960.2279930117,
+                  101820.08003042915
+                ],
+                [
+                  97958.4009930158,
+                  101818.92103043283
+                ],
+                [
+                  97954.00199303337,
+                  101825.63803041811
+                ],
+                [
+                  97958.28599302369,
+                  101828.31003040742
+                ],
+                [
+                  97958.37099302377,
+                  101828.36303040557
+                ],
+                [
+                  97959.95299301857,
+                  101829.3490304013
+                ],
+                [
+                  97965.213993007,
+                  101832.63103038917
+                ],
+                [
+                  97965.30699300685,
+                  101832.68903039114
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "067-011-028B",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CUENCA 1853",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.485418573306966,
+      -34.61275509300862
+    ],
+    "direccion": "",
+    "fondo": "35.75",
+    "frente": "8.00",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "011",
+    "parcela": "028B",
+    "pdamatriz": "251999",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "067",
+    "smp": "067-011-028B",
+    "smp_anterior": "067-011-028A",
+    "smp_siguiente": "067-011-029",
+    "srid": 4326,
+    "superficie_cubierta": "332.00",
+    "superficie_total": "286.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "067-011-028B",
+  "_http_status": 200
+}

@@ -1,0 +1,349 @@
+{
+  "area_m2": 153.16397380828857,
+  "centroide_lonlat": {
+    "lat": -34.650803,
+    "lon": -58.394881
+  },
+  "centroide_xy": {
+    "x": 106272.56505167663,
+    "y": 97608.99106647572
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.0,
+          "fot_perim_libre": 3.0,
+          "fot_semi_libre": 3.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/4/04/026-023C-007_0000317404.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION026/026-023C-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION026/PI-026-023C-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "026-023C-006",
+            "026-023C-000D",
+            "026-023C-008"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "AE 26",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 153.2,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "026-023C-007"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.M. PENNA",
+    "barrio": "Barracas",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1290",
+    "codigo_postal_argentino": "C1290ADC",
+    "comisaria": "30",
+    "comisaria_vecinal": "4D",
+    "comuna": "Comuna 4",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   V",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "26"
+  },
+  "debug": {
+    "address": "CAYASTA 3365",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.39488058859153,
+        -34.650802760083295
+      ],
+      "direccion": "",
+      "fondo": "17.32",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "023C",
+      "parcela": "007",
+      "pdamatriz": "106054",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "026",
+      "smp": "026-023C-007",
+      "smp_anterior": "026-023C-006",
+      "smp_siguiente": "026-023C-008",
+      "srid": 4326,
+      "superficie_cubierta": "111.00",
+      "superficie_total": "150.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3365,
+      "cod_calle": 3106
+    },
+    "usig_direccion_elegida": {
+      "altura": 3365,
+      "cod_calle": 3106,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.394873",
+        "y": "-34.650897"
+      },
+      "direccion": "CAYASTA 3365, CABA",
+      "nombre_calle": "CAYASTA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3365,
+          "cod_calle": 3106,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.394873",
+            "y": "-34.650897"
+          },
+          "direccion": "CAYASTA 3365, CABA",
+          "nombre_calle": "CAYASTA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  106276.54996652331,
+                  97613.93403596448
+                ],
+                [
+                  106276.56496652376,
+                  97613.73303596617
+                ],
+                [
+                  106276.88496651876,
+                  97609.25303597588
+                ],
+                [
+                  106277.13496651579,
+                  97605.75003598724
+                ],
+                [
+                  106277.19196651432,
+                  97604.95503598938
+                ],
+                [
+                  106277.51296651027,
+                  97600.4670360013
+                ],
+                [
+                  106274.47696651926,
+                  97600.26603600464
+                ],
+                [
+                  106268.83196653513,
+                  97599.89203600987
+                ],
+                [
+                  106268.53396653886,
+                  97604.36903599915
+                ],
+                [
+                  106268.50896653891,
+                  97604.74003599651
+                ],
+                [
+                  106268.30896654195,
+                  97607.74803598595
+                ],
+                [
+                  106268.24396654277,
+                  97608.72903598545
+                ],
+                [
+                  106268.23496654286,
+                  97608.85403598688
+                ],
+                [
+                  106268.07596654506,
+                  97611.24903597953
+                ],
+                [
+                  106267.65696655064,
+                  97617.5440359606
+                ],
+                [
+                  106271.08796654217,
+                  97617.773035958
+                ],
+                [
+                  106272.10996653908,
+                  97617.84103595628
+                ],
+                [
+                  106273.56296653514,
+                  97617.93803595562
+                ],
+                [
+                  106276.25096652753,
+                  97618.11803595326
+                ],
+                [
+                  106276.39296652604,
+                  97616.12803595813
+                ],
+                [
+                  106276.44296652504,
+                  97615.43003596002
+                ],
+                [
+                  106276.54996652331,
+                  97613.93403596448
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "026-023C-007",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CAYASTA 3365",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.39488058859153,
+      -34.650802760083295
+    ],
+    "direccion": "",
+    "fondo": "17.32",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "023C",
+    "parcela": "007",
+    "pdamatriz": "106054",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "026",
+    "smp": "026-023C-007",
+    "smp_anterior": "026-023C-006",
+    "smp_siguiente": "026-023C-008",
+    "srid": 4326,
+    "superficie_cubierta": "111.00",
+    "superficie_total": "150.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "026-023C-007",
+  "_http_status": 200
+}

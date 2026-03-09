@@ -1,0 +1,371 @@
+{
+  "area_m2": 390.58344078063965,
+  "centroide_lonlat": {
+    "lat": -34.615088,
+    "lon": -58.499137
+  },
+  "centroide_xy": {
+    "x": 96713.08376495192,
+    "y": 101572.55817538127
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.42,
+          "fot_perim_libre": 3.42,
+          "fot_semi_libre": 3.42
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/8/69/081-040-005_0000372869.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION081/081-040-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION081/PI-081-040-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "081-040-006",
+            "081-040-015b",
+            "081-040-041",
+            "081-040-004",
+            "081-040-042"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2a II",
+          "incidencia_uva": 50.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 273.463250469241,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 390.6,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "081-040-005"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Monte Castro",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1417",
+    "codigo_postal_argentino": "C1417GZL",
+    "comisaria": "43",
+    "comisaria_vecinal": "10A",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "81"
+  },
+  "debug": {
+    "address": "LASCANO 4146",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.49913741976355,
+        -34.615088395072796
+      ],
+      "direccion": "",
+      "fondo": "45.16",
+      "frente": "8.68",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "040",
+      "parcela": "005",
+      "pdamatriz": "265693",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "2",
+      "propiedad_horizontal": "Si",
+      "seccion": "081",
+      "smp": "081-040-005",
+      "smp_anterior": "081-040-004",
+      "smp_siguiente": "081-040-006",
+      "srid": 4326,
+      "superficie_cubierta": "638.00",
+      "superficie_total": "392.00",
+      "unidades_funcionales": "6",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4146,
+      "cod_calle": 12071
+    },
+    "usig_direccion_elegida": {
+      "altura": 4146,
+      "cod_calle": 12071,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.499298",
+        "y": "-34.614898"
+      },
+      "direccion": "LASCANO 4146, CABA",
+      "nombre_calle": "LASCANO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4146,
+          "cod_calle": 12071,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.499298",
+            "y": "-34.614898"
+          },
+          "direccion": "LASCANO 4146, CABA",
+          "nombre_calle": "LASCANO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96727.21899627322,
+                  101560.10503208611
+                ],
+                [
+                  96729.55299626487,
+                  101556.79603209326
+                ],
+                [
+                  96722.23499628174,
+                  101551.88103211246
+                ],
+                [
+                  96719.83699629098,
+                  101555.30203210484
+                ],
+                [
+                  96715.18699630864,
+                  101561.93503208915
+                ],
+                [
+                  96710.72599632584,
+                  101568.29703207535
+                ],
+                [
+                  96710.31199632752,
+                  101568.88803207403
+                ],
+                [
+                  96710.22999632842,
+                  101569.0050320733
+                ],
+                [
+                  96709.49699633122,
+                  101570.05103207106
+                ],
+                [
+                  96706.9909963409,
+                  101573.62503206296
+                ],
+                [
+                  96705.56499634644,
+                  101575.66003205843
+                ],
+                [
+                  96705.30399634663,
+                  101576.03203205715
+                ],
+                [
+                  96703.30899635516,
+                  101578.87803205056
+                ],
+                [
+                  96701.7019963606,
+                  101581.16903204555
+                ],
+                [
+                  96701.6319963615,
+                  101581.26903204588
+                ],
+                [
+                  96699.76099636848,
+                  101583.93803203956
+                ],
+                [
+                  96696.65699638025,
+                  101588.3660320298
+                ],
+                [
+                  96703.74599636477,
+                  101593.3710320103
+                ],
+                [
+                  96706.87799635189,
+                  101588.93203202015
+                ],
+                [
+                  96706.95499635214,
+                  101588.8240320204
+                ],
+                [
+                  96711.9169963332,
+                  101581.79003203634
+                ],
+                [
+                  96712.20499633181,
+                  101581.38203203751
+                ],
+                [
+                  96714.96399632072,
+                  101577.47203204621
+                ],
+                [
+                  96716.65599631492,
+                  101575.07403205166
+                ],
+                [
+                  96722.42999629184,
+                  101566.89203207023
+                ],
+                [
+                  96724.75699628337,
+                  101563.59403207732
+                ],
+                [
+                  96727.21899627322,
+                  101560.10503208611
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "081-040-005",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "LASCANO 4146",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.49913741976355,
+      -34.615088395072796
+    ],
+    "direccion": "",
+    "fondo": "45.16",
+    "frente": "8.68",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "040",
+    "parcela": "005",
+    "pdamatriz": "265693",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "2",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "081",
+    "smp": "081-040-005",
+    "smp_anterior": "081-040-004",
+    "smp_siguiente": "081-040-006",
+    "srid": 4326,
+    "superficie_cubierta": "638.00",
+    "superficie_total": "392.00",
+    "unidades_funcionales": "6",
+    "vuc": "0.00"
+  },
+  "smp": "081-040-005",
+  "_http_status": 200
+}

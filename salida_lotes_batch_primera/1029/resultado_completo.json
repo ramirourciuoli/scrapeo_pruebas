@@ -1,0 +1,382 @@
+{
+  "area_m2": 160.43035125732422,
+  "centroide_lonlat": {
+    "lat": -34.570797,
+    "lon": -58.434944
+  },
+  "centroide_xy": {
+    "x": 102602.09496526433,
+    "y": 106486.25051807493
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 38.2,
+        "catalogacion": {
+          "catalogacion": "APH",
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "NO",
+          "proteccion": "GENERAL"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 4.14,
+          "fot_perim_libre": 4.14,
+          "fot_semi_libre": 4.14
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/2/88/023-076-013_0000408288.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION023/023-076-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION023/PI-023-076-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "023-076-014",
+            "023-076-015",
+            "023-076-012"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2a I",
+          "incidencia_uva": 650.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 160.399950000124,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 160.4,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "023-076-013"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.A.FERNÁNDEZ",
+    "barrio": "Palermo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1426",
+    "codigo_postal_argentino": "C1426BOE",
+    "comisaria": "31",
+    "comisaria_vecinal": "14B",
+    "comuna": "Comuna 14",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   IX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "23"
+  },
+  "debug": {
+    "address": "AV. LUIS MARIA CAMPOS 621",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.43494427624351,
+        -34.570797189136655
+      ],
+      "direccion": "",
+      "fondo": "18.71",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "076",
+      "parcela": "013",
+      "pdamatriz": "412771",
+      "pisos_bajo_rasante": "1",
+      "pisos_sobre_rasante": "9",
+      "propiedad_horizontal": "Si",
+      "seccion": "023",
+      "smp": "023-076-013",
+      "smp_anterior": "023-076-012",
+      "smp_siguiente": "023-076-014",
+      "srid": 4326,
+      "superficie_cubierta": "1632.00",
+      "superficie_total": "162.00",
+      "unidades_funcionales": "26",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 621,
+      "cod_calle": 3043
+    },
+    "usig_direccion_elegida": {
+      "altura": 621,
+      "cod_calle": 3043,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.435049",
+        "y": "-34.570864"
+      },
+      "direccion": "CAMPOS, LUIS M. AV. 621, CABA",
+      "nombre_calle": "CAMPOS, LUIS M. AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 621,
+          "cod_calle": 3043,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.435049",
+            "y": "-34.570864"
+          },
+          "direccion": "CAMPOS, LUIS M. AV. 621, CABA",
+          "nombre_calle": "CAMPOS, LUIS M. AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 621,
+          "cod_calle": 66403,
+          "cod_calle_cruce": null,
+          "cod_partido": "quilmes",
+          "direccion": "Luis María Campos 621, Quilmes",
+          "nombre_calle": "Luis María Campos",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Bernal",
+          "nombre_partido": "Quilmes",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 621,
+          "cod_calle": 147454,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_isidro",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5707880178572,
+            "y": -34.4864050392857
+          },
+          "direccion": "Luis María Campos 621, San Isidro",
+          "nombre_calle": "Luis María Campos",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Boulogne Sur Mer",
+          "nombre_partido": "San Isidro",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102603.50282256931,
+                  106492.84752750222
+                ],
+                [
+                  102604.7651225678,
+                  106493.80752749709
+                ],
+                [
+                  102605.78772256424,
+                  106494.58522749407
+                ],
+                [
+                  102606.28038350014,
+                  106494.24061382285
+                ],
+                [
+                  102610.93468348542,
+                  106491.02471382849
+                ],
+                [
+                  102613.0879834778,
+                  106489.53701383123
+                ],
+                [
+                  102609.90298348489,
+                  106487.03801383969
+                ],
+                [
+                  102608.98678348708,
+                  106486.31891384398
+                ],
+                [
+                  102607.9742834886,
+                  106485.52441384704
+                ],
+                [
+                  102606.29198349308,
+                  106484.20401385211
+                ],
+                [
+                  102603.38098349934,
+                  106481.9200138599
+                ],
+                [
+                  102602.6350834994,
+                  106481.3347138619
+                ],
+                [
+                  102599.63298350808,
+                  106478.97901387143
+                ],
+                [
+                  102599.05918350897,
+                  106478.52871387245
+                ],
+                [
+                  102597.36198351264,
+                  106477.19701387806
+                ],
+                [
+                  102591.99802259465,
+                  106484.09802753507
+                ],
+                [
+                  102593.687522592,
+                  106485.38292752785
+                ],
+                [
+                  102595.31092258803,
+                  106486.61752752351
+                ],
+                [
+                  102597.34662258349,
+                  106488.16572751838
+                ],
+                [
+                  102599.77592257797,
+                  106490.01322751262
+                ],
+                [
+                  102601.30532257442,
+                  106491.17632750815
+                ],
+                [
+                  102602.43492257228,
+                  106492.03532750279
+                ],
+                [
+                  102603.50282256931,
+                  106492.84752750222
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "023-076-013",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AV. LUIS MARIA CAMPOS 621",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.43494427624351,
+      -34.570797189136655
+    ],
+    "direccion": "",
+    "fondo": "18.71",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "076",
+    "parcela": "013",
+    "pdamatriz": "412771",
+    "pisos_bajo_rasante": "1",
+    "pisos_sobre_rasante": "9",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "023",
+    "smp": "023-076-013",
+    "smp_anterior": "023-076-012",
+    "smp_siguiente": "023-076-014",
+    "srid": 4326,
+    "superficie_cubierta": "1632.00",
+    "superficie_total": "162.00",
+    "unidades_funcionales": "26",
+    "vuc": "0.00"
+  },
+  "smp": "023-076-013",
+  "_http_status": 200
+}

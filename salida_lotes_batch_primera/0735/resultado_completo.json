@@ -1,0 +1,316 @@
+{
+  "area_m2": 91.4315881729126,
+  "centroide_lonlat": {
+    "lat": -34.598418,
+    "lon": -58.518244
+  },
+  "centroide_xy": {
+    "x": 94959.65462765632,
+    "y": 103421.06245233733
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/3/29/083-034-013i_0000367329.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION083/083-034-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION083/PI-083-034-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "083-034-013m",
+            "083-034-013j"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 350.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 91.4535999999499,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 91.4,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "083-034-013I"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. A. ZUBIZARRETA",
+    "barrio": "Villa Devoto",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1419",
+    "codigo_postal_argentino": "C1419GLE",
+    "comisaria": "45",
+    "comisaria_vecinal": "11B",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "83"
+  },
+  "debug": {
+    "address": "VALLEJOS 4299",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.51824415898271,
+        -34.59841846736743
+      ],
+      "direccion": "",
+      "fondo": "27.30",
+      "frente": "3.37",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "034",
+      "parcela": "013I",
+      "pdamatriz": "312535",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "083",
+      "smp": "083-034-013I",
+      "smp_anterior": "083-034-012",
+      "smp_siguiente": "083-034-013J",
+      "srid": 4326,
+      "superficie_cubierta": "106.00",
+      "superficie_total": "92.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4299,
+      "cod_calle": 23009
+    },
+    "usig_direccion_elegida": {
+      "altura": 4299,
+      "cod_calle": 23009,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.518171",
+        "y": "-34.598502"
+      },
+      "direccion": "VALLEJOS 4299, CABA",
+      "nombre_calle": "VALLEJOS",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4299,
+          "cod_calle": 23009,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.518171",
+            "y": "-34.598502"
+          },
+          "direccion": "VALLEJOS 4299, CABA",
+          "nombre_calle": "VALLEJOS",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  94966.81200260848,
+                  103417.53002820202
+                ],
+                [
+                  94964.07000261499,
+                  103415.48002821003
+                ],
+                [
+                  94958.18000263155,
+                  103416.33002821176
+                ],
+                [
+                  94952.76600265234,
+                  103423.60002819501
+                ],
+                [
+                  94955.87700264582,
+                  103425.91802818608
+                ],
+                [
+                  94957.40800264193,
+                  103427.05802818233
+                ],
+                [
+                  94957.78300264111,
+                  103427.3380281816
+                ],
+                [
+                  94958.50400263937,
+                  103427.87502817903
+                ],
+                [
+                  94958.76600263888,
+                  103428.07002817863
+                ],
+                [
+                  94960.18700263358,
+                  103426.20902818223
+                ],
+                [
+                  94960.51500263208,
+                  103425.77902818346
+                ],
+                [
+                  94960.7970026316,
+                  103425.41002818439
+                ],
+                [
+                  94964.19700261815,
+                  103420.9550281942
+                ],
+                [
+                  94966.81200260848,
+                  103417.53002820202
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "083-034-013I",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "VALLEJOS 4299",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.51824415898271,
+      -34.59841846736743
+    ],
+    "direccion": "",
+    "fondo": "27.30",
+    "frente": "3.37",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "034",
+    "parcela": "013I",
+    "pdamatriz": "312535",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "083",
+    "smp": "083-034-013I",
+    "smp_anterior": "083-034-012",
+    "smp_siguiente": "083-034-013J",
+    "srid": 4326,
+    "superficie_cubierta": "106.00",
+    "superficie_total": "92.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "083-034-013I",
+  "_http_status": 200
+}

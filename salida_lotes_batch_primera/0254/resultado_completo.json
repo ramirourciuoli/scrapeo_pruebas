@@ -1,0 +1,341 @@
+{
+  "area_m2": 149.8415927886963,
+  "centroide_lonlat": {
+    "lat": -34.66915,
+    "lon": -58.471133
+  },
+  "centroide_xy": {
+    "x": 99282.07098071229,
+    "y": 95575.75995917896
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/24/066-055-027_0000023624.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION066/066-055-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION066/PI-066-055-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "066-055-026b",
+            "066-055-026a",
+            "066-055-028"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 149.841550000011,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 149.8,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "066-055-027"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. P. PIÑERO",
+    "barrio": "Villa Lugano",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1439",
+    "codigo_postal_argentino": "C1439ADI",
+    "comisaria": "48",
+    "comisaria_vecinal": "8A",
+    "comuna": "Comuna 8",
+    "distrito_economico": "DISTRITO DEL DEPORTE",
+    "distrito_escolar": "Distrito Escolar   XXI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "66"
+  },
+  "debug": {
+    "address": "AQUINO 4911",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.47113269910539,
+        -34.66914951827576
+      ],
+      "direccion": "",
+      "fondo": "17.32",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "055",
+      "parcela": "027",
+      "pdamatriz": "72577",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "066",
+      "smp": "066-055-027",
+      "smp_anterior": "066-055-026B",
+      "smp_siguiente": "066-055-028",
+      "srid": 4326,
+      "superficie_cubierta": "86.00",
+      "superficie_total": "150.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4911,
+      "cod_calle": 1093
+    },
+    "usig_direccion_elegida": {
+      "altura": 4911,
+      "cod_calle": 1093,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.471025",
+        "y": "-34.669228"
+      },
+      "direccion": "AQUINO 4911, CABA",
+      "nombre_calle": "AQUINO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4911,
+          "cod_calle": 1093,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.471025",
+            "y": "-34.669228"
+          },
+          "direccion": "AQUINO 4911, CABA",
+          "nombre_calle": "AQUINO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99280.89598460365,
+                  95570.97404695977
+                ],
+                [
+                  99277.85298461429,
+                  95573.75004695321
+                ],
+                [
+                  99275.19798462327,
+                  95576.17204694907
+                ],
+                [
+                  99272.80298463226,
+                  95578.35604694526
+                ],
+                [
+                  99275.34298462799,
+                  95581.21804693402
+                ],
+                [
+                  99275.48898462701,
+                  95581.38304693546
+                ],
+                [
+                  99276.99098462469,
+                  95583.07504692784
+                ],
+                [
+                  99278.54698462176,
+                  95584.82904692204
+                ],
+                [
+                  99279.94698461638,
+                  95583.55304692601
+                ],
+                [
+                  99281.6369846103,
+                  95582.01304692845
+                ],
+                [
+                  99282.4509846077,
+                  95581.2710469297
+                ],
+                [
+                  99285.03798459825,
+                  95578.91304693365
+                ],
+                [
+                  99287.80098458895,
+                  95576.39504693827
+                ],
+                [
+                  99291.0219845771,
+                  95573.45904694413
+                ],
+                [
+                  99291.33398457634,
+                  95573.17504694499
+                ],
+                [
+                  99288.26698458244,
+                  95569.70504695736
+                ],
+                [
+                  99285.59898458711,
+                  95566.68504696811
+                ],
+                [
+                  99283.80998459362,
+                  95568.31604696412
+                ],
+                [
+                  99282.14698459947,
+                  95569.83404696124
+                ],
+                [
+                  99280.89598460365,
+                  95570.97404695977
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "066-055-027",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AQUINO 4911",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.47113269910539,
+      -34.66914951827576
+    ],
+    "direccion": "",
+    "fondo": "17.32",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "055",
+    "parcela": "027",
+    "pdamatriz": "72577",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "066",
+    "smp": "066-055-027",
+    "smp_anterior": "066-055-026B",
+    "smp_siguiente": "066-055-028",
+    "srid": 4326,
+    "superficie_cubierta": "86.00",
+    "superficie_total": "150.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "066-055-027",
+  "_http_status": 200
+}

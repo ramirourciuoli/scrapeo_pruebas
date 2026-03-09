@@ -1,0 +1,473 @@
+{
+  "area_m2": 150.87410736083984,
+  "centroide_lonlat": {
+    "lat": -34.624908,
+    "lon": -58.375562
+  },
+  "centroide_xy": {
+    "x": 108046.17640401454,
+    "y": 100480.33663426593
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 16.0,
+        "catalogacion": {
+          "catalogacion": "APH",
+          "denominacion": null,
+          "estado": "LEY FIRME",
+          "ley_3056": "SI",
+          "proteccion": "GENERAL"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "APH",
+            "distrito_especifico": "APH 1 14"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 0.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/4/85/008-037-023_0000303485.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION008/008-037-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION008/PI-008-037-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "008-037-002b",
+            "008-037-024",
+            "008-037-022"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "APH 1 14",
+          "incidencia_uva": 200.0,
+          "plusvalia_em": 0.0,
+          "plusvalia_pl": 0.0,
+          "plusvalia_sl": 0.0
+        },
+        "rivolta": 0,
+        "subzona": "4d",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 150.9,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "008-037-023"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C. ARGERICH",
+    "barrio": "San Telmo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1140",
+    "codigo_postal_argentino": "C1140AAE",
+    "comisaria": "14",
+    "comisaria_vecinal": "1F",
+    "comuna": "Comuna 1",
+    "distrito_economico": "DISTRITO DE LAS ARTES",
+    "distrito_escolar": "Distrito Escolar   III",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "08"
+  },
+  "debug": {
+    "address": "CHACABUCO 1423",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.375561797289905,
+        -34.62490760578151
+      ],
+      "direccion": "",
+      "fondo": "21.26",
+      "frente": "7.10",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "037",
+      "parcela": "023",
+      "pdamatriz": "110956",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "008",
+      "smp": "008-037-023",
+      "smp_anterior": "008-037-022",
+      "smp_siguiente": "008-037-024",
+      "srid": 4326,
+      "superficie_cubierta": "191.00",
+      "superficie_total": "151.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1423,
+      "cod_calle": 3214
+    },
+    "usig_direccion_elegida": {
+      "altura": 1423,
+      "cod_calle": 3214,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.375421",
+        "y": "-34.624869"
+      },
+      "direccion": "CHACABUCO 1423, CABA",
+      "nombre_calle": "CHACABUCO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1423,
+          "cod_calle": 3214,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.375421",
+            "y": "-34.624869"
+          },
+          "direccion": "CHACABUCO 1423, CABA",
+          "nombre_calle": "CHACABUCO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1423,
+          "cod_calle": 179664,
+          "cod_calle_cruce": null,
+          "cod_partido": "escobar",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7392934357143,
+            "y": -34.3867891
+          },
+          "direccion": "Chacabuco 1423, Escobar",
+          "nombre_calle": "Chacabuco",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ingeniero Maschwitz",
+          "nombre_partido": "Escobar",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1423,
+          "cod_calle": 103260,
+          "cod_calle_cruce": null,
+          "cod_partido": "esteban_echeverria",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4410056428571,
+            "y": -34.8192306714286
+          },
+          "direccion": "Chacabuco 1423, Esteban Echeverría",
+          "nombre_calle": "Chacabuco",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Luis Guillón",
+          "nombre_partido": "Esteban Echeverría",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1423,
+          "cod_calle": 143371,
+          "cod_calle_cruce": null,
+          "cod_partido": "malvinas_argentinas",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7311943367347,
+            "y": -34.4876940897959
+          },
+          "direccion": "Batalla de Chacabuco 1423, Malvinas Argentinas",
+          "nombre_calle": "Batalla de Chacabuco",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Grand Bourg",
+          "nombre_partido": "Malvinas Argentinas",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1423,
+          "cod_calle": 16775,
+          "cod_calle_cruce": null,
+          "cod_partido": "pilar",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.87442705,
+            "y": -34.4203351428571
+          },
+          "direccion": "Chacabuco 1423, Pilar",
+          "nombre_calle": "Chacabuco",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Rosa",
+          "nombre_partido": "Pilar",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1423,
+          "cod_calle": 171244,
+          "cod_calle_cruce": null,
+          "cod_partido": "pilar",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.841521675,
+            "y": -34.485631045
+          },
+          "direccion": "Chacabuco 1423, Pilar",
+          "nombre_calle": "Chacabuco",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Presidente Derqui",
+          "nombre_partido": "Pilar",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1423,
+          "cod_calle": 52170,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_fernando",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5558299785714,
+            "y": -34.4444133357143
+          },
+          "direccion": "Chacabuco 1423, San Fernando",
+          "nombre_calle": "Chacabuco",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Fernando",
+          "nombre_partido": "San Fernando",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1423,
+          "cod_calle": 181121,
+          "cod_calle_cruce": null,
+          "cod_partido": "tigre",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5795151589744,
+            "y": -34.4357022974359
+          },
+          "direccion": "Chacabuco 1423, Tigre",
+          "nombre_calle": "Chacabuco",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Tigre",
+          "nombre_partido": "Tigre",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1423,
+          "cod_calle": 4873,
+          "cod_calle_cruce": null,
+          "cod_partido": "vicente_lopez",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4882650428572,
+            "y": -34.5271741
+          },
+          "direccion": "Chacabuco 1423, Vicente López",
+          "nombre_calle": "Chacabuco",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Florida",
+          "nombre_partido": "Vicente López",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  108034.80605505873,
+                  100480.26815404402
+                ],
+                [
+                  108037.94106481633,
+                  100481.30611790597
+                ],
+                [
+                  108055.23806184245,
+                  100487.03115449799
+                ],
+                [
+                  108057.48104278813,
+                  100480.31612765964
+                ],
+                [
+                  108056.5246829273,
+                  100480.00551975111
+                ],
+                [
+                  108053.83388703578,
+                  100479.13174045866
+                ],
+                [
+                  108052.0590457317,
+                  100478.55532444603
+                ],
+                [
+                  108049.31069368796,
+                  100477.66274632551
+                ],
+                [
+                  108046.71217953446,
+                  100476.81884593904
+                ],
+                [
+                  108043.20381772702,
+                  100475.67925854251
+                ],
+                [
+                  108040.2040652933,
+                  100474.70510473914
+                ],
+                [
+                  108037.06396373909,
+                  100473.68502661897
+                ],
+                [
+                  108036.9709637392,
+                  100473.95702661906
+                ],
+                [
+                  108036.06807897822,
+                  100476.58913794011
+                ],
+                [
+                  108036.03005407602,
+                  100476.70113745157
+                ],
+                [
+                  108035.7700443117,
+                  100477.45815649256
+                ],
+                [
+                  108035.64003942955,
+                  100477.83712377682
+                ],
+                [
+                  108035.51003454739,
+                  100478.21615209617
+                ],
+                [
+                  108034.80605505873,
+                  100480.26815404402
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "008-037-023",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CHACABUCO 1423",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.375561797289905,
+      -34.62490760578151
+    ],
+    "direccion": "",
+    "fondo": "21.26",
+    "frente": "7.10",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "037",
+    "parcela": "023",
+    "pdamatriz": "110956",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "008",
+    "smp": "008-037-023",
+    "smp_anterior": "008-037-022",
+    "smp_siguiente": "008-037-024",
+    "srid": 4326,
+    "superficie_cubierta": "191.00",
+    "superficie_total": "151.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "008-037-023",
+  "_http_status": 200
+}

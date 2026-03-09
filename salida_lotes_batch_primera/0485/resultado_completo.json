@@ -1,0 +1,362 @@
+{
+  "area_m2": 267.67168045043945,
+  "centroide_lonlat": {
+    "lat": -34.568053,
+    "lon": -58.474612
+  },
+  "centroide_xy": {
+    "x": 98961.87634641505,
+    "y": 106791.01348307403
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/38/051-127-008_0000458038.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION051/051-127-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION051/PI-051-127-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": true,
+          "smp_linderas": [
+            "051-127-006",
+            "051-127-013",
+            "051-127-014",
+            "051-127-009a"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 270.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 162.677474073563,
+        "sup_max_edificable": 1131.5,
+        "superficie_parcela": 267.7,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "051-127-008"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Villa Urquiza",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1430",
+    "codigo_postal_argentino": "C1430DKS",
+    "comisaria": "37",
+    "comisaria_vecinal": "12C",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "51"
+  },
+  "debug": {
+    "address": "TRONADOR 2435",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.47461233748896,
+        -34.56805273856675
+      ],
+      "direccion": "",
+      "fondo": "30.72",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "127",
+      "parcela": "008",
+      "pdamatriz": "344915",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "051",
+      "smp": "051-127-008",
+      "smp_anterior": "051-127-007",
+      "smp_siguiente": "051-127-009A",
+      "srid": 4326,
+      "superficie_cubierta": "249.00",
+      "superficie_total": "266.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2435,
+      "cod_calle": 21059
+    },
+    "usig_direccion_elegida": {
+      "altura": 2435,
+      "cod_calle": 21059,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.474793",
+        "y": "-34.568156"
+      },
+      "direccion": "TRONADOR 2435, CABA",
+      "nombre_calle": "TRONADOR",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2435,
+          "cod_calle": 21059,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.474793",
+            "y": "-34.568156"
+          },
+          "direccion": "TRONADOR 2435, CABA",
+          "nombre_calle": "TRONADOR",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98958.48799395567,
+                  106793.85401572904
+                ],
+                [
+                  98963.27299394498,
+                  106797.2800157158
+                ],
+                [
+                  98968.43899393347,
+                  106800.97901570157
+                ],
+                [
+                  98972.15599392523,
+                  106803.6400156907
+                ],
+                [
+                  98976.63999390729,
+                  106797.5290157049
+                ],
+                [
+                  98977.10899390602,
+                  106796.8900157059
+                ],
+                [
+                  98973.72599391323,
+                  106794.4070157154
+                ],
+                [
+                  98973.4399939145,
+                  106794.19701571626
+                ],
+                [
+                  98972.84899391582,
+                  106793.76301571849
+                ],
+                [
+                  98970.13299392193,
+                  106791.77001572546
+                ],
+                [
+                  98968.22499392545,
+                  106790.37101573148
+                ],
+                [
+                  98965.80099393128,
+                  106788.59401573759
+                ],
+                [
+                  98962.28199393887,
+                  106786.01501574757
+                ],
+                [
+                  98960.37699394382,
+                  106784.61701575288
+                ],
+                [
+                  98956.80099395156,
+                  106781.99601576355
+                ],
+                [
+                  98954.23699395708,
+                  106780.11601577088
+                ],
+                [
+                  98951.77299396294,
+                  106778.31001577701
+                ],
+                [
+                  98948.33499397626,
+                  106783.27901576622
+                ],
+                [
+                  98946.80499398193,
+                  106785.49001576123
+                ],
+                [
+                  98949.2699939762,
+                  106787.25501575411
+                ],
+                [
+                  98950.32199397396,
+                  106788.0080157517
+                ],
+                [
+                  98952.94699396801,
+                  106789.88701574408
+                ],
+                [
+                  98954.29499396519,
+                  106790.85301574046
+                ],
+                [
+                  98957.2609939585,
+                  106792.97601573195
+                ],
+                [
+                  98958.48799395567,
+                  106793.85401572904
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "051-127-008",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "TRONADOR 2435",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.47461233748896,
+      -34.56805273856675
+    ],
+    "direccion": "",
+    "fondo": "30.72",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "127",
+    "parcela": "008",
+    "pdamatriz": "344915",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "051",
+    "smp": "051-127-008",
+    "smp_anterior": "051-127-007",
+    "smp_siguiente": "051-127-009A",
+    "srid": 4326,
+    "superficie_cubierta": "249.00",
+    "superficie_total": "266.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "051-127-008",
+  "_http_status": 200
+}

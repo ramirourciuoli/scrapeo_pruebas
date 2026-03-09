@@ -1,0 +1,341 @@
+{
+  "area_m2": 223.69135189056396,
+  "centroide_lonlat": {
+    "lat": -34.669727,
+    "lon": -58.501392
+  },
+  "centroide_xy": {
+    "x": 96508.6122321835,
+    "y": 95511.07907808578
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/2/01/076-047-004_0000036201.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION076/076-047-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION076/PI-076-047-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "076-047-005",
+            "076-047-003",
+            "076-047-041"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 223.693750000092,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 223.7,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "076-047-004"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Mataderos",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1440",
+    "codigo_postal_argentino": "C1440ETE",
+    "comisaria": "42",
+    "comisaria_vecinal": "9A",
+    "comuna": "Comuna 9",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "76"
+  },
+  "debug": {
+    "address": "GUAMINI 2985",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.50139176078965,
+        -34.66972686086584
+      ],
+      "direccion": "",
+      "fondo": "25.98",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "047",
+      "parcela": "004",
+      "pdamatriz": "36159",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "076",
+      "smp": "076-047-004",
+      "smp_anterior": "076-047-003",
+      "smp_siguiente": "076-047-005",
+      "srid": 4326,
+      "superficie_cubierta": "263.00",
+      "superficie_total": "225.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2985,
+      "cod_calle": 7088
+    },
+    "usig_direccion_elegida": {
+      "altura": 2985,
+      "cod_calle": 7088,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.501254",
+        "y": "-34.669614"
+      },
+      "direccion": "GUAMINI 2985, CABA",
+      "nombre_calle": "GUAMINI",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2985,
+          "cod_calle": 7088,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.501254",
+            "y": "-34.669614"
+          },
+          "direccion": "GUAMINI 2985, CABA",
+          "nombre_calle": "GUAMINI",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96501.26599235254,
+                  95509.83504922391
+                ],
+                [
+                  96501.62399235251,
+                  95510.19504922218
+                ],
+                [
+                  96501.86299235234,
+                  95510.43604921966
+                ],
+                [
+                  96502.92099234997,
+                  95511.49904921582
+                ],
+                [
+                  96507.3079923414,
+                  95515.91104920142
+                ],
+                [
+                  96510.12699233489,
+                  95518.74604919134
+                ],
+                [
+                  96510.6959923339,
+                  95519.31804918933
+                ],
+                [
+                  96514.73199232557,
+                  95523.3770491748
+                ],
+                [
+                  96520.70399230381,
+                  95517.38504918637
+                ],
+                [
+                  96517.69399231064,
+                  95514.26304919808
+                ],
+                [
+                  96514.57999231727,
+                  95511.03404920892
+                ],
+                [
+                  96511.38499232358,
+                  95507.72004922129
+                ],
+                [
+                  96508.51899232899,
+                  95504.74804923151
+                ],
+                [
+                  96506.1619923335,
+                  95502.30404923967
+                ],
+                [
+                  96502.74599234006,
+                  95498.76104925295
+                ],
+                [
+                  96500.56499234875,
+                  95500.98104924778
+                ],
+                [
+                  96499.158992354,
+                  95502.41304924522
+                ],
+                [
+                  96496.53799236316,
+                  95505.08004924016
+                ],
+                [
+                  96498.82799235833,
+                  95507.38304923227
+                ],
+                [
+                  96501.26599235254,
+                  95509.83504922391
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "076-047-004",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "GUAMINI 2985",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.50139176078965,
+      -34.66972686086584
+    ],
+    "direccion": "",
+    "fondo": "25.98",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "047",
+    "parcela": "004",
+    "pdamatriz": "36159",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "076",
+    "smp": "076-047-004",
+    "smp_anterior": "076-047-003",
+    "smp_siguiente": "076-047-005",
+    "srid": 4326,
+    "superficie_cubierta": "263.00",
+    "superficie_total": "225.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "076-047-004",
+  "_http_status": 200
+}

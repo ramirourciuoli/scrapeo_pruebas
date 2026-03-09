@@ -1,0 +1,390 @@
+{
+  "area_m2": 208.5398998260498,
+  "centroide_lonlat": {
+    "lat": -34.670787,
+    "lon": -58.504737
+  },
+  "centroide_xy": {
+    "x": 96202.0861981057,
+    "y": 95393.40188841264
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/8/00/076-010-023_0000034800.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION076/076-010-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION076/PI-076-010-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "076-010-024",
+            "076-010-022",
+            "076-010-026",
+            "076-010-025"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 208.490399999975,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 208.5,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "076-010-023"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Mataderos",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1440",
+    "codigo_postal_argentino": "C1440BHS",
+    "comisaria": "42",
+    "comisaria_vecinal": "9A",
+    "comuna": "Comuna 9",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "76"
+  },
+  "debug": {
+    "address": "JUSTO ANTONIO SUAREZ 7419",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.50473654644011,
+        -34.670786522911136
+      ],
+      "direccion": "",
+      "fondo": "23.67",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "010",
+      "parcela": "023",
+      "pdamatriz": "37524",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "076",
+      "smp": "076-010-023",
+      "smp_anterior": "076-010-022",
+      "smp_siguiente": "076-010-024",
+      "srid": 4326,
+      "superficie_cubierta": "219.00",
+      "superficie_total": "205.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 7419,
+      "cod_calle": 2081
+    },
+    "usig_direccion_elegida": {
+      "altura": 7419,
+      "cod_calle": 2081,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.504614",
+        "y": "-34.670887"
+      },
+      "direccion": "SUAREZ, JUSTO ANTONIO 7419, CABA",
+      "nombre_calle": "SUAREZ, JUSTO ANTONIO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 7419,
+          "cod_calle": 2081,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.504614",
+            "y": "-34.670887"
+          },
+          "direccion": "SUAREZ, JUSTO ANTONIO 7419, CABA",
+          "nombre_calle": "SUAREZ, JUSTO ANTONIO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96212.27199307365,
+                  95390.11504977586
+                ],
+                [
+                  96213.78799306645,
+                  95388.69704977883
+                ],
+                [
+                  96213.4339930697,
+                  95388.3430497791
+                ],
+                [
+                  96212.58399306997,
+                  95387.49504978233
+                ],
+                [
+                  96207.33299308081,
+                  95382.25204980225
+                ],
+                [
+                  96205.6329930883,
+                  95383.87804979717
+                ],
+                [
+                  96205.34499308778,
+                  95384.1540497978
+                ],
+                [
+                  96204.621993092,
+                  95384.84504979619
+                ],
+                [
+                  96204.32499309198,
+                  95385.129049796
+                ],
+                [
+                  96202.3239930987,
+                  95387.04304979139
+                ],
+                [
+                  96200.15599310763,
+                  95389.11704978754
+                ],
+                [
+                  96198.32799311267,
+                  95390.86604978473
+                ],
+                [
+                  96196.90499311898,
+                  95392.22704978284
+                ],
+                [
+                  96196.4709931202,
+                  95392.64204977987
+                ],
+                [
+                  96196.1419931214,
+                  95392.95704978103
+                ],
+                [
+                  96194.12699312803,
+                  95394.88504977769
+                ],
+                [
+                  96193.69299312955,
+                  95395.29904977436
+                ],
+                [
+                  96192.06199313523,
+                  95396.85904977302
+                ],
+                [
+                  96190.32799314156,
+                  95398.51804976999
+                ],
+                [
+                  96193.45799313419,
+                  95401.68404975832
+                ],
+                [
+                  96196.21899312902,
+                  95404.4780497471
+                ],
+                [
+                  96197.9249931236,
+                  95402.96004975135
+                ],
+                [
+                  96202.0779931093,
+                  95399.26404975928
+                ],
+                [
+                  96202.78199310649,
+                  95398.63804975968
+                ],
+                [
+                  96202.96199310648,
+                  95398.82504976013
+                ],
+                [
+                  96204.65099309935,
+                  95397.24504976172
+                ],
+                [
+                  96205.41999309804,
+                  95396.52504976338
+                ],
+                [
+                  96206.00199309549,
+                  95395.98104976342
+                ],
+                [
+                  96210.88799307817,
+                  95391.4100497734
+                ],
+                [
+                  96211.92599307481,
+                  95390.43904977516
+                ],
+                [
+                  96212.19299307404,
+                  95390.19004977668
+                ],
+                [
+                  96212.27199307365,
+                  95390.11504977586
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "076-010-023",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "JUSTO ANTONIO SUAREZ 7419",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.50473654644011,
+      -34.670786522911136
+    ],
+    "direccion": "",
+    "fondo": "23.67",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "010",
+    "parcela": "023",
+    "pdamatriz": "37524",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "076",
+    "smp": "076-010-023",
+    "smp_anterior": "076-010-022",
+    "smp_siguiente": "076-010-024",
+    "srid": 4326,
+    "superficie_cubierta": "219.00",
+    "superficie_total": "205.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "076-010-023",
+  "_http_status": 200
+}

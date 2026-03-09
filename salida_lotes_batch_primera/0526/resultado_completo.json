@@ -1,0 +1,367 @@
+{
+  "area_m2": 167.36035823822021,
+  "centroide_lonlat": {
+    "lat": -34.664314,
+    "lon": -58.510691
+  },
+  "centroide_xy": {
+    "x": 95655.94502524108,
+    "y": 96111.19357881737
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.0,
+          "fot_perim_libre": 3.0,
+          "fot_semi_libre": 3.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/9/41/076-039-011_0000035941.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION076/076-039-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION076/PI-076-039-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "076-039-012",
+            "076-039-010"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "E3",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 167.319299999989,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 167.4,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "076-039-011"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Mataderos",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1440",
+    "codigo_postal_argentino": "C1440EYT",
+    "comisaria": "42",
+    "comisaria_vecinal": "9A",
+    "comuna": "Comuna 9",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "76"
+  },
+  "debug": {
+    "address": "JOSE LEON SUAREZ 2410",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.51069145074991,
+        -34.664314092273536
+      ],
+      "direccion": "",
+      "fondo": "8.82",
+      "frente": "18.35",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "039",
+      "parcela": "011",
+      "pdamatriz": "36387",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "076",
+      "smp": "076-039-011",
+      "smp_anterior": "076-039-010",
+      "smp_siguiente": "076-039-012",
+      "srid": 4326,
+      "superficie_cubierta": "427.00",
+      "superficie_total": "162.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2410,
+      "cod_calle": 20119
+    },
+    "usig_direccion_elegida": {
+      "altura": 2410,
+      "cod_calle": 20119,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.510756",
+        "y": "-34.664364"
+      },
+      "direccion": "SUAREZ, JOSE LEON 2410, CABA",
+      "nombre_calle": "SUAREZ, JOSE LEON",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2410,
+          "cod_calle": 20119,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.510756",
+            "y": "-34.664364"
+          },
+          "direccion": "SUAREZ, JOSE LEON 2410, CABA",
+          "nombre_calle": "SUAREZ, JOSE LEON",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2410,
+          "cod_calle": 19113,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4223565346939,
+            "y": -34.7189342938775
+          },
+          "direccion": "José León Suárez 2410, Lanús",
+          "nombre_calle": "José León Suárez",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Remedios de Escalada",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2410,
+          "cod_calle": 146761,
+          "cod_calle_cruce": null,
+          "cod_partido": "malvinas_argentinas",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.712571218203,
+            "y": -34.509651934014
+          },
+          "direccion": "José León Suárez 2410, Malvinas Argentinas",
+          "nombre_calle": "José León Suárez",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Los Polvorines",
+          "nombre_partido": "Malvinas Argentinas",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2410,
+          "cod_calle": 179990,
+          "cod_calle_cruce": null,
+          "cod_partido": "tigre",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6866953163265,
+            "y": -34.4033998142857
+          },
+          "direccion": "José León Suárez 2410, Tigre",
+          "nombre_calle": "José León Suárez",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Benavídez",
+          "nombre_partido": "Tigre",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  95648.80999520305,
+                  96120.93704815046
+                ],
+                [
+                  95650.04299520115,
+                  96122.18304814637
+                ],
+                [
+                  95651.63399519565,
+                  96120.60204814986
+                ],
+                [
+                  95653.7839951878,
+                  96118.46704815351
+                ],
+                [
+                  95656.91199517658,
+                  96115.36104815893
+                ],
+                [
+                  95657.28199517538,
+                  96114.99404816199
+                ],
+                [
+                  95663.48599515318,
+                  96108.83304817331
+                ],
+                [
+                  95666.6019951422,
+                  96105.73804817969
+                ],
+                [
+                  95661.62199515282,
+                  96100.78704819604
+                ],
+                [
+                  95658.533995164,
+                  96103.57004819252
+                ],
+                [
+                  95647.54999520098,
+                  96113.47004817214
+                ],
+                [
+                  95647.35999520746,
+                  96119.47004815607
+                ],
+                [
+                  95648.249995205,
+                  96120.36904815314
+                ],
+                [
+                  95648.80999520305,
+                  96120.93704815046
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "076-039-011",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "JOSE LEON SUAREZ 2410",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.51069145074991,
+      -34.664314092273536
+    ],
+    "direccion": "",
+    "fondo": "8.82",
+    "frente": "18.35",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "039",
+    "parcela": "011",
+    "pdamatriz": "36387",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "076",
+    "smp": "076-039-011",
+    "smp_anterior": "076-039-010",
+    "smp_siguiente": "076-039-012",
+    "srid": 4326,
+    "superficie_cubierta": "427.00",
+    "superficie_total": "162.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "076-039-011",
+  "_http_status": 200
+}

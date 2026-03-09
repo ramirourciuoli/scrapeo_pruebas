@@ -1,0 +1,301 @@
+{
+  "area_m2": 173.28043842315674,
+  "centroide_lonlat": {
+    "lat": -34.587763,
+    "lon": -58.512779
+  },
+  "centroide_xy": {
+    "x": 95460.45018818225,
+    "y": 104603.40662973723
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/2/68/083-203B-001a_0000177268.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION083/083-203B-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION083/PI-083-203B-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "083-203B-002",
+            "083-203B-003",
+            "083-203B-001b"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "AE 26",
+          "incidencia_uva": 100.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 173.3,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "083-203B-001A"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. A. ZUBIZARRETA",
+    "barrio": "Villa Devoto",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1419",
+    "codigo_postal_argentino": "C1419AMH",
+    "comisaria": "47",
+    "comisaria_vecinal": "11B",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "83"
+  },
+  "debug": {
+    "address": "EPECUEN 5094",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.51277874123766,
+        -34.58776288671497
+      ],
+      "direccion": "",
+      "fondo": "13.27",
+      "frente": "13.26",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "203B",
+      "parcela": "001A",
+      "pdamatriz": "272893",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "083",
+      "smp": "083-203B-001A",
+      "smp_anterior": "083-203B-019",
+      "smp_siguiente": "083-203B-001B",
+      "srid": 4326,
+      "superficie_cubierta": "20.00",
+      "superficie_total": "176.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 5094,
+      "cod_calle": 5062
+    },
+    "usig_direccion_elegida": {
+      "altura": 5094,
+      "cod_calle": 5062,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.512684",
+        "y": "-34.587705"
+      },
+      "direccion": "EPECUEN 5094, CABA",
+      "nombre_calle": "EPECUEN",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 5094,
+          "cod_calle": 5062,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.512684",
+            "y": "-34.587705"
+          },
+          "direccion": "EPECUEN 5094, CABA",
+          "nombre_calle": "EPECUEN",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  95450.59200214426,
+                  104602.88502451326
+                ],
+                [
+                  95461.00000212074,
+                  104610.66002448398
+                ],
+                [
+                  95466.93000210318,
+                  104609.81002448135
+                ],
+                [
+                  95470.67800208944,
+                  104604.78102449345
+                ],
+                [
+                  95461.34000210986,
+                  104597.71202452021
+                ],
+                [
+                  95456.8910021198,
+                  104594.3440245323
+                ],
+                [
+                  95456.79100212053,
+                  104594.48002453288
+                ],
+                [
+                  95454.56400212913,
+                  104597.50002452562
+                ],
+                [
+                  95453.27500213418,
+                  104599.24802452131
+                ],
+                [
+                  95450.59200214426,
+                  104602.88502451326
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "083-203B-001A",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "EPECUEN 5094",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.51277874123766,
+      -34.58776288671497
+    ],
+    "direccion": "",
+    "fondo": "13.27",
+    "frente": "13.26",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "203B",
+    "parcela": "001A",
+    "pdamatriz": "272893",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "083",
+    "smp": "083-203B-001A",
+    "smp_anterior": "083-203B-019",
+    "smp_siguiente": "083-203B-001B",
+    "srid": 4326,
+    "superficie_cubierta": "20.00",
+    "superficie_total": "176.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "083-203B-001A",
+  "_http_status": 200
+}

@@ -1,0 +1,352 @@
+{
+  "area_m2": 210.64344692230225,
+  "centroide_lonlat": {
+    "lat": -34.60327,
+    "lon": -58.505113
+  },
+  "centroide_xy": {
+    "x": 96164.4805396947,
+    "y": 102883.48689426042
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/31/081-090-020_0000167531.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION081/081-090-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION081/PI-081-090-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "081-090-019",
+            "081-090-021a"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 150.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 210.645349999956,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 210.6,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "081-090-020"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. A. ZUBIZARRETA",
+    "barrio": "Villa Del Parque",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1417",
+    "codigo_postal_argentino": "C1417EYD",
+    "comisaria": "45",
+    "comisaria_vecinal": "11B",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "81"
+  },
+  "debug": {
+    "address": "JOSE PEDRO VARELA 3794",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.50511294759121,
+        -34.60326950943584
+      ],
+      "direccion": "",
+      "fondo": "29.08",
+      "frente": "7.22",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "090",
+      "parcela": "020",
+      "pdamatriz": "267707",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "2",
+      "propiedad_horizontal": "Si",
+      "seccion": "081",
+      "smp": "081-090-020",
+      "smp_anterior": "081-090-019",
+      "smp_siguiente": "081-090-021A",
+      "srid": 4326,
+      "superficie_cubierta": "292.00",
+      "superficie_total": "210.00",
+      "unidades_funcionales": "3",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3794,
+      "cod_calle": 23013
+    },
+    "usig_direccion_elegida": {
+      "altura": 3794,
+      "cod_calle": 23013,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.505177",
+        "y": "-34.603193"
+      },
+      "direccion": "VARELA, JOSE PEDRO 3794, CABA",
+      "nombre_calle": "VARELA, JOSE PEDRO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3794,
+          "cod_calle": 23013,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.505177",
+            "y": "-34.603193"
+          },
+          "direccion": "VARELA, JOSE PEDRO 3794, CABA",
+          "nombre_calle": "VARELA, JOSE PEDRO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96171.8249988265,
+                  102882.26402879629
+                ],
+                [
+                  96170.94699882797,
+                  102881.59502879812
+                ],
+                [
+                  96168.55199883375,
+                  102879.77102880503
+                ],
+                [
+                  96167.19599883712,
+                  102878.73802880911
+                ],
+                [
+                  96166.0309988397,
+                  102877.85102881238
+                ],
+                [
+                  96164.56199884243,
+                  102876.73202881665
+                ],
+                [
+                  96159.67299885386,
+                  102873.00702883117
+                ],
+                [
+                  96156.51499886518,
+                  102877.2810288218
+                ],
+                [
+                  96155.39999887017,
+                  102878.79002881798
+                ],
+                [
+                  96155.84699887066,
+                  102881.55502880955
+                ],
+                [
+                  96156.3749988716,
+                  102884.82402880036
+                ],
+                [
+                  96157.41299886895,
+                  102885.56002879704
+                ],
+                [
+                  96159.59999886388,
+                  102887.10902879163
+                ],
+                [
+                  96161.0039988608,
+                  102888.1040287879
+                ],
+                [
+                  96164.71199885293,
+                  102890.7320287773
+                ],
+                [
+                  96166.51399884897,
+                  102892.00902877213
+                ],
+                [
+                  96168.98099884266,
+                  102893.75702876598
+                ],
+                [
+                  96171.69999883254,
+                  102889.81102877454
+                ],
+                [
+                  96173.45299882529,
+                  102887.26602878046
+                ],
+                [
+                  96175.15299881884,
+                  102884.7990287859
+                ],
+                [
+                  96172.61899882453,
+                  102882.8690287935
+                ],
+                [
+                  96172.2219988255,
+                  102882.5670287945
+                ],
+                [
+                  96171.8249988265,
+                  102882.26402879629
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "081-090-020",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "JOSE PEDRO VARELA 3794",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.50511294759121,
+      -34.60326950943584
+    ],
+    "direccion": "",
+    "fondo": "29.08",
+    "frente": "7.22",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "090",
+    "parcela": "020",
+    "pdamatriz": "267707",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "2",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "081",
+    "smp": "081-090-020",
+    "smp_anterior": "081-090-019",
+    "smp_siguiente": "081-090-021A",
+    "srid": 4326,
+    "superficie_cubierta": "292.00",
+    "superficie_total": "210.00",
+    "unidades_funcionales": "3",
+    "vuc": "0.00"
+  },
+  "smp": "081-090-020",
+  "_http_status": 200
+}

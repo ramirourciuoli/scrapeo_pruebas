@@ -1,0 +1,383 @@
+{
+  "area_m2": 571.4611291885376,
+  "centroide_lonlat": {
+    "lat": -34.553753,
+    "lon": -58.444028
+  },
+  "centroide_xy": {
+    "x": 101768.92189420835,
+    "y": 108377.26640521752
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 0.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "U",
+            "distrito_especifico": "U 23"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 0.8,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/2/83/025-091-029_0000216283.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION025/025-091-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION025/PI-025-091-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "025-091-010",
+            "025-091-030",
+            "025-091-028",
+            "025-091-011",
+            "025-091-020a"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "U23",
+          "incidencia_uva": 580.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0.0,
+          "plusvalia_sl": 0.0
+        },
+        "rivolta": 0,
+        "subzona": "Zona 1",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 571.5,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "025-091-029"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Belgrano",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1428",
+    "codigo_postal_argentino": "C1428AVH",
+    "comisaria": "51",
+    "comisaria_vecinal": "13A",
+    "comuna": "Comuna 13",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   X",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "25"
+  },
+  "debug": {
+    "address": "CAZADORES 2158",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.44402751855642,
+        -34.553752813614956
+      ],
+      "direccion": "",
+      "fondo": "56.80",
+      "frente": "10.00",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "091",
+      "parcela": "029",
+      "pdamatriz": "376381",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "025",
+      "smp": "025-091-029",
+      "smp_anterior": "025-091-028",
+      "smp_siguiente": "025-091-030",
+      "srid": 4326,
+      "superficie_cubierta": "503.00",
+      "superficie_total": "568.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2158,
+      "cod_calle": 3262
+    },
+    "usig_direccion_elegida": {
+      "altura": 2158,
+      "cod_calle": 3262,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.443748",
+        "y": "-34.553590"
+      },
+      "direccion": "CAZADORES 2158, CABA",
+      "nombre_calle": "CAZADORES",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2158,
+          "cod_calle": 3262,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.443748",
+            "y": "-34.553590"
+          },
+          "direccion": "CAZADORES 2158, CABA",
+          "nombre_calle": "CAZADORES",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  101784.31498722744,
+                  108382.01500914656
+                ],
+                [
+                  101783.85998722831,
+                  108381.69200914886
+                ],
+                [
+                  101783.61598722839,
+                  108381.51900915112
+                ],
+                [
+                  101780.80298723534,
+                  108379.52400915869
+                ],
+                [
+                  101779.87898723647,
+                  108378.86800916077
+                ],
+                [
+                  101779.53798723755,
+                  108378.62600916225
+                ],
+                [
+                  101773.64398725123,
+                  108374.44500917703
+                ],
+                [
+                  101773.16598725232,
+                  108374.10600917824
+                ],
+                [
+                  101763.5039872732,
+                  108367.25200920439
+                ],
+                [
+                  101760.89598727999,
+                  108365.40200921296
+                ],
+                [
+                  101755.74598729156,
+                  108361.74900922625
+                ],
+                [
+                  101748.79398730723,
+                  108356.81800924451
+                ],
+                [
+                  101742.8589873306,
+                  108365.10800922642
+                ],
+                [
+                  101749.88698731421,
+                  108370.04400920763
+                ],
+                [
+                  101750.4129873124,
+                  108370.41300920601
+                ],
+                [
+                  101750.6639873123,
+                  108370.59000920513
+                ],
+                [
+                  101767.88098727267,
+                  108382.68200915772
+                ],
+                [
+                  101769.99598726863,
+                  108384.16800915106
+                ],
+                [
+                  101772.95298726117,
+                  108386.24500914503
+                ],
+                [
+                  101773.5169872603,
+                  108386.64100914265
+                ],
+                [
+                  101777.81298725081,
+                  108389.65800913179
+                ],
+                [
+                  101779.408987247,
+                  108390.77800912704
+                ],
+                [
+                  101780.35798724458,
+                  108391.4450091245
+                ],
+                [
+                  101784.95098723497,
+                  108394.67200911121
+                ],
+                [
+                  101789.3699872239,
+                  108397.77500910044
+                ],
+                [
+                  101795.07498720197,
+                  108389.64800911688
+                ],
+                [
+                  101790.99598721124,
+                  108386.75400912974
+                ],
+                [
+                  101787.61198722004,
+                  108384.35400914092
+                ],
+                [
+                  101787.36698721917,
+                  108384.18000913924
+                ],
+                [
+                  101784.31498722744,
+                  108382.01500914656
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "025-091-029",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CAZADORES 2158",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.44402751855642,
+      -34.553752813614956
+    ],
+    "direccion": "",
+    "fondo": "56.80",
+    "frente": "10.00",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "091",
+    "parcela": "029",
+    "pdamatriz": "376381",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "025",
+    "smp": "025-091-029",
+    "smp_anterior": "025-091-028",
+    "smp_siguiente": "025-091-030",
+    "srid": 4326,
+    "superficie_cubierta": "503.00",
+    "superficie_total": "568.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "025-091-029",
+  "_http_status": 200
+}

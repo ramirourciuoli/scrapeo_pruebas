@@ -1,0 +1,430 @@
+{
+  "area_m2": 239.71166038513184,
+  "centroide_lonlat": {
+    "lat": -34.622591,
+    "lon": -58.43447
+  },
+  "centroide_xy": {
+    "x": 102643.95072366727,
+    "y": 100740.50225515268
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 38.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 5.15,
+          "fot_perim_libre": 5.15,
+          "fot_semi_libre": 5.15
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/31/040-085-020_0000062631.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION040/040-085-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION040/PI-040-085-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "040-085-021b",
+            "040-085-024",
+            "040-085-018a",
+            "040-085-023"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2a II",
+          "incidencia_uva": 210.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 239.728750000249,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 239.7,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "040-085-020"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Caballito",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1424",
+    "codigo_postal_argentino": "C1424AAQ",
+    "comisaria": "10",
+    "comisaria_vecinal": "6B",
+    "comuna": "Comuna 6",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "40"
+  },
+  "debug": {
+    "address": "AV. JOSE MARIA MORENO 388",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.434470273719334,
+        -34.62259056924439
+      ],
+      "direccion": "",
+      "fondo": "27.48",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "085",
+      "parcela": "020",
+      "pdamatriz": "161425",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "4",
+      "propiedad_horizontal": "Si",
+      "seccion": "040",
+      "smp": "040-085-020",
+      "smp_anterior": "040-085-018A",
+      "smp_siguiente": "040-085-021B",
+      "srid": 4326,
+      "superficie_cubierta": "619.00",
+      "superficie_total": "238.00",
+      "unidades_funcionales": "8",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 388,
+      "cod_calle": 13128
+    },
+    "usig_direccion_elegida": {
+      "altura": 388,
+      "cod_calle": 13128,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.434662",
+        "y": "-34.622615"
+      },
+      "direccion": "MORENO, JOSE MARIA AV. 388, CABA",
+      "nombre_calle": "MORENO, JOSE MARIA AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 388,
+          "cod_calle": 13128,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.434662",
+            "y": "-34.622615"
+          },
+          "direccion": "MORENO, JOSE MARIA AV. 388, CABA",
+          "nombre_calle": "MORENO, JOSE MARIA AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 388,
+          "cod_calle": 88727,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.644329382653,
+            "y": -34.7687407979592
+          },
+          "direccion": "José María Moreno 388, La Matanza",
+          "nombre_calle": "José María Moreno",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "González Catán",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 388,
+          "cod_calle": 20019,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3970873714286,
+            "y": -34.7014703326531
+          },
+          "direccion": "José María Moreno 388, Lanús",
+          "nombre_calle": "José María Moreno",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lanús Oeste",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 388,
+          "cod_calle": 37352,
+          "cod_calle_cruce": null,
+          "cod_partido": "moron",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6007582408163,
+            "y": -34.6494364693878
+          },
+          "direccion": "José María Moreno 388, Morón",
+          "nombre_calle": "José María Moreno",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Haedo",
+          "nombre_partido": "Morón",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 388,
+          "cod_calle": 55451,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_isidro",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5494056488969,
+            "y": -34.5000140817541
+          },
+          "direccion": "José María Moreno 388, San Isidro",
+          "nombre_calle": "José María Moreno",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Boulogne Sur Mer",
+          "nombre_partido": "San Isidro",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102629.08197910826,
+                  100743.40602993403
+                ],
+                [
+                  102631.49497910136,
+                  100743.64302993123
+                ],
+                [
+                  102637.02097908588,
+                  100744.18702992535
+                ],
+                [
+                  102640.60997907672,
+                  100744.5400299218
+                ],
+                [
+                  102642.64397907116,
+                  100744.74002991983
+                ],
+                [
+                  102645.31297906363,
+                  100745.00302991652
+                ],
+                [
+                  102648.4169790554,
+                  100745.30802991393
+                ],
+                [
+                  102653.58497904093,
+                  100745.81702990821
+                ],
+                [
+                  102656.57097903325,
+                  100746.11102990489
+                ],
+                [
+                  102657.22477902874,
+                  100743.1762299127
+                ],
+                [
+                  102657.87597902489,
+                  100740.25302992036
+                ],
+                [
+                  102657.98597902364,
+                  100739.7600299218
+                ],
+                [
+                  102658.53497902081,
+                  100737.29602992866
+                ],
+                [
+                  102654.69797903106,
+                  100736.99302993208
+                ],
+                [
+                  102650.25997904314,
+                  100736.64202993663
+                ],
+                [
+                  102646.03097905539,
+                  100736.3080299409
+                ],
+                [
+                  102643.1439790632,
+                  100736.08002994364
+                ],
+                [
+                  102640.81197906921,
+                  100735.89602994555
+                ],
+                [
+                  102640.13297907152,
+                  100735.84202994668
+                ],
+                [
+                  102636.21597908194,
+                  100735.53202994997
+                ],
+                [
+                  102631.0989790964,
+                  100735.12802995488
+                ],
+                [
+                  102630.92997909666,
+                  100735.80902995387
+                ],
+                [
+                  102629.18197910716,
+                  100742.84102993511
+                ],
+                [
+                  102629.07397910781,
+                  100743.27702993379
+                ],
+                [
+                  102629.08197910826,
+                  100743.40602993403
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "040-085-020",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AV. JOSE MARIA MORENO 388",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.434470273719334,
+      -34.62259056924439
+    ],
+    "direccion": "",
+    "fondo": "27.48",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "085",
+    "parcela": "020",
+    "pdamatriz": "161425",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "4",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "040",
+    "smp": "040-085-020",
+    "smp_anterior": "040-085-018A",
+    "smp_siguiente": "040-085-021B",
+    "srid": 4326,
+    "superficie_cubierta": "619.00",
+    "superficie_total": "238.00",
+    "unidades_funcionales": "8",
+    "vuc": "0.00"
+  },
+  "smp": "040-085-020",
+  "_http_status": 200
+}

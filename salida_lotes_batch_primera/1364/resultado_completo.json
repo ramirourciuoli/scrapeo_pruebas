@@ -1,0 +1,346 @@
+{
+  "area_m2": 68.48910713195801,
+  "centroide_lonlat": {
+    "lat": -34.643049,
+    "lon": -58.446571
+  },
+  "centroide_xy": {
+    "x": 101533.81097280448,
+    "y": 98471.21057904122
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/9/89/044-055-036a_0000055989.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION044/044-055-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION044/PI-044-055-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "044-055-036b",
+            "044-055-002",
+            "044-055-035"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 68.4812499999964,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 68.5,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "044-055-036A"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. P. PIÑERO",
+    "barrio": "Flores",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1406",
+    "codigo_postal_argentino": "C1406IFQ",
+    "comisaria": "38",
+    "comisaria_vecinal": "7A",
+    "comuna": "Comuna 7",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "44"
+  },
+  "debug": {
+    "address": "SARAZA 2235",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.446571172246294,
+        -34.64304862605022
+      ],
+      "direccion": "",
+      "fondo": "7.85",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "055",
+      "parcela": "036A",
+      "pdamatriz": "78689",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "044",
+      "smp": "044-055-036A",
+      "smp_anterior": "044-055-035",
+      "smp_siguiente": "044-055-036B",
+      "srid": 4326,
+      "superficie_cubierta": "96.00",
+      "superficie_total": "68.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2235,
+      "cod_calle": 20073
+    },
+    "usig_direccion_elegida": {
+      "altura": 2235,
+      "cod_calle": 20073,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.446500",
+        "y": "-34.643104"
+      },
+      "direccion": "SARAZA 2235, CABA",
+      "nombre_calle": "SARAZA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2235,
+          "cod_calle": 20073,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.446500",
+            "y": "-34.643104"
+          },
+          "direccion": "SARAZA 2235, CABA",
+          "nombre_calle": "SARAZA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2235,
+          "cod_calle": 214499,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5704583388502,
+            "y": -34.7485793483481
+          },
+          "direccion": "Saturnino Saraza 2235, La Matanza",
+          "nombre_calle": "Saturnino Saraza",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Gregorio de Laferrere",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  101538.33798045595,
+                  98470.00503713
+                ],
+                [
+                  101537.60398045725,
+                  98469.19803713277
+                ],
+                [
+                  101534.09698046398,
+                  98465.34603714623
+                ],
+                [
+                  101532.59598046904,
+                  98466.74303714337
+                ],
+                [
+                  101531.13698047434,
+                  98468.10103714062
+                ],
+                [
+                  101527.97198048541,
+                  98471.04603713503
+                ],
+                [
+                  101530.63998047973,
+                  98473.95703712519
+                ],
+                [
+                  101531.91398047745,
+                  98475.34803712013
+                ],
+                [
+                  101533.2079804746,
+                  98476.75903711462
+                ],
+                [
+                  101533.44398047467,
+                  98477.0170371141
+                ],
+                [
+                  101535.20898046817,
+                  98475.45203711672
+                ],
+                [
+                  101535.77798046633,
+                  98474.94703711782
+                ],
+                [
+                  101536.64298046357,
+                  98474.1810371195
+                ],
+                [
+                  101537.98998045894,
+                  98472.98603712156
+                ],
+                [
+                  101538.78598045628,
+                  98472.2800371236
+                ],
+                [
+                  101539.6839804532,
+                  98471.4840371251
+                ],
+                [
+                  101538.33798045595,
+                  98470.00503713
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "044-055-036A",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "SARAZA 2235",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.446571172246294,
+      -34.64304862605022
+    ],
+    "direccion": "",
+    "fondo": "7.85",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "055",
+    "parcela": "036A",
+    "pdamatriz": "78689",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "044",
+    "smp": "044-055-036A",
+    "smp_anterior": "044-055-035",
+    "smp_siguiente": "044-055-036B",
+    "srid": 4326,
+    "superficie_cubierta": "96.00",
+    "superficie_total": "68.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "044-055-036A",
+  "_http_status": 200
+}

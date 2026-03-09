@@ -1,0 +1,412 @@
+{
+  "area_m2": 298.20018577575684,
+  "centroide_lonlat": {
+    "lat": -34.637675,
+    "lon": -58.467084
+  },
+  "centroide_xy": {
+    "x": 99653.00559648276,
+    "y": 99067.46725450407
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/21/048-032-031_0000069621.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION048/048-032-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION048/PI-048-032-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "048-032-030",
+            "048-032-032",
+            "048-032-037",
+            "048-032-036"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 1,
+        "subzona": "",
+        "sup_edificable_planta": 298.271799999902,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 298.2,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "048-032-031"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. P. PIÑERO",
+    "barrio": "Flores",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1406",
+    "codigo_postal_argentino": "C1406HCG",
+    "comisaria": "38",
+    "comisaria_vecinal": "7A",
+    "comuna": "Comuna 7",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "48"
+  },
+  "debug": {
+    "address": "REMEDIOS 2925",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.467084325430775,
+        -34.637674956214084
+      ],
+      "direccion": "",
+      "fondo": "33.72",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "032",
+      "parcela": "031",
+      "pdamatriz": "145405",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "048",
+      "smp": "048-032-031",
+      "smp_anterior": "048-032-030",
+      "smp_siguiente": "048-032-032",
+      "srid": 4326,
+      "superficie_cubierta": "243.00",
+      "superficie_total": "292.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2925,
+      "cod_calle": 19020
+    },
+    "usig_direccion_elegida": {
+      "altura": 2925,
+      "cod_calle": 19020,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.467014",
+        "y": "-34.637859"
+      },
+      "direccion": "REMEDIOS 2925, CABA",
+      "nombre_calle": "REMEDIOS",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2925,
+          "cod_calle": 19020,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.467014",
+            "y": "-34.637859"
+          },
+          "direccion": "REMEDIOS 2925, CABA",
+          "nombre_calle": "REMEDIOS",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2925,
+          "cod_calle": 5069,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.478575",
+            "y": "-34.615561"
+          },
+          "direccion": "ESCALADA DE SAN MARTIN, R. 2925, CABA",
+          "nombre_calle": "ESCALADA DE SAN MARTIN, R.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2925,
+          "cod_calle": 21835,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4105072833333,
+            "y": -34.67376755
+          },
+          "direccion": "Avenida Remedios de Escalada de San Martín 2925, Lanús",
+          "nombre_calle": "Avenida Remedios de Escalada de San Martín",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Valentín Alsina",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99662.7659861538,
+                  99052.77903690762
+                ],
+                [
+                  99660.17798616091,
+                  99051.9650369116
+                ],
+                [
+                  99658.74598616456,
+                  99051.51503691374
+                ],
+                [
+                  99654.46598617529,
+                  99050.17003692102
+                ],
+                [
+                  99654.2809861766,
+                  99050.68803691989
+                ],
+                [
+                  99654.01298617774,
+                  99051.44103691747
+                ],
+                [
+                  99650.94298619256,
+                  99060.05503689568
+                ],
+                [
+                  99650.17798619665,
+                  99062.20103689091
+                ],
+                [
+                  99650.0289861972,
+                  99062.6190368894
+                ],
+                [
+                  99648.54398620414,
+                  99066.78603687923
+                ],
+                [
+                  99644.66998622337,
+                  99077.65703685107
+                ],
+                [
+                  99644.49198622393,
+                  99078.1560368505
+                ],
+                [
+                  99643.20498623073,
+                  99081.76603684077
+                ],
+                [
+                  99649.53198621424,
+                  99084.01503682951
+                ],
+                [
+                  99651.68498620868,
+                  99084.78103682652
+                ],
+                [
+                  99652.92298620337,
+                  99081.20503683528
+                ],
+                [
+                  99654.55298619514,
+                  99076.49803684681
+                ],
+                [
+                  99654.97098619267,
+                  99075.29203685065
+                ],
+                [
+                  99655.18598619147,
+                  99074.67103685191
+                ],
+                [
+                  99655.85798618836,
+                  99072.72803685692
+                ],
+                [
+                  99656.86598618374,
+                  99069.81703686394
+                ],
+                [
+                  99656.92698618314,
+                  99069.64203686462
+                ],
+                [
+                  99659.21998617136,
+                  99063.020036881
+                ],
+                [
+                  99659.74798616866,
+                  99061.49503688546
+                ],
+                [
+                  99660.2669861664,
+                  99059.99503688928
+                ],
+                [
+                  99660.78398616382,
+                  99058.50203689325
+                ],
+                [
+                  99661.63898615999,
+                  99056.03503689938
+                ],
+                [
+                  99662.06398615771,
+                  99054.8070369024
+                ],
+                [
+                  99662.7659861538,
+                  99052.77903690762
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "048-032-031",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "REMEDIOS 2925",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.467084325430775,
+      -34.637674956214084
+    ],
+    "direccion": "",
+    "fondo": "33.72",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "032",
+    "parcela": "031",
+    "pdamatriz": "145405",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "048",
+    "smp": "048-032-031",
+    "smp_anterior": "048-032-030",
+    "smp_siguiente": "048-032-032",
+    "srid": 4326,
+    "superficie_cubierta": "243.00",
+    "superficie_total": "292.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "048-032-031",
+  "_http_status": 200
+}

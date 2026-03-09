@@ -1,0 +1,320 @@
+{
+  "area_m2": 112.92052173614502,
+  "centroide_lonlat": {
+    "lat": -34.604476,
+    "lon": -58.477711
+  },
+  "centroide_xy": {
+    "x": 98678.08243549052,
+    "y": 102750.38762076775
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/4/06/069-077-023b_0000106406.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION069/069-077-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION069/PI-069-077-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "069-077-024",
+            "069-077-023a"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 110.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 112.933899999982,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 112.9,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "069-077-023B"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. T. ÁLVAREZ",
+    "barrio": "Villa Del Parque",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1416",
+    "codigo_postal_argentino": "C1416AJY",
+    "comisaria": "41",
+    "comisaria_vecinal": "11A",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "69"
+  },
+  "debug": {
+    "address": "ALFREDO R. BUFANO 2495",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.47771109869526,
+        -34.60447560214704
+      ],
+      "direccion": "",
+      "fondo": "14.87",
+      "frente": "7.60",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "077",
+      "parcela": "023B",
+      "pdamatriz": "300913",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "069",
+      "smp": "069-077-023B",
+      "smp_anterior": "069-077-023A",
+      "smp_siguiente": "069-077-024",
+      "srid": 4326,
+      "superficie_cubierta": "158.00",
+      "superficie_total": "113.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2495,
+      "cod_calle": 2120
+    },
+    "usig_direccion_elegida": {
+      "altura": 2495,
+      "cod_calle": 2120,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.477792",
+        "y": "-34.604518"
+      },
+      "direccion": "BUFANO, ALFREDO R. 2495, CABA",
+      "nombre_calle": "BUFANO, ALFREDO R.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2495,
+          "cod_calle": 2120,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.477792",
+            "y": "-34.604518"
+          },
+          "direccion": "BUFANO, ALFREDO R. 2495, CABA",
+          "nombre_calle": "BUFANO, ALFREDO R.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98674.19699171247,
+                  102755.3900272674
+                ],
+                [
+                  98676.51199170825,
+                  102756.92702726161
+                ],
+                [
+                  98678.67299170342,
+                  102758.36202725666
+                ],
+                [
+                  98680.73699169408,
+                  102755.19302726342
+                ],
+                [
+                  98681.39599169137,
+                  102754.18202726601
+                ],
+                [
+                  98682.68999168789,
+                  102752.19502727038
+                ],
+                [
+                  98685.14599167733,
+                  102748.42502727851
+                ],
+                [
+                  98682.69199168302,
+                  102746.78502728618
+                ],
+                [
+                  98681.7599916849,
+                  102746.16202728738
+                ],
+                [
+                  98679.44899169012,
+                  102744.61802729577
+                ],
+                [
+                  98676.53899169649,
+                  102742.67302730415
+                ],
+                [
+                  98674.93799170363,
+                  102745.21202729654
+                ],
+                [
+                  98672.40999171419,
+                  102749.22002728519
+                ],
+                [
+                  98673.78999171368,
+                  102755.12002726932
+                ],
+                [
+                  98674.19699171247,
+                  102755.3900272674
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "069-077-023B",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ALFREDO R. BUFANO 2495",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.47771109869526,
+      -34.60447560214704
+    ],
+    "direccion": "",
+    "fondo": "14.87",
+    "frente": "7.60",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "077",
+    "parcela": "023B",
+    "pdamatriz": "300913",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "069",
+    "smp": "069-077-023B",
+    "smp_anterior": "069-077-023A",
+    "smp_siguiente": "069-077-024",
+    "srid": 4326,
+    "superficie_cubierta": "158.00",
+    "superficie_total": "113.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "069-077-023B",
+  "_http_status": 200
+}

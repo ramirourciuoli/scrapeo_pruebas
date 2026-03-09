@@ -1,0 +1,349 @@
+{
+  "area_m2": 280.4588203430176,
+  "centroide_lonlat": {
+    "lat": -34.646233,
+    "lon": -58.49713
+  },
+  "centroide_xy": {
+    "x": 96898.34673921377,
+    "y": 98117.51927647341
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "R-CCA",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": -1.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/9/89/060-078-029_0000013989.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION060/060-078-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION060/PI-060-078-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "060-078-028",
+            "060-078-027d"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "C3 II",
+          "incidencia_uva": 60.0,
+          "plusvalia_em": 5452.74,
+          "plusvalia_pl": 2423.34,
+          "plusvalia_sl": 2423.34
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 280.479200000031,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 280.5,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "060-078-029"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Mataderos",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1440",
+    "codigo_postal_argentino": "C1440DNI",
+    "comisaria": "42",
+    "comisaria_vecinal": "9A",
+    "comuna": "Comuna 9",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "60"
+  },
+  "debug": {
+    "address": "BASUALDO 885",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.49713013192358,
+        -34.64623330877751
+      ],
+      "direccion": "",
+      "fondo": "60.98",
+      "frente": "4.51",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "078",
+      "parcela": "029",
+      "pdamatriz": "9572",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "060",
+      "smp": "060-078-029",
+      "smp_anterior": "060-078-028",
+      "smp_siguiente": "060-078-032",
+      "srid": 4326,
+      "superficie_cubierta": "638.00",
+      "superficie_total": "275.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 885,
+      "cod_calle": 2032
+    },
+    "usig_direccion_elegida": {
+      "altura": 885,
+      "cod_calle": 2032,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.497038",
+        "y": "-34.646189"
+      },
+      "direccion": "BASUALDO 885, CABA",
+      "nombre_calle": "BASUALDO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 885,
+          "cod_calle": 2032,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.497038",
+            "y": "-34.646189"
+          },
+          "direccion": "BASUALDO 885, CABA",
+          "nombre_calle": "BASUALDO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 885,
+          "cod_calle": 110734,
+          "cod_calle_cruce": null,
+          "cod_partido": "florencio_varela",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.2788665153061,
+            "y": -34.8195336418367
+          },
+          "direccion": "Intendente Ortiz Basualdo 885, Florencio Varela",
+          "nombre_calle": "Intendente Ortiz Basualdo",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Florencio Varela",
+          "nombre_partido": "Florencio Varela",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 885,
+          "cod_calle": 265950,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "direccion": "Basualdo 885, La Matanza",
+          "nombre_calle": "Basualdo",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Luzuriaga",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96884.33699324657,
+                  98123.57704160427
+                ],
+                [
+                  96891.5579932318,
+                  98130.96104157864
+                ],
+                [
+                  96897.83199320984,
+                  98124.87804159045
+                ],
+                [
+                  96900.59899320004,
+                  98122.19504159666
+                ],
+                [
+                  96908.23499317298,
+                  98114.79004161133
+                ],
+                [
+                  96910.0299931666,
+                  98113.05004161465
+                ],
+                [
+                  96910.24999316112,
+                  98106.96004163177
+                ],
+                [
+                  96907.15699316683,
+                  98103.50104164393
+                ],
+                [
+                  96904.00299317768,
+                  98106.27504163882
+                ],
+                [
+                  96901.7439931859,
+                  98108.26304163484
+                ],
+                [
+                  96899.57499319364,
+                  98110.17204163101
+                ],
+                [
+                  96890.93899322364,
+                  98117.7690416163
+                ],
+                [
+                  96889.74299322734,
+                  98118.8210416144
+                ],
+                [
+                  96888.77199323081,
+                  98119.67504161206
+                ],
+                [
+                  96884.33699324657,
+                  98123.57704160427
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "060-078-029",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "BASUALDO 885",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.49713013192358,
+      -34.64623330877751
+    ],
+    "direccion": "",
+    "fondo": "60.98",
+    "frente": "4.51",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "078",
+    "parcela": "029",
+    "pdamatriz": "9572",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "060",
+    "smp": "060-078-029",
+    "smp_anterior": "060-078-028",
+    "smp_siguiente": "060-078-032",
+    "srid": 4326,
+    "superficie_cubierta": "638.00",
+    "superficie_total": "275.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "060-078-029",
+  "_http_status": 200
+}

@@ -1,0 +1,370 @@
+{
+  "area_m2": 149.51821517944336,
+  "centroide_lonlat": {
+    "lat": -34.558598,
+    "lon": -58.483513
+  },
+  "centroide_xy": {
+    "x": 98144.89409883288,
+    "y": 107839.80068322642
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/4/21/053-128-017_0000244421.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION053/053-128-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION053/PI-053-128-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "053-128-018",
+            "053-128-021",
+            "053-128-016"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 260.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 149.528350000126,
+        "sup_max_edificable": 752.9,
+        "superficie_parcela": 149.5,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "053-128-017"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Saavedra",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1430",
+    "codigo_postal_argentino": "C1430DII",
+    "comisaria": "49",
+    "comisaria_vecinal": "12A",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "53"
+  },
+  "debug": {
+    "address": "PLAZA 3527",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.48351262602884,
+        -34.55859752361101
+      ],
+      "direccion": "",
+      "fondo": "17.32",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "128",
+      "parcela": "017",
+      "pdamatriz": "349548",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "053",
+      "smp": "053-128-017",
+      "smp_anterior": "053-128-016",
+      "smp_siguiente": "053-128-018",
+      "srid": 4326,
+      "superficie_cubierta": "139.00",
+      "superficie_total": "150.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3527,
+      "cod_calle": 17099
+    },
+    "usig_direccion_elegida": {
+      "altura": 3527,
+      "cod_calle": 17099,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.483630",
+        "y": "-34.558654"
+      },
+      "direccion": "PLAZA 3527, CABA",
+      "nombre_calle": "PLAZA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3527,
+          "cod_calle": 17099,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.483630",
+            "y": "-34.558654"
+          },
+          "direccion": "PLAZA 3527, CABA",
+          "nombre_calle": "PLAZA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3527,
+          "cod_calle": 206957,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6944027863454,
+            "y": -34.7371314337349
+          },
+          "direccion": "Victorino de La Plaza 3527, Merlo",
+          "nombre_calle": "Victorino de La Plaza",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Pontevedra",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3527,
+          "cod_calle": 9984,
+          "cod_calle_cruce": null,
+          "cod_partido": "tres_de_febrero",
+          "direccion": "231 - Teodoro Plaza 3527, Tres de Febrero",
+          "nombre_calle": "231 - Teodoro Plaza",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ciudadela",
+          "nombre_partido": "Tres de Febrero",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98135.40699705042,
+                  107839.17701341675
+                ],
+                [
+                  98138.78699704251,
+                  107841.21701340785
+                ],
+                [
+                  98140.19399703958,
+                  107842.06601340525
+                ],
+                [
+                  98143.79499703135,
+                  107844.23901339807
+                ],
+                [
+                  98143.96899702979,
+                  107844.3440133954
+                ],
+                [
+                  98147.1719970238,
+                  107846.27701338776
+                ],
+                [
+                  98147.86799702112,
+                  107846.69701338635
+                ],
+                [
+                  98150.16599701658,
+                  107848.08401338055
+                ],
+                [
+                  98150.81399701323,
+                  107846.96101338323
+                ],
+                [
+                  98152.12399700844,
+                  107844.69001338875
+                ],
+                [
+                  98151.75899700852,
+                  107844.47801338986
+                ],
+                [
+                  98151.91799700778,
+                  107844.21001338988
+                ],
+                [
+                  98152.83999700389,
+                  107842.65701339347
+                ],
+                [
+                  98154.28099699863,
+                  107840.23001340029
+                ],
+                [
+                  98148.02299701367,
+                  107836.52101341449
+                ],
+                [
+                  98146.4739970179,
+                  107835.60301341777
+                ],
+                [
+                  98146.21699701746,
+                  107835.45101341867
+                ],
+                [
+                  98144.54599702134,
+                  107834.46101342313
+                ],
+                [
+                  98139.7589970325,
+                  107831.62401343463
+                ],
+                [
+                  98135.40699705042,
+                  107839.17701341675
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "053-128-017",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "PLAZA 3527",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.48351262602884,
+      -34.55859752361101
+    ],
+    "direccion": "",
+    "fondo": "17.32",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "128",
+    "parcela": "017",
+    "pdamatriz": "349548",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "053",
+    "smp": "053-128-017",
+    "smp_anterior": "053-128-016",
+    "smp_siguiente": "053-128-018",
+    "srid": 4326,
+    "superficie_cubierta": "139.00",
+    "superficie_total": "150.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "053-128-017",
+  "_http_status": 200
+}

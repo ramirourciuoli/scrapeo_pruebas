@@ -1,0 +1,311 @@
+{
+  "area_m2": 114.76734828948975,
+  "centroide_lonlat": {
+    "lat": -34.657557,
+    "lon": -58.411193
+  },
+  "centroide_xy": {
+    "x": 104776.69553718885,
+    "y": 96860.63462660747
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 1,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 2.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/10/034-026B-014_0000321710.pdf",
+          "perimetro_manzana": "",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION034/PI-034-026B-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "034-026B-007",
+            "034-026B-013",
+            "034-026B-008",
+            "034-026B-015",
+            "034-026B-011"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "AE 26",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0.0,
+          "plusvalia_sl": 0.0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 114.8,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "034-026B-014"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.M. PENNA",
+    "barrio": "Nueva Pompeya",
+    "codigo_de_planeamiento_urbano": "I2",
+    "codigo_postal": null,
+    "codigo_postal_argentino": null,
+    "comisaria": "32",
+    "comisaria_vecinal": "4B",
+    "comuna": "Comuna 4",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   V",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "34"
+  },
+  "debug": {
+    "address": "LANCHEROS DEL PLATA 4485",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.41119288615981,
+        -34.65755660704379
+      ],
+      "direccion": "",
+      "fondo": "15.46",
+      "frente": "7.44",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "026B",
+      "parcela": "014",
+      "pdamatriz": "108850",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "034",
+      "smp": "034-026B-014",
+      "smp_anterior": "034-026B-013",
+      "smp_siguiente": "034-026B-015",
+      "srid": 4326,
+      "superficie_cubierta": "91.00",
+      "superficie_total": "115.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4485,
+      "cod_calle": 12045
+    },
+    "usig_direccion_elegida": {
+      "altura": 4485,
+      "cod_calle": 12045,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.411155",
+        "y": "-34.657631"
+      },
+      "direccion": "LANCHEROS DEL PLATA 4485, CABA",
+      "nombre_calle": "LANCHEROS DEL PLATA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4485,
+          "cod_calle": 12045,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.411155",
+            "y": "-34.657631"
+          },
+          "direccion": "LANCHEROS DEL PLATA 4485, CABA",
+          "nombre_calle": "LANCHEROS DEL PLATA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  104770.17897018461,
+                  96866.42203919517
+                ],
+                [
+                  104776.901970168,
+                  96869.30303918297
+                ],
+                [
+                  104778.36297016175,
+                  96865.92103919
+                ],
+                [
+                  104779.41197015683,
+                  96863.4940391957
+                ],
+                [
+                  104779.67297015636,
+                  96862.89003919755
+                ],
+                [
+                  104779.93897015441,
+                  96862.27403919742
+                ],
+                [
+                  104783.18097014002,
+                  96854.77203921723
+                ],
+                [
+                  104780.56397014644,
+                  96853.66403922258
+                ],
+                [
+                  104776.54897015607,
+                  96851.96503922905
+                ],
+                [
+                  104773.2869701706,
+                  96859.36903921058
+                ],
+                [
+                  104771.68497017834,
+                  96863.004039202
+                ],
+                [
+                  104770.17897018461,
+                  96866.42203919517
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "034-026B-014",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "LANCHEROS DEL PLATA 4485",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.41119288615981,
+      -34.65755660704379
+    ],
+    "direccion": "",
+    "fondo": "15.46",
+    "frente": "7.44",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "026B",
+    "parcela": "014",
+    "pdamatriz": "108850",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "034",
+    "smp": "034-026B-014",
+    "smp_anterior": "034-026B-013",
+    "smp_siguiente": "034-026B-015",
+    "srid": 4326,
+    "superficie_cubierta": "91.00",
+    "superficie_total": "115.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "034-026B-014",
+  "_http_status": 200
+}

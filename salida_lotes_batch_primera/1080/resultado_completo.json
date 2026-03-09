@@ -1,0 +1,451 @@
+{
+  "area_m2": 4085.9239444732666,
+  "centroide_lonlat": {
+    "lat": -34.648848,
+    "lon": -58.439496
+  },
+  "centroide_xy": {
+    "x": 102182.35655264414,
+    "y": 97827.76206756628
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 0.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "UBP",
+            "distrito_especifico": "UBP 31"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 0.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/10/044-002N-003_0000336610.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION044/044-002N-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION044/PI-044-002N-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "044-002N-002"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "U31 a",
+          "incidencia_uva": 0.0,
+          "plusvalia_em": 0.0,
+          "plusvalia_pl": 0.0,
+          "plusvalia_sl": 0.0
+        },
+        "rivolta": 0,
+        "subzona": "a",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 4085.9,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "044-002N-003"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. P. PIÑERO",
+    "barrio": "Flores",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": null,
+    "codigo_postal_argentino": null,
+    "comisaria": "34",
+    "comisaria_vecinal": "7A",
+    "comuna": "Comuna 7",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "44"
+  },
+  "debug": {
+    "address": "CHARRUA 2253",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.43949601071761,
+        -34.6488475912058
+      ],
+      "direccion": "",
+      "fondo": "57.77",
+      "frente": "63.16",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "002N",
+      "parcela": "003",
+      "pdamatriz": "98364",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "044",
+      "smp": "044-002N-003",
+      "smp_anterior": "044-002N-002",
+      "smp_siguiente": "044-002N-000",
+      "srid": 4326,
+      "superficie_cubierta": "7524.00",
+      "superficie_total": "3649.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2253,
+      "cod_calle": 3221
+    },
+    "usig_direccion_elegida": {
+      "altura": 2253,
+      "cod_calle": 3221,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.439188",
+        "y": "-34.648679"
+      },
+      "direccion": "CHARRUA 2253, CABA",
+      "nombre_calle": "CHARRUA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2253,
+          "cod_calle": 3221,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.439188",
+            "y": "-34.648679"
+          },
+          "direccion": "CHARRUA 2253, CABA",
+          "nombre_calle": "CHARRUA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102186.81210256924,
+                  97870.96753550551
+                ],
+                [
+                  102206.49079208696,
+                  97851.06807074093
+                ],
+                [
+                  102209.77277692695,
+                  97847.74926530838
+                ],
+                [
+                  102214.80627662205,
+                  97842.65929477013
+                ],
+                [
+                  102227.48451010535,
+                  97829.8388241618
+                ],
+                [
+                  102232.53810240507,
+                  97824.7285356007
+                ],
+                [
+                  102232.54510240164,
+                  97818.691535619
+                ],
+                [
+                  102225.5078071332,
+                  97811.5408154541
+                ],
+                [
+                  102201.27510246403,
+                  97786.91753573142
+                ],
+                [
+                  102198.99602142363,
+                  97789.15535371657
+                ],
+                [
+                  102191.33267060979,
+                  97796.67995856938
+                ],
+                [
+                  102197.08868980022,
+                  97802.70051785439
+                ],
+                [
+                  102194.45639891445,
+                  97805.2171473125
+                ],
+                [
+                  102198.53599316695,
+                  97809.48423507577
+                ],
+                [
+                  102201.16828405393,
+                  97806.96760561655
+                ],
+                [
+                  102203.83146687128,
+                  97809.7531852877
+                ],
+                [
+                  102201.15065590924,
+                  97812.3162028772
+                ],
+                [
+                  102205.62443049932,
+                  97816.99558705778
+                ],
+                [
+                  102208.30524146132,
+                  97814.43256946822
+                ],
+                [
+                  102217.13557198033,
+                  97823.66873193198
+                ],
+                [
+                  102211.91625636833,
+                  97828.65871366076
+                ],
+                [
+                  102187.56957750759,
+                  97803.19308913496
+                ],
+                [
+                  102190.23187035491,
+                  97800.58669269798
+                ],
+                [
+                  102188.83834578173,
+                  97799.12912332185
+                ],
+                [
+                  102186.17984771164,
+                  97801.73948893737
+                ],
+                [
+                  102178.58286124174,
+                  97809.19893098355
+                ],
+                [
+                  102156.77977090776,
+                  97830.607273536
+                ],
+                [
+                  102133.44018286299,
+                  97806.03243665595
+                ],
+                [
+                  102138.91063503323,
+                  97800.88134050855
+                ],
+                [
+                  102141.62243741917,
+                  97803.81541311389
+                ],
+                [
+                  102149.28607783267,
+                  97796.57707044095
+                ],
+                [
+                  102139.28143104758,
+                  97785.89981881346
+                ],
+                [
+                  102129.68825509821,
+                  97794.92786250412
+                ],
+                [
+                  102130.44685129437,
+                  97795.69378374855
+                ],
+                [
+                  102128.59685436715,
+                  97797.42898303826
+                ],
+                [
+                  102127.83825817288,
+                  97796.66306179287
+                ],
+                [
+                  102118.40415943983,
+                  97805.58210203203
+                ],
+                [
+                  102139.26996646653,
+                  97827.71098560392
+                ],
+                [
+                  102140.03588771101,
+                  97826.95238940959
+                ],
+                [
+                  102141.7514990145,
+                  97828.75939677094
+                ],
+                [
+                  102140.96454473169,
+                  97829.51114048567
+                ],
+                [
+                  102149.1593240516,
+                  97838.08975121178
+                ],
+                [
+                  102158.90227112704,
+                  97848.28904359441
+                ],
+                [
+                  102159.59609551083,
+                  97847.62626288529
+                ],
+                [
+                  102161.39368052705,
+                  97849.50804414006
+                ],
+                [
+                  102160.69491435667,
+                  97850.20590776586
+                ],
+                [
+                  102181.97640150889,
+                  97871.67412196586
+                ],
+                [
+                  102186.81210256924,
+                  97870.96753550551
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "044-002N-003",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CHARRUA 2253",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.43949601071761,
+      -34.6488475912058
+    ],
+    "direccion": "",
+    "fondo": "57.77",
+    "frente": "63.16",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "002N",
+    "parcela": "003",
+    "pdamatriz": "98364",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "044",
+    "smp": "044-002N-003",
+    "smp_anterior": "044-002N-002",
+    "smp_siguiente": "044-002N-000",
+    "srid": 4326,
+    "superficie_cubierta": "7524.00",
+    "superficie_total": "3649.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "044-002N-003",
+  "_http_status": 200
+}

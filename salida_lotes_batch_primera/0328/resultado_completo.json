@@ -1,0 +1,317 @@
+{
+  "area_m2": 85.09111499786377,
+  "centroide_lonlat": {
+    "lat": -34.63148,
+    "lon": -58.507862
+  },
+  "centroide_xy": {
+    "x": 95913.67524589089,
+    "y": 99753.86479547062
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/90/091-073-012a_0000205090.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION091/091-073-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION091/PI-091-073-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "091-073-013",
+            "091-073-011",
+            "091-073-012b"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 120.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 85.0677000000042,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 85.1,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "091-073-012A"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Villa Luro",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1407",
+    "codigo_postal_argentino": "C1407FNR",
+    "comisaria": "44",
+    "comisaria_vecinal": "10B",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "91"
+  },
+  "debug": {
+    "address": "CAMARONES 5492",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.50786217817589,
+        -34.63147957009955
+      ],
+      "direccion": "",
+      "fondo": "11.73",
+      "frente": "6.99",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "073",
+      "parcela": "012A",
+      "pdamatriz": "284855",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "091",
+      "smp": "091-073-012A",
+      "smp_anterior": "091-073-011",
+      "smp_siguiente": "091-073-012B",
+      "srid": 4326,
+      "superficie_cubierta": "85.00",
+      "superficie_total": "82.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 5492,
+      "cod_calle": 3034
+    },
+    "usig_direccion_elegida": {
+      "altura": 5492,
+      "cod_calle": 3034,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.507948",
+        "y": "-34.631414"
+      },
+      "direccion": "CAMARONES 5492, CABA",
+      "nombre_calle": "CAMARONES",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 5492,
+          "cod_calle": 3034,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.507948",
+            "y": "-34.631414"
+          },
+          "direccion": "CAMARONES 5492, CABA",
+          "nombre_calle": "CAMARONES",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  95906.86399721584,
+                  99755.39103776406
+                ],
+                [
+                  95911.68699720608,
+                  99760.57903774595
+                ],
+                [
+                  95913.86899719843,
+                  99758.52003774972
+                ],
+                [
+                  95918.52299718215,
+                  99754.13003775888
+                ],
+                [
+                  95919.10499718053,
+                  99753.58103776033
+                ],
+                [
+                  95920.49399717513,
+                  99752.27103776243
+                ],
+                [
+                  95916.3509971833,
+                  99747.89103777794
+                ],
+                [
+                  95915.67799718516,
+                  99747.17903778015
+                ],
+                [
+                  95913.73399719186,
+                  99748.99003777723
+                ],
+                [
+                  95912.61799719538,
+                  99750.03003777517
+                ],
+                [
+                  95910.43099720313,
+                  99752.06703777067
+                ],
+                [
+                  95909.09799720815,
+                  99753.31003776798
+                ],
+                [
+                  95908.9189972083,
+                  99753.477037768
+                ],
+                [
+                  95906.86399721584,
+                  99755.39103776406
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "091-073-012A",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CAMARONES 5492",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.50786217817589,
+      -34.63147957009955
+    ],
+    "direccion": "",
+    "fondo": "11.73",
+    "frente": "6.99",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "073",
+    "parcela": "012A",
+    "pdamatriz": "284855",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "091",
+    "smp": "091-073-012A",
+    "smp_anterior": "091-073-011",
+    "smp_siguiente": "091-073-012B",
+    "srid": 4326,
+    "superficie_cubierta": "85.00",
+    "superficie_total": "82.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "091-073-012A",
+  "_http_status": 200
+}

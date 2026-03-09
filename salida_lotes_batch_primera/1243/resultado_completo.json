@@ -1,0 +1,393 @@
+{
+  "area_m2": 626.8807144165039,
+  "centroide_lonlat": {
+    "lat": -34.641089,
+    "lon": -58.477546
+  },
+  "centroide_xy": {
+    "x": 98693.76148716586,
+    "y": 98688.64860276057
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/64/054-129-015_0000090064.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION054/054-129-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION054/PI-054-129-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "054-129-009",
+            "054-129-008",
+            "054-129-014",
+            "054-129-010",
+            "054-129-016"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 626.884349999696,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 626.9,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "054-129-015"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. P. PIÑERO",
+    "barrio": "Parque Avellaneda",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1407",
+    "codigo_postal_argentino": "C1407JVJ",
+    "comisaria": "40",
+    "comisaria_vecinal": "9C",
+    "comuna": "Comuna 9",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "54"
+  },
+  "debug": {
+    "address": "LAGUNA 730",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.477546431257615,
+        -34.64108891571113
+      ],
+      "direccion": "",
+      "fondo": "35.67",
+      "frente": "17.38",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "129",
+      "parcela": "015",
+      "pdamatriz": "23881",
+      "pisos_bajo_rasante": "1",
+      "pisos_sobre_rasante": "10",
+      "propiedad_horizontal": "Si",
+      "seccion": "054",
+      "smp": "054-129-015",
+      "smp_anterior": "054-129-014",
+      "smp_siguiente": "054-129-016",
+      "srid": 4326,
+      "superficie_cubierta": "4665.00",
+      "superficie_total": "620.00",
+      "unidades_funcionales": "54",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 730,
+      "cod_calle": 12031
+    },
+    "usig_direccion_elegida": {
+      "altura": 730,
+      "cod_calle": 12031,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.477708",
+        "y": "-34.641229"
+      },
+      "direccion": "LAGUNA 730, CABA",
+      "nombre_calle": "LAGUNA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 730,
+          "cod_calle": 12031,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.477708",
+            "y": "-34.641229"
+          },
+          "direccion": "LAGUNA 730, CABA",
+          "nombre_calle": "LAGUNA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 730,
+          "cod_calle": 153343,
+          "cod_calle_cruce": null,
+          "cod_partido": "general_rodriguez",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.8959171964408,
+            "y": -34.5975080500459
+          },
+          "direccion": "Laguna Capelen 730, General Rodríguez",
+          "nombre_calle": "Laguna Capelen",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "General Rodríguez",
+          "nombre_partido": "General Rodríguez",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 730,
+          "cod_calle": 189319,
+          "cod_calle_cruce": null,
+          "cod_partido": "ituzaingo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6630377714286,
+            "y": -34.6628432714286
+          },
+          "direccion": "General Laguna 730, Ituzaingó",
+          "nombre_calle": "General Laguna",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ituzaingó",
+          "nombre_partido": "Ituzaingó",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98678.50972640129,
+                  98685.37317314674
+                ],
+                [
+                  98681.26098863284,
+                  98688.19403866827
+                ],
+                [
+                  98682.80657919479,
+                  98689.7783906426
+                ],
+                [
+                  98686.88798862067,
+                  98693.96303864787
+                ],
+                [
+                  98687.2050362143,
+                  98694.28777478359
+                ],
+                [
+                  98688.62598861838,
+                  98695.74503864162
+                ],
+                [
+                  98694.65198860512,
+                  98701.92303862123
+                ],
+                [
+                  98696.7419886007,
+                  98704.06503861322
+                ],
+                [
+                  98700.69898859259,
+                  98708.12203859875
+                ],
+                [
+                  98712.05298855071,
+                  98695.05703862646
+                ],
+                [
+                  98707.39811090493,
+                  98690.2072222489
+                ],
+                [
+                  98705.19398856451,
+                  98687.91103865244
+                ],
+                [
+                  98702.9799885694,
+                  98685.60403866105
+                ],
+                [
+                  98699.7200470594,
+                  98682.20761353444
+                ],
+                [
+                  98695.3662934042,
+                  98677.67153173665
+                ],
+                [
+                  98691.13117059116,
+                  98673.25904884533
+                ],
+                [
+                  98690.32541529555,
+                  98672.41954982231
+                ],
+                [
+                  98690.14198859502,
+                  98672.22903870704
+                ],
+                [
+                  98689.21945106357,
+                  98671.26726960205
+                ],
+                [
+                  98687.64898860078,
+                  98669.6310387167
+                ],
+                [
+                  98674.96498864447,
+                  98681.73903869168
+                ],
+                [
+                  98676.58196323807,
+                  98683.39679266053
+                ],
+                [
+                  98677.69720900067,
+                  98684.54016442361
+                ],
+                [
+                  98678.50972640129,
+                  98685.37317314674
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "054-129-015",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "LAGUNA 730",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.477546431257615,
+      -34.64108891571113
+    ],
+    "direccion": "",
+    "fondo": "35.67",
+    "frente": "17.38",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "129",
+    "parcela": "015",
+    "pdamatriz": "23881",
+    "pisos_bajo_rasante": "1",
+    "pisos_sobre_rasante": "10",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "054",
+    "smp": "054-129-015",
+    "smp_anterior": "054-129-014",
+    "smp_siguiente": "054-129-016",
+    "srid": 4326,
+    "superficie_cubierta": "4665.00",
+    "superficie_total": "620.00",
+    "unidades_funcionales": "54",
+    "vuc": "0.00"
+  },
+  "smp": "054-129-015",
+  "_http_status": 200
+}

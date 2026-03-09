@@ -1,0 +1,346 @@
+{
+  "area_m2": 103.59432983398438,
+  "centroide_lonlat": {
+    "lat": -34.550628,
+    "lon": -58.470767
+  },
+  "centroide_xy": {
+    "x": 99314.61601079619,
+    "y": 108724.01603341926
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.47,
+          "fot_perim_libre": 3.47,
+          "fot_semi_libre": 3.47
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/8/01/041-140-008b_0000225801.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION041/041-140-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION041/PI-041-140-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "041-140-007",
+            "041-140-008a",
+            "041-140-008c"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2a II",
+          "incidencia_uva": 530.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 103.577550000027,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 103.6,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "041-140-008B"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Nuñez",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1429",
+    "codigo_postal_argentino": "C1429AFM",
+    "comisaria": "35",
+    "comisaria_vecinal": "13B",
+    "comuna": "Comuna 13",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   X",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "41"
+  },
+  "debug": {
+    "address": "MOLDES 3591",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.470767013219366,
+        -34.55062840308458
+      ],
+      "direccion": "",
+      "fondo": "12.10",
+      "frente": "8.35",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "140",
+      "parcela": "008B",
+      "pdamatriz": "368627",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "041",
+      "smp": "041-140-008B",
+      "smp_anterior": "041-140-008A",
+      "smp_siguiente": "041-140-008C",
+      "srid": 4326,
+      "superficie_cubierta": "97.00",
+      "superficie_total": "101.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3591,
+      "cod_calle": 13099
+    },
+    "usig_direccion_elegida": {
+      "altura": 3591,
+      "cod_calle": 13099,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.470845",
+        "y": "-34.550669"
+      },
+      "direccion": "MOLDES 3591, CABA",
+      "nombre_calle": "MOLDES",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3591,
+          "cod_calle": 13099,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.470845",
+            "y": "-34.550669"
+          },
+          "direccion": "MOLDES 3591, CABA",
+          "nombre_calle": "MOLDES",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3591,
+          "cod_calle": 142066,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5612097479592,
+            "y": -34.691062872449
+          },
+          "direccion": "Coronel Moldes 3591, La Matanza",
+          "nombre_calle": "Coronel Moldes",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Justo",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99307.27499443102,
+                  108724.22401005318
+                ],
+                [
+                  99308.10499442917,
+                  108724.78101005103
+                ],
+                [
+                  99311.35499442171,
+                  108726.96401004167
+                ],
+                [
+                  99311.77399442054,
+                  108727.24601004116
+                ],
+                [
+                  99313.7969944159,
+                  108728.605010036
+                ],
+                [
+                  99314.14199441487,
+                  108728.83701003497
+                ],
+                [
+                  99317.33799440794,
+                  108730.98301002622
+                ],
+                [
+                  99317.45599440727,
+                  108730.79801002707
+                ],
+                [
+                  99318.34539440348,
+                  108729.40521002983
+                ],
+                [
+                  99318.92999440087,
+                  108728.48901003212
+                ],
+                [
+                  99321.99699438938,
+                  108723.68301004337
+                ],
+                [
+                  99320.17499439302,
+                  108722.51701004786
+                ],
+                [
+                  99318.95099439636,
+                  108721.73301005099
+                ],
+                [
+                  99314.80099440567,
+                  108719.0760100619
+                ],
+                [
+                  99311.73899441285,
+                  108717.11501006957
+                ],
+                [
+                  99307.80699442852,
+                  108723.37701005509
+                ],
+                [
+                  99307.27499443102,
+                  108724.22401005318
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "041-140-008B",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MOLDES 3591",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.470767013219366,
+      -34.55062840308458
+    ],
+    "direccion": "",
+    "fondo": "12.10",
+    "frente": "8.35",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "140",
+    "parcela": "008B",
+    "pdamatriz": "368627",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "041",
+    "smp": "041-140-008B",
+    "smp_anterior": "041-140-008A",
+    "smp_siguiente": "041-140-008C",
+    "srid": 4326,
+    "superficie_cubierta": "97.00",
+    "superficie_total": "101.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "041-140-008B",
+  "_http_status": 200
+}

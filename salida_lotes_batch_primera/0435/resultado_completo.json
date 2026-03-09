@@ -1,0 +1,359 @@
+{
+  "area_m2": 248.67815113067627,
+  "centroide_lonlat": {
+    "lat": -34.582664,
+    "lon": -58.450209
+  },
+  "centroide_xy": {
+    "x": 101201.13779639537,
+    "y": 105170.05196012036
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/1/49/033-064-024_0000375149.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION033/033-064-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION033/PI-033-064-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "033-064-004",
+            "033-064-025",
+            "033-064-003",
+            "033-064-011b"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 400.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 155.484779372142,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 248.7,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "033-064-024"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. E. TORNÚ",
+    "barrio": "Chacarita",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1427",
+    "codigo_postal_argentino": "C1427EFC",
+    "comisaria": "29",
+    "comisaria_vecinal": "15A",
+    "comuna": "Comuna 15",
+    "distrito_economico": "DISTRITO AUDIOVISUAL",
+    "distrito_escolar": "Distrito Escolar   XIV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "33"
+  },
+  "debug": {
+    "address": "MAURE 3627",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.45020901775305,
+        -34.58266433240809
+      ],
+      "direccion": "",
+      "fondo": "28.33",
+      "frente": "9.00",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "064",
+      "parcela": "024",
+      "pdamatriz": "402119",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "033",
+      "smp": "033-064-024",
+      "smp_anterior": "033-064-023",
+      "smp_siguiente": "033-064-025",
+      "srid": 4326,
+      "superficie_cubierta": "279.00",
+      "superficie_total": "255.00",
+      "unidades_funcionales": "2",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3627,
+      "cod_calle": 13054
+    },
+    "usig_direccion_elegida": {
+      "altura": 3627,
+      "cod_calle": 13054,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.450023",
+        "y": "-34.582728"
+      },
+      "direccion": "MAURE 3627, CABA",
+      "nombre_calle": "MAURE",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3627,
+          "cod_calle": 13054,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.450023",
+            "y": "-34.582728"
+          },
+          "direccion": "MAURE 3627, CABA",
+          "nombre_calle": "MAURE",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3627,
+          "cod_calle": 57279,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.350410427551,
+            "y": -34.714981044898
+          },
+          "direccion": "Coronel Maure 3627, Lanús",
+          "nombre_calle": "Coronel Maure",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Monte Chingolo",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  101191.80298647021,
+                  105169.3050186033
+                ],
+                [
+                  101186.2749864876,
+                  105171.69801860087
+                ],
+                [
+                  101187.0419864867,
+                  105173.40801859545
+                ],
+                [
+                  101188.20098648539,
+                  105175.99101858796
+                ],
+                [
+                  101189.79598648334,
+                  105179.54801857675
+                ],
+                [
+                  101194.0059864702,
+                  105177.795018578
+                ],
+                [
+                  101197.76398645883,
+                  105176.22901857996
+                ],
+                [
+                  101197.97798645784,
+                  105176.14001857946
+                ],
+                [
+                  101200.90898644857,
+                  105174.91901858078
+                ],
+                [
+                  101209.89498642016,
+                  105171.17701858489
+                ],
+                [
+                  101211.2629864166,
+                  105170.60701858514
+                ],
+                [
+                  101215.78898640208,
+                  105168.72201858717
+                ],
+                [
+                  101212.31398640598,
+                  105160.42601861304
+                ],
+                [
+                  101209.97898641332,
+                  105161.43701861185
+                ],
+                [
+                  101206.33898642409,
+                  105163.01201861043
+                ],
+                [
+                  101204.24098643137,
+                  105163.92101860937
+                ],
+                [
+                  101203.6899864331,
+                  105164.15901860909
+                ],
+                [
+                  101200.05198644426,
+                  105165.7340186075
+                ],
+                [
+                  101199.29498644639,
+                  105166.06101860682
+                ],
+                [
+                  101191.80298647021,
+                  105169.3050186033
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "033-064-024",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MAURE 3627",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.45020901775305,
+      -34.58266433240809
+    ],
+    "direccion": "",
+    "fondo": "28.33",
+    "frente": "9.00",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "064",
+    "parcela": "024",
+    "pdamatriz": "402119",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "033",
+    "smp": "033-064-024",
+    "smp_anterior": "033-064-023",
+    "smp_siguiente": "033-064-025",
+    "srid": 4326,
+    "superficie_cubierta": "279.00",
+    "superficie_total": "255.00",
+    "unidades_funcionales": "2",
+    "vuc": "0.00"
+  },
+  "smp": "033-064-024",
+  "_http_status": 200
+}

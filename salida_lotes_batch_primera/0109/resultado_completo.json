@@ -1,0 +1,100 @@
+{
+  "debug": {
+    "address": "PATRON 7475",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.52312522152474,
+        -34.65466738355747
+      ],
+      "direccion": "",
+      "fondo": "30.04",
+      "frente": "7.79",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "022B",
+      "parcela": "019",
+      "pdamatriz": "21317",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "072",
+      "smp": "072-022B-019",
+      "smp_anterior": "072-022B-018",
+      "smp_siguiente": "072-022B-020",
+      "srid": 4326,
+      "superficie_cubierta": "161.00",
+      "superficie_total": "234.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 7475,
+      "cod_calle": 17035
+    },
+    "usig_direccion_elegida": {
+      "altura": 7475,
+      "cod_calle": 17035,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.522969",
+        "y": "-34.654786"
+      },
+      "direccion": "PATRON 7475, CABA",
+      "nombre_calle": "PATRON",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 7475,
+          "cod_calle": 17035,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.522969",
+            "y": "-34.654786"
+          },
+          "direccion": "PATRON 7475, CABA",
+          "nombre_calle": "PATRON",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 7475,
+          "cod_calle": 170085,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "direccion": "Prelado Don Buenaventura Risso Patrón 7475, La Matanza",
+          "nombre_calle": "Prelado Don Buenaventura Risso Patrón",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Gregorio de Laferrere",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 7475,
+          "cod_calle": 223510,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "direccion": "Esteban de Luca y Patrón 7475, La Matanza",
+          "nombre_calle": "Esteban de Luca y Patrón",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "González Catán",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "503 Server Error: Service Temporarily Unavailable for url: https://epok.buenosaires.gob.ar/catastro/geometria/?smp=072-022B-019&srid=97433",
+  "ok": false,
+  "_http_status": 500
+}

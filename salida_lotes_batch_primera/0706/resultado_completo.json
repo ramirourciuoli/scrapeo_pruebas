@@ -1,0 +1,341 @@
+{
+  "area_m2": 207.231707572937,
+  "centroide_lonlat": {
+    "lat": -34.611382,
+    "lon": -58.468527
+  },
+  "centroide_xy": {
+    "x": 99520.53112459586,
+    "y": 101984.30507116423
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/2/85/067-121A-008_0000154285.pdf",
+          "perimetro_manzana": "",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION067/PI-067-121A-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "067-121A-009",
+            "067-121A-007"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "AE 26",
+          "incidencia_uva": 130.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 207.220749999894,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 207.2,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "067-121A-008"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. T. ÁLVAREZ",
+    "barrio": "Villa Gral. Mitre",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1416",
+    "codigo_postal_argentino": "C1416DKD",
+    "comisaria": "41",
+    "comisaria_vecinal": "11A",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "67"
+  },
+  "debug": {
+    "address": "AV. JUAN B. JUSTO 4951",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.468527446024204,
+        -34.61138197952806
+      ],
+      "direccion": "",
+      "fondo": "12.57",
+      "frente": "16.38",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "121A",
+      "parcela": "008",
+      "pdamatriz": "236277",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "067",
+      "smp": "067-121A-008",
+      "smp_anterior": "067-121A-007",
+      "smp_siguiente": "067-121A-009",
+      "srid": 4326,
+      "superficie_cubierta": "305.00",
+      "superficie_total": "206.00",
+      "unidades_funcionales": "2",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4951,
+      "cod_calle": 10018
+    },
+    "usig_direccion_elegida": {
+      "altura": 4951,
+      "cod_calle": 10018,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.468613",
+        "y": "-34.611568"
+      },
+      "direccion": "JUSTO, JUAN B. AV. 4951, CABA",
+      "nombre_calle": "JUSTO, JUAN B. AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4951,
+          "cod_calle": 10018,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.468613",
+            "y": "-34.611568"
+          },
+          "direccion": "JUSTO, JUAN B. AV. 4951, CABA",
+          "nombre_calle": "JUSTO, JUAN B. AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 4951,
+          "cod_calle": 115375,
+          "cod_calle_cruce": null,
+          "cod_partido": "quilmes",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.2689285,
+            "y": -34.76656405
+          },
+          "direccion": "Juan B. Justo 4951, Quilmes",
+          "nombre_calle": "Juan B. Justo",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ezpeleta",
+          "nombre_partido": "Quilmes",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99510.68198879113,
+                  101989.84002878453
+                ],
+                [
+                  99519.61098877045,
+                  101995.41202876181
+                ],
+                [
+                  99522.17398875927,
+                  101991.28602877198
+                ],
+                [
+                  99524.94998874866,
+                  101986.81802878395
+                ],
+                [
+                  99526.15198874389,
+                  101984.88302878768
+                ],
+                [
+                  99527.30398873865,
+                  101983.0270287928
+                ],
+                [
+                  99527.77898873709,
+                  101982.26202879634
+                ],
+                [
+                  99528.88798873329,
+                  101980.47702879732
+                ],
+                [
+                  99530.47098872629,
+                  101977.92902880328
+                ],
+                [
+                  99529.83998872762,
+                  101977.52302880582
+                ],
+                [
+                  99525.54998873766,
+                  101974.76602881585
+                ],
+                [
+                  99525.31398873912,
+                  101974.61402881675
+                ],
+                [
+                  99519.38598875617,
+                  101975.943028818
+                ],
+                [
+                  99516.51698876757,
+                  101980.52402880773
+                ],
+                [
+                  99515.98598876955,
+                  101981.37102880448
+                ],
+                [
+                  99510.68198879113,
+                  101989.84002878453
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "067-121A-008",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AV. JUAN B. JUSTO 4951",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.468527446024204,
+      -34.61138197952806
+    ],
+    "direccion": "",
+    "fondo": "12.57",
+    "frente": "16.38",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "121A",
+    "parcela": "008",
+    "pdamatriz": "236277",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "067",
+    "smp": "067-121A-008",
+    "smp_anterior": "067-121A-007",
+    "smp_siguiente": "067-121A-009",
+    "srid": 4326,
+    "superficie_cubierta": "305.00",
+    "superficie_total": "206.00",
+    "unidades_funcionales": "2",
+    "vuc": "0.00"
+  },
+  "smp": "067-121A-008",
+  "_http_status": 200
+}

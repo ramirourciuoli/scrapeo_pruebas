@@ -1,0 +1,424 @@
+{
+  "area_m2": 562.4917259216309,
+  "centroide_lonlat": {
+    "lat": -34.643395,
+    "lon": -58.423983
+  },
+  "centroide_xy": {
+    "x": 103604.8303082445,
+    "y": 98432.17881213597
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 1,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 0.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/3/30/038-096-029a_0000041330.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION038/038-096-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION038/PI-038-096-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "038-096-028a",
+            "038-096-031"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "C3 II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 1757.01,
+          "plusvalia_pl": 1757.01,
+          "plusvalia_sl": 1757.01
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 549.066907206439,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 562.5,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "038-096-029A"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.M. PENNA",
+    "barrio": "Nueva Pompeya",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1437",
+    "codigo_postal_argentino": "C1437DCE",
+    "comisaria": "34",
+    "comisaria_vecinal": "4B",
+    "comuna": "Comuna 4",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "38"
+  },
+  "debug": {
+    "address": "FOURNIER 2381",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.423982993985724,
+        -34.643395269358834
+      ],
+      "direccion": "",
+      "fondo": "36.08",
+      "frente": "15.60",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "096",
+      "parcela": "029A",
+      "pdamatriz": "96293",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "038",
+      "smp": "038-096-029A",
+      "smp_anterior": "038-096-028A",
+      "smp_siguiente": "038-096-031",
+      "srid": 4326,
+      "superficie_cubierta": "700.00",
+      "superficie_total": "563.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2381,
+      "cod_calle": 6043
+    },
+    "usig_direccion_elegida": {
+      "altura": 2381,
+      "cod_calle": 6043,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.423876",
+        "y": "-34.643311"
+      },
+      "direccion": "FOURNIER 2381, CABA",
+      "nombre_calle": "FOURNIER",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2381,
+          "cod_calle": 6043,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.423876",
+            "y": "-34.643311"
+          },
+          "direccion": "FOURNIER 2381, CABA",
+          "nombre_calle": "FOURNIER",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2381,
+          "cod_calle": 53506,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3637954346939,
+            "y": -34.8055968693878
+          },
+          "direccion": "Fournier 2381, Almirante Brown",
+          "nombre_calle": "Fournier",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Rafael Calzada",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2381,
+          "cod_calle": 26362,
+          "cod_calle_cruce": null,
+          "cod_partido": "moron",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6012935795918,
+            "y": -34.6303522602041
+          },
+          "direccion": "Marinos de Fournier 2381, Morón",
+          "nombre_calle": "Marinos de Fournier",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "El Palomar",
+          "nombre_partido": "Morón",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2381,
+          "cod_calle": 147896,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_fernando",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5799798704082,
+            "y": -34.4668038897959
+          },
+          "direccion": "Rastreador Fournier 2381, San Fernando",
+          "nombre_calle": "Rastreador Fournier",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Virreyes",
+          "nombre_partido": "San Fernando",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2381,
+          "cod_calle": 13519,
+          "cod_calle_cruce": null,
+          "cod_partido": "vicente_lopez",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4971370214286,
+            "y": -34.5212023091837
+          },
+          "direccion": "Rastreador Fournier 2381, Vicente López",
+          "nombre_calle": "Rastreador Fournier",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Olivos",
+          "nombre_partido": "Vicente López",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  103602.30197465171,
+                  98449.10003563459
+                ],
+                [
+                  103614.72797460787,
+                  98436.44903566074
+                ],
+                [
+                  103615.21597460602,
+                  98435.95203566193
+                ],
+                [
+                  103615.92597460246,
+                  98435.2300356651
+                ],
+                [
+                  103619.51997458957,
+                  98431.57003567083
+                ],
+                [
+                  103619.31997458637,
+                  98425.49003568897
+                ],
+                [
+                  103617.88997458888,
+                  98424.2330356923
+                ],
+                [
+                  103615.52097459443,
+                  98422.15103569976
+                ],
+                [
+                  103610.19397460562,
+                  98417.47103571851
+                ],
+                [
+                  103607.62297461067,
+                  98415.21203572676
+                ],
+                [
+                  103604.06597462331,
+                  98418.88003572015
+                ],
+                [
+                  103602.47497462938,
+                  98420.52203571482
+                ],
+                [
+                  103599.64097463932,
+                  98423.44403570818
+                ],
+                [
+                  103597.89097464626,
+                  98425.24903570602
+                ],
+                [
+                  103593.06597466281,
+                  98430.22503569492
+                ],
+                [
+                  103591.0969746704,
+                  98432.25403569045
+                ],
+                [
+                  103588.76897467951,
+                  98434.65503568537
+                ],
+                [
+                  103587.70397468247,
+                  98435.75403568332
+                ],
+                [
+                  103589.78797467821,
+                  98437.65903567607
+                ],
+                [
+                  103590.04997467787,
+                  98437.89903567609
+                ],
+                [
+                  103592.81597467104,
+                  98440.42703566648
+                ],
+                [
+                  103594.53297466744,
+                  98441.99703566032
+                ],
+                [
+                  103597.91797466027,
+                  98445.09203564972
+                ],
+                [
+                  103602.30197465171,
+                  98449.10003563459
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "038-096-029A",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "FOURNIER 2381",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.423982993985724,
+      -34.643395269358834
+    ],
+    "direccion": "",
+    "fondo": "36.08",
+    "frente": "15.60",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "096",
+    "parcela": "029A",
+    "pdamatriz": "96293",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "038",
+    "smp": "038-096-029A",
+    "smp_anterior": "038-096-028A",
+    "smp_siguiente": "038-096-031",
+    "srid": 4326,
+    "superficie_cubierta": "700.00",
+    "superficie_total": "563.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "038-096-029A",
+  "_http_status": 200
+}

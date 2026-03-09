@@ -1,0 +1,360 @@
+{
+  "area_m2": 157.49126529693604,
+  "centroide_lonlat": {
+    "lat": -34.649129,
+    "lon": -58.431114
+  },
+  "centroide_xy": {
+    "x": 102950.77152240313,
+    "y": 97796.30272320526
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.0,
+          "fot_perim_libre": 3.0,
+          "fot_semi_libre": 3.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/34/046-155C-025_0000067634.pdf",
+          "perimetro_manzana": "",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION046/PI-046-155C-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "DI-2022-2699-GCABA-DGIUR",
+          "pdf": "046-155C.pdf"
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "046-155C-024",
+            "046-155C-005",
+            "046-155C-007",
+            "046-155C-026",
+            "046-155C-006"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "E3",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 157.498449999908,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 157.5,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "046-155C-025"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.M. PENNA",
+    "barrio": "Nueva Pompeya",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1437",
+    "codigo_postal_argentino": "C1437ANN",
+    "comisaria": "34",
+    "comisaria_vecinal": "4B",
+    "comuna": "Comuna 4",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "46"
+  },
+  "debug": {
+    "address": "AGUSTIN DE VEDIA 2652",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.43111444166696,
+        -34.649129248917745
+      ],
+      "direccion": "",
+      "fondo": "17.97",
+      "frente": "8.68",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "155C",
+      "parcela": "025",
+      "pdamatriz": "46646",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "046",
+      "smp": "046-155C-025",
+      "smp_anterior": "046-155C-024",
+      "smp_siguiente": "046-155C-026",
+      "srid": 4326,
+      "superficie_cubierta": "171.00",
+      "superficie_total": "156.00",
+      "unidades_funcionales": "2",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2652,
+      "cod_calle": 23017
+    },
+    "usig_direccion_elegida": {
+      "altura": 2652,
+      "cod_calle": 23017,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.431216",
+        "y": "-34.649216"
+      },
+      "direccion": "VEDIA, AGUSTIN DE 2652, CABA",
+      "nombre_calle": "VEDIA, AGUSTIN DE",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2652,
+          "cod_calle": 23017,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.431216",
+            "y": "-34.649216"
+          },
+          "direccion": "VEDIA, AGUSTIN DE 2652, CABA",
+          "nombre_calle": "VEDIA, AGUSTIN DE",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2652,
+          "cod_calle": 36425,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5468049938776,
+            "y": -34.6906650428572
+          },
+          "direccion": "Agustín De Vedia 2652, La Matanza",
+          "nombre_calle": "Agustín De Vedia",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "La Tablada",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102941.33197601225,
+                  97792.93403797285
+                ],
+                [
+                  102944.4139760054,
+                  97796.0720379622
+                ],
+                [
+                  102947.87297599744,
+                  97799.59403794823
+                ],
+                [
+                  102949.02397599557,
+                  97800.76703794478
+                ],
+                [
+                  102949.73997599422,
+                  97801.49603794224
+                ],
+                [
+                  102950.94597599233,
+                  97802.7250379381
+                ],
+                [
+                  102951.49097599057,
+                  97803.28003793597
+                ],
+                [
+                  102953.94297598537,
+                  97805.77603792626
+                ],
+                [
+                  102956.79197597578,
+                  97803.02403793414
+                ],
+                [
+                  102957.06997597439,
+                  97802.75603793337
+                ],
+                [
+                  102960.19997596325,
+                  97799.73403794048
+                ],
+                [
+                  102957.86597596866,
+                  97797.33103794843
+                ],
+                [
+                  102956.97597597045,
+                  97796.41303795055
+                ],
+                [
+                  102956.23597597083,
+                  97795.65103795251
+                ],
+                [
+                  102954.59097597463,
+                  97793.95703796096
+                ],
+                [
+                  102954.30397597485,
+                  97793.66103796044
+                ],
+                [
+                  102951.33097598224,
+                  97790.59903797126
+                ],
+                [
+                  102947.65797598899,
+                  97786.81703798554
+                ],
+                [
+                  102942.3949760067,
+                  97791.90603797502
+                ],
+                [
+                  102941.33197601225,
+                  97792.93403797285
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "046-155C-025",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AGUSTIN DE VEDIA 2652",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.43111444166696,
+      -34.649129248917745
+    ],
+    "direccion": "",
+    "fondo": "17.97",
+    "frente": "8.68",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "155C",
+    "parcela": "025",
+    "pdamatriz": "46646",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "046",
+    "smp": "046-155C-025",
+    "smp_anterior": "046-155C-024",
+    "smp_siguiente": "046-155C-026",
+    "srid": 4326,
+    "superficie_cubierta": "171.00",
+    "superficie_total": "156.00",
+    "unidades_funcionales": "2",
+    "vuc": "0.00"
+  },
+  "smp": "046-155C-025",
+  "_http_status": 200
+}

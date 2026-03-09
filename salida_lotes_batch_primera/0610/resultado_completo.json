@@ -1,0 +1,312 @@
+{
+  "area_m2": 225.23447036743164,
+  "centroide_lonlat": {
+    "lat": -34.651319,
+    "lon": -58.520964
+  },
+  "centroide_xy": {
+    "x": 94713.50468026893,
+    "y": 97552.38608783486
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/1/94/072-057-014a_0000027194.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION072/072-057-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION072/PI-072-057-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "072-057-015",
+            "072-057-012a"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 50.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 225.236499999931,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 225.2,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "072-057-014A"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Liniers",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1408",
+    "codigo_postal_argentino": "C1408EXH",
+    "comisaria": "54",
+    "comisaria_vecinal": "9B",
+    "comuna": "Comuna 9",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "72"
+  },
+  "debug": {
+    "address": "GARCIA DE COSSIO 7104",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.5209639995844,
+        -34.65131856117681
+      ],
+      "direccion": "",
+      "fondo": "14.54",
+      "frente": "15.27",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "057",
+      "parcela": "014A",
+      "pdamatriz": "77068",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "072",
+      "smp": "072-057-014A",
+      "smp_anterior": "072-057-012A",
+      "smp_siguiente": "072-057-015",
+      "srid": 4326,
+      "superficie_cubierta": "244.00",
+      "superficie_total": "222.00",
+      "unidades_funcionales": "5",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 7104,
+      "cod_calle": 3181
+    },
+    "usig_direccion_elegida": {
+      "altura": 7104,
+      "cod_calle": 3181,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.521080",
+        "y": "-34.651227"
+      },
+      "direccion": "GARCIA DE COSSIO 7104, CABA",
+      "nombre_calle": "GARCIA DE COSSIO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 7104,
+          "cod_calle": 3181,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.521080",
+            "y": "-34.651227"
+          },
+          "direccion": "GARCIA DE COSSIO 7104, CABA",
+          "nombre_calle": "GARCIA DE COSSIO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  94714.35799889486,
+                  97543.57904486489
+                ],
+                [
+                  94712.83299889986,
+                  97545.01404486195
+                ],
+                [
+                  94711.08399890689,
+                  97546.66004485951
+                ],
+                [
+                  94710.04699891091,
+                  97547.63704485484
+                ],
+                [
+                  94708.4309989153,
+                  97549.15804485293
+                ],
+                [
+                  94704.90999892888,
+                  97552.47104484597
+                ],
+                [
+                  94702.18099893762,
+                  97555.03904484134
+                ],
+                [
+                  94707.29099892803,
+                  97560.61104482083
+                ],
+                [
+                  94713.34099891128,
+                  97560.9110448185
+                ],
+                [
+                  94714.80499890621,
+                  97559.57604482002
+                ],
+                [
+                  94724.63799887171,
+                  97550.60404483692
+                ],
+                [
+                  94716.36899888808,
+                  97541.68704486979
+                ],
+                [
+                  94714.35799889486,
+                  97543.57904486489
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "072-057-014A",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "GARCIA DE COSSIO 7104",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.5209639995844,
+      -34.65131856117681
+    ],
+    "direccion": "",
+    "fondo": "14.54",
+    "frente": "15.27",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "057",
+    "parcela": "014A",
+    "pdamatriz": "77068",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "072",
+    "smp": "072-057-014A",
+    "smp_anterior": "072-057-012A",
+    "smp_siguiente": "072-057-015",
+    "srid": 4326,
+    "superficie_cubierta": "244.00",
+    "superficie_total": "222.00",
+    "unidades_funcionales": "5",
+    "vuc": "0.00"
+  },
+  "smp": "072-057-014A",
+  "_http_status": 200
+}

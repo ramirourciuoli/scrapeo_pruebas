@@ -1,0 +1,395 @@
+{
+  "area_m2": 296.13339042663574,
+  "centroide_lonlat": {
+    "lat": -34.635572,
+    "lon": -58.427751
+  },
+  "centroide_xy": {
+    "x": 103259.64737230712,
+    "y": 99300.22573569663
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/74/038-103-015_0000041574.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION038/038-103-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION038/PI-038-103-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "038-103-001a",
+            "038-103-001b",
+            "038-103-014",
+            "038-103-002a"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b III",
+          "incidencia_uva": 100.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 296.095599999952,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 296.1,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "038-103-015"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.M. PENNA",
+    "barrio": "Parque Chacabuco",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1424",
+    "codigo_postal_argentino": "C1424BMG",
+    "comisaria": "34",
+    "comisaria_vecinal": "7B",
+    "comuna": "Comuna 7",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "38"
+  },
+  "debug": {
+    "address": "DOBLAS 1611",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.4277511602842,
+        -34.635571708896734
+      ],
+      "direccion": "",
+      "fondo": "33.95",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "103",
+      "parcela": "015",
+      "pdamatriz": "40441",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "038",
+      "smp": "038-103-015",
+      "smp_anterior": "038-103-014",
+      "smp_siguiente": "038-103-016",
+      "srid": 4326,
+      "superficie_cubierta": "180.00",
+      "superficie_total": "294.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1611,
+      "cod_calle": 4079
+    },
+    "usig_direccion_elegida": {
+      "altura": 1611,
+      "cod_calle": 4079,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.427536",
+        "y": "-34.635533"
+      },
+      "direccion": "DOBLAS 1611, CABA",
+      "nombre_calle": "DOBLAS",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1611,
+          "cod_calle": 4079,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.427536",
+            "y": "-34.635533"
+          },
+          "direccion": "DOBLAS 1611, CABA",
+          "nombre_calle": "DOBLAS",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1611,
+          "cod_calle": 158475,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6542739181818,
+            "y": -34.7003119363636
+          },
+          "direccion": "Doblas 1611, Merlo",
+          "nombre_calle": "Doblas",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Libertad",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  103240.8429763072,
+                  99300.86703351737
+                ],
+                [
+                  103242.690976301,
+                  99301.23703351585
+                ],
+                [
+                  103244.87497629538,
+                  99301.67403351198
+                ],
+                [
+                  103246.50897629099,
+                  99302.00103351218
+                ],
+                [
+                  103248.70797628564,
+                  99302.44103350866
+                ],
+                [
+                  103250.62197628128,
+                  99302.82403350441
+                ],
+                [
+                  103253.35097627353,
+                  99303.37103350356
+                ],
+                [
+                  103256.91397626343,
+                  99304.08403349697
+                ],
+                [
+                  103260.24097625565,
+                  99304.73803349322
+                ],
+                [
+                  103262.75697624855,
+                  99305.23303348903
+                ],
+                [
+                  103264.7559762432,
+                  99305.62603348662
+                ],
+                [
+                  103270.23197622843,
+                  99306.70303347998
+                ],
+                [
+                  103275.48497621447,
+                  99307.73603347188
+                ],
+                [
+                  103276.34497620884,
+                  99303.66103348436
+                ],
+                [
+                  103276.5909762076,
+                  99302.50003348655
+                ],
+                [
+                  103277.26397620364,
+                  99299.31103349532
+                ],
+                [
+                  103272.26697621665,
+                  99298.29003350233
+                ],
+                [
+                  103271.97697621712,
+                  99298.23103350235
+                ],
+                [
+                  103267.52097622874,
+                  99297.32103350916
+                ],
+                [
+                  103263.82897623851,
+                  99296.56703351319
+                ],
+                [
+                  103263.5159762392,
+                  99296.50303351285
+                ],
+                [
+                  103259.29597625126,
+                  99295.64103351886
+                ],
+                [
+                  103253.93397626495,
+                  99294.54603352712
+                ],
+                [
+                  103251.97697626971,
+                  99294.14703352889
+                ],
+                [
+                  103248.28997627943,
+                  99293.39403353329
+                ],
+                [
+                  103245.33997628704,
+                  99292.7910335364
+                ],
+                [
+                  103244.72697629081,
+                  99293.89103353507
+                ],
+                [
+                  103241.07897630522,
+                  99300.44403351992
+                ],
+                [
+                  103240.8429763072,
+                  99300.86703351737
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "038-103-015",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "DOBLAS 1611",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.4277511602842,
+      -34.635571708896734
+    ],
+    "direccion": "",
+    "fondo": "33.95",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "103",
+    "parcela": "015",
+    "pdamatriz": "40441",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "038",
+    "smp": "038-103-015",
+    "smp_anterior": "038-103-014",
+    "smp_siguiente": "038-103-016",
+    "srid": 4326,
+    "superficie_cubierta": "180.00",
+    "superficie_total": "294.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "038-103-015",
+  "_http_status": 200
+}

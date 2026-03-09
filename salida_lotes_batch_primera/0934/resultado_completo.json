@@ -1,0 +1,330 @@
+{
+  "area_m2": 164.5239782333374,
+  "centroide_lonlat": {
+    "lat": -34.625792,
+    "lon": -58.426201
+  },
+  "centroide_xy": {
+    "x": 103402.14711129467,
+    "y": 100385.1472517204
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 2.5,
+          "fot_perim_libre": 2.5,
+          "fot_semi_libre": 2.5
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/4/47/036-007-024_0000294447.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION036/036-007-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION036/PI-036-007-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "036-007-027",
+            "036-007-023",
+            "036-007-025",
+            "036-007-028"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "AE 26",
+          "incidencia_uva": 210.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 164.5,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "036-007-024"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Boedo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1235",
+    "codigo_postal_argentino": "C1235AAC",
+    "comisaria": "10",
+    "comisaria_vecinal": "5B",
+    "comuna": "Comuna 5",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "36"
+  },
+  "debug": {
+    "address": "PEDRO BIDEGAIN 4327",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.426201446399276,
+        -34.6257915682763
+      ],
+      "direccion": "",
+      "fondo": "19.29",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "007",
+      "parcela": "024",
+      "pdamatriz": "154472",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "036",
+      "smp": "036-007-024",
+      "smp_anterior": "036-007-023",
+      "smp_siguiente": "036-007-025",
+      "srid": 4326,
+      "superficie_cubierta": "178.00",
+      "superficie_total": "167.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4327,
+      "cod_calle": 2079
+    },
+    "usig_direccion_elegida": {
+      "altura": 4327,
+      "cod_calle": 2079,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.426180",
+        "y": "-34.625889"
+      },
+      "direccion": "BIDEGAIN, PEDRO 4327, CABA",
+      "nombre_calle": "BIDEGAIN, PEDRO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4327,
+          "cod_calle": 2079,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.426180",
+            "y": "-34.625889"
+          },
+          "direccion": "BIDEGAIN, PEDRO 4327, CABA",
+          "nombre_calle": "BIDEGAIN, PEDRO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  103404.14697665752,
+                  100375.84903038136
+                ],
+                [
+                  103399.85797666907,
+                  100375.07903038626
+                ],
+                [
+                  103399.24897667277,
+                  100377.95503037883
+                ],
+                [
+                  103398.63697667695,
+                  100380.8440303707
+                ],
+                [
+                  103397.42897668402,
+                  100386.54303035565
+                ],
+                [
+                  103396.81297668848,
+                  100389.44903034839
+                ],
+                [
+                  103396.72697668894,
+                  100389.85503034774
+                ],
+                [
+                  103395.92297669448,
+                  100393.65103033686
+                ],
+                [
+                  103397.43997669045,
+                  100393.93903033555
+                ],
+                [
+                  103401.6699766787,
+                  100394.74303032964
+                ],
+                [
+                  103402.81197667567,
+                  100394.96003032834
+                ],
+                [
+                  103404.40897667149,
+                  100395.26303032663
+                ],
+                [
+                  103405.32197666542,
+                  100390.97603033748
+                ],
+                [
+                  103406.17697666044,
+                  100386.96403034791
+                ],
+                [
+                  103407.73697665014,
+                  100379.64303036779
+                ],
+                [
+                  103408.38297664667,
+                  100376.60903037584
+                ],
+                [
+                  103404.14697665752,
+                  100375.84903038136
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "036-007-024",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "PEDRO BIDEGAIN 4327",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.426201446399276,
+      -34.6257915682763
+    ],
+    "direccion": "",
+    "fondo": "19.29",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "007",
+    "parcela": "024",
+    "pdamatriz": "154472",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "036",
+    "smp": "036-007-024",
+    "smp_anterior": "036-007-023",
+    "smp_siguiente": "036-007-025",
+    "srid": 4326,
+    "superficie_cubierta": "178.00",
+    "superficie_total": "167.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "036-007-024",
+  "_http_status": 200
+}

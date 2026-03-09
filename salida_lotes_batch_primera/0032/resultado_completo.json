@@ -1,0 +1,363 @@
+{
+  "area_m2": 151.7954502105713,
+  "centroide_lonlat": {
+    "lat": -34.643228,
+    "lon": -58.456657
+  },
+  "centroide_xy": {
+    "x": 100609.06379843096,
+    "y": 98451.45058775009
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.0,
+          "fot_perim_libre": 3.0,
+          "fot_semi_libre": 3.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/1/45/050-106-051_0000080145.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION050/050-106-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION050/PI-050-106-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "050-106-001",
+            "050-106-003",
+            "050-106-002",
+            "050-106-050"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "E3",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 151.837200000217,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 151.8,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "050-106-051"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. P. PIÑERO",
+    "barrio": "Flores",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1406",
+    "codigo_postal_argentino": "C1406HSU",
+    "comisaria": "38",
+    "comisaria_vecinal": "7A",
+    "comuna": "Comuna 7",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "50"
+  },
+  "debug": {
+    "address": "ZUVIRIA 2725",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.45665709783517,
+        -34.643227703965735
+      ],
+      "direccion": "",
+      "fondo": "17.98",
+      "frente": "8.62",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "106",
+      "parcela": "051",
+      "pdamatriz": "53516",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "050",
+      "smp": "050-106-051",
+      "smp_anterior": "050-106-050",
+      "smp_siguiente": "050-106-001",
+      "srid": 4326,
+      "superficie_cubierta": "331.00",
+      "superficie_total": "155.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2725,
+      "cod_calle": 27026
+    },
+    "usig_direccion_elegida": {
+      "altura": 2725,
+      "cod_calle": 27026,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.456569",
+        "y": "-34.643309"
+      },
+      "direccion": "ZUVIRIA 2725, CABA",
+      "nombre_calle": "ZUVIRIA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2725,
+          "cod_calle": 27026,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.456569",
+            "y": "-34.643309"
+          },
+          "direccion": "ZUVIRIA 2725, CABA",
+          "nombre_calle": "ZUVIRIA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2725,
+          "cod_calle": 187358,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_miguel",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7290926132653,
+            "y": -34.5377728734694
+          },
+          "direccion": "Zuviría 2725, San Miguel",
+          "nombre_calle": "Zuviría",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Miguel",
+          "nombre_partido": "San Miguel",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  100599.88498307596,
+                  98455.28303787755
+                ],
+                [
+                  100601.07098307414,
+                  98456.359037874
+                ],
+                [
+                  100602.11298307138,
+                  98457.30403786994
+                ],
+                [
+                  100605.16098306532,
+                  98460.06703786014
+                ],
+                [
+                  100606.12798306248,
+                  98460.94403785729
+                ],
+                [
+                  100607.34598305842,
+                  98459.60403786032
+                ],
+                [
+                  100608.48498305472,
+                  98458.35003786231
+                ],
+                [
+                  100609.09598305207,
+                  98457.67803786439
+                ],
+                [
+                  100611.7679830426,
+                  98454.7390378704
+                ],
+                [
+                  100614.90398303117,
+                  98451.28803787736
+                ],
+                [
+                  100618.26198301898,
+                  98447.59303788585
+                ],
+                [
+                  100617.98298301948,
+                  98447.34403788595
+                ],
+                [
+                  100612.07698303164,
+                  98442.07003790594
+                ],
+                [
+                  100611.97398303269,
+                  98441.97803790611
+                ],
+                [
+                  100607.91898304677,
+                  98446.44103789612
+                ],
+                [
+                  100607.36498304924,
+                  98447.05103789517
+                ],
+                [
+                  100605.12298305685,
+                  98449.51803789011
+                ],
+                [
+                  100603.42298306375,
+                  98451.3890378864
+                ],
+                [
+                  100602.27198306739,
+                  98452.65503788358
+                ],
+                [
+                  100602.15298306788,
+                  98452.78603788334
+                ],
+                [
+                  100599.88498307596,
+                  98455.28303787755
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "050-106-051",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ZUVIRIA 2725",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.45665709783517,
+      -34.643227703965735
+    ],
+    "direccion": "",
+    "fondo": "17.98",
+    "frente": "8.62",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "106",
+    "parcela": "051",
+    "pdamatriz": "53516",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "050",
+    "smp": "050-106-051",
+    "smp_anterior": "050-106-050",
+    "smp_siguiente": "050-106-001",
+    "srid": 4326,
+    "superficie_cubierta": "331.00",
+    "superficie_total": "155.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "050-106-051",
+  "_http_status": 200
+}

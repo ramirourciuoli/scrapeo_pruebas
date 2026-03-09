@@ -1,0 +1,337 @@
+{
+  "area_m2": 114.53972816467285,
+  "centroide_lonlat": {
+    "lat": -34.60168,
+    "lon": -58.484496
+  },
+  "centroide_xy": {
+    "x": 98055.66917661451,
+    "y": 103060.3766025609
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/8/21/069-046-037_0000475821.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION069/069-046-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION069/PI-069-046-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "069-046-036",
+            "069-046-005",
+            "069-046-004"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 210.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 114.525849999977,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 114.5,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "069-046-037"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. T. ÁLVAREZ",
+    "barrio": "Villa Del Parque",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1417",
+    "codigo_postal_argentino": "C1417FZA",
+    "comisaria": "41",
+    "comisaria_vecinal": "11A",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "69"
+  },
+  "debug": {
+    "address": "GENERAL RIVAS 2625",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.48449573300325,
+        -34.60168030629614
+      ],
+      "direccion": "",
+      "fondo": "10.88",
+      "frente": "10.57",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "046",
+      "parcela": "037",
+      "pdamatriz": "253425",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "069",
+      "smp": "069-046-037",
+      "smp_anterior": "069-046-036",
+      "smp_siguiente": "069-046-001",
+      "srid": 4326,
+      "superficie_cubierta": "65.00",
+      "superficie_total": "115.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2625,
+      "cod_calle": 19050
+    },
+    "usig_direccion_elegida": {
+      "altura": 2625,
+      "cod_calle": 19050,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.484396",
+        "y": "-34.601727"
+      },
+      "direccion": "RIVAS, GRAL. 2625, CABA",
+      "nombre_calle": "RIVAS, GRAL.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2625,
+          "cod_calle": 19050,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.484396",
+            "y": "-34.601727"
+          },
+          "direccion": "RIVAS, GRAL. 2625, CABA",
+          "nombre_calle": "RIVAS, GRAL.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98053.22899368781,
+                  103065.28602686676
+                ],
+                [
+                  98055.00699368422,
+                  103067.25802685987
+                ],
+                [
+                  98055.34099368329,
+                  103067.07302685973
+                ],
+                [
+                  98055.49399368287,
+                  103066.98802685898
+                ],
+                [
+                  98056.96299367909,
+                  103066.17202686149
+                ],
+                [
+                  98057.55899367676,
+                  103065.84202686351
+                ],
+                [
+                  98059.59499366989,
+                  103064.71202686348
+                ],
+                [
+                  98062.64099365976,
+                  103063.02102686459
+                ],
+                [
+                  98062.99099365895,
+                  103062.82702686486
+                ],
+                [
+                  98059.40799366322,
+                  103056.08702688699
+                ],
+                [
+                  98057.95899366548,
+                  103053.36102689558
+                ],
+                [
+                  98056.97999366888,
+                  103053.86202689531
+                ],
+                [
+                  98054.01799367883,
+                  103055.37802689275
+                ],
+                [
+                  98049.6699936915,
+                  103057.60402688987
+                ],
+                [
+                  98047.36599369987,
+                  103058.78402688864
+                ],
+                [
+                  98047.69499369878,
+                  103059.14802688756
+                ],
+                [
+                  98049.78999369424,
+                  103061.47202687914
+                ],
+                [
+                  98053.08199368892,
+                  103065.12302686588
+                ],
+                [
+                  98053.22899368781,
+                  103065.28602686676
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "069-046-037",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "GENERAL RIVAS 2625",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.48449573300325,
+      -34.60168030629614
+    ],
+    "direccion": "",
+    "fondo": "10.88",
+    "frente": "10.57",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "046",
+    "parcela": "037",
+    "pdamatriz": "253425",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "069",
+    "smp": "069-046-037",
+    "smp_anterior": "069-046-036",
+    "smp_siguiente": "069-046-001",
+    "srid": 4326,
+    "superficie_cubierta": "65.00",
+    "superficie_total": "115.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "069-046-037",
+  "_http_status": 200
+}

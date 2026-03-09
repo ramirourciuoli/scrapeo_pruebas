@@ -1,0 +1,363 @@
+{
+  "area_m2": 242.07733345031738,
+  "centroide_lonlat": {
+    "lat": -34.65511,
+    "lon": -58.502747
+  },
+  "centroide_xy": {
+    "x": 96383.7702550062,
+    "y": 97132.53871637049
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/2/01/076-162-019_0000048201.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION076/076-162-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION076/PI-076-162-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "076-162-018",
+            "076-162-020",
+            "076-162-015",
+            "076-162-017",
+            "076-162-016"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b III",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 241.982949999985,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 242.1,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "076-162-019"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Mataderos",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1440",
+    "codigo_postal_argentino": "C1440AEW",
+    "comisaria": "42",
+    "comisaria_vecinal": "9A",
+    "comuna": "Comuna 9",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "76"
+  },
+  "debug": {
+    "address": "TAPALQUE 6073",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.50274687758794,
+        -34.65511037386432
+      ],
+      "direccion": "",
+      "fondo": "28.40",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "162",
+      "parcela": "019",
+      "pdamatriz": "32981",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "076",
+      "smp": "076-162-019",
+      "smp_anterior": "076-162-018",
+      "smp_siguiente": "076-162-020",
+      "srid": 4326,
+      "superficie_cubierta": "434.00",
+      "superficie_total": "246.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 6073,
+      "cod_calle": 21012
+    },
+    "usig_direccion_elegida": {
+      "altura": 6073,
+      "cod_calle": 21012,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.502606",
+        "y": "-34.655226"
+      },
+      "direccion": "TAPALQUE 6073, CABA",
+      "nombre_calle": "TAPALQUE",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 6073,
+          "cod_calle": 21012,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.502606",
+            "y": "-34.655226"
+          },
+          "direccion": "TAPALQUE 6073, CABA",
+          "nombre_calle": "TAPALQUE",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96391.2949938733,
+                  97120.40104478918
+                ],
+                [
+                  96390.52199387562,
+                  97119.61804479323
+                ],
+                [
+                  96387.76699388496,
+                  97122.3790447877
+                ],
+                [
+                  96386.28399389052,
+                  97123.86504478302
+                ],
+                [
+                  96382.56899390367,
+                  97127.58804477609
+                ],
+                [
+                  96382.49799390312,
+                  97127.65904477483
+                ],
+                [
+                  96379.30599391575,
+                  97130.85804476848
+                ],
+                [
+                  96376.91099392415,
+                  97133.25804476452
+                ],
+                [
+                  96376.4869939249,
+                  97133.68404476315
+                ],
+                [
+                  96375.81599392707,
+                  97134.3560447607
+                ],
+                [
+                  96370.69099394545,
+                  97139.49104475224
+                ],
+                [
+                  96370.87099394575,
+                  97139.65104475056
+                ],
+                [
+                  96374.53699393748,
+                  97142.79504473734
+                ],
+                [
+                  96377.3709939323,
+                  97145.22604472938
+                ],
+                [
+                  96380.47499391968,
+                  97142.09504473695
+                ],
+                [
+                  96382.06299391444,
+                  97140.49304473959
+                ],
+                [
+                  96382.73199391237,
+                  97139.81804474175
+                ],
+                [
+                  96382.90599391233,
+                  97139.64304474159
+                ],
+                [
+                  96388.79399389056,
+                  97133.70304475256
+                ],
+                [
+                  96389.41799388862,
+                  97133.07404475342
+                ],
+                [
+                  96392.87199387695,
+                  97129.59004476247
+                ],
+                [
+                  96393.5759938748,
+                  97128.8800447633
+                ],
+                [
+                  96396.62499386334,
+                  97125.80404476981
+                ],
+                [
+                  96393.68299386922,
+                  97122.8210447799
+                ],
+                [
+                  96391.2949938733,
+                  97120.40104478918
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "076-162-019",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "TAPALQUE 6073",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.50274687758794,
+      -34.65511037386432
+    ],
+    "direccion": "",
+    "fondo": "28.40",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "162",
+    "parcela": "019",
+    "pdamatriz": "32981",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "076",
+    "smp": "076-162-019",
+    "smp_anterior": "076-162-018",
+    "smp_siguiente": "076-162-020",
+    "srid": 4326,
+    "superficie_cubierta": "434.00",
+    "superficie_total": "246.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "076-162-019",
+  "_http_status": 200
+}

@@ -1,0 +1,310 @@
+{
+  "area_m2": 461.2416524887085,
+  "centroide_lonlat": {
+    "lat": -34.636359,
+    "lon": -58.370812
+  },
+  "centroide_xy": {
+    "x": 108480.6129406435,
+    "y": 99209.54567657437
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 1,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/1/28/008-023-030_0000303128.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION008/008-023-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION008/PI-008-023-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "008-023-006",
+            "008-023-031",
+            "008-023-007",
+            "008-023-029"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 240.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 305.387565261315,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 461.2,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "008-023-030"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C. ARGERICH",
+    "barrio": "Barracas",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1287",
+    "codigo_postal_argentino": "C1287ACA",
+    "comisaria": "26",
+    "comisaria_vecinal": "4D",
+    "comuna": "Comuna 4",
+    "distrito_economico": "DISTRITO DE LAS ARTES",
+    "distrito_escolar": "Distrito Escolar   IV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "08"
+  },
+  "debug": {
+    "address": "PINZON 1299",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.37081184710286,
+        -34.63635922737385
+      ],
+      "direccion": "",
+      "fondo": "43.09",
+      "frente": "10.70",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "023",
+      "parcela": "030",
+      "pdamatriz": "110716",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "0",
+      "propiedad_horizontal": "No",
+      "seccion": "008",
+      "smp": "008-023-030",
+      "smp_anterior": "008-023-029",
+      "smp_siguiente": "008-023-031",
+      "srid": 4326,
+      "superficie_cubierta": "0.00",
+      "superficie_total": "461.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1299,
+      "cod_calle": 17088
+    },
+    "usig_direccion_elegida": {
+      "altura": 1299,
+      "cod_calle": 17088,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.370771",
+        "y": "-34.636569"
+      },
+      "direccion": "PINZON 1299, CABA",
+      "nombre_calle": "PINZON",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1299,
+          "cod_calle": 17088,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.370771",
+            "y": "-34.636569"
+          },
+          "direccion": "PINZON 1299, CABA",
+          "nombre_calle": "PINZON",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  108488.79496150474,
+                  99188.73802988272
+                ],
+                [
+                  108478.28196153267,
+                  99187.03402989547
+                ],
+                [
+                  108472.54796158226,
+                  99230.55902977815
+                ],
+                [
+                  108479.63296156329,
+                  99231.76002976883
+                ],
+                [
+                  108480.21796156169,
+                  99231.83002976846
+                ],
+                [
+                  108482.05396155587,
+                  99232.04902976609
+                ],
+                [
+                  108482.7909615545,
+                  99232.13702976576
+                ],
+                [
+                  108484.76996153757,
+                  99217.8340298041
+                ],
+                [
+                  108485.56096153127,
+                  99212.11402981982
+                ],
+                [
+                  108486.26296152596,
+                  99207.043029833
+                ],
+                [
+                  108486.75696152182,
+                  99203.46702984325
+                ],
+                [
+                  108488.79496150474,
+                  99188.73802988272
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "008-023-030",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "PINZON 1299",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.37081184710286,
+      -34.63635922737385
+    ],
+    "direccion": "",
+    "fondo": "43.09",
+    "frente": "10.70",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "023",
+    "parcela": "030",
+    "pdamatriz": "110716",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "0",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "008",
+    "smp": "008-023-030",
+    "smp_anterior": "008-023-029",
+    "smp_siguiente": "008-023-031",
+    "srid": 4326,
+    "superficie_cubierta": "0.00",
+    "superficie_total": "461.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "008-023-030",
+  "_http_status": 200
+}

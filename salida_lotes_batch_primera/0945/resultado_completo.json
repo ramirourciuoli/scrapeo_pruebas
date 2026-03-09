@@ -1,0 +1,547 @@
+{
+  "area_m2": 262.7055330276489,
+  "centroide_lonlat": {
+    "lat": -34.624844,
+    "lon": -58.441321
+  },
+  "centroide_xy": {
+    "x": 102015.65825267317,
+    "y": 100490.61790402493
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.47,
+          "fot_perim_libre": 3.47,
+          "fot_semi_libre": 3.47
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/93/040-018-018_0000049093.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION040/040-018-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION040/PI-040-018-V3.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "040-018-014",
+            "040-018-017",
+            "040-018-019",
+            "040-018-015"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2a II",
+          "incidencia_uva": 380.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 190.474451993594,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 262.7,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "040-018-018"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Caballito",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1424",
+    "codigo_postal_argentino": "C1424BVS",
+    "comisaria": "12",
+    "comisaria_vecinal": "6B",
+    "comuna": "Comuna 6",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "40"
+  },
+  "debug": {
+    "address": "VALLE 975",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.44132060547017,
+        -34.624844503994474
+      ],
+      "direccion": "",
+      "fondo": "30.60",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "018",
+      "parcela": "018",
+      "pdamatriz": "158985",
+      "pisos_bajo_rasante": "1",
+      "pisos_sobre_rasante": "9",
+      "propiedad_horizontal": "Si",
+      "seccion": "040",
+      "smp": "040-018-018",
+      "smp_anterior": "040-018-017",
+      "smp_siguiente": "040-018-019",
+      "srid": 4326,
+      "superficie_cubierta": "2194.00",
+      "superficie_total": "265.00",
+      "unidades_funcionales": "15",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 975,
+      "cod_calle": 23007
+    },
+    "usig_direccion_elegida": {
+      "altura": 975,
+      "cod_calle": 23007,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.441297",
+        "y": "-34.625008"
+      },
+      "direccion": "VALLE 975, CABA",
+      "nombre_calle": "VALLE",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 975,
+          "cod_calle": 23007,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.441297",
+            "y": "-34.625008"
+          },
+          "direccion": "VALLE 975, CABA",
+          "nombre_calle": "VALLE",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 975,
+          "cod_calle": 4057,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.366723",
+            "y": "-34.635187"
+          },
+          "direccion": "VALLE, ARISTOBULO DEL 975, CABA",
+          "nombre_calle": "VALLE, ARISTOBULO DEL",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 975,
+          "cod_calle": 4059,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.363409",
+            "y": "-34.636806"
+          },
+          "direccion": "VALLE IBERLUCEA DEL, DR. 975, CABA",
+          "nombre_calle": "VALLE IBERLUCEA DEL, DR.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 975,
+          "cod_calle": 23081,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.448015",
+            "y": "-34.614068"
+          },
+          "direccion": "VALLESE, FELIPE 975, CABA",
+          "nombre_calle": "VALLESE, FELIPE",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 975,
+          "cod_calle": 43235,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3887905265306,
+            "y": -34.8316830122449
+          },
+          "direccion": "Aristóbulo del Valle 975, Almirante Brown",
+          "nombre_calle": "Aristóbulo del Valle",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Burzaco",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 975,
+          "cod_calle": 54985,
+          "cod_calle_cruce": null,
+          "cod_partido": "avellaneda",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3110556765306,
+            "y": -34.6931716653061
+          },
+          "direccion": "Gregoria Del Valle 975, Avellaneda",
+          "nombre_calle": "Gregoria Del Valle",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Wilde",
+          "nombre_partido": "Avellaneda",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 975,
+          "cod_calle": 108239,
+          "cod_calle_cruce": null,
+          "cod_partido": "florencio_varela",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.2644513316327,
+            "y": -34.8051799438776
+          },
+          "direccion": "Aristóbulo del Valle 975, Florencio Varela",
+          "nombre_calle": "Aristóbulo del Valle",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Florencio Varela",
+          "nombre_partido": "Florencio Varela",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 975,
+          "cod_calle": 261494,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6521907469388,
+            "y": -34.7719039683674
+          },
+          "direccion": "Maestra Concepción Valle 975, La Matanza",
+          "nombre_calle": "Maestra Concepción Valle",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "González Catán",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 975,
+          "cod_calle": 19999,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4062094673469,
+            "y": -34.7044296642857
+          },
+          "direccion": "Aristóbulo del Valle 975, Lanús",
+          "nombre_calle": "Aristóbulo del Valle",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lanús Oeste",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 975,
+          "cod_calle": 87667,
+          "cod_calle_cruce": null,
+          "cod_partido": "lujan",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -59.0958727438776,
+            "y": -34.5795645826531
+          },
+          "direccion": "Calle 513 - S. Vallejo 975, Luján",
+          "nombre_calle": "Calle 513 - S. Vallejo",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Luján",
+          "nombre_partido": "Luján",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102011.4949806486,
+                  100489.23003111171
+                ],
+                [
+                  102010.82798065443,
+                  100494.99003109586
+                ],
+                [
+                  102010.61198065645,
+                  100496.85703109042
+                ],
+                [
+                  102010.21398066006,
+                  100500.29303108077
+                ],
+                [
+                  102010.20098066088,
+                  100500.40103108055
+                ],
+                [
+                  102009.61498066621,
+                  100505.4630310676
+                ],
+                [
+                  102013.15598065667,
+                  100505.75203106401
+                ],
+                [
+                  102016.72298064671,
+                  100506.04303105979
+                ],
+                [
+                  102018.14298064276,
+                  100506.1590310588
+                ],
+                [
+                  102018.3979806403,
+                  100504.02603106419
+                ],
+                [
+                  102018.7369806369,
+                  100501.18103107216
+                ],
+                [
+                  102019.35398063183,
+                  100496.0120310864
+                ],
+                [
+                  102019.44598063115,
+                  100495.24303108818
+                ],
+                [
+                  102019.8349806271,
+                  100491.98203109708
+                ],
+                [
+                  102020.41398062176,
+                  100487.13503111026
+                ],
+                [
+                  102020.55698062057,
+                  100485.9330311139
+                ],
+                [
+                  102021.15598061554,
+                  100480.9190311271
+                ],
+                [
+                  102021.37698061348,
+                  100479.07103113283
+                ],
+                [
+                  102021.56598061102,
+                  100477.48303113668
+                ],
+                [
+                  102021.64898061086,
+                  100476.78803113825
+                ],
+                [
+                  102021.74298060956,
+                  100476.00303114025
+                ],
+                [
+                  102021.24698061158,
+                  100475.94403114135
+                ],
+                [
+                  102013.64298063192,
+                  100475.03303114933
+                ],
+                [
+                  102013.14609879718,
+                  100474.97311464613
+                ],
+                [
+                  102012.96805924804,
+                  100476.50613466147
+                ],
+                [
+                  102012.78409928882,
+                  100478.095123915
+                ],
+                [
+                  102012.76609391789,
+                  100478.25515809425
+                ],
+                [
+                  102012.57698063803,
+                  100479.89103113642
+                ],
+                [
+                  102012.16098064258,
+                  100483.48003112734
+                ],
+                [
+                  102012.14598064209,
+                  100483.60503112696
+                ],
+                [
+                  102011.68898064691,
+                  100487.55403111532
+                ],
+                [
+                  102011.53598064842,
+                  100488.88003111212
+                ],
+                [
+                  102011.4949806486,
+                  100489.23003111171
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "040-018-018",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "VALLE 975",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.44132060547017,
+      -34.624844503994474
+    ],
+    "direccion": "",
+    "fondo": "30.60",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "018",
+    "parcela": "018",
+    "pdamatriz": "158985",
+    "pisos_bajo_rasante": "1",
+    "pisos_sobre_rasante": "9",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "040",
+    "smp": "040-018-018",
+    "smp_anterior": "040-018-017",
+    "smp_siguiente": "040-018-019",
+    "srid": 4326,
+    "superficie_cubierta": "2194.00",
+    "superficie_total": "265.00",
+    "unidades_funcionales": "15",
+    "vuc": "0.00"
+  },
+  "smp": "040-018-018",
+  "_http_status": 200
+}

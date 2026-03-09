@@ -1,0 +1,365 @@
+{
+  "area_m2": 282.35113430023193,
+  "centroide_lonlat": {
+    "lat": -34.611834,
+    "lon": -58.434118
+  },
+  "centroide_xy": {
+    "x": 102676.56269569097,
+    "y": 101933.74111545045
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 0.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "U",
+            "distrito_especifico": "U 85"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/83/045-119-013_0000124083.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION045/045-119-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION045/PI-045-119-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": true,
+          "smp_linderas": [
+            "045-119-028a",
+            "045-119-014",
+            "045-119-012"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "AE 26",
+          "incidencia_uva": 180.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "Zona 3a",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 282.4,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "045-119-013"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Caballito",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1405",
+    "codigo_postal_argentino": "C1405BPA",
+    "comisaria": "11",
+    "comisaria_vecinal": "6A",
+    "comuna": "Comuna 6",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "45"
+  },
+  "debug": {
+    "address": "SAN SEBASTIAN 451",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.434118436888426,
+        -34.61183439385543
+      ],
+      "direccion": "",
+      "fondo": "33.60",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "119",
+      "parcela": "013",
+      "pdamatriz": "174580",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "045",
+      "smp": "045-119-013",
+      "smp_anterior": "045-119-012",
+      "smp_siguiente": "045-119-014",
+      "srid": 4326,
+      "superficie_cubierta": "197.00",
+      "superficie_total": "291.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 451,
+      "cod_calle": 20053
+    },
+    "usig_direccion_elegida": {
+      "altura": 451,
+      "cod_calle": 20053,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.434311",
+        "y": "-34.611883"
+      },
+      "direccion": "SAN SEBASTIAN 451, CABA",
+      "nombre_calle": "SAN SEBASTIAN",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 451,
+          "cod_calle": 20053,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.434311",
+            "y": "-34.611883"
+          },
+          "direccion": "SAN SEBASTIAN 451, CABA",
+          "nombre_calle": "SAN SEBASTIAN",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102683.1459798567,
+                  101940.09802653713
+                ],
+                [
+                  102686.03597984984,
+                  101940.93302653261
+                ],
+                [
+                  102689.83297983931,
+                  101942.03102652694
+                ],
+                [
+                  102691.09708677002,
+                  101942.3971212511
+                ],
+                [
+                  102693.75406917832,
+                  101934.26613982659
+                ],
+                [
+                  102692.26397982711,
+                  101933.83502654763
+                ],
+                [
+                  102689.24997983451,
+                  101932.96302655278
+                ],
+                [
+                  102685.64597984354,
+                  101931.92102655809
+                ],
+                [
+                  102684.99197984512,
+                  101931.7320265589
+                ],
+                [
+                  102680.18997985835,
+                  101930.34402656608
+                ],
+                [
+                  102676.01697986874,
+                  101929.13702657315
+                ],
+                [
+                  102672.36897987811,
+                  101928.08202657918
+                ],
+                [
+                  102667.54797989105,
+                  101926.68802658637
+                ],
+                [
+                  102667.27897989143,
+                  101926.61002658706
+                ],
+                [
+                  102661.95797990474,
+                  101925.07102659551
+                ],
+                [
+                  102661.11106389391,
+                  101927.81515109973
+                ],
+                [
+                  102660.17905706284,
+                  101930.83510958802
+                ],
+                [
+                  102659.43697991825,
+                  101933.2410265744
+                ],
+                [
+                  102660.46697991584,
+                  101933.53902657228
+                ],
+                [
+                  102664.6319799051,
+                  101934.74302656564
+                ],
+                [
+                  102664.7299799051,
+                  101934.77202656557
+                ],
+                [
+                  102668.8969798937,
+                  101935.97702655921
+                ],
+                [
+                  102672.96297988377,
+                  101937.15302655281
+                ],
+                [
+                  102679.37997986663,
+                  101939.00802654325
+                ],
+                [
+                  102682.18397985981,
+                  101939.81902653855
+                ],
+                [
+                  102683.1459798567,
+                  101940.09802653713
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "045-119-013",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "SAN SEBASTIAN 451",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.434118436888426,
+      -34.61183439385543
+    ],
+    "direccion": "",
+    "fondo": "33.60",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "119",
+    "parcela": "013",
+    "pdamatriz": "174580",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "045",
+    "smp": "045-119-013",
+    "smp_anterior": "045-119-012",
+    "smp_siguiente": "045-119-014",
+    "srid": 4326,
+    "superficie_cubierta": "197.00",
+    "superficie_total": "291.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "045-119-013",
+  "_http_status": 200
+}

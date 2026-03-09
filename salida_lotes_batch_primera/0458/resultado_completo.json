@@ -1,0 +1,325 @@
+{
+  "area_m2": 94.84328365325928,
+  "centroide_lonlat": {
+    "lat": -34.576967,
+    "lon": -58.458306
+  },
+  "centroide_xy": {
+    "x": 100458.25704529742,
+    "y": 105802.19441467388
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/8/81/037-039-025_0000088881.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION037/037-039-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION037/PI-037-039-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "037-039-026",
+            "037-039-024",
+            "037-039-023"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 450.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 94.8,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "037-039-025"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Colegiales",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1426",
+    "codigo_postal_argentino": "C1426BDQ",
+    "comisaria": "37",
+    "comisaria_vecinal": "13C",
+    "comuna": "Comuna 13",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "37"
+  },
+  "debug": {
+    "address": "DELGADO 1187",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.45830588245701,
+        -34.576966641605715
+      ],
+      "direccion": "",
+      "fondo": "10.62",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "039",
+      "parcela": "025",
+      "pdamatriz": "408389",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "037",
+      "smp": "037-039-025",
+      "smp_anterior": "037-039-024",
+      "smp_siguiente": "037-039-026",
+      "srid": 4326,
+      "superficie_cubierta": "143.00",
+      "superficie_total": "92.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1187,
+      "cod_calle": 4042
+    },
+    "usig_direccion_elegida": {
+      "altura": 1187,
+      "cod_calle": 4042,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.458322",
+        "y": "-34.577053"
+      },
+      "direccion": "DELGADO 1187, CABA",
+      "nombre_calle": "DELGADO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1187,
+          "cod_calle": 4042,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.458322",
+            "y": "-34.577053"
+          },
+          "direccion": "DELGADO 1187, CABA",
+          "nombre_calle": "DELGADO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  100454.03798901728,
+                  105805.25001737545
+                ],
+                [
+                  100454.06398901799,
+                  105805.57201737422
+                ],
+                [
+                  100454.25398901869,
+                  105807.91501736792
+                ],
+                [
+                  100455.05098901664,
+                  105807.84401736702
+                ],
+                [
+                  100456.9099890115,
+                  105807.67901736603
+                ],
+                [
+                  100457.22698901038,
+                  105807.65101736598
+                ],
+                [
+                  100457.86798900839,
+                  105807.59401736557
+                ],
+                [
+                  100458.64598900608,
+                  105807.52501736599
+                ],
+                [
+                  100458.77598900559,
+                  105807.51301736583
+                ],
+                [
+                  100463.13398899313,
+                  105807.17701736334
+                ],
+                [
+                  100462.07198898791,
+                  105796.18601739459
+                ],
+                [
+                  100457.56998900163,
+                  105796.85601739603
+                ],
+                [
+                  100456.20298900509,
+                  105797.06001739638
+                ],
+                [
+                  100453.40798901329,
+                  105797.47601739757
+                ],
+                [
+                  100453.64498901456,
+                  105800.39701738924
+                ],
+                [
+                  100454.03798901728,
+                  105805.25001737545
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "037-039-025",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "DELGADO 1187",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.45830588245701,
+      -34.576966641605715
+    ],
+    "direccion": "",
+    "fondo": "10.62",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "039",
+    "parcela": "025",
+    "pdamatriz": "408389",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "037",
+    "smp": "037-039-025",
+    "smp_anterior": "037-039-024",
+    "smp_siguiente": "037-039-026",
+    "srid": 4326,
+    "superficie_cubierta": "143.00",
+    "superficie_total": "92.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "037-039-025",
+  "_http_status": 200
+}

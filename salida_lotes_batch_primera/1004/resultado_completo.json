@@ -1,0 +1,479 @@
+{
+  "area_m2": 237.896466255188,
+  "centroide_lonlat": {
+    "lat": -34.637687,
+    "lon": -58.36267
+  },
+  "centroide_xy": {
+    "x": 109227.04306953264,
+    "y": 99061.52480900858
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": "SINGULAR",
+          "denominacion": null,
+          "estado": "LEY FIRME",
+          "ley_3056": "SI",
+          "proteccion": "CAUTELAR"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 0.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/04/006-009-014_0000297704.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION006/006-009-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION006/PI-006-009-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": true,
+          "smp_linderas": [
+            "006-009-015",
+            "006-009-013"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "C3 II 2",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0.0,
+          "plusvalia_pl": 0.0,
+          "plusvalia_sl": 0.0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 237.9,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "006-009-014"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C. ARGERICH",
+    "barrio": "Boca",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1162",
+    "codigo_postal_argentino": "C1162ABM",
+    "comisaria": "24",
+    "comisaria_vecinal": "4C",
+    "comuna": "Comuna 4",
+    "distrito_economico": "DISTRITO DE LAS ARTES",
+    "distrito_escolar": "Distrito Escolar   IV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "06"
+  },
+  "debug": {
+    "address": "OLAVARRIA 699",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.3626698038485,
+        -34.637687065876506
+      ],
+      "direccion": "",
+      "fondo": "10.90",
+      "frente": "22.30",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "009",
+      "parcela": "014",
+      "pdamatriz": "121543",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "006",
+      "smp": "006-009-014",
+      "smp_anterior": "006-009-013",
+      "smp_siguiente": "006-009-015",
+      "srid": 4326,
+      "superficie_cubierta": "464.00",
+      "superficie_total": "243.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 699,
+      "cod_calle": 16012
+    },
+    "usig_direccion_elegida": {
+      "altura": 699,
+      "cod_calle": 16012,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.362607",
+        "y": "-34.637793"
+      },
+      "direccion": "OLAVARRIA 699, CABA",
+      "nombre_calle": "OLAVARRIA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 699,
+          "cod_calle": 16012,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.362607",
+            "y": "-34.637793"
+          },
+          "direccion": "OLAVARRIA 699, CABA",
+          "nombre_calle": "OLAVARRIA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 699,
+          "cod_calle": 708245,
+          "cod_calle_cruce": null,
+          "cod_partido": "avellaneda",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3494611816326,
+            "y": -34.6605679918367
+          },
+          "direccion": "Olavarría 699, Avellaneda",
+          "nombre_calle": "Olavarría",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Dock Sud",
+          "nombre_partido": "Avellaneda",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 699,
+          "cod_calle": 186999,
+          "cod_calle_cruce": null,
+          "cod_partido": "canuelas",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7659948,
+            "y": -35.0487202
+          },
+          "direccion": "Olavarría 699, Cañuelas",
+          "nombre_calle": "Olavarría",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Cañuelas",
+          "nombre_partido": "Cañuelas",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 699,
+          "cod_calle": 129784,
+          "cod_calle_cruce": null,
+          "cod_partido": "esteban_echeverria",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4619014965087,
+            "y": -34.8398335567986
+          },
+          "direccion": "Olavarría 699, Esteban Echeverría",
+          "nombre_calle": "Olavarría",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Monte Grande",
+          "nombre_partido": "Esteban Echeverría",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 699,
+          "cod_calle": 7620,
+          "cod_calle_cruce": null,
+          "cod_partido": "ituzaingo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6630640265306,
+            "y": -34.6512976367347
+          },
+          "direccion": "Coronel Olavarría 699, Ituzaingó",
+          "nombre_calle": "Coronel Olavarría",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ituzaingó",
+          "nombre_partido": "Ituzaingó",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 699,
+          "cod_calle": 30376,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5061934642857,
+            "y": -34.6857338846939
+          },
+          "direccion": "Olavarría 699, La Matanza",
+          "nombre_calle": "Olavarría",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Madero",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 699,
+          "cod_calle": 166634,
+          "cod_calle_cruce": null,
+          "cod_partido": "pilar",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.8959413448979,
+            "y": -34.451631067347
+          },
+          "direccion": "Olavarría 699, Pilar",
+          "nombre_calle": "Olavarría",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Pilar",
+          "nombre_partido": "Pilar",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 699,
+          "cod_calle": 160458,
+          "cod_calle_cruce": null,
+          "cod_partido": "quilmes",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.2456325229167,
+            "y": -34.7203854229167
+          },
+          "direccion": "Olavarría 699, Quilmes",
+          "nombre_calle": "Olavarría",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Quilmes",
+          "nombre_partido": "Quilmes",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  109236.83095930626,
+                  99054.14202969757
+                ],
+                [
+                  109235.39595930949,
+                  99053.4340297021
+                ],
+                [
+                  109230.01595932222,
+                  99050.77802971195
+                ],
+                [
+                  109228.41995932661,
+                  99049.99002971631
+                ],
+                [
+                  109226.44495933238,
+                  99050.64502971547
+                ],
+                [
+                  109226.33995933195,
+                  99050.68002971468
+                ],
+                [
+                  109225.92495933405,
+                  99051.50302971379
+                ],
+                [
+                  109222.3199593505,
+                  99058.65202969607
+                ],
+                [
+                  109221.86895935202,
+                  99059.5460296931
+                ],
+                [
+                  109218.26395936764,
+                  99066.69402967565
+                ],
+                [
+                  109217.73495936958,
+                  99067.74402967279
+                ],
+                [
+                  109217.1950887669,
+                  99068.81515418281
+                ],
+                [
+                  109222.12703455522,
+                  99071.15310583208
+                ],
+                [
+                  109225.08308923485,
+                  99072.55410680358
+                ],
+                [
+                  109226.0790609129,
+                  99073.02615269949
+                ],
+                [
+                  109227.17903649592,
+                  99073.54812535498
+                ],
+                [
+                  109228.03495934377,
+                  99071.82802965422
+                ],
+                [
+                  109229.22295933923,
+                  99069.43702965934
+                ],
+                [
+                  109229.28595933846,
+                  99069.3110296597
+                ],
+                [
+                  109230.22695933463,
+                  99067.42002966508
+                ],
+                [
+                  109231.25695932994,
+                  99065.350029669
+                ],
+                [
+                  109232.14495932515,
+                  99063.56402967407
+                ],
+                [
+                  109232.9679593227,
+                  99061.90902967771
+                ],
+                [
+                  109234.17295931773,
+                  99059.4870296843
+                ],
+                [
+                  109236.83095930626,
+                  99054.14202969757
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "006-009-014",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "OLAVARRIA 699",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.3626698038485,
+      -34.637687065876506
+    ],
+    "direccion": "",
+    "fondo": "10.90",
+    "frente": "22.30",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "009",
+    "parcela": "014",
+    "pdamatriz": "121543",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "006",
+    "smp": "006-009-014",
+    "smp_anterior": "006-009-013",
+    "smp_siguiente": "006-009-015",
+    "srid": 4326,
+    "superficie_cubierta": "464.00",
+    "superficie_total": "243.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "006-009-014",
+  "_http_status": 200
+}

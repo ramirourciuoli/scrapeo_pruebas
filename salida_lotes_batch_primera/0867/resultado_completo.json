@@ -1,0 +1,320 @@
+{
+  "area_m2": 209.53334999084473,
+  "centroide_lonlat": {
+    "lat": -34.544409,
+    "lon": -58.482621
+  },
+  "centroide_xy": {
+    "x": 98226.41792252714,
+    "y": 109413.87134232666
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.0,
+          "fot_perim_libre": 1.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/fp/SECCION043/FP-043-090-014-VD.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION043/043-090-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION043/PI-043-090-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "043-090-013",
+            "043-090-015"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R1b I",
+          "incidencia_uva": 300.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 13577.04
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 209.522200000063,
+        "sup_max_edificable": 1038.8,
+        "superficie_parcela": 209.5,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "043-090-014"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Saavedra",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1429",
+    "codigo_postal_argentino": "C1429ATK",
+    "comisaria": "35",
+    "comisaria_vecinal": "12A",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   X",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "43"
+  },
+  "debug": {
+    "address": "CAPITAN GENERAL RAMON FREIRE 4715",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.48262109257613,
+        -34.544408531651406
+      ],
+      "direccion": "",
+      "fondo": "23.71",
+      "frente": "9.15",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "090",
+      "parcela": "014",
+      "pdamatriz": "334767",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "043",
+      "smp": "043-090-014",
+      "smp_anterior": "043-090-013",
+      "smp_siguiente": "043-090-015",
+      "srid": 4326,
+      "superficie_cubierta": "367.00",
+      "superficie_total": "217.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4715,
+      "cod_calle": 6057
+    },
+    "usig_direccion_elegida": {
+      "altura": 4715,
+      "cod_calle": 6057,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.482737",
+        "y": "-34.544417"
+      },
+      "direccion": "FREIRE, RAMON, CAP. GRAL. 4715, CABA",
+      "nombre_calle": "FREIRE, RAMON, CAP. GRAL.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4715,
+          "cod_calle": 6057,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.482737",
+            "y": "-34.544417"
+          },
+          "direccion": "FREIRE, RAMON, CAP. GRAL. 4715, CABA",
+          "nombre_calle": "FREIRE, RAMON, CAP. GRAL.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98225.57999799022,
+                  109423.0710089076
+                ],
+                [
+                  98227.2249979859,
+                  109424.07300890295
+                ],
+                [
+                  98229.35899797794,
+                  109420.71500891072
+                ],
+                [
+                  98230.72499797195,
+                  109418.56500891628
+                ],
+                [
+                  98232.19799796632,
+                  109416.24700892172
+                ],
+                [
+                  98233.7799979604,
+                  109413.75900892669
+                ],
+                [
+                  98236.39499794925,
+                  109409.64300893681
+                ],
+                [
+                  98233.74399795581,
+                  109407.96600894336
+                ],
+                [
+                  98229.22999796685,
+                  109405.11000895509
+                ],
+                [
+                  98223.34999798352,
+                  109406.45000895561
+                ],
+                [
+                  98221.4719979915,
+                  109409.42800894877
+                ],
+                [
+                  98216.39499801124,
+                  109417.47700892968
+                ],
+                [
+                  98218.83499800591,
+                  109418.96300892415
+                ],
+                [
+                  98222.92199799661,
+                  109421.45200891327
+                ],
+                [
+                  98225.57999799022,
+                  109423.0710089076
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "043-090-014",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CAPITAN GENERAL RAMON FREIRE 4715",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.48262109257613,
+      -34.544408531651406
+    ],
+    "direccion": "",
+    "fondo": "23.71",
+    "frente": "9.15",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "090",
+    "parcela": "014",
+    "pdamatriz": "334767",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "043",
+    "smp": "043-090-014",
+    "smp_anterior": "043-090-013",
+    "smp_siguiente": "043-090-015",
+    "srid": 4326,
+    "superficie_cubierta": "367.00",
+    "superficie_total": "217.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "043-090-014",
+  "_http_status": 200
+}

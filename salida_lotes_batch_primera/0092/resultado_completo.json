@@ -1,0 +1,367 @@
+{
+  "area_m2": 222.28801345825195,
+  "centroide_lonlat": {
+    "lat": -34.554579,
+    "lon": -58.475872
+  },
+  "centroide_xy": {
+    "x": 98846.08217372496,
+    "y": 108285.65556875698
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 1,
+          "ensanche": 1,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/fp/SECCION041/FP-041-072-025-VD.pdf",
+          "perimetro_manzana": "",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION041/PI-041-072-V3.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "041-072-026",
+            "041-072-024",
+            "041-072-020"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 320.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 222.271649999988,
+        "sup_max_edificable": 1081.4,
+        "superficie_parcela": 222.3,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "041-072-025"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Saavedra",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1429",
+    "codigo_postal_argentino": "C1429BXA",
+    "comisaria": "35",
+    "comisaria_vecinal": "12A",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   X",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "41"
+  },
+  "debug": {
+    "address": "NUÑEZ 3365",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.47587211268423,
+        -34.55457949356825
+      ],
+      "direccion": "",
+      "fondo": "25.98",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "072",
+      "parcela": "025",
+      "pdamatriz": "330940",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "041",
+      "smp": "041-072-025",
+      "smp_anterior": "041-072-024",
+      "smp_siguiente": "041-072-026",
+      "srid": 4326,
+      "superficie_cubierta": "167.00",
+      "superficie_total": "225.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3365,
+      "cod_calle": 14031
+    },
+    "usig_direccion_elegida": {
+      "altura": 3365,
+      "cod_calle": 14031,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.475772",
+        "y": "-34.554701"
+      },
+      "direccion": "NUÑEZ 3365, CABA",
+      "nombre_calle": "NUÑEZ",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3365,
+          "cod_calle": 14031,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.475772",
+            "y": "-34.554701"
+          },
+          "direccion": "NUÑEZ 3365, CABA",
+          "nombre_calle": "NUÑEZ",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3365,
+          "cod_calle": 353353,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.34837505,
+            "y": -34.8780613
+          },
+          "direccion": "Gendarme Núñez 3365, Almirante Brown",
+          "nombre_calle": "Gendarme Núñez",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Glew",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3365,
+          "cod_calle": 208059,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7171194772727,
+            "y": -34.7127017272727
+          },
+          "direccion": "Avenida Martinez de Nuñez 3365, Merlo",
+          "nombre_calle": "Avenida Martinez de Nuñez",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Pontevedra",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98839.56847685919,
+                  108287.9442865306
+                ],
+                [
+                  98835.58507843758,
+                  108294.22114198477
+                ],
+                [
+                  98838.43511505215,
+                  108296.17213074671
+                ],
+                [
+                  98842.64806670268,
+                  108299.05610290341
+                ],
+                [
+                  98844.78429716287,
+                  108295.6826898253
+                ],
+                [
+                  98846.715876745,
+                  108292.6328851449
+                ],
+                [
+                  98848.98009792739,
+                  108289.05750673529
+                ],
+                [
+                  98850.82329860363,
+                  108286.14692324598
+                ],
+                [
+                  98853.67730249847,
+                  108281.64051456505
+                ],
+                [
+                  98856.59307397122,
+                  108277.03608342342
+                ],
+                [
+                  98849.50811305,
+                  108272.28211615692
+                ],
+                [
+                  98848.1592971374,
+                  108274.40772650356
+                ],
+                [
+                  98847.19250026628,
+                  108275.93110296485
+                ],
+                [
+                  98844.69970242464,
+                  108279.85914250647
+                ],
+                [
+                  98841.82202099038,
+                  108284.39340859457
+                ],
+                [
+                  98841.49407382857,
+                  108284.91028687483
+                ],
+                [
+                  98840.05828398615,
+                  108287.17274112225
+                ],
+                [
+                  98839.56847685919,
+                  108287.9442865306
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "041-072-025",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "NUÑEZ 3365",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.47587211268423,
+      -34.55457949356825
+    ],
+    "direccion": "",
+    "fondo": "25.98",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "072",
+    "parcela": "025",
+    "pdamatriz": "330940",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "041",
+    "smp": "041-072-025",
+    "smp_anterior": "041-072-024",
+    "smp_siguiente": "041-072-026",
+    "srid": 4326,
+    "superficie_cubierta": "167.00",
+    "superficie_total": "225.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "041-072-025",
+  "_http_status": 200
+}

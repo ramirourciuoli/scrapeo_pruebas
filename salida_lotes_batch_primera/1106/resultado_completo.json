@@ -1,0 +1,411 @@
+{
+  "area_m2": 303.74864292144775,
+  "centroide_lonlat": {
+    "lat": -34.59301,
+    "lon": -58.416736
+  },
+  "centroide_xy": {
+    "x": 104271.8165697691,
+    "y": 104021.43854465893
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/8/54/019-040-004_0000257854.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION019/019-040-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION019/PI-019-040-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "019-040-042",
+            "019-040-003",
+            "019-040-043",
+            "019-040-041",
+            "019-040-005a"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 440.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 303.76050000014,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 303.7,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "019-040-004"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.A.FERNÁNDEZ",
+    "barrio": "Palermo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1175",
+    "codigo_postal_argentino": "C1175ACB",
+    "comisaria": "21",
+    "comisaria_vecinal": "14A",
+    "comuna": "Comuna 14",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   II",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "19"
+  },
+  "debug": {
+    "address": "EL SALVADOR 3828",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.41673648691616,
+        -34.593010033923875
+      ],
+      "direccion": "",
+      "fondo": "35.45",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "040",
+      "parcela": "004",
+      "pdamatriz": "424086",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "4",
+      "propiedad_horizontal": "Si",
+      "seccion": "019",
+      "smp": "019-040-004",
+      "smp_anterior": "019-040-003",
+      "smp_siguiente": "019-040-005A",
+      "srid": 4326,
+      "superficie_cubierta": "721.00",
+      "superficie_total": "307.00",
+      "unidades_funcionales": "13",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3828,
+      "cod_calle": 5050
+    },
+    "usig_direccion_elegida": {
+      "altura": 3828,
+      "cod_calle": 5050,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.416741",
+        "y": "-34.592802"
+      },
+      "direccion": "EL SALVADOR 3828, CABA",
+      "nombre_calle": "EL SALVADOR",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3828,
+          "cod_calle": 5050,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.416741",
+            "y": "-34.592802"
+          },
+          "direccion": "EL SALVADOR 3828, CABA",
+          "nombre_calle": "EL SALVADOR",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  104267.27897699446,
+                  104039.05001945811
+                ],
+                [
+                  104272.83897697847,
+                  104039.01701945422
+                ],
+                [
+                  104276.03897696965,
+                  104038.99801945151
+                ],
+                [
+                  104276.04197696906,
+                  104037.598019456
+                ],
+                [
+                  104276.0469769669,
+                  104034.86001946378
+                ],
+                [
+                  104276.06897695879,
+                  104024.3490194933
+                ],
+                [
+                  104276.07297695693,
+                  104022.24701949928
+                ],
+                [
+                  104276.07697695505,
+                  104020.13801950502
+                ],
+                [
+                  104276.09497694888,
+                  104011.80601952792
+                ],
+                [
+                  104276.09597694865,
+                  104011.24401952961
+                ],
+                [
+                  104276.1039769451,
+                  104006.05401954372
+                ],
+                [
+                  104276.1089769425,
+                  104002.78401955334
+                ],
+                [
+                  104274.09597694817,
+                  104003.17801955412
+                ],
+                [
+                  104270.63597695841,
+                  104003.8550195549
+                ],
+                [
+                  104267.70797696675,
+                  104004.42801955537
+                ],
+                [
+                  104267.67297696976,
+                  104007.2420195468
+                ],
+                [
+                  104267.66597697,
+                  104007.8410195456
+                ],
+                [
+                  104267.62197697302,
+                  104011.34101953582
+                ],
+                [
+                  104267.55997697613,
+                  104016.36901952169
+                ],
+                [
+                  104267.55697697675,
+                  104016.59801952128
+                ],
+                [
+                  104267.53197697799,
+                  104018.640019515
+                ],
+                [
+                  104267.52297697891,
+                  104019.34001951324
+                ],
+                [
+                  104267.50097698042,
+                  104021.09701950857
+                ],
+                [
+                  104267.47297698232,
+                  104023.42301950237
+                ],
+                [
+                  104267.43997698455,
+                  104026.05601949451
+                ],
+                [
+                  104267.43597698418,
+                  104026.39601949338
+                ],
+                [
+                  104267.41297698558,
+                  104028.24901948834
+                ],
+                [
+                  104267.38597698751,
+                  104030.39501948204
+                ],
+                [
+                  104267.38097698794,
+                  104030.81301948146
+                ],
+                [
+                  104267.35397698988,
+                  104032.97301947555
+                ],
+                [
+                  104267.35197698968,
+                  104033.09901947537
+                ],
+                [
+                  104267.34097699044,
+                  104034.00601947244
+                ],
+                [
+                  104267.3169769918,
+                  104036.00601946688
+                ],
+                [
+                  104267.2909769938,
+                  104038.0500194609
+                ],
+                [
+                  104267.28597699424,
+                  104038.44901946004
+                ],
+                [
+                  104267.28497699415,
+                  104038.54901945943
+                ],
+                [
+                  104267.27897699446,
+                  104039.05001945811
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "019-040-004",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "EL SALVADOR 3828",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.41673648691616,
+      -34.593010033923875
+    ],
+    "direccion": "",
+    "fondo": "35.45",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "040",
+    "parcela": "004",
+    "pdamatriz": "424086",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "4",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "019",
+    "smp": "019-040-004",
+    "smp_anterior": "019-040-003",
+    "smp_siguiente": "019-040-005A",
+    "srid": 4326,
+    "superficie_cubierta": "721.00",
+    "superficie_total": "307.00",
+    "unidades_funcionales": "13",
+    "vuc": "0.00"
+  },
+  "smp": "019-040-004",
+  "_http_status": 200
+}

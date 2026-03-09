@@ -1,0 +1,338 @@
+{
+  "area_m2": 92.11944198608398,
+  "centroide_lonlat": {
+    "lat": -34.64371,
+    "lon": -58.522334
+  },
+  "centroide_xy": {
+    "x": 94587.41603953297,
+    "y": 98396.37286465865
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 11.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "U",
+            "distrito_especifico": "U3 a"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 0.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/06/072-083B-001_0000028606.pdf",
+          "perimetro_manzana": "",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION072/PI-072-083B-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "DI-2022-685-GCABA-DGIUR",
+          "pdf": "072-083B.pdf"
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "072-083B-002",
+            "072-083B-020",
+            "072-083B-003"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "U3 a",
+          "incidencia_uva": 50.0,
+          "plusvalia_em": 0.0,
+          "plusvalia_pl": 0.0,
+          "plusvalia_sl": 0.0
+        },
+        "rivolta": 0,
+        "subzona": "TELLIER-LINIERS",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 92.1,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "072-083B-001"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Liniers",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1408",
+    "codigo_postal_argentino": "C1408GPC",
+    "comisaria": "54",
+    "comisaria_vecinal": "9B",
+    "comuna": "Comuna 9",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "72"
+  },
+  "debug": {
+    "address": "LA CAUTIVA 403",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.52233395831511,
+        -34.64371008297141
+      ],
+      "direccion": "",
+      "fondo": "20.18",
+      "frente": "4.56",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "083B",
+      "parcela": "001",
+      "pdamatriz": "17260",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "072",
+      "smp": "072-083B-001",
+      "smp_anterior": "072-083B-020",
+      "smp_siguiente": "072-083B-002",
+      "srid": 4326,
+      "superficie_cubierta": "143.00",
+      "superficie_total": "92.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 403,
+      "cod_calle": 12007
+    },
+    "usig_direccion_elegida": {
+      "altura": 403,
+      "cod_calle": 12007,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.522261",
+        "y": "-34.643702"
+      },
+      "direccion": "LA CAUTIVA 403, CABA",
+      "nombre_calle": "LA CAUTIVA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 403,
+          "cod_calle": 12007,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.522261",
+            "y": "-34.643702"
+          },
+          "direccion": "LA CAUTIVA 403, CABA",
+          "nombre_calle": "LA CAUTIVA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 403,
+          "cod_calle": 85339,
+          "cod_calle_cruce": null,
+          "cod_partido": "ezeiza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5752622653061,
+            "y": -34.8867138846939
+          },
+          "direccion": "La Cautiva 403, Ezeiza",
+          "nombre_calle": "La Cautiva",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Tristán Suárez",
+          "nombre_partido": "Ezeiza",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  94589.80299988954,
+                  98400.38504255482
+                ],
+                [
+                  94591.5559998837,
+                  98398.88804255903
+                ],
+                [
+                  94591.85899988197,
+                  98398.62904255852
+                ],
+                [
+                  94592.20899987877,
+                  98395.51104256482
+                ],
+                [
+                  94592.65899987446,
+                  98391.50204257885
+                ],
+                [
+                  94583.98499989843,
+                  98390.61304258608
+                ],
+                [
+                  94583.53399990301,
+                  98394.62304257666
+                ],
+                [
+                  94583.51499990295,
+                  98394.79204257537
+                ],
+                [
+                  94583.17299990707,
+                  98397.83704256758
+                ],
+                [
+                  94583.15099990612,
+                  98398.02604256678
+                ],
+                [
+                  94582.95199990732,
+                  98399.80104256241
+                ],
+                [
+                  94582.67099991076,
+                  98402.29604255586
+                ],
+                [
+                  94587.26899989875,
+                  98402.54904255067
+                ],
+                [
+                  94589.59199988996,
+                  98400.56504255527
+                ],
+                [
+                  94589.80299988954,
+                  98400.38504255482
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "072-083B-001",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "LA CAUTIVA 403",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.52233395831511,
+      -34.64371008297141
+    ],
+    "direccion": "",
+    "fondo": "20.18",
+    "frente": "4.56",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "083B",
+    "parcela": "001",
+    "pdamatriz": "17260",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "072",
+    "smp": "072-083B-001",
+    "smp_anterior": "072-083B-020",
+    "smp_siguiente": "072-083B-002",
+    "srid": 4326,
+    "superficie_cubierta": "143.00",
+    "superficie_total": "92.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "072-083B-001",
+  "_http_status": 200
+}

@@ -1,0 +1,430 @@
+{
+  "area_m2": 402.87317943573,
+  "centroide_lonlat": {
+    "lat": -34.594975,
+    "lon": -58.401345
+  },
+  "centroide_xy": {
+    "x": 105683.7109872586,
+    "y": 103802.70760550255
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          38.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 45.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 4.0,
+          "fot_perim_libre": 4.0,
+          "fot_semi_libre": 4.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/10/011-004-001a_0000457610.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION011/011-004-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION011/PI-011-004-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "011-004-002",
+            "011-004-044"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "C3 I",
+          "incidencia_uva": 420.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 402.930200000019,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 402.9,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          38.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "011-004-001A"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.A.FERNÁNDEZ",
+    "barrio": "Recoleta",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1123",
+    "codigo_postal_argentino": "C1123AAT",
+    "comisaria": "19",
+    "comisaria_vecinal": "2B",
+    "comuna": "Comuna 2",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   I",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "11"
+  },
+  "debug": {
+    "address": "AV. SANTA FE 2402",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.40134514214417,
+        -34.594974879449516
+      ],
+      "direccion": "",
+      "fondo": "35.84",
+      "frente": "11.16",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "004",
+      "parcela": "001A",
+      "pdamatriz": "441183",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "011",
+      "smp": "011-004-001A",
+      "smp_anterior": "011-004-044",
+      "smp_siguiente": "011-004-002",
+      "srid": 4326,
+      "superficie_cubierta": "752.00",
+      "superficie_total": "400.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2402,
+      "cod_calle": 20057
+    },
+    "usig_direccion_elegida": {
+      "altura": 2402,
+      "cod_calle": 20057,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.401282",
+        "y": "-34.594822"
+      },
+      "direccion": "SANTA FE AV. 2402, CABA",
+      "nombre_calle": "SANTA FE AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2402,
+          "cod_calle": 20057,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.401282",
+            "y": "-34.594822"
+          },
+          "direccion": "SANTA FE AV. 2402, CABA",
+          "nombre_calle": "SANTA FE AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2402,
+          "cod_calle": 118819,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.387661,
+            "y": -34.8804936
+          },
+          "direccion": "Provincia de Santa Fe 2402, Almirante Brown",
+          "nombre_calle": "Provincia de Santa Fe",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Glew",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2402,
+          "cod_calle": 109566,
+          "cod_calle_cruce": null,
+          "cod_partido": "lujan",
+          "direccion": "Calle 464 - Santa Fe 2402, Luján",
+          "nombre_calle": "Calle 464 - Santa Fe",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Luján",
+          "nombre_partido": "Luján",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2402,
+          "cod_calle": 161989,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7273616,
+            "y": -34.656843
+          },
+          "direccion": "Santa Fe 2402, Merlo",
+          "nombre_calle": "Santa Fe",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Merlo",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2402,
+          "cod_calle": 84006,
+          "cod_calle_cruce": null,
+          "cod_partido": "quilmes",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3309859,
+            "y": -34.7510116
+          },
+          "direccion": "Avenida Santa Fe 2402, Quilmes",
+          "nombre_calle": "Avenida Santa Fe",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Quilmes",
+          "nombre_partido": "Quilmes",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2402,
+          "cod_calle": 7931,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_isidro",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4983203094267,
+            "y": -34.4940555348833
+          },
+          "direccion": "Avenida Santa Fe 2402, San Isidro",
+          "nombre_calle": "Avenida Santa Fe",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Martínez",
+          "nombre_partido": "San Isidro",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2402,
+          "cod_calle": 11315,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_miguel",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7008802,
+            "y": -34.5665279
+          },
+          "direccion": "Avenida Santa Fe 2402, San Miguel",
+          "nombre_calle": "Avenida Santa Fe",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Bella Vista",
+          "nombre_partido": "San Miguel",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2402,
+          "cod_calle": 146044,
+          "cod_calle_cruce": null,
+          "cod_partido": "tigre",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6241831,
+            "y": -34.5025701
+          },
+          "direccion": "Santa Fe 2402, Tigre",
+          "nombre_calle": "Santa Fe",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Don Torcuato",
+          "nombre_partido": "Tigre",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  105678.68997286633,
+                  103812.75001903059
+                ],
+                [
+                  105680.30897286569,
+                  103817.96801901504
+                ],
+                [
+                  105690.92997283262,
+                  103814.48001901695
+                ],
+                [
+                  105693.67997282087,
+                  103809.16001902948
+                ],
+                [
+                  105688.14897282096,
+                  103787.95901909276
+                ],
+                [
+                  105678.68597284937,
+                  103791.0810190916
+                ],
+                [
+                  105675.83697285861,
+                  103792.02101909055
+                ],
+                [
+                  105674.8899728609,
+                  103792.33401909046
+                ],
+                [
+                  105673.46897286511,
+                  103792.80201909057
+                ],
+                [
+                  105672.89997286769,
+                  103792.99001909053
+                ],
+                [
+                  105672.59097286825,
+                  103793.09201909046
+                ],
+                [
+                  105673.5949728676,
+                  103796.32901908038
+                ],
+                [
+                  105676.57897286663,
+                  103805.94501905152
+                ],
+                [
+                  105678.68997286633,
+                  103812.75001903059
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "011-004-001A",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AV. SANTA FE 2402",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.40134514214417,
+      -34.594974879449516
+    ],
+    "direccion": "",
+    "fondo": "35.84",
+    "frente": "11.16",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "004",
+    "parcela": "001A",
+    "pdamatriz": "441183",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "011",
+    "smp": "011-004-001A",
+    "smp_anterior": "011-004-044",
+    "smp_siguiente": "011-004-002",
+    "srid": 4326,
+    "superficie_cubierta": "752.00",
+    "superficie_total": "400.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "011-004-001A",
+  "_http_status": 200
+}

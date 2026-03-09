@@ -1,0 +1,342 @@
+{
+  "area_m2": 150.07180309295654,
+  "centroide_lonlat": {
+    "lat": -34.571017,
+    "lon": -58.505264
+  },
+  "centroide_xy": {
+    "x": 96149.1476383029,
+    "y": 106461.46501326891
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/2/06/063-014-011_0000243206.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION063/063-014-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION063/PI-063-014-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "063-014-010",
+            "063-014-012",
+            "063-014-009",
+            "063-014-008"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 140.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 150.048399999972,
+        "sup_max_edificable": 718.3,
+        "superficie_parcela": 150.1,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "063-014-011"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Villa Urquiza",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1431",
+    "codigo_postal_argentino": "C1431EWA",
+    "comisaria": "49",
+    "comisaria_vecinal": "12C",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "63"
+  },
+  "debug": {
+    "address": "MEDEYROS 3445",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.505263874865406,
+        -34.57101668673213
+      ],
+      "direccion": "",
+      "fondo": "17.90",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "014",
+      "parcela": "011",
+      "pdamatriz": "355055",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "063",
+      "smp": "063-014-011",
+      "smp_anterior": "063-014-010",
+      "smp_siguiente": "063-014-012",
+      "srid": 4326,
+      "superficie_cubierta": "132.00",
+      "superficie_total": "155.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3445,
+      "cod_calle": 13059
+    },
+    "usig_direccion_elegida": {
+      "altura": 3445,
+      "cod_calle": 13059,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.505386",
+        "y": "-34.571085"
+      },
+      "direccion": "MEDEYROS 3445, CABA",
+      "nombre_calle": "MEDEYROS",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3445,
+          "cod_calle": 13059,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.505386",
+            "y": "-34.571085"
+          },
+          "direccion": "MEDEYROS 3445, CABA",
+          "nombre_calle": "MEDEYROS",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96143.89800159246,
+                  106453.06001880261
+                ],
+                [
+                  96139.32800161015,
+                  106459.91001878743
+                ],
+                [
+                  96140.5610016073,
+                  106460.73101878373
+                ],
+                [
+                  96141.2150016059,
+                  106461.16701878267
+                ],
+                [
+                  96143.6700016003,
+                  106462.80201877607
+                ],
+                [
+                  96147.180001592,
+                  106465.14001876637
+                ],
+                [
+                  96147.97600159027,
+                  106465.67201876483
+                ],
+                [
+                  96149.96200158622,
+                  106466.99801875904
+                ],
+                [
+                  96152.45200157976,
+                  106468.66101875316
+                ],
+                [
+                  96154.51600157525,
+                  106470.04001874747
+                ],
+                [
+                  96154.62500157494,
+                  106469.84001874778
+                ],
+                [
+                  96156.60000156648,
+                  106466.42901875553
+                ],
+                [
+                  96157.55400156246,
+                  106464.78001876015
+                ],
+                [
+                  96158.75800155837,
+                  106462.700018765
+                ],
+                [
+                  96154.03100156938,
+                  106459.63401877656
+                ],
+                [
+                  96152.29200157335,
+                  106458.50501878138
+                ],
+                [
+                  96151.70600157458,
+                  106458.12501878297
+                ],
+                [
+                  96148.77000158068,
+                  106456.22001879025
+                ],
+                [
+                  96146.2520015873,
+                  106454.58701879729
+                ],
+                [
+                  96143.89800159246,
+                  106453.06001880261
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "063-014-011",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MEDEYROS 3445",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.505263874865406,
+      -34.57101668673213
+    ],
+    "direccion": "",
+    "fondo": "17.90",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "014",
+    "parcela": "011",
+    "pdamatriz": "355055",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "063",
+    "smp": "063-014-011",
+    "smp_anterior": "063-014-010",
+    "smp_siguiente": "063-014-012",
+    "srid": 4326,
+    "superficie_cubierta": "132.00",
+    "superficie_total": "155.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "063-014-011",
+  "_http_status": 200
+}

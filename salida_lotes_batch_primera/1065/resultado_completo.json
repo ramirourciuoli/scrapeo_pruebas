@@ -1,0 +1,112 @@
+{
+  "debug": {
+    "address": "CASTRO BARROS 522",
+    "catastro_parcela_por_codcalle_altura": {},
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "CASTRO BARROS",
+      "puerta": 522
+    },
+    "usig_cod_calle_altura": {
+      "altura": 522,
+      "cod_calle": 3096
+    },
+    "usig_direccion_elegida": {
+      "altura": 522,
+      "cod_calle": 3096,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.419579",
+        "y": "-34.617925"
+      },
+      "direccion": "CASTRO BARROS 522, CABA",
+      "nombre_calle": "CASTRO BARROS",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.617925,
+      "lng": -58.419579
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 522,
+          "cod_calle": 3096,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.419579",
+            "y": "-34.617925"
+          },
+          "direccion": "CASTRO BARROS 522, CABA",
+          "nombre_calle": "CASTRO BARROS",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 522,
+          "cod_calle": 19736,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.40073855,
+            "y": -34.7116485833333
+          },
+          "direccion": "Castro Barros 522, Lanús",
+          "nombre_calle": "Castro Barros",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lanús Oeste",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 522,
+          "cod_calle": 427,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3873997755102,
+            "y": -34.7381787714286
+          },
+          "direccion": "Castro Barros 522, Lomas de Zamora",
+          "nombre_calle": "Castro Barros",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Banfield",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 522,
+          "cod_calle": 96735,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7107153510204,
+            "y": -34.6621482040816
+          },
+          "direccion": "Castro Barros 522, Merlo",
+          "nombre_calle": "Castro Barros",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Antonio de Padua",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura.",
+  "ok": false,
+  "_http_status": 404
+}

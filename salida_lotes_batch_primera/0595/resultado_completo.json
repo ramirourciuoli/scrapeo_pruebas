@@ -1,0 +1,449 @@
+{
+  "area_m2": 394.3784580230713,
+  "centroide_lonlat": {
+    "lat": -34.611685,
+    "lon": -58.450608
+  },
+  "centroide_xy": {
+    "x": 101164.15975133367,
+    "y": 101950.6766634984
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 0.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "U",
+            "distrito_especifico": "U 85"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 0.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/2/49/057-108-004_0000133249.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION057/057-108-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION057/PI-057-108-V4.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "057-108-003",
+            "057-108-036",
+            "057-108-037",
+            "057-108-005"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2b I 10",
+          "incidencia_uva": 200.0,
+          "plusvalia_em": 0.0,
+          "plusvalia_pl": 0.0,
+          "plusvalia_sl": 0.0
+        },
+        "rivolta": 0,
+        "subzona": "Zona 2b",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 394.4,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "057-108-004"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. T. ÁLVAREZ",
+    "barrio": "Caballito",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1405",
+    "codigo_postal_argentino": "C1405DEP",
+    "comisaria": "13",
+    "comisaria_vecinal": "6A",
+    "comuna": "Comuna 6",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "57"
+  },
+  "debug": {
+    "address": "FRANKLIN 1140",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.45060762066193,
+        -34.61168455979527
+      ],
+      "direccion": "",
+      "fondo": "45.71",
+      "frente": "8.62",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "108",
+      "parcela": "004",
+      "pdamatriz": "130760",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "3",
+      "propiedad_horizontal": "Si",
+      "seccion": "057",
+      "smp": "057-108-004",
+      "smp_anterior": "057-108-003",
+      "smp_siguiente": "057-108-005",
+      "srid": 4326,
+      "superficie_cubierta": "616.00",
+      "superficie_total": "394.00",
+      "unidades_funcionales": "9",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1140,
+      "cod_calle": 6053
+    },
+    "usig_direccion_elegida": {
+      "altura": 1140,
+      "cod_calle": 6053,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.450730",
+        "y": "-34.611472"
+      },
+      "direccion": "FRANKLIN 1140, CABA",
+      "nombre_calle": "FRANKLIN",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1140,
+          "cod_calle": 6053,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.450730",
+            "y": "-34.611472"
+          },
+          "direccion": "FRANKLIN 1140, CABA",
+          "nombre_calle": "FRANKLIN",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1140,
+          "cod_calle": 110957,
+          "cod_calle_cruce": null,
+          "cod_partido": "florencio_varela",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.2949292816327,
+            "y": -34.7987011979592
+          },
+          "direccion": "Benjamin Franklin 1140, Florencio Varela",
+          "nombre_calle": "Benjamin Franklin",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Florencio Varela",
+          "nombre_partido": "Florencio Varela",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1140,
+          "cod_calle": 183248,
+          "cod_calle_cruce": null,
+          "cod_partido": "hurlingham",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6434691333333,
+            "y": -34.6288499484849
+          },
+          "direccion": "Franklin 1140, Hurlingham",
+          "nombre_calle": "Franklin",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Tesei",
+          "nombre_partido": "Hurlingham",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1140,
+          "cod_calle": 175707,
+          "cod_calle_cruce": null,
+          "cod_partido": "malvinas_argentinas",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6973059,
+            "y": -34.4743351306123
+          },
+          "direccion": "Franklin 1140, Malvinas Argentinas",
+          "nombre_calle": "Franklin",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Pablo Nogués",
+          "nombre_partido": "Malvinas Argentinas",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  101150.4629841778,
+                  101969.5730276081
+                ],
+                [
+                  101152.26898417366,
+                  101970.4350276025
+                ],
+                [
+                  101158.24198415695,
+                  101973.2850275909
+                ],
+                [
+                  101158.75398415625,
+                  101972.19902759432
+                ],
+                [
+                  101161.15598414565,
+                  101967.10302760746
+                ],
+                [
+                  101161.29798414501,
+                  101966.803027608
+                ],
+                [
+                  101161.77498414295,
+                  101965.7910276104
+                ],
+                [
+                  101162.90398413793,
+                  101963.39502761452
+                ],
+                [
+                  101165.01498412868,
+                  101958.91602762675
+                ],
+                [
+                  101166.0229841239,
+                  101956.77802763102
+                ],
+                [
+                  101166.7409841218,
+                  101955.25402763611
+                ],
+                [
+                  101167.93298411617,
+                  101952.72702764024
+                ],
+                [
+                  101169.38198410999,
+                  101949.65202764969
+                ],
+                [
+                  101170.61198410366,
+                  101947.04302765566
+                ],
+                [
+                  101171.05798410178,
+                  101946.09602765893
+                ],
+                [
+                  101172.52198409599,
+                  101942.99002766711
+                ],
+                [
+                  101174.23398408761,
+                  101939.35902767492
+                ],
+                [
+                  101175.08998408442,
+                  101937.54402768149
+                ],
+                [
+                  101175.94198408074,
+                  101935.73502768512
+                ],
+                [
+                  101177.871984072,
+                  101931.6410276932
+                ],
+                [
+                  101174.59998408005,
+                  101930.13202770072
+                ],
+                [
+                  101174.0549840815,
+                  101929.8810277014
+                ],
+                [
+                  101170.12198409135,
+                  101928.0670277091
+                ],
+                [
+                  101165.82498410958,
+                  101937.13902768737
+                ],
+                [
+                  101164.8039841142,
+                  101939.29502768151
+                ],
+                [
+                  101162.05898412644,
+                  101945.09002766694
+                ],
+                [
+                  101161.40998412899,
+                  101946.46002766473
+                ],
+                [
+                  101160.4449841333,
+                  101948.49802765905
+                ],
+                [
+                  101158.08998414398,
+                  101953.47102764717
+                ],
+                [
+                  101158.0049841443,
+                  101953.65002764793
+                ],
+                [
+                  101157.85798414434,
+                  101953.96002764729
+                ],
+                [
+                  101152.60298416801,
+                  101965.05402761797
+                ],
+                [
+                  101150.67698417632,
+                  101969.12102760855
+                ],
+                [
+                  101150.4629841778,
+                  101969.5730276081
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "057-108-004",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "FRANKLIN 1140",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.45060762066193,
+      -34.61168455979527
+    ],
+    "direccion": "",
+    "fondo": "45.71",
+    "frente": "8.62",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "108",
+    "parcela": "004",
+    "pdamatriz": "130760",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "3",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "057",
+    "smp": "057-108-004",
+    "smp_anterior": "057-108-003",
+    "smp_siguiente": "057-108-005",
+    "srid": 4326,
+    "superficie_cubierta": "616.00",
+    "superficie_total": "394.00",
+    "unidades_funcionales": "9",
+    "vuc": "0.00"
+  },
+  "smp": "057-108-004",
+  "_http_status": 200
+}

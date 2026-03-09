@@ -1,0 +1,374 @@
+{
+  "area_m2": 195.99505710601807,
+  "centroide_lonlat": {
+    "lat": -34.653453,
+    "lon": -58.512809
+  },
+  "centroide_xy": {
+    "x": 95461.26560190883,
+    "y": 97315.97636389648
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/3/98/074-078-032_0000060398.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION074/074-078-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION074/PI-074-078-V4.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "074-078-031",
+            "074-078-033",
+            "074-078-029",
+            "074-078-028"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 150.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 145.202768553161,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 196.0,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "074-078-032"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Mataderos",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1440",
+    "codigo_postal_argentino": "C1440CAE",
+    "comisaria": "42",
+    "comisaria_vecinal": "9A",
+    "comuna": "Comuna 9",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "74"
+  },
+  "debug": {
+    "address": "PIZARRO 6761",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.512808847755146,
+        -34.65345317667424
+      ],
+      "direccion": "",
+      "fondo": "27.37",
+      "frente": "7.27",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "078",
+      "parcela": "032",
+      "pdamatriz": "16812",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "2",
+      "propiedad_horizontal": "Si",
+      "seccion": "074",
+      "smp": "074-078-032",
+      "smp_anterior": "074-078-031",
+      "smp_siguiente": "074-078-033",
+      "srid": 4326,
+      "superficie_cubierta": "341.00",
+      "superficie_total": "199.00",
+      "unidades_funcionales": "8",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 6761,
+      "cod_calle": 17095
+    },
+    "usig_direccion_elegida": {
+      "altura": 6761,
+      "cod_calle": 17095,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.512658",
+        "y": "-34.653560"
+      },
+      "direccion": "PIZARRO 6761, CABA",
+      "nombre_calle": "PIZARRO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 6761,
+          "cod_calle": 17095,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.512658",
+            "y": "-34.653560"
+          },
+          "direccion": "PIZARRO 6761, CABA",
+          "nombre_calle": "PIZARRO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  95456.11999664347,
+                  97315.56404494596
+                ],
+                [
+                  95454.47999664943,
+                  97316.94304494301
+                ],
+                [
+                  95451.28399665999,
+                  97319.64904493807
+                ],
+                [
+                  95451.14899666065,
+                  97319.76304493792
+                ],
+                [
+                  95448.59499666988,
+                  97321.9250449343
+                ],
+                [
+                  95449.0209966681,
+                  97322.40304493177
+                ],
+                [
+                  95451.13199666543,
+                  97324.77204492444
+                ],
+                [
+                  95453.51099666047,
+                  97327.44104491491
+                ],
+                [
+                  95456.06199665162,
+                  97325.24504491864
+                ],
+                [
+                  95458.64807336242,
+                  97323.01939213139
+                ],
+                [
+                  95459.86955592009,
+                  97321.96814873235
+                ],
+                [
+                  95463.4379966254,
+                  97318.8970449316
+                ],
+                [
+                  95464.30141345717,
+                  97318.15376911094
+                ],
+                [
+                  95465.8667971841,
+                  97316.80620228912
+                ],
+                [
+                  95466.78699661426,
+                  97316.0140449377
+                ],
+                [
+                  95467.14102130453,
+                  97315.709341807
+                ],
+                [
+                  95471.62805129505,
+                  97311.8474301013
+                ],
+                [
+                  95472.36568171567,
+                  97311.21256392825
+                ],
+                [
+                  95473.92899658775,
+                  97309.86704494787
+                ],
+                [
+                  95473.22499659103,
+                  97309.03904495187
+                ],
+                [
+                  95469.97899659698,
+                  97305.22304496443
+                ],
+                [
+                  95469.32999659801,
+                  97304.45904496664
+                ],
+                [
+                  95463.4779966182,
+                  97309.37904495723
+                ],
+                [
+                  95462.10399662305,
+                  97310.53404495525
+                ],
+                [
+                  95461.08999662613,
+                  97311.38604495363
+                ],
+                [
+                  95459.73399663111,
+                  97312.52604495108
+                ],
+                [
+                  95458.72599663511,
+                  97313.37304495135
+                ],
+                [
+                  95456.11999664347,
+                  97315.56404494596
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "074-078-032",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "PIZARRO 6761",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.512808847755146,
+      -34.65345317667424
+    ],
+    "direccion": "",
+    "fondo": "27.37",
+    "frente": "7.27",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "078",
+    "parcela": "032",
+    "pdamatriz": "16812",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "2",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "074",
+    "smp": "074-078-032",
+    "smp_anterior": "074-078-031",
+    "smp_siguiente": "074-078-033",
+    "srid": 4326,
+    "superficie_cubierta": "341.00",
+    "superficie_total": "199.00",
+    "unidades_funcionales": "8",
+    "vuc": "0.00"
+  },
+  "smp": "074-078-032",
+  "_http_status": 200
+}

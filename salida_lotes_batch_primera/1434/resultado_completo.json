@@ -1,0 +1,281 @@
+{
+  "area_m2": 257.8648557662964,
+  "centroide_lonlat": {
+    "lat": -34.627542,
+    "lon": -58.419211
+  },
+  "centroide_xy": {
+    "x": 104043.08506039374,
+    "y": 100190.66404947305
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 0.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "PEV",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "RUA",
+            "distrito_especifico": "RUA"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/1/28/036-090-007d_0000297128.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION036/036-090-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION036/PI-036-090-V3.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "036-090-006b",
+            "036-090-007c",
+            "036-090-008b"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "RUA",
+          "incidencia_uva": 150.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0.0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 257.9,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "036-090-007D"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Boedo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1252",
+    "codigo_postal_argentino": "C1252ABP",
+    "comisaria": "10",
+    "comisaria_vecinal": "5B",
+    "comuna": "Comuna 5",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "36"
+  },
+  "debug": {
+    "address": "COCHABAMBA 3870",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.41921144711991,
+        -34.627542352434354
+      ],
+      "direccion": "",
+      "fondo": "30.24",
+      "frente": "8.73",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "090",
+      "parcela": "007D",
+      "pdamatriz": "151747",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "3",
+      "propiedad_horizontal": "Si",
+      "seccion": "036",
+      "smp": "036-090-007D",
+      "smp_anterior": "036-090-007C",
+      "smp_siguiente": "036-090-008A",
+      "srid": 4326,
+      "superficie_cubierta": "766.00",
+      "superficie_total": "264.00",
+      "unidades_funcionales": "9",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3870,
+      "cod_calle": 3134
+    },
+    "usig_direccion_elegida": {
+      "altura": 3870,
+      "cod_calle": 3134,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.419240",
+        "y": "-34.627376"
+      },
+      "direccion": "COCHABAMBA 3870, CABA",
+      "nombre_calle": "COCHABAMBA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3870,
+          "cod_calle": 3134,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.419240",
+            "y": "-34.627376"
+          },
+          "direccion": "COCHABAMBA 3870, CABA",
+          "nombre_calle": "COCHABAMBA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  104045.07389951282,
+                  100206.14154193041
+                ],
+                [
+                  104049.5515490689,
+                  100176.31843770266
+                ],
+                [
+                  104041.29166845129,
+                  100174.92921353041
+                ],
+                [
+                  104036.49591854017,
+                  100204.93463899283
+                ],
+                [
+                  104045.07389951282,
+                  100206.14154193041
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "036-090-007D",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "COCHABAMBA 3870",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.41921144711991,
+      -34.627542352434354
+    ],
+    "direccion": "",
+    "fondo": "30.24",
+    "frente": "8.73",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "090",
+    "parcela": "007D",
+    "pdamatriz": "151747",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "3",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "036",
+    "smp": "036-090-007D",
+    "smp_anterior": "036-090-007C",
+    "smp_siguiente": "036-090-008A",
+    "srid": 4326,
+    "superficie_cubierta": "766.00",
+    "superficie_total": "264.00",
+    "unidades_funcionales": "9",
+    "vuc": "0.00"
+  },
+  "smp": "036-090-007D",
+  "_http_status": 200
+}

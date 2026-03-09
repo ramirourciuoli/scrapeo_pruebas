@@ -1,0 +1,375 @@
+{
+  "area_m2": 328.1825199127197,
+  "centroide_lonlat": {
+    "lat": -34.595271,
+    "lon": -58.469386
+  },
+  "centroide_xy": {
+    "x": 99441.70452098841,
+    "y": 103771.59044927439
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 2.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/4/15/049-003-043_0000090415.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION049/049-003-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION049/PI-049-003-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "049-003-002b",
+            "049-003-042",
+            "049-003-044",
+            "049-003-003"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "R2b III 1",
+          "incidencia_uva": 130.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 2616.92,
+          "plusvalia_sl": 2616.92
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 251.627177560076,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 328.2,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "049-003-043"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. E. TORNÚ",
+    "barrio": "Paternal",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1427",
+    "codigo_postal_argentino": "C1427BBB",
+    "comisaria": "41",
+    "comisaria_vecinal": "15A",
+    "comuna": "Comuna 15",
+    "distrito_economico": "DISTRITO AUDIOVISUAL",
+    "distrito_escolar": "Distrito Escolar   XIV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "49"
+  },
+  "debug": {
+    "address": "BAUNESS 178",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.4693856801179,
+        -34.59527095399061
+      ],
+      "direccion": "",
+      "fondo": "38.33",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "003",
+      "parcela": "043",
+      "pdamatriz": "242386",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "049",
+      "smp": "049-003-043",
+      "smp_anterior": "049-003-042",
+      "smp_siguiente": "049-003-044",
+      "srid": 4326,
+      "superficie_cubierta": "267.00",
+      "superficie_total": "332.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 178,
+      "cod_calle": 2035
+    },
+    "usig_direccion_elegida": {
+      "altura": 178,
+      "cod_calle": 2035,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.469202",
+        "y": "-34.595127"
+      },
+      "direccion": "BAUNESS 178, CABA",
+      "nombre_calle": "BAUNESS",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 178,
+          "cod_calle": 2035,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.469202",
+            "y": "-34.595127"
+          },
+          "direccion": "BAUNESS 178, CABA",
+          "nombre_calle": "BAUNESS",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 178,
+          "cod_calle": 166227,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7711529653061,
+            "y": -34.6910255857143
+          },
+          "direccion": "Bauness 178, Merlo",
+          "nombre_calle": "Bauness",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Merlo",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99452.40799030778,
+                  103787.82702378664
+                ],
+                [
+                  99455.4109902975,
+                  103784.6710237937
+                ],
+                [
+                  99456.87999029175,
+                  103783.12702379719
+                ],
+                [
+                  99458.48099028581,
+                  103781.44402380046
+                ],
+                [
+                  99454.0279902954,
+                  103777.27102381518
+                ],
+                [
+                  99445.83799031316,
+                  103769.59802384328
+                ],
+                [
+                  99441.43699032185,
+                  103765.47502385755
+                ],
+                [
+                  99430.31999034557,
+                  103755.05802389575
+                ],
+                [
+                  99425.08499036483,
+                  103761.59702388119
+                ],
+                [
+                  99428.0089903584,
+                  103764.41102387133
+                ],
+                [
+                  99431.34799035208,
+                  103767.62402385933
+                ],
+                [
+                  99432.1369903503,
+                  103768.38102385684
+                ],
+                [
+                  99433.6369903472,
+                  103769.81902385177
+                ],
+                [
+                  99434.35799034554,
+                  103770.51102384907
+                ],
+                [
+                  99434.64699034486,
+                  103770.78802384785
+                ],
+                [
+                  99437.17699033985,
+                  103773.2150238393
+                ],
+                [
+                  99440.3189903333,
+                  103776.23002382909
+                ],
+                [
+                  99441.79699033035,
+                  103777.64802382357
+                ],
+                [
+                  99442.04899032919,
+                  103777.89002382234
+                ],
+                [
+                  99445.0069903236,
+                  103780.72702381245
+                ],
+                [
+                  99447.17199031916,
+                  103782.80402380455
+                ],
+                [
+                  99448.1019903169,
+                  103783.69702380153
+                ],
+                [
+                  99448.83099031568,
+                  103784.39602379902
+                ],
+                [
+                  99452.40799030778,
+                  103787.82702378664
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "049-003-043",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "BAUNESS 178",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.4693856801179,
+      -34.59527095399061
+    ],
+    "direccion": "",
+    "fondo": "38.33",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "003",
+    "parcela": "043",
+    "pdamatriz": "242386",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "049",
+    "smp": "049-003-043",
+    "smp_anterior": "049-003-042",
+    "smp_siguiente": "049-003-044",
+    "srid": 4326,
+    "superficie_cubierta": "267.00",
+    "superficie_total": "332.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "049-003-043",
+  "_http_status": 200
+}

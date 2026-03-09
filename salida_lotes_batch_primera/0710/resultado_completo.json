@@ -1,0 +1,328 @@
+{
+  "area_m2": 124.38835620880127,
+  "centroide_lonlat": {
+    "lat": -34.623358,
+    "lon": -58.430755
+  },
+  "centroide_xy": {
+    "x": 102984.63004066772,
+    "y": 100655.31260015364
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.46,
+          "fot_perim_libre": 3.46,
+          "fot_semi_libre": 3.46
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/fp/SECCION040/FP-040-113-001-VD.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION040/040-113-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION040/PI-040-113-V4.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "040-113-002",
+            "040-113-030"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "AE 26",
+          "incidencia_uva": 330.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 124.4,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "040-113-001"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Caballito",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1424",
+    "codigo_postal_argentino": "C1424BLK",
+    "comisaria": "10",
+    "comisaria_vecinal": "6B",
+    "comuna": "Comuna 6",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "40"
+  },
+  "debug": {
+    "address": "DOBLAS 553",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.43075519593448,
+        -34.623357550623155
+      ],
+      "direccion": "",
+      "fondo": "28.60",
+      "frente": "4.44",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "113",
+      "parcela": "001",
+      "pdamatriz": "155854",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "040",
+      "smp": "040-113-001",
+      "smp_anterior": "040-113-030",
+      "smp_siguiente": "040-113-002",
+      "srid": 4326,
+      "superficie_cubierta": "754.00",
+      "superficie_total": "127.00",
+      "unidades_funcionales": "13",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 553,
+      "cod_calle": 4079
+    },
+    "usig_direccion_elegida": {
+      "altura": 553,
+      "cod_calle": 4079,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.430647",
+        "y": "-34.623293"
+      },
+      "direccion": "DOBLAS 553, CABA",
+      "nombre_calle": "DOBLAS",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 553,
+          "cod_calle": 4079,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.430647",
+            "y": "-34.623293"
+          },
+          "direccion": "DOBLAS 553, CABA",
+          "nombre_calle": "DOBLAS",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102986.17629950136,
+                  100660.3698623772
+                ],
+                [
+                  102987.32895753307,
+                  100660.60000938806
+                ],
+                [
+                  102989.08248778853,
+                  100659.45232247541
+                ],
+                [
+                  102991.74906249896,
+                  100657.70712218611
+                ],
+                [
+                  102992.37107177425,
+                  100657.30013976494
+                ],
+                [
+                  102993.25907225664,
+                  100652.76211487461
+                ],
+                [
+                  102989.68906494185,
+                  100652.03872620745
+                ],
+                [
+                  102987.6960839901,
+                  100651.63510072179
+                ],
+                [
+                  102986.11368653338,
+                  100651.31375062623
+                ],
+                [
+                  102981.76706789256,
+                  100650.43313539764
+                ],
+                [
+                  102978.5001001278,
+                  100649.77114809724
+                ],
+                [
+                  102977.93439438476,
+                  100652.69565557895
+                ],
+                [
+                  102977.87766360851,
+                  100652.96670472936
+                ],
+                [
+                  102977.77207278891,
+                  100653.525725724
+                ],
+                [
+                  102977.41446781081,
+                  100655.35671937143
+                ],
+                [
+                  102976.8010644946,
+                  100658.49691711701
+                ],
+                [
+                  102986.17629950136,
+                  100660.3698623772
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "040-113-001",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "DOBLAS 553",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.43075519593448,
+      -34.623357550623155
+    ],
+    "direccion": "",
+    "fondo": "28.60",
+    "frente": "4.44",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "113",
+    "parcela": "001",
+    "pdamatriz": "155854",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "040",
+    "smp": "040-113-001",
+    "smp_anterior": "040-113-030",
+    "smp_siguiente": "040-113-002",
+    "srid": 4326,
+    "superficie_cubierta": "754.00",
+    "superficie_total": "127.00",
+    "unidades_funcionales": "13",
+    "vuc": "0.00"
+  },
+  "smp": "040-113-001",
+  "_http_status": 200
+}

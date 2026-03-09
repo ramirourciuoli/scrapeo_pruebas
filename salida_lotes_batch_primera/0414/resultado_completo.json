@@ -1,0 +1,412 @@
+{
+  "area_m2": 293.1354970932007,
+  "centroide_lonlat": {
+    "lat": -34.597187,
+    "lon": -58.410118
+  },
+  "centroide_xy": {
+    "x": 104878.75976202736,
+    "y": 103557.76205795069
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 4.14,
+          "fot_perim_libre": 4.14,
+          "fot_semi_libre": 4.14
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/8/43/015-100-011_0000161843.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION015/015-100-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION015/PI-015-100-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": true,
+          "smp_linderas": [
+            "015-100-012",
+            "015-100-010"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2a I",
+          "incidencia_uva": 410.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 293.067050000036,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 293.1,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "015-100-011"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.A.FERNÁNDEZ",
+    "barrio": "Recoleta",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1186",
+    "codigo_postal_argentino": "C1186AAF",
+    "comisaria": "19",
+    "comisaria_vecinal": "2B",
+    "comuna": "Comuna 2",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   II",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "15"
+  },
+  "debug": {
+    "address": "JOSE ANTONIO CABRERA 3094",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.41011804143093,
+        -34.59718701416306
+      ],
+      "direccion": "",
+      "fondo": "8.46",
+      "frente": "34.86",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "100",
+      "parcela": "011",
+      "pdamatriz": "443164",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "9",
+      "propiedad_horizontal": "Si",
+      "seccion": "015",
+      "smp": "015-100-011",
+      "smp_anterior": "015-100-010",
+      "smp_siguiente": "015-100-012",
+      "srid": 4326,
+      "superficie_cubierta": "2698.00",
+      "superficie_total": "295.00",
+      "unidades_funcionales": "50",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3094,
+      "cod_calle": 3009
+    },
+    "usig_direccion_elegida": {
+      "altura": 3094,
+      "cod_calle": 3009,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.410115",
+        "y": "-34.596997"
+      },
+      "direccion": "CABRERA, JOSE A. 3094, CABA",
+      "nombre_calle": "CABRERA, JOSE A.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3094,
+          "cod_calle": 3009,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.410115",
+            "y": "-34.596997"
+          },
+          "direccion": "CABRERA, JOSE A. 3094, CABA",
+          "nombre_calle": "CABRERA, JOSE A.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  104883.48797491413,
+                  103571.27902030639
+                ],
+                [
+                  104883.35597491151,
+                  103567.6030203168
+                ],
+                [
+                  104883.20897490895,
+                  103563.50102032849
+                ],
+                [
+                  104883.1139749075,
+                  103560.85502033625
+                ],
+                [
+                  104883.02097490542,
+                  103558.23702034293
+                ],
+                [
+                  104882.95197490402,
+                  103556.31002034826
+                ],
+                [
+                  104882.93897490448,
+                  103555.94802034958
+                ],
+                [
+                  104882.83897490212,
+                  103553.17802035785
+                ],
+                [
+                  104882.79297490112,
+                  103551.87002036136
+                ],
+                [
+                  104882.76697490108,
+                  103551.146020363
+                ],
+                [
+                  104882.5749748978,
+                  103545.80202037856
+                ],
+                [
+                  104882.39297489445,
+                  103540.7150203927
+                ],
+                [
+                  104875.31697491405,
+                  103540.85602039745
+                ],
+                [
+                  104873.76797491877,
+                  103540.88702039895
+                ],
+                [
+                  104873.78897491888,
+                  103541.5000203971
+                ],
+                [
+                  104873.80197491939,
+                  103541.8870203961
+                ],
+                [
+                  104873.88297492123,
+                  103544.28602038953
+                ],
+                [
+                  104873.95797492194,
+                  103546.50702038314
+                ],
+                [
+                  104874.01797492363,
+                  103548.28402037788
+                ],
+                [
+                  104874.09797492526,
+                  103550.6830203713
+                ],
+                [
+                  104874.12897492533,
+                  103551.58302036821
+                ],
+                [
+                  104874.20997492714,
+                  103553.98202036161
+                ],
+                [
+                  104874.54097493392,
+                  103563.81702033375
+                ],
+                [
+                  104874.57897493431,
+                  103564.91602033103
+                ],
+                [
+                  104874.62197493568,
+                  103566.21502032698
+                ],
+                [
+                  104874.6529749358,
+                  103567.11402032466
+                ],
+                [
+                  104874.73397493761,
+                  103569.51202031792
+                ],
+                [
+                  104874.77997493859,
+                  103570.88002031387
+                ],
+                [
+                  104874.80097493874,
+                  103571.51002031195
+                ],
+                [
+                  104879.14997493003,
+                  103575.65002029765
+                ],
+                [
+                  104879.29297492885,
+                  103575.64702029707
+                ],
+                [
+                  104880.64097492528,
+                  103575.62102029653
+                ],
+                [
+                  104882.89697491899,
+                  103575.57702029427
+                ],
+                [
+                  104883.64097491682,
+                  103575.5620202941
+                ],
+                [
+                  104883.61997491674,
+                  103574.96202029614
+                ],
+                [
+                  104883.574974916,
+                  103573.70802029903
+                ],
+                [
+                  104883.49497491446,
+                  103571.479020306
+                ],
+                [
+                  104883.48797491413,
+                  103571.27902030639
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "015-100-011",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "JOSE ANTONIO CABRERA 3094",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.41011804143093,
+      -34.59718701416306
+    ],
+    "direccion": "",
+    "fondo": "8.46",
+    "frente": "34.86",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "100",
+    "parcela": "011",
+    "pdamatriz": "443164",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "9",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "015",
+    "smp": "015-100-011",
+    "smp_anterior": "015-100-010",
+    "smp_siguiente": "015-100-012",
+    "srid": 4326,
+    "superficie_cubierta": "2698.00",
+    "superficie_total": "295.00",
+    "unidades_funcionales": "50",
+    "vuc": "0.00"
+  },
+  "smp": "015-100-011",
+  "_http_status": 200
+}

@@ -1,0 +1,371 @@
+{
+  "area_m2": 135.7674789428711,
+  "centroide_lonlat": {
+    "lat": -34.549443,
+    "lon": -58.497958
+  },
+  "centroide_xy": {
+    "x": 96818.77220395743,
+    "y": 108855.01930363881
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.0,
+          "fot_perim_libre": 1.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/32/055-133-002_0000241032.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION055/055-133-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION055/PI-055-133-V4.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "055-133-003",
+            "055-133-001",
+            "055-133-033"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R1b I",
+          "incidencia_uva": 440.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 12903.51
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 135.769250000067,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 135.8,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "055-133-002"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Saavedra",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1430",
+    "codigo_postal_argentino": "C1430DEN",
+    "comisaria": "49",
+    "comisaria_vecinal": "12A",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "55"
+  },
+  "debug": {
+    "address": "AV. GENERAL PAZ 3318",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.49795782999567,
+        -34.549442804737126
+      ],
+      "direccion": "",
+      "fondo": "15.59",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "133",
+      "parcela": "002",
+      "pdamatriz": "359227",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "055",
+      "smp": "055-133-002",
+      "smp_anterior": "055-133-001",
+      "smp_siguiente": "055-133-003",
+      "srid": 4326,
+      "superficie_cubierta": "140.00",
+      "superficie_total": "135.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3318,
+      "cod_calle": 17041
+    },
+    "usig_direccion_elegida": {
+      "altura": 3318,
+      "cod_calle": 17041,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.498003",
+        "y": "-34.549368"
+      },
+      "direccion": "PAZ, GRAL. AV. 3318, CABA",
+      "nombre_calle": "PAZ, GRAL. AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3318,
+          "cod_calle": 17041,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.498003",
+            "y": "-34.549368"
+          },
+          "direccion": "PAZ, GRAL. AV. 3318, CABA",
+          "nombre_calle": "PAZ, GRAL. AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3318,
+          "cod_calle": 129855,
+          "cod_calle_cruce": null,
+          "cod_partido": "esteban_echeverria",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4525844333333,
+            "y": -34.8471917333333
+          },
+          "direccion": "GRal Paz 3318, Esteban Echeverría",
+          "nombre_calle": "GRal Paz",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Monte Grande",
+          "nombre_partido": "Esteban Echeverría",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3318,
+          "cod_calle": 247804,
+          "cod_calle_cruce": null,
+          "cod_partido": "vicente_lopez",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5027974061225,
+            "y": -34.5105299653061
+          },
+          "direccion": "General José María Paz 3318, Vicente López",
+          "nombre_calle": "General José María Paz",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Olivos",
+          "nombre_partido": "Vicente López",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96811.31600153199,
+                  108859.90701155065
+                ],
+                [
+                  96814.48400152489,
+                  108861.58101154413
+                ],
+                [
+                  96815.79000152163,
+                  108862.2710115407
+                ],
+                [
+                  96818.99000151412,
+                  108863.96201153411
+                ],
+                [
+                  96820.26100150845,
+                  108861.55901153997
+                ],
+                [
+                  96820.46800150798,
+                  108861.1670115409
+                ],
+                [
+                  96822.40800149927,
+                  108857.49701154983
+                ],
+                [
+                  96822.53900149876,
+                  108857.24901154981
+                ],
+                [
+                  96824.35300149137,
+                  108853.81901155834
+                ],
+                [
+                  96824.44700149052,
+                  108853.6410115585
+                ],
+                [
+                  96826.1860014832,
+                  108850.35101156635
+                ],
+                [
+                  96822.21500149272,
+                  108848.01901157643
+                ],
+                [
+                  96821.79500149378,
+                  108847.772011577
+                ],
+                [
+                  96818.64600150101,
+                  108845.92301158517
+                ],
+                [
+                  96817.68500150494,
+                  108847.75701158046
+                ],
+                [
+                  96814.73400151805,
+                  108853.38501156651
+                ],
+                [
+                  96814.1680015199,
+                  108854.4660115641
+                ],
+                [
+                  96813.6570015221,
+                  108855.44101156137
+                ],
+                [
+                  96811.31600153199,
+                  108859.90701155065
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "055-133-002",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AV. GENERAL PAZ 3318",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.49795782999567,
+      -34.549442804737126
+    ],
+    "direccion": "",
+    "fondo": "15.59",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "133",
+    "parcela": "002",
+    "pdamatriz": "359227",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "055",
+    "smp": "055-133-002",
+    "smp_anterior": "055-133-001",
+    "smp_siguiente": "055-133-003",
+    "srid": 4326,
+    "superficie_cubierta": "140.00",
+    "superficie_total": "135.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "055-133-002",
+  "_http_status": 200
+}

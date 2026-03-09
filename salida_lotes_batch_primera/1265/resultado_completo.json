@@ -1,0 +1,413 @@
+{
+  "area_m2": 279.191219329834,
+  "centroide_lonlat": {
+    "lat": -34.64389,
+    "lon": -58.469413
+  },
+  "centroide_xy": {
+    "x": 99439.55833814714,
+    "y": 98377.96454459048
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 1,
+          "lep": 1,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/1/35/054-184-029_0000084135.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION054/054-184-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION054/PI-054-184-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "054-184-028",
+            "054-184-030",
+            "054-184-022",
+            "054-184-021"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 238.118085921056,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 279.2,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "054-184-029"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. P. PIÑERO",
+    "barrio": "Parque Avellaneda",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1407",
+    "codigo_postal_argentino": "C1407KBZ",
+    "comisaria": "40",
+    "comisaria_vecinal": "9C",
+    "comuna": "Comuna 9",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "54"
+  },
+  "debug": {
+    "address": "MARIANO ACOSTA 1234",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.46941263794159,
+        -34.64389015133368
+      ],
+      "direccion": "",
+      "fondo": "31.87",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "184",
+      "parcela": "029",
+      "pdamatriz": "23086",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "054",
+      "smp": "054-184-029",
+      "smp_anterior": "054-184-028",
+      "smp_siguiente": "054-184-030",
+      "srid": 4326,
+      "superficie_cubierta": "192.00",
+      "superficie_total": "276.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1234,
+      "cod_calle": 1006
+    },
+    "usig_direccion_elegida": {
+      "altura": 1234,
+      "cod_calle": 1006,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.469567",
+        "y": "-34.644023"
+      },
+      "direccion": "ACOSTA, MARIANO AV. 1234, CABA",
+      "nombre_calle": "ACOSTA, MARIANO AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1234,
+          "cod_calle": 1006,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.469567",
+            "y": "-34.644023"
+          },
+          "direccion": "ACOSTA, MARIANO AV. 1234, CABA",
+          "nombre_calle": "ACOSTA, MARIANO AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1234,
+          "cod_calle": 11710,
+          "cod_calle_cruce": null,
+          "cod_partido": "avellaneda",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3803641122449,
+            "y": -34.6725592857143
+          },
+          "direccion": "Mariano Acosta 1234, Avellaneda",
+          "nombre_calle": "Mariano Acosta",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Piñeyro",
+          "nombre_partido": "Avellaneda",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1234,
+          "cod_calle": 90521,
+          "cod_calle_cruce": null,
+          "cod_partido": "esteban_echeverria",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4831360292355,
+            "y": -34.8255126325242
+          },
+          "direccion": "Mariano Acosta 1234, Esteban Echeverría",
+          "nombre_calle": "Mariano Acosta",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "El Jagüel",
+          "nombre_partido": "Esteban Echeverría",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1234,
+          "cod_calle": 96845,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7179539102041,
+            "y": -34.6544374510204
+          },
+          "direccion": "Mariano Acosta 1234, Merlo",
+          "nombre_calle": "Mariano Acosta",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Merlo",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99431.3359862848,
+                  98363.79703901173
+                ],
+                [
+                  99428.0839862951,
+                  98366.90803900664
+                ],
+                [
+                  99427.36198629797,
+                  98367.59903900643
+                ],
+                [
+                  99425.0199863065,
+                  98369.83903900039
+                ],
+                [
+                  99428.63198629936,
+                  98373.37503898743
+                ],
+                [
+                  99429.08398629836,
+                  98373.81703898803
+                ],
+                [
+                  99437.89198627941,
+                  98382.44003895734
+                ],
+                [
+                  99438.51698627818,
+                  98383.05203895544
+                ],
+                [
+                  99441.91798627161,
+                  98386.38203894268
+                ],
+                [
+                  99443.76198626822,
+                  98388.18703893496
+                ],
+                [
+                  99444.92198626565,
+                  98389.32403893062
+                ],
+                [
+                  99447.06898626086,
+                  98391.42503892424
+                ],
+                [
+                  99448.13398625875,
+                  98392.46803892055
+                ],
+                [
+                  99449.85398625309,
+                  98390.3620389252
+                ],
+                [
+                  99453.73498623868,
+                  98385.60803893392
+                ],
+                [
+                  99452.62198624095,
+                  98384.52403894067
+                ],
+                [
+                  99451.04198624365,
+                  98382.98503894592
+                ],
+                [
+                  99448.37198624917,
+                  98380.38603895326
+                ],
+                [
+                  99445.52498625593,
+                  98377.61303896527
+                ],
+                [
+                  99444.68698625694,
+                  98376.79703896734
+                ],
+                [
+                  99441.91298626232,
+                  98374.09603897695
+                ],
+                [
+                  99439.3529862678,
+                  98371.60403898661
+                ],
+                [
+                  99435.35598627618,
+                  98367.71203900062
+                ],
+                [
+                  99434.83398627749,
+                  98367.20303899996
+                ],
+                [
+                  99431.3359862848,
+                  98363.79703901173
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "054-184-029",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MARIANO ACOSTA 1234",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.46941263794159,
+      -34.64389015133368
+    ],
+    "direccion": "",
+    "fondo": "31.87",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "184",
+    "parcela": "029",
+    "pdamatriz": "23086",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "054",
+    "smp": "054-184-029",
+    "smp_anterior": "054-184-028",
+    "smp_siguiente": "054-184-030",
+    "srid": 4326,
+    "superficie_cubierta": "192.00",
+    "superficie_total": "276.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "054-184-029",
+  "_http_status": 200
+}

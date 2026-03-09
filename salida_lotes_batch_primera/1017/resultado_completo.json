@@ -1,0 +1,461 @@
+{
+  "area_m2": 297.80140590667725,
+  "centroide_lonlat": {
+    "lat": -34.628495,
+    "lon": -58.401945
+  },
+  "centroide_xy": {
+    "x": 105626.45358925553,
+    "y": 100084.10790903964
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 2.0,
+          "fot_perim_libre": 3.0,
+          "fot_semi_libre": 2.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/49/030-090-023_0000295649.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION030/030-090-V2.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION030/PI-030-090-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "030-090-024",
+            "030-090-017",
+            "030-090-022"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "E1",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 226.354485576056,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 297.8,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "030-090-023"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. J.M. RAMOS MEJÍA",
+    "barrio": "San Cristobal",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1256",
+    "codigo_postal_argentino": "C1256AAI",
+    "comisaria": "20",
+    "comisaria_vecinal": "3B",
+    "comuna": "Comuna 3",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "30"
+  },
+  "debug": {
+    "address": "AV. JUAN DE GARAY 2655",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.40194461222298,
+        -34.628495400699514
+      ],
+      "direccion": "",
+      "fondo": "37.85",
+      "frente": "7.82",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "090",
+      "parcela": "023",
+      "pdamatriz": "182748",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "3",
+      "propiedad_horizontal": "Si",
+      "seccion": "030",
+      "smp": "030-090-023",
+      "smp_anterior": "030-090-022",
+      "smp_siguiente": "030-090-024",
+      "srid": 4326,
+      "superficie_cubierta": "589.00",
+      "superficie_total": "296.00",
+      "unidades_funcionales": "3",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2655,
+      "cod_calle": 7026
+    },
+    "usig_direccion_elegida": {
+      "altura": 2655,
+      "cod_calle": 7026,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.401912",
+        "y": "-34.628691"
+      },
+      "direccion": "GARAY, JUAN DE AV. 2655, CABA",
+      "nombre_calle": "GARAY, JUAN DE AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2655,
+          "cod_calle": 7026,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.401912",
+            "y": "-34.628691"
+          },
+          "direccion": "GARAY, JUAN DE AV. 2655, CABA",
+          "nombre_calle": "GARAY, JUAN DE AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2655,
+          "cod_calle": 126718,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3793600602041,
+            "y": -34.8805718520408
+          },
+          "direccion": "Juan de Garay 2655, Almirante Brown",
+          "nombre_calle": "Juan de Garay",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Glew",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2655,
+          "cod_calle": 266469,
+          "cod_calle_cruce": null,
+          "cod_partido": "hurlingham",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6505143667785,
+            "y": -34.5790601130873
+          },
+          "direccion": "Juan de Garay 2655, Hurlingham",
+          "nombre_calle": "Juan de Garay",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "William C. Morris",
+          "nombre_partido": "Hurlingham",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2655,
+          "cod_calle": 79043,
+          "cod_calle_cruce": null,
+          "cod_partido": "tigre",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6121671091837,
+            "y": -34.5013105234694
+          },
+          "direccion": "Juan De Garay 2655, Tigre",
+          "nombre_calle": "Juan De Garay",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Don Torcuato",
+          "nombre_partido": "Tigre",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2655,
+          "cod_calle": 4714,
+          "cod_calle_cruce": null,
+          "cod_partido": "vicente_lopez",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4920318704082,
+            "y": -34.5116583193878
+          },
+          "direccion": "Juan de Garay 2655, Vicente López",
+          "nombre_calle": "Juan de Garay",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Olivos",
+          "nombre_partido": "Vicente López",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  105621.38597022524,
+                  100091.04502951066
+                ],
+                [
+                  105621.32297022559,
+                  100091.44002951006
+                ],
+                [
+                  105620.26197023383,
+                  100098.10302949193
+                ],
+                [
+                  105620.23697023364,
+                  100098.26202949148
+                ],
+                [
+                  105620.14497023416,
+                  100098.83502948983
+                ],
+                [
+                  105620.01097023557,
+                  100099.67902948713
+                ],
+                [
+                  105619.61197023836,
+                  100102.18202948087
+                ],
+                [
+                  105622.81797023008,
+                  100102.81002947627
+                ],
+                [
+                  105623.50497022818,
+                  100102.94402947591
+                ],
+                [
+                  105627.27897021835,
+                  100103.68302947105
+                ],
+                [
+                  105627.87097021408,
+                  100099.97502948047
+                ],
+                [
+                  105627.97897021327,
+                  100099.2960294827
+                ],
+                [
+                  105628.28297021052,
+                  100097.38802948801
+                ],
+                [
+                  105629.53497020144,
+                  100089.54002950885
+                ],
+                [
+                  105629.84997019854,
+                  100087.56902951424
+                ],
+                [
+                  105630.3319701957,
+                  100084.54402952202
+                ],
+                [
+                  105631.22997018899,
+                  100078.9150295374
+                ],
+                [
+                  105631.57797018567,
+                  100076.73402954338
+                ],
+                [
+                  105631.75497018448,
+                  100075.62502954612
+                ],
+                [
+                  105631.87097018401,
+                  100074.89902954837
+                ],
+                [
+                  105632.44097017904,
+                  100071.32402955776
+                ],
+                [
+                  105633.32097017326,
+                  100065.80802957274
+                ],
+                [
+                  105632.9569701742,
+                  100065.75902957254
+                ],
+                [
+                  105625.84097019304,
+                  100064.80802958112
+                ],
+                [
+                  105625.56997019405,
+                  100064.77202958116
+                ],
+                [
+                  105624.72497019976,
+                  100070.0750295672
+                ],
+                [
+                  105624.50897020136,
+                  100071.4330295636
+                ],
+                [
+                  105624.14697020437,
+                  100073.70502955737
+                ],
+                [
+                  105623.51697020924,
+                  100077.66402954655
+                ],
+                [
+                  105622.79297021427,
+                  100082.20602953469
+                ],
+                [
+                  105622.1289702194,
+                  100086.37602952344
+                ],
+                [
+                  105621.81497022248,
+                  100088.34702951807
+                ],
+                [
+                  105621.38597022524,
+                  100091.04502951066
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "030-090-023",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AV. JUAN DE GARAY 2655",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.40194461222298,
+      -34.628495400699514
+    ],
+    "direccion": "",
+    "fondo": "37.85",
+    "frente": "7.82",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "090",
+    "parcela": "023",
+    "pdamatriz": "182748",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "3",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "030",
+    "smp": "030-090-023",
+    "smp_anterior": "030-090-022",
+    "smp_siguiente": "030-090-024",
+    "srid": 4326,
+    "superficie_cubierta": "589.00",
+    "superficie_total": "296.00",
+    "unidades_funcionales": "3",
+    "vuc": "0.00"
+  },
+  "smp": "030-090-023",
+  "_http_status": 200
+}

@@ -1,0 +1,382 @@
+{
+  "area_m2": 218.85195922851562,
+  "centroide_lonlat": {
+    "lat": -34.656098,
+    "lon": -58.523795
+  },
+  "centroide_xy": {
+    "x": 94454.28601665993,
+    "y": 97022.02222097188
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.0,
+          "fot_perim_libre": 1.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/4/44/074-006A-015_0000031444.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION074/074-006A-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION074/PI-074-006A-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "074-006A-016",
+            "074-006A-014"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R1b I",
+          "incidencia_uva": 50.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0.0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 218.9,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "074-006A-015"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Mataderos",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1440",
+    "codigo_postal_argentino": "C1440FFA",
+    "comisaria": "42",
+    "comisaria_vecinal": "9A",
+    "comuna": "Comuna 9",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "74"
+  },
+  "debug": {
+    "address": "SALADILLO 1305",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.52379497609648,
+        -34.656097966249206
+      ],
+      "direccion": "",
+      "fondo": "12.84",
+      "frente": "6.86",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "006A",
+      "parcela": "015",
+      "pdamatriz": "83686",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "074",
+      "smp": "074-006A-015",
+      "smp_anterior": "074-006A-014",
+      "smp_siguiente": "074-006A-016",
+      "srid": 4326,
+      "superficie_cubierta": "244.00",
+      "superficie_total": "213.00",
+      "unidades_funcionales": "2",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1305,
+      "cod_calle": 20007
+    },
+    "usig_direccion_elegida": {
+      "altura": 1305,
+      "cod_calle": 20007,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.523619",
+        "y": "-34.656144"
+      },
+      "direccion": "SALADILLO 1305, CABA",
+      "nombre_calle": "SALADILLO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1305,
+          "cod_calle": 20007,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.523619",
+            "y": "-34.656144"
+          },
+          "direccion": "SALADILLO 1305, CABA",
+          "nombre_calle": "SALADILLO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1305,
+          "cod_calle": 285459,
+          "cod_calle_cruce": null,
+          "cod_partido": "general_san_martin",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5395956106061,
+            "y": -34.5905061409091
+          },
+          "direccion": "115 - Saladillo 1305, General San Martín",
+          "nombre_calle": "115 - Saladillo",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Lynch",
+          "nombre_partido": "General San Martín",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1305,
+          "cod_calle": 161610,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7708156857143,
+            "y": -34.6687467367347
+          },
+          "direccion": "Saladillo 1305, Merlo",
+          "nombre_calle": "Saladillo",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Merlo",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  94441.37199927222,
+                  97026.83004651926
+                ],
+                [
+                  94447.90799925601,
+                  97030.50904650355
+                ],
+                [
+                  94450.15899924964,
+                  97030.24104650339
+                ],
+                [
+                  94453.87599923908,
+                  97029.7980465019
+                ],
+                [
+                  94461.17199921366,
+                  97023.08304651448
+                ],
+                [
+                  94462.27599920916,
+                  97022.0670465166
+                ],
+                [
+                  94462.49699920924,
+                  97021.8640465173
+                ],
+                [
+                  94465.65499919798,
+                  97018.95604652324
+                ],
+                [
+                  94465.87599919712,
+                  97018.75304652294
+                ],
+                [
+                  94463.49299920145,
+                  97016.13904653295
+                ],
+                [
+                  94460.8349992069,
+                  97013.22204654277
+                ],
+                [
+                  94459.08599921051,
+                  97011.30404654893
+                ],
+                [
+                  94456.3829992201,
+                  97013.67404654442
+                ],
+                [
+                  94455.19599922434,
+                  97014.71404654245
+                ],
+                [
+                  94454.59399922552,
+                  97015.24104654213
+                ],
+                [
+                  94452.7259992322,
+                  97016.8780465381
+                ],
+                [
+                  94451.84799923572,
+                  97017.6480465371
+                ],
+                [
+                  94448.49399924703,
+                  97020.58804653178
+                ],
+                [
+                  94447.81699924923,
+                  97021.18104653005
+                ],
+                [
+                  94444.75599926007,
+                  97023.864046525
+                ],
+                [
+                  94444.01999926212,
+                  97024.50904652331
+                ],
+                [
+                  94441.37199927222,
+                  97026.83004651926
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "074-006A-015",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "SALADILLO 1305",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.52379497609648,
+      -34.656097966249206
+    ],
+    "direccion": "",
+    "fondo": "12.84",
+    "frente": "6.86",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "006A",
+    "parcela": "015",
+    "pdamatriz": "83686",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "074",
+    "smp": "074-006A-015",
+    "smp_anterior": "074-006A-014",
+    "smp_siguiente": "074-006A-016",
+    "srid": 4326,
+    "superficie_cubierta": "244.00",
+    "superficie_total": "213.00",
+    "unidades_funcionales": "2",
+    "vuc": "0.00"
+  },
+  "smp": "074-006A-015",
+  "_http_status": 200
+}

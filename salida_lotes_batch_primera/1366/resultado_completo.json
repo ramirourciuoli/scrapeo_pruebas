@@ -1,0 +1,459 @@
+{
+  "area_m2": 131.4964256286621,
+  "centroide_lonlat": {
+    "lat": -34.606542,
+    "lon": -58.408559
+  },
+  "centroide_xy": {
+    "x": 105021.20061788752,
+    "y": 102519.86416565705
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.0,
+          "fot_perim_libre": 3.0,
+          "fot_semi_libre": 3.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/4/80/013-089-025a_0000163480.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION013/013-089-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION013/PI-013-089-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "013-089-025b",
+            "013-089-024"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "E3",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 131.418200000044,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 131.5,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "013-089-025A"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. J.M. RAMOS MEJÍA",
+    "barrio": "Balvanera",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1214",
+    "codigo_postal_argentino": "C1214ACC",
+    "comisaria": "7",
+    "comisaria_vecinal": "3A",
+    "comuna": "Comuna 3",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   II",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "13"
+  },
+  "debug": {
+    "address": "ECUADOR 311",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.40855919804923,
+        -34.60654216607158
+      ],
+      "direccion": "",
+      "fondo": "22.97",
+      "frente": "5.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "089",
+      "parcela": "025A",
+      "pdamatriz": "190226",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "8",
+      "propiedad_horizontal": "Si",
+      "seccion": "013",
+      "smp": "013-089-025A",
+      "smp_anterior": "013-089-024",
+      "smp_siguiente": "013-089-025B",
+      "srid": 4326,
+      "superficie_cubierta": "961.00",
+      "superficie_total": "130.00",
+      "unidades_funcionales": "15",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 311,
+      "cod_calle": 5001
+    },
+    "usig_direccion_elegida": {
+      "altura": 311,
+      "cod_calle": 5001,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.408632",
+        "y": "-34.606520"
+      },
+      "direccion": "ECUADOR 311, CABA",
+      "nombre_calle": "ECUADOR",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 311,
+          "cod_calle": 5001,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.408632",
+            "y": "-34.606520"
+          },
+          "direccion": "ECUADOR 311, CABA",
+          "nombre_calle": "ECUADOR",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 311,
+          "cod_calle": 569357,
+          "cod_calle_cruce": null,
+          "cod_partido": "ensenada",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -57.9094797905154,
+            "y": -34.8556742803154
+          },
+          "direccion": "Ecuador 311, Ensenada",
+          "nombre_calle": "Ecuador",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ensenada",
+          "nombre_partido": "Ensenada",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 311,
+          "cod_calle": 81348,
+          "cod_calle_cruce": null,
+          "cod_partido": "ezeiza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5307991336735,
+            "y": -34.8568205826531
+          },
+          "direccion": "Ecuador 311, Ezeiza",
+          "nombre_calle": "Ecuador",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ezeiza",
+          "nombre_partido": "Ezeiza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 311,
+          "cod_calle": 162408,
+          "cod_calle_cruce": null,
+          "cod_partido": "ituzaingo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6872529173469,
+            "y": -34.6629736204082
+          },
+          "direccion": "Ecuador 311, Ituzaingó",
+          "nombre_calle": "Ecuador",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ituzaingó",
+          "nombre_partido": "Ituzaingó",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 311,
+          "cod_calle": 176024,
+          "cod_calle_cruce": null,
+          "cod_partido": "malvinas_argentinas",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7461959755102,
+            "y": -34.4835232693878
+          },
+          "direccion": "Ecuador 311, Malvinas Argentinas",
+          "nombre_calle": "Ecuador",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Tierras Altas",
+          "nombre_partido": "Malvinas Argentinas",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 311,
+          "cod_calle": 171120,
+          "cod_calle_cruce": null,
+          "cod_partido": "pilar",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.8367703231296,
+            "y": -34.4755376354584
+          },
+          "direccion": "Ecuador 311, Pilar",
+          "nombre_calle": "Ecuador",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Presidente Derqui",
+          "nombre_partido": "Pilar",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 311,
+          "cod_calle": 117007,
+          "cod_calle_cruce": null,
+          "cod_partido": "quilmes",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.2414686244898,
+            "y": -34.7502556387755
+          },
+          "direccion": "Ecuador 311, Quilmes",
+          "nombre_calle": "Ecuador",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ezpeleta",
+          "nombre_partido": "Quilmes",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 311,
+          "cod_calle": 79744,
+          "cod_calle_cruce": null,
+          "cod_partido": "tigre",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6364807666667,
+            "y": -34.4715813131313
+          },
+          "direccion": "Ecuador 311, Tigre",
+          "nombre_calle": "Ecuador",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "El Talar",
+          "nombre_partido": "Tigre",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  105015.8269737491,
+                  102516.97802316342
+                ],
+                [
+                  105016.69597374956,
+                  102519.69202315484
+                ],
+                [
+                  105019.50697374807,
+                  102528.47002312806
+                ],
+                [
+                  105021.20397374262,
+                  102527.99602312862
+                ],
+                [
+                  105021.35397374255,
+                  102527.95402312829
+                ],
+                [
+                  105025.41208310502,
+                  102526.82015252305
+                ],
+                [
+                  105027.55097372354,
+                  102526.22202312865
+                ],
+                [
+                  105026.82197372356,
+                  102523.87802313527
+                ],
+                [
+                  105026.52497372434,
+                  102522.92302313901
+                ],
+                [
+                  105026.40597372441,
+                  102522.54102313993
+                ],
+                [
+                  105025.57397372436,
+                  102519.86702314747
+                ],
+                [
+                  105025.37197372489,
+                  102519.21802315017
+                ],
+                [
+                  105024.7259737245,
+                  102517.14102315603
+                ],
+                [
+                  105024.64397372499,
+                  102516.83702315734
+                ],
+                [
+                  105023.99097372507,
+                  102514.40902316433
+                ],
+                [
+                  105023.34797372489,
+                  102512.02002317112
+                ],
+                [
+                  105017.8449737397,
+                  102511.82802317597
+                ],
+                [
+                  105017.60997374097,
+                  102511.82002317676
+                ],
+                [
+                  105015.20997374976,
+                  102515.05002316905
+                ],
+                [
+                  105015.8269737491,
+                  102516.97802316342
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "013-089-025A",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ECUADOR 311",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.40855919804923,
+      -34.60654216607158
+    ],
+    "direccion": "",
+    "fondo": "22.97",
+    "frente": "5.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "089",
+    "parcela": "025A",
+    "pdamatriz": "190226",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "8",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "013",
+    "smp": "013-089-025A",
+    "smp_anterior": "013-089-024",
+    "smp_siguiente": "013-089-025B",
+    "srid": 4326,
+    "superficie_cubierta": "961.00",
+    "superficie_total": "130.00",
+    "unidades_funcionales": "15",
+    "vuc": "0.00"
+  },
+  "smp": "013-089-025A",
+  "_http_status": 200
+}

@@ -1,0 +1,348 @@
+{
+  "area_m2": 437.01829624176025,
+  "centroide_lonlat": {
+    "lat": -34.574261,
+    "lon": -58.46804
+  },
+  "centroide_xy": {
+    "x": 99565.04904511588,
+    "y": 106102.39725094018
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 11.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "U",
+            "distrito_especifico": "U 28"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.0,
+          "fot_perim_libre": 1.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/8/85/049-127-015_0000095885.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION049/049-127-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION049/PI-049-127-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "049-127-014",
+            "049-127-016"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "U28",
+          "incidencia_uva": 370.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 23763.08
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 297.335863858914,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 437.0,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "049-127-015"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Villa Ortuzar",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1430",
+    "codigo_postal_argentino": "C1430CAC",
+    "comisaria": "37",
+    "comisaria_vecinal": "15C",
+    "comuna": "Comuna 15",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   X",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "49"
+  },
+  "debug": {
+    "address": "VIRREY DEL PINO 3799",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.46803997309054,
+        -34.57426054348219
+      ],
+      "direccion": "",
+      "fondo": "33.93",
+      "frente": "12.97",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "127",
+      "parcela": "015",
+      "pdamatriz": "239369",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "049",
+      "smp": "049-127-015",
+      "smp_anterior": "049-127-014",
+      "smp_siguiente": "049-127-016",
+      "srid": 4326,
+      "superficie_cubierta": "455.00",
+      "superficie_total": "440.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3799,
+      "cod_calle": 4049
+    },
+    "usig_direccion_elegida": {
+      "altura": 3799,
+      "cod_calle": 4049,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.467951",
+        "y": "-34.574381"
+      },
+      "direccion": "PINO, VIRREY DEL 3799, CABA",
+      "nombre_calle": "PINO, VIRREY DEL",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3799,
+          "cod_calle": 4049,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.467951",
+            "y": "-34.574381"
+          },
+          "direccion": "PINO, VIRREY DEL 3799, CABA",
+          "nombre_calle": "PINO, VIRREY DEL",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99552.47399177306,
+                  106106.52801720912
+                ],
+                [
+                  99553.95699176996,
+                  106107.90201720403
+                ],
+                [
+                  99555.24299176662,
+                  106109.09301720024
+                ],
+                [
+                  99558.5949917595,
+                  106112.19701718839
+                ],
+                [
+                  99562.5309917519,
+                  106115.8430171758
+                ],
+                [
+                  99564.85199174653,
+                  106117.99301716752
+                ],
+                [
+                  99566.68399173986,
+                  106115.43501717312
+                ],
+                [
+                  99570.46899172448,
+                  106110.14901718567
+                ],
+                [
+                  99571.58599172076,
+                  106108.58801718947
+                ],
+                [
+                  99573.69099171212,
+                  106105.64801719572
+                ],
+                [
+                  99575.77999170471,
+                  106102.73101720194
+                ],
+                [
+                  99576.98899169985,
+                  106101.04301720575
+                ],
+                [
+                  99577.26599169854,
+                  106100.65501720729
+                ],
+                [
+                  99579.6689916892,
+                  106097.29901721425
+                ],
+                [
+                  99569.08999171332,
+                  106089.81001724314
+                ],
+                [
+                  99567.22799171894,
+                  106090.0130172447
+                ],
+                [
+                  99565.09699172509,
+                  106090.24501724547
+                ],
+                [
+                  99563.11999173084,
+                  106090.4600172462
+                ],
+                [
+                  99553.04999176701,
+                  106101.4110172234
+                ],
+                [
+                  99552.50799176953,
+                  106102.00001722184
+                ],
+                [
+                  99550.27099177695,
+                  106104.43301721691
+                ],
+                [
+                  99552.47399177306,
+                  106106.52801720912
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "049-127-015",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "VIRREY DEL PINO 3799",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.46803997309054,
+      -34.57426054348219
+    ],
+    "direccion": "",
+    "fondo": "33.93",
+    "frente": "12.97",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "127",
+    "parcela": "015",
+    "pdamatriz": "239369",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "049",
+    "smp": "049-127-015",
+    "smp_anterior": "049-127-014",
+    "smp_siguiente": "049-127-016",
+    "srid": 4326,
+    "superficie_cubierta": "455.00",
+    "superficie_total": "440.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "049-127-015",
+  "_http_status": 200
+}

@@ -1,0 +1,356 @@
+{
+  "area_m2": 118.5395917892456,
+  "centroide_lonlat": {
+    "lat": -34.644218,
+    "lon": -58.412984
+  },
+  "centroide_xy": {
+    "x": 104613.20602484228,
+    "y": 98340.45626272199
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": "APH",
+          "denominacion": null,
+          "estado": "MENSAJE",
+          "ley_3056": "NO",
+          "proteccion": "GENERAL"
+        },
+        "cca": "E-CCA",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/4/21/032-056D-011_0000357421.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION032/032-056D-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION032/PI-032-056D-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "DI-2022-2747-GCABA-DGIUR",
+          "pdf": "032-056D.pdf"
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "032-056D-012",
+            "032-056D-010",
+            "032-056D-014",
+            "032-056D-016",
+            "032-056D-013"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 118.552699999953,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 118.5,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "032-056D-011"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.M. PENNA",
+    "barrio": "Parque Patricios",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1437",
+    "codigo_postal_argentino": "C1437DYB",
+    "comisaria": "32",
+    "comisaria_vecinal": "4A",
+    "comuna": "Comuna 4",
+    "distrito_economico": "DISTRITO TECNOLOGICO",
+    "distrito_escolar": "Distrito Escolar   V",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "32"
+  },
+  "debug": {
+    "address": "CACHI 60",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.41298439395309,
+        -34.64421803219778
+      ],
+      "direccion": "",
+      "fondo": "14.24",
+      "frente": "8.50",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "056D",
+      "parcela": "011",
+      "pdamatriz": "910446",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "032",
+      "smp": "032-056D-011",
+      "smp_anterior": "032-056D-010",
+      "smp_siguiente": "032-056D-012",
+      "srid": 4326,
+      "superficie_cubierta": "73.00",
+      "superficie_total": "121.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 60,
+      "cod_calle": 3012
+    },
+    "usig_direccion_elegida": {
+      "altura": 60,
+      "cod_calle": 3012,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.413098",
+        "y": "-34.644237"
+      },
+      "direccion": "CACHI 60, CABA",
+      "nombre_calle": "CACHI",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 60,
+          "cod_calle": 3012,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.413098",
+            "y": "-34.644237"
+          },
+          "direccion": "CACHI 60, CABA",
+          "nombre_calle": "CACHI",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 60,
+          "cod_calle": 3013,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.442406",
+            "y": "-34.621871"
+          },
+          "direccion": "CACHIMAYO 60, CABA",
+          "nombre_calle": "CACHIMAYO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  104608.82997175018,
+                  98343.84403517234
+                ],
+                [
+                  104614.84697173399,
+                  98345.09503516351
+                ],
+                [
+                  104615.0749717335,
+                  98345.1430351648
+                ],
+                [
+                  104616.94697172755,
+                  98345.53203516189
+                ],
+                [
+                  104618.23297172492,
+                  98345.80003515931
+                ],
+                [
+                  104619.21397172225,
+                  98346.00403515779
+                ],
+                [
+                  104619.89697171777,
+                  98342.79403516732
+                ],
+                [
+                  104620.97797171283,
+                  98337.71503518082
+                ],
+                [
+                  104620.85197171159,
+                  98337.69003518095
+                ],
+                [
+                  104619.32497171604,
+                  98337.38803518272
+                ],
+                [
+                  104617.53397172064,
+                  98337.03303518586
+                ],
+                [
+                  104616.59297172297,
+                  98336.847035187
+                ],
+                [
+                  104614.11997172909,
+                  98336.35703519004
+                ],
+                [
+                  104612.27697173362,
+                  98335.99203519258
+                ],
+                [
+                  104610.47397173927,
+                  98335.63403519394
+                ],
+                [
+                  104607.10097174715,
+                  98334.96603519874
+                ],
+                [
+                  104605.45297175868,
+                  98343.14103517792
+                ],
+                [
+                  104608.17497175076,
+                  98343.70703517369
+                ],
+                [
+                  104608.82997175018,
+                  98343.84403517234
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "032-056D-011",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CACHI 60",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.41298439395309,
+      -34.64421803219778
+    ],
+    "direccion": "",
+    "fondo": "14.24",
+    "frente": "8.50",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "056D",
+    "parcela": "011",
+    "pdamatriz": "910446",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "032",
+    "smp": "032-056D-011",
+    "smp_anterior": "032-056D-010",
+    "smp_siguiente": "032-056D-012",
+    "srid": 4326,
+    "superficie_cubierta": "73.00",
+    "superficie_total": "121.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "032-056D-011",
+  "_http_status": 200
+}

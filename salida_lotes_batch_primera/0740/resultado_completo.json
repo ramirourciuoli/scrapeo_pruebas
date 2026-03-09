@@ -1,0 +1,386 @@
+{
+  "area_m2": 249.606463432312,
+  "centroide_lonlat": {
+    "lat": -34.583566,
+    "lon": -58.510327
+  },
+  "centroide_xy": {
+    "x": 95685.16831720581,
+    "y": 105069.1274012254
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/68/075-005-024_0000250768.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION075/075-005-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION075/PI-075-005-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "075-005-019",
+            "075-005-025",
+            "075-005-020",
+            "075-005-023"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 110.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 249.640699999925,
+        "sup_max_edificable": 246.2,
+        "superficie_parcela": 249.6,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "075-005-024"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. A. ZUBIZARRETA",
+    "barrio": "Villa Pueyrredon",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1419",
+    "codigo_postal_argentino": "C1419FIG",
+    "comisaria": "47",
+    "comisaria_vecinal": "12B",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "75"
+  },
+  "debug": {
+    "address": "FRANCO 3183",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.510327066696455,
+        -34.58356573588459
+      ],
+      "direccion": "",
+      "fondo": "28.87",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "005",
+      "parcela": "024",
+      "pdamatriz": "364097",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "075",
+      "smp": "075-005-024",
+      "smp_anterior": "075-005-023",
+      "smp_siguiente": "075-005-025",
+      "srid": 4326,
+      "superficie_cubierta": "204.00",
+      "superficie_total": "250.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3183,
+      "cod_calle": 6052
+    },
+    "usig_direccion_elegida": {
+      "altura": 3183,
+      "cod_calle": 6052,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.510203",
+        "y": "-34.583703"
+      },
+      "direccion": "FRANCO 3183, CABA",
+      "nombre_calle": "FRANCO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3183,
+          "cod_calle": 6052,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.510203",
+            "y": "-34.583703"
+          },
+          "direccion": "FRANCO 3183, CABA",
+          "nombre_calle": "FRANCO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  95694.26900180822,
+                  105064.13902303699
+                ],
+                [
+                  95697.25800179687,
+                  105060.13002304544
+                ],
+                [
+                  95693.34400180484,
+                  105057.2100230566
+                ],
+                [
+                  95692.37400180729,
+                  105056.49102305982
+                ],
+                [
+                  95690.29699595246,
+                  105054.95000841672
+                ],
+                [
+                  95687.89904674288,
+                  105058.1890220813
+                ],
+                [
+                  95687.00900182428,
+                  105059.39102305516
+                ],
+                [
+                  95686.60381969703,
+                  105059.9381675852
+                ],
+                [
+                  95685.23800183134,
+                  105061.78302304976
+                ],
+                [
+                  95684.59000183376,
+                  105062.65702304759
+                ],
+                [
+                  95682.98000184054,
+                  105064.8320230435
+                ],
+                [
+                  95682.59808533764,
+                  105065.34871688957
+                ],
+                [
+                  95681.13122450316,
+                  105067.32976913109
+                ],
+                [
+                  95678.27300918201,
+                  105071.1899986146
+                ],
+                [
+                  95676.70000186424,
+                  105073.31302302412
+                ],
+                [
+                  95675.47900186903,
+                  105074.96102302044
+                ],
+                [
+                  95675.10200187011,
+                  105075.47002301895
+                ],
+                [
+                  95673.09400187741,
+                  105078.1800230128
+                ],
+                [
+                  95673.55500187652,
+                  105078.52702301156
+                ],
+                [
+                  95679.94500186281,
+                  105083.34002299333
+                ],
+                [
+                  95680.17000186158,
+                  105083.03802299386
+                ],
+                [
+                  95680.57800185987,
+                  105082.4900229956
+                ],
+                [
+                  95682.19700185364,
+                  105080.3210230007
+                ],
+                [
+                  95683.6090018487,
+                  105078.43002300418
+                ],
+                [
+                  95684.54400184474,
+                  105077.17602300728
+                ],
+                [
+                  95685.47000184117,
+                  105075.93502300969
+                ],
+                [
+                  95687.53400183356,
+                  105073.16902301606
+                ],
+                [
+                  95689.10800182757,
+                  105071.05902302137
+                ],
+                [
+                  95691.43600181845,
+                  105067.93802302811
+                ],
+                [
+                  95692.1880018159,
+                  105066.93002303
+                ],
+                [
+                  95694.26900180822,
+                  105064.13902303699
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "075-005-024",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "FRANCO 3183",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.510327066696455,
+      -34.58356573588459
+    ],
+    "direccion": "",
+    "fondo": "28.87",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "005",
+    "parcela": "024",
+    "pdamatriz": "364097",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "075",
+    "smp": "075-005-024",
+    "smp_anterior": "075-005-023",
+    "smp_siguiente": "075-005-025",
+    "srid": 4326,
+    "superficie_cubierta": "204.00",
+    "superficie_total": "250.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "075-005-024",
+  "_http_status": 200
+}

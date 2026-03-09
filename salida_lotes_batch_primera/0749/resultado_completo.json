@@ -1,0 +1,405 @@
+{
+  "area_m2": 242.47905826568604,
+  "centroide_lonlat": {
+    "lat": -34.594739,
+    "lon": -58.406128
+  },
+  "centroide_xy": {
+    "x": 105244.93811502123,
+    "y": 103829.17115779806
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.29,
+          "fot_perim_libre": 3.29,
+          "fot_semi_libre": 3.29
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/fp/SECCION015/FP-015-126-015-VD.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION015/015-126-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION015/PI-015-126-V3.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "015-126-008",
+            "015-126-014",
+            "015-126-016"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2a I",
+          "incidencia_uva": 390.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 136.599834318378,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 242.5,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "015-126-015"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.A.FERNÁNDEZ",
+    "barrio": "Recoleta",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1425",
+    "codigo_postal_argentino": "C1425ELC",
+    "comisaria": "19",
+    "comisaria_vecinal": "2B",
+    "comuna": "Comuna 2",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   II",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "15"
+  },
+  "debug": {
+    "address": "DOCTOR TOMAS MANUEL DE ANCHORENA 1267",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.40612811721159,
+        -34.594738668526155
+      ],
+      "direccion": "",
+      "fondo": "28.92",
+      "frente": "8.61",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "126",
+      "parcela": "015",
+      "pdamatriz": "441651",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "7",
+      "propiedad_horizontal": "Si",
+      "seccion": "015",
+      "smp": "015-126-015",
+      "smp_anterior": "015-126-014",
+      "smp_siguiente": "015-126-016",
+      "srid": 4326,
+      "superficie_cubierta": "1414.00",
+      "superficie_total": "249.00",
+      "unidades_funcionales": "14",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1267,
+      "cod_calle": 1078
+    },
+    "usig_direccion_elegida": {
+      "altura": 1267,
+      "cod_calle": 1078,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.406285",
+        "y": "-34.594685"
+      },
+      "direccion": "ANCHORENA, TOMAS MANUEL DE, DR. 1267, CABA",
+      "nombre_calle": "ANCHORENA, TOMAS MANUEL DE, DR.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1267,
+          "cod_calle": 1078,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.406285",
+            "y": "-34.594685"
+          },
+          "direccion": "ANCHORENA, TOMAS MANUEL DE, DR. 1267, CABA",
+          "nombre_calle": "ANCHORENA, TOMAS MANUEL DE, DR.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  105257.2520740602,
+                  103829.05161930196
+                ],
+                [
+                  105259.97407405186,
+                  103828.024619303
+                ],
+                [
+                  105257.98897405363,
+                  103823.14801931809
+                ],
+                [
+                  105256.99897405434,
+                  103820.7110193258
+                ],
+                [
+                  105256.82197405434,
+                  103820.27601932664
+                ],
+                [
+                  105254.1269740633,
+                  103821.26801932641
+                ],
+                [
+                  105253.18797406595,
+                  103821.61401932602
+                ],
+                [
+                  105252.55097406781,
+                  103821.84901932618
+                ],
+                [
+                  105247.3669740834,
+                  103823.75701932458
+                ],
+                [
+                  105243.39197409604,
+                  103825.22101932313
+                ],
+                [
+                  105241.98497410075,
+                  103825.73901932291
+                ],
+                [
+                  105240.61997410472,
+                  103826.24201932206
+                ],
+                [
+                  105240.36497410561,
+                  103826.33601932251
+                ],
+                [
+                  105239.60797410771,
+                  103826.6150193224
+                ],
+                [
+                  105239.0779741091,
+                  103826.81001932165
+                ],
+                [
+                  105237.16697411561,
+                  103827.51401932191
+                ],
+                [
+                  105235.44897412055,
+                  103828.14601932073
+                ],
+                [
+                  105232.93797412835,
+                  103829.07001932058
+                ],
+                [
+                  105232.71097412909,
+                  103829.15401932033
+                ],
+                [
+                  105231.52897413273,
+                  103829.5890193196
+                ],
+                [
+                  105230.78197413459,
+                  103829.86401931976
+                ],
+                [
+                  105230.01397413772,
+                  103830.14701931938
+                ],
+                [
+                  105230.16797413677,
+                  103830.53601931859
+                ],
+                [
+                  105232.92197413486,
+                  103837.4750192964
+                ],
+                [
+                  105233.18807413428,
+                  103838.13461929516
+                ],
+                [
+                  105234.59107412987,
+                  103837.6056192955
+                ],
+                [
+                  105237.19907412185,
+                  103836.62061929595
+                ],
+                [
+                  105237.51677412135,
+                  103836.50081929562
+                ],
+                [
+                  105240.52007411205,
+                  103835.36761929744
+                ],
+                [
+                  105242.21037410673,
+                  103834.73301929748
+                ],
+                [
+                  105242.57597410574,
+                  103834.5950192973
+                ],
+                [
+                  105247.67897408915,
+                  103832.6687192994
+                ],
+                [
+                  105249.07907408504,
+                  103832.13661929945
+                ],
+                [
+                  105255.76307406474,
+                  103829.61361930141
+                ],
+                [
+                  105256.31607406333,
+                  103829.40561930192
+                ],
+                [
+                  105257.2520740602,
+                  103829.05161930196
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "015-126-015",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "DOCTOR TOMAS MANUEL DE ANCHORENA 1267",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.40612811721159,
+      -34.594738668526155
+    ],
+    "direccion": "",
+    "fondo": "28.92",
+    "frente": "8.61",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "126",
+    "parcela": "015",
+    "pdamatriz": "441651",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "7",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "015",
+    "smp": "015-126-015",
+    "smp_anterior": "015-126-014",
+    "smp_siguiente": "015-126-016",
+    "srid": 4326,
+    "superficie_cubierta": "1414.00",
+    "superficie_total": "249.00",
+    "unidades_funcionales": "14",
+    "vuc": "0.00"
+  },
+  "smp": "015-126-015",
+  "_http_status": 200
+}

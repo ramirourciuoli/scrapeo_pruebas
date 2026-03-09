@@ -1,0 +1,384 @@
+{
+  "area_m2": 126.4447021484375,
+  "centroide_lonlat": {
+    "lat": -34.631256,
+    "lon": -58.372716
+  },
+  "centroide_xy": {
+    "x": 108306.5387163515,
+    "y": 99775.83077872725
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/2/56/008-028-014_0000303256.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION008/008-028-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION008/PI-008-028-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "008-028-017a",
+            "008-028-013",
+            "008-028-016a",
+            "008-028-015"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 140.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 126.454000000097,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 126.4,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "008-028-014"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C. ARGERICH",
+    "barrio": "Barracas",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1139",
+    "codigo_postal_argentino": "C1139AAR",
+    "comisaria": "14",
+    "comisaria_vecinal": "4D",
+    "comuna": "Comuna 4",
+    "distrito_economico": "DISTRITO DE LAS ARTES",
+    "distrito_escolar": "Distrito Escolar   V",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "08"
+  },
+  "debug": {
+    "address": "TACUARI 2080",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.37271581443029,
+        -34.63125606253392
+      ],
+      "direccion": "",
+      "fondo": "18.32",
+      "frente": "6.82",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "028",
+      "parcela": "014",
+      "pdamatriz": "111159",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "008",
+      "smp": "008-028-014",
+      "smp_anterior": "008-028-013",
+      "smp_siguiente": "008-028-015",
+      "srid": 4326,
+      "superficie_cubierta": "158.00",
+      "superficie_total": "125.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2080,
+      "cod_calle": 21004
+    },
+    "usig_direccion_elegida": {
+      "altura": 2080,
+      "cod_calle": 21004,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.372792",
+        "y": "-34.631338"
+      },
+      "direccion": "TACUARI 2080, CABA",
+      "nombre_calle": "TACUARI",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2080,
+          "cod_calle": 21004,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.372792",
+            "y": "-34.631338"
+          },
+          "direccion": "TACUARI 2080, CABA",
+          "nombre_calle": "TACUARI",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2080,
+          "cod_calle": 52915,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.375860844898,
+            "y": -34.8127759673469
+          },
+          "direccion": "Tacuarí 2080, Almirante Brown",
+          "nombre_calle": "Tacuarí",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Burzaco",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2080,
+          "cod_calle": 20109,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4137949857143,
+            "y": -34.6895322040816
+          },
+          "direccion": "Tacuarí 2080, Lanús",
+          "nombre_calle": "Tacuarí",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lanús Oeste",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  108309.38496245656,
+                  99785.04202834601
+                ],
+                [
+                  108310.43796245332,
+                  99784.23102834678
+                ],
+                [
+                  108311.62696244953,
+                  99783.31602834837
+                ],
+                [
+                  108312.50696244645,
+                  99782.63802835025
+                ],
+                [
+                  108314.95996243789,
+                  99780.74902835331
+                ],
+                [
+                  108311.82896244366,
+                  99776.84902836717
+                ],
+                [
+                  108310.41196244596,
+                  99775.0840283726
+                ],
+                [
+                  108309.58196244837,
+                  99774.05002837614
+                ],
+                [
+                  108308.88596244922,
+                  99773.18302837946
+                ],
+                [
+                  108307.81096245103,
+                  99771.84402838332
+                ],
+                [
+                  108306.56896245375,
+                  99770.29702838935
+                ],
+                [
+                  108306.49796245343,
+                  99770.20902838919
+                ],
+                [
+                  108303.60496245956,
+                  99766.60602840138
+                ],
+                [
+                  108300.48696246941,
+                  99769.02802839715
+                ],
+                [
+                  108298.13996247735,
+                  99770.85102839366
+                ],
+                [
+                  108302.13696247034,
+                  99775.89502837628
+                ],
+                [
+                  108303.50796246808,
+                  99777.62502837085
+                ],
+                [
+                  108304.90696246475,
+                  99779.39102836465
+                ],
+                [
+                  108305.52796246388,
+                  99780.17502836199
+                ],
+                [
+                  108307.78396245977,
+                  99783.02102835223
+                ],
+                [
+                  108308.88796245801,
+                  99784.41502834781
+                ],
+                [
+                  108309.38496245656,
+                  99785.04202834601
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "008-028-014",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "TACUARI 2080",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.37271581443029,
+      -34.63125606253392
+    ],
+    "direccion": "",
+    "fondo": "18.32",
+    "frente": "6.82",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "028",
+    "parcela": "014",
+    "pdamatriz": "111159",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "008",
+    "smp": "008-028-014",
+    "smp_anterior": "008-028-013",
+    "smp_siguiente": "008-028-015",
+    "srid": 4326,
+    "superficie_cubierta": "158.00",
+    "superficie_total": "125.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "008-028-014",
+  "_http_status": 200
+}

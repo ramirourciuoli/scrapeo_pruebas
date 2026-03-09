@@ -1,0 +1,334 @@
+{
+  "area_m2": 189.83237266540527,
+  "centroide_lonlat": {
+    "lat": -34.64642,
+    "lon": -58.371198
+  },
+  "centroide_xy": {
+    "x": 108444.16951253063,
+    "y": 98093.4364176355
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 1,
+          "ensanche": 1,
+          "lep": 1,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "E-CCA",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.0,
+          "fot_perim_libre": 3.0,
+          "fot_semi_libre": 3.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/8/31/010-018-003_0000298831.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION010/010-018-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION010/PI-010-018-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "010-018-025",
+            "010-018-002",
+            "010-018-004"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "E3",
+          "incidencia_uva": 90.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 144.252201698763,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 189.8,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "010-018-003"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C. ARGERICH",
+    "barrio": "Barracas",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1289",
+    "codigo_postal_argentino": "C1289AAF",
+    "comisaria": "30",
+    "comisaria_vecinal": "4D",
+    "comuna": "Comuna 4",
+    "distrito_economico": "DISTRITO DE DISEÑO",
+    "distrito_escolar": "Distrito Escolar   IV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "10"
+  },
+  "debug": {
+    "address": "CALIFORNIA 1542",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.37119817242379,
+        -34.64642030745934
+      ],
+      "direccion": "CALIFORNIA 1542",
+      "fondo": "21.70",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "018",
+      "parcela": "003",
+      "pdamatriz": "123780",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "010",
+      "smp": "010-018-003",
+      "smp_anterior": "010-018-002",
+      "smp_siguiente": "010-018-004",
+      "srid": 4326,
+      "superficie_cubierta": "196.00",
+      "superficie_total": "188.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1542,
+      "cod_calle": 1164
+    },
+    "usig_direccion_elegida": {
+      "altura": 1542,
+      "cod_calle": 1164,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.371236",
+        "y": "-34.646302"
+      },
+      "direccion": "CALIFORNIA 1542, CABA",
+      "nombre_calle": "CALIFORNIA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1542,
+          "cod_calle": 1164,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.371236",
+            "y": "-34.646302"
+          },
+          "direccion": "CALIFORNIA 1542, CABA",
+          "nombre_calle": "CALIFORNIA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  108440.8139608104,
+                  98087.08103300867
+                ],
+                [
+                  108440.51796081247,
+                  98088.83503300368
+                ],
+                [
+                  108440.39596081291,
+                  98089.56103300155
+                ],
+                [
+                  108439.66196081809,
+                  98093.92003298999
+                ],
+                [
+                  108439.51996081913,
+                  98094.76703298782
+                ],
+                [
+                  108438.12796082925,
+                  98103.0330329655
+                ],
+                [
+                  108446.66896080718,
+                  98105.25603295307
+                ],
+                [
+                  108447.53196080064,
+                  98099.93003296704
+                ],
+                [
+                  108448.1259607967,
+                  98096.26703297708
+                ],
+                [
+                  108448.73196079189,
+                  98092.53003298742
+                ],
+                [
+                  108450.15596078189,
+                  98083.7480330104
+                ],
+                [
+                  108441.73696080316,
+                  98081.59803302327
+                ],
+                [
+                  108441.26896080715,
+                  98084.377033016
+                ],
+                [
+                  108441.14596080745,
+                  98085.1080330137
+                ],
+                [
+                  108440.93696080922,
+                  98086.34903301077
+                ],
+                [
+                  108440.8139608104,
+                  98087.08103300867
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "010-018-003",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CALIFORNIA 1542",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.37119817242379,
+      -34.64642030745934
+    ],
+    "direccion": "CALIFORNIA 1542",
+    "fondo": "21.70",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "018",
+    "parcela": "003",
+    "pdamatriz": "123780",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [
+      {
+        "altura": 1542,
+        "calle": "CALIFORNIA",
+        "codigo_calle": 1164,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "010",
+    "smp": "010-018-003",
+    "smp_anterior": "010-018-002",
+    "smp_siguiente": "010-018-004",
+    "srid": 4326,
+    "superficie_cubierta": "196.00",
+    "superficie_total": "188.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "010-018-003"
+}

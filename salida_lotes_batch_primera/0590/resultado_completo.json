@@ -1,0 +1,366 @@
+{
+  "area_m2": 170.7414035797119,
+  "centroide_lonlat": {
+    "lat": -34.560866,
+    "lon": -58.462091
+  },
+  "centroide_xy": {
+    "x": 100110.9354953713,
+    "y": 107588.36520961112
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 38.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 5.0,
+          "fot_perim_libre": 7.0,
+          "fot_semi_libre": 5.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/8/83/039-080-020b_0000216883.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION039/039-080-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION039/PI-039-080-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "039-080-020a",
+            "039-080-020c"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "C2",
+          "incidencia_uva": 420.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 170.7,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "039-080-020B"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Belgrano",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1428",
+    "codigo_postal_argentino": "C1428DDS",
+    "comisaria": "33",
+    "comisaria_vecinal": "13C",
+    "comuna": "Comuna 13",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   X",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "39"
+  },
+  "debug": {
+    "address": "BLANCO ENCALADA 2705",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.46209125619755,
+        -34.56086571493845
+      ],
+      "direccion": "",
+      "fondo": "12.22",
+      "frente": "13.58",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "080",
+      "parcela": "020B",
+      "pdamatriz": "326887",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "4",
+      "propiedad_horizontal": "Si",
+      "seccion": "039",
+      "smp": "039-080-020B",
+      "smp_anterior": "039-080-020A",
+      "smp_siguiente": "039-080-020C",
+      "srid": 4326,
+      "superficie_cubierta": "522.00",
+      "superficie_total": "166.00",
+      "unidades_funcionales": "7",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2705,
+      "cod_calle": 2083
+    },
+    "usig_direccion_elegida": {
+      "altura": 2705,
+      "cod_calle": 2083,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.462045",
+        "y": "-34.560925"
+      },
+      "direccion": "BLANCO ENCALADA 2705, CABA",
+      "nombre_calle": "BLANCO ENCALADA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2705,
+          "cod_calle": 2083,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.462045",
+            "y": "-34.560925"
+          },
+          "direccion": "BLANCO ENCALADA 2705, CABA",
+          "nombre_calle": "BLANCO ENCALADA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2705,
+          "cod_calle": 33901,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3641039816327,
+            "y": -34.7100959693878
+          },
+          "direccion": "Blanco Encalada 2705, Lanús",
+          "nombre_calle": "Blanco Encalada",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lanús Este",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2705,
+          "cod_calle": 144211,
+          "cod_calle_cruce": null,
+          "cod_partido": "malvinas_argentinas",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7570977714286,
+            "y": -34.4899561122449
+          },
+          "direccion": "Blanco Encalada 2705, Malvinas Argentinas",
+          "nombre_calle": "Blanco Encalada",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Tortuguitas",
+          "nombre_partido": "Malvinas Argentinas",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  100104.66399134054,
+                  107589.9130126333
+                ],
+                [
+                  100106.45999133651,
+                  107591.14601262848
+                ],
+                [
+                  100109.46099132983,
+                  107593.20701262113
+                ],
+                [
+                  100115.90399131503,
+                  107597.63201260369
+                ],
+                [
+                  100119.12999130244,
+                  107593.1400126133
+                ],
+                [
+                  100118.17999130039,
+                  107587.17001263102
+                ],
+                [
+                  100115.9229913062,
+                  107585.54501263727
+                ],
+                [
+                  100113.67999131058,
+                  107583.92901264312
+                ],
+                [
+                  100111.32799131595,
+                  107582.23501265046
+                ],
+                [
+                  100107.07699132539,
+                  107579.1730126623
+                ],
+                [
+                  100106.51999132751,
+                  107579.94501266046
+                ],
+                [
+                  100106.05099132971,
+                  107580.59401265826
+                ],
+                [
+                  100105.46499133184,
+                  107581.40601265724
+                ],
+                [
+                  100101.99599134563,
+                  107586.21101264615
+                ],
+                [
+                  100101.5279913471,
+                  107586.85901264468
+                ],
+                [
+                  100101.0939913484,
+                  107587.46101264327
+                ],
+                [
+                  100103.93299134253,
+                  107589.41101263586
+                ],
+                [
+                  100104.66399134054,
+                  107589.9130126333
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "039-080-020B",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "BLANCO ENCALADA 2705",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.46209125619755,
+      -34.56086571493845
+    ],
+    "direccion": "",
+    "fondo": "12.22",
+    "frente": "13.58",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "080",
+    "parcela": "020B",
+    "pdamatriz": "326887",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "4",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "039",
+    "smp": "039-080-020B",
+    "smp_anterior": "039-080-020A",
+    "smp_siguiente": "039-080-020C",
+    "srid": 4326,
+    "superficie_cubierta": "522.00",
+    "superficie_total": "166.00",
+    "unidades_funcionales": "7",
+    "vuc": "0.00"
+  },
+  "smp": "039-080-020B",
+  "_http_status": 200
+}

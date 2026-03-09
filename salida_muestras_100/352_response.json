@@ -1,0 +1,529 @@
+{
+  "area_m2": 240.43142127990723,
+  "centroide_lonlat": {
+    "lat": -34.623636,
+    "lon": -58.420788
+  },
+  "centroide_xy": {
+    "x": 103898.65408998098,
+    "y": 100624.05427114273
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/60/036-072-041_0000296560.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION036/036-072-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION036/PI-036-072-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "036-072-042",
+            "036-072-013",
+            "036-072-014",
+            "036-072-015",
+            "036-072-040"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 100.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 240.4,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "036-072-041"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Boedo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1217",
+    "codigo_postal_argentino": "C1217AAI",
+    "comisaria": "10",
+    "comisaria_vecinal": "5B",
+    "comuna": "Comuna 5",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "36"
+  },
+  "debug": {
+    "address": "CASTRO 947",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.42078841171331,
+        -34.62363625121618
+      ],
+      "direccion": "CASTRO 947",
+      "fondo": "27.71",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "072",
+      "parcela": "041",
+      "pdamatriz": "152220",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "036",
+      "smp": "036-072-041",
+      "smp_anterior": "036-072-040",
+      "smp_siguiente": "036-072-042",
+      "srid": 4326,
+      "superficie_cubierta": "198.00",
+      "superficie_total": "240.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 947,
+      "cod_calle": 3095
+    },
+    "usig_direccion_elegida": {
+      "altura": 947,
+      "cod_calle": 3095,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.420601",
+        "y": "-34.623639"
+      },
+      "direccion": "CASTRO 947, CABA",
+      "nombre_calle": "CASTRO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 947,
+          "cod_calle": 3095,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.420601",
+            "y": "-34.623639"
+          },
+          "direccion": "CASTRO 947, CABA",
+          "nombre_calle": "CASTRO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 947,
+          "cod_calle": 3096,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.419258",
+            "y": "-34.623466"
+          },
+          "direccion": "CASTRO BARROS 947, CABA",
+          "nombre_calle": "CASTRO BARROS",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 947,
+          "cod_calle": 13037,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.473154",
+            "y": "-34.643129"
+          },
+          "direccion": "MARTINEZ CASTRO 947, CABA",
+          "nombre_calle": "MARTINEZ CASTRO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 947,
+          "cod_calle": 514837,
+          "cod_calle_cruce": null,
+          "cod_partido": "esteban_echeverria",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4869501765306,
+            "y": -34.8105318785714
+          },
+          "direccion": "Juan Castro Chávez 947, Esteban Echeverría",
+          "nombre_calle": "Juan Castro Chávez",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Monte Grande",
+          "nombre_partido": "Esteban Echeverría",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 947,
+          "cod_calle": 48008,
+          "cod_calle_cruce": null,
+          "cod_partido": "jose_c_paz",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7377432653061,
+            "y": -34.5212735938776
+          },
+          "direccion": "Castro Barros 947, José C. Paz",
+          "nombre_calle": "Castro Barros",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "José C. Paz",
+          "nombre_partido": "José C. Paz",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 947,
+          "cod_calle": 19253,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4017382908163,
+            "y": -34.7258184612245
+          },
+          "direccion": "Manuel Castro 947, Lanús",
+          "nombre_calle": "Manuel Castro",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Remedios de Escalada",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 947,
+          "cod_calle": 19736,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4070828387755,
+            "y": -34.7107666040816
+          },
+          "direccion": "Castro Barros 947, Lanús",
+          "nombre_calle": "Castro Barros",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lanús Oeste",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 947,
+          "cod_calle": 20060,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4048871183673,
+            "y": -34.6998459173469
+          },
+          "direccion": "Emilio Castro 947, Lanús",
+          "nombre_calle": "Emilio Castro",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lanús Oeste",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 947,
+          "cod_calle": 427,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3819194918367,
+            "y": -34.7396007693878
+          },
+          "direccion": "Castro Barros 947, Lomas de Zamora",
+          "nombre_calle": "Castro Barros",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Banfield",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 947,
+          "cod_calle": 17609,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.401704527017,
+            "y": -34.7489792177721
+          },
+          "direccion": "Senador Manuel Castro 947, Lomas de Zamora",
+          "nombre_calle": "Senador Manuel Castro",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Banfield",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  103906.11897543345,
+                  100619.76202931922
+                ],
+                [
+                  103903.37097544146,
+                  100619.74402932121
+                ],
+                [
+                  103903.20497544172,
+                  100619.742029321
+                ],
+                [
+                  103900.96597544795,
+                  100619.72802932319
+                ],
+                [
+                  103897.155975459,
+                  100619.70302932578
+                ],
+                [
+                  103896.3849754605,
+                  100619.69702932631
+                ],
+                [
+                  103892.8649754708,
+                  100619.67402932898
+                ],
+                [
+                  103889.3469754805,
+                  100619.65102933164
+                ],
+                [
+                  103887.54397548526,
+                  100619.63902933389
+                ],
+                [
+                  103885.10897549249,
+                  100619.623029335
+                ],
+                [
+                  103884.44797550056,
+                  100628.3180293114
+                ],
+                [
+                  103884.60497550071,
+                  100628.3270293109
+                ],
+                [
+                  103889.45097548704,
+                  100628.33602930774
+                ],
+                [
+                  103896.53597546717,
+                  100628.35002930186
+                ],
+                [
+                  103898.95097546042,
+                  100628.3550293009
+                ],
+                [
+                  103899.32197545873,
+                  100628.35602929979
+                ],
+                [
+                  103901.19597545423,
+                  100628.36002929904
+                ],
+                [
+                  103906.27997543977,
+                  100628.36902929479
+                ],
+                [
+                  103909.82597542994,
+                  100628.37602929235
+                ],
+                [
+                  103912.66897542136,
+                  100628.38202929022
+                ],
+                [
+                  103912.60397541901,
+                  100624.28202930122
+                ],
+                [
+                  103912.57997541776,
+                  100622.81302930578
+                ],
+                [
+                  103912.53197541519,
+                  100619.8040293137
+                ],
+                [
+                  103911.48797541835,
+                  100619.79702931523
+                ],
+                [
+                  103907.32097543059,
+                  100619.77002931773
+                ],
+                [
+                  103906.11897543345,
+                  100619.76202931922
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "036-072-041",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CASTRO 947",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.42078841171331,
+      -34.62363625121618
+    ],
+    "direccion": "CASTRO 947",
+    "fondo": "27.71",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "072",
+    "parcela": "041",
+    "pdamatriz": "152220",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [
+      {
+        "altura": 947,
+        "calle": "CASTRO",
+        "codigo_calle": 3095,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "036",
+    "smp": "036-072-041",
+    "smp_anterior": "036-072-040",
+    "smp_siguiente": "036-072-042",
+    "srid": 4326,
+    "superficie_cubierta": "198.00",
+    "superficie_total": "240.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "036-072-041"
+}

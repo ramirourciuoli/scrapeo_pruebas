@@ -1,0 +1,293 @@
+{
+  "area_m2": 360.6408920288086,
+  "centroide_lonlat": {
+    "lat": -34.658752,
+    "lon": -58.424301
+  },
+  "centroide_xy": {
+    "x": 103575.04481150025,
+    "y": 96728.60015610773
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 2.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/1/93/046-095B-015_0000071193.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION046/046-095B-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION046/PI-046-095B-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "046-095B-000B",
+            "046-095B-005",
+            "046-095B-014"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "I1",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 820.44,
+          "plusvalia_sl": 820.44
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 256.388591018895,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 360.6,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "046-095B-015"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.M. PENNA",
+    "barrio": "Nueva Pompeya",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1437",
+    "codigo_postal_argentino": "C1437FSC",
+    "comisaria": "34",
+    "comisaria_vecinal": "4B",
+    "comuna": "Comuna 4",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "46"
+  },
+  "debug": {
+    "address": "BERON DE ASTRADA 1929",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.424300667055455,
+        -34.65875168235655
+      ],
+      "direccion": "",
+      "fondo": "42.56",
+      "frente": "8.67",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "095B",
+      "parcela": "015",
+      "pdamatriz": "51862",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "046",
+      "smp": "046-095B-015",
+      "smp_anterior": "046-095B-014",
+      "smp_siguiente": "046-095B-000B",
+      "srid": 4326,
+      "superficie_cubierta": "413.00",
+      "superficie_total": "369.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1929,
+      "cod_calle": 2067
+    },
+    "usig_direccion_elegida": {
+      "altura": 1929,
+      "cod_calle": 2067,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.424137",
+        "y": "-34.658932"
+      },
+      "direccion": "BERON DE ASTRADA 1929, CABA",
+      "nombre_calle": "BERON DE ASTRADA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1929,
+          "cod_calle": 2067,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.424137",
+            "y": "-34.658932"
+          },
+          "direccion": "BERON DE ASTRADA 1929, CABA",
+          "nombre_calle": "BERON DE ASTRADA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1929,
+          "cod_calle": 16704,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "direccion": "Berón de Astrada 1929, La Matanza",
+          "nombre_calle": "Berón de Astrada",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ramos Mejia",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  103565.88688389029,
+                  96748.02433499551
+                ],
+                [
+                  103591.01637084519,
+                  96714.34547122233
+                ],
+                [
+                  103584.08272681369,
+                  96709.11360343875
+                ],
+                [
+                  103558.92594468128,
+                  96743.32902397201
+                ],
+                [
+                  103565.88688389029,
+                  96748.02433499551
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "046-095B-015",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "BERON DE ASTRADA 1929",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.424300667055455,
+      -34.65875168235655
+    ],
+    "direccion": "",
+    "fondo": "42.56",
+    "frente": "8.67",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "095B",
+    "parcela": "015",
+    "pdamatriz": "51862",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "046",
+    "smp": "046-095B-015",
+    "smp_anterior": "046-095B-014",
+    "smp_siguiente": "046-095B-000B",
+    "srid": 4326,
+    "superficie_cubierta": "413.00",
+    "superficie_total": "369.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "046-095B-015",
+  "_http_status": 200
+}

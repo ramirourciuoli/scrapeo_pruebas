@@ -1,0 +1,350 @@
+{
+  "area_m2": 182.11171436309814,
+  "centroide_lonlat": {
+    "lat": -34.570909,
+    "lon": -58.4709
+  },
+  "centroide_xy": {
+    "x": 99302.55120821795,
+    "y": 106474.1788214904
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 11.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "U",
+            "distrito_especifico": "U 28"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.0,
+          "fot_perim_libre": 1.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/9/10/051-130-007b_0000101910.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION051/051-130-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/65/051-130_PI_00006265.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "051-130-008",
+            "051-130-007a",
+            "051-130-005"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "U28",
+          "incidencia_uva": 490.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 12663.94
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 92.3027838684673,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 182.1,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "051-130-007B"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Villa Urquiza",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1430",
+    "codigo_postal_argentino": "C1430EGK",
+    "comisaria": "37",
+    "comisaria_vecinal": "12C",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   X",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "51"
+  },
+  "debug": {
+    "address": "ESTOMBA 2069",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.47090029869152,
+        -34.570909063469834
+      ],
+      "direccion": "",
+      "fondo": "19.57",
+      "frente": "9.40",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "130",
+      "parcela": "007B",
+      "pdamatriz": "343340",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "051",
+      "smp": "051-130-007B",
+      "smp_anterior": "051-130-007A",
+      "smp_siguiente": "051-130-008",
+      "srid": 4326,
+      "superficie_cubierta": "341.00",
+      "superficie_total": "184.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2069,
+      "cod_calle": 5093
+    },
+    "usig_direccion_elegida": {
+      "altura": 2069,
+      "cod_calle": 5093,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.471030",
+        "y": "-34.570982"
+      },
+      "direccion": "ESTOMBA 2069, CABA",
+      "nombre_calle": "ESTOMBA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2069,
+          "cod_calle": 5093,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.471030",
+            "y": "-34.570982"
+          },
+          "direccion": "ESTOMBA 2069, CABA",
+          "nombre_calle": "ESTOMBA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2069,
+          "cod_calle": 26746,
+          "cod_calle_cruce": null,
+          "cod_partido": "moron",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5880284058824,
+            "y": -34.6298789220588
+          },
+          "direccion": "Estomba 2069, Morón",
+          "nombre_calle": "Estomba",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "El Palomar",
+          "nombre_partido": "Morón",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99307.91411627749,
+                  106483.60011399206
+                ],
+                [
+                  99313.32811772154,
+                  106476.16011156747
+                ],
+                [
+                  99309.91699272968,
+                  106473.74901636178
+                ],
+                [
+                  99307.23799273527,
+                  106471.85501636972
+                ],
+                [
+                  99305.49899273913,
+                  106470.62501637402
+                ],
+                [
+                  99302.86499274554,
+                  106468.7630163815
+                ],
+                [
+                  99300.17799275173,
+                  106466.86401638863
+                ],
+                [
+                  99299.40799275298,
+                  106466.320016391
+                ],
+                [
+                  99297.11699275798,
+                  106464.70001639714
+                ],
+                [
+                  99291.85199277883,
+                  106472.30001637942
+                ],
+                [
+                  99294.91999277181,
+                  106474.45901637102
+                ],
+                [
+                  99295.32399277098,
+                  106474.74201636977
+                ],
+                [
+                  99296.5539927677,
+                  106475.60801636678
+                ],
+                [
+                  99296.65499276819,
+                  106475.67901636605
+                ],
+                [
+                  99300.2449927599,
+                  106478.2050163568
+                ],
+                [
+                  99301.98699275556,
+                  106479.43001635169
+                ],
+                [
+                  99304.75299274904,
+                  106481.37601634461
+                ],
+                [
+                  99307.91411627749,
+                  106483.60011399206
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "051-130-007B",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ESTOMBA 2069",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.47090029869152,
+      -34.570909063469834
+    ],
+    "direccion": "",
+    "fondo": "19.57",
+    "frente": "9.40",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "130",
+    "parcela": "007B",
+    "pdamatriz": "343340",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "051",
+    "smp": "051-130-007B",
+    "smp_anterior": "051-130-007A",
+    "smp_siguiente": "051-130-008",
+    "srid": 4326,
+    "superficie_cubierta": "341.00",
+    "superficie_total": "184.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "051-130-007B",
+  "_http_status": 200
+}

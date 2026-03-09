@@ -1,0 +1,129 @@
+{
+  "debug": {
+    "address": "RICARDO GUTIERREZ 2601",
+    "catastro_parcela_por_codcalle_altura": {},
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "GUTIERREZ, RICARDO",
+      "puerta": 2601
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2601,
+      "cod_calle": 7112
+    },
+    "usig_direccion_elegida": {
+      "altura": 2601,
+      "cod_calle": 7112,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.485487",
+        "y": "-34.600680"
+      },
+      "direccion": "GUTIERREZ, RICARDO 2601, CABA",
+      "nombre_calle": "GUTIERREZ, RICARDO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.60068,
+      "lng": -58.485487
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2601,
+          "cod_calle": 7112,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.485487",
+            "y": "-34.600680"
+          },
+          "direccion": "GUTIERREZ, RICARDO 2601, CABA",
+          "nombre_calle": "GUTIERREZ, RICARDO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2601,
+          "cod_calle": 149603,
+          "cod_calle_cruce": null,
+          "cod_partido": "moreno",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.8036563,
+            "y": -34.6315054
+          },
+          "direccion": "Ricardo Gutiérrez 2601, Moreno",
+          "nombre_calle": "Ricardo Gutiérrez",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Moreno",
+          "nombre_partido": "Moreno",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2601,
+          "cod_calle": 270389,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_isidro",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4909534,
+            "y": -34.4915088
+          },
+          "direccion": "Ricardo Gutiérrez 2601, San Isidro",
+          "nombre_calle": "Ricardo Gutiérrez",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Martínez",
+          "nombre_partido": "San Isidro",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2601,
+          "cod_calle": 269522,
+          "cod_calle_cruce": null,
+          "cod_partido": "tigre",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6830087,
+            "y": -34.4511089
+          },
+          "direccion": "Ricardo Gutiérrez 2601, Tigre",
+          "nombre_calle": "Ricardo Gutiérrez",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ricardo Rojas",
+          "nombre_partido": "Tigre",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2601,
+          "cod_calle": 50482,
+          "cod_calle_cruce": null,
+          "cod_partido": "vicente_lopez",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5034982,
+            "y": -34.5172878
+          },
+          "direccion": "Ricardo Gutiérrez 2601, Vicente López",
+          "nombre_calle": "Ricardo Gutiérrez",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Olivos",
+          "nombre_partido": "Vicente López",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura.",
+  "ok": false,
+  "_http_status": 404
+}

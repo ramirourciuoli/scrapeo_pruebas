@@ -1,0 +1,416 @@
+{
+  "area_m2": 200.75774955749512,
+  "centroide_lonlat": {
+    "lat": -34.617382,
+    "lon": -58.378569
+  },
+  "centroide_xy": {
+    "x": 107771.13789129908,
+    "y": 101315.41494487553
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 22.0,
+        "catalogacion": {
+          "catalogacion": "APH",
+          "denominacion": null,
+          "estado": "LEY FIRME",
+          "ley_3056": "NO",
+          "proteccion": "GENERAL"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "APH",
+            "distrito_especifico": "APH 1 14"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 0.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/3/73/002-001-021_0000405373.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION002/002-001-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION002/PI-002-001-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "002-001-020",
+            "002-001-022c"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "APH 1 14",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0.0,
+          "plusvalia_pl": 0.0,
+          "plusvalia_sl": 0.0
+        },
+        "rivolta": 0,
+        "subzona": "5d",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 200.8,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "002-001-021"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C. ARGERICH",
+    "barrio": "Monserrat",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1071",
+    "codigo_postal_argentino": "C1071AAP",
+    "comisaria": "4",
+    "comisaria_vecinal": "1F",
+    "comuna": "Comuna 1",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   III",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "02"
+  },
+  "debug": {
+    "address": "TACUARI 796",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.378568555283486,
+        -34.61738217547791
+      ],
+      "direccion": "",
+      "fondo": "57.98",
+      "frente": "3.57",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "001",
+      "parcela": "021",
+      "pdamatriz": "216285",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "9",
+      "propiedad_horizontal": "Si",
+      "seccion": "002",
+      "smp": "002-001-021",
+      "smp_anterior": "002-001-020",
+      "smp_siguiente": "002-001-022C",
+      "srid": 4326,
+      "superficie_cubierta": "1805.00",
+      "superficie_total": "207.00",
+      "unidades_funcionales": "46",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 796,
+      "cod_calle": 21004
+    },
+    "usig_direccion_elegida": {
+      "altura": 796,
+      "cod_calle": 21004,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.378756",
+        "y": "-34.617392"
+      },
+      "direccion": "TACUARI 796, CABA",
+      "nombre_calle": "TACUARI",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 796,
+          "cod_calle": 21004,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.378756",
+            "y": "-34.617392"
+          },
+          "direccion": "TACUARI 796, CABA",
+          "nombre_calle": "TACUARI",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 796,
+          "cod_calle": 14440,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5713201938776,
+            "y": -34.6500634183673
+          },
+          "direccion": "Tacuarí 796, La Matanza",
+          "nombre_calle": "Tacuarí",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ramos Mejía",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 796,
+          "cod_calle": 20109,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4031729142857,
+            "y": -34.6984978959184
+          },
+          "direccion": "Tacuarí 796, Lanús",
+          "nombre_calle": "Tacuarí",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lanús Oeste",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 796,
+          "cod_calle": 94698,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7155538102041,
+            "y": -34.6833827857143
+          },
+          "direccion": "Tacuarí 796, Merlo",
+          "nombre_calle": "Tacuarí",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Merlo",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 796,
+          "cod_calle": 14395,
+          "cod_calle_cruce": null,
+          "cod_partido": "moron",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5867166020408,
+            "y": -34.6469230693878
+          },
+          "direccion": "Tacuarí 796, Morón",
+          "nombre_calle": "Tacuarí",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Haedo",
+          "nombre_partido": "Morón",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  107783.50496508632,
+                  101319.31802443875
+                ],
+                [
+                  107785.50896508047,
+                  101319.386024437
+                ],
+                [
+                  107785.5739650786,
+                  101316.62602444494
+                ],
+                [
+                  107785.66296507523,
+                  101312.86802445498
+                ],
+                [
+                  107774.24796510651,
+                  101311.94702446606
+                ],
+                [
+                  107771.30696511494,
+                  101311.71002446921
+                ],
+                [
+                  107762.72596513823,
+                  101311.01702447768
+                ],
+                [
+                  107760.88896514394,
+                  101310.86902447941
+                ],
+                [
+                  107758.65196515102,
+                  101312.83702447597
+                ],
+                [
+                  107757.82096515458,
+                  101313.56802447417
+                ],
+                [
+                  107756.47896515904,
+                  101314.74902447176
+                ],
+                [
+                  107756.28696516159,
+                  101318.39202446182
+                ],
+                [
+                  107760.00996515148,
+                  101318.51902445903
+                ],
+                [
+                  107762.2609651454,
+                  101318.59502445656
+                ],
+                [
+                  107763.33396514227,
+                  101318.63202445608
+                ],
+                [
+                  107766.2809651347,
+                  101318.73202445323
+                ],
+                [
+                  107769.78396512454,
+                  101318.85102445021
+                ],
+                [
+                  107772.50796511736,
+                  101318.94402444825
+                ],
+                [
+                  107776.25996510634,
+                  101319.07102444535
+                ],
+                [
+                  107777.96296510227,
+                  101319.12902444316
+                ],
+                [
+                  107782.44296508937,
+                  101319.28202443934
+                ],
+                [
+                  107783.50496508632,
+                  101319.31802443875
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "002-001-021",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "TACUARI 796",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.378568555283486,
+      -34.61738217547791
+    ],
+    "direccion": "",
+    "fondo": "57.98",
+    "frente": "3.57",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "001",
+    "parcela": "021",
+    "pdamatriz": "216285",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "9",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "002",
+    "smp": "002-001-021",
+    "smp_anterior": "002-001-020",
+    "smp_siguiente": "002-001-022C",
+    "srid": 4326,
+    "superficie_cubierta": "1805.00",
+    "superficie_total": "207.00",
+    "unidades_funcionales": "46",
+    "vuc": "0.00"
+  },
+  "smp": "002-001-021",
+  "_http_status": 200
+}

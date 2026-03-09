@@ -1,0 +1,475 @@
+{
+  "area_m2": 226.96984386444092,
+  "centroide_lonlat": {
+    "lat": -34.602981,
+    "lon": -58.468953
+  },
+  "centroide_xy": {
+    "x": 99481.44173748103,
+    "y": 102916.31421525734
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.0,
+          "fot_perim_libre": 3.0,
+          "fot_semi_libre": 3.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/fp/SECCION059/FP-059-045-041-VD.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION059/059-045-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION059/PI-059-045-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "059-045-040",
+            "059-045-003",
+            "059-045-042"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "E3",
+          "incidencia_uva": 150.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 226.994350000016,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 227.0,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "059-045-041"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. T. ÁLVAREZ",
+    "barrio": "Villa Gral. Mitre",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1416",
+    "codigo_postal_argentino": "C1416BQL",
+    "comisaria": "41",
+    "comisaria_vecinal": "11A",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "59"
+  },
+  "debug": {
+    "address": "SANCHEZ 2242",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.46895305121228,
+        -34.60298063050974
+      ],
+      "direccion": "",
+      "fondo": "25.98",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "045",
+      "parcela": "041",
+      "pdamatriz": "235264",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "059",
+      "smp": "059-045-041",
+      "smp_anterior": "059-045-040",
+      "smp_siguiente": "059-045-042",
+      "srid": 4326,
+      "superficie_cubierta": "498.00",
+      "superficie_total": "225.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2242,
+      "cod_calle": 20028
+    },
+    "usig_direccion_elegida": {
+      "altura": 2242,
+      "cod_calle": 20028,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.468790",
+        "y": "-34.602896"
+      },
+      "direccion": "SANCHEZ 2242, CABA",
+      "nombre_calle": "SANCHEZ",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2242,
+          "cod_calle": 20028,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.468790",
+            "y": "-34.602896"
+          },
+          "direccion": "SANCHEZ 2242, CABA",
+          "nombre_calle": "SANCHEZ",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2242,
+          "cod_calle": 12137,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.410736",
+            "y": "-34.636675"
+          },
+          "direccion": "SANCHEZ DE LORIA AV. 2242, CABA",
+          "nombre_calle": "SANCHEZ DE LORIA AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2242,
+          "cod_calle": 20029,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.405175",
+            "y": "-34.586827"
+          },
+          "direccion": "SANCHEZ DE BUSTAMANTE 2242, CABA",
+          "nombre_calle": "SANCHEZ DE BUSTAMANTE",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2242,
+          "cod_calle": 42360,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3812890755102,
+            "y": -34.7885944734694
+          },
+          "direccion": "José Sánchez 2242, Almirante Brown",
+          "nombre_calle": "José Sánchez",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "José Mármol",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2242,
+          "cod_calle": 1545,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "direccion": "Mariquita Sánchez de Thompson 2242, La Matanza",
+          "nombre_calle": "Mariquita Sánchez de Thompson",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Celina",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2242,
+          "cod_calle": 1545,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "direccion": "Mariquita Sánchez de Thompson 2242, La Matanza",
+          "nombre_calle": "Mariquita Sánchez de Thompson",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Madero",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2242,
+          "cod_calle": 237724,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3639890204082,
+            "y": -34.7022254591837
+          },
+          "direccion": "Avenida Teodoro Sánchez de Bustamante 2242, Lanús",
+          "nombre_calle": "Avenida Teodoro Sánchez de Bustamante",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lanús Este",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2242,
+          "cod_calle": 16951,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.426712377551,
+            "y": -34.7592478918367
+          },
+          "direccion": "Mariano Sánchez de Loria 2242, Lomas de Zamora",
+          "nombre_calle": "Mariano Sánchez de Loria",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lomas de Zamora",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2242,
+          "cod_calle": 17154,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4280714551021,
+            "y": -34.7664959346939
+          },
+          "direccion": "Sánchez de Bustamante 2242, Lomas de Zamora",
+          "nombre_calle": "Sánchez de Bustamante",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lomas de Zamora",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2242,
+          "cod_calle": 299239,
+          "cod_calle_cruce": null,
+          "cod_partido": "quilmes",
+          "direccion": "Ofic. 1º Bombero José María Sánchez 2242, Quilmes",
+          "nombre_calle": "Ofic. 1º Bombero José María Sánchez",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Quilmes",
+          "nombre_partido": "Quilmes",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99491.16698955125,
+                  102925.64702617534
+                ],
+                [
+                  99491.36698954953,
+                  102925.3280261757
+                ],
+                [
+                  99495.4469895331,
+                  102918.82702619125
+                ],
+                [
+                  99495.70698953274,
+                  102918.41302619252
+                ],
+                [
+                  99492.92210867941,
+                  102917.0750994409
+                ],
+                [
+                  99481.05309015338,
+                  102911.37411069561
+                ],
+                [
+                  99478.12706477087,
+                  102909.9688983009
+                ],
+                [
+                  99474.63609798203,
+                  102908.29214049451
+                ],
+                [
+                  99471.81407650505,
+                  102906.93709899668
+                ],
+                [
+                  99470.23906430427,
+                  102909.48110533791
+                ],
+                [
+                  99468.657094095,
+                  102912.03609800784
+                ],
+                [
+                  99467.23098960907,
+                  102914.33802622577
+                ],
+                [
+                  99470.3469896013,
+                  102915.81002621847
+                ],
+                [
+                  99470.84998960029,
+                  102916.04802621828
+                ],
+                [
+                  99477.4499895843,
+                  102919.16602620392
+                ],
+                [
+                  99480.99398957481,
+                  102920.84102619672
+                ],
+                [
+                  99484.16710382584,
+                  102922.34011407994
+                ],
+                [
+                  99489.19109062997,
+                  102924.71413750743
+                ],
+                [
+                  99491.16698955125,
+                  102925.64702617534
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "059-045-041",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "SANCHEZ 2242",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.46895305121228,
+      -34.60298063050974
+    ],
+    "direccion": "",
+    "fondo": "25.98",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "045",
+    "parcela": "041",
+    "pdamatriz": "235264",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "059",
+    "smp": "059-045-041",
+    "smp_anterior": "059-045-040",
+    "smp_siguiente": "059-045-042",
+    "srid": 4326,
+    "superficie_cubierta": "498.00",
+    "superficie_total": "225.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "059-045-041",
+  "_http_status": 200
+}

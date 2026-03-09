@@ -1,0 +1,504 @@
+{
+  "area_m2": 125.9248456954956,
+  "centroide_lonlat": {
+    "lat": -34.593574,
+    "lon": -58.395838
+  },
+  "centroide_xy": {
+    "x": 106189.06199358686,
+    "y": 103957.82525493391
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.27,
+          "fot_perim_libre": 3.27,
+          "fot_semi_libre": 3.27
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/1/78/011-056-039_0000161178.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION011/011-056-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION011/PI-011-056-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "011-056-037a",
+            "011-056-001",
+            "011-056-002a"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2a I",
+          "incidencia_uva": 540.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 125.918750000088,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 125.9,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "011-056-039"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.A.FERNÁNDEZ",
+    "barrio": "Recoleta",
+    "codigo_de_planeamiento_urbano": "R2a I",
+    "codigo_postal": "1111",
+    "codigo_postal_argentino": "C1111AAJ",
+    "comisaria": "17",
+    "comisaria_vecinal": "2A",
+    "comuna": "Comuna 2",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   I",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "11"
+  },
+  "debug": {
+    "address": "AYACUCHO 1290",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.39583774020694,
+        -34.593573696325194
+      ],
+      "direccion": "",
+      "fondo": "15.24",
+      "frente": "8.20",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "056",
+      "parcela": "039",
+      "pdamatriz": "447605",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "10",
+      "propiedad_horizontal": "Si",
+      "seccion": "011",
+      "smp": "011-056-039",
+      "smp_anterior": "011-056-037A",
+      "smp_siguiente": "011-056-001",
+      "srid": 4326,
+      "superficie_cubierta": "1215.00",
+      "superficie_total": "125.00",
+      "unidades_funcionales": "20",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1290,
+      "cod_calle": 1143
+    },
+    "usig_direccion_elegida": {
+      "altura": 1290,
+      "cod_calle": 1143,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.395776",
+        "y": "-34.593580"
+      },
+      "direccion": "AYACUCHO 1290, CABA",
+      "nombre_calle": "AYACUCHO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1290,
+          "cod_calle": 1143,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.395776",
+            "y": "-34.593580"
+          },
+          "direccion": "AYACUCHO 1290, CABA",
+          "nombre_calle": "AYACUCHO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1290,
+          "cod_calle": 445244,
+          "cod_calle_cruce": null,
+          "cod_partido": "ezeiza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6074545867347,
+            "y": -34.9208267561225
+          },
+          "direccion": "Ayacucho 1290, Ezeiza",
+          "nombre_calle": "Ayacucho",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Carlos Spegazzini",
+          "nombre_partido": "Ezeiza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1290,
+          "cod_calle": 596826,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5151236663265,
+            "y": -34.7030484397959
+          },
+          "direccion": "Ayacucho 1290, La Matanza",
+          "nombre_calle": "Ayacucho",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Aldo Bonzi",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1290,
+          "cod_calle": 33834,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3794005816327,
+            "y": -34.7013172897959
+          },
+          "direccion": "Ayacucho 1290, Lanús",
+          "nombre_calle": "Ayacucho",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lanús Este",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1290,
+          "cod_calle": 302319,
+          "cod_calle_cruce": null,
+          "cod_partido": "lobos",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -59.0954201836735,
+            "y": -35.1747195714286
+          },
+          "direccion": "Ayacucho 1290, Lobos",
+          "nombre_calle": "Ayacucho",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lobos",
+          "nombre_partido": "Lobos",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1290,
+          "cod_calle": 94843,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7078115183673,
+            "y": -34.6804484326531
+          },
+          "direccion": "Ayacucho 1290, Merlo",
+          "nombre_calle": "Ayacucho",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Merlo",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1290,
+          "cod_calle": 233131,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_fernando",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5556374693878,
+            "y": -34.4429506897959
+          },
+          "direccion": "Ayacucho 1290, San Fernando",
+          "nombre_calle": "Ayacucho",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Fernando",
+          "nombre_partido": "San Fernando",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1290,
+          "cod_calle": 4892,
+          "cod_calle_cruce": null,
+          "cod_partido": "vicente_lopez",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4922134897959,
+            "y": -34.5306132428571
+          },
+          "direccion": "Ayacucho 1290, Vicente López",
+          "nombre_calle": "Ayacucho",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Florida",
+          "nombre_partido": "Vicente López",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  106184.20597155517,
+                  103954.47001825238
+                ],
+                [
+                  106180.87797156424,
+                  103955.0460182536
+                ],
+                [
+                  106181.18197156518,
+                  103956.79001824843
+                ],
+                [
+                  106181.87097156647,
+                  103960.73901823687
+                ],
+                [
+                  106181.97497156597,
+                  103961.33001823514
+                ],
+                [
+                  106182.07697156612,
+                  103961.92001823327
+                ],
+                [
+                  106182.31597156651,
+                  103963.28701822888
+                ],
+                [
+                  106185.63997155674,
+                  103962.66801822814
+                ],
+                [
+                  106186.78097155415,
+                  103962.45601822855
+                ],
+                [
+                  106187.22597155224,
+                  103962.37301822784
+                ],
+                [
+                  106188.13997154939,
+                  103962.20301822771
+                ],
+                [
+                  106189.15097154636,
+                  103962.01501822742
+                ],
+                [
+                  106192.55797153692,
+                  103961.38101822702
+                ],
+                [
+                  106193.42597153418,
+                  103961.21901822634
+                ],
+                [
+                  106195.29997152847,
+                  103960.87001822641
+                ],
+                [
+                  106197.27797152275,
+                  103960.5020182262
+                ],
+                [
+                  106197.24097152316,
+                  103960.28601822682
+                ],
+                [
+                  106196.74897152184,
+                  103957.42801823522
+                ],
+                [
+                  106196.31597152096,
+                  103954.9100182424
+                ],
+                [
+                  106195.91297152042,
+                  103952.56901824928
+                ],
+                [
+                  106195.89197152067,
+                  103952.4470182492
+                ],
+                [
+                  106193.9009715261,
+                  103952.79201825039
+                ],
+                [
+                  106192.02297153205,
+                  103953.11701825017
+                ],
+                [
+                  106191.16197153408,
+                  103953.26601825064
+                ],
+                [
+                  106190.49797153616,
+                  103953.38101825095
+                ],
+                [
+                  106190.11797153739,
+                  103953.44701825074
+                ],
+                [
+                  106188.7389715417,
+                  103953.68501825098
+                ],
+                [
+                  106186.82897154715,
+                  103954.01601825174
+                ],
+                [
+                  106185.78297155013,
+                  103954.1970182519
+                ],
+                [
+                  106184.99497155273,
+                  103954.33301825204
+                ],
+                [
+                  106184.20597155517,
+                  103954.47001825238
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "011-056-039",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AYACUCHO 1290",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.39583774020694,
+      -34.593573696325194
+    ],
+    "direccion": "",
+    "fondo": "15.24",
+    "frente": "8.20",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "056",
+    "parcela": "039",
+    "pdamatriz": "447605",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "10",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "011",
+    "smp": "011-056-039",
+    "smp_anterior": "011-056-037A",
+    "smp_siguiente": "011-056-001",
+    "srid": 4326,
+    "superficie_cubierta": "1215.00",
+    "superficie_total": "125.00",
+    "unidades_funcionales": "20",
+    "vuc": "0.00"
+  },
+  "smp": "011-056-039",
+  "_http_status": 200
+}

@@ -1,0 +1,359 @@
+{
+  "area_m2": 206.24164009094238,
+  "centroide_lonlat": {
+    "lat": -34.629635,
+    "lon": -58.502337
+  },
+  "centroide_xy": {
+    "x": 96420.2354434305,
+    "y": 99958.75206866433
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/1/58/085-004A-021_0000178158.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION085/085-004A-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION085/PI-085-004A-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "085-004A-020",
+            "085-004A-024",
+            "085-004A-025",
+            "085-004A-022"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 80.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 206.2,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "085-004A-021"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Velez Sarsfield",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1407",
+    "codigo_postal_argentino": "C1407FCK",
+    "comisaria": "43",
+    "comisaria_vecinal": "10A",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "85"
+  },
+  "debug": {
+    "address": "MURATURE 5021",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.50233717118147,
+        -34.62963456911069
+      ],
+      "direccion": "",
+      "fondo": "23.79",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "004A",
+      "parcela": "021",
+      "pdamatriz": "283670",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "085",
+      "smp": "085-004A-021",
+      "smp_anterior": "085-004A-020",
+      "smp_siguiente": "085-004A-022",
+      "srid": 4326,
+      "superficie_cubierta": "368.00",
+      "superficie_total": "206.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 5021,
+      "cod_calle": 13143
+    },
+    "usig_direccion_elegida": {
+      "altura": 5021,
+      "cod_calle": 13143,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.502209",
+        "y": "-34.629737"
+      },
+      "direccion": "MURATURE 5021, CABA",
+      "nombre_calle": "MURATURE",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 5021,
+          "cod_calle": 13143,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.502209",
+            "y": "-34.629737"
+          },
+          "direccion": "MURATURE 5021, CABA",
+          "nombre_calle": "MURATURE",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 5021,
+          "cod_calle": 117573,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3398632928571,
+            "y": -34.7804732091837
+          },
+          "direccion": "José Murature 5021, Almirante Brown",
+          "nombre_calle": "José Murature",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Rafael Calzada",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96429.3299958983,
+                  99951.12403682046
+                ],
+                [
+                  96426.07399590504,
+                  99947.74503683415
+                ],
+                [
+                  96418.4619959309,
+                  99954.51803682034
+                ],
+                [
+                  96410.79799595845,
+                  99961.33703680738
+                ],
+                [
+                  96409.24299596268,
+                  99962.72103680557
+                ],
+                [
+                  96408.36899596594,
+                  99963.49803680362
+                ],
+                [
+                  96410.3749959622,
+                  99965.65603679538
+                ],
+                [
+                  96411.00999596095,
+                  99966.33803679462
+                ],
+                [
+                  96412.66599595729,
+                  99968.120036787
+                ],
+                [
+                  96414.14599595405,
+                  99969.71203678075
+                ],
+                [
+                  96415.35599594959,
+                  99968.69603678264
+                ],
+                [
+                  96416.51899594697,
+                  99967.71903678437
+                ],
+                [
+                  96417.52099594203,
+                  99966.87803678648
+                ],
+                [
+                  96420.97399593194,
+                  99963.97803679237
+                ],
+                [
+                  96423.92199592153,
+                  99961.33703679749
+                ],
+                [
+                  96425.56099591476,
+                  99959.87003680004
+                ],
+                [
+                  96428.37999590524,
+                  99957.34503680439
+                ],
+                [
+                  96431.36999589484,
+                  99954.66703681106
+                ],
+                [
+                  96432.10699589181,
+                  99954.00703681327
+                ],
+                [
+                  96429.3299958983,
+                  99951.12403682046
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "085-004A-021",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MURATURE 5021",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.50233717118147,
+      -34.62963456911069
+    ],
+    "direccion": "",
+    "fondo": "23.79",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "004A",
+    "parcela": "021",
+    "pdamatriz": "283670",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "085",
+    "smp": "085-004A-021",
+    "smp_anterior": "085-004A-020",
+    "smp_siguiente": "085-004A-022",
+    "srid": 4326,
+    "superficie_cubierta": "368.00",
+    "superficie_total": "206.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "085-004A-021",
+  "_http_status": 200
+}

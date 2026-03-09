@@ -1,0 +1,400 @@
+{
+  "area_m2": 183.9835329055786,
+  "centroide_lonlat": {
+    "lat": -34.589047,
+    "lon": -58.41281
+  },
+  "centroide_xy": {
+    "x": 104632.29551199176,
+    "y": 104460.89298193066
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 38.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 4.15,
+          "fot_perim_libre": 4.15,
+          "fot_semi_libre": 4.15
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/3/27/019-162-025_0000251327.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION019/019-162-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION019/PI-019-162-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "019-162-028",
+            "019-162-026",
+            "019-162-027",
+            "019-162-024"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2a I",
+          "incidencia_uva": 490.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 183.929400000162,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 184.0,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "019-162-025"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.A.FERNÁNDEZ",
+    "barrio": "Palermo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1425",
+    "codigo_postal_argentino": "C1425BKM",
+    "comisaria": "21",
+    "comisaria_vecinal": "14A",
+    "comuna": "Comuna 14",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   II",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "19"
+  },
+  "debug": {
+    "address": "GÜEMES 3513",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.412809602366934,
+        -34.589047124635194
+      ],
+      "direccion": "",
+      "fondo": "24.43",
+      "frente": "7.41",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "162",
+      "parcela": "025",
+      "pdamatriz": "424354",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "3",
+      "propiedad_horizontal": "Si",
+      "seccion": "019",
+      "smp": "019-162-025",
+      "smp_anterior": "019-162-024",
+      "smp_siguiente": "019-162-026",
+      "srid": 4326,
+      "superficie_cubierta": "498.00",
+      "superficie_total": "181.00",
+      "unidades_funcionales": "5",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3513,
+      "cod_calle": 7098
+    },
+    "usig_direccion_elegida": {
+      "altura": 3513,
+      "cod_calle": 7098,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.412914",
+        "y": "-34.589157"
+      },
+      "direccion": "GUEMES 3513, CABA",
+      "nombre_calle": "GUEMES",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3513,
+          "cod_calle": 7098,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.412914",
+            "y": "-34.589157"
+          },
+          "direccion": "GUEMES 3513, CABA",
+          "nombre_calle": "GUEMES",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3513,
+          "cod_calle": 164142,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7472543877751,
+            "y": -34.6585025449878
+          },
+          "direccion": "Güemes 3513, Merlo",
+          "nombre_calle": "Güemes",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Merlo",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3513,
+          "cod_calle": 51144,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_miguel",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.73732495625,
+            "y": -34.5566074020833
+          },
+          "direccion": "Güemes 3513, San Miguel",
+          "nombre_calle": "Güemes",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Santa María",
+          "nombre_partido": "San Miguel",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  104621.65797631245,
+                  104453.64101802875
+                ],
+                [
+                  104626.69597630369,
+                  104459.91301800724
+                ],
+                [
+                  104631.33597629471,
+                  104465.6920179876
+                ],
+                [
+                  104632.20097629332,
+                  104466.76801798429
+                ],
+                [
+                  104634.7609762881,
+                  104469.95601797351
+                ],
+                [
+                  104637.02597628356,
+                  104472.77601796328
+                ],
+                [
+                  104639.95097627433,
+                  104470.40801796791
+                ],
+                [
+                  104640.58197627218,
+                  104469.89801796913
+                ],
+                [
+                  104641.22497626925,
+                  104469.37601797021
+                ],
+                [
+                  104642.9169762642,
+                  104468.00701797285
+                ],
+                [
+                  104640.25797626922,
+                  104464.73501798415
+                ],
+                [
+                  104639.97797626944,
+                  104464.39001798464
+                ],
+                [
+                  104638.37497627237,
+                  104462.41801799132
+                ],
+                [
+                  104637.17897627415,
+                  104460.94601799722
+                ],
+                [
+                  104636.89997627553,
+                  104460.60301799802
+                ],
+                [
+                  104635.1399762781,
+                  104458.43601800498
+                ],
+                [
+                  104633.07397628235,
+                  104455.89301801415
+                ],
+                [
+                  104632.80097628283,
+                  104455.55701801516
+                ],
+                [
+                  104631.2829762855,
+                  104453.69001802194
+                ],
+                [
+                  104629.66397628858,
+                  104451.69701802803
+                ],
+                [
+                  104628.71797629085,
+                  104450.53301803212
+                ],
+                [
+                  104627.49197629243,
+                  104449.02401803769
+                ],
+                [
+                  104626.90597629524,
+                  104449.4880180365
+                ],
+                [
+                  104624.43497630277,
+                  104451.44301803297
+                ],
+                [
+                  104622.04897631094,
+                  104453.33201802988
+                ],
+                [
+                  104621.65797631245,
+                  104453.64101802875
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "019-162-025",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "GÜEMES 3513",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.412809602366934,
+      -34.589047124635194
+    ],
+    "direccion": "",
+    "fondo": "24.43",
+    "frente": "7.41",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "162",
+    "parcela": "025",
+    "pdamatriz": "424354",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "3",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "019",
+    "smp": "019-162-025",
+    "smp_anterior": "019-162-024",
+    "smp_siguiente": "019-162-026",
+    "srid": 4326,
+    "superficie_cubierta": "498.00",
+    "superficie_total": "181.00",
+    "unidades_funcionales": "5",
+    "vuc": "0.00"
+  },
+  "smp": "019-162-025",
+  "_http_status": 200
+}

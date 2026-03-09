@@ -1,0 +1,379 @@
+{
+  "area_m2": 131.23226261138916,
+  "centroide_lonlat": {
+    "lat": -34.589081,
+    "lon": -58.482372
+  },
+  "centroide_xy": {
+    "x": 98250.23238935835,
+    "y": 104458.11283641496
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "U",
+            "distrito_especifico": "U 39"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 0.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/9/87/061-064-011_0000351987.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION061/061-064-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION061/PI-061-064-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "061-064-010",
+            "061-064-012",
+            "061-064-013"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "U39",
+          "incidencia_uva": 290.0,
+          "plusvalia_em": 0.0,
+          "plusvalia_pl": 0.0,
+          "plusvalia_sl": 0.0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 131.2,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "061-064-011"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. E. TORNÚ",
+    "barrio": "Parque Chas",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1427",
+    "codigo_postal_argentino": "C1427BJA",
+    "comisaria": "39",
+    "comisaria_vecinal": "15C",
+    "comuna": "Comuna 15",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "61"
+  },
+  "debug": {
+    "address": "BURELA 1241",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.482371854606995,
+        -34.58908113293701
+      ],
+      "direccion": "",
+      "fondo": "14.90",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "064",
+      "parcela": "011",
+      "pdamatriz": "246894",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "061",
+      "smp": "061-064-011",
+      "smp_anterior": "061-064-010",
+      "smp_siguiente": "061-064-012",
+      "srid": 4326,
+      "superficie_cubierta": "86.00",
+      "superficie_total": "129.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1241,
+      "cod_calle": 2130
+    },
+    "usig_direccion_elegida": {
+      "altura": 1241,
+      "cod_calle": 2130,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.482453",
+        "y": "-34.589132"
+      },
+      "direccion": "BURELA 1241, CABA",
+      "nombre_calle": "BURELA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1241,
+          "cod_calle": 2130,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.482453",
+            "y": "-34.589132"
+          },
+          "direccion": "BURELA 1241, CABA",
+          "nombre_calle": "BURELA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1241,
+          "cod_calle": 33948,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3737053510204,
+            "y": -34.6963706785714
+          },
+          "direccion": "Coronel Burela 1241, Lanús",
+          "nombre_calle": "Coronel Burela",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Gerli",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1241,
+          "cod_calle": 161525,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7677728122449,
+            "y": -34.6664129204082
+          },
+          "direccion": "Burela 1241, Merlo",
+          "nombre_calle": "Burela",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Merlo",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98244.91899419963,
+                  104459.58302281168
+                ],
+                [
+                  98245.7199941978,
+                  104460.18302280997
+                ],
+                [
+                  98247.47599419393,
+                  104461.49602280505
+                ],
+                [
+                  98251.94299418411,
+                  104464.83802279242
+                ],
+                [
+                  98253.80799418013,
+                  104466.23402278687
+                ],
+                [
+                  98255.17199417496,
+                  104464.34102279102
+                ],
+                [
+                  98255.729994173,
+                  104463.56702279253
+                ],
+                [
+                  98256.24299417034,
+                  104462.8550227948
+                ],
+                [
+                  98255.9899941714,
+                  104462.69002279543
+                ],
+                [
+                  98256.6949941687,
+                  104461.66302279706
+                ],
+                [
+                  98257.91599416385,
+                  104459.88402280104
+                ],
+                [
+                  98258.62599416105,
+                  104458.84902280418
+                ],
+                [
+                  98256.49999416563,
+                  104457.2630228101
+                ],
+                [
+                  98254.44299417024,
+                  104455.72802281578
+                ],
+                [
+                  98253.82899417155,
+                  104455.27002281699
+                ],
+                [
+                  98252.13899417585,
+                  104454.00902282185
+                ],
+                [
+                  98246.89499418675,
+                  104450.09602283707
+                ],
+                [
+                  98244.48499419671,
+                  104453.3270228295
+                ],
+                [
+                  98244.00799419856,
+                  104453.96702282864
+                ],
+                [
+                  98241.64499420674,
+                  104457.13402282103
+                ],
+                [
+                  98244.91899419963,
+                  104459.58302281168
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "061-064-011",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "BURELA 1241",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.482371854606995,
+      -34.58908113293701
+    ],
+    "direccion": "",
+    "fondo": "14.90",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "064",
+    "parcela": "011",
+    "pdamatriz": "246894",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "061",
+    "smp": "061-064-011",
+    "smp_anterior": "061-064-010",
+    "smp_siguiente": "061-064-012",
+    "srid": 4326,
+    "superficie_cubierta": "86.00",
+    "superficie_total": "129.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "061-064-011",
+  "_http_status": 200
+}

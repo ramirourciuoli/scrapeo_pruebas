@@ -1,0 +1,525 @@
+{
+  "area_m2": 176.65165996551514,
+  "centroide_lonlat": {
+    "lat": -34.634561,
+    "lon": -58.4195
+  },
+  "centroide_xy": {
+    "x": 104016.28997298682,
+    "y": 99412.04780985178
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/64/038-181-001_0000046764.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION038/038-181-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION038/PI-038-181-V4.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "038-181-048",
+            "038-181-002"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b III",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 176.678599999933,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 176.7,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "038-181-001"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.M. PENNA",
+    "barrio": "Boedo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1237",
+    "codigo_postal_argentino": "C1237AAO",
+    "comisaria": "34",
+    "comisaria_vecinal": "5B",
+    "comuna": "Comuna 5",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "38"
+  },
+  "debug": {
+    "address": "CASTRO 1807",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.41949994199244,
+        -34.63456103470452
+      ],
+      "direccion": "",
+      "fondo": "32.71",
+      "frente": "5.35",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "181",
+      "parcela": "001",
+      "pdamatriz": "38575",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "2",
+      "propiedad_horizontal": "Si",
+      "seccion": "038",
+      "smp": "038-181-001",
+      "smp_anterior": "038-181-048",
+      "smp_siguiente": "038-181-002",
+      "srid": 4326,
+      "superficie_cubierta": "431.00",
+      "superficie_total": "175.00",
+      "unidades_funcionales": "3",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1807,
+      "cod_calle": 3095
+    },
+    "usig_direccion_elegida": {
+      "altura": 1807,
+      "cod_calle": 3095,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.419363",
+        "y": "-34.634564"
+      },
+      "direccion": "CASTRO 1807, CABA",
+      "nombre_calle": "CASTRO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1807,
+          "cod_calle": 3095,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.419363",
+            "y": "-34.634564"
+          },
+          "direccion": "CASTRO 1807, CABA",
+          "nombre_calle": "CASTRO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1807,
+          "cod_calle": 3096,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.417942",
+            "y": "-34.634446"
+          },
+          "direccion": "CASTRO BARROS 1807, CABA",
+          "nombre_calle": "CASTRO BARROS",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1807,
+          "cod_calle": 120216,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.334118825,
+            "y": -34.781908075
+          },
+          "direccion": "Juan José Castro 1807, Almirante Brown",
+          "nombre_calle": "Juan José Castro",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Rafael Calzada",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1807,
+          "cod_calle": 67868,
+          "cod_calle_cruce": null,
+          "cod_partido": "general_san_martin",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5492651893939,
+            "y": -34.5898689893939
+          },
+          "direccion": "Pasaje Castro 1807, General San Martín",
+          "nombre_calle": "Pasaje Castro",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Lynch",
+          "nombre_partido": "General San Martín",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1807,
+          "cod_calle": 182996,
+          "cod_calle_cruce": null,
+          "cod_partido": "hurlingham",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.641330622449,
+            "y": -34.5925039010204
+          },
+          "direccion": "Castro Barros 1807, Hurlingham",
+          "nombre_calle": "Castro Barros",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Hurlingham",
+          "nombre_partido": "Hurlingham",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1807,
+          "cod_calle": 19253,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4073883583333,
+            "y": -34.7182972020834
+          },
+          "direccion": "Manuel Castro 1807, Lanús",
+          "nombre_calle": "Manuel Castro",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Remedios de Escalada",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1807,
+          "cod_calle": 20060,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4160631326531,
+            "y": -34.6954476489796
+          },
+          "direccion": "Emilio Castro 1807, Lanús",
+          "nombre_calle": "Emilio Castro",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lanús Oeste",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1807,
+          "cod_calle": 17609,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3995587020408,
+            "y": -34.7386226816327
+          },
+          "direccion": "Senador Manuel Castro 1807, Lomas de Zamora",
+          "nombre_calle": "Senador Manuel Castro",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Banfield",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1807,
+          "cod_calle": 26007,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4318662244898,
+            "y": -34.7457268959184
+          },
+          "direccion": "Intendente Felipe Castro 1807, Lomas de Zamora",
+          "nombre_calle": "Intendente Felipe Castro",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lomas de Zamora",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1807,
+          "cod_calle": 354506,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.708215640404,
+            "y": -34.6934538626263
+          },
+          "direccion": "Avenida Julián M. Castro 1807, Merlo",
+          "nombre_calle": "Avenida Julián M. Castro",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Libertad",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  104018.15297421352,
+                  99417.19903260819
+                ],
+                [
+                  104021.8269742043,
+                  99417.63203260401
+                ],
+                [
+                  104022.05997420264,
+                  99417.66003260342
+                ],
+                [
+                  104026.46997418818,
+                  99413.61003261045
+                ],
+                [
+                  104026.42997418717,
+                  99412.62003261506
+                ],
+                [
+                  104026.26497418417,
+                  99408.49903262683
+                ],
+                [
+                  104026.25697418502,
+                  99408.29803262645
+                ],
+                [
+                  104025.6539741865,
+                  99408.24403262627
+                ],
+                [
+                  104020.85997419959,
+                  99407.81703263187
+                ],
+                [
+                  104019.28597420464,
+                  99407.6770326322
+                ],
+                [
+                  104018.88697420484,
+                  99407.64103263302
+                ],
+                [
+                  104016.88497421,
+                  99407.463032637
+                ],
+                [
+                  104011.90497422483,
+                  99407.02003264014
+                ],
+                [
+                  104010.72597422727,
+                  99406.91503264217
+                ],
+                [
+                  104010.29597422836,
+                  99406.87603264124
+                ],
+                [
+                  104009.36997423059,
+                  99406.79403264308
+                ],
+                [
+                  104007.3749742365,
+                  99406.61603264563
+                ],
+                [
+                  104006.96197424147,
+                  99410.7950326342
+                ],
+                [
+                  104006.59397424394,
+                  99414.52603262398
+                ],
+                [
+                  104006.46597424547,
+                  99415.81903262134
+                ],
+                [
+                  104008.07497424219,
+                  99416.0090326182
+                ],
+                [
+                  104010.25097423577,
+                  99416.26603261544
+                ],
+                [
+                  104011.19797423299,
+                  99416.37803261599
+                ],
+                [
+                  104012.70197422872,
+                  99416.55503261278
+                ],
+                [
+                  104014.61797422342,
+                  99416.781032611
+                ],
+                [
+                  104015.76897422087,
+                  99416.91703261039
+                ],
+                [
+                  104017.74097421514,
+                  99417.1500326067
+                ],
+                [
+                  104018.15297421352,
+                  99417.19903260819
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "038-181-001",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CASTRO 1807",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.41949994199244,
+      -34.63456103470452
+    ],
+    "direccion": "",
+    "fondo": "32.71",
+    "frente": "5.35",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "181",
+    "parcela": "001",
+    "pdamatriz": "38575",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "2",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "038",
+    "smp": "038-181-001",
+    "smp_anterior": "038-181-048",
+    "smp_siguiente": "038-181-002",
+    "srid": 4326,
+    "superficie_cubierta": "431.00",
+    "superficie_total": "175.00",
+    "unidades_funcionales": "3",
+    "vuc": "0.00"
+  },
+  "smp": "038-181-001",
+  "_http_status": 200
+}

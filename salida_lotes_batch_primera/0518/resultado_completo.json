@@ -1,0 +1,422 @@
+{
+  "area_m2": 169.07850646972656,
+  "centroide_lonlat": {
+    "lat": -34.634316,
+    "lon": -58.482205
+  },
+  "centroide_xy": {
+    "x": 98266.49223467709,
+    "y": 99439.94503060276
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 1,
+          "lep": 1,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": "SINGULAR",
+          "denominacion": null,
+          "estado": "CATALOGO PREVENTIVO",
+          "ley_3056": "SI",
+          "proteccion": "CAUTELAR"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 6.24,
+          "fot_perim_libre": 6.24,
+          "fot_semi_libre": 6.24
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/4/35/054-136-020_0000082435.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION054/054-136-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION054/PI-054-136-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "054-136-001",
+            "054-136-019",
+            "054-136-002"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2a II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 169.1,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "054-136-020"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. P. PIÑERO",
+    "barrio": "Velez Sarsfield",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1407",
+    "codigo_postal_argentino": "C1407KBA",
+    "comisaria": "40",
+    "comisaria_vecinal": "10C",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "54"
+  },
+  "debug": {
+    "address": "MARIANO ACOSTA 19",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.48220487838502,
+        -34.63431596280192
+      ],
+      "direccion": "",
+      "fondo": "18.22",
+      "frente": "9.00",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "136",
+      "parcela": "020",
+      "pdamatriz": "3652",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "054",
+      "smp": "054-136-020",
+      "smp_anterior": "054-136-019",
+      "smp_siguiente": "054-136-001",
+      "srid": 4326,
+      "superficie_cubierta": "251.00",
+      "superficie_total": "164.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 19,
+      "cod_calle": 1006
+    },
+    "usig_direccion_elegida": {
+      "altura": 19,
+      "cod_calle": 1006,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.482105",
+        "y": "-34.634230"
+      },
+      "direccion": "ACOSTA, MARIANO AV. 19, CABA",
+      "nombre_calle": "ACOSTA, MARIANO AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 19,
+          "cod_calle": 1006,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.482105",
+            "y": "-34.634230"
+          },
+          "direccion": "ACOSTA, MARIANO AV. 19, CABA",
+          "nombre_calle": "ACOSTA, MARIANO AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 19,
+          "cod_calle": 10450,
+          "cod_calle_cruce": null,
+          "cod_partido": "avellaneda",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3688674744898,
+            "y": -34.6597285918368
+          },
+          "direccion": "Mariano Acosta 19, Avellaneda",
+          "nombre_calle": "Mariano Acosta",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Avellaneda",
+          "nombre_partido": "Avellaneda",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 19,
+          "cod_calle": 570823,
+          "cod_calle_cruce": null,
+          "cod_partido": "esteban_echeverria",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4677363663265,
+            "y": -34.8174277836735
+          },
+          "direccion": "Mariano Acosta 19, Esteban Echeverría",
+          "nombre_calle": "Mariano Acosta",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Monte Grande",
+          "nombre_partido": "Esteban Echeverría",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 19,
+          "cod_calle": 159433,
+          "cod_calle_cruce": null,
+          "cod_partido": "ituzaingo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6670266632653,
+            "y": -34.6604414897959
+          },
+          "direccion": "Mariano Acosta 19, Ituzaingó",
+          "nombre_calle": "Mariano Acosta",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ituzaingó",
+          "nombre_partido": "Ituzaingó",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 19,
+          "cod_calle": 145952,
+          "cod_calle_cruce": null,
+          "cod_partido": "malvinas_argentinas",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6527955428571,
+            "y": -34.5014796693878
+          },
+          "direccion": "Mariano Acosta 19, Malvinas Argentinas",
+          "nombre_calle": "Mariano Acosta",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ingeniero Adolfo Sourdeaux",
+          "nombre_partido": "Malvinas Argentinas",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 19,
+          "cod_calle": 96845,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7204206244898,
+            "y": -34.6653055255102
+          },
+          "direccion": "Mariano Acosta 19, Merlo",
+          "nombre_calle": "Mariano Acosta",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Merlo",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98269.8019903591,
+                  99449.90303684396
+                ],
+                [
+                  98273.12699034842,
+                  99446.6850368487
+                ],
+                [
+                  98276.20399033639,
+                  99443.70603685564
+                ],
+                [
+                  98275.46599033804,
+                  99442.93603685769
+                ],
+                [
+                  98274.7629903395,
+                  99442.2030368603
+                ],
+                [
+                  98273.42099034287,
+                  99440.80403686338
+                ],
+                [
+                  98272.79499034375,
+                  99440.15203686795
+                ],
+                [
+                  98271.34499034601,
+                  99438.6390368742
+                ],
+                [
+                  98265.82599035841,
+                  99432.88603689364
+                ],
+                [
+                  98265.42999035786,
+                  99432.47303689431
+                ],
+                [
+                  98264.09499036131,
+                  99431.08103689982
+                ],
+                [
+                  98262.48199036453,
+                  99429.3990369046
+                ],
+                [
+                  98257.3419903846,
+                  99437.06703688682
+                ],
+                [
+                  98259.40099038048,
+                  99439.18803688083
+                ],
+                [
+                  98260.16899037844,
+                  99439.97903687597
+                ],
+                [
+                  98265.85199036702,
+                  99445.83403685506
+                ],
+                [
+                  98266.38899036712,
+                  99446.38703685513
+                ],
+                [
+                  98268.42599036222,
+                  99448.48603684662
+                ],
+                [
+                  98269.8019903591,
+                  99449.90303684396
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "054-136-020",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MARIANO ACOSTA 19",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.48220487838502,
+      -34.63431596280192
+    ],
+    "direccion": "",
+    "fondo": "18.22",
+    "frente": "9.00",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "136",
+    "parcela": "020",
+    "pdamatriz": "3652",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "054",
+    "smp": "054-136-020",
+    "smp_anterior": "054-136-019",
+    "smp_siguiente": "054-136-001",
+    "srid": 4326,
+    "superficie_cubierta": "251.00",
+    "superficie_total": "164.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "054-136-020",
+  "_http_status": 200
+}

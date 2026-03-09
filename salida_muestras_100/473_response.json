@@ -1,0 +1,388 @@
+{
+  "area_m2": 315.0607204437256,
+  "centroide_lonlat": {
+    "lat": -34.656019,
+    "lon": -58.49627
+  },
+  "centroide_xy": {
+    "x": 96977.52962055022,
+    "y": 97031.91455713549
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 2.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/2/89/062-008-027_0000018289.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION062/062-008-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION062/PI-062-008-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "062-008-012",
+            "062-008-026",
+            "062-008-028",
+            "062-008-013"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "E2",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 895.94,
+          "plusvalia_sl": 895.94
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 155.545164657538,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 315.1,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "062-008-027"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Mataderos",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1440",
+    "codigo_postal_argentino": "C1440CWG",
+    "comisaria": "48",
+    "comisaria_vecinal": "9A",
+    "comuna": "Comuna 9",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "62"
+  },
+  "debug": {
+    "address": "LARRAYA 1851",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.496270349591974,
+        -34.65601934685346
+      ],
+      "direccion": "LARRAYA 1851",
+      "fondo": "40.05",
+      "frente": "7.79",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "008",
+      "parcela": "027",
+      "pdamatriz": "32119",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "062",
+      "smp": "062-008-027",
+      "smp_anterior": "062-008-026",
+      "smp_siguiente": "062-008-028",
+      "srid": 4326,
+      "superficie_cubierta": "327.00",
+      "superficie_total": "312.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1851,
+      "cod_calle": 12063
+    },
+    "usig_direccion_elegida": {
+      "altura": 1851,
+      "cod_calle": 12063,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.496087",
+        "y": "-34.655860"
+      },
+      "direccion": "LARRAYA 1851, CABA",
+      "nombre_calle": "LARRAYA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1851,
+          "cod_calle": 12063,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.496087",
+            "y": "-34.655860"
+          },
+          "direccion": "LARRAYA 1851, CABA",
+          "nombre_calle": "LARRAYA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1851,
+          "cod_calle": 158828,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6076368,
+            "y": -34.71383835
+          },
+          "direccion": "Larraya 1851, La Matanza",
+          "nombre_calle": "Larraya",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Rafael Castillo",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96960.59899220304,
+                  97020.40204464056
+                ],
+                [
+                  96963.06199219693,
+                  97022.88904463209
+                ],
+                [
+                  96971.48599217979,
+                  97031.3980446019
+                ],
+                [
+                  96978.71699216476,
+                  97038.70104457665
+                ],
+                [
+                  96982.35399215805,
+                  97042.37404456205
+                ],
+                [
+                  96986.3529921498,
+                  97046.41304454781
+                ],
+                [
+                  96988.79199214528,
+                  97048.87604454046
+                ],
+                [
+                  96989.67299214151,
+                  97048.03904454113
+                ],
+                [
+                  96994.47399212439,
+                  97043.47404455036
+                ],
+                [
+                  96993.29999212672,
+                  97042.28604455508
+                ],
+                [
+                  96991.11699213082,
+                  97040.07604456344
+                ],
+                [
+                  96990.32599213309,
+                  97039.27504456561
+                ],
+                [
+                  96989.71199213425,
+                  97038.65404456796
+                ],
+                [
+                  96988.16099213809,
+                  97037.08304457151
+                ],
+                [
+                  96987.8689921383,
+                  97036.788044574
+                ],
+                [
+                  96985.88099214248,
+                  97034.77504458261
+                ],
+                [
+                  96982.70099214911,
+                  97031.557044593
+                ],
+                [
+                  96977.06499216055,
+                  97025.85104461288
+                ],
+                [
+                  96971.81499217098,
+                  97020.53604463235
+                ],
+                [
+                  96968.85099217684,
+                  97017.53604464166
+                ],
+                [
+                  96966.30599218226,
+                  97014.96004465251
+                ],
+                [
+                  96965.83699218406,
+                  97015.40704464912
+                ],
+                [
+                  96963.80299219122,
+                  97017.34704464703
+                ],
+                [
+                  96962.99899219313,
+                  97018.11404464577
+                ],
+                [
+                  96960.59899220304,
+                  97020.40204464056
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "062-008-027",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "LARRAYA 1851",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.496270349591974,
+      -34.65601934685346
+    ],
+    "direccion": "LARRAYA 1851",
+    "fondo": "40.05",
+    "frente": "7.79",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "008",
+    "parcela": "027",
+    "pdamatriz": "32119",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [
+      {
+        "altura": 1851,
+        "calle": "LARRAYA",
+        "codigo_calle": 12063,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "062",
+    "smp": "062-008-027",
+    "smp_anterior": "062-008-026",
+    "smp_siguiente": "062-008-028",
+    "srid": 4326,
+    "superficie_cubierta": "327.00",
+    "superficie_total": "312.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "062-008-027"
+}

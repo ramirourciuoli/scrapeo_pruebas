@@ -1,0 +1,354 @@
+{
+  "area_m2": 150.99169921875,
+  "centroide_lonlat": {
+    "lat": -34.644664,
+    "lon": -58.43351
+  },
+  "centroide_xy": {
+    "x": 102731.33735143254,
+    "y": 98291.71134479395
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/54/044-166-006l_0000066754.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION044/044-166-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION044/PI-044-166-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "044-166-006i",
+            "044-166-006j",
+            "044-166-006k",
+            "044-166-005b"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 150.986350000001,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 151.0,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "044-166-006L"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. P. PIÑERO",
+    "barrio": "Parque Chacabuco",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1437",
+    "codigo_postal_argentino": "C1437JGJ",
+    "comisaria": "12",
+    "comisaria_vecinal": "7B",
+    "comuna": "Comuna 7",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "44"
+  },
+  "debug": {
+    "address": "SALVIGNY 1590",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.43350951390025,
+        -34.6446641641272
+      ],
+      "direccion": "",
+      "fondo": "17.44",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "166",
+      "parcela": "006L",
+      "pdamatriz": "77482",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "044",
+      "smp": "044-166-006L",
+      "smp_anterior": "044-166-006K",
+      "smp_siguiente": "044-166-001B",
+      "srid": 4326,
+      "superficie_cubierta": "160.00",
+      "superficie_total": "151.00",
+      "unidades_funcionales": "2",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1590,
+      "cod_calle": 20020
+    },
+    "usig_direccion_elegida": {
+      "altura": 1590,
+      "cod_calle": 20020,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.433547",
+        "y": "-34.644552"
+      },
+      "direccion": "SALVIGNY 1590, CABA",
+      "nombre_calle": "SALVIGNY",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1590,
+          "cod_calle": 20020,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.433547",
+            "y": "-34.644552"
+          },
+          "direccion": "SALVIGNY 1590, CABA",
+          "nombre_calle": "SALVIGNY",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102731.50497696835,
+                  98282.73603675672
+                ],
+                [
+                  102729.39597697368,
+                  98282.19003676067
+                ],
+                [
+                  102729.02697697579,
+                  98283.57503675684
+                ],
+                [
+                  102728.87197697735,
+                  98284.1550367554
+                ],
+                [
+                  102728.31297698016,
+                  98286.25503674959
+                ],
+                [
+                  102727.5409769846,
+                  98289.1480367422
+                ],
+                [
+                  102727.1339769863,
+                  98290.67703673831
+                ],
+                [
+                  102726.30497699107,
+                  98293.78403673007
+                ],
+                [
+                  102725.92297699393,
+                  98295.2180367267
+                ],
+                [
+                  102725.88297699411,
+                  98295.3690367259
+                ],
+                [
+                  102725.79297699383,
+                  98295.70703672548
+                ],
+                [
+                  102724.91297699891,
+                  98299.00603671654
+                ],
+                [
+                  102729.54997698695,
+                  98300.27303670949
+                ],
+                [
+                  102733.25697697772,
+                  98301.28503670398
+                ],
+                [
+                  102734.39497697065,
+                  98297.01203671505
+                ],
+                [
+                  102735.83097696326,
+                  98291.62103672925
+                ],
+                [
+                  102736.04697696205,
+                  98290.81103673085
+                ],
+                [
+                  102736.62097695886,
+                  98288.65603673711
+                ],
+                [
+                  102737.03297695608,
+                  98287.11003674101
+                ],
+                [
+                  102737.2189769548,
+                  98286.41203674208
+                ],
+                [
+                  102737.76597695195,
+                  98284.35703674774
+                ],
+                [
+                  102734.60197696034,
+                  98283.53803675226
+                ],
+                [
+                  102731.50497696835,
+                  98282.73603675672
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "044-166-006L",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "SALVIGNY 1590",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.43350951390025,
+      -34.6446641641272
+    ],
+    "direccion": "",
+    "fondo": "17.44",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "166",
+    "parcela": "006L",
+    "pdamatriz": "77482",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "044",
+    "smp": "044-166-006L",
+    "smp_anterior": "044-166-006K",
+    "smp_siguiente": "044-166-001B",
+    "srid": 4326,
+    "superficie_cubierta": "160.00",
+    "superficie_total": "151.00",
+    "unidades_funcionales": "2",
+    "vuc": "0.00"
+  },
+  "smp": "044-166-006L",
+  "_http_status": 200
+}

@@ -1,0 +1,425 @@
+{
+  "area_m2": 174.2055311203003,
+  "centroide_lonlat": {
+    "lat": -34.598025,
+    "lon": -58.433781
+  },
+  "centroide_xy": {
+    "x": 102707.95165973679,
+    "y": 103465.73144598256
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": "SINGULAR",
+          "denominacion": null,
+          "estado": "CATALOGO PREVENTIVO",
+          "ley_3056": "SI",
+          "proteccion": "CAUTELAR"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.45,
+          "fot_perim_libre": 3.45,
+          "fot_semi_libre": 3.45
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/2/39/031-038-001_0000264239.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION031/031-038-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION031/PI-031-038-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "031-038-002",
+            "031-038-041"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2a II",
+          "incidencia_uva": 260.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 174.2,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "031-038-001"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Villa Crespo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1414",
+    "codigo_postal_argentino": "C1414DPM",
+    "comisaria": "25",
+    "comisaria_vecinal": "15B",
+    "comuna": "Comuna 15",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   II",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "31"
+  },
+  "debug": {
+    "address": "ARAOZ 693",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.433781095214115,
+        -34.59802461413107
+      ],
+      "direccion": "",
+      "fondo": "17.33",
+      "frente": "10.39",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "038",
+      "parcela": "001",
+      "pdamatriz": "420898",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "031",
+      "smp": "031-038-001",
+      "smp_anterior": "031-038-041",
+      "smp_siguiente": "031-038-002",
+      "srid": 4326,
+      "superficie_cubierta": "523.00",
+      "superficie_total": "180.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 693,
+      "cod_calle": 1095
+    },
+    "usig_direccion_elegida": {
+      "altura": 693,
+      "cod_calle": 1095,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.433864",
+        "y": "-34.597934"
+      },
+      "direccion": "ARAOZ 693, CABA",
+      "nombre_calle": "ARAOZ",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 693,
+          "cod_calle": 1095,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.433864",
+            "y": "-34.597934"
+          },
+          "direccion": "ARAOZ 693, CABA",
+          "nombre_calle": "ARAOZ",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 693,
+          "cod_calle": 1163,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.362049",
+            "y": "-34.638563"
+          },
+          "direccion": "ARAOZ DE LAMADRID, GREGORIO, GRAL. 693, CABA",
+          "nombre_calle": "ARAOZ DE LAMADRID, GREGORIO, GRAL.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 693,
+          "cod_calle": 42034,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5076687857143,
+            "y": -34.6893224142857
+          },
+          "direccion": "Pedro Miguel Aráoz 693, La Matanza",
+          "nombre_calle": "Pedro Miguel Aráoz",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Madero",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 693,
+          "cod_calle": 18072,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4046873,
+            "y": -34.7353223357143
+          },
+          "direccion": "Aráoz 693, Lomas de Zamora",
+          "nombre_calle": "Aráoz",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Banfield",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 693,
+          "cod_calle": 96803,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7118267285714,
+            "y": -34.6604068142857
+          },
+          "direccion": "Araoz 693, Merlo",
+          "nombre_calle": "Araoz",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Antonio de Padua",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 693,
+          "cod_calle": 353028,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_vicente",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3851312928571,
+            "y": -34.9742657857143
+          },
+          "direccion": "General Gregorio Aráoz de Lamadrid 693, San Vicente",
+          "nombre_calle": "General Gregorio Aráoz de Lamadrid",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Vicente",
+          "nombre_partido": "San Vicente",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102698.34598096574,
+                  103469.85902223567
+                ],
+                [
+                  102698.66298096483,
+                  103470.10402223482
+                ],
+                [
+                  102702.98298095552,
+                  103473.44502222221
+                ],
+                [
+                  102703.29998095463,
+                  103473.69002222142
+                ],
+                [
+                  102709.2399809378,
+                  103472.92002221863
+                ],
+                [
+                  102714.96098091605,
+                  103465.49002223546
+                ],
+                [
+                  102717.40198090646,
+                  103462.32102224272
+                ],
+                [
+                  102713.99998091432,
+                  103459.7510222522
+                ],
+                [
+                  102712.00498091867,
+                  103458.24402225771
+                ],
+                [
+                  102710.88098092136,
+                  103457.39402226132
+                ],
+                [
+                  102709.13198092539,
+                  103456.07302226586
+                ],
+                [
+                  102708.6799809266,
+                  103456.65002226512
+                ],
+                [
+                  102707.23698093208,
+                  103458.49502226076
+                ],
+                [
+                  102706.79998093379,
+                  103459.05302225976
+                ],
+                [
+                  102705.42398093884,
+                  103460.81202225544
+                ],
+                [
+                  102703.96498094453,
+                  103462.67702225156
+                ],
+                [
+                  102702.89798094874,
+                  103464.04102224857
+                ],
+                [
+                  102702.02898095203,
+                  103465.15202224569
+                ],
+                [
+                  102698.41098096588,
+                  103469.77702223547
+                ],
+                [
+                  102698.34598096574,
+                  103469.85902223567
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "031-038-001",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ARAOZ 693",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.433781095214115,
+      -34.59802461413107
+    ],
+    "direccion": "",
+    "fondo": "17.33",
+    "frente": "10.39",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "038",
+    "parcela": "001",
+    "pdamatriz": "420898",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "031",
+    "smp": "031-038-001",
+    "smp_anterior": "031-038-041",
+    "smp_siguiente": "031-038-002",
+    "srid": 4326,
+    "superficie_cubierta": "523.00",
+    "superficie_total": "180.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "031-038-001",
+  "_http_status": 200
+}

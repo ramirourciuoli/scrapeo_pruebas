@@ -1,0 +1,325 @@
+{
+  "area_m2": 115.14620876312256,
+  "centroide_lonlat": {
+    "lat": -34.593861,
+    "lon": -58.455196
+  },
+  "centroide_xy": {
+    "x": 100743.46046116031,
+    "y": 103927.99414191475
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 1,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 2.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/2/16/047-107-017a_0000451216.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION047/047-107-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION047/PI-047-107-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "047-107-018",
+            "047-107-017b",
+            "047-107-016"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "E2",
+          "incidencia_uva": 60.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 1491.66,
+          "plusvalia_sl": 1491.66
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 115.096949999958,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 115.1,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "047-107-017A"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. E. TORNÚ",
+    "barrio": "Chacarita",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1427",
+    "codigo_postal_argentino": "C1427AGE",
+    "comisaria": "29",
+    "comisaria_vecinal": "15A",
+    "comuna": "Comuna 15",
+    "distrito_economico": "DISTRITO AUDIOVISUAL",
+    "distrito_escolar": "Distrito Escolar   XIV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "47"
+  },
+  "debug": {
+    "address": "CALDAS 325",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.45519607406287,
+        -34.59386097691486
+      ],
+      "direccion": "",
+      "fondo": "10.90",
+      "frente": "10.37",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "107",
+      "parcela": "017A",
+      "pdamatriz": "227367",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "047",
+      "smp": "047-107-017A",
+      "smp_anterior": "047-107-016",
+      "smp_siguiente": "047-107-017B",
+      "srid": 4326,
+      "superficie_cubierta": "122.00",
+      "superficie_total": "113.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 325,
+      "cod_calle": 3021
+    },
+    "usig_direccion_elegida": {
+      "altura": 325,
+      "cod_calle": 3021,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.455271",
+        "y": "-34.593931"
+      },
+      "direccion": "CALDAS 325, CABA",
+      "nombre_calle": "CALDAS",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 325,
+          "cod_calle": 3021,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.455271",
+            "y": "-34.593931"
+          },
+          "direccion": "CALDAS 325, CABA",
+          "nombre_calle": "CALDAS",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  100743.44898678672,
+                  103920.46402244293
+                ],
+                [
+                  100735.8559868128,
+                  103927.20302242888
+                ],
+                [
+                  100740.38098680491,
+                  103932.20302241255
+                ],
+                [
+                  100743.45098679875,
+                  103935.59602240019
+                ],
+                [
+                  100745.46498679165,
+                  103933.75902240549
+                ],
+                [
+                  100746.44098678813,
+                  103932.86702240584
+                ],
+                [
+                  100746.69798678663,
+                  103932.63302240672
+                ],
+                [
+                  100747.64098678401,
+                  103931.77202240846
+                ],
+                [
+                  100748.68098678053,
+                  103930.82402241099
+                ],
+                [
+                  100751.07498677228,
+                  103928.63902241443
+                ],
+                [
+                  100749.36998677572,
+                  103926.81102242059
+                ],
+                [
+                  100749.28298677588,
+                  103926.71802242164
+                ],
+                [
+                  100748.34698677767,
+                  103925.71502242459
+                ],
+                [
+                  100746.94298677999,
+                  103924.20902242954
+                ],
+                [
+                  100746.29098678133,
+                  103923.5100224324
+                ],
+                [
+                  100743.44898678672,
+                  103920.46402244293
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "047-107-017A",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CALDAS 325",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.45519607406287,
+      -34.59386097691486
+    ],
+    "direccion": "",
+    "fondo": "10.90",
+    "frente": "10.37",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "107",
+    "parcela": "017A",
+    "pdamatriz": "227367",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "047",
+    "smp": "047-107-017A",
+    "smp_anterior": "047-107-016",
+    "smp_siguiente": "047-107-017B",
+    "srid": 4326,
+    "superficie_cubierta": "122.00",
+    "superficie_total": "113.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "047-107-017A",
+  "_http_status": 200
+}

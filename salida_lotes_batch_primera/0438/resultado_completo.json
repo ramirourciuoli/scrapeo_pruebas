@@ -1,0 +1,414 @@
+{
+  "area_m2": 308.0518054962158,
+  "centroide_lonlat": {
+    "lat": -34.598942,
+    "lon": -58.416376
+  },
+  "centroide_xy": {
+    "x": 104304.62737998136,
+    "y": 103363.34634746735
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.47,
+          "fot_perim_libre": 3.47,
+          "fot_semi_libre": 3.47
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/66/013-011-026_0000471666.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION013/013-011-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION013/PI-013-011-V3.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": true,
+          "smp_linderas": [
+            "013-011-029",
+            "013-011-025",
+            "013-011-027",
+            "013-011-030"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2a II",
+          "incidencia_uva": 270.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 201.895124992535,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 308.1,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "013-011-026"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. J.M. RAMOS MEJÍA",
+    "barrio": "Almagro",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1189",
+    "codigo_postal_argentino": "C1189AAS",
+    "comisaria": "9",
+    "comisaria_vecinal": "5A",
+    "comuna": "Comuna 5",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   II",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "13"
+  },
+  "debug": {
+    "address": "TUCUMAN 3623",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.41637550581527,
+        -34.598942087921
+      ],
+      "direccion": "",
+      "fondo": "35.68",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "011",
+      "parcela": "026",
+      "pdamatriz": "192945",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "013",
+      "smp": "013-011-026",
+      "smp_anterior": "013-011-025",
+      "smp_siguiente": "013-011-027",
+      "srid": 4326,
+      "superficie_cubierta": "227.00",
+      "superficie_total": "309.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3623,
+      "cod_calle": 21060
+    },
+    "usig_direccion_elegida": {
+      "altura": 3623,
+      "cod_calle": 21060,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.416449",
+        "y": "-34.599122"
+      },
+      "direccion": "TUCUMAN 3623, CABA",
+      "nombre_calle": "TUCUMAN",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3623,
+          "cod_calle": 21060,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.416449",
+            "y": "-34.599122"
+          },
+          "direccion": "TUCUMAN 3623, CABA",
+          "nombre_calle": "TUCUMAN",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3623,
+          "cod_calle": 34493,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3614387714286,
+            "y": -34.7242423142857
+          },
+          "direccion": "Tucumán 3623, Lanús",
+          "nombre_calle": "Tucumán",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Monte Chingolo",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3623,
+          "cod_calle": 84454,
+          "cod_calle_cruce": null,
+          "cod_partido": "quilmes",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.2983475666667,
+            "y": -34.7397190611111
+          },
+          "direccion": "Tucumán 3623, Quilmes",
+          "nombre_calle": "Tucumán",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Quilmes",
+          "nombre_partido": "Quilmes",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3623,
+          "cod_calle": 114474,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_fernando",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5500376571429,
+            "y": -34.4633112
+          },
+          "direccion": "Tucumán 3623, San Fernando",
+          "nombre_calle": "Tucumán",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Victoria",
+          "nombre_partido": "San Fernando",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3623,
+          "cod_calle": 53325,
+          "cod_calle_cruce": null,
+          "cod_partido": "vicente_lopez",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.49452305,
+            "y": -34.5011753
+          },
+          "direccion": "Tucumán 3623, Vicente López",
+          "nombre_calle": "Tucumán",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "La Lucila",
+          "nombre_partido": "Vicente López",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  104297.05697639025,
+                  103347.30902137613
+                ],
+                [
+                  104297.75697639116,
+                  103350.8940213655
+                ],
+                [
+                  104297.8719763915,
+                  103351.4830213635
+                ],
+                [
+                  104298.36106037593,
+                  103353.98909606307
+                ],
+                [
+                  104298.89005207572,
+                  103356.69814146523
+                ],
+                [
+                  104299.9061043229,
+                  103361.89809262179
+                ],
+                [
+                  104303.67807698308,
+                  103381.2171233265
+                ],
+                [
+                  104307.98306964665,
+                  103381.01912527694
+                ],
+                [
+                  104312.21897637247,
+                  103380.82502127058
+                ],
+                [
+                  104311.35397637212,
+                  103376.18502128366
+                ],
+                [
+                  104310.69497637132,
+                  103372.65102129406
+                ],
+                [
+                  104308.3959763679,
+                  103360.32102133118
+                ],
+                [
+                  104308.33097636832,
+                  103359.97102133167
+                ],
+                [
+                  104307.52397636732,
+                  103355.64002134421
+                ],
+                [
+                  104307.3589763671,
+                  103354.75502134708
+                ],
+                [
+                  104307.33997636674,
+                  103354.65602134788
+                ],
+                [
+                  104306.59097636597,
+                  103350.63802135951
+                ],
+                [
+                  104305.44397636468,
+                  103344.48502137774
+                ],
+                [
+                  104305.06097636545,
+                  103344.6140213774
+                ],
+                [
+                  104297.43997638946,
+                  103347.18002137556
+                ],
+                [
+                  104297.05697639025,
+                  103347.30902137613
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "013-011-026",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "TUCUMAN 3623",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.41637550581527,
+      -34.598942087921
+    ],
+    "direccion": "",
+    "fondo": "35.68",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "011",
+    "parcela": "026",
+    "pdamatriz": "192945",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "013",
+    "smp": "013-011-026",
+    "smp_anterior": "013-011-025",
+    "smp_siguiente": "013-011-027",
+    "srid": 4326,
+    "superficie_cubierta": "227.00",
+    "superficie_total": "309.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "013-011-026",
+  "_http_status": 200
+}

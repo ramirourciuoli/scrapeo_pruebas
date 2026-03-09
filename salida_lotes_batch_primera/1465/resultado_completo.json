@@ -1,0 +1,383 @@
+{
+  "area_m2": 236.63152694702148,
+  "centroide_lonlat": {
+    "lat": -34.648935,
+    "lon": -58.513897
+  },
+  "centroide_xy": {
+    "x": 95361.28153234748,
+    "y": 97817.15103760263
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/3/98/074-108-003_0000061398.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION074/074-108-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION074/PI-074-108-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "074-108-004",
+            "074-108-038",
+            "074-108-039",
+            "074-108-002"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 100.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 236.613499999998,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 236.6,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "074-108-003"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Liniers",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1408",
+    "codigo_postal_argentino": "C1408FED",
+    "comisaria": "54",
+    "comisaria_vecinal": "9B",
+    "comuna": "Comuna 9",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "74"
+  },
+  "debug": {
+    "address": "ACASSUSO 6420",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.51389674090327,
+        -34.64893507189956
+      ],
+      "direccion": "",
+      "fondo": "27.54",
+      "frente": "8.57",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "108",
+      "parcela": "003",
+      "pdamatriz": "15197",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "074",
+      "smp": "074-108-003",
+      "smp_anterior": "074-108-002",
+      "smp_siguiente": "074-108-004",
+      "srid": 4326,
+      "superficie_cubierta": "131.00",
+      "superficie_total": "236.00",
+      "unidades_funcionales": "2",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 6420,
+      "cod_calle": 1001
+    },
+    "usig_direccion_elegida": {
+      "altura": 6420,
+      "cod_calle": 1001,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.514041",
+        "y": "-34.648825"
+      },
+      "direccion": "ACASSUSO 6420, CABA",
+      "nombre_calle": "ACASSUSO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 6420,
+          "cod_calle": 1001,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.514041",
+            "y": "-34.648825"
+          },
+          "direccion": "ACASSUSO 6420, CABA",
+          "nombre_calle": "ACASSUSO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 6420,
+          "cod_calle": 226010,
+          "cod_calle_cruce": null,
+          "cod_partido": "vicente_lopez",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5429065272727,
+            "y": -34.5309805909091
+          },
+          "direccion": "Domingo de Acassuso 6420, Vicente López",
+          "nombre_calle": "Domingo de Acassuso",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Adelina",
+          "nombre_partido": "Vicente López",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  95348.20099732836,
+                  97823.0910436036
+                ],
+                [
+                  95353.16299731785,
+                  97828.4690435844
+                ],
+                [
+                  95354.11699731585,
+                  97829.50304358071
+                ],
+                [
+                  95354.708997314,
+                  97828.96504358211
+                ],
+                [
+                  95358.18899730229,
+                  97825.80304358882
+                ],
+                [
+                  95361.55099729034,
+                  97822.74804359415
+                ],
+                [
+                  95362.9919972849,
+                  97821.43804359715
+                ],
+                [
+                  95364.04399728139,
+                  97820.48204359887
+                ],
+                [
+                  95364.81299727905,
+                  97819.78304360024
+                ],
+                [
+                  95367.77799726851,
+                  97817.08804360623
+                ],
+                [
+                  95367.95899726776,
+                  97816.92404360566
+                ],
+                [
+                  95372.20399725305,
+                  97813.06704361344
+                ],
+                [
+                  95374.3679972454,
+                  97811.10004361713
+                ],
+                [
+                  95372.84299724895,
+                  97809.44604362376
+                ],
+                [
+                  95368.55899725753,
+                  97804.79904363921
+                ],
+                [
+                  95367.00299726211,
+                  97806.1970436365
+                ],
+                [
+                  95364.86299726991,
+                  97808.12004363313
+                ],
+                [
+                  95363.63599727425,
+                  97809.22204363099
+                ],
+                [
+                  95362.1199972797,
+                  97810.58404362801
+                ],
+                [
+                  95361.92999727995,
+                  97810.75504362772
+                ],
+                [
+                  95358.95099729097,
+                  97813.43204362268
+                ],
+                [
+                  95357.46099729592,
+                  97814.77104361972
+                ],
+                [
+                  95355.6709973021,
+                  97816.37904361656
+                ],
+                [
+                  95352.02199731462,
+                  97819.65804361016
+                ],
+                [
+                  95351.78999731556,
+                  97819.86604361038
+                ],
+                [
+                  95348.20099732836,
+                  97823.0910436036
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "074-108-003",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ACASSUSO 6420",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.51389674090327,
+      -34.64893507189956
+    ],
+    "direccion": "",
+    "fondo": "27.54",
+    "frente": "8.57",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "108",
+    "parcela": "003",
+    "pdamatriz": "15197",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "074",
+    "smp": "074-108-003",
+    "smp_anterior": "074-108-002",
+    "smp_siguiente": "074-108-004",
+    "srid": 4326,
+    "superficie_cubierta": "131.00",
+    "superficie_total": "236.00",
+    "unidades_funcionales": "2",
+    "vuc": "0.00"
+  },
+  "smp": "074-108-003",
+  "_http_status": 200
+}

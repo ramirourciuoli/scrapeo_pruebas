@@ -1,0 +1,350 @@
+{
+  "area_m2": 76.13287734985352,
+  "centroide_lonlat": {
+    "lat": -34.623142,
+    "lon": -58.517683
+  },
+  "centroide_xy": {
+    "x": 95012.65011998985,
+    "y": 100678.31865302709
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/13/093-150B-001b_0000209613.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION093/093-150B-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION093/PI-093-150B-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "093-150B-001a",
+            "093-150B-002",
+            "093-150B-030"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "AE 26",
+          "incidencia_uva": 100.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 76.1,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "093-150B-001B"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Monte Castro",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1408",
+    "codigo_postal_argentino": "C1408CVE",
+    "comisaria": "44",
+    "comisaria_vecinal": "10B",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "93"
+  },
+  "debug": {
+    "address": "PAUL GROUSSAC 5513",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.51768259236432,
+        -34.623142390214305
+      ],
+      "direccion": "GROUSSAC, PAUL 5513",
+      "fondo": "8.71",
+      "frente": "8.50",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "150B",
+      "parcela": "001B",
+      "pdamatriz": "288945",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "2",
+      "propiedad_horizontal": "Si",
+      "seccion": "093",
+      "smp": "093-150B-001B",
+      "smp_anterior": "093-150B-001A",
+      "smp_siguiente": "093-150B-002",
+      "srid": 4326,
+      "superficie_cubierta": "151.00",
+      "superficie_total": "74.00",
+      "unidades_funcionales": "2",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 5513,
+      "cod_calle": 7084
+    },
+    "usig_direccion_elegida": {
+      "altura": 5513,
+      "cod_calle": 7084,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.517633",
+        "y": "-34.623180"
+      },
+      "direccion": "GROUSSAC, PAUL 5513, CABA",
+      "nombre_calle": "GROUSSAC, PAUL",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 5513,
+          "cod_calle": 7084,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.517633",
+            "y": "-34.623180"
+          },
+          "direccion": "GROUSSAC, PAUL 5513, CABA",
+          "nombre_calle": "GROUSSAC, PAUL",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  95010.88600042644,
+                  100682.80803583798
+                ],
+                [
+                  95012.52000042278,
+                  100684.53803583144
+                ],
+                [
+                  95014.73500041572,
+                  100682.36603583652
+                ],
+                [
+                  95016.1610004106,
+                  100680.96803583935
+                ],
+                [
+                  95018.76000040089,
+                  100678.42003584409
+                ],
+                [
+                  95018.61900040135,
+                  100678.27003584427
+                ],
+                [
+                  95017.20600040448,
+                  100676.76103584998
+                ],
+                [
+                  95015.49600040792,
+                  100674.9360358562
+                ],
+                [
+                  95015.15400040844,
+                  100674.57103585813
+                ],
+                [
+                  95013.11400041243,
+                  100672.39203586534
+                ],
+                [
+                  95012.86500041313,
+                  100672.12703586661
+                ],
+                [
+                  95011.26900041882,
+                  100673.64003586283
+                ],
+                [
+                  95011.15900041888,
+                  100673.744035863
+                ],
+                [
+                  95010.54300042069,
+                  100674.32903586174
+                ],
+                [
+                  95010.39700042146,
+                  100674.46703586177
+                ],
+                [
+                  95006.49800043496,
+                  100678.16303585385
+                ],
+                [
+                  95008.26300043202,
+                  100680.03103584802
+                ],
+                [
+                  95008.94900043038,
+                  100680.75803584536
+                ],
+                [
+                  95009.51200042936,
+                  100681.35303584306
+                ],
+                [
+                  95010.88600042644,
+                  100682.80803583798
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "093-150B-001B",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "PAUL GROUSSAC 5513",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.51768259236432,
+      -34.623142390214305
+    ],
+    "direccion": "GROUSSAC, PAUL 5513",
+    "fondo": "8.71",
+    "frente": "8.50",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "150B",
+    "parcela": "001B",
+    "pdamatriz": "288945",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "2",
+    "propiedad_horizontal": "Si",
+    "puertas": [
+      {
+        "altura": 5513,
+        "calle": "GROUSSAC, PAUL",
+        "codigo_calle": 7084,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "093",
+    "smp": "093-150B-001B",
+    "smp_anterior": "093-150B-001A",
+    "smp_siguiente": "093-150B-002",
+    "srid": 4326,
+    "superficie_cubierta": "151.00",
+    "superficie_total": "74.00",
+    "unidades_funcionales": "2",
+    "vuc": "0.00"
+  },
+  "smp": "093-150B-001B"
+}

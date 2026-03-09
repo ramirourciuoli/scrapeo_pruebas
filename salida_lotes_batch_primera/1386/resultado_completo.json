@@ -1,0 +1,329 @@
+{
+  "area_m2": 105.54019832611084,
+  "centroide_lonlat": {
+    "lat": -34.641123,
+    "lon": -58.458212
+  },
+  "centroide_xy": {
+    "x": 100466.4876678218,
+    "y": 98684.89660297973
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 0.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/3/47/048-071-001_0000072347.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION048/048-071-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION048/PI-048-071-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "048-071-002",
+            "048-071-007"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "RUA",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0.0,
+          "plusvalia_pl": 0.0,
+          "plusvalia_sl": 0.0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 105.5,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "048-071-001"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. P. PIÑERO",
+    "barrio": "Flores",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1406",
+    "codigo_postal_argentino": "C1406ESI",
+    "comisaria": "38",
+    "comisaria_vecinal": "7A",
+    "comuna": "Comuna 7",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "48"
+  },
+  "debug": {
+    "address": "ARROTEA 1019",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.45821227427133,
+        -34.64112346495819
+      ],
+      "direccion": "",
+      "fondo": "12.24",
+      "frente": "8.49",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "071",
+      "parcela": "001",
+      "pdamatriz": "144086",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "048",
+      "smp": "048-071-001",
+      "smp_anterior": "048-071-007",
+      "smp_siguiente": "048-071-002",
+      "srid": 4326,
+      "superficie_cubierta": "156.00",
+      "superficie_total": "104.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1019,
+      "cod_calle": 1123
+    },
+    "usig_direccion_elegida": {
+      "altura": 1019,
+      "cod_calle": 1123,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.458146",
+        "y": "-34.641092"
+      },
+      "direccion": "ARROTEA 1019, CABA",
+      "nombre_calle": "ARROTEA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1019,
+          "cod_calle": 1123,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.458146",
+            "y": "-34.641092"
+          },
+          "direccion": "ARROTEA 1019, CABA",
+          "nombre_calle": "ARROTEA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1019,
+          "cod_calle": 17134,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4132772030612,
+            "y": -34.7674498846939
+          },
+          "direccion": "Carlos Molina Arrotea 1019, Lomas de Zamora",
+          "nombre_calle": "Carlos Molina Arrotea",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lomas de Zamora",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  100471.62598360977,
+                  98686.0780373268
+                ],
+                [
+                  100474.1009836004,
+                  98683.33903733257
+                ],
+                [
+                  100470.4659836085,
+                  98680.30703734414
+                ],
+                [
+                  100469.31698361083,
+                  98679.34803734787
+                ],
+                [
+                  100467.27498361583,
+                  98677.6450373535
+                ],
+                [
+                  100464.52298362559,
+                  98680.84203734726
+                ],
+                [
+                  100464.38706858702,
+                  98680.99912181942
+                ],
+                [
+                  100463.17405589618,
+                  98682.4081183984
+                ],
+                [
+                  100461.95506176002,
+                  98683.82511058284
+                ],
+                [
+                  100458.7510822796,
+                  98687.54715647324
+                ],
+                [
+                  100462.12998363936,
+                  98690.38003732206
+                ],
+                [
+                  100468.09998362204,
+                  98689.98003731921
+                ],
+                [
+                  100471.62598360977,
+                  98686.0780373268
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "048-071-001",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ARROTEA 1019",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.45821227427133,
+      -34.64112346495819
+    ],
+    "direccion": "",
+    "fondo": "12.24",
+    "frente": "8.49",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "071",
+    "parcela": "001",
+    "pdamatriz": "144086",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "048",
+    "smp": "048-071-001",
+    "smp_anterior": "048-071-007",
+    "smp_siguiente": "048-071-002",
+    "srid": 4326,
+    "superficie_cubierta": "156.00",
+    "superficie_total": "104.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "048-071-001",
+  "_http_status": 200
+}

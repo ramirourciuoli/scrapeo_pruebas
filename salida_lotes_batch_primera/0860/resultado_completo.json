@@ -1,0 +1,349 @@
+{
+  "area_m2": 149.24052333831787,
+  "centroide_lonlat": {
+    "lat": -34.629469,
+    "lon": -58.478379
+  },
+  "centroide_xy": {
+    "x": 98617.18967892593,
+    "y": 99977.74282881955
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 1,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": "APH",
+          "denominacion": null,
+          "estado": "LEY FIRME",
+          "ley_3056": "NO",
+          "proteccion": "GENERAL"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "APH",
+            "distrito_especifico": "APH 53"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 0.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/4/60/077-124-001_0000366460.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION077/077-124-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION077/PI-077-124-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "077-124-032",
+            "077-124-002"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "APH 53",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 833.2,
+          "plusvalia_pl": 833.2,
+          "plusvalia_sl": 833.2
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 144.652086631034,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 149.2,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "077-124-001"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. T. ÁLVAREZ",
+    "barrio": "Floresta",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1407",
+    "codigo_postal_argentino": "C1407ESF",
+    "comisaria": "50",
+    "comisaria_vecinal": "10A",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "77"
+  },
+  "debug": {
+    "address": "BOGOTA 3502",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.47837945814134,
+        -34.62946870085536
+      ],
+      "direccion": "",
+      "fondo": "9.87",
+      "frente": "14.90",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "124",
+      "parcela": "001",
+      "pdamatriz": "857",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "077",
+      "smp": "077-124-001",
+      "smp_anterior": "077-124-032",
+      "smp_siguiente": "077-124-002",
+      "srid": 4326,
+      "superficie_cubierta": "302.00",
+      "superficie_total": "147.00",
+      "unidades_funcionales": "5",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3502,
+      "cod_calle": 2090
+    },
+    "usig_direccion_elegida": {
+      "altura": 3502,
+      "cod_calle": 2090,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.478396",
+        "y": "-34.629403"
+      },
+      "direccion": "BOGOTA 3502, CABA",
+      "nombre_calle": "BOGOTA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3502,
+          "cod_calle": 2090,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.478396",
+            "y": "-34.629403"
+          },
+          "direccion": "BOGOTA 3502, CABA",
+          "nombre_calle": "BOGOTA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3502,
+          "cod_calle": 114292,
+          "cod_calle_cruce": null,
+          "cod_partido": "florencio_varela",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.2480458795918,
+            "y": -34.7949466122449
+          },
+          "direccion": "Bogotá 3502, Florencio Varela",
+          "nombre_calle": "Bogotá",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Florencio Varela",
+          "nombre_partido": "Florencio Varela",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98613.85598979412,
+                  99981.38403509217
+                ],
+                [
+                  98619.94698977856,
+                  99983.21803508193
+                ],
+                [
+                  98621.04998977536,
+                  99983.55003508285
+                ],
+                [
+                  98624.23398976575,
+                  99981.94603508434
+                ],
+                [
+                  98626.46998975863,
+                  99980.82003508488
+                ],
+                [
+                  98627.92398975154,
+                  99977.00303509407
+                ],
+                [
+                  98621.03598977005,
+                  99974.68203510565
+                ],
+                [
+                  98616.64198978091,
+                  99973.20103511441
+                ],
+                [
+                  98613.26898978933,
+                  99972.06403511966
+                ],
+                [
+                  98613.02298979032,
+                  99971.98103511991
+                ],
+                [
+                  98610.41198979548,
+                  99971.10103512349
+                ],
+                [
+                  98609.25798980222,
+                  99974.25403511693
+                ],
+                [
+                  98608.93108111265,
+                  99975.14712984124
+                ],
+                [
+                  98608.3809898064,
+                  99976.65003511193
+                ],
+                [
+                  98607.36398981113,
+                  99979.430035103
+                ],
+                [
+                  98608.13098980907,
+                  99979.66103510311
+                ],
+                [
+                  98610.25298980338,
+                  99980.30003509796
+                ],
+                [
+                  98613.85598979412,
+                  99981.38403509217
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "077-124-001",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "BOGOTA 3502",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.47837945814134,
+      -34.62946870085536
+    ],
+    "direccion": "",
+    "fondo": "9.87",
+    "frente": "14.90",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "124",
+    "parcela": "001",
+    "pdamatriz": "857",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "077",
+    "smp": "077-124-001",
+    "smp_anterior": "077-124-032",
+    "smp_siguiente": "077-124-002",
+    "srid": 4326,
+    "superficie_cubierta": "302.00",
+    "superficie_total": "147.00",
+    "unidades_funcionales": "5",
+    "vuc": "0.00"
+  },
+  "smp": "077-124-001",
+  "_http_status": 200
+}

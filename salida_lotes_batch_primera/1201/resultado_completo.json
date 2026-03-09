@@ -1,0 +1,429 @@
+{
+  "area_m2": 208.04244422912598,
+  "centroide_lonlat": {
+    "lat": -34.618248,
+    "lon": -58.397858
+  },
+  "centroide_xy": {
+    "x": 106001.98401365176,
+    "y": 101220.68772041751
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 38.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 4.0,
+          "fot_perim_libre": 4.0,
+          "fot_semi_libre": 4.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/16/020-035-028_0000284016.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION020/020-035-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION020/PI-020-035-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "020-035-029",
+            "020-035-027",
+            "020-035-032"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "C3 I",
+          "incidencia_uva": 50.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 207.992000000078,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 208.0,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "020-035-028"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. J.M. RAMOS MEJÍA",
+    "barrio": "Balvanera",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1225",
+    "codigo_postal_argentino": "C1225AAE",
+    "comisaria": "18",
+    "comisaria_vecinal": "3B",
+    "comuna": "Comuna 3",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   III",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "20"
+  },
+  "debug": {
+    "address": "AV. INDEPENDENCIA 2221",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.39785757805405,
+        -34.618247937399325
+      ],
+      "direccion": "",
+      "fondo": "23.77",
+      "frente": "8.75",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "035",
+      "parcela": "028",
+      "pdamatriz": "201349",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "020",
+      "smp": "020-035-028",
+      "smp_anterior": "020-035-027",
+      "smp_siguiente": "020-035-029",
+      "srid": 4326,
+      "superficie_cubierta": "392.00",
+      "superficie_total": "208.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2221,
+      "cod_calle": 9010
+    },
+    "usig_direccion_elegida": {
+      "altura": 2221,
+      "cod_calle": 9010,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.397846",
+        "y": "-34.618392"
+      },
+      "direccion": "INDEPENDENCIA AV. 2221, CABA",
+      "nombre_calle": "INDEPENDENCIA AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2221,
+          "cod_calle": 9010,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.397846",
+            "y": "-34.618392"
+          },
+          "direccion": "INDEPENDENCIA AV. 2221, CABA",
+          "nombre_calle": "INDEPENDENCIA AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2221,
+          "cod_calle": 96759,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7255941551021,
+            "y": -34.6609505928571
+          },
+          "direccion": "Independencia 2221, Merlo",
+          "nombre_calle": "Independencia",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Merlo",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2221,
+          "cod_calle": 64834,
+          "cod_calle_cruce": null,
+          "cod_partido": "moreno",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7811335234694,
+            "y": -34.648983255102
+          },
+          "direccion": "Independencia 2221, Moreno",
+          "nombre_calle": "Independencia",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Moreno",
+          "nombre_partido": "Moreno",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2221,
+          "cod_calle": 1637,
+          "cod_calle_cruce": null,
+          "cod_partido": "tigre",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.598241577551,
+            "y": -34.4491254887755
+          },
+          "direccion": "Independencia 2221, Tigre",
+          "nombre_calle": "Independencia",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Troncos del Talar",
+          "nombre_partido": "Tigre",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2221,
+          "cod_calle": 371400,
+          "cod_calle_cruce": null,
+          "cod_partido": "zarate",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -59.0370866428571,
+            "y": -34.1052188857143
+          },
+          "direccion": "Independencia 2221, Zárate",
+          "nombre_calle": "Independencia",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Zárate",
+          "nombre_partido": "Zárate",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  105997.97297002212,
+                  101223.89002605004
+                ],
+                [
+                  105997.84597002654,
+                  101229.71802603448
+                ],
+                [
+                  105997.74797002992,
+                  101234.19202602145
+                ],
+                [
+                  106001.07797002081,
+                  101234.36702601827
+                ],
+                [
+                  106004.75797001127,
+                  101234.56102601509
+                ],
+                [
+                  106005.15797000604,
+                  101229.87802602773
+                ],
+                [
+                  106005.26397000546,
+                  101228.63802603181
+                ],
+                [
+                  106005.40897000331,
+                  101226.93602603598
+                ],
+                [
+                  106005.56297000163,
+                  101225.13802604142
+                ],
+                [
+                  106006.1289699947,
+                  101218.49802605904
+                ],
+                [
+                  106006.45396999111,
+                  101214.69802606961
+                ],
+                [
+                  106006.74896998759,
+                  101211.24702607965
+                ],
+                [
+                  106006.77796998732,
+                  101210.89802608022
+                ],
+                [
+                  106007.00796998512,
+                  101208.20802608717
+                ],
+                [
+                  106006.36796998631,
+                  101208.16802608775
+                ],
+                [
+                  105998.91697000743,
+                  101207.70702609545
+                ],
+                [
+                  105998.32797000842,
+                  101207.67102609566
+                ],
+                [
+                  105998.30597000936,
+                  101208.6710260929
+                ],
+                [
+                  105998.24797001135,
+                  101211.32802608513
+                ],
+                [
+                  105998.23997001216,
+                  101211.67802608473
+                ],
+                [
+                  105998.22497001215,
+                  101212.37802608203
+                ],
+                [
+                  105998.1279700157,
+                  101216.81802607005
+                ],
+                [
+                  105998.09997001683,
+                  101218.1080260665
+                ],
+                [
+                  105997.97597002155,
+                  101223.77102605044
+                ],
+                [
+                  105997.97297002212,
+                  101223.89002605004
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "020-035-028",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AV. INDEPENDENCIA 2221",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.39785757805405,
+      -34.618247937399325
+    ],
+    "direccion": "",
+    "fondo": "23.77",
+    "frente": "8.75",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "035",
+    "parcela": "028",
+    "pdamatriz": "201349",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "020",
+    "smp": "020-035-028",
+    "smp_anterior": "020-035-027",
+    "smp_siguiente": "020-035-029",
+    "srid": 4326,
+    "superficie_cubierta": "392.00",
+    "superficie_total": "208.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "020-035-028",
+  "_http_status": 200
+}

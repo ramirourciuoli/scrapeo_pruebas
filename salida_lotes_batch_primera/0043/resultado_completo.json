@@ -1,0 +1,334 @@
+{
+  "area_m2": 233.20932483673096,
+  "centroide_lonlat": {
+    "lat": -34.556401,
+    "lon": -58.488551
+  },
+  "centroide_xy": {
+    "x": 97682.41057221411,
+    "y": 108083.32173027177
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/06/055-179-006_0000239706.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION055/055-179-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION055/PI-055-179-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "055-179-010a",
+            "055-179-007",
+            "055-179-005",
+            "055-179-010b"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 330.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 231.361124421203,
+        "sup_max_edificable": 1187.1,
+        "superficie_parcela": 233.2,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "055-179-006"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Saavedra",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1430",
+    "codigo_postal_argentino": "C1430ADP",
+    "comisaria": "49",
+    "comisaria_vecinal": "12A",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "55"
+  },
+  "debug": {
+    "address": "GARCIA DEL RIO 4466",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.4885510387457,
+        -34.556401421707235
+      ],
+      "direccion": "",
+      "fondo": "27.36",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "179",
+      "parcela": "006",
+      "pdamatriz": "356915",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "055",
+      "smp": "055-179-006",
+      "smp_anterior": "055-179-005",
+      "smp_siguiente": "055-179-007",
+      "srid": 4326,
+      "superficie_cubierta": "245.00",
+      "superficie_total": "237.00",
+      "unidades_funcionales": "2",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4466,
+      "cod_calle": 7028
+    },
+    "usig_direccion_elegida": {
+      "altura": 4466,
+      "cod_calle": 7028,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.488658",
+        "y": "-34.556263"
+      },
+      "direccion": "GARCIA DEL RIO 4466, CABA",
+      "nombre_calle": "GARCIA DEL RIO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4466,
+          "cod_calle": 7028,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.488658",
+            "y": "-34.556263"
+          },
+          "direccion": "GARCIA DEL RIO 4466, CABA",
+          "nombre_calle": "GARCIA DEL RIO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97682.3069985119,
+                  108092.11201304832
+                ],
+                [
+                  97686.87099849332,
+                  108084.15301306735
+                ],
+                [
+                  97688.50299848591,
+                  108081.3070130742
+                ],
+                [
+                  97692.89499846785,
+                  108073.6480130924
+                ],
+                [
+                  97688.54799847899,
+                  108071.1370131028
+                ],
+                [
+                  97685.48999848604,
+                  108069.37101311021
+                ],
+                [
+                  97684.06799849164,
+                  108071.84601310399
+                ],
+                [
+                  97681.20299850323,
+                  108076.82901309218
+                ],
+                [
+                  97681.09199850408,
+                  108077.02101309152
+                ],
+                [
+                  97678.20799851544,
+                  108082.03901307978
+                ],
+                [
+                  97674.67299853073,
+                  108088.19001306573
+                ],
+                [
+                  97674.36499853178,
+                  108088.72601306383
+                ],
+                [
+                  97674.115998533,
+                  108089.159013063
+                ],
+                [
+                  97671.92299854207,
+                  108092.97401305437
+                ],
+                [
+                  97679.35009618032,
+                  108097.26911704021
+                ],
+                [
+                  97681.53899851488,
+                  108093.452013045
+                ],
+                [
+                  97681.78799851373,
+                  108093.01801304656
+                ],
+                [
+                  97682.3069985119,
+                  108092.11201304832
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "055-179-006",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "GARCIA DEL RIO 4466",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.4885510387457,
+      -34.556401421707235
+    ],
+    "direccion": "",
+    "fondo": "27.36",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "179",
+    "parcela": "006",
+    "pdamatriz": "356915",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "055",
+    "smp": "055-179-006",
+    "smp_anterior": "055-179-005",
+    "smp_siguiente": "055-179-007",
+    "srid": 4326,
+    "superficie_cubierta": "245.00",
+    "superficie_total": "237.00",
+    "unidades_funcionales": "2",
+    "vuc": "0.00"
+  },
+  "smp": "055-179-006",
+  "_http_status": 200
+}

@@ -1,0 +1,563 @@
+{
+  "area_m2": 325.59634590148926,
+  "centroide_lonlat": {
+    "lat": -34.636343,
+    "lon": -58.373527
+  },
+  "centroide_xy": {
+    "x": 108231.6211007739,
+    "y": 99211.62297469858
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/9/56/008-011-006_0000302956.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION008/008-011-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION008/PI-008-011-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "008-011-005",
+            "008-011-015",
+            "008-011-009",
+            "008-011-007",
+            "008-011-010"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 210.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 1,
+        "subzona": "",
+        "sup_edificable_planta": 325.566050000032,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 325.6,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "008-011-006"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C. ARGERICH",
+    "barrio": "Barracas",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1295",
+    "codigo_postal_argentino": "C1295ADH",
+    "comisaria": "26",
+    "comisaria_vecinal": "4D",
+    "comuna": "Comuna 4",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   IV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "08"
+  },
+  "debug": {
+    "address": "ARISTOBULO DEL VALLE 1582",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.37352732236076,
+        -34.63634252707022
+      ],
+      "direccion": "",
+      "fondo": "43.12",
+      "frente": "7.56",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "011",
+      "parcela": "006",
+      "pdamatriz": "111607",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "3",
+      "propiedad_horizontal": "Si",
+      "seccion": "008",
+      "smp": "008-011-006",
+      "smp_anterior": "008-011-005",
+      "smp_siguiente": "008-011-007",
+      "srid": 4326,
+      "superficie_cubierta": "710.00",
+      "superficie_total": "326.00",
+      "unidades_funcionales": "6",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1582,
+      "cod_calle": 4057
+    },
+    "usig_direccion_elegida": {
+      "altura": 1582,
+      "cod_calle": 4057,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.373570",
+        "y": "-34.636124"
+      },
+      "direccion": "VALLE, ARISTOBULO DEL 1582, CABA",
+      "nombre_calle": "VALLE, ARISTOBULO DEL",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1582,
+          "cod_calle": 4057,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.373570",
+            "y": "-34.636124"
+          },
+          "direccion": "VALLE, ARISTOBULO DEL 1582, CABA",
+          "nombre_calle": "VALLE, ARISTOBULO DEL",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1582,
+          "cod_calle": 43235,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3782360081633,
+            "y": -34.8266632714286
+          },
+          "direccion": "Aristóbulo del Valle 1582, Almirante Brown",
+          "nombre_calle": "Aristóbulo del Valle",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Burzaco",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1582,
+          "cod_calle": 58075,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3362570795918,
+            "y": -34.8038061163265
+          },
+          "direccion": "Aristóbulo del Valle 1582, Almirante Brown",
+          "nombre_calle": "Aristóbulo del Valle",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Claypole",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1582,
+          "cod_calle": 108239,
+          "cod_calle_cruce": null,
+          "cod_partido": "florencio_varela",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.2624722469388,
+            "y": -34.8050704183673
+          },
+          "direccion": "Aristóbulo del Valle 1582, Florencio Varela",
+          "nombre_calle": "Aristóbulo del Valle",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Florencio Varela",
+          "nombre_partido": "Florencio Varela",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1582,
+          "cod_calle": 19999,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.414199322449,
+            "y": -34.703328855102
+          },
+          "direccion": "Aristóbulo del Valle 1582, Lanús",
+          "nombre_calle": "Aristóbulo del Valle",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lanús Oeste",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1582,
+          "cod_calle": 94793,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7187237346939,
+            "y": -34.6798457326531
+          },
+          "direccion": "Aristóbulo del Valle 1582, Merlo",
+          "nombre_calle": "Aristóbulo del Valle",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Merlo",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1582,
+          "cod_calle": 187029,
+          "cod_calle_cruce": null,
+          "cod_partido": "moreno",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7747607755102,
+            "y": -34.6573169918367
+          },
+          "direccion": "Aristóbulo del Valle 1582, Moreno",
+          "nombre_calle": "Aristóbulo del Valle",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Moreno",
+          "nombre_partido": "Moreno",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1582,
+          "cod_calle": 142771,
+          "cod_calle_cruce": null,
+          "cod_partido": "tigre",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6017170918367,
+            "y": -34.4146045428571
+          },
+          "direccion": "Aristóbulo del Valle 1582, Tigre",
+          "nombre_calle": "Aristóbulo del Valle",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Rincón de Milberg",
+          "nombre_partido": "Tigre",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1582,
+          "cod_calle": 4737,
+          "cod_calle_cruce": null,
+          "cod_partido": "vicente_lopez",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4773991156135,
+            "y": -34.5365672838774
+          },
+          "direccion": "Aristóbulo del Valle 1582, Vicente López",
+          "nombre_calle": "Aristóbulo del Valle",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Florida",
+          "nombre_partido": "Vicente López",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  108237.85396221564,
+                  99197.79403004612
+                ],
+                [
+                  108238.70496220942,
+                  99192.94203005912
+                ],
+                [
+                  108239.08096220692,
+                  99190.79303006461
+                ],
+                [
+                  108231.83496222619,
+                  99189.76503007297
+                ],
+                [
+                  108231.64996222708,
+                  99189.7380300735
+                ],
+                [
+                  108230.8749622322,
+                  99194.14903006199
+                ],
+                [
+                  108230.17496223698,
+                  99198.13403005074
+                ],
+                [
+                  108230.09996223733,
+                  99198.56303005005
+                ],
+                [
+                  108229.64296224108,
+                  99201.16103004335
+                ],
+                [
+                  108229.40196224238,
+                  99202.53203003909
+                ],
+                [
+                  108229.36796224267,
+                  99202.7300300393
+                ],
+                [
+                  108229.03496224538,
+                  99204.62203003425
+                ],
+                [
+                  108228.66896224761,
+                  99206.70703002863
+                ],
+                [
+                  108228.58596224853,
+                  99207.18203002703
+                ],
+                [
+                  108228.21596225108,
+                  99209.28403002128
+                ],
+                [
+                  108228.11296225167,
+                  99209.87403001962
+                ],
+                [
+                  108227.98296225272,
+                  99210.61203001757
+                ],
+                [
+                  108227.26296225809,
+                  99214.71403000655
+                ],
+                [
+                  108226.82896226077,
+                  99217.18502999985
+                ],
+                [
+                  108226.16296226533,
+                  99220.97602998986
+                ],
+                [
+                  108225.96496226688,
+                  99222.10202998703
+                ],
+                [
+                  108224.16696228011,
+                  99232.34102995976
+                ],
+                [
+                  108224.56096227845,
+                  99232.40702995894
+                ],
+                [
+                  108229.9079622642,
+                  99233.30302995301
+                ],
+                [
+                  108231.5839622597,
+                  99233.58402995046
+                ],
+                [
+                  108232.32796225435,
+                  99229.33802996247
+                ],
+                [
+                  108232.40196225386,
+                  99228.91502996316
+                ],
+                [
+                  108232.8509622507,
+                  99226.35502997044
+                ],
+                [
+                  108232.92996225005,
+                  99225.89902997142
+                ],
+                [
+                  108233.05296224976,
+                  99225.19802997293
+                ],
+                [
+                  108233.08196224966,
+                  99225.03202997317
+                ],
+                [
+                  108233.50296224585,
+                  99222.62902997967
+                ],
+                [
+                  108234.1429622419,
+                  99218.97702998965
+                ],
+                [
+                  108234.39196223993,
+                  99217.55502999321
+                ],
+                [
+                  108234.84896223711,
+                  99214.94603000092
+                ],
+                [
+                  108234.87496223653,
+                  99214.79703000106
+                ],
+                [
+                  108235.08296223465,
+                  99213.61403000407
+                ],
+                [
+                  108236.22996222737,
+                  99207.06703002137
+                ],
+                [
+                  108237.34396221854,
+                  99200.70603003877
+                ],
+                [
+                  108237.43096221825,
+                  99200.21203004019
+                ],
+                [
+                  108237.85396221564,
+                  99197.79403004612
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "008-011-006",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ARISTOBULO DEL VALLE 1582",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.37352732236076,
+      -34.63634252707022
+    ],
+    "direccion": "",
+    "fondo": "43.12",
+    "frente": "7.56",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "011",
+    "parcela": "006",
+    "pdamatriz": "111607",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "3",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "008",
+    "smp": "008-011-006",
+    "smp_anterior": "008-011-005",
+    "smp_siguiente": "008-011-007",
+    "srid": 4326,
+    "superficie_cubierta": "710.00",
+    "superficie_total": "326.00",
+    "unidades_funcionales": "6",
+    "vuc": "0.00"
+  },
+  "smp": "008-011-006",
+  "_http_status": 200
+}

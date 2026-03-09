@@ -1,0 +1,385 @@
+{
+  "area_m2": 146.6552391052246,
+  "centroide_lonlat": {
+    "lat": -34.614578,
+    "lon": -58.444419
+  },
+  "centroide_xy": {
+    "x": 101731.76646691441,
+    "y": 101629.62136007797
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/04/045-021-030_0000122704.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION045/045-021-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION045/PI-045-021-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": true,
+          "smp_linderas": [
+            "045-021-031",
+            "045-021-029",
+            "045-021-003",
+            "045-021-005",
+            "045-021-004"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "AE 26",
+          "incidencia_uva": 260.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 146.7,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "045-021-030"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Caballito",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1405",
+    "codigo_postal_argentino": "C1405CTC",
+    "comisaria": "13",
+    "comisaria_vecinal": "6A",
+    "comuna": "Comuna 6",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "45"
+  },
+  "debug": {
+    "address": "ORTEGA 921",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.44441858098158,
+        -34.614577824238054
+      ],
+      "direccion": "",
+      "fondo": "19.38",
+      "frente": "7.79",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "021",
+      "parcela": "030",
+      "pdamatriz": "177205",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "045",
+      "smp": "045-021-030",
+      "smp_anterior": "045-021-029",
+      "smp_siguiente": "045-021-031",
+      "srid": 4326,
+      "superficie_cubierta": "155.00",
+      "superficie_total": "151.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 921,
+      "cod_calle": 16031
+    },
+    "usig_direccion_elegida": {
+      "altura": 921,
+      "cod_calle": 16031,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.444369",
+        "y": "-34.614663"
+      },
+      "direccion": "ORTEGA 921, CABA",
+      "nombre_calle": "ORTEGA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 921,
+          "cod_calle": 16031,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.444369",
+            "y": "-34.614663"
+          },
+          "direccion": "ORTEGA 921, CABA",
+          "nombre_calle": "ORTEGA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 921,
+          "cod_calle": 91210,
+          "cod_calle_cruce": null,
+          "cod_partido": "esteban_echeverria",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4750409428571,
+            "y": -34.8303358295918
+          },
+          "direccion": "Alejo Ortega 921, Esteban Echeverría",
+          "nombre_calle": "Alejo Ortega",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Monte Grande",
+          "nombre_partido": "Esteban Echeverría",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 921,
+          "cod_calle": 78008,
+          "cod_calle_cruce": null,
+          "cod_partido": "hurlingham",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6287301857143,
+            "y": -34.6241133530612
+          },
+          "direccion": "Jose Ortega y Gasset 921, Hurlingham",
+          "nombre_calle": "Jose Ortega y Gasset",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Tesei",
+          "nombre_partido": "Hurlingham",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 921,
+          "cod_calle": 212439,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "direccion": "R. Ortega 921, La Matanza",
+          "nombre_calle": "R. Ortega",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Isidro Casanova",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  101736.9009822751,
+                  101627.73202812497
+                ],
+                [
+                  101739.39798226462,
+                  101622.56402813803
+                ],
+                [
+                  101738.61998226662,
+                  101622.19002813988
+                ],
+                [
+                  101732.59398228081,
+                  101619.2920281525
+                ],
+                [
+                  101730.22698229148,
+                  101624.12302813999
+                ],
+                [
+                  101729.95698229306,
+                  101624.67502813882
+                ],
+                [
+                  101729.81998229353,
+                  101624.95402813822
+                ],
+                [
+                  101728.25798230042,
+                  101628.14302813067
+                ],
+                [
+                  101726.34898230873,
+                  101632.03902812095
+                ],
+                [
+                  101725.6849823108,
+                  101633.39602811742
+                ],
+                [
+                  101724.10098231785,
+                  101636.62902810963
+                ],
+                [
+                  101725.1999823156,
+                  101637.15202810735
+                ],
+                [
+                  101727.82598230934,
+                  101638.40202810187
+                ],
+                [
+                  101728.14398230852,
+                  101638.55302810174
+                ],
+                [
+                  101731.0139823016,
+                  101639.91902809523
+                ],
+                [
+                  101732.23698229558,
+                  101637.38802810188
+                ],
+                [
+                  101733.40798229056,
+                  101634.96402810718
+                ],
+                [
+                  101735.08798228385,
+                  101631.48502811632
+                ],
+                [
+                  101736.9009822751,
+                  101627.73202812497
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "045-021-030",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ORTEGA 921",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.44441858098158,
+      -34.614577824238054
+    ],
+    "direccion": "",
+    "fondo": "19.38",
+    "frente": "7.79",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "021",
+    "parcela": "030",
+    "pdamatriz": "177205",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "045",
+    "smp": "045-021-030",
+    "smp_anterior": "045-021-029",
+    "smp_siguiente": "045-021-031",
+    "srid": 4326,
+    "superficie_cubierta": "155.00",
+    "superficie_total": "151.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "045-021-030",
+  "_http_status": 200
+}

@@ -1,0 +1,548 @@
+{
+  "area_m2": 245.881329536438,
+  "centroide_lonlat": {
+    "lat": -34.613571,
+    "lon": -58.402981
+  },
+  "centroide_xy": {
+    "x": 105532.38346799024,
+    "y": 101739.81182464765
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 38.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 2.77,
+          "fot_perim_libre": 2.77,
+          "fot_semi_libre": 2.77
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/4/77/020-016-022a_0000283477.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION020/020-016-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION020/PI-020-016-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": true,
+          "smp_linderas": [
+            "020-016-021",
+            "020-016-024",
+            "020-016-020"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2a II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 245.86955,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 245.9,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "020-016-022A"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. J.M. RAMOS MEJÍA",
+    "barrio": "Balvanera",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1083",
+    "codigo_postal_argentino": "C1083ACH",
+    "comisaria": "8",
+    "comisaria_vecinal": "3C",
+    "comuna": "Comuna 3",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "20"
+  },
+  "debug": {
+    "address": "SAAVEDRA 322",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.40298124591333,
+        -34.613571100073656
+      ],
+      "direccion": "",
+      "fondo": "9.88",
+      "frente": "25.00",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "016",
+      "parcela": "022A",
+      "pdamatriz": "202651",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "11",
+      "propiedad_horizontal": "Si",
+      "seccion": "020",
+      "smp": "020-016-022A",
+      "smp_anterior": "020-016-021",
+      "smp_siguiente": "020-016-024",
+      "srid": 4326,
+      "superficie_cubierta": "2489.00",
+      "superficie_total": "247.00",
+      "unidades_funcionales": "36",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 322,
+      "cod_calle": 20001
+    },
+    "usig_direccion_elegida": {
+      "altura": 322,
+      "cod_calle": 20001,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.403072",
+        "y": "-34.613553"
+      },
+      "direccion": "SAAVEDRA 322, CABA",
+      "nombre_calle": "SAAVEDRA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 322,
+          "cod_calle": 20001,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.403072",
+            "y": "-34.613553"
+          },
+          "direccion": "SAAVEDRA 322, CABA",
+          "nombre_calle": "SAAVEDRA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 322,
+          "cod_calle": 41077,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.392197422449,
+            "y": -34.8144635571429
+          },
+          "direccion": "Cervantes Saavedra 322, Almirante Brown",
+          "nombre_calle": "Cervantes Saavedra",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Adrogué",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 322,
+          "cod_calle": 129633,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3733072510204,
+            "y": -34.8472009530612
+          },
+          "direccion": "Mariano Saavedra 322, Almirante Brown",
+          "nombre_calle": "Mariano Saavedra",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ministro Rivadavia",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 322,
+          "cod_calle": 140948,
+          "cod_calle_cruce": null,
+          "cod_partido": "ensenada",
+          "direccion": "Arias de Saavedra 322, Ensenada",
+          "nombre_calle": "Arias de Saavedra",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ensenada",
+          "nombre_partido": "Ensenada",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 322,
+          "cod_calle": 277100,
+          "cod_calle_cruce": null,
+          "cod_partido": "esteban_echeverria",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4683138102041,
+            "y": -34.8235593183674
+          },
+          "direccion": "Cornelio Saavedra 322, Esteban Echeverría",
+          "nombre_calle": "Cornelio Saavedra",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Monte Grande",
+          "nombre_partido": "Esteban Echeverría",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 322,
+          "cod_calle": 87303,
+          "cod_calle_cruce": null,
+          "cod_partido": "ezeiza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5308802285714,
+            "y": -34.847428922449
+          },
+          "direccion": "Saavedra 322, Ezeiza",
+          "nombre_calle": "Saavedra",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ezeiza",
+          "nombre_partido": "Ezeiza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 322,
+          "cod_calle": 95165,
+          "cod_calle_cruce": null,
+          "cod_partido": "ezeiza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5605325510204,
+            "y": -34.8899944163265
+          },
+          "direccion": "Cornelio Saavedra 322, Ezeiza",
+          "nombre_calle": "Cornelio Saavedra",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Tristán Suárez",
+          "nombre_partido": "Ezeiza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 322,
+          "cod_calle": 67604,
+          "cod_calle_cruce": null,
+          "cod_partido": "general_rodriguez",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.9490344571429,
+            "y": -34.6065746693878
+          },
+          "direccion": "Saavedra 322, General Rodríguez",
+          "nombre_calle": "Saavedra",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "General Rodríguez",
+          "nombre_partido": "General Rodríguez",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 322,
+          "cod_calle": 16073,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "direccion": "Saavedra 322, La Matanza",
+          "nombre_calle": "Saavedra",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ramos Mejia",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 322,
+          "cod_calle": 16976,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4061944673469,
+            "y": -34.7638060469388
+          },
+          "direccion": "Saavedra 322, Lomas de Zamora",
+          "nombre_calle": "Saavedra",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lomas de Zamora",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  105526.76697173767,
+                  101747.81202493567
+                ],
+                [
+                  105526.49397174106,
+                  101751.30402492575
+                ],
+                [
+                  105526.39997174265,
+                  101752.50002492292
+                ],
+                [
+                  105530.29997173458,
+                  101757.07002490741
+                ],
+                [
+                  105530.49897173404,
+                  101757.08302490658
+                ],
+                [
+                  105532.76197172806,
+                  101757.23502490515
+                ],
+                [
+                  105532.96097172756,
+                  101757.24802490434
+                ],
+                [
+                  105533.03797172615,
+                  101756.25102490757
+                ],
+                [
+                  105533.05997172577,
+                  101755.96102490832
+                ],
+                [
+                  105533.38897172245,
+                  101751.67702492006
+                ],
+                [
+                  105533.61497171942,
+                  101748.74402492793
+                ],
+                [
+                  105533.65297171865,
+                  101748.2460249296
+                ],
+                [
+                  105534.00797171463,
+                  101743.62902494177
+                ],
+                [
+                  105534.1149717131,
+                  101742.23902494594
+                ],
+                [
+                  105534.30197171067,
+                  101739.80302495282
+                ],
+                [
+                  105534.56997170745,
+                  101736.3130249622
+                ],
+                [
+                  105536.82097170144,
+                  101736.51402496028
+                ],
+                [
+                  105537.60097169864,
+                  101736.58302495873
+                ],
+                [
+                  105541.13797168946,
+                  101736.89902495572
+                ],
+                [
+                  105541.39197168499,
+                  101732.30302496854
+                ],
+                [
+                  105541.49897168309,
+                  101730.36302497349
+                ],
+                [
+                  105541.59297168204,
+                  101728.66102497868
+                ],
+                [
+                  105537.45697169346,
+                  101728.32402498237
+                ],
+                [
+                  105533.23597170418,
+                  101727.9790249868
+                ],
+                [
+                  105532.60597170603,
+                  101727.92802498743
+                ],
+                [
+                  105532.2389717074,
+                  101727.89802498755
+                ],
+                [
+                  105529.64697171433,
+                  101727.68702498998
+                ],
+                [
+                  105528.35097171782,
+                  101727.58102499152
+                ],
+                [
+                  105528.29497171866,
+                  101728.29902498904
+                ],
+                [
+                  105527.99797172208,
+                  101732.0870249792
+                ],
+                [
+                  105527.74797172518,
+                  101735.27702496992
+                ],
+                [
+                  105527.45197172879,
+                  101739.06502496017
+                ],
+                [
+                  105527.20197173188,
+                  101742.25602495106
+                ],
+                [
+                  105526.90497173625,
+                  101746.04502494054
+                ],
+                [
+                  105526.8369717371,
+                  101746.91702493856
+                ],
+                [
+                  105526.76697173767,
+                  101747.81202493567
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "020-016-022A",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "SAAVEDRA 322",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.40298124591333,
+      -34.613571100073656
+    ],
+    "direccion": "",
+    "fondo": "9.88",
+    "frente": "25.00",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "016",
+    "parcela": "022A",
+    "pdamatriz": "202651",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "11",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "020",
+    "smp": "020-016-022A",
+    "smp_anterior": "020-016-021",
+    "smp_siguiente": "020-016-024",
+    "srid": 4326,
+    "superficie_cubierta": "2489.00",
+    "superficie_total": "247.00",
+    "unidades_funcionales": "36",
+    "vuc": "0.00"
+  },
+  "smp": "020-016-022A",
+  "_http_status": 200
+}

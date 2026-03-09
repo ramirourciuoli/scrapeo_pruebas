@@ -1,0 +1,362 @@
+{
+  "area_m2": 364.98247051239014,
+  "centroide_lonlat": {
+    "lat": -34.614877,
+    "lon": -58.525024
+  },
+  "centroide_xy": {
+    "x": 94338.85149557385,
+    "y": 101594.8059345608
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/9/71/093-196-029_0000212971.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION093/093-196-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION093/PI-093-196-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "093-196-006a",
+            "093-196-030a",
+            "093-196-028",
+            "093-196-009a"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 100.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 245.08161870849,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 365.0,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "093-196-029"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Villa Real",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1408",
+    "codigo_postal_argentino": "C1408BKA",
+    "comisaria": "44",
+    "comisaria_vecinal": "10B",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "93"
+  },
+  "debug": {
+    "address": "CNEL. RAMON LISTA 5351",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.52502363846893,
+        -34.61487749728263
+      ],
+      "direccion": "",
+      "fondo": "41.91",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "196",
+      "parcela": "029",
+      "pdamatriz": "295883",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "093",
+      "smp": "093-196-029",
+      "smp_anterior": "093-196-028",
+      "smp_siguiente": "093-196-030A",
+      "srid": 4326,
+      "superficie_cubierta": "311.00",
+      "superficie_total": "363.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 5351,
+      "cod_calle": 12117
+    },
+    "usig_direccion_elegida": {
+      "altura": 5351,
+      "cod_calle": 12117,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.524821",
+        "y": "-34.615034"
+      },
+      "direccion": "LISTA, RAMON, CORONEL 5351, CABA",
+      "nombre_calle": "LISTA, RAMON, CORONEL",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 5351,
+          "cod_calle": 12117,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.524821",
+            "y": "-34.615034"
+          },
+          "direccion": "LISTA, RAMON, CORONEL 5351, CABA",
+          "nombre_calle": "LISTA, RAMON, CORONEL",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  94320.48300305752,
+                  101605.99703376892
+                ],
+                [
+                  94322.76400305331,
+                  101608.33103376048
+                ],
+                [
+                  94326.59100304515,
+                  101612.24803374606
+                ],
+                [
+                  94334.87700301636,
+                  101604.48703376166
+                ],
+                [
+                  94335.7530030125,
+                  101603.66603376379
+                ],
+                [
+                  94339.99000299831,
+                  101599.6970337712
+                ],
+                [
+                  94344.94900298072,
+                  101595.05203378093
+                ],
+                [
+                  94348.95700296704,
+                  101591.29903378797
+                ],
+                [
+                  94350.95700296,
+                  101589.42503379186
+                ],
+                [
+                  94352.95100295296,
+                  101587.55803379597
+                ],
+                [
+                  94357.17000293771,
+                  101583.60603380337
+                ],
+                [
+                  94351.8080029487,
+                  101577.83703382415
+                ],
+                [
+                  94351.28800294925,
+                  101577.27703382564
+                ],
+                [
+                  94343.79400297557,
+                  101584.26403381239
+                ],
+                [
+                  94343.0840029781,
+                  101584.92603381057
+                ],
+                [
+                  94341.2550029846,
+                  101586.63003380707
+                ],
+                [
+                  94340.22500298794,
+                  101587.59203380541
+                ],
+                [
+                  94334.8260030076,
+                  101592.62503379522
+                ],
+                [
+                  94334.19000300992,
+                  101593.21803379443
+                ],
+                [
+                  94332.26600301608,
+                  101595.01203379055
+                ],
+                [
+                  94328.49500302956,
+                  101598.5270337832
+                ],
+                [
+                  94326.35100303673,
+                  101600.52603377902
+                ],
+                [
+                  94324.9420030417,
+                  101601.84003377662
+                ],
+                [
+                  94322.2180030518,
+                  101604.37903377149
+                ],
+                [
+                  94320.48300305752,
+                  101605.99703376892
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "093-196-029",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CNEL. RAMON LISTA 5351",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.52502363846893,
+      -34.61487749728263
+    ],
+    "direccion": "",
+    "fondo": "41.91",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "196",
+    "parcela": "029",
+    "pdamatriz": "295883",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "093",
+    "smp": "093-196-029",
+    "smp_anterior": "093-196-028",
+    "smp_siguiente": "093-196-030A",
+    "srid": 4326,
+    "superficie_cubierta": "311.00",
+    "superficie_total": "363.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "093-196-029",
+  "_http_status": 200
+}

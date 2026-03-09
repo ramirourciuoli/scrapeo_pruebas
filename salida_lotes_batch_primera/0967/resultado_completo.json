@@ -1,0 +1,337 @@
+{
+  "area_m2": 143.91023540496826,
+  "centroide_lonlat": {
+    "lat": -34.586764,
+    "lon": -58.51536
+  },
+  "centroide_xy": {
+    "x": 95223.60642214054,
+    "y": 104714.13202990414
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.0,
+          "fot_perim_libre": 1.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/92/083-183B-017_0000176592.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION083/083-183B-V2.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION083/PI-083-183B-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "083-183B-018",
+            "083-183B-016"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "AE 26",
+          "incidencia_uva": 230.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0.0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 143.9,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "083-183B-017"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. A. ZUBIZARRETA",
+    "barrio": "Villa Devoto",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1419",
+    "codigo_postal_argentino": "C1419FIO",
+    "comisaria": "47",
+    "comisaria_vecinal": "11B",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "83"
+  },
+  "debug": {
+    "address": "FRANCO 3555",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.51535959627194,
+        -34.58676371122567
+      ],
+      "direccion": "",
+      "fondo": "20.14",
+      "frente": "7.20",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "183B",
+      "parcela": "017",
+      "pdamatriz": "273424",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "083",
+      "smp": "083-183B-017",
+      "smp_anterior": "083-183B-016",
+      "smp_siguiente": "083-183B-018",
+      "srid": 4326,
+      "superficie_cubierta": "114.00",
+      "superficie_total": "145.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3555,
+      "cod_calle": 6052
+    },
+    "usig_direccion_elegida": {
+      "altura": 3555,
+      "cod_calle": 6052,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.515297",
+        "y": "-34.586844"
+      },
+      "direccion": "FRANCO 3555, CABA",
+      "nombre_calle": "FRANCO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3555,
+          "cod_calle": 6052,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.515297",
+            "y": "-34.586844"
+          },
+          "direccion": "FRANCO 3555, CABA",
+          "nombre_calle": "FRANCO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3555,
+          "cod_calle": 19251,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4032666642857,
+            "y": -34.7272768846939
+          },
+          "direccion": "Ramón Franco Bahamonde 3555, Lanús",
+          "nombre_calle": "Ramón Franco Bahamonde",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Remedios de Escalada",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  95217.55100287935,
+                  104711.5470243844
+                ],
+                [
+                  95216.93300288195,
+                  104712.3820243825
+                ],
+                [
+                  95215.2340028884,
+                  104714.68002437681
+                ],
+                [
+                  95217.41500288335,
+                  104716.2890243709
+                ],
+                [
+                  95217.67200288302,
+                  104716.48002437068
+                ],
+                [
+                  95218.63400288022,
+                  104717.18902436775
+                ],
+                [
+                  95222.63300287198,
+                  104720.1400243559
+                ],
+                [
+                  95226.04700286417,
+                  104722.66002434673
+                ],
+                [
+                  95227.9910028569,
+                  104720.05002435227
+                ],
+                [
+                  95230.36700284707,
+                  104716.86002435995
+                ],
+                [
+                  95229.44500284609,
+                  104711.23002437653
+                ],
+                [
+                  95229.422002846,
+                  104711.0800243766
+                ],
+                [
+                  95221.9840028626,
+                  104705.55002439744
+                ],
+                [
+                  95220.04200287026,
+                  104708.1760243917
+                ],
+                [
+                  95217.55100287935,
+                  104711.5470243844
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "083-183B-017",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "FRANCO 3555",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.51535959627194,
+      -34.58676371122567
+    ],
+    "direccion": "",
+    "fondo": "20.14",
+    "frente": "7.20",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "183B",
+    "parcela": "017",
+    "pdamatriz": "273424",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "083",
+    "smp": "083-183B-017",
+    "smp_anterior": "083-183B-016",
+    "smp_siguiente": "083-183B-018",
+    "srid": 4326,
+    "superficie_cubierta": "114.00",
+    "superficie_total": "145.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "083-183B-017",
+  "_http_status": 200
+}

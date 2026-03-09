@@ -1,0 +1,356 @@
+{
+  "area_m2": 75.31117153167725,
+  "centroide_lonlat": {
+    "lat": -34.632177,
+    "lon": -58.439267
+  },
+  "centroide_xy": {
+    "x": 102203.76638364131,
+    "y": 99677.15337008584
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 11.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "U",
+            "distrito_especifico": "U3 d"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 0.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/84/040-009E-005_0000325684.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION040/040-009E-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION040/PI-040-009E-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "DI-2022-690-GCABA-DGIUR",
+          "pdf": "040-009E.pdf"
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "040-009E-006",
+            "040-009E-004",
+            "040-009E-021",
+            "040-009E-023",
+            "040-009E-022"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "U3 d",
+          "incidencia_uva": 320.0,
+          "plusvalia_em": 0.0,
+          "plusvalia_pl": 0.0,
+          "plusvalia_sl": 0.0
+        },
+        "rivolta": 0,
+        "subzona": "EMILIO MITRE",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 75.3,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "040-009E-005"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Parque Chacabuco",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1424",
+    "codigo_postal_argentino": "C1424ARH",
+    "comisaria": "12",
+    "comisaria_vecinal": "7B",
+    "comuna": "Comuna 7",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "40"
+  },
+  "debug": {
+    "address": "CACHIMAYO 1030",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.439267298234334,
+        -34.632176833790766
+      ],
+      "direccion": "",
+      "fondo": "8.66",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "009E",
+      "parcela": "005",
+      "pdamatriz": "159416",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "040",
+      "smp": "040-009E-005",
+      "smp_anterior": "040-009E-004",
+      "smp_siguiente": "040-009E-006",
+      "srid": 4326,
+      "superficie_cubierta": "118.00",
+      "superficie_total": "75.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1030,
+      "cod_calle": 3013
+    },
+    "usig_direccion_elegida": {
+      "altura": 1030,
+      "cod_calle": 3013,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.439349",
+        "y": "-34.632220"
+      },
+      "direccion": "CACHIMAYO 1030, CABA",
+      "nombre_calle": "CACHIMAYO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1030,
+          "cod_calle": 3013,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.439349",
+            "y": "-34.632220"
+          },
+          "direccion": "CACHIMAYO 1030, CABA",
+          "nombre_calle": "CACHIMAYO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1030,
+          "cod_calle": 164288,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7567458571429,
+            "y": -34.6616131285714
+          },
+          "direccion": "Cachimayo 1030, Merlo",
+          "nombre_calle": "Cachimayo",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Merlo",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102197.73297951592,
+                  99678.46503324463
+                ],
+                [
+                  102199.00097951313,
+                  99679.26103324152
+                ],
+                [
+                  102202.33597950535,
+                  99681.35603323288
+                ],
+                [
+                  102203.3179795029,
+                  99681.97303323098
+                ],
+                [
+                  102205.09197949897,
+                  99683.08703322662
+                ],
+                [
+                  102207.09597949072,
+                  99680.03303323314
+                ],
+                [
+                  102207.19497949077,
+                  99679.88403323328
+                ],
+                [
+                  102207.92097948768,
+                  99678.777033236
+                ],
+                [
+                  102208.09497948663,
+                  99678.51203323694
+                ],
+                [
+                  102209.82497948024,
+                  99675.87603324314
+                ],
+                [
+                  102207.95197948403,
+                  99674.69803324749
+                ],
+                [
+                  102204.12097949364,
+                  99672.28903325714
+                ],
+                [
+                  102203.99697949408,
+                  99672.21103325771
+                ],
+                [
+                  102203.7709794939,
+                  99672.06803325814
+                ],
+                [
+                  102202.40097949699,
+                  99671.207033262
+                ],
+                [
+                  102202.23997949825,
+                  99671.45703326142
+                ],
+                [
+                  102199.92197950746,
+                  99675.06103325242
+                ],
+                [
+                  102199.75897950749,
+                  99675.3140332523
+                ],
+                [
+                  102197.73297951592,
+                  99678.46503324463
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "040-009E-005",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CACHIMAYO 1030",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.439267298234334,
+      -34.632176833790766
+    ],
+    "direccion": "",
+    "fondo": "8.66",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "009E",
+    "parcela": "005",
+    "pdamatriz": "159416",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "040",
+    "smp": "040-009E-005",
+    "smp_anterior": "040-009E-004",
+    "smp_siguiente": "040-009E-006",
+    "srid": 4326,
+    "superficie_cubierta": "118.00",
+    "superficie_total": "75.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "040-009E-005",
+  "_http_status": 200
+}

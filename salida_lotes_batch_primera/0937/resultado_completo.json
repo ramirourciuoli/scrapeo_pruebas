@@ -1,0 +1,374 @@
+{
+  "area_m2": 244.44681453704834,
+  "centroide_lonlat": {
+    "lat": -34.651723,
+    "lon": -58.515391
+  },
+  "centroide_xy": {
+    "x": 95224.45017443351,
+    "y": 97507.75149798751
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/4/72/074-081-028_0000060472.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION074/074-081-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION074/PI-074-081-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "074-081-027",
+            "074-081-029"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 60.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 244.424350000017,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 244.4,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "074-081-028"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Liniers",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1408",
+    "codigo_postal_argentino": "C1408GQZ",
+    "comisaria": "54",
+    "comisaria_vecinal": "9B",
+    "comuna": "Comuna 9",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "74"
+  },
+  "debug": {
+    "address": "TIMOTEO GORDILLO 1294",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.51539096368692,
+        -34.65172341045504
+      ],
+      "direccion": "",
+      "fondo": "34.37",
+      "frente": "7.10",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "081",
+      "parcela": "028",
+      "pdamatriz": "16730",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "074",
+      "smp": "074-081-028",
+      "smp_anterior": "074-081-027",
+      "smp_siguiente": "074-081-029",
+      "srid": 4326,
+      "superficie_cubierta": "161.00",
+      "superficie_total": "244.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1294,
+      "cod_calle": 7070
+    },
+    "usig_direccion_elegida": {
+      "altura": 1294,
+      "cod_calle": 7070,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.515553",
+        "y": "-34.651780"
+      },
+      "direccion": "GORDILLO, TIMOTEO 1294, CABA",
+      "nombre_calle": "GORDILLO, TIMOTEO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1294,
+          "cod_calle": 7070,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.515553",
+            "y": "-34.651780"
+          },
+          "direccion": "GORDILLO, TIMOTEO 1294, CABA",
+          "nombre_calle": "GORDILLO, TIMOTEO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1294,
+          "cod_calle": 18438,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4291954367347,
+            "y": -34.7389445591837
+          },
+          "direccion": "Timoteo Gordillo 1294, Lomas de Zamora",
+          "nombre_calle": "Timoteo Gordillo",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Centenario",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1294,
+          "cod_calle": 71874,
+          "cod_calle_cruce": null,
+          "cod_partido": "moreno",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7477008204082,
+            "y": -34.5822646346939
+          },
+          "direccion": "Timoteo Gordillo 1294, Moreno",
+          "nombre_calle": "Timoteo Gordillo",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Trujui",
+          "nombre_partido": "Moreno",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  95212.8819974675,
+                  97503.99904460012
+                ],
+                [
+                  95213.84699746547,
+                  97505.07404459664
+                ],
+                [
+                  95216.39499745995,
+                  97507.91304458643
+                ],
+                [
+                  95220.81599745138,
+                  97512.84004456943
+                ],
+                [
+                  95221.70199744955,
+                  97513.8270445657
+                ],
+                [
+                  95223.96999744527,
+                  97516.35304455741
+                ],
+                [
+                  95224.92399744331,
+                  97517.4160445538
+                ],
+                [
+                  95226.49799744022,
+                  97519.17004454747
+                ],
+                [
+                  95231.4689974226,
+                  97514.4260445571
+                ],
+                [
+                  95232.8599974185,
+                  97513.09904456013
+                ],
+                [
+                  95233.42399741581,
+                  97512.56104456057
+                ],
+                [
+                  95235.73899740801,
+                  97510.35104456506
+                ],
+                [
+                  95232.56799741427,
+                  97506.90304457728
+                ],
+                [
+                  95231.03099741777,
+                  97505.23104458285
+                ],
+                [
+                  95224.90599742993,
+                  97498.57004460681
+                ],
+                [
+                  95223.55399743297,
+                  97498.72504460672
+                ],
+                [
+                  95217.9599974496,
+                  97499.36504460976
+                ],
+                [
+                  95216.67599745403,
+                  97500.53704460675
+                ],
+                [
+                  95215.56799745793,
+                  97501.54804460556
+                ],
+                [
+                  95212.8819974675,
+                  97503.99904460012
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "074-081-028",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "TIMOTEO GORDILLO 1294",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.51539096368692,
+      -34.65172341045504
+    ],
+    "direccion": "",
+    "fondo": "34.37",
+    "frente": "7.10",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "081",
+    "parcela": "028",
+    "pdamatriz": "16730",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "074",
+    "smp": "074-081-028",
+    "smp_anterior": "074-081-027",
+    "smp_siguiente": "074-081-029",
+    "srid": 4326,
+    "superficie_cubierta": "161.00",
+    "superficie_total": "244.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "074-081-028",
+  "_http_status": 200
+}

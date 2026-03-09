@@ -1,0 +1,316 @@
+{
+  "area_m2": 140.97690773010254,
+  "centroide_lonlat": {
+    "lat": -34.624343,
+    "lon": -58.490344
+  },
+  "centroide_xy": {
+    "x": 97519.87269144092,
+    "y": 100546.13110931781
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/8/15/079-027B-014_0000170815.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION079/079-027B-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION079/PI-079-027B-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "079-027B-015",
+            "079-027B-013"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "AE 26",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 140.919899999937,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 141.0,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "079-027B-014"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. T. ÁLVAREZ",
+    "barrio": "Floresta",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1407",
+    "codigo_postal_argentino": "C1407AKY",
+    "comisaria": "43",
+    "comisaria_vecinal": "10A",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "79"
+  },
+  "debug": {
+    "address": "GUALEGUAYCHU 1161",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.490343959054115,
+        -34.62434307423251
+      ],
+      "direccion": "",
+      "fondo": "10.64",
+      "frente": "13.24",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "027B",
+      "parcela": "014",
+      "pdamatriz": "262264",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "079",
+      "smp": "079-027B-014",
+      "smp_anterior": "079-027B-013",
+      "smp_siguiente": "079-027B-015",
+      "srid": 4326,
+      "superficie_cubierta": "130.00",
+      "superficie_total": "141.00",
+      "unidades_funcionales": "2",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1161,
+      "cod_calle": 7087
+    },
+    "usig_direccion_elegida": {
+      "altura": 1161,
+      "cod_calle": 7087,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.490444",
+        "y": "-34.624431"
+      },
+      "direccion": "GUALEGUAYCHU 1161, CABA",
+      "nombre_calle": "GUALEGUAYCHU",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1161,
+          "cod_calle": 7087,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.490444",
+            "y": "-34.624431"
+          },
+          "direccion": "GUALEGUAYCHU 1161, CABA",
+          "nombre_calle": "GUALEGUAYCHU",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97522.84999328518,
+                  100554.7820343051
+                ],
+                [
+                  97524.00299328059,
+                  100553.67203430695
+                ],
+                [
+                  97525.05799327823,
+                  100552.65703431002
+                ],
+                [
+                  97528.97299326377,
+                  100548.88803431878
+                ],
+                [
+                  97522.95499327597,
+                  100542.88703433916
+                ],
+                [
+                  97519.5909932831,
+                  100539.53103435156
+                ],
+                [
+                  97513.56099330052,
+                  100539.49103435528
+                ],
+                [
+                  97510.36299331168,
+                  100542.57403435055
+                ],
+                [
+                  97514.98599330166,
+                  100547.0930343348
+                ],
+                [
+                  97516.77199329772,
+                  100548.84003432587
+                ],
+                [
+                  97517.91599329557,
+                  100549.9590343239
+                ],
+                [
+                  97519.20899329284,
+                  100551.2230343202
+                ],
+                [
+                  97519.8919932917,
+                  100551.89003431576
+                ],
+                [
+                  97522.84999328518,
+                  100554.7820343051
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "079-027B-014",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "GUALEGUAYCHU 1161",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.490343959054115,
+      -34.62434307423251
+    ],
+    "direccion": "",
+    "fondo": "10.64",
+    "frente": "13.24",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "027B",
+    "parcela": "014",
+    "pdamatriz": "262264",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "079",
+    "smp": "079-027B-014",
+    "smp_anterior": "079-027B-013",
+    "smp_siguiente": "079-027B-015",
+    "srid": 4326,
+    "superficie_cubierta": "130.00",
+    "superficie_total": "141.00",
+    "unidades_funcionales": "2",
+    "vuc": "0.00"
+  },
+  "smp": "079-027B-014",
+  "_http_status": 200
+}

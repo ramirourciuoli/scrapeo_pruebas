@@ -1,0 +1,368 @@
+{
+  "area_m2": 125.14196586608887,
+  "centroide_lonlat": {
+    "lat": -34.575009,
+    "lon": -58.458169
+  },
+  "centroide_xy": {
+    "x": 100470.78840166437,
+    "y": 106019.3994521745
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/1/70/037-056-009_0000105170.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION037/037-056-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION037/PI-037-056-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "037-056-008",
+            "037-056-010"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 390.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 125.095700000076,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 125.1,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "037-056-009"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Colegiales",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1426",
+    "codigo_postal_argentino": "C1426BAD",
+    "comisaria": "37",
+    "comisaria_vecinal": "13C",
+    "comuna": "Comuna 13",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   IX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "37"
+  },
+  "debug": {
+    "address": "SUPERI 1300",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.45816943371404,
+        -34.575008691959965
+      ],
+      "direccion": "OLAGUER Y FELIU, VIRREY 3306",
+      "fondo": "13.39",
+      "frente": "9.11",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "056",
+      "parcela": "009",
+      "pdamatriz": "416657",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "037",
+      "smp": "037-056-009",
+      "smp_anterior": "037-056-008",
+      "smp_siguiente": "037-056-010",
+      "srid": 4326,
+      "superficie_cubierta": "164.00",
+      "superficie_total": "122.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1300,
+      "cod_calle": 20127
+    },
+    "usig_direccion_elegida": {
+      "altura": 1300,
+      "cod_calle": 20127,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.458130",
+        "y": "-34.574924"
+      },
+      "direccion": "SUPERI 1300, CABA",
+      "nombre_calle": "SUPERI",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1300,
+          "cod_calle": 20127,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.458130",
+            "y": "-34.574924"
+          },
+          "direccion": "SUPERI 1300, CABA",
+          "nombre_calle": "SUPERI",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1300,
+          "cod_calle": 49810,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4020823,
+            "y": -34.8319084
+          },
+          "direccion": "José Superí 1300, Almirante Brown",
+          "nombre_calle": "José Superí",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Burzaco",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1300,
+          "cod_calle": 26611,
+          "cod_calle_cruce": null,
+          "cod_partido": "moron",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5964680014609,
+            "y": -34.6180594517908
+          },
+          "direccion": "Superí 1300, Morón",
+          "nombre_calle": "Superí",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "El Palomar",
+          "nombre_partido": "Morón",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  100465.05698914836,
+                  106020.02601676452
+                ],
+                [
+                  100466.65798914559,
+                  106022.56301675664
+                ],
+                [
+                  100467.63998914383,
+                  106024.12001675152
+                ],
+                [
+                  100473.41998912928,
+                  106025.93001674174
+                ],
+                [
+                  100478.90398911224,
+                  106023.56501674492
+                ],
+                [
+                  100475.79198911757,
+                  106018.67201676086
+                ],
+                [
+                  100475.30898911835,
+                  106017.91301676282
+                ],
+                [
+                  100473.64698912058,
+                  106015.30001677148
+                ],
+                [
+                  100473.10498912202,
+                  106014.44801677435
+                ],
+                [
+                  100471.37198912482,
+                  106011.72301678362
+                ],
+                [
+                  100469.06598913143,
+                  106012.97901678193
+                ],
+                [
+                  100467.089989138,
+                  106014.05501677975
+                ],
+                [
+                  100462.77298915206,
+                  106016.40701677641
+                ],
+                [
+                  100465.05698914836,
+                  106020.02601676452
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "037-056-009",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "SUPERI 1300",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 2,
+    "centroide": [
+      -58.45816943371404,
+      -34.575008691959965
+    ],
+    "direccion": "OLAGUER Y FELIU, VIRREY 3306",
+    "fondo": "13.39",
+    "frente": "9.11",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "056",
+    "parcela": "009",
+    "pdamatriz": "416657",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [
+      {
+        "altura": 3306,
+        "calle": "OLAGUER Y FELIU, VIRREY",
+        "codigo_calle": 16011,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      },
+      {
+        "altura": 1300,
+        "calle": "SUPERI",
+        "codigo_calle": 20127,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "037",
+    "smp": "037-056-009",
+    "smp_anterior": "037-056-008",
+    "smp_siguiente": "037-056-010",
+    "srid": 4326,
+    "superficie_cubierta": "164.00",
+    "superficie_total": "122.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "037-056-009"
+}

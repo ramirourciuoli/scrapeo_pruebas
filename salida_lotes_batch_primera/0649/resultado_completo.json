@@ -1,0 +1,412 @@
+{
+  "area_m2": 240.45921897888184,
+  "centroide_lonlat": {
+    "lat": -34.599664,
+    "lon": -58.492854
+  },
+  "centroide_xy": {
+    "x": 97288.86230471673,
+    "y": 103283.88406193664
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": "SINGULAR",
+          "denominacion": null,
+          "estado": "CATALOGO PREVENTIVO",
+          "ley_3056": "SI",
+          "proteccion": "CAUTELAR"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 0.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/4/69/071-022-025_0000116469.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION071/071-022-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION071/PI-071-022-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "071-022-002b",
+            "071-022-026"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R1a 12",
+          "incidencia_uva": 230.0,
+          "plusvalia_em": 0.0,
+          "plusvalia_pl": 0.0,
+          "plusvalia_sl": 0.0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 240.5,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "071-022-025"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. A. ZUBIZARRETA",
+    "barrio": "Villa Del Parque",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1417",
+    "codigo_postal_argentino": "C1417EDI",
+    "comisaria": "47",
+    "comisaria_vecinal": "11B",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "71"
+  },
+  "debug": {
+    "address": "PEDRO LOZANO 3001",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.49285420923179,
+        -34.599663821017806
+      ],
+      "direccion": "",
+      "fondo": "9.64",
+      "frente": "24.68",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "022",
+      "parcela": "025",
+      "pdamatriz": "306761",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "071",
+      "smp": "071-022-025",
+      "smp_anterior": "071-022-024",
+      "smp_siguiente": "071-022-026",
+      "srid": 4326,
+      "superficie_cubierta": "382.00",
+      "superficie_total": "238.00",
+      "unidades_funcionales": "3",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3001,
+      "cod_calle": 12146
+    },
+    "usig_direccion_elegida": {
+      "altura": 3001,
+      "cod_calle": 12146,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.492730",
+        "y": "-34.599806"
+      },
+      "direccion": "LOZANO, PEDRO 3001, CABA",
+      "nombre_calle": "LOZANO, PEDRO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3001,
+          "cod_calle": 12146,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.492730",
+            "y": "-34.599806"
+          },
+          "direccion": "LOZANO, PEDRO 3001, CABA",
+          "nombre_calle": "LOZANO, PEDRO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97298.14799596474,
+                  103276.83002684164
+                ],
+                [
+                  97297.14499596317,
+                  103271.62902685662
+                ],
+                [
+                  97297.0620687174,
+                  103271.20010010037
+                ],
+                [
+                  97295.61608483395,
+                  103270.16213623717
+                ],
+                [
+                  97294.47509362563,
+                  103269.34310547859
+                ],
+                [
+                  97293.66411950637,
+                  103268.76009766842
+                ],
+                [
+                  97292.66509607283,
+                  103270.29854981322
+                ],
+                [
+                  97292.54711511626,
+                  103270.48012940263
+                ],
+                [
+                  97292.3660848435,
+                  103270.75912110123
+                ],
+                [
+                  97290.94811609917,
+                  103272.94314209226
+                ],
+                [
+                  97290.21691493019,
+                  103274.06991210917
+                ],
+                [
+                  97288.65209560041,
+                  103276.48012938874
+                ],
+                [
+                  97288.57311610856,
+                  103276.6021386658
+                ],
+                [
+                  97288.2922933558,
+                  103277.03414550074
+                ],
+                [
+                  97285.52111416752,
+                  103281.30312742447
+                ],
+                [
+                  97284.41308194536,
+                  103283.00912107286
+                ],
+                [
+                  97284.35009366437,
+                  103283.1061059359
+                ],
+                [
+                  97282.85412199062,
+                  103285.41109860639
+                ],
+                [
+                  97282.7368734559,
+                  103285.59151852777
+                ],
+                [
+                  97281.05608732977,
+                  103288.18111813121
+                ],
+                [
+                  97280.81609709637,
+                  103288.55050289596
+                ],
+                [
+                  97279.48809417192,
+                  103290.59511959043
+                ],
+                [
+                  97279.01999602879,
+                  103291.31502681575
+                ],
+                [
+                  97277.87499603376,
+                  103293.08002681137
+                ],
+                [
+                  97281.44499602597,
+                  103295.56002680125
+                ],
+                [
+                  97284.3669960186,
+                  103297.59002679356
+                ],
+                [
+                  97285.18699601703,
+                  103298.15902679149
+                ],
+                [
+                  97286.03099601413,
+                  103296.80102679465
+                ],
+                [
+                  97288.17309170825,
+                  103293.3551293418
+                ],
+                [
+                  97291.95611171257,
+                  103287.26711666069
+                ],
+                [
+                  97293.2479959844,
+                  103285.18902682204
+                ],
+                [
+                  97293.78099598303,
+                  103284.3310268241
+                ],
+                [
+                  97294.54599597963,
+                  103283.10002682632
+                ],
+                [
+                  97295.28599597687,
+                  103281.90902682947
+                ],
+                [
+                  97295.60199597524,
+                  103281.40102683025
+                ],
+                [
+                  97295.82899597428,
+                  103281.03502683167
+                ],
+                [
+                  97298.21899596436,
+                  103277.1900268409
+                ],
+                [
+                  97298.14799596474,
+                  103276.83002684164
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "071-022-025",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "PEDRO LOZANO 3001",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.49285420923179,
+      -34.599663821017806
+    ],
+    "direccion": "",
+    "fondo": "9.64",
+    "frente": "24.68",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "022",
+    "parcela": "025",
+    "pdamatriz": "306761",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "071",
+    "smp": "071-022-025",
+    "smp_anterior": "071-022-024",
+    "smp_siguiente": "071-022-026",
+    "srid": 4326,
+    "superficie_cubierta": "382.00",
+    "superficie_total": "238.00",
+    "unidades_funcionales": "3",
+    "vuc": "0.00"
+  },
+  "smp": "071-022-025",
+  "_http_status": 200
+}

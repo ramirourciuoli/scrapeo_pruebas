@@ -1,0 +1,326 @@
+{
+  "area_m2": 376.99206352233887,
+  "centroide_lonlat": {
+    "lat": -34.656979,
+    "lon": -58.490838
+  },
+  "centroide_xy": {
+    "x": 97475.52662122714,
+    "y": 96925.59858230398
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 2.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/56/062-045-017_0000016556.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION062/062-045-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION062/PI-062-045-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "062-045-024b",
+            "062-045-018",
+            "062-045-033",
+            "062-045-016"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "E2",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 1081.32,
+          "plusvalia_sl": 1081.32
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 187.72912229774,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 377.0,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "062-045-017"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Mataderos",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1440",
+    "codigo_postal_argentino": "C1440DBB",
+    "comisaria": "48",
+    "comisaria_vecinal": "9A",
+    "comuna": "Comuna 9",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "62"
+  },
+  "debug": {
+    "address": "POLA 2064",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.49083830751837,
+        -34.65697903813642
+      ],
+      "direccion": "",
+      "fondo": "42.96",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "045",
+      "parcela": "017",
+      "pdamatriz": "30928",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "062",
+      "smp": "062-045-017",
+      "smp_anterior": "062-045-016",
+      "smp_siguiente": "062-045-018",
+      "srid": 4326,
+      "superficie_cubierta": "377.00",
+      "superficie_total": "372.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2064,
+      "cod_calle": 17105
+    },
+    "usig_direccion_elegida": {
+      "altura": 2064,
+      "cod_calle": 17105,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.491028",
+        "y": "-34.657147"
+      },
+      "direccion": "POLA 2064, CABA",
+      "nombre_calle": "POLA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2064,
+          "cod_calle": 17105,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.491028",
+            "y": "-34.657147"
+          },
+          "direccion": "POLA 2064, CABA",
+          "nombre_calle": "POLA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97478.44699068519,
+                  96934.88904449056
+                ],
+                [
+                  97485.1939906724,
+                  96941.84904446584
+                ],
+                [
+                  97487.36099066689,
+                  96944.08404445832
+                ],
+                [
+                  97487.54299066648,
+                  96943.90704445884
+                ],
+                [
+                  97493.61799064472,
+                  96937.80704447112
+                ],
+                [
+                  97487.79899065667,
+                  96931.83704449129
+                ],
+                [
+                  97463.54899070588,
+                  96907.15204457936
+                ],
+                [
+                  97457.26199072873,
+                  96913.03404456741
+                ],
+                [
+                  97459.19999072465,
+                  96915.03404456147
+                ],
+                [
+                  97460.6429907212,
+                  96916.52204455525
+                ],
+                [
+                  97467.39499070786,
+                  96923.48704453075
+                ],
+                [
+                  97469.49899070388,
+                  96925.65804452414
+                ],
+                [
+                  97472.16199069809,
+                  96928.40504451471
+                ],
+                [
+                  97473.4439906952,
+                  96929.72704451028
+                ],
+                [
+                  97475.27899069228,
+                  96931.62004450272
+                ],
+                [
+                  97478.44699068519,
+                  96934.88904449056
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "062-045-017",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "POLA 2064",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.49083830751837,
+      -34.65697903813642
+    ],
+    "direccion": "",
+    "fondo": "42.96",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "045",
+    "parcela": "017",
+    "pdamatriz": "30928",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "062",
+    "smp": "062-045-017",
+    "smp_anterior": "062-045-016",
+    "smp_siguiente": "062-045-018",
+    "srid": 4326,
+    "superficie_cubierta": "377.00",
+    "superficie_total": "372.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "062-045-017",
+  "_http_status": 200
+}

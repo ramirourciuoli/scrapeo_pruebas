@@ -1,0 +1,414 @@
+{
+  "area_m2": 270.5985498428345,
+  "centroide_lonlat": {
+    "lat": -34.56585,
+    "lon": -58.502509
+  },
+  "centroide_xy": {
+    "x": 96401.69679241414,
+    "y": 107034.7710109907
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 0.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "U",
+            "distrito_especifico": "U 36"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.0,
+          "fot_perim_libre": 1.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/36/055-011-006_0000247736.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION055/055-011-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION055/PI-055-011-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "055-011-007",
+            "055-011-005"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "U36",
+          "incidencia_uva": 110.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0.0
+        },
+        "rivolta": 0,
+        "subzona": "Zona A",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 270.6,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "055-011-006"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Saavedra",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1431",
+    "codigo_postal_argentino": "C1431EJA",
+    "comisaria": "49",
+    "comisaria_vecinal": "12A",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "55"
+  },
+  "debug": {
+    "address": "ALFONSINA STORNI 3647",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.5025093500633,
+        -34.56584967015178
+      ],
+      "direccion": "",
+      "fondo": "25.97",
+      "frente": "10.28",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "011",
+      "parcela": "006",
+      "pdamatriz": "374298",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "055",
+      "smp": "055-011-006",
+      "smp_anterior": "055-011-005",
+      "smp_siguiente": "055-011-007",
+      "srid": 4326,
+      "superficie_cubierta": "256.00",
+      "superficie_total": "267.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3647,
+      "cod_calle": 20116
+    },
+    "usig_direccion_elegida": {
+      "altura": 3647,
+      "cod_calle": 20116,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.502626",
+        "y": "-34.565886"
+      },
+      "direccion": "STORNI ALFONSINA 3647, CABA",
+      "nombre_calle": "STORNI ALFONSINA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3647,
+          "cod_calle": 20116,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.502626",
+            "y": "-34.565886"
+          },
+          "direccion": "STORNI ALFONSINA 3647, CABA",
+          "nombre_calle": "STORNI ALFONSINA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3647,
+          "cod_calle": 109979,
+          "cod_calle_cruce": null,
+          "cod_partido": "florencio_varela",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.2500654300804,
+            "y": -34.7976853554525
+          },
+          "direccion": "Alfonsina Storni 3647, Florencio Varela",
+          "nombre_calle": "Alfonsina Storni",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Florencio Varela",
+          "nombre_partido": "Florencio Varela",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3647,
+          "cod_calle": 145560,
+          "cod_calle_cruce": null,
+          "cod_partido": "malvinas_argentinas",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7039311214286,
+            "y": -34.47833615
+          },
+          "direccion": "Alfonsina Storni 3647, Malvinas Argentinas",
+          "nombre_calle": "Alfonsina Storni",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Pablo Nogués",
+          "nombre_partido": "Malvinas Argentinas",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96404.23300129504,
+                  107027.9260169949
+                ],
+                [
+                  96394.63500131984,
+                  107025.39901700945
+                ],
+                [
+                  96394.34100132083,
+                  107025.32201700937
+                ],
+                [
+                  96393.87400132185,
+                  107025.1990170104
+                ],
+                [
+                  96392.00900133493,
+                  107035.91501698177
+                ],
+                [
+                  96392.07600133604,
+                  107036.65701697927
+                ],
+                [
+                  96392.189001336,
+                  107037.17801697837
+                ],
+                [
+                  96392.45600133581,
+                  107037.92501697558
+                ],
+                [
+                  96392.7360013348,
+                  107038.46501697387
+                ],
+                [
+                  96393.02000133431,
+                  107038.89401697295
+                ],
+                [
+                  96393.4700013336,
+                  107039.42601697077
+                ],
+                [
+                  96393.83500133311,
+                  107039.76701696953
+                ],
+                [
+                  96394.52000133111,
+                  107040.25701696792
+                ],
+                [
+                  96395.04200133067,
+                  107040.52901696661
+                ],
+                [
+                  96395.77700132821,
+                  107040.79101696546
+                ],
+                [
+                  96396.29000132711,
+                  107040.90001696491
+                ],
+                [
+                  96396.42400132644,
+                  107040.95601696451
+                ],
+                [
+                  96397.35100132422,
+                  107041.34301696284
+                ],
+                [
+                  96407.00000130042,
+                  107045.37001694404
+                ],
+                [
+                  96407.58800129806,
+                  107043.86001694808
+                ],
+                [
+                  96408.3060012941,
+                  107042.01501695203
+                ],
+                [
+                  96408.41500129373,
+                  107041.73601695267
+                ],
+                [
+                  96410.23500128539,
+                  107037.06001696447
+                ],
+                [
+                  96410.91500128192,
+                  107035.31401696944
+                ],
+                [
+                  96411.46600127924,
+                  107033.90001697309
+                ],
+                [
+                  96412.4320012747,
+                  107031.4200169789
+                ],
+                [
+                  96412.90300127235,
+                  107030.2090169818
+                ],
+                [
+                  96411.21300127733,
+                  107029.76401698496
+                ],
+                [
+                  96410.48300127874,
+                  107029.57201698533
+                ],
+                [
+                  96404.23300129504,
+                  107027.9260169949
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "055-011-006",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ALFONSINA STORNI 3647",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.5025093500633,
+      -34.56584967015178
+    ],
+    "direccion": "",
+    "fondo": "25.97",
+    "frente": "10.28",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "011",
+    "parcela": "006",
+    "pdamatriz": "374298",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "055",
+    "smp": "055-011-006",
+    "smp_anterior": "055-011-005",
+    "smp_siguiente": "055-011-007",
+    "srid": 4326,
+    "superficie_cubierta": "256.00",
+    "superficie_total": "267.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "055-011-006",
+  "_http_status": 200
+}

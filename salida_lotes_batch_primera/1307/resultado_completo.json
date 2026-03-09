@@ -1,0 +1,337 @@
+{
+  "area_m2": 122.30753803253174,
+  "centroide_lonlat": {
+    "lat": -34.583512,
+    "lon": -58.496062
+  },
+  "centroide_xy": {
+    "x": 96994.00840687602,
+    "y": 105075.6190372716
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/94/073-062-021d_0000115694.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION073/073-062-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION073/PI-073-062-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "073-062-021c",
+            "073-062-021b",
+            "073-062-022a"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 170.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 122.291100000019,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 122.3,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "073-062-021D"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. A. ZUBIZARRETA",
+    "barrio": "Villa Pueyrredon",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1419",
+    "codigo_postal_argentino": "C1419EFX",
+    "comisaria": "47",
+    "comisaria_vecinal": "12B",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "73"
+  },
+  "debug": {
+    "address": "ZAMUDIO 4616",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.496062084841796,
+        -34.583511881736875
+      ],
+      "direccion": "",
+      "fondo": "12.85",
+      "frente": "9.34",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "062",
+      "parcela": "021D",
+      "pdamatriz": "361240",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "073",
+      "smp": "073-062-021D",
+      "smp_anterior": "073-062-021C",
+      "smp_siguiente": "073-062-022A",
+      "srid": 4326,
+      "superficie_cubierta": "131.00",
+      "superficie_total": "120.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4616,
+      "cod_calle": 27004
+    },
+    "usig_direccion_elegida": {
+      "altura": 4616,
+      "cod_calle": 27004,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.495965",
+        "y": "-34.583452"
+      },
+      "direccion": "ZAMUDIO 4616, CABA",
+      "nombre_calle": "ZAMUDIO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4616,
+          "cod_calle": 27004,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.495965",
+            "y": "-34.583452"
+          },
+          "direccion": "ZAMUDIO 4616, CABA",
+          "nombre_calle": "ZAMUDIO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96999.54299815887,
+                  105079.15702201164
+                ],
+                [
+                  97002.03099815006,
+                  105075.82002202116
+                ],
+                [
+                  96998.72699815703,
+                  105073.3200220294
+                ],
+                [
+                  96997.13099815964,
+                  105072.11202203468
+                ],
+                [
+                  96995.16808898502,
+                  105070.62514410852
+                ],
+                [
+                  96993.40508850095,
+                  105069.29109870456
+                ],
+                [
+                  96993.06609924373,
+                  105069.03511725957
+                ],
+                [
+                  96991.63311584841,
+                  105067.95009529177
+                ],
+                [
+                  96990.671079719,
+                  105069.22011481892
+                ],
+                [
+                  96989.02612122902,
+                  105071.39211188513
+                ],
+                [
+                  96988.38409242297,
+                  105072.24111090682
+                ],
+                [
+                  96985.94852624858,
+                  105075.45622149046
+                ],
+                [
+                  96988.86547670343,
+                  105077.6212988791
+                ],
+                [
+                  96991.0477276749,
+                  105079.2407446754
+                ],
+                [
+                  96992.75012024854,
+                  105080.50411136821
+                ],
+                [
+                  96994.47668274542,
+                  105081.78554446899
+                ],
+                [
+                  96995.95532043671,
+                  105082.88289553841
+                ],
+                [
+                  96996.4771099865,
+                  105083.27010256928
+                ],
+                [
+                  96999.54299815887,
+                  105079.15702201164
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "073-062-021D",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ZAMUDIO 4616",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.496062084841796,
+      -34.583511881736875
+    ],
+    "direccion": "",
+    "fondo": "12.85",
+    "frente": "9.34",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "062",
+    "parcela": "021D",
+    "pdamatriz": "361240",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "073",
+    "smp": "073-062-021D",
+    "smp_anterior": "073-062-021C",
+    "smp_siguiente": "073-062-022A",
+    "srid": 4326,
+    "superficie_cubierta": "131.00",
+    "superficie_total": "120.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "073-062-021D",
+  "_http_status": 200
+}

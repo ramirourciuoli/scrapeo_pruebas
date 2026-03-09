@@ -1,0 +1,400 @@
+{
+  "area_m2": 180.70562648773193,
+  "centroide_lonlat": {
+    "lat": -34.600247,
+    "lon": -58.413639
+  },
+  "centroide_xy": {
+    "x": 104555.56128714328,
+    "y": 103218.42878193833
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": "SINGULAR",
+          "denominacion": null,
+          "estado": "CATALOGO PREVENTIVO",
+          "ley_3056": "SI",
+          "proteccion": "CAUTELAR"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/9/55/013-043-014_0000157955.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION013/013-043-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION013/PI-013-043-V4.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "013-043-012",
+            "013-043-013",
+            "013-043-015"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 250.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 180.7,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "013-043-014"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. J.M. RAMOS MEJÍA",
+    "barrio": "Almagro",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1173",
+    "codigo_postal_argentino": "C1173ABO",
+    "comisaria": "9",
+    "comisaria_vecinal": "5A",
+    "comuna": "Comuna 5",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   II",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "13"
+  },
+  "debug": {
+    "address": "SANCHEZ DE BUSTAMANTE 883",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.41363931374862,
+        -34.60024732483557
+      ],
+      "direccion": "",
+      "fondo": "10.54",
+      "frente": "16.60",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "043",
+      "parcela": "014",
+      "pdamatriz": "191797",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "2",
+      "propiedad_horizontal": "Si",
+      "seccion": "013",
+      "smp": "013-043-014",
+      "smp_anterior": "013-043-013",
+      "smp_siguiente": "013-043-015",
+      "srid": 4326,
+      "superficie_cubierta": "415.00",
+      "superficie_total": "175.00",
+      "unidades_funcionales": "4",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 883,
+      "cod_calle": 20029
+    },
+    "usig_direccion_elegida": {
+      "altura": 883,
+      "cod_calle": 20029,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.413735",
+        "y": "-34.600233"
+      },
+      "direccion": "SANCHEZ DE BUSTAMANTE 883, CABA",
+      "nombre_calle": "SANCHEZ DE BUSTAMANTE",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 883,
+          "cod_calle": 20029,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.413735",
+            "y": "-34.600233"
+          },
+          "direccion": "SANCHEZ DE BUSTAMANTE 883, CABA",
+          "nombre_calle": "SANCHEZ DE BUSTAMANTE",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 883,
+          "cod_calle": 8333,
+          "cod_calle_cruce": null,
+          "cod_partido": "avellaneda",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3762689333333,
+            "y": -34.6923256333333
+          },
+          "direccion": "Avenida Teodoro Sánchez de Bustamante 883, Avellaneda",
+          "nombre_calle": "Avenida Teodoro Sánchez de Bustamante",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Piñeyro",
+          "nombre_partido": "Avellaneda",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 883,
+          "cod_calle": 8333,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3762689333333,
+            "y": -34.6923256333333
+          },
+          "direccion": "Avenida Teodoro Sánchez de Bustamante 883, Lanús",
+          "nombre_calle": "Avenida Teodoro Sánchez de Bustamante",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Gerli",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 883,
+          "cod_calle": 17154,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4130494622449,
+            "y": -34.7686924602041
+          },
+          "direccion": "Sánchez de Bustamante 883, Lomas de Zamora",
+          "nombre_calle": "Sánchez de Bustamante",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lomas de Zamora",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 883,
+          "cod_calle": 16320,
+          "cod_calle_cruce": null,
+          "cod_partido": "pilar",
+          "direccion": "Sánchez de Bustamante 883, Pilar",
+          "nombre_calle": "Sánchez de Bustamante",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Rosa",
+          "nombre_partido": "Pilar",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  104548.72497558196,
+                  103211.68102156659
+                ],
+                [
+                  104548.9709755825,
+                  103212.95202156252
+                ],
+                [
+                  104549.53997558328,
+                  103215.89702155412
+                ],
+                [
+                  104549.7299755839,
+                  103216.87702155171
+                ],
+                [
+                  104550.1099755842,
+                  103218.84002154542
+                ],
+                [
+                  104550.4889755843,
+                  103220.80302154014
+                ],
+                [
+                  104550.86897558463,
+                  103222.767021534
+                ],
+                [
+                  104551.05897558524,
+                  103223.74902153094
+                ],
+                [
+                  104551.62897558522,
+                  103226.6950215227
+                ],
+                [
+                  104551.87397558561,
+                  103227.9610215188
+                ],
+                [
+                  104555.15297557585,
+                  103227.10802151865
+                ],
+                [
+                  104559.2279755638,
+                  103226.04702151878
+                ],
+                [
+                  104562.46297555444,
+                  103225.20502151849
+                ],
+                [
+                  104561.57897555313,
+                  103220.85002153096
+                ],
+                [
+                  104560.16197555147,
+                  103213.87002155211
+                ],
+                [
+                  104559.8909755515,
+                  103212.53402155588
+                ],
+                [
+                  104559.13297555139,
+                  103208.80002156674
+                ],
+                [
+                  104556.84997555749,
+                  103209.43202156699
+                ],
+                [
+                  104548.72497558196,
+                  103211.68102156659
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "013-043-014",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "SANCHEZ DE BUSTAMANTE 883",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.41363931374862,
+      -34.60024732483557
+    ],
+    "direccion": "",
+    "fondo": "10.54",
+    "frente": "16.60",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "043",
+    "parcela": "014",
+    "pdamatriz": "191797",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "2",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "013",
+    "smp": "013-043-014",
+    "smp_anterior": "013-043-013",
+    "smp_siguiente": "013-043-015",
+    "srid": 4326,
+    "superficie_cubierta": "415.00",
+    "superficie_total": "175.00",
+    "unidades_funcionales": "4",
+    "vuc": "0.00"
+  },
+  "smp": "013-043-014",
+  "_http_status": 200
+}

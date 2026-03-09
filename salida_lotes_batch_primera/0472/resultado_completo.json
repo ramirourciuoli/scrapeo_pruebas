@@ -1,0 +1,316 @@
+{
+  "area_m2": 107.50532054901123,
+  "centroide_lonlat": {
+    "lat": -34.627973,
+    "lon": -58.518154
+  },
+  "centroide_xy": {
+    "x": 94969.70103565413,
+    "y": 100142.3583869762
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.0,
+          "fot_perim_libre": 1.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/3/33/093-115B-001_0000212333.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION093/093-115B-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION093/PI-093-115B-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "093-115B-002",
+            "093-115B-023"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "AE 26",
+          "incidencia_uva": 60.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0.0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 107.5,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "093-115B-001"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Versalles",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1408",
+    "codigo_postal_argentino": "C1408CMT",
+    "comisaria": "44",
+    "comisaria_vecinal": "10B",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "93"
+  },
+  "debug": {
+    "address": "RUIZ DE LOS LLANOS 1252",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.518154090528185,
+        -34.62797342228268
+      ],
+      "direccion": "",
+      "fondo": "11.25",
+      "frente": "9.60",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "115B",
+      "parcela": "001",
+      "pdamatriz": "292324",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "093",
+      "smp": "093-115B-001",
+      "smp_anterior": "093-115B-023",
+      "smp_siguiente": "093-115B-002",
+      "srid": 4326,
+      "superficie_cubierta": "109.00",
+      "superficie_total": "108.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1252,
+      "cod_calle": 19092
+    },
+    "usig_direccion_elegida": {
+      "altura": 1252,
+      "cod_calle": 19092,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.518071",
+        "y": "-34.627914"
+      },
+      "direccion": "RUIZ DE LOS LLANOS 1252, CABA",
+      "nombre_calle": "RUIZ DE LOS LLANOS",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1252,
+          "cod_calle": 19092,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.518071",
+            "y": "-34.627914"
+          },
+          "direccion": "RUIZ DE LOS LLANOS 1252, CABA",
+          "nombre_calle": "RUIZ DE LOS LLANOS",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  94967.07100014664,
+                  100147.1500373733
+                ],
+                [
+                  94967.57600014542,
+                  100147.55403737098
+                ],
+                [
+                  94970.0740001396,
+                  100149.5540373635
+                ],
+                [
+                  94970.31900013918,
+                  100149.75003736324
+                ],
+                [
+                  94971.11500013628,
+                  100148.76003736517
+                ],
+                [
+                  94976.31000011618,
+                  100142.30003737943
+                ],
+                [
+                  94974.93000011731,
+                  100138.45003739168
+                ],
+                [
+                  94965.60600014165,
+                  100136.08303740478
+                ],
+                [
+                  94964.58600014831,
+                  100140.59003739309
+                ],
+                [
+                  94964.1930001506,
+                  100142.3240373887
+                ],
+                [
+                  94963.71000015356,
+                  100144.46003738305
+                ],
+                [
+                  94964.14800015267,
+                  100144.8100373813
+                ],
+                [
+                  94965.94100014828,
+                  100146.24503737644
+                ],
+                [
+                  94967.07100014664,
+                  100147.1500373733
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "093-115B-001",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "RUIZ DE LOS LLANOS 1252",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.518154090528185,
+      -34.62797342228268
+    ],
+    "direccion": "",
+    "fondo": "11.25",
+    "frente": "9.60",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "115B",
+    "parcela": "001",
+    "pdamatriz": "292324",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "093",
+    "smp": "093-115B-001",
+    "smp_anterior": "093-115B-023",
+    "smp_siguiente": "093-115B-002",
+    "srid": 4326,
+    "superficie_cubierta": "109.00",
+    "superficie_total": "108.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "093-115B-001",
+  "_http_status": 200
+}

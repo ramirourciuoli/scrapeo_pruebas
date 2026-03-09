@@ -1,0 +1,406 @@
+{
+  "area_m2": 391.5156202316284,
+  "centroide_lonlat": {
+    "lat": -34.634205,
+    "lon": -58.415514
+  },
+  "centroide_xy": {
+    "x": 104381.83470054124,
+    "y": 99451.40912772519
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/fp/SECCION032/FP-032-035-011-VD.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION032/032-035-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION032/PI-032-035-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "032-035-010",
+            "032-035-020a",
+            "032-035-012"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 1,
+        "subzona": "",
+        "sup_edificable_planta": 193.598851556887,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 391.5,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "032-035-011"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.M. PENNA",
+    "barrio": "Boedo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1259",
+    "codigo_postal_argentino": "C1259ABT",
+    "comisaria": "32",
+    "comisaria_vecinal": "5B",
+    "comuna": "Comuna 5",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "32"
+  },
+  "debug": {
+    "address": "SALCEDO 3570",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.415513669562706,
+        -34.63420473436366
+      ],
+      "direccion": "",
+      "fondo": "44.34",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "035",
+      "parcela": "011",
+      "pdamatriz": "104337",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "0",
+      "propiedad_horizontal": "No",
+      "seccion": "032",
+      "smp": "032-035-011",
+      "smp_anterior": "032-035-010",
+      "smp_siguiente": "032-035-012",
+      "srid": 4326,
+      "superficie_cubierta": "0.00",
+      "superficie_total": "384.00",
+      "unidades_funcionales": "11",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3570,
+      "cod_calle": 20010
+    },
+    "usig_direccion_elegida": {
+      "altura": 3570,
+      "cod_calle": 20010,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.415589",
+        "y": "-34.633987"
+      },
+      "direccion": "SALCEDO 3570, CABA",
+      "nombre_calle": "SALCEDO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3570,
+          "cod_calle": 20010,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.415589",
+            "y": "-34.633987"
+          },
+          "direccion": "SALCEDO 3570, CABA",
+          "nombre_calle": "SALCEDO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3570,
+          "cod_calle": 46818,
+          "cod_calle_cruce": null,
+          "cod_partido": "moron",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6546828591837,
+            "y": -34.6366783938776
+          },
+          "direccion": "Salcedo 3570, Morón",
+          "nombre_calle": "Salcedo",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Castelar",
+          "nombre_partido": "Morón",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  104371.17397326519,
+                  99471.54303218969
+                ],
+                [
+                  104379.49197324328,
+                  99473.91603217766
+                ],
+                [
+                  104380.21297324025,
+                  99471.59103218149
+                ],
+                [
+                  104380.94797323574,
+                  99469.22103218848
+                ],
+                [
+                  104381.85897323163,
+                  99466.28503219603
+                ],
+                [
+                  104386.78797320538,
+                  99450.39403223744
+                ],
+                [
+                  104387.48897320157,
+                  99448.13603224143
+                ],
+                [
+                  104388.6339731953,
+                  99444.44303225054
+                ],
+                [
+                  104389.2909731922,
+                  99442.32603225933
+                ],
+                [
+                  104389.50697319132,
+                  99441.63003225959
+                ],
+                [
+                  104390.55897318588,
+                  99438.23903226742
+                ],
+                [
+                  104390.7709731841,
+                  99437.55403227004
+                ],
+                [
+                  104390.89697318405,
+                  99437.1480322699
+                ],
+                [
+                  104391.3969731806,
+                  99435.53803227426
+                ],
+                [
+                  104392.55297317579,
+                  99431.8100322849
+                ],
+                [
+                  104388.77497318498,
+                  99430.58203229212
+                ],
+                [
+                  104383.94597319758,
+                  99429.01203229913
+                ],
+                [
+                  104382.7789732037,
+                  99432.89903228809
+                ],
+                [
+                  104382.17697320665,
+                  99434.90403228294
+                ],
+                [
+                  104381.69097320917,
+                  99436.52103227889
+                ],
+                [
+                  104381.09597321248,
+                  99438.50203227543
+                ],
+                [
+                  104380.93197321374,
+                  99439.04903227257
+                ],
+                [
+                  104379.77797321902,
+                  99442.89003226283
+                ],
+                [
+                  104379.7389732202,
+                  99443.02103226283
+                ],
+                [
+                  104378.47697322568,
+                  99447.22403225314
+                ],
+                [
+                  104377.7049732299,
+                  99449.79403224483
+                ],
+                [
+                  104377.09397323271,
+                  99451.82903224003
+                ],
+                [
+                  104375.48997324234,
+                  99457.16903222498
+                ],
+                [
+                  104373.21597325419,
+                  99464.74303220492
+                ],
+                [
+                  104372.79897325645,
+                  99466.1320322018
+                ],
+                [
+                  104372.6149732575,
+                  99466.7430322016
+                ],
+                [
+                  104371.17397326519,
+                  99471.54303218969
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "032-035-011",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "SALCEDO 3570",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.415513669562706,
+      -34.63420473436366
+    ],
+    "direccion": "",
+    "fondo": "44.34",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "035",
+    "parcela": "011",
+    "pdamatriz": "104337",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "0",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "032",
+    "smp": "032-035-011",
+    "smp_anterior": "032-035-010",
+    "smp_siguiente": "032-035-012",
+    "srid": 4326,
+    "superficie_cubierta": "0.00",
+    "superficie_total": "384.00",
+    "unidades_funcionales": "11",
+    "vuc": "0.00"
+  },
+  "smp": "032-035-011",
+  "_http_status": 200
+}

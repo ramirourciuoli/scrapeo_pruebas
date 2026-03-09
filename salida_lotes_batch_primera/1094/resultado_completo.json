@@ -1,0 +1,403 @@
+{
+  "area_m2": 118.41300201416016,
+  "centroide_lonlat": {
+    "lat": -34.615885,
+    "lon": -58.459035
+  },
+  "centroide_xy": {
+    "x": 100391.20990584532,
+    "y": 101484.74973325286
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 0.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/39/057-034-023_0000421039.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION057/057-034-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION057/PI-057-034-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "057-034-024",
+            "057-034-022"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2a II 16",
+          "incidencia_uva": 170.0,
+          "plusvalia_em": 2899.07,
+          "plusvalia_pl": 2899.07,
+          "plusvalia_sl": 2899.07
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 118.426100000007,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 118.4,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "057-034-023"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. T. ÁLVAREZ",
+    "barrio": "Flores",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1406",
+    "codigo_postal_argentino": "C1406FOG",
+    "comisaria": "50",
+    "comisaria_vecinal": "7C",
+    "comuna": "Comuna 7",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "57"
+  },
+  "debug": {
+    "address": "NEUQUEN 1831",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.45903456916892,
+        -34.61588510102183
+      ],
+      "direccion": "",
+      "fondo": "14.63",
+      "frente": "7.93",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "034",
+      "parcela": "023",
+      "pdamatriz": "132910",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "8",
+      "propiedad_horizontal": "Si",
+      "seccion": "057",
+      "smp": "057-034-023",
+      "smp_anterior": "057-034-022",
+      "smp_siguiente": "057-034-024",
+      "srid": 4326,
+      "superficie_cubierta": "794.00",
+      "superficie_total": "116.00",
+      "unidades_funcionales": "12",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1831,
+      "cod_calle": 14017
+    },
+    "usig_direccion_elegida": {
+      "altura": 1831,
+      "cod_calle": 14017,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.458995",
+        "y": "-34.615970"
+      },
+      "direccion": "NEUQUEN 1831, CABA",
+      "nombre_calle": "NEUQUEN",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1831,
+          "cod_calle": 14017,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.458995",
+            "y": "-34.615970"
+          },
+          "direccion": "NEUQUEN 1831, CABA",
+          "nombre_calle": "NEUQUEN",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1831,
+          "cod_calle": 108173,
+          "cod_calle_cruce": null,
+          "cod_partido": "florencio_varela",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.254742017347,
+            "y": -34.798451527551
+          },
+          "direccion": "Neuquen 1831, Florencio Varela",
+          "nombre_calle": "Neuquen",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Florencio Varela",
+          "nombre_partido": "Florencio Varela",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1831,
+          "cod_calle": 27110,
+          "cod_calle_cruce": null,
+          "cod_partido": "moron",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5795369591837,
+            "y": -34.6224722346939
+          },
+          "direccion": "Neuquén 1831, Morón",
+          "nombre_calle": "Neuquén",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "El Palomar",
+          "nombre_partido": "Morón",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1831,
+          "cod_calle": 114403,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_isidro",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5361863142857,
+            "y": -34.4660542071429
+          },
+          "direccion": "Neuquén 1831, San Isidro",
+          "nombre_calle": "Neuquén",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Beccar",
+          "nombre_partido": "San Isidro",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  100389.00188594285,
+                  101479.24882955546
+                ],
+                [
+                  100388.84348594534,
+                  101479.67822955534
+                ],
+                [
+                  100388.44198594571,
+                  101480.76602955163
+                ],
+                [
+                  100388.13198594826,
+                  101481.6040295515
+                ],
+                [
+                  100387.48968595086,
+                  101483.34492954463
+                ],
+                [
+                  100387.05098595367,
+                  101484.53402954346
+                ],
+                [
+                  100385.87298595805,
+                  101487.72402953534
+                ],
+                [
+                  100385.32298596122,
+                  101489.21402953131
+                ],
+                [
+                  100384.6099859646,
+                  101491.14602952552
+                ],
+                [
+                  100387.94438595689,
+                  101491.49992952327
+                ],
+                [
+                  100392.96698594243,
+                  101492.03302951786
+                ],
+                [
+                  100393.07098594215,
+                  101491.75202951778
+                ],
+                [
+                  100393.43598593985,
+                  101490.76402952065
+                ],
+                [
+                  100393.95498593709,
+                  101489.35702952463
+                ],
+                [
+                  100394.41028593478,
+                  101488.12392952715
+                ],
+                [
+                  100396.08498592726,
+                  101483.58802953846
+                ],
+                [
+                  100396.50328592492,
+                  101482.45552954165
+                ],
+                [
+                  100397.02648592231,
+                  101481.03902954524
+                ],
+                [
+                  100397.64398591938,
+                  101479.36702954822
+                ],
+                [
+                  100389.99998593914,
+                  101476.54402956314
+                ],
+                [
+                  100389.6539859409,
+                  101477.48202956101
+                ],
+                [
+                  100389.35098594143,
+                  101478.30302955865
+                ],
+                [
+                  100389.00188594285,
+                  101479.24882955546
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "057-034-023",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "NEUQUEN 1831",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.45903456916892,
+      -34.61588510102183
+    ],
+    "direccion": "",
+    "fondo": "14.63",
+    "frente": "7.93",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "034",
+    "parcela": "023",
+    "pdamatriz": "132910",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "8",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "057",
+    "smp": "057-034-023",
+    "smp_anterior": "057-034-022",
+    "smp_siguiente": "057-034-024",
+    "srid": 4326,
+    "superficie_cubierta": "794.00",
+    "superficie_total": "116.00",
+    "unidades_funcionales": "12",
+    "vuc": "0.00"
+  },
+  "smp": "057-034-023",
+  "_http_status": 200
+}

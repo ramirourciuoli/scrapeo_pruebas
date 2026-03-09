@@ -1,0 +1,412 @@
+{
+  "area_m2": 629.3702335357666,
+  "centroide_lonlat": {
+    "lat": -34.630379,
+    "lon": -58.492545
+  },
+  "centroide_xy": {
+    "x": 97318.20027896661,
+    "y": 99876.51690477927
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/3/15/077-054-002_0000193315.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION077/077-054-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION077/PI-077-054-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "077-054-039",
+            "077-054-004",
+            "077-054-026b",
+            "077-054-040",
+            "077-054-041",
+            "077-054-015",
+            "077-054-001b",
+            "077-054-016",
+            "077-054-037",
+            "077-054-038"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 50.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 629.265350000192,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 629.4,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "077-054-002"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Velez Sarsfield",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1407",
+    "codigo_postal_argentino": "C1407ENZ",
+    "comisaria": "43",
+    "comisaria_vecinal": "10A",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "77"
+  },
+  "debug": {
+    "address": "MORON 4516",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.49254516682654,
+        -34.63037859317478
+      ],
+      "direccion": "",
+      "manzana": "054",
+      "parcela": "002",
+      "seccion": "077",
+      "smp": "077-054-002",
+      "smp_anterior": "077-054-001D",
+      "smp_siguiente": "077-054-004",
+      "srid": 4326
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4516,
+      "cod_calle": 13132
+    },
+    "usig_direccion_elegida": {
+      "altura": 4516,
+      "cod_calle": 13132,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.492708",
+        "y": "-34.630171"
+      },
+      "direccion": "MORON 4516, CABA",
+      "nombre_calle": "MORON",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4516,
+          "cod_calle": 13132,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.492708",
+            "y": "-34.630171"
+          },
+          "direccion": "MORON 4516, CABA",
+          "nombre_calle": "MORON",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97338.50799328051,
+                  99860.2570363938
+                ],
+                [
+                  97338.88999327832,
+                  99859.88803639397
+                ],
+                [
+                  97339.68199327598,
+                  99859.1210363952
+                ],
+                [
+                  97341.92899326744,
+                  99856.94703639977
+                ],
+                [
+                  97343.99299326047,
+                  99854.94903640333
+                ],
+                [
+                  97340.16199326798,
+                  99850.94903641651
+                ],
+                [
+                  97338.21899327167,
+                  99848.92003642526
+                ],
+                [
+                  97336.1479932798,
+                  99850.90903642084
+                ],
+                [
+                  97333.0889932902,
+                  99853.84803641512
+                ],
+                [
+                  97332.7049932912,
+                  99854.21703641422
+                ],
+                [
+                  97332.61699329104,
+                  99854.30103641454
+                ],
+                [
+                  97332.32299329311,
+                  99854.58603641254
+                ],
+                [
+                  97329.57399330233,
+                  99857.26603640922
+                ],
+                [
+                  97326.3399933137,
+                  99860.41703640137
+                ],
+                [
+                  97324.68699332005,
+                  99862.02903639723
+                ],
+                [
+                  97321.41899333155,
+                  99865.2120363912
+                ],
+                [
+                  97318.74999334141,
+                  99867.81203638465
+                ],
+                [
+                  97318.55599334094,
+                  99868.001036386
+                ],
+                [
+                  97316.10099334992,
+                  99870.39303637939
+                ],
+                [
+                  97315.3099933531,
+                  99871.16403637882
+                ],
+                [
+                  97312.20899336346,
+                  99874.18603637238
+                ],
+                [
+                  97299.62299340843,
+                  99886.44903634826
+                ],
+                [
+                  97294.98799342473,
+                  99890.96503633918
+                ],
+                [
+                  97302.26799340773,
+                  99895.34403632127
+                ],
+                [
+                  97306.15499339867,
+                  99897.68203631276
+                ],
+                [
+                  97308.97299339187,
+                  99899.37703630651
+                ],
+                [
+                  97314.71699337193,
+                  99893.88403631528
+                ],
+                [
+                  97317.9389933612,
+                  99890.80203632172
+                ],
+                [
+                  97321.33799334877,
+                  99887.55203633034
+                ],
+                [
+                  97319.7939933514,
+                  99885.95903633352
+                ],
+                [
+                  97319.24199335194,
+                  99885.39003633586
+                ],
+                [
+                  97316.00199335939,
+                  99882.04703634835
+                ],
+                [
+                  97321.65899333889,
+                  99876.57103636008
+                ],
+                [
+                  97323.76099333345,
+                  99874.53503636413
+                ],
+                [
+                  97325.12599332673,
+                  99873.21403636559
+                ],
+                [
+                  97326.64599332114,
+                  99871.74103636967
+                ],
+                [
+                  97330.05399330868,
+                  99868.44203637517
+                ],
+                [
+                  97332.12599330297,
+                  99866.43703637912
+                ],
+                [
+                  97334.50499329407,
+                  99864.13303638538
+                ],
+                [
+                  97337.00099328664,
+                  99861.71703638809
+                ],
+                [
+                  97338.12599328162,
+                  99860.62703639176
+                ],
+                [
+                  97338.50799328051,
+                  99860.2570363938
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "077-054-002",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MORON 4516",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.49254516682654,
+      -34.63037859317478
+    ],
+    "direccion": "",
+    "manzana": "054",
+    "parcela": "002",
+    "puertas": [],
+    "seccion": "077",
+    "smp": "077-054-002",
+    "smp_anterior": "077-054-001D",
+    "smp_siguiente": "077-054-004",
+    "srid": 4326
+  },
+  "smp": "077-054-002",
+  "_http_status": 200
+}

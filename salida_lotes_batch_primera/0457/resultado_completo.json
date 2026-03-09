@@ -1,0 +1,329 @@
+{
+  "area_m2": 48.75745487213135,
+  "centroide_lonlat": {
+    "lat": -34.640675,
+    "lon": -58.495982
+  },
+  "centroide_xy": {
+    "x": 97003.45127490543,
+    "y": 98734.18423765422
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/17/060-129-035a_0000015717.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION060/060-129-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION060/PI-060-129-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "060-129-035b",
+            "060-129-034"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 140.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 48.709999999973,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 48.8,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "060-129-035A"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Villa Luro",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1407",
+    "codigo_postal_argentino": "C1407IEE",
+    "comisaria": "40",
+    "comisaria_vecinal": "10C",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "60"
+  },
+  "debug": {
+    "address": "DONIZETTI 299",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.4959815582951,
+        -34.64067490202196
+      ],
+      "direccion": "",
+      "fondo": "16.10",
+      "frente": "2.98",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "129",
+      "parcela": "035A",
+      "pdamatriz": "92124",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "060",
+      "smp": "060-129-035A",
+      "smp_anterior": "060-129-034",
+      "smp_siguiente": "060-129-035B",
+      "srid": 4326,
+      "superficie_cubierta": "57.00",
+      "superficie_total": "48.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 299,
+      "cod_calle": 4086
+    },
+    "usig_direccion_elegida": {
+      "altura": 299,
+      "cod_calle": 4086,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.495882",
+        "y": "-34.640666"
+      },
+      "direccion": "DONIZETTI 299, CABA",
+      "nombre_calle": "DONIZETTI",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 299,
+          "cod_calle": 4086,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.495882",
+            "y": "-34.640666"
+          },
+          "direccion": "DONIZETTI 299, CABA",
+          "nombre_calle": "DONIZETTI",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 299,
+          "cod_calle": 17534,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4261015,
+            "y": -34.7532634020408
+          },
+          "direccion": "C. Donizetti 299, Lomas de Zamora",
+          "nombre_calle": "C. Donizetti",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lomas de Zamora",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97007.4029933636,
+                  98738.02003978845
+                ],
+                [
+                  97007.69899336153,
+                  98736.2510397938
+                ],
+                [
+                  97007.81499336105,
+                  98735.56103979528
+                ],
+                [
+                  97007.87899335992,
+                  98735.17903979609
+                ],
+                [
+                  97005.25399336457,
+                  98731.57203980835
+                ],
+                [
+                  97004.44099336592,
+                  98730.45503981243
+                ],
+                [
+                  97004.29899336616,
+                  98730.2590398126
+                ],
+                [
+                  97000.6019933764,
+                  98729.6530398174
+                ],
+                [
+                  96999.75699338305,
+                  98734.98703980295
+                ],
+                [
+                  96999.46699338518,
+                  98736.81403979854
+                ],
+                [
+                  97002.14599337752,
+                  98737.221039795
+                ],
+                [
+                  97003.33699337489,
+                  98737.40203979347
+                ],
+                [
+                  97007.4029933636,
+                  98738.02003978845
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "060-129-035A",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "DONIZETTI 299",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.4959815582951,
+      -34.64067490202196
+    ],
+    "direccion": "",
+    "fondo": "16.10",
+    "frente": "2.98",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "129",
+    "parcela": "035A",
+    "pdamatriz": "92124",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "060",
+    "smp": "060-129-035A",
+    "smp_anterior": "060-129-034",
+    "smp_siguiente": "060-129-035B",
+    "srid": 4326,
+    "superficie_cubierta": "57.00",
+    "superficie_total": "48.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "060-129-035A",
+  "_http_status": 200
+}

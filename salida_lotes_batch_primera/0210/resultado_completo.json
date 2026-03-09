@@ -1,0 +1,360 @@
+{
+  "area_m2": 218.53412914276123,
+  "centroide_lonlat": {
+    "lat": -34.682992,
+    "lon": -58.473949
+  },
+  "centroide_xy": {
+    "x": 99024.10980823493,
+    "y": 94040.04928517534
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/74/082-080-013_0000005774.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION082/082-080-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION082/PI-082-080-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "082-080-019",
+            "082-080-012",
+            "082-080-021",
+            "082-080-020",
+            "082-080-014"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 218.531250000085,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 218.5,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "082-080-013"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DRA. CECILIA GRIERSON",
+    "barrio": "Villa Lugano",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1439",
+    "codigo_postal_argentino": "C1439GAK",
+    "comisaria": "52",
+    "comisaria_vecinal": "8A",
+    "comuna": "Comuna 8",
+    "distrito_economico": "DISTRITO DEL DEPORTE",
+    "distrito_escolar": "Distrito Escolar   XXI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "82"
+  },
+  "debug": {
+    "address": "HUDSON 4615",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.47394886145297,
+        -34.682992372515244
+      ],
+      "direccion": "",
+      "fondo": "24.94",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "080",
+      "parcela": "013",
+      "pdamatriz": "67503",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "082",
+      "smp": "082-080-013",
+      "smp_anterior": "082-080-012",
+      "smp_siguiente": "082-080-014",
+      "srid": 4326,
+      "superficie_cubierta": "137.00",
+      "superficie_total": "216.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4615,
+      "cod_calle": 8026
+    },
+    "usig_direccion_elegida": {
+      "altura": 4615,
+      "cod_calle": 8026,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.473822",
+        "y": "-34.682879"
+      },
+      "direccion": "HUDSON 4615, CABA",
+      "nombre_calle": "HUDSON",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4615,
+          "cod_calle": 8026,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.473822",
+            "y": "-34.682879"
+          },
+          "direccion": "HUDSON 4615, CABA",
+          "nombre_calle": "HUDSON",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 4615,
+          "cod_calle": 49448,
+          "cod_calle_cruce": null,
+          "cod_partido": "quilmes",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3071160316326,
+            "y": -34.7790701479592
+          },
+          "direccion": "Avenida Guillermo Enrique Hudson 4615, Quilmes",
+          "nombre_calle": "Avenida Guillermo Enrique Hudson",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Francisco Solano",
+          "nombre_partido": "Quilmes",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99026.62798416181,
+                  94036.44505145517
+                ],
+                [
+                  99021.72798417156,
+                  94031.26205147257
+                ],
+                [
+                  99018.53798417855,
+                  94027.88705148405
+                ],
+                [
+                  99015.53098418945,
+                  94030.70205147719
+                ],
+                [
+                  99012.25298420007,
+                  94033.77105147133
+                ],
+                [
+                  99015.78098419425,
+                  94037.50605146027
+                ],
+                [
+                  99018.5309841877,
+                  94040.41805144883
+                ],
+                [
+                  99020.14398418434,
+                  94042.12605144232
+                ],
+                [
+                  99020.30798418392,
+                  94042.29905144223
+                ],
+                [
+                  99022.24098418103,
+                  94044.3460514353
+                ],
+                [
+                  99022.40798417962,
+                  94044.52305143446
+                ],
+                [
+                  99025.06598417397,
+                  94047.33705142519
+                ],
+                [
+                  99025.86298417237,
+                  94048.18005142169
+                ],
+                [
+                  99029.65298416495,
+                  94052.19305140803
+                ],
+                [
+                  99032.93198415377,
+                  94049.16305141369
+                ],
+                [
+                  99035.98398414318,
+                  94046.3430514202
+                ],
+                [
+                  99034.59298414622,
+                  94044.87205142505
+                ],
+                [
+                  99033.58698414802,
+                  94043.80705142822
+                ],
+                [
+                  99029.36298415695,
+                  94039.3390514433
+                ],
+                [
+                  99026.62798416181,
+                  94036.44505145517
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "082-080-013",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "HUDSON 4615",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.47394886145297,
+      -34.682992372515244
+    ],
+    "direccion": "",
+    "fondo": "24.94",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "080",
+    "parcela": "013",
+    "pdamatriz": "67503",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "082",
+    "smp": "082-080-013",
+    "smp_anterior": "082-080-012",
+    "smp_siguiente": "082-080-014",
+    "srid": 4326,
+    "superficie_cubierta": "137.00",
+    "superficie_total": "216.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "082-080-013",
+  "_http_status": 200
+}

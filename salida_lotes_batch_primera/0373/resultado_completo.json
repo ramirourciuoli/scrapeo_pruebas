@@ -1,0 +1,370 @@
+{
+  "area_m2": 210.21425437927246,
+  "centroide_lonlat": {
+    "lat": -34.622798,
+    "lon": -58.43616
+  },
+  "centroide_xy": {
+    "x": 102488.96436972891,
+    "y": 100717.55839918646
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.44,
+          "fot_perim_libre": 3.44,
+          "fot_semi_libre": 3.44
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/1/45/040-072-027_0000051145.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION040/040-072-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION040/PI-040-072-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "040-072-031",
+            "040-072-026",
+            "040-072-028",
+            "040-072-032"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2a II",
+          "incidencia_uva": 320.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 210.240750000299,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 210.2,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "040-072-027"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Caballito",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1424",
+    "codigo_postal_argentino": "C1424AFH",
+    "comisaria": "12",
+    "comisaria_vecinal": "6B",
+    "comuna": "Comuna 6",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "40"
+  },
+  "debug": {
+    "address": "RIGLOS 386",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.43616018104381,
+        -34.62279777591839
+      ],
+      "direccion": "",
+      "fondo": "24.37",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "072",
+      "parcela": "027",
+      "pdamatriz": "157195",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "4",
+      "propiedad_horizontal": "Si",
+      "seccion": "040",
+      "smp": "040-072-027",
+      "smp_anterior": "040-072-026",
+      "smp_siguiente": "040-072-028",
+      "srid": 4326,
+      "superficie_cubierta": "553.00",
+      "superficie_total": "211.00",
+      "unidades_funcionales": "7",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 386,
+      "cod_calle": 19034
+    },
+    "usig_direccion_elegida": {
+      "altura": 386,
+      "cod_calle": 19034,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.436319",
+        "y": "-34.622831"
+      },
+      "direccion": "RIGLOS 386, CABA",
+      "nombre_calle": "RIGLOS",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 386,
+          "cod_calle": 19034,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.436319",
+            "y": "-34.622831"
+          },
+          "direccion": "RIGLOS 386, CABA",
+          "nombre_calle": "RIGLOS",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102476.08597951825,
+                  100718.44503011901
+                ],
+                [
+                  102478.01397951355,
+                  100718.97703011576
+                ],
+                [
+                  102484.22797949708,
+                  100720.69303010634
+                ],
+                [
+                  102485.32897949404,
+                  100720.99703010512
+                ],
+                [
+                  102485.90697949228,
+                  100721.15703010344
+                ],
+                [
+                  102487.64997948846,
+                  100721.63803010134
+                ],
+                [
+                  102490.72497947972,
+                  100722.48703009618
+                ],
+                [
+                  102491.88297947746,
+                  100722.80703009464
+                ],
+                [
+                  102495.68997946763,
+                  100723.8580300888
+                ],
+                [
+                  102497.24797946285,
+                  100724.28903008631
+                ],
+                [
+                  102499.17497945798,
+                  100724.82103008396
+                ],
+                [
+                  102500.1389794561,
+                  100725.0870300823
+                ],
+                [
+                  102500.67397945056,
+                  100720.73503009419
+                ],
+                [
+                  102501.05597944761,
+                  100718.00103010135
+                ],
+                [
+                  102501.2029794463,
+                  100716.95403010398
+                ],
+                [
+                  102501.28297944574,
+                  100716.38303010596
+                ],
+                [
+                  102497.99897945429,
+                  100715.50303011009
+                ],
+                [
+                  102496.78297945744,
+                  100715.17703011248
+                ],
+                [
+                  102494.88297946296,
+                  100714.66803011479
+                ],
+                [
+                  102494.05097946472,
+                  100714.44503011677
+                ],
+                [
+                  102492.94797946746,
+                  100714.1500301185
+                ],
+                [
+                  102489.19197947715,
+                  100713.11803012362
+                ],
+                [
+                  102486.6929794838,
+                  100712.43103012748
+                ],
+                [
+                  102478.34897950593,
+                  100710.13803014066
+                ],
+                [
+                  102478.03397950725,
+                  100711.29603013746
+                ],
+                [
+                  102476.40097951598,
+                  100717.28703012134
+                ],
+                [
+                  102476.08597951825,
+                  100718.44503011901
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "040-072-027",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "RIGLOS 386",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.43616018104381,
+      -34.62279777591839
+    ],
+    "direccion": "",
+    "fondo": "24.37",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "072",
+    "parcela": "027",
+    "pdamatriz": "157195",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "4",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "040",
+    "smp": "040-072-027",
+    "smp_anterior": "040-072-026",
+    "smp_siguiente": "040-072-028",
+    "srid": 4326,
+    "superficie_cubierta": "553.00",
+    "superficie_total": "211.00",
+    "unidades_funcionales": "7",
+    "vuc": "0.00"
+  },
+  "smp": "040-072-027",
+  "_http_status": 200
+}

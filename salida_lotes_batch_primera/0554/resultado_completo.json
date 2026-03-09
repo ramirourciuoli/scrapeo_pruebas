@@ -1,0 +1,440 @@
+{
+  "area_m2": 206.74076080322266,
+  "centroide_lonlat": {
+    "lat": -34.596478,
+    "lon": -58.401779
+  },
+  "centroide_xy": {
+    "x": 105643.83869270433,
+    "y": 103636.03725138857
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 38.2,
+        "catalogacion": {
+          "catalogacion": "SINGULAR",
+          "denominacion": null,
+          "estado": "LEY FIRME",
+          "ley_3056": "SI",
+          "proteccion": "CAUTELAR"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 4.0,
+          "fot_perim_libre": 4.0,
+          "fot_semi_libre": 4.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/8/89/011-003-001_0000409889.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION011/011-003-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION011/PI-011-003-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": true,
+          "smp_linderas": [
+            "011-003-002",
+            "011-003-030"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "C3 I",
+          "incidencia_uva": 370.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 206.7,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "011-003-001"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.A.FERNÁNDEZ",
+    "barrio": "Recoleta",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1122",
+    "codigo_postal_argentino": "C1122AAN",
+    "comisaria": "19",
+    "comisaria_vecinal": "2B",
+    "comuna": "Comuna 2",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   I",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "11"
+  },
+  "debug": {
+    "address": "MARCELO T. DE ALVEAR 2406",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.40177866135624,
+        -34.5964775053072
+      ],
+      "direccion": "",
+      "fondo": "48.63",
+      "frente": "4.38",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "003",
+      "parcela": "001",
+      "pdamatriz": "441153",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "011",
+      "smp": "011-003-001",
+      "smp_anterior": "011-003-030",
+      "smp_siguiente": "011-003-002",
+      "srid": 4326,
+      "superficie_cubierta": "586.00",
+      "superficie_total": "213.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2406,
+      "cod_calle": 1062
+    },
+    "usig_direccion_elegida": {
+      "altura": 2406,
+      "cod_calle": 1062,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.401698",
+        "y": "-34.596347"
+      },
+      "direccion": "ALVEAR, MARCELO T. DE 2406, CABA",
+      "nombre_calle": "ALVEAR, MARCELO T. DE",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2406,
+          "cod_calle": 1062,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.401698",
+            "y": "-34.596347"
+          },
+          "direccion": "ALVEAR, MARCELO T. DE 2406, CABA",
+          "nombre_calle": "ALVEAR, MARCELO T. DE",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2406,
+          "cod_calle": 8013,
+          "cod_calle_cruce": null,
+          "cod_partido": "general_san_martin",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.523114544898,
+            "y": -34.5603469102041
+          },
+          "direccion": "35 - Marcelo Torcuato de Alvear 2406, General San Martín",
+          "nombre_calle": "35 - Marcelo Torcuato de Alvear",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Maipú",
+          "nombre_partido": "General San Martín",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2406,
+          "cod_calle": 45399,
+          "cod_calle_cruce": null,
+          "cod_partido": "general_san_martin",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5514366122449,
+            "y": -34.5473918489796
+          },
+          "direccion": "114 - Marcelo Torcuato de Alvear 2406, General San Martín",
+          "nombre_calle": "114 - Marcelo Torcuato de Alvear",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Ballester",
+          "nombre_partido": "General San Martín",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2406,
+          "cod_calle": 63880,
+          "cod_calle_cruce": null,
+          "cod_partido": "general_san_martin",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5497675979592,
+            "y": -34.5811579163266
+          },
+          "direccion": "113 - Marcelo Torcuato de Alvear 2406, General San Martín",
+          "nombre_calle": "113 - Marcelo Torcuato de Alvear",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Lynch",
+          "nombre_partido": "General San Martín",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2406,
+          "cod_calle": 69341,
+          "cod_calle_cruce": null,
+          "cod_partido": "jose_c_paz",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7640459612245,
+            "y": -34.5185794479592
+          },
+          "direccion": "Marcelo T. de Alvear 2406, José C. Paz",
+          "nombre_calle": "Marcelo T. de Alvear",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "José C. Paz",
+          "nombre_partido": "José C. Paz",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2406,
+          "cod_calle": 92360,
+          "cod_calle_cruce": null,
+          "cod_partido": "quilmes",
+          "direccion": "Marcelo T. de Alvear 2406, Quilmes",
+          "nombre_calle": "Marcelo T. de Alvear",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Quilmes",
+          "nombre_partido": "Quilmes",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2406,
+          "cod_calle": 90159,
+          "cod_calle_cruce": null,
+          "cod_partido": "tres_de_febrero",
+          "direccion": "307 - Avenida Marcelo Torcuato de Alvear 2406, Tres de Febrero",
+          "nombre_calle": "307 - Avenida Marcelo Torcuato de Alvear",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "José Ingenieros",
+          "nombre_partido": "Tres de Febrero",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2406,
+          "cod_calle": 90159,
+          "cod_calle_cruce": null,
+          "cod_partido": "tres_de_febrero",
+          "direccion": "307 - Avenida Marcelo Torcuato de Alvear 2406, Tres de Febrero",
+          "nombre_calle": "307 - Avenida Marcelo Torcuato de Alvear",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Raffo",
+          "nombre_partido": "Tres de Febrero",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  105636.60197284287,
+                  103625.34401958741
+                ],
+                [
+                  105637.30697284274,
+                  103627.75601958059
+                ],
+                [
+                  105637.7939728424,
+                  103629.42501957531
+                ],
+                [
+                  105639.94397284227,
+                  103636.78401955322
+                ],
+                [
+                  105640.08097284233,
+                  103637.25501955167
+                ],
+                [
+                  105640.86697284154,
+                  103639.9430195436
+                ],
+                [
+                  105641.15997284198,
+                  103640.94601954104
+                ],
+                [
+                  105641.2969728421,
+                  103641.41701953954
+                ],
+                [
+                  105642.15897284163,
+                  103644.36701952989
+                ],
+                [
+                  105642.55197284167,
+                  103645.71201952652
+                ],
+                [
+                  105644.09397284078,
+                  103650.99101951066
+                ],
+                [
+                  105647.91997282892,
+                  103649.0300195131
+                ],
+                [
+                  105650.27997281848,
+                  103643.52001952607
+                ],
+                [
+                  105647.91097281883,
+                  103635.09201955213
+                ],
+                [
+                  105646.3999728191,
+                  103629.71601956821
+                ],
+                [
+                  105645.21397281854,
+                  103625.49601958119
+                ],
+                [
+                  105644.29697281923,
+                  103622.23401959089
+                ],
+                [
+                  105638.93197283572,
+                  103624.40201958848
+                ],
+                [
+                  105636.60197284287,
+                  103625.34401958741
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "011-003-001",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MARCELO T. DE ALVEAR 2406",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.40177866135624,
+      -34.5964775053072
+    ],
+    "direccion": "",
+    "fondo": "48.63",
+    "frente": "4.38",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "003",
+    "parcela": "001",
+    "pdamatriz": "441153",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "011",
+    "smp": "011-003-001",
+    "smp_anterior": "011-003-030",
+    "smp_siguiente": "011-003-002",
+    "srid": 4326,
+    "superficie_cubierta": "586.00",
+    "superficie_total": "213.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "011-003-001",
+  "_http_status": 200
+}

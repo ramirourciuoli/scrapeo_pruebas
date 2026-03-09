@@ -1,0 +1,353 @@
+{
+  "area_m2": 296.56083393096924,
+  "centroide_lonlat": {
+    "lat": -34.569475,
+    "lon": -58.462494
+  },
+  "centroide_xy": {
+    "x": 100073.94908212851,
+    "y": 106633.29483074269
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 11.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "U",
+            "distrito_especifico": "U 28"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.0,
+          "fot_perim_libre": 1.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/55/039-038-019c_0000447055.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION039/039-038-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION039/PI-039-038-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "039-038-019d",
+            "039-038-001f"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "U28",
+          "incidencia_uva": 380.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 25444.12
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 239.136424605474,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 296.6,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "039-038-019C"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Belgrano",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1428",
+    "codigo_postal_argentino": "C1428ECE",
+    "comisaria": "37",
+    "comisaria_vecinal": "13C",
+    "comuna": "Comuna 13",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   X",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "39"
+  },
+  "debug": {
+    "address": "LA PAMPA 3235",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.46249416924864,
+        -34.56947498060206
+      ],
+      "direccion": "",
+      "fondo": "15.70",
+      "frente": "19.04",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "038",
+      "parcela": "019C",
+      "pdamatriz": "367362",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "2",
+      "propiedad_horizontal": "Si",
+      "seccion": "039",
+      "smp": "039-038-019C",
+      "smp_anterior": "039-038-003A",
+      "smp_siguiente": "039-038-019D",
+      "srid": 4326,
+      "superficie_cubierta": "563.00",
+      "superficie_total": "299.00",
+      "unidades_funcionales": "6",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3235,
+      "cod_calle": 12168
+    },
+    "usig_direccion_elegida": {
+      "altura": 3235,
+      "cod_calle": 12168,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.462421",
+        "y": "-34.569560"
+      },
+      "direccion": "LA PAMPA 3235, CABA",
+      "nombre_calle": "LA PAMPA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3235,
+          "cod_calle": 12168,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.462421",
+            "y": "-34.569560"
+          },
+          "direccion": "LA PAMPA 3235, CABA",
+          "nombre_calle": "LA PAMPA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3235,
+          "cod_calle": 120326,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.336707391382,
+            "y": -34.7885978303015
+          },
+          "direccion": "La Pampa 3235, Almirante Brown",
+          "nombre_calle": "La Pampa",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Rafael Calzada",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  100077.30399070578,
+                  106645.1350153035
+                ],
+                [
+                  100078.60799070122,
+                  106643.2840153079
+                ],
+                [
+                  100079.4059906985,
+                  106642.15201531028
+                ],
+                [
+                  100080.6969906928,
+                  106640.3190153148
+                ],
+                [
+                  100081.94899068831,
+                  106638.54101531889
+                ],
+                [
+                  100082.2279906873,
+                  106638.14601531925
+                ],
+                [
+                  100086.25199067191,
+                  106632.43301533279
+                ],
+                [
+                  100079.69099068623,
+                  106627.85501535083
+                ],
+                [
+                  100077.23099069184,
+                  106626.13901535748
+                ],
+                [
+                  100070.55499070707,
+                  106621.48101537477
+                ],
+                [
+                  100068.35499071635,
+                  106624.60301536813
+                ],
+                [
+                  100067.12909072019,
+                  106626.34201536421
+                ],
+                [
+                  100066.26899072426,
+                  106627.56201536121
+                ],
+                [
+                  100063.62799073376,
+                  106631.3090153531
+                ],
+                [
+                  100063.20639073539,
+                  106631.90761535097
+                ],
+                [
+                  100061.65599074223,
+                  106634.1080153464
+                ],
+                [
+                  100066.0559907317,
+                  106637.2090153342
+                ],
+                [
+                  100072.80899071682,
+                  106641.96801531632
+                ],
+                [
+                  100077.30399070578,
+                  106645.1350153035
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "039-038-019C",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "LA PAMPA 3235",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.46249416924864,
+      -34.56947498060206
+    ],
+    "direccion": "",
+    "fondo": "15.70",
+    "frente": "19.04",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "038",
+    "parcela": "019C",
+    "pdamatriz": "367362",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "2",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "039",
+    "smp": "039-038-019C",
+    "smp_anterior": "039-038-003A",
+    "smp_siguiente": "039-038-019D",
+    "srid": 4326,
+    "superficie_cubierta": "563.00",
+    "superficie_total": "299.00",
+    "unidades_funcionales": "6",
+    "vuc": "0.00"
+  },
+  "smp": "039-038-019C",
+  "_http_status": 200
+}

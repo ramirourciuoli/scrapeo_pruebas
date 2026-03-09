@@ -1,0 +1,377 @@
+{
+  "area_m2": 166.8843116760254,
+  "centroide_lonlat": {
+    "lat": -34.578003,
+    "lon": -58.411946
+  },
+  "centroide_xy": {
+    "x": 104712.15061453715,
+    "y": 105686.03685132535
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 4.14,
+          "fot_perim_libre": 4.14,
+          "fot_semi_libre": 4.14
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/8/30/021-074-029_0000260830.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION021/021-074-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION021/PI-021-074-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "021-074-028",
+            "021-074-030"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2a I",
+          "incidencia_uva": 800.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 166.852800000027,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 166.9,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "021-074-029"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.A.FERNÁNDEZ",
+    "barrio": "Palermo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1425",
+    "codigo_postal_argentino": "C1425ACH",
+    "comisaria": "53",
+    "comisaria_vecinal": "14C",
+    "comuna": "Comuna 14",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   IX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "21"
+  },
+  "debug": {
+    "address": "JUAN FRANCISCO SEGUI 3806",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.41194600434257,
+        -34.578003014397495
+      ],
+      "direccion": "",
+      "fondo": "15.16",
+      "frente": "11.02",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "074",
+      "parcela": "029",
+      "pdamatriz": "430284",
+      "pisos_bajo_rasante": "1",
+      "pisos_sobre_rasante": "9",
+      "propiedad_horizontal": "Si",
+      "seccion": "021",
+      "smp": "021-074-029",
+      "smp_anterior": "021-074-028",
+      "smp_siguiente": "021-074-030",
+      "srid": 4326,
+      "superficie_cubierta": "2009.00",
+      "superficie_total": "167.00",
+      "unidades_funcionales": "8",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3806,
+      "cod_calle": 20086
+    },
+    "usig_direccion_elegida": {
+      "altura": 3806,
+      "cod_calle": 20086,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.411907",
+        "y": "-34.577928"
+      },
+      "direccion": "SEGUI, JUAN FRANCISCO 3806, CABA",
+      "nombre_calle": "SEGUI, JUAN FRANCISCO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3806,
+          "cod_calle": 20086,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.411907",
+            "y": "-34.577928"
+          },
+          "direccion": "SEGUI, JUAN FRANCISCO 3806, CABA",
+          "nombre_calle": "SEGUI, JUAN FRANCISCO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3806,
+          "cod_calle": 50155,
+          "cod_calle_cruce": null,
+          "cod_partido": "malvinas_argentinas",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.757127339899,
+            "y": -34.4715592242424
+          },
+          "direccion": "Diagonal Juan Francisco Seguí 3806, Malvinas Argentinas",
+          "nombre_calle": "Diagonal Juan Francisco Seguí",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Tortuguitas",
+          "nombre_partido": "Malvinas Argentinas",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  104707.07597700533,
+                  105692.42501449047
+                ],
+                [
+                  104707.22897700555,
+                  105692.7360144906
+                ],
+                [
+                  104708.1379770048,
+                  105694.57801448405
+                ],
+                [
+                  104709.22297700107,
+                  105694.06501448512
+                ],
+                [
+                  104713.33597698814,
+                  105692.1180144861
+                ],
+                [
+                  104715.32497698165,
+                  105691.17701448739
+                ],
+                [
+                  104718.50497697185,
+                  105689.67201449003
+                ],
+                [
+                  104719.84797696368,
+                  105683.82501450417
+                ],
+                [
+                  104719.07797696415,
+                  105682.4230145108
+                ],
+                [
+                  104717.10297696738,
+                  105678.82901452194
+                ],
+                [
+                  104716.23697696792,
+                  105677.25201452649
+                ],
+                [
+                  104714.78097697368,
+                  105678.09201452436
+                ],
+                [
+                  104714.64997697365,
+                  105678.16801452343
+                ],
+                [
+                  104713.30397697774,
+                  105678.94501452177
+                ],
+                [
+                  104713.00097697879,
+                  105679.12001452278
+                ],
+                [
+                  104711.87597698228,
+                  105679.7690145227
+                ],
+                [
+                  104709.00597699206,
+                  105681.42501451954
+                ],
+                [
+                  104708.13997699403,
+                  105681.92501451814
+                ],
+                [
+                  104707.02697699847,
+                  105682.56701451718
+                ],
+                [
+                  104703.27897701079,
+                  105684.73001451569
+                ],
+                [
+                  104704.30397700866,
+                  105686.80701450832
+                ],
+                [
+                  104705.65697700754,
+                  105689.54901450037
+                ],
+                [
+                  104706.38197700655,
+                  105691.01901449636
+                ],
+                [
+                  104706.58897700574,
+                  105691.43901449387
+                ],
+                [
+                  104707.07597700533,
+                  105692.42501449047
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "021-074-029",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "JUAN FRANCISCO SEGUI 3806",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.41194600434257,
+      -34.578003014397495
+    ],
+    "direccion": "",
+    "fondo": "15.16",
+    "frente": "11.02",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "074",
+    "parcela": "029",
+    "pdamatriz": "430284",
+    "pisos_bajo_rasante": "1",
+    "pisos_sobre_rasante": "9",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "021",
+    "smp": "021-074-029",
+    "smp_anterior": "021-074-028",
+    "smp_siguiente": "021-074-030",
+    "srid": 4326,
+    "superficie_cubierta": "2009.00",
+    "superficie_total": "167.00",
+    "unidades_funcionales": "8",
+    "vuc": "0.00"
+  },
+  "smp": "021-074-029",
+  "_http_status": 200
+}

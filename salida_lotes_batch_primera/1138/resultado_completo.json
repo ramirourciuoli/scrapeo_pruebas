@@ -1,0 +1,309 @@
+{
+  "area_m2": 274.71692657470703,
+  "centroide_lonlat": {
+    "lat": -34.589601,
+    "lon": -58.470997
+  },
+  "centroide_xy": {
+    "x": 99293.86714703201,
+    "y": 104400.60580267973
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 2.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/9/11/061-021-023_0000136911.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION061/061-021-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION061/PI-061-021-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "061-021-004d",
+            "061-021-021a",
+            "061-021-024"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "E2",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 760.34,
+          "plusvalia_sl": 760.34
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 237.607011433438,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 274.7,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "061-021-023"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. E. TORNÚ",
+    "barrio": "Paternal",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1427",
+    "codigo_postal_argentino": "C1427AXH",
+    "comisaria": "39",
+    "comisaria_vecinal": "15A",
+    "comuna": "Comuna 15",
+    "distrito_economico": "DISTRITO AUDIOVISUAL",
+    "distrito_escolar": "Distrito Escolar   XIV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "61"
+  },
+  "debug": {
+    "address": "AVALOS 748",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.4709966526746,
+        -34.58960076993496
+      ],
+      "direccion": "",
+      "fondo": "32.30",
+      "frente": "8.70",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "021",
+      "parcela": "023",
+      "pdamatriz": "242136",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "061",
+      "smp": "061-021-023",
+      "smp_anterior": "061-021-021A",
+      "smp_siguiente": "061-021-024",
+      "srid": 4326,
+      "superficie_cubierta": "311.00",
+      "superficie_total": "281.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 748,
+      "cod_calle": 1139
+    },
+    "usig_direccion_elegida": {
+      "altura": 748,
+      "cod_calle": 1139,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.470834",
+        "y": "-34.589416"
+      },
+      "direccion": "AVALOS 748, CABA",
+      "nombre_calle": "AVALOS",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 748,
+          "cod_calle": 1139,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.470834",
+            "y": "-34.589416"
+          },
+          "direccion": "AVALOS 748, CABA",
+          "nombre_calle": "AVALOS",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99302.0669912022,
+                  104415.95302213842
+                ],
+                [
+                  99304.92699119182,
+                  104412.35702214646
+                ],
+                [
+                  99307.37699118283,
+                  104409.2770221532
+                ],
+                [
+                  99302.06799119285,
+                  104403.34202217424
+                ],
+                [
+                  99301.3759911944,
+                  104402.56902217685
+                ],
+                [
+                  99288.7809912194,
+                  104388.48902222575
+                ],
+                [
+                  99286.31299122388,
+                  104385.73102223495
+                ],
+                [
+                  99283.97099123191,
+                  104387.88802223129
+                ],
+                [
+                  99282.63899123712,
+                  104389.1150222288
+                ],
+                [
+                  99279.96999124577,
+                  104391.57402222371
+                ],
+                [
+                  99282.53799124065,
+                  104394.40802221361
+                ],
+                [
+                  99302.0669912022,
+                  104415.95302213842
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "061-021-023",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AVALOS 748",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.4709966526746,
+      -34.58960076993496
+    ],
+    "direccion": "",
+    "fondo": "32.30",
+    "frente": "8.70",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "021",
+    "parcela": "023",
+    "pdamatriz": "242136",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "061",
+    "smp": "061-021-023",
+    "smp_anterior": "061-021-021A",
+    "smp_siguiente": "061-021-024",
+    "srid": 4326,
+    "superficie_cubierta": "311.00",
+    "superficie_total": "281.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "061-021-023",
+  "_http_status": 200
+}

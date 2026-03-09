@@ -1,0 +1,398 @@
+{
+  "area_m2": 172.80261707305908,
+  "centroide_lonlat": {
+    "lat": -34.634662,
+    "lon": -58.450496
+  },
+  "centroide_xy": {
+    "x": 101174.04716879365,
+    "y": 99401.59368603285
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/51/042-013-013_0000056551.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION042/042-013-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION042/PI-042-013-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "042-013-012",
+            "042-013-014",
+            "042-013-011"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 140.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 172.813849999982,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 172.8,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "042-013-013"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. P. PIÑERO",
+    "barrio": "Parque Chacabuco",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1406",
+    "codigo_postal_argentino": "C1406DEE",
+    "comisaria": "38",
+    "comisaria_vecinal": "7B",
+    "comuna": "Comuna 7",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "42"
+  },
+  "debug": {
+    "address": "DAVILA 885",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.45049630189815,
+        -34.634662473585685
+      ],
+      "direccion": "",
+      "fondo": "18.99",
+      "frente": "9.16",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "013",
+      "parcela": "013",
+      "pdamatriz": "140322",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "042",
+      "smp": "042-013-013",
+      "smp_anterior": "042-013-012",
+      "smp_siguiente": "042-013-014",
+      "srid": 4326,
+      "superficie_cubierta": "194.00",
+      "superficie_total": "174.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 885,
+      "cod_calle": 4012
+    },
+    "usig_direccion_elegida": {
+      "altura": 885,
+      "cod_calle": 4012,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.450375",
+        "y": "-34.634623"
+      },
+      "direccion": "DAVILA 885, CABA",
+      "nombre_calle": "DAVILA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 885,
+          "cod_calle": 4012,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.450375",
+            "y": "-34.634623"
+          },
+          "direccion": "DAVILA 885, CABA",
+          "nombre_calle": "DAVILA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 885,
+          "cod_calle": 165918,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "direccion": "Davila 885, La Matanza",
+          "nombre_calle": "Davila",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Rafael Castillo",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 885,
+          "cod_calle": 28056,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4181752336735,
+            "y": -34.8075621846939
+          },
+          "direccion": "Luis Dávila 885, Lomas de Zamora",
+          "nombre_calle": "Luis Dávila",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Llavallol",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  101181.35998216392,
+                  99409.25403476451
+                ],
+                [
+                  101182.50598215827,
+                  99406.40603477231
+                ],
+                [
+                  101182.86798215628,
+                  99405.50703477432
+                ],
+                [
+                  101184.66098214845,
+                  99401.05403478484
+                ],
+                [
+                  101183.36398215145,
+                  99400.5250347881
+                ],
+                [
+                  101179.88098216015,
+                  99399.10303479445
+                ],
+                [
+                  101178.56098216315,
+                  99398.56503479727
+                ],
+                [
+                  101176.3279821687,
+                  99397.65403480115
+                ],
+                [
+                  101174.33598217403,
+                  99396.84103480485
+                ],
+                [
+                  101173.74598217568,
+                  99396.60003480568
+                ],
+                [
+                  101171.87398217992,
+                  99395.83603480968
+                ],
+                [
+                  101170.78698218233,
+                  99395.39203481161
+                ],
+                [
+                  101168.21698218938,
+                  99394.34403481608
+                ],
+                [
+                  101166.92098219253,
+                  99393.81503481933
+                ],
+                [
+                  101166.47198219463,
+                  99394.92803481646
+                ],
+                [
+                  101165.1539822008,
+                  99398.19303480792
+                ],
+                [
+                  101164.94798220153,
+                  99398.70203480631
+                ],
+                [
+                  101164.59198220352,
+                  99399.58403480431
+                ],
+                [
+                  101163.6499822081,
+                  99401.91703479909
+                ],
+                [
+                  101163.47898220876,
+                  99402.3410347976
+                ],
+                [
+                  101166.79598220027,
+                  99403.6230347912
+                ],
+                [
+                  101167.31398219912,
+                  99403.82403479057
+                ],
+                [
+                  101169.3859821936,
+                  99404.62503478682
+                ],
+                [
+                  101169.82998219263,
+                  99404.79603478606
+                ],
+                [
+                  101174.55098218068,
+                  99406.62203477768
+                ],
+                [
+                  101178.37598217124,
+                  99408.10003476989
+                ],
+                [
+                  101181.35998216392,
+                  99409.25403476451
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "042-013-013",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "DAVILA 885",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.45049630189815,
+      -34.634662473585685
+    ],
+    "direccion": "",
+    "fondo": "18.99",
+    "frente": "9.16",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "013",
+    "parcela": "013",
+    "pdamatriz": "140322",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "042",
+    "smp": "042-013-013",
+    "smp_anterior": "042-013-012",
+    "smp_siguiente": "042-013-014",
+    "srid": 4326,
+    "superficie_cubierta": "194.00",
+    "superficie_total": "174.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "042-013-013",
+  "_http_status": 200
+}

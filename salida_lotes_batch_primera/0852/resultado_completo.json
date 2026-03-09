@@ -1,0 +1,332 @@
+{
+  "area_m2": 109.24622440338135,
+  "centroide_lonlat": {
+    "lat": -34.614104,
+    "lon": -58.435915
+  },
+  "centroide_xy": {
+    "x": 102511.72230837596,
+    "y": 101681.9819179603
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.44,
+          "fot_perim_libre": 3.44,
+          "fot_semi_libre": 3.44
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/52/045-094-001_0000122052.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION045/045-094-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION045/PI-045-094-V3.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "045-094-041a",
+            "045-094-002"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2a II",
+          "incidencia_uva": 190.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 109.2,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "045-094-001"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Caballito",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1405",
+    "codigo_postal_argentino": "C1405BLB",
+    "comisaria": "11",
+    "comisaria_vecinal": "6A",
+    "comuna": "Comuna 6",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "45"
+  },
+  "debug": {
+    "address": "DR. ELEODORO LOBOS 294",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.435914884318755,
+        -34.614104219066704
+      ],
+      "direccion": "",
+      "fondo": "31.14",
+      "frente": "3.50",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "094",
+      "parcela": "001",
+      "pdamatriz": "175012",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "045",
+      "smp": "045-094-001",
+      "smp_anterior": "045-094-041A",
+      "smp_siguiente": "045-094-002",
+      "srid": 4326,
+      "superficie_cubierta": "259.00",
+      "superficie_total": "109.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 294,
+      "cod_calle": 12122
+    },
+    "usig_direccion_elegida": {
+      "altura": 294,
+      "cod_calle": 12122,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.435842",
+        "y": "-34.614084"
+      },
+      "direccion": "LOBOS, ELEODORO, DR. 294, CABA",
+      "nombre_calle": "LOBOS, ELEODORO, DR.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 294,
+          "cod_calle": 12122,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.435842",
+            "y": "-34.614084"
+          },
+          "direccion": "LOBOS, ELEODORO, DR. 294, CABA",
+          "nombre_calle": "LOBOS, ELEODORO, DR.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102510.6479801418,
+                  101675.73802740799
+                ],
+                [
+                  102510.51198014244,
+                  101676.03402740744
+                ],
+                [
+                  102510.21898014324,
+                  101676.67102740592
+                ],
+                [
+                  102510.15298014387,
+                  101676.81502740594
+                ],
+                [
+                  102508.94798014917,
+                  101679.43302739921
+                ],
+                [
+                  102507.33698015675,
+                  101682.93302739068
+                ],
+                [
+                  102507.21298015745,
+                  101683.20302738954
+                ],
+                [
+                  102506.58298015944,
+                  101684.57002738671
+                ],
+                [
+                  102506.10298016206,
+                  101685.61402738388
+                ],
+                [
+                  102505.03698016622,
+                  101687.93002737791
+                ],
+                [
+                  102508.429980158,
+                  101689.46402737105
+                ],
+                [
+                  102514.00798014132,
+                  101687.18802737354
+                ],
+                [
+                  102516.95698012732,
+                  101679.50202739317
+                ],
+                [
+                  102518.10598012111,
+                  101676.50702740054
+                ],
+                [
+                  102514.32298013079,
+                  101675.02902740747
+                ],
+                [
+                  102513.92098013201,
+                  101674.8720274085
+                ],
+                [
+                  102511.4849801384,
+                  101673.92102741267
+                ],
+                [
+                  102510.6479801418,
+                  101675.73802740799
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "045-094-001",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "DR. ELEODORO LOBOS 294",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.435914884318755,
+      -34.614104219066704
+    ],
+    "direccion": "",
+    "fondo": "31.14",
+    "frente": "3.50",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "094",
+    "parcela": "001",
+    "pdamatriz": "175012",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "045",
+    "smp": "045-094-001",
+    "smp_anterior": "045-094-041A",
+    "smp_siguiente": "045-094-002",
+    "srid": 4326,
+    "superficie_cubierta": "259.00",
+    "superficie_total": "109.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "045-094-001",
+  "_http_status": 200
+}

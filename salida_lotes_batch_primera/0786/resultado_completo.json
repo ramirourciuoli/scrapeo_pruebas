@@ -1,0 +1,386 @@
+{
+  "area_m2": 484.380558013916,
+  "centroide_lonlat": {
+    "lat": -34.578323,
+    "lon": -58.474589
+  },
+  "centroide_xy": {
+    "x": 98964.18060070825,
+    "y": 105651.66909374578
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/9/41/049-052-022_0000091941.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION049/049-052-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION049/PI-049-052-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "049-052-021",
+            "049-052-044",
+            "049-052-023",
+            "049-052-045"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 260.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 332.060588207394,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 484.4,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "049-052-022"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. E. TORNÚ",
+    "barrio": "Villa Ortuzar",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1431",
+    "codigo_postal_argentino": "C1431CTC",
+    "comisaria": "39",
+    "comisaria_vecinal": "15C",
+    "comuna": "Comuna 15",
+    "distrito_economico": "DISTRITO AUDIOVISUAL",
+    "distrito_escolar": "Distrito Escolar   XV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "49"
+  },
+  "debug": {
+    "address": "BALLIVIAN 2243",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.47458861751457,
+        -34.5783230938522
+      ],
+      "direccion": "",
+      "fondo": "56.17",
+      "frente": "8.67",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "052",
+      "parcela": "022",
+      "pdamatriz": "241350",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "049",
+      "smp": "049-052-022",
+      "smp_anterior": "049-052-021",
+      "smp_siguiente": "049-052-023",
+      "srid": 4326,
+      "superficie_cubierta": "253.00",
+      "superficie_total": "487.00",
+      "unidades_funcionales": "2",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2243,
+      "cod_calle": 2018
+    },
+    "usig_direccion_elegida": {
+      "altura": 2243,
+      "cod_calle": 2018,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.474570",
+        "y": "-34.578614"
+      },
+      "direccion": "BALLIVIAN 2243, CABA",
+      "nombre_calle": "BALLIVIAN",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2243,
+          "cod_calle": 2018,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.474570",
+            "y": "-34.578614"
+          },
+          "direccion": "BALLIVIAN 2243, CABA",
+          "nombre_calle": "BALLIVIAN",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98960.18599308669,
+                  105645.88701894687
+                ],
+                [
+                  98960.09399308797,
+                  105647.49701894281
+                ],
+                [
+                  98959.83899309218,
+                  105651.95101893044
+                ],
+                [
+                  98959.63799309594,
+                  105655.46201892069
+                ],
+                [
+                  98959.35499310064,
+                  105660.41501890676
+                ],
+                [
+                  98958.92499310686,
+                  105667.932018886
+                ],
+                [
+                  98958.66699311156,
+                  105672.44101887316
+                ],
+                [
+                  98958.43699311477,
+                  105676.45701886283
+                ],
+                [
+                  98958.2049931186,
+                  105680.5090188508
+                ],
+                [
+                  98966.16799309434,
+                  105678.51301885111
+                ],
+                [
+                  98967.0899930918,
+                  105678.28201885044
+                ],
+                [
+                  98967.3439930874,
+                  105673.73401886344
+                ],
+                [
+                  98967.62299308294,
+                  105668.74501887726
+                ],
+                [
+                  98967.91299307828,
+                  105663.55601889134
+                ],
+                [
+                  98968.09399307522,
+                  105660.30901890079
+                ],
+                [
+                  98968.56499306837,
+                  105651.87601892385
+                ],
+                [
+                  98968.7729930646,
+                  105648.159018934
+                ],
+                [
+                  98968.87199306337,
+                  105646.38201893913
+                ],
+                [
+                  98969.14999305877,
+                  105641.40401895274
+                ],
+                [
+                  98969.38799305478,
+                  105637.14701896432
+                ],
+                [
+                  98969.44599305409,
+                  105636.11201896702
+                ],
+                [
+                  98969.6729930503,
+                  105632.04301897809
+                ],
+                [
+                  98970.11799304244,
+                  105624.08101900073
+                ],
+                [
+                  98968.5589930473,
+                  105624.00001900183
+                ],
+                [
+                  98961.4589930664,
+                  105623.63301900864
+                ],
+                [
+                  98961.16499307133,
+                  105628.76601899392
+                ],
+                [
+                  98961.13999307138,
+                  105629.20601899314
+                ],
+                [
+                  98961.03099307387,
+                  105631.11801898738
+                ],
+                [
+                  98960.55699308103,
+                  105639.39901896496
+                ],
+                [
+                  98960.41999308312,
+                  105641.7870189577
+                ],
+                [
+                  98960.18599308669,
+                  105645.88701894687
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "049-052-022",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "BALLIVIAN 2243",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.47458861751457,
+      -34.5783230938522
+    ],
+    "direccion": "",
+    "fondo": "56.17",
+    "frente": "8.67",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "052",
+    "parcela": "022",
+    "pdamatriz": "241350",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "049",
+    "smp": "049-052-022",
+    "smp_anterior": "049-052-021",
+    "smp_siguiente": "049-052-023",
+    "srid": 4326,
+    "superficie_cubierta": "253.00",
+    "superficie_total": "487.00",
+    "unidades_funcionales": "2",
+    "vuc": "0.00"
+  },
+  "smp": "049-052-022",
+  "_http_status": 200
+}

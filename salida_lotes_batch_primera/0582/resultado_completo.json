@@ -1,0 +1,404 @@
+{
+  "area_m2": 255.0161600112915,
+  "centroide_lonlat": {
+    "lat": -34.577102,
+    "lon": -58.447156
+  },
+  "centroide_xy": {
+    "x": 101481.33564369296,
+    "y": 105787.09769279665
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "U",
+            "distrito_especifico": "U 20"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.5,
+          "fot_perim_libre": 1.5,
+          "fot_semi_libre": 1.5
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/51/035-027-024_0000324051.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION035/035-027-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION035/PI-035-027-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "035-027-025",
+            "035-027-009",
+            "035-027-010",
+            "035-027-011",
+            "035-027-023"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "U20",
+          "incidencia_uva": 290.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "Zona 2A",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 255.0,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "035-027-024"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Colegiales",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1426",
+    "codigo_postal_argentino": "C1426CVE",
+    "comisaria": "31",
+    "comisaria_vecinal": "13C",
+    "comuna": "Comuna 13",
+    "distrito_economico": "DISTRITO AUDIOVISUAL",
+    "distrito_escolar": "Distrito Escolar   IX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "35"
+  },
+  "debug": {
+    "address": "MAURE 3031",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.44715626989923,
+        -34.577101760921394
+      ],
+      "direccion": "",
+      "fondo": "29.18",
+      "frente": "8.60",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "027",
+      "parcela": "024",
+      "pdamatriz": "406039",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "035",
+      "smp": "035-027-024",
+      "smp_anterior": "035-027-023",
+      "smp_siguiente": "035-027-025",
+      "srid": 4326,
+      "superficie_cubierta": "298.00",
+      "superficie_total": "251.00",
+      "unidades_funcionales": "3",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3031,
+      "cod_calle": 13054
+    },
+    "usig_direccion_elegida": {
+      "altura": 3031,
+      "cod_calle": 13054,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.446982",
+        "y": "-34.577172"
+      },
+      "direccion": "MAURE 3031, CABA",
+      "nombre_calle": "MAURE",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3031,
+          "cod_calle": 13054,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.446982",
+            "y": "-34.577172"
+          },
+          "direccion": "MAURE 3031, CABA",
+          "nombre_calle": "MAURE",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3031,
+          "cod_calle": 122186,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7602083916667,
+            "y": -34.69664065625
+          },
+          "direccion": "J. Maure 3031, Merlo",
+          "nombre_calle": "J. Maure",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Parque San Martín",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  101473.5519861515,
+                  105795.82901663441
+                ],
+                [
+                  101476.15198614288,
+                  105794.5510166361
+                ],
+                [
+                  101477.49798613854,
+                  105793.89001663664
+                ],
+                [
+                  101478.3209861367,
+                  105793.48501663786
+                ],
+                [
+                  101481.26398612733,
+                  105792.03901663917
+                ],
+                [
+                  101484.71598611596,
+                  105790.34201664163
+                ],
+                [
+                  101487.0239861088,
+                  105789.20801664251
+                ],
+                [
+                  101488.19998610506,
+                  105788.63001664355
+                ],
+                [
+                  101494.22698608568,
+                  105785.66801664702
+                ],
+                [
+                  101496.2929860788,
+                  105784.65301664869
+                ],
+                [
+                  101496.22798607936,
+                  105784.51901664943
+                ],
+                [
+                  101494.31598608135,
+                  105780.59801666182
+                ],
+                [
+                  101492.45898608383,
+                  105776.78801667338
+                ],
+                [
+                  101489.55098609324,
+                  105778.20401667184
+                ],
+                [
+                  101488.20298609724,
+                  105778.86101667062
+                ],
+                [
+                  101485.18498610669,
+                  105780.33101666943
+                ],
+                [
+                  101483.94598611147,
+                  105780.93401666879
+                ],
+                [
+                  101481.19698611944,
+                  105782.27301666679
+                ],
+                [
+                  101481.08198612051,
+                  105782.3290166666
+                ],
+                [
+                  101478.237986129,
+                  105783.71401666466
+                ],
+                [
+                  101476.0009861364,
+                  105784.80401666308
+                ],
+                [
+                  101473.63298614408,
+                  105785.95701666252
+                ],
+                [
+                  101472.97698614575,
+                  105786.27601666134
+                ],
+                [
+                  101469.49198615644,
+                  105787.97401666001
+                ],
+                [
+                  101466.36798616656,
+                  105789.49501665775
+                ],
+                [
+                  101467.54698616546,
+                  105791.85201665008
+                ],
+                [
+                  101470.32798616134,
+                  105797.4130166322
+                ],
+                [
+                  101471.56598615734,
+                  105796.80401663281
+                ],
+                [
+                  101472.92398615302,
+                  105796.13701663425
+                ],
+                [
+                  101473.31298615222,
+                  105795.94601663484
+                ],
+                [
+                  101473.5519861515,
+                  105795.82901663441
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "035-027-024",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MAURE 3031",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.44715626989923,
+      -34.577101760921394
+    ],
+    "direccion": "",
+    "fondo": "29.18",
+    "frente": "8.60",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "027",
+    "parcela": "024",
+    "pdamatriz": "406039",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "035",
+    "smp": "035-027-024",
+    "smp_anterior": "035-027-023",
+    "smp_siguiente": "035-027-025",
+    "srid": 4326,
+    "superficie_cubierta": "298.00",
+    "superficie_total": "251.00",
+    "unidades_funcionales": "3",
+    "vuc": "0.00"
+  },
+  "smp": "035-027-024",
+  "_http_status": 200
+}

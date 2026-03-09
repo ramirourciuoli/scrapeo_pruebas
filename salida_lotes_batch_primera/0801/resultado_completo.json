@@ -1,0 +1,320 @@
+{
+  "area_m2": 219.4915008544922,
+  "centroide_lonlat": {
+    "lat": -34.58157,
+    "lon": -58.441343
+  },
+  "centroide_xy": {
+    "x": 102014.6171194485,
+    "y": 105291.36573470902
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 0.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "U",
+            "distrito_especifico": "U 20"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.5,
+          "fot_perim_libre": 3.8,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/fp/SECCION035/FP-035-021C-028-VD.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION035/035-021C-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION035/PI-035-021C-V6.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "035-021C-029a",
+            "035-021C-027"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "U20",
+          "incidencia_uva": 660.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0.0
+        },
+        "rivolta": 0,
+        "subzona": "Zona 5",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 219.5,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "035-021C-028"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.A.FERNÁNDEZ",
+    "barrio": "Palermo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1414",
+    "codigo_postal_argentino": "C1414BKM",
+    "comisaria": "31",
+    "comisaria_vecinal": "14B",
+    "comuna": "Comuna 14",
+    "distrito_economico": "DISTRITO AUDIOVISUAL",
+    "distrito_escolar": "Distrito Escolar   IX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "35"
+  },
+  "debug": {
+    "address": "GORRITI 6005",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.44134334616823,
+        -34.58156950867439
+      ],
+      "direccion": "",
+      "fondo": "36.23",
+      "frente": "5.85",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "021C",
+      "parcela": "028",
+      "pdamatriz": "404729",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "9",
+      "propiedad_horizontal": "Si",
+      "seccion": "035",
+      "smp": "035-021C-028",
+      "smp_anterior": "035-021C-027",
+      "smp_siguiente": "035-021C-029A",
+      "srid": 4326,
+      "superficie_cubierta": "2151.00",
+      "superficie_total": "212.00",
+      "unidades_funcionales": "31",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 6005,
+      "cod_calle": 7072
+    },
+    "usig_direccion_elegida": {
+      "altura": 6005,
+      "cod_calle": 7072,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.441490",
+        "y": "-34.581639"
+      },
+      "direccion": "GORRITI 6005, CABA",
+      "nombre_calle": "GORRITI",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 6005,
+          "cod_calle": 7072,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.441490",
+            "y": "-34.581639"
+          },
+          "direccion": "GORRITI 6005, CABA",
+          "nombre_calle": "GORRITI",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102021.71086103025,
+                  105294.34593725222
+                ],
+                [
+                  102021.46498423335,
+                  105290.44001764074
+                ],
+                [
+                  102018.31529987283,
+                  105287.04614655572
+                ],
+                [
+                  102014.10298424921,
+                  105282.50601766811
+                ],
+                [
+                  102011.26292865879,
+                  105279.44494162736
+                ],
+                [
+                  102008.12798426615,
+                  105282.27601767288
+                ],
+                [
+                  102003.76398428318,
+                  105286.21701766568
+                ],
+                [
+                  102005.62007514645,
+                  105288.26793912097
+                ],
+                [
+                  102009.19642044997,
+                  105292.22178162975
+                ],
+                [
+                  102013.25656286032,
+                  105296.70819456494
+                ],
+                [
+                  102017.04845998585,
+                  105300.89844462482
+                ],
+                [
+                  102019.24781868322,
+                  105303.32975730966
+                ],
+                [
+                  102019.3305576581,
+                  105303.42118158823
+                ],
+                [
+                  102022.50198424609,
+                  105306.92701759344
+                ],
+                [
+                  102021.71086103025,
+                  105294.34593725222
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "035-021C-028",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "GORRITI 6005",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.44134334616823,
+      -34.58156950867439
+    ],
+    "direccion": "",
+    "fondo": "36.23",
+    "frente": "5.85",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "021C",
+    "parcela": "028",
+    "pdamatriz": "404729",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "9",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "035",
+    "smp": "035-021C-028",
+    "smp_anterior": "035-021C-027",
+    "smp_siguiente": "035-021C-029A",
+    "srid": 4326,
+    "superficie_cubierta": "2151.00",
+    "superficie_total": "212.00",
+    "unidades_funcionales": "31",
+    "vuc": "0.00"
+  },
+  "smp": "035-021C-028",
+  "_http_status": 200
+}

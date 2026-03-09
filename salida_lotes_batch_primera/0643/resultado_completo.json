@@ -1,0 +1,410 @@
+{
+  "area_m2": 238.84656715393066,
+  "centroide_lonlat": {
+    "lat": -34.61643,
+    "lon": -58.453173
+  },
+  "centroide_xy": {
+    "x": 100928.78940642306,
+    "y": 101424.24594115208
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/2/28/057-070-039_0000131228.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION057/057-070-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION057/PI-057-070-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "057-070-040",
+            "057-070-038",
+            "057-070-004"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 220.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 238.777949999989,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 238.8,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "057-070-039"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. T. ÁLVAREZ",
+    "barrio": "Caballito",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1405",
+    "codigo_postal_argentino": "C1405AQF",
+    "comisaria": "13",
+    "comisaria_vecinal": "6A",
+    "comuna": "Comuna 6",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "57"
+  },
+  "debug": {
+    "address": "NICASIO OROÑO 668",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.45317319490401,
+        -34.61643015319765
+      ],
+      "direccion": "",
+      "fondo": "26.56",
+      "frente": "9.00",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "070",
+      "parcela": "039",
+      "pdamatriz": "131791",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "057",
+      "smp": "057-070-039",
+      "smp_anterior": "057-070-038",
+      "smp_siguiente": "057-070-040",
+      "srid": 4326,
+      "superficie_cubierta": "264.00",
+      "superficie_total": "239.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 668,
+      "cod_calle": 16030
+    },
+    "usig_direccion_elegida": {
+      "altura": 668,
+      "cod_calle": 16030,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.452984",
+        "y": "-34.616375"
+      },
+      "direccion": "OROÑO, NICASIO 668, CABA",
+      "nombre_calle": "OROÑO, NICASIO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 668,
+          "cod_calle": 16030,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.452984",
+            "y": "-34.616375"
+          },
+          "direccion": "OROÑO, NICASIO 668, CABA",
+          "nombre_calle": "OROÑO, NICASIO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 668,
+          "cod_calle": 207201,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6984097333333,
+            "y": -34.7346806
+          },
+          "direccion": "Nicasio Oroño 668, Merlo",
+          "nombre_calle": "Nicasio Oroño",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Pontevedra",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  100917.4869844147,
+                  101416.72802933343
+                ],
+                [
+                  100915.06498442116,
+                  101416.01302933847
+                ],
+                [
+                  100912.7379844316,
+                  101422.34902932143
+                ],
+                [
+                  100915.16298442552,
+                  101423.28902931791
+                ],
+                [
+                  100915.32398442618,
+                  101423.35102931477
+                ],
+                [
+                  100918.63698441719,
+                  101424.63502930998
+                ],
+                [
+                  100919.38298441557,
+                  101424.92402930933
+                ],
+                [
+                  100920.03598441408,
+                  101425.17702930851
+                ],
+                [
+                  100923.45998440542,
+                  101426.50302930232
+                ],
+                [
+                  100923.94198440385,
+                  101426.69002930186
+                ],
+                [
+                  100925.07098440181,
+                  101427.12802929842
+                ],
+                [
+                  100925.24698440093,
+                  101427.19602929876
+                ],
+                [
+                  100925.80698439897,
+                  101427.41302929641
+                ],
+                [
+                  100926.8859843966,
+                  101427.83102929548
+                ],
+                [
+                  100927.44498439551,
+                  101428.0480292952
+                ],
+                [
+                  100930.38598438786,
+                  101429.18702928876
+                ],
+                [
+                  100938.21898436791,
+                  101432.22102927326
+                ],
+                [
+                  100938.87098436731,
+                  101432.4740292753
+                ],
+                [
+                  100939.6339843641,
+                  101432.77002927198
+                ],
+                [
+                  100940.54998436251,
+                  101433.1250292717
+                ],
+                [
+                  100943.87498434648,
+                  101424.51202929235
+                ],
+                [
+                  100942.94398434869,
+                  101424.23702929297
+                ],
+                [
+                  100939.44898435779,
+                  101423.20602929825
+                ],
+                [
+                  100935.94798436729,
+                  101422.17402930465
+                ],
+                [
+                  100933.99298437117,
+                  101421.5970293067
+                ],
+                [
+                  100933.41598437465,
+                  101421.42702930808
+                ],
+                [
+                  100932.98498437543,
+                  101421.30002931054
+                ],
+                [
+                  100932.40798437584,
+                  101421.12902931156
+                ],
+                [
+                  100929.79498438262,
+                  101420.358029314
+                ],
+                [
+                  100929.21698438487,
+                  101420.18802931471
+                ],
+                [
+                  100920.56698440641,
+                  101417.63602932906
+                ],
+                [
+                  100918.56398441154,
+                  101417.04502933068
+                ],
+                [
+                  100917.4869844147,
+                  101416.72802933343
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "057-070-039",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "NICASIO OROÑO 668",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.45317319490401,
+      -34.61643015319765
+    ],
+    "direccion": "",
+    "fondo": "26.56",
+    "frente": "9.00",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "070",
+    "parcela": "039",
+    "pdamatriz": "131791",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "057",
+    "smp": "057-070-039",
+    "smp_anterior": "057-070-038",
+    "smp_siguiente": "057-070-040",
+    "srid": 4326,
+    "superficie_cubierta": "264.00",
+    "superficie_total": "239.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "057-070-039",
+  "_http_status": 200
+}

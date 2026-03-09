@@ -1,0 +1,369 @@
+{
+  "area_m2": 244.01278495788574,
+  "centroide_lonlat": {
+    "lat": -34.617509,
+    "lon": -58.515164
+  },
+  "centroide_xy": {
+    "x": 95243.26999708897,
+    "y": 101303.40635790506
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/4/14/087-020A-008_0000197414.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION087/087-020A-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION087/PI-087-020A-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "087-020A-009a",
+            "087-020A-007",
+            "087-020A-012",
+            "087-020A-009b"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 210.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 244.0,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "087-020A-008"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Villa Devoto",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1417",
+    "codigo_postal_argentino": "C1417CBL",
+    "comisaria": "45",
+    "comisaria_vecinal": "11B",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "87"
+  },
+  "debug": {
+    "address": "CERVANTES 2482",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.51516438290877,
+        -34.61750882414212
+      ],
+      "direccion": "",
+      "fondo": "24.60",
+      "frente": "10.00",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "020A",
+      "parcela": "008",
+      "pdamatriz": "308711",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "0",
+      "propiedad_horizontal": "No",
+      "seccion": "087",
+      "smp": "087-020A-008",
+      "smp_anterior": "087-020A-007",
+      "smp_siguiente": "087-020A-009A",
+      "srid": 4326,
+      "superficie_cubierta": "0.00",
+      "superficie_total": "246.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2482,
+      "cod_calle": 3119
+    },
+    "usig_direccion_elegida": {
+      "altura": 2482,
+      "cod_calle": 3119,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.515038",
+        "y": "-34.617395"
+      },
+      "direccion": "CERVANTES 2482, CABA",
+      "nombre_calle": "CERVANTES",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2482,
+          "cod_calle": 3119,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.515038",
+            "y": "-34.617395"
+          },
+          "direccion": "CERVANTES 2482, CABA",
+          "nombre_calle": "CERVANTES",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2482,
+          "cod_calle": 13011,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.474442",
+            "y": "-34.610625"
+          },
+          "direccion": "MAGARIÑOS CERVANTES, A. 2482, CABA",
+          "nombre_calle": "MAGARIÑOS CERVANTES, A.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2482,
+          "cod_calle": 118200,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.36610225,
+            "y": -34.800823775
+          },
+          "direccion": "Cervantes Saavedra 2482, Almirante Brown",
+          "nombre_calle": "Cervantes Saavedra",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Rafael Calzada",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2482,
+          "cod_calle": 41073,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "direccion": "Cervantes 2482, La Matanza",
+          "nombre_calle": "Cervantes",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Luzuriaga",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2482,
+          "cod_calle": 140723,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_isidro",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5844399183673,
+            "y": -34.4994145857143
+          },
+          "direccion": "Cervantes 2482, San Isidro",
+          "nombre_calle": "Cervantes",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Boulogne Sur Mer",
+          "nombre_partido": "San Isidro",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  95234.46200026515,
+                  101301.05103393571
+                ],
+                [
+                  95236.72100026028,
+                  101303.55703392698
+                ],
+                [
+                  95239.66600025479,
+                  101306.82303391545
+                ],
+                [
+                  95241.9260002501,
+                  101309.2860339073
+                ],
+                [
+                  95247.95400023808,
+                  101315.85303388417
+                ],
+                [
+                  95255.25500021261,
+                  101309.20503389728
+                ],
+                [
+                  95246.28000023073,
+                  101299.40603393188
+                ],
+                [
+                  95240.42400024175,
+                  101293.01203395391
+                ],
+                [
+                  95238.45600024622,
+                  101290.86303396116
+                ],
+                [
+                  95231.38300027134,
+                  101297.63603394761
+                ],
+                [
+                  95234.46200026515,
+                  101301.05103393571
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "087-020A-008",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CERVANTES 2482",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.51516438290877,
+      -34.61750882414212
+    ],
+    "direccion": "",
+    "fondo": "24.60",
+    "frente": "10.00",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "020A",
+    "parcela": "008",
+    "pdamatriz": "308711",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "0",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "087",
+    "smp": "087-020A-008",
+    "smp_anterior": "087-020A-007",
+    "smp_siguiente": "087-020A-009A",
+    "srid": 4326,
+    "superficie_cubierta": "0.00",
+    "superficie_total": "246.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "087-020A-008",
+  "_http_status": 200
+}

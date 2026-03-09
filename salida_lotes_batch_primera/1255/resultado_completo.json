@@ -1,0 +1,351 @@
+{
+  "area_m2": 219.16182231903076,
+  "centroide_lonlat": {
+    "lat": -34.607775,
+    "lon": -58.526582
+  },
+  "centroide_xy": {
+    "x": 94195.45008027366,
+    "y": 102382.6232707557
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 0.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/3/91/089-005A-020_0000201391.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION089/089-005A-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION089/PI-089-005A-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "DI-2022-1583-GCABA-DGIUR",
+          "pdf": "089-005A.pdf"
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "089-005A-019",
+            "089-005A-030",
+            "089-005A-029",
+            "089-005A-021"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "AE 15",
+          "incidencia_uva": 240.0,
+          "plusvalia_em": 7577.06,
+          "plusvalia_pl": 7577.06,
+          "plusvalia_sl": 7577.06
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 219.243700000064,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 219.2,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "089-005A-020"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. A. ZUBIZARRETA",
+    "barrio": "Villa Devoto",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1419",
+    "codigo_postal_argentino": "C1419GAP",
+    "comisaria": "45",
+    "comisaria_vecinal": "11B",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "89"
+  },
+  "debug": {
+    "address": "AV. GENERAL PAZ 7846",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.52658175925501,
+        -34.60777515225158
+      ],
+      "direccion": "",
+      "manzana": "005A",
+      "parcela": "020",
+      "seccion": "089",
+      "smp": "089-005A-020",
+      "smp_anterior": "089-005A-019",
+      "smp_siguiente": "089-005A-021",
+      "srid": 4326
+    },
+    "usig_cod_calle_altura": {
+      "altura": 7846,
+      "cod_calle": 17041
+    },
+    "usig_direccion_elegida": {
+      "altura": 7846,
+      "cod_calle": 17041,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.526724",
+        "y": "-34.607727"
+      },
+      "direccion": "PAZ, GRAL. AV. 7846, CABA",
+      "nombre_calle": "PAZ, GRAL. AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 7846,
+          "cod_calle": 17041,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.526724",
+            "y": "-34.607727"
+          },
+          "direccion": "PAZ, GRAL. AV. 7846, CABA",
+          "nombre_calle": "PAZ, GRAL. AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 7846,
+          "cod_calle": 22422,
+          "cod_calle_cruce": null,
+          "cod_partido": "tres_de_febrero",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5308014567698,
+            "y": -34.626519477378
+          },
+          "direccion": "Diagonal 11 - General José María Paz 7846, Tres de Febrero",
+          "nombre_calle": "Diagonal 11 - General José María Paz",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ciudadela",
+          "nombre_partido": "Tres de Febrero",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  94184.14700402785,
+                  102386.93603167764
+                ],
+                [
+                  94187.42300402516,
+                  102395.40503165402
+                ],
+                [
+                  94189.88700401608,
+                  102393.19403165855
+                ],
+                [
+                  94190.02900401606,
+                  102393.0670316591
+                ],
+                [
+                  94198.18700398716,
+                  102385.74703167338
+                ],
+                [
+                  94201.96200397403,
+                  102382.36003168192
+                ],
+                [
+                  94203.7400039678,
+                  102380.76503168326
+                ],
+                [
+                  94207.82900395353,
+                  102377.09603168984
+                ],
+                [
+                  94206.65500395642,
+                  102375.75803169658
+                ],
+                [
+                  94204.06900396109,
+                  102372.81203170554
+                ],
+                [
+                  94202.24800396382,
+                  102370.73603171314
+                ],
+                [
+                  94201.09100396883,
+                  102371.77203171156
+                ],
+                [
+                  94198.79900397676,
+                  102373.82303170642
+                ],
+                [
+                  94198.08500397901,
+                  102374.46203170618
+                ],
+                [
+                  94195.88800398627,
+                  102376.42803170177
+                ],
+                [
+                  94195.34000398847,
+                  102376.9180316996
+                ],
+                [
+                  94193.47900399582,
+                  102378.58403169835
+                ],
+                [
+                  94191.87800399985,
+                  102380.01703169485
+                ],
+                [
+                  94190.75000400486,
+                  102381.02703169224
+                ],
+                [
+                  94190.03400400766,
+                  102381.66703169237
+                ],
+                [
+                  94189.43100400893,
+                  102382.20703168956
+                ],
+                [
+                  94186.5110040199,
+                  102384.82103168586
+                ],
+                [
+                  94185.58000402297,
+                  102385.65403168378
+                ],
+                [
+                  94184.14700402785,
+                  102386.93603167764
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "089-005A-020",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AV. GENERAL PAZ 7846",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.52658175925501,
+      -34.60777515225158
+    ],
+    "direccion": "",
+    "manzana": "005A",
+    "parcela": "020",
+    "puertas": [],
+    "seccion": "089",
+    "smp": "089-005A-020",
+    "smp_anterior": "089-005A-019",
+    "smp_siguiente": "089-005A-021",
+    "srid": 4326
+  },
+  "smp": "089-005A-020",
+  "_http_status": 200
+}

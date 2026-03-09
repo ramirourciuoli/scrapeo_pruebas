@@ -1,0 +1,384 @@
+{
+  "area_m2": 113.67951011657715,
+  "centroide_lonlat": {
+    "lat": -34.584744,
+    "lon": -58.421443
+  },
+  "centroide_xy": {
+    "x": 103840.41865391198,
+    "y": 104938.64840038033
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 4.04,
+          "fot_perim_libre": 4.04,
+          "fot_semi_libre": 4.04
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/64/019-153-014_0000251064.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION019/019-153-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION019/PI-019-153-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "019-153-015",
+            "019-153-011",
+            "019-153-009a",
+            "019-153-013",
+            "019-153-012"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2a I",
+          "incidencia_uva": 480.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 113.7,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "019-153-014"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.A.FERNÁNDEZ",
+    "barrio": "Palermo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1425",
+    "codigo_postal_argentino": "C1425BNG",
+    "comisaria": "23",
+    "comisaria_vecinal": "14A",
+    "comuna": "Comuna 14",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   IX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "19"
+  },
+  "debug": {
+    "address": "CHARCAS 4167",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.42144293826169,
+        -34.58474378617278
+      ],
+      "direccion": "",
+      "fondo": "13.16",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "153",
+      "parcela": "014",
+      "pdamatriz": "427339",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "019",
+      "smp": "019-153-014",
+      "smp_anterior": "019-153-013",
+      "smp_siguiente": "019-153-015",
+      "srid": 4326,
+      "superficie_cubierta": "133.00",
+      "superficie_total": "114.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4167,
+      "cod_calle": 3219
+    },
+    "usig_direccion_elegida": {
+      "altura": 4167,
+      "cod_calle": 3219,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.421530",
+        "y": "-34.584815"
+      },
+      "direccion": "CHARCAS 4167, CABA",
+      "nombre_calle": "CHARCAS",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4167,
+          "cod_calle": 3219,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.421530",
+            "y": "-34.584815"
+          },
+          "direccion": "CHARCAS 4167, CABA",
+          "nombre_calle": "CHARCAS",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 4167,
+          "cod_calle": 69908,
+          "cod_calle_cruce": null,
+          "cod_partido": "jose_c_paz",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7884901142857,
+            "y": -34.518068255102
+          },
+          "direccion": "Charcas 4167, José C. Paz",
+          "nombre_calle": "Charcas",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "José C. Paz",
+          "nombre_partido": "José C. Paz",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 4167,
+          "cod_calle": 46475,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "direccion": "Charcas 4167, La Matanza",
+          "nombre_calle": "Charcas",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "La Tablada",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  103831.63597889098,
+                  104935.71901727121
+                ],
+                [
+                  103832.84597888854,
+                  104937.04701726724
+                ],
+                [
+                  103834.67297888541,
+                  104939.05101726
+                ],
+                [
+                  103835.16697888418,
+                  104939.34601725868
+                ],
+                [
+                  103837.92397887702,
+                  104940.99201725176
+                ],
+                [
+                  103839.66497887328,
+                  104942.03201724758
+                ],
+                [
+                  103840.95397887014,
+                  104942.80201724495
+                ],
+                [
+                  103844.4829788619,
+                  104944.90801723604
+                ],
+                [
+                  103847.2199788552,
+                  104946.54201722995
+                ],
+                [
+                  103847.3172913462,
+                  104946.39776221145
+                ],
+                [
+                  103849.78329133743,
+                  104943.92076221845
+                ],
+                [
+                  103846.97997885234,
+                  104940.92501724526
+                ],
+                [
+                  103845.68397885487,
+                  104939.54001725034
+                ],
+                [
+                  103845.1299788555,
+                  104938.94901725245
+                ],
+                [
+                  103843.45697885937,
+                  104937.16101725897
+                ],
+                [
+                  103843.07997885977,
+                  104936.75801726044
+                ],
+                [
+                  103841.20997886341,
+                  104934.76001726693
+                ],
+                [
+                  103840.241978865,
+                  104933.72701727072
+                ],
+                [
+                  103840.08697886596,
+                  104933.56001727094
+                ],
+                [
+                  103838.57797886846,
+                  104931.94901727699
+                ],
+                [
+                  103838.31097886898,
+                  104931.66401727789
+                ],
+                [
+                  103837.28597887163,
+                  104930.56901728199
+                ],
+                [
+                  103831.63597889098,
+                  104935.71901727121
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "019-153-014",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CHARCAS 4167",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.42144293826169,
+      -34.58474378617278
+    ],
+    "direccion": "",
+    "fondo": "13.16",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "153",
+    "parcela": "014",
+    "pdamatriz": "427339",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "019",
+    "smp": "019-153-014",
+    "smp_anterior": "019-153-013",
+    "smp_siguiente": "019-153-015",
+    "srid": 4326,
+    "superficie_cubierta": "133.00",
+    "superficie_total": "114.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "019-153-014",
+  "_http_status": 200
+}

@@ -1,0 +1,381 @@
+{
+  "area_m2": 169.89182090759277,
+  "centroide_lonlat": {
+    "lat": -34.63502,
+    "lon": -58.470341
+  },
+  "centroide_xy": {
+    "x": 99354.35688158206,
+    "y": 99361.9889550216
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.45,
+          "fot_perim_libre": 3.45,
+          "fot_semi_libre": 3.45
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/2/22/048-022-025_0000069222.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION048/048-022-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION048/PI-048-022-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "048-022-021",
+            "048-022-024",
+            "048-022-026"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2a II",
+          "incidencia_uva": 100.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 169.821650000124,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 169.9,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "048-022-025"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. P. PIÑERO",
+    "barrio": "Flores",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1406",
+    "codigo_postal_argentino": "C1406GYM",
+    "comisaria": "38",
+    "comisaria_vecinal": "7C",
+    "comuna": "Comuna 7",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "48"
+  },
+  "debug": {
+    "address": "JOSE BONIFACIO 3067",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.47034116468071,
+        -34.635019941455965
+      ],
+      "direccion": "",
+      "fondo": "19.56",
+      "frente": "8.69",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "022",
+      "parcela": "025",
+      "pdamatriz": "145806",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "9",
+      "propiedad_horizontal": "Si",
+      "seccion": "048",
+      "smp": "048-022-025",
+      "smp_anterior": "048-022-024",
+      "smp_siguiente": "048-022-026",
+      "srid": 4326,
+      "superficie_cubierta": "1324.00",
+      "superficie_total": "170.00",
+      "unidades_funcionales": "27",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3067,
+      "cod_calle": 2098
+    },
+    "usig_direccion_elegida": {
+      "altura": 3067,
+      "cod_calle": 2098,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.470287",
+        "y": "-34.635139"
+      },
+      "direccion": "BONIFACIO, JOSE 3067, CABA",
+      "nombre_calle": "BONIFACIO, JOSE",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3067,
+          "cod_calle": 2098,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.470287",
+            "y": "-34.635139"
+          },
+          "direccion": "BONIFACIO, JOSE 3067, CABA",
+          "nombre_calle": "BONIFACIO, JOSE",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99361.07998722859,
+                  99356.32503628355
+                ],
+                [
+                  99361.81198722485,
+                  99354.34503628808
+                ],
+                [
+                  99361.36498722628,
+                  99354.17703628927
+                ],
+                [
+                  99359.8459872298,
+                  99353.60703629174
+                ],
+                [
+                  99356.72398723818,
+                  99352.4350362971
+                ],
+                [
+                  99353.85398724528,
+                  99351.3580363027
+                ],
+                [
+                  99353.66598724565,
+                  99351.28703630259
+                ],
+                [
+                  99352.96898724843,
+                  99353.18503629783
+                ],
+                [
+                  99352.66298725005,
+                  99354.01603629597
+                ],
+                [
+                  99352.48598725077,
+                  99354.49903629479
+                ],
+                [
+                  99351.43398725668,
+                  99357.36303628757
+                ],
+                [
+                  99350.60698726017,
+                  99359.61403628209
+                ],
+                [
+                  99350.30698726178,
+                  99360.43003627963
+                ],
+                [
+                  99349.20298726686,
+                  99363.4340362727
+                ],
+                [
+                  99348.59798727033,
+                  99365.0820362686
+                ],
+                [
+                  99348.50298727011,
+                  99365.33903626725
+                ],
+                [
+                  99348.23598727142,
+                  99366.06503626608
+                ],
+                [
+                  99347.98398727324,
+                  99366.75303626352
+                ],
+                [
+                  99346.90698727794,
+                  99369.68303625679
+                ],
+                [
+                  99347.87198727627,
+                  99370.03703625436
+                ],
+                [
+                  99348.37198727501,
+                  99370.22103625382
+                ],
+                [
+                  99351.8389872655,
+                  99371.49303624753
+                ],
+                [
+                  99352.43398726465,
+                  99371.71103624682
+                ],
+                [
+                  99355.04198725808,
+                  99372.6680362417
+                ],
+                [
+                  99358.43198724135,
+                  99363.49403626515
+                ],
+                [
+                  99359.79098723491,
+                  99359.81403627477
+                ],
+                [
+                  99359.92798723438,
+                  99359.44403627558
+                ],
+                [
+                  99360.59498723056,
+                  99357.63803628029
+                ],
+                [
+                  99360.77198722988,
+                  99357.15903628123
+                ],
+                [
+                  99361.07998722859,
+                  99356.32503628355
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "048-022-025",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "JOSE BONIFACIO 3067",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.47034116468071,
+      -34.635019941455965
+    ],
+    "direccion": "",
+    "fondo": "19.56",
+    "frente": "8.69",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "022",
+    "parcela": "025",
+    "pdamatriz": "145806",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "9",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "048",
+    "smp": "048-022-025",
+    "smp_anterior": "048-022-024",
+    "smp_siguiente": "048-022-026",
+    "srid": 4326,
+    "superficie_cubierta": "1324.00",
+    "superficie_total": "170.00",
+    "unidades_funcionales": "27",
+    "vuc": "0.00"
+  },
+  "smp": "048-022-025",
+  "_http_status": 200
+}

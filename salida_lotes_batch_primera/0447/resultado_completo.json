@@ -1,0 +1,378 @@
+{
+  "area_m2": 293.5553388595581,
+  "centroide_lonlat": {
+    "lat": -34.564618,
+    "lon": -58.496193
+  },
+  "centroide_xy": {
+    "x": 96981.33740592778,
+    "y": 107171.61843479471
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [
+          {
+            "estado_parcelario_constituido": "Si",
+            "fecha_de_constitucion": "20-9-2023",
+            "tipo_de_construccion": "Construido",
+            "vencimiento_de_construccion": "20-9-2029"
+          }
+        ],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/fp/SECCION063/FP-063-111A-034-VD.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION063/063-111A-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION063/PI-063-111A-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "063-111A-033",
+            "063-111A-027",
+            "063-111A-004",
+            "063-111A-003",
+            "063-111A-035"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 210.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 293.6,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "063-111A-034"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Villa Urquiza",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1431",
+    "codigo_postal_argentino": "C1431FCY",
+    "comisaria": "49",
+    "comisaria_vecinal": "12C",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "63"
+  },
+  "debug": {
+    "address": "AV. TRIUNVIRATO 5824",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.496192742907695,
+        -34.56461795721829
+      ],
+      "direccion": "",
+      "fondo": "34.07",
+      "frente": "8.60",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "111A",
+      "parcela": "034",
+      "pdamatriz": "355565",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "063",
+      "smp": "063-111A-034",
+      "smp_anterior": "063-111A-033",
+      "smp_siguiente": "063-111A-035",
+      "srid": 4326,
+      "superficie_cubierta": "223.00",
+      "superficie_total": "293.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 5824,
+      "cod_calle": 21057
+    },
+    "usig_direccion_elegida": {
+      "altura": 5824,
+      "cod_calle": 21057,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.495968",
+        "y": "-34.564506"
+      },
+      "direccion": "TRIUNVIRATO AV. 5824, CABA",
+      "nombre_calle": "TRIUNVIRATO AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 5824,
+          "cod_calle": 21057,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.495968",
+            "y": "-34.564506"
+          },
+          "direccion": "TRIUNVIRATO AV. 5824, CABA",
+          "nombre_calle": "TRIUNVIRATO AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 5824,
+          "cod_calle": 41118,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "direccion": "Triunvirato 5824, La Matanza",
+          "nombre_calle": "Triunvirato",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Luzuriaga",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96971.99999981052,
+                  107171.050016166
+                ],
+                [
+                  96973.42199980744,
+                  107171.90101616239
+                ],
+                [
+                  96976.18499980027,
+                  107173.55501615573
+                ],
+                [
+                  96976.42299980055,
+                  107173.69701615511
+                ],
+                [
+                  96980.23599979075,
+                  107175.98001614658
+                ],
+                [
+                  96983.90399978262,
+                  107178.17401613694
+                ],
+                [
+                  96984.64799978085,
+                  107178.62001613557
+                ],
+                [
+                  96986.6869997759,
+                  107179.84101613052
+                ],
+                [
+                  96988.50799977206,
+                  107180.93001612581
+                ],
+                [
+                  96993.81999975946,
+                  107184.1100161135
+                ],
+                [
+                  96997.48699974401,
+                  107177.95101612806
+                ],
+                [
+                  96998.17199974177,
+                  107176.8000161302
+                ],
+                [
+                  96996.62999974497,
+                  107175.86501613437
+                ],
+                [
+                  96988.05299976552,
+                  107170.66101615553
+                ],
+                [
+                  96984.65299977313,
+                  107168.5980161638
+                ],
+                [
+                  96982.35599977832,
+                  107167.2040161691
+                ],
+                [
+                  96980.79799978268,
+                  107166.25901617264
+                ],
+                [
+                  96977.57199978952,
+                  107164.30101618095
+                ],
+                [
+                  96969.92199980807,
+                  107159.66001619986
+                ],
+                [
+                  96968.96099981015,
+                  107159.09001620192
+                ],
+                [
+                  96966.74299981895,
+                  107162.94001619337
+                ],
+                [
+                  96964.61699982754,
+                  107166.63001618406
+                ],
+                [
+                  96971.08399981247,
+                  107170.50201616879
+                ],
+                [
+                  96971.99999981052,
+                  107171.050016166
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "063-111A-034",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AV. TRIUNVIRATO 5824",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.496192742907695,
+      -34.56461795721829
+    ],
+    "direccion": "",
+    "fondo": "34.07",
+    "frente": "8.60",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "111A",
+    "parcela": "034",
+    "pdamatriz": "355565",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "063",
+    "smp": "063-111A-034",
+    "smp_anterior": "063-111A-033",
+    "smp_siguiente": "063-111A-035",
+    "srid": 4326,
+    "superficie_cubierta": "223.00",
+    "superficie_total": "293.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "063-111A-034",
+  "_http_status": 200
+}

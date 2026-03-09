@@ -1,0 +1,357 @@
+{
+  "area_m2": 226.46543884277344,
+  "centroide_lonlat": {
+    "lat": -34.68205,
+    "lon": -58.473186
+  },
+  "centroide_xy": {
+    "x": 99094.02330055439,
+    "y": 94144.56887727045
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/8/53/082-093-019_0000005853.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION082/082-093-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION082/PI-082-093-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "082-093-021",
+            "082-093-018",
+            "082-093-020"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 226.456750000041,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 226.5,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "082-093-019"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DRA. CECILIA GRIERSON",
+    "barrio": "Villa Lugano",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1439",
+    "codigo_postal_argentino": "C1439CJL",
+    "comisaria": "52",
+    "comisaria_vecinal": "8A",
+    "comuna": "Comuna 8",
+    "distrito_economico": "DISTRITO DEL DEPORTE",
+    "distrito_escolar": "Distrito Escolar   XXI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "82"
+  },
+  "debug": {
+    "address": "JOSE BARROS PAZOS 5990",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.47318585249666,
+        -34.68205028288593
+      ],
+      "direccion": "",
+      "fondo": "22.50",
+      "frente": "10.00",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "093",
+      "parcela": "019",
+      "pdamatriz": "67166",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "082",
+      "smp": "082-093-019",
+      "smp_anterior": "082-093-018",
+      "smp_siguiente": "082-093-020",
+      "srid": 4326,
+      "superficie_cubierta": "97.00",
+      "superficie_total": "225.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 5990,
+      "cod_calle": 2029
+    },
+    "usig_direccion_elegida": {
+      "altura": 5990,
+      "cod_calle": 2029,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.473312",
+        "y": "-34.681952"
+      },
+      "direccion": "BARROS PAZOS, JOSE 5990, CABA",
+      "nombre_calle": "BARROS PAZOS, JOSE",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 5990,
+          "cod_calle": 2029,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.473312",
+            "y": "-34.681952"
+          },
+          "direccion": "BARROS PAZOS, JOSE 5990, CABA",
+          "nombre_calle": "BARROS PAZOS, JOSE",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99082.33798409093,
+                  94148.58605109753
+                ],
+                [
+                  99085.9799840833,
+                  94152.42305108283
+                ],
+                [
+                  99089.26398407633,
+                  94155.8830510726
+                ],
+                [
+                  99092.86098406311,
+                  94152.53905107746
+                ],
+                [
+                  99097.44398404834,
+                  94148.27705108657
+                ],
+                [
+                  99099.46498403986,
+                  94146.39705109067
+                ],
+                [
+                  99102.63598402936,
+                  94143.44905109743
+                ],
+                [
+                  99103.20698402773,
+                  94142.91905109587
+                ],
+                [
+                  99105.08498402128,
+                  94141.17205110069
+                ],
+                [
+                  99105.66998401917,
+                  94140.62805110219
+                ],
+                [
+                  99102.45707631097,
+                  94137.15117416206
+                ],
+                [
+                  99101.38706898778,
+                  94135.99315414703
+                ],
+                [
+                  99100.19346547552,
+                  94134.70177231412
+                ],
+                [
+                  99099.52006459772,
+                  94133.97313462259
+                ],
+                [
+                  99098.8170616698,
+                  94133.21312485918
+                ],
+                [
+                  99096.04498404168,
+                  94135.79905112243
+                ],
+                [
+                  99095.79798404347,
+                  94136.02905112156
+                ],
+                [
+                  99093.51698405096,
+                  94138.15805111878
+                ],
+                [
+                  99091.52998405794,
+                  94140.0110511154
+                ],
+                [
+                  99090.80598406031,
+                  94140.68605111327
+                ],
+                [
+                  99089.30098406583,
+                  94142.09005111044
+                ],
+                [
+                  99088.93498406716,
+                  94142.43105110918
+                ],
+                [
+                  99083.77998408506,
+                  94147.24005110099
+                ],
+                [
+                  99082.33798409093,
+                  94148.58605109753
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "082-093-019",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "JOSE BARROS PAZOS 5990",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.47318585249666,
+      -34.68205028288593
+    ],
+    "direccion": "",
+    "fondo": "22.50",
+    "frente": "10.00",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "093",
+    "parcela": "019",
+    "pdamatriz": "67166",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "082",
+    "smp": "082-093-019",
+    "smp_anterior": "082-093-018",
+    "smp_siguiente": "082-093-020",
+    "srid": 4326,
+    "superficie_cubierta": "97.00",
+    "superficie_total": "225.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "082-093-019",
+  "_http_status": 200
+}

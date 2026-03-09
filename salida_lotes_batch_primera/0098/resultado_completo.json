@@ -1,0 +1,403 @@
+{
+  "area_m2": 474.1102352142334,
+  "centroide_lonlat": {
+    "lat": -34.643972,
+    "lon": -58.513943
+  },
+  "centroide_xy": {
+    "x": 95356.78441450102,
+    "y": 98367.72980420922
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.0,
+          "fot_perim_libre": 3.0,
+          "fot_semi_libre": 3.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/1/46/072-137-036_0000031146.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION072/072-137-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION072/PI-072-137-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "072-137-017c",
+            "072-137-017e",
+            "072-137-035",
+            "072-137-037",
+            "072-137-017d"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "E3",
+          "incidencia_uva": 150.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 316.714093499347,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 474.1,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "072-137-036"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Liniers",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1408",
+    "codigo_postal_argentino": "C1408HDE",
+    "comisaria": "54",
+    "comisaria_vecinal": "9B",
+    "comuna": "Comuna 9",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "72"
+  },
+  "debug": {
+    "address": "PIERES 357",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.51394277221352,
+        -34.643972047859506
+      ],
+      "direccion": "",
+      "fondo": "54.96",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "137",
+      "parcela": "036",
+      "pdamatriz": "13198",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "072",
+      "smp": "072-137-036",
+      "smp_anterior": "072-137-035",
+      "smp_siguiente": "072-137-037",
+      "srid": 4326,
+      "superficie_cubierta": "286.00",
+      "superficie_total": "476.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 357,
+      "cod_calle": 17079
+    },
+    "usig_direccion_elegida": {
+      "altura": 357,
+      "cod_calle": 17079,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.513705",
+        "y": "-34.643761"
+      },
+      "direccion": "PIERES 357, CABA",
+      "nombre_calle": "PIERES",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 357,
+          "cod_calle": 17079,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.513705",
+            "y": "-34.643761"
+          },
+          "direccion": "PIERES 357, CABA",
+          "nombre_calle": "PIERES",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  95334.97899776188,
+                  98350.46404213435
+                ],
+                [
+                  95337.10999775794,
+                  98352.77504212779
+                ],
+                [
+                  95338.36899775425,
+                  98354.14004212173
+                ],
+                [
+                  95340.40299775178,
+                  98356.34604211501
+                ],
+                [
+                  95342.668997746,
+                  98358.80204210462
+                ],
+                [
+                  95344.02599774337,
+                  98360.27404210012
+                ],
+                [
+                  95344.26899774335,
+                  98360.53704210019
+                ],
+                [
+                  95345.38899774174,
+                  98361.75204209477
+                ],
+                [
+                  95349.66399773328,
+                  98366.38704207918
+                ],
+                [
+                  95351.82099772859,
+                  98368.72604207078
+                ],
+                [
+                  95353.34199772622,
+                  98370.37504206476
+                ],
+                [
+                  95356.29199771959,
+                  98373.57404205456
+                ],
+                [
+                  95358.77299771487,
+                  98376.26504204466
+                ],
+                [
+                  95359.82499771229,
+                  98377.4040420404
+                ],
+                [
+                  95364.52599770325,
+                  98382.50204202186
+                ],
+                [
+                  95372.1849976882,
+                  98390.80704199366
+                ],
+                [
+                  95376.38399767323,
+                  98386.90204200058
+                ],
+                [
+                  95378.52799766579,
+                  98384.90804200334
+                ],
+                [
+                  95376.19499767107,
+                  98382.38004201336
+                ],
+                [
+                  95375.63999767108,
+                  98381.7790420154
+                ],
+                [
+                  95374.9959976728,
+                  98381.08104201918
+                ],
+                [
+                  95374.66899767292,
+                  98380.72604201981
+                ],
+                [
+                  95373.31199767576,
+                  98379.25604202432
+                ],
+                [
+                  95371.41299767984,
+                  98377.19804203312
+                ],
+                [
+                  95369.18699768397,
+                  98374.78704204108
+                ],
+                [
+                  95368.7949976847,
+                  98374.36204204187
+                ],
+                [
+                  95365.84499769055,
+                  98371.16504205292
+                ],
+                [
+                  95364.93599769319,
+                  98370.18004205625
+                ],
+                [
+                  95359.69999770404,
+                  98364.50704207722
+                ],
+                [
+                  95353.36699771599,
+                  98357.64404210058
+                ],
+                [
+                  95346.85099772832,
+                  98350.58404212515
+                ],
+                [
+                  95344.81599773264,
+                  98348.37904213366
+                ],
+                [
+                  95341.42499773964,
+                  98344.70404214523
+                ],
+                [
+                  95337.1429977552,
+                  98348.53104213806
+                ],
+                [
+                  95334.97899776188,
+                  98350.46404213435
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "072-137-036",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "PIERES 357",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.51394277221352,
+      -34.643972047859506
+    ],
+    "direccion": "",
+    "fondo": "54.96",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "137",
+    "parcela": "036",
+    "pdamatriz": "13198",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "072",
+    "smp": "072-137-036",
+    "smp_anterior": "072-137-035",
+    "smp_siguiente": "072-137-037",
+    "srid": 4326,
+    "superficie_cubierta": "286.00",
+    "superficie_total": "476.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "072-137-036",
+  "_http_status": 200
+}

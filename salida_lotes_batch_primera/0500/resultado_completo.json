@@ -1,0 +1,360 @@
+{
+  "area_m2": 200.28078174591064,
+  "centroide_lonlat": {
+    "lat": -34.583951,
+    "lon": -58.510254
+  },
+  "centroide_xy": {
+    "x": 95691.90950917911,
+    "y": 105026.34305208808
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/24/075-004-014_0000250724.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION075/075-004-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION075/PI-075-004-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "075-004-015",
+            "075-004-013"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 100.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 200.290000000028,
+        "sup_max_edificable": 192.5,
+        "superficie_parcela": 200.3,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "075-004-014"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. A. ZUBIZARRETA",
+    "barrio": "Villa Pueyrredon",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1419",
+    "codigo_postal_argentino": "C1419FIH",
+    "comisaria": "47",
+    "comisaria_vecinal": "12B",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "75"
+  },
+  "debug": {
+    "address": "FRANCO 3192",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.510253807488894,
+        -34.58395142879591
+      ],
+      "direccion": "",
+      "fondo": "17.42",
+      "frente": "11.37",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "004",
+      "parcela": "014",
+      "pdamatriz": "363735",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "4",
+      "propiedad_horizontal": "Si",
+      "seccion": "075",
+      "smp": "075-004-014",
+      "smp_anterior": "075-004-013",
+      "smp_siguiente": "075-004-015",
+      "srid": 4326,
+      "superficie_cubierta": "855.00",
+      "superficie_total": "198.00",
+      "unidades_funcionales": "17",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3192,
+      "cod_calle": 6052
+    },
+    "usig_direccion_elegida": {
+      "altura": 3192,
+      "cod_calle": 6052,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.510321",
+        "y": "-34.583867"
+      },
+      "direccion": "FRANCO 3192, CABA",
+      "nombre_calle": "FRANCO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3192,
+          "cod_calle": 6052,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.510321",
+            "y": "-34.583867"
+          },
+          "direccion": "FRANCO 3192, CABA",
+          "nombre_calle": "FRANCO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  95686.90900180375,
+                  105031.23802313424
+                ],
+                [
+                  95689.0220017989,
+                  105032.80902312868
+                ],
+                [
+                  95691.42900179315,
+                  105034.59902312187
+                ],
+                [
+                  95693.51800178908,
+                  105036.15202311537
+                ],
+                [
+                  95693.96300178839,
+                  105036.48302311433
+                ],
+                [
+                  95696.46700177842,
+                  105032.92902312195
+                ],
+                [
+                  95697.04200177637,
+                  105032.11202312403
+                ],
+                [
+                  95697.2040017753,
+                  105031.88302312518
+                ],
+                [
+                  95697.2760017747,
+                  105031.78102312546
+                ],
+                [
+                  95700.03900176428,
+                  105027.85902313411
+                ],
+                [
+                  95701.68000175773,
+                  105025.53002313946
+                ],
+                [
+                  95700.22200176139,
+                  105024.44602314383
+                ],
+                [
+                  95698.76900176491,
+                  105023.36602314789
+                ],
+                [
+                  95697.44800176742,
+                  105022.38402315084
+                ],
+                [
+                  95697.03900176835,
+                  105022.08002315246
+                ],
+                [
+                  95691.75600178038,
+                  105018.15202316717
+                ],
+                [
+                  95689.30500178551,
+                  105016.33002317444
+                ],
+                [
+                  95689.15600178682,
+                  105016.52002317354
+                ],
+                [
+                  95687.32700179287,
+                  105018.90302316856
+                ],
+                [
+                  95686.10900179812,
+                  105020.4900231653
+                ],
+                [
+                  95685.18000180123,
+                  105021.80002316192
+                ],
+                [
+                  95684.09400180519,
+                  105023.23002315935
+                ],
+                [
+                  95683.83000180671,
+                  105023.57802315787
+                ],
+                [
+                  95684.72000180841,
+                  105029.61002314091
+                ],
+                [
+                  95686.90900180375,
+                  105031.23802313424
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "075-004-014",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "FRANCO 3192",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.510253807488894,
+      -34.58395142879591
+    ],
+    "direccion": "",
+    "fondo": "17.42",
+    "frente": "11.37",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "004",
+    "parcela": "014",
+    "pdamatriz": "363735",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "4",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "075",
+    "smp": "075-004-014",
+    "smp_anterior": "075-004-013",
+    "smp_siguiente": "075-004-015",
+    "srid": 4326,
+    "superficie_cubierta": "855.00",
+    "superficie_total": "198.00",
+    "unidades_funcionales": "17",
+    "vuc": "0.00"
+  },
+  "smp": "075-004-014",
+  "_http_status": 200
+}

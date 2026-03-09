@@ -1,0 +1,341 @@
+{
+  "area_m2": 148.8899049758911,
+  "centroide_lonlat": {
+    "lat": -34.585716,
+    "lon": -58.47768
+  },
+  "centroide_xy": {
+    "x": 98680.65017138062,
+    "y": 104831.47213897538
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.0,
+          "fot_perim_libre": 3.0,
+          "fot_semi_libre": 3.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/52/061-054-008_0000100552.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION061/061-054-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION061/PI-061-054-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "061-054-010",
+            "061-054-009",
+            "061-054-007"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "E3",
+          "incidencia_uva": 260.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 148.82530000002,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 148.9,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "061-054-008"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. E. TORNÚ",
+    "barrio": "Parque Chas",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1427",
+    "codigo_postal_argentino": "C1427DLH",
+    "comisaria": "39",
+    "comisaria_vecinal": "15C",
+    "comuna": "Comuna 15",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "61"
+  },
+  "debug": {
+    "address": "ARISMENDI 2786",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.477679878023395,
+        -34.58571623157219
+      ],
+      "direccion": "",
+      "fondo": "17.32",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "054",
+      "parcela": "008",
+      "pdamatriz": "245381",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "061",
+      "smp": "061-054-008",
+      "smp_anterior": "061-054-007",
+      "smp_siguiente": "061-054-009",
+      "srid": 4326,
+      "superficie_cubierta": "129.00",
+      "superficie_total": "150.00",
+      "unidades_funcionales": "2",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2786,
+      "cod_calle": 1113
+    },
+    "usig_direccion_elegida": {
+      "altura": 2786,
+      "cod_calle": 1113,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.477779",
+        "y": "-34.585629"
+      },
+      "direccion": "ARISMENDI 2786, CABA",
+      "nombre_calle": "ARISMENDI",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2786,
+          "cod_calle": 1113,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.477779",
+            "y": "-34.585629"
+          },
+          "direccion": "ARISMENDI 2786, CABA",
+          "nombre_calle": "ARISMENDI",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98671.6479932857,
+                  104834.8850214381
+                ],
+                [
+                  98677.96599327237,
+                  104840.79302141661
+                ],
+                [
+                  98680.74199326192,
+                  104837.72602142332
+                ],
+                [
+                  98682.55199325585,
+                  104835.7260214276
+                ],
+                [
+                  98684.53699324802,
+                  104833.53302143229
+                ],
+                [
+                  98686.00299324273,
+                  104831.91302143561
+                ],
+                [
+                  98686.90199323968,
+                  104830.92002143787
+                ],
+                [
+                  98687.60799323731,
+                  104830.14002143929
+                ],
+                [
+                  98689.8699932292,
+                  104827.64002144462
+                ],
+                [
+                  98686.70199323575,
+                  104825.2180214545
+                ],
+                [
+                  98683.05299324461,
+                  104822.42902146428
+                ],
+                [
+                  98680.52099325317,
+                  104825.19502145919
+                ],
+                [
+                  98680.13999325452,
+                  104825.61102145753
+                ],
+                [
+                  98677.89999326335,
+                  104828.05602145265
+                ],
+                [
+                  98677.3609932645,
+                  104828.64502145108
+                ],
+                [
+                  98676.68099326726,
+                  104829.38802145026
+                ],
+                [
+                  98675.54299327111,
+                  104830.63202144753
+                ],
+                [
+                  98674.56699327487,
+                  104831.69802144493
+                ],
+                [
+                  98674.47999327582,
+                  104831.79202144526
+                ],
+                [
+                  98671.6479932857,
+                  104834.8850214381
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "061-054-008",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ARISMENDI 2786",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.477679878023395,
+      -34.58571623157219
+    ],
+    "direccion": "",
+    "fondo": "17.32",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "054",
+    "parcela": "008",
+    "pdamatriz": "245381",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "061",
+    "smp": "061-054-008",
+    "smp_anterior": "061-054-007",
+    "smp_siguiente": "061-054-009",
+    "srid": 4326,
+    "superficie_cubierta": "129.00",
+    "superficie_total": "150.00",
+    "unidades_funcionales": "2",
+    "vuc": "0.00"
+  },
+  "smp": "061-054-008",
+  "_http_status": 200
+}

@@ -1,0 +1,465 @@
+{
+  "area_m2": 306.477201461792,
+  "centroide_lonlat": {
+    "lat": -34.613878,
+    "lon": -58.495645
+  },
+  "centroide_xy": {
+    "x": 97033.3120035332,
+    "y": 101706.98632713596
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.44,
+          "fot_perim_libre": 3.44,
+          "fot_semi_libre": 3.44
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/1/07/081-079A-019_0000167107.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION081/081-079A-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION081/PI-081-079A-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "081-079A-020",
+            "081-079A-027",
+            "081-079A-018"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2a II",
+          "incidencia_uva": 150.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 306.458949999986,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 306.5,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "081-079A-019"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Villa Del Parque",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1417",
+    "codigo_postal_argentino": "C1417AQA",
+    "comisaria": "43",
+    "comisaria_vecinal": "11A",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "81"
+  },
+  "debug": {
+    "address": "JOAQUIN V. GONZALEZ 2131",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.49564548316357,
+        -34.613877606389025
+      ],
+      "direccion": "",
+      "fondo": "38.25",
+      "frente": "8.00",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "079A",
+      "parcela": "019",
+      "pdamatriz": "264951",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "081",
+      "smp": "081-079A-019",
+      "smp_anterior": "081-079A-018",
+      "smp_siguiente": "081-079A-020",
+      "srid": 4326,
+      "superficie_cubierta": "292.00",
+      "superficie_total": "306.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2131,
+      "cod_calle": 7066
+    },
+    "usig_direccion_elegida": {
+      "altura": 2131,
+      "cod_calle": 7066,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.495845",
+        "y": "-34.613997"
+      },
+      "direccion": "GONZALEZ, JOAQUIN V. 2131, CABA",
+      "nombre_calle": "GONZALEZ, JOAQUIN V.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2131,
+          "cod_calle": 7066,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.495845",
+            "y": "-34.613997"
+          },
+          "direccion": "GONZALEZ, JOAQUIN V. 2131, CABA",
+          "nombre_calle": "GONZALEZ, JOAQUIN V.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2131,
+          "cod_calle": 52785,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.372958572449,
+            "y": -34.8164110214286
+          },
+          "direccion": "Joaquín V. González 2131, Almirante Brown",
+          "nombre_calle": "Joaquín V. González",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Burzaco",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2131,
+          "cod_calle": 53218,
+          "cod_calle_cruce": null,
+          "cod_partido": "general_san_martin",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5411839877551,
+            "y": -34.5518471642857
+          },
+          "direccion": "92 - Joaquin V. Gonzalez 2131, General San Martín",
+          "nombre_calle": "92 - Joaquin V. Gonzalez",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Andrés",
+          "nombre_partido": "General San Martín",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2131,
+          "cod_calle": 48024,
+          "cod_calle_cruce": null,
+          "cod_partido": "jose_c_paz",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7428566285714,
+            "y": -34.5324906561225
+          },
+          "direccion": "Joaquín V. González 2131, José C. Paz",
+          "nombre_calle": "Joaquín V. González",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "José C. Paz",
+          "nombre_partido": "José C. Paz",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2131,
+          "cod_calle": 64941,
+          "cod_calle_cruce": null,
+          "cod_partido": "quilmes",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.278826644898,
+            "y": -34.7429078816327
+          },
+          "direccion": "Joaquín V. González 2131, Quilmes",
+          "nombre_calle": "Joaquín V. González",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Quilmes",
+          "nombre_partido": "Quilmes",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97047.21499549046,
+                  101712.09503141826
+                ],
+                [
+                  97045.42399549433,
+                  101710.80603142336
+                ],
+                [
+                  97043.55699549893,
+                  101709.46203142896
+                ],
+                [
+                  97039.49999550807,
+                  101706.54103144011
+                ],
+                [
+                  97034.06399552063,
+                  101702.62803145454
+                ],
+                [
+                  97032.19699552428,
+                  101701.28403146015
+                ],
+                [
+                  97030.86999552771,
+                  101700.32903146374
+                ],
+                [
+                  97027.40999553556,
+                  101697.83803147395
+                ],
+                [
+                  97024.64999554203,
+                  101695.85203148104
+                ],
+                [
+                  97022.44099554632,
+                  101694.26203148728
+                ],
+                [
+                  97021.15499554982,
+                  101693.33603149088
+                ],
+                [
+                  97021.06099554956,
+                  101693.26803149117
+                ],
+                [
+                  97020.65599555115,
+                  101692.97703149208
+                ],
+                [
+                  97019.93799555243,
+                  101692.46003149412
+                ],
+                [
+                  97015.33199557045,
+                  101698.84103147974
+                ],
+                [
+                  97016.04899556807,
+                  101699.36203147742
+                ],
+                [
+                  97016.45299556728,
+                  101699.65503147687
+                ],
+                [
+                  97017.82999556448,
+                  101700.65403147283
+                ],
+                [
+                  97018.989995562,
+                  101701.49603146981
+                ],
+                [
+                  97019.19199556112,
+                  101701.64203146892
+                ],
+                [
+                  97020.03199555911,
+                  101702.25203146695
+                ],
+                [
+                  97026.19099554518,
+                  101706.72303144966
+                ],
+                [
+                  97027.5479955429,
+                  101707.70803144528
+                ],
+                [
+                  97029.40899553827,
+                  101709.05903144085
+                ],
+                [
+                  97030.48399553602,
+                  101709.83903143712
+                ],
+                [
+                  97031.01199553475,
+                  101710.22203143605
+                ],
+                [
+                  97042.53999550868,
+                  101718.5890314035
+                ],
+                [
+                  97043.01399550805,
+                  101719.04403140198
+                ],
+                [
+                  97043.3499955064,
+                  101719.17703140172
+                ],
+                [
+                  97046.58599549963,
+                  101721.52603139219
+                ],
+                [
+                  97048.33299549238,
+                  101719.08503139808
+                ],
+                [
+                  97051.15899548167,
+                  101714.93403140799
+                ],
+                [
+                  97048.02699548857,
+                  101712.67903141587
+                ],
+                [
+                  97047.21499549046,
+                  101712.09503141826
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "081-079A-019",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "JOAQUIN V. GONZALEZ 2131",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.49564548316357,
+      -34.613877606389025
+    ],
+    "direccion": "",
+    "fondo": "38.25",
+    "frente": "8.00",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "079A",
+    "parcela": "019",
+    "pdamatriz": "264951",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "081",
+    "smp": "081-079A-019",
+    "smp_anterior": "081-079A-018",
+    "smp_siguiente": "081-079A-020",
+    "srid": 4326,
+    "superficie_cubierta": "292.00",
+    "superficie_total": "306.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "081-079A-019",
+  "_http_status": 200
+}

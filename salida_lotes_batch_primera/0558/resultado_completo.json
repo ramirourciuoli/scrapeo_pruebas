@@ -1,0 +1,455 @@
+{
+  "area_m2": 363.28377628326416,
+  "centroide_lonlat": {
+    "lat": -34.637738,
+    "lon": -58.367223
+  },
+  "centroide_xy": {
+    "x": 108809.50059001423,
+    "y": 99056.28438013485
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 1,
+          "lep": 1,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.0,
+          "fot_perim_libre": 3.0,
+          "fot_semi_libre": 3.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/23/010-077-024_0000414523.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION010/010-077-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION010/PI-010-077-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "010-077-007a",
+            "010-077-025",
+            "010-077-023",
+            "010-077-006"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "E3 2",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 216.872680410009,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 363.3,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "010-077-024"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C. ARGERICH",
+    "barrio": "Boca",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1162",
+    "codigo_postal_argentino": "C1162AFC",
+    "comisaria": "26",
+    "comisaria_vecinal": "4C",
+    "comuna": "Comuna 4",
+    "distrito_economico": "DISTRITO DE LAS ARTES",
+    "distrito_escolar": "Distrito Escolar   IV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "10"
+  },
+  "debug": {
+    "address": "SUAREZ 1043",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.36722346519668,
+        -34.63773797657138
+      ],
+      "direccion": "",
+      "fondo": "41.80",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "077",
+      "parcela": "024",
+      "pdamatriz": "122460",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "010",
+      "smp": "010-077-024",
+      "smp_anterior": "010-077-023",
+      "smp_siguiente": "010-077-025",
+      "srid": 4326,
+      "superficie_cubierta": "317.00",
+      "superficie_total": "362.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1043,
+      "cod_calle": 20118
+    },
+    "usig_direccion_elegida": {
+      "altura": 1043,
+      "cod_calle": 20118,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.367189",
+        "y": "-34.637944"
+      },
+      "direccion": "SUAREZ 1043, CABA",
+      "nombre_calle": "SUAREZ",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1043,
+          "cod_calle": 20118,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.367189",
+            "y": "-34.637944"
+          },
+          "direccion": "SUAREZ 1043, CABA",
+          "nombre_calle": "SUAREZ",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1043,
+          "cod_calle": 20119,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.526964",
+            "y": "-34.650433"
+          },
+          "direccion": "SUAREZ, JOSE LEON 1043, CABA",
+          "nombre_calle": "SUAREZ, JOSE LEON",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1043,
+          "cod_calle": 311659,
+          "cod_calle_cruce": null,
+          "cod_partido": "avellaneda",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3446684265306,
+            "y": -34.6612460602041
+          },
+          "direccion": "Coronel Suárez 1043, Avellaneda",
+          "nombre_calle": "Coronel Suárez",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Dock Sud",
+          "nombre_partido": "Avellaneda",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1043,
+          "cod_calle": 48113,
+          "cod_calle_cruce": null,
+          "cod_partido": "jose_c_paz",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7413097571429,
+            "y": -34.5185996142857
+          },
+          "direccion": "Coronel Suárez 1043, José C. Paz",
+          "nombre_calle": "Coronel Suárez",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "José C. Paz",
+          "nombre_partido": "José C. Paz",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1043,
+          "cod_calle": 46656,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "direccion": "Coronel Suárez 1043, La Matanza",
+          "nombre_calle": "Coronel Suárez",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "La Tablada",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1043,
+          "cod_calle": 19113,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4136613102041,
+            "y": -34.7306474418368
+          },
+          "direccion": "José León Suárez 1043, Lanús",
+          "nombre_calle": "José León Suárez",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Remedios de Escalada",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1043,
+          "cod_calle": 18678,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3981344867347,
+            "y": -34.7800263734694
+          },
+          "direccion": "Coronel Suárez 1043, Lomas de Zamora",
+          "nombre_calle": "Coronel Suárez",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Temperley",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  108816.60596047029,
+                  99036.06703006406
+                ],
+                [
+                  108815.12096047492,
+                  99035.8680300657
+                ],
+                [
+                  108812.42996048156,
+                  99035.50703006919
+                ],
+                [
+                  108808.03196049343,
+                  99034.91803007352
+                ],
+                [
+                  108807.38696049922,
+                  99039.66103006137
+                ],
+                [
+                  108806.10496051033,
+                  99049.09203003583
+                ],
+                [
+                  108805.74996051283,
+                  99051.70603002876
+                ],
+                [
+                  108805.59696051417,
+                  99052.83203002592
+                ],
+                [
+                  108804.23396052566,
+                  99062.8620299981
+                ],
+                [
+                  108803.80496052877,
+                  99066.01302999016
+                ],
+                [
+                  108802.63996053842,
+                  99074.5840299665
+                ],
+                [
+                  108802.392960541,
+                  99076.40302996172
+                ],
+                [
+                  108806.34796053043,
+                  99077.00902995677
+                ],
+                [
+                  108810.96396051747,
+                  99077.71702995183
+                ],
+                [
+                  108811.22896051583,
+                  99075.75702995717
+                ],
+                [
+                  108811.94096050927,
+                  99070.50502997107
+                ],
+                [
+                  108812.0559605085,
+                  99069.65402997361
+                ],
+                [
+                  108812.392960506,
+                  99067.16902998
+                ],
+                [
+                  108812.59396050371,
+                  99065.68302998444
+                ],
+                [
+                  108813.0109605006,
+                  99062.60902999266
+                ],
+                [
+                  108813.58696049616,
+                  99058.35103000377
+                ],
+                [
+                  108814.14396049152,
+                  99054.24403001502
+                ],
+                [
+                  108815.41396048044,
+                  99044.8630300404
+                ],
+                [
+                  108816.60596047029,
+                  99036.06703006406
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "010-077-024",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "SUAREZ 1043",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.36722346519668,
+      -34.63773797657138
+    ],
+    "direccion": "",
+    "fondo": "41.80",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "077",
+    "parcela": "024",
+    "pdamatriz": "122460",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "010",
+    "smp": "010-077-024",
+    "smp_anterior": "010-077-023",
+    "smp_siguiente": "010-077-025",
+    "srid": 4326,
+    "superficie_cubierta": "317.00",
+    "superficie_total": "362.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "010-077-024",
+  "_http_status": 200
+}

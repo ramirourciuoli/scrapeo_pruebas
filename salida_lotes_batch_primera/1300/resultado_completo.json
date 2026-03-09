@@ -1,0 +1,61 @@
+{
+  "debug": {
+    "address": "DELGADO 3575",
+    "catastro_parcela_por_codcalle_altura": {},
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "José Matías Delgado",
+      "puerta": 3575
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3575,
+      "cod_calle": 114284
+    },
+    "usig_direccion_elegida": {
+      "altura": 3575,
+      "cod_calle": 114284,
+      "cod_calle_cruce": null,
+      "cod_partido": "florencio_varela",
+      "coordenadas": {
+        "srid": 4326,
+        "x": -58.2483994755102,
+        "y": -34.7959652
+      },
+      "direccion": "José Matías Delgado 3575, Florencio Varela",
+      "nombre_calle": "José Matías Delgado",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "Florencio Varela",
+      "nombre_partido": "Florencio Varela",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.7959652,
+      "lng": -58.2483994755102
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3575,
+          "cod_calle": 114284,
+          "cod_calle_cruce": null,
+          "cod_partido": "florencio_varela",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.2483994755102,
+            "y": -34.7959652
+          },
+          "direccion": "José Matías Delgado 3575, Florencio Varela",
+          "nombre_calle": "José Matías Delgado",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Florencio Varela",
+          "nombre_partido": "Florencio Varela",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura.",
+  "ok": false,
+  "_http_status": 404
+}

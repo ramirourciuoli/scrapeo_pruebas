@@ -1,0 +1,383 @@
+{
+  "area_m2": 186.24251174926758,
+  "centroide_lonlat": {
+    "lat": -34.637311,
+    "lon": -58.449027
+  },
+  "centroide_xy": {
+    "x": 101308.74859397748,
+    "y": 99107.74357017166
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.46,
+          "fot_perim_libre": 3.46,
+          "fot_semi_libre": 3.46
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/96/044-097B-001_0000460696.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION044/044-097B-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION044/PI-044-097B-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "DI-2022-1117-GCABA-DGIUR",
+          "pdf": "044-097B.pdf"
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "044-097B-002",
+            "044-097B-009"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2a II",
+          "incidencia_uva": 110.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 186.229699999972,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 186.2,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "044-097B-001"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. P. PIÑERO",
+    "barrio": "Parque Chacabuco",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1406",
+    "codigo_postal_argentino": "C1406HSF",
+    "comisaria": "38",
+    "comisaria_vecinal": "7B",
+    "comuna": "Comuna 7",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "44"
+  },
+  "debug": {
+    "address": "ZUVIRIA 1980",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.44902683965938,
+        -34.63731112011841
+      ],
+      "direccion": "",
+      "fondo": "15.82",
+      "frente": "11.76",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "097B",
+      "parcela": "001",
+      "pdamatriz": "92486",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "3",
+      "propiedad_horizontal": "Si",
+      "seccion": "044",
+      "smp": "044-097B-001",
+      "smp_anterior": "044-097B-009",
+      "smp_siguiente": "044-097B-002",
+      "srid": 4326,
+      "superficie_cubierta": "358.00",
+      "superficie_total": "186.00",
+      "unidades_funcionales": "4",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1980,
+      "cod_calle": 27026
+    },
+    "usig_direccion_elegida": {
+      "altura": 1980,
+      "cod_calle": 27026,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.449160",
+        "y": "-34.637285"
+      },
+      "direccion": "ZUVIRIA 1980, CABA",
+      "nombre_calle": "ZUVIRIA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1980,
+          "cod_calle": 27026,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.449160",
+            "y": "-34.637285"
+          },
+          "direccion": "ZUVIRIA 1980, CABA",
+          "nombre_calle": "ZUVIRIA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1980,
+          "cod_calle": 571371,
+          "cod_calle_cruce": null,
+          "cod_partido": "esteban_echeverria",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4610042266332,
+            "y": -34.7856451025126
+          },
+          "direccion": "Avenida Facundo Zuviría 1980, Esteban Echeverría",
+          "nombre_calle": "Avenida Facundo Zuviría",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Luis Guillón",
+          "nombre_partido": "Esteban Echeverría",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1980,
+          "cod_calle": 216638,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5717492408163,
+            "y": -34.7456090367347
+          },
+          "direccion": "Facundo de Zuviría 1980, La Matanza",
+          "nombre_calle": "Facundo de Zuviría",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Gregorio de Laferrere",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1980,
+          "cod_calle": 187358,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_miguel",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.722057655102,
+            "y": -34.5437341367347
+          },
+          "direccion": "Zuviría 1980, San Miguel",
+          "nombre_calle": "Zuviría",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Miguel",
+          "nombre_partido": "San Miguel",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  101304.18598158672,
+                  99100.78603553769
+                ],
+                [
+                  101303.34298159058,
+                  99102.03503553465
+                ],
+                [
+                  101301.0819815995,
+                  99105.38503552665
+                ],
+                [
+                  101300.11298160277,
+                  99106.82203552325
+                ],
+                [
+                  101299.54398160489,
+                  99107.66503552164
+                ],
+                [
+                  101303.33298159695,
+                  99111.37803550789
+                ],
+                [
+                  101304.07998159586,
+                  99112.11003550608
+                ],
+                [
+                  101308.57998158655,
+                  99116.52003548949
+                ],
+                [
+                  101312.55998157436,
+                  99115.81003548851
+                ],
+                [
+                  101318.04098155175,
+                  99105.39703551392
+                ],
+                [
+                  101316.97998155454,
+                  99104.83603551649
+                ],
+                [
+                  101312.30998156495,
+                  99102.36703552643
+                ],
+                [
+                  101309.77298157151,
+                  99101.0260355321
+                ],
+                [
+                  101309.24798157241,
+                  99100.74903553349
+                ],
+                [
+                  101308.888981574,
+                  99100.55903553485
+                ],
+                [
+                  101305.53598158195,
+                  99098.78603554226
+                ],
+                [
+                  101304.34998158591,
+                  99100.54403553772
+                ],
+                [
+                  101304.18598158672,
+                  99100.78603553769
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "044-097B-001",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ZUVIRIA 1980",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.44902683965938,
+      -34.63731112011841
+    ],
+    "direccion": "",
+    "fondo": "15.82",
+    "frente": "11.76",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "097B",
+    "parcela": "001",
+    "pdamatriz": "92486",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "3",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "044",
+    "smp": "044-097B-001",
+    "smp_anterior": "044-097B-009",
+    "smp_siguiente": "044-097B-002",
+    "srid": 4326,
+    "superficie_cubierta": "358.00",
+    "superficie_total": "186.00",
+    "unidades_funcionales": "4",
+    "vuc": "0.00"
+  },
+  "smp": "044-097B-001",
+  "_http_status": 200
+}

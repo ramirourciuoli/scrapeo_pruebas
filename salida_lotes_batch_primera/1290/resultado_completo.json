@@ -1,0 +1,334 @@
+{
+  "area_m2": 248.74986171722412,
+  "centroide_lonlat": {
+    "lat": -34.555066,
+    "lon": -58.44611
+  },
+  "centroide_xy": {
+    "x": 101577.72343474689,
+    "y": 108231.64424720297
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 0.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "U",
+            "distrito_especifico": "U 23"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 0.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/1/55/025-077-023_0000240155.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION025/025-077-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION025/PI-025-077-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "025-077-002a",
+            "025-077-001",
+            "025-077-022",
+            "025-077-017"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "U23",
+          "incidencia_uva": 500.0,
+          "plusvalia_em": 0.0,
+          "plusvalia_pl": 0.0,
+          "plusvalia_sl": 0.0
+        },
+        "rivolta": 0,
+        "subzona": "Zona 1",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 248.7,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "025-077-023"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Belgrano",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1428",
+    "codigo_postal_argentino": "C1428ATH",
+    "comisaria": "51",
+    "comisaria_vecinal": "13A",
+    "comuna": "Comuna 13",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   X",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "25"
+  },
+  "debug": {
+    "address": "MIÑONES 2148",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.446110361274854,
+        -34.55506580280685
+      ],
+      "direccion": "",
+      "fondo": "28.17",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "077",
+      "parcela": "023",
+      "pdamatriz": "341847",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "025",
+      "smp": "025-077-023",
+      "smp_anterior": "025-077-022",
+      "smp_siguiente": "025-077-001",
+      "srid": 4326,
+      "superficie_cubierta": "302.00",
+      "superficie_total": "244.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2148,
+      "cod_calle": 13084
+    },
+    "usig_direccion_elegida": {
+      "altura": 2148,
+      "cod_calle": 13084,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.445956",
+        "y": "-34.554974"
+      },
+      "direccion": "MIÑONES 2148, CABA",
+      "nombre_calle": "MIÑONES",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2148,
+          "cod_calle": 13084,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.445956",
+            "y": "-34.554974"
+          },
+          "direccion": "MIÑONES 2148, CABA",
+          "nombre_calle": "MIÑONES",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  101563.70909417381,
+                  108226.95008299008
+                ],
+                [
+                  101566.44498772296,
+                  108228.92300974246
+                ],
+                [
+                  101568.32698771772,
+                  108230.28000973596
+                ],
+                [
+                  101575.56198770119,
+                  108235.49700971707
+                ],
+                [
+                  101581.43211659476,
+                  108239.73108880219
+                ],
+                [
+                  101583.37010487166,
+                  108241.12812248713
+                ],
+                [
+                  101586.68809802854,
+                  108243.52112784848
+                ],
+                [
+                  101588.5250731188,
+                  108240.9511205295
+                ],
+                [
+                  101591.75898765656,
+                  108236.42700970112
+                ],
+                [
+                  101587.7740965531,
+                  108233.52808588368
+                ],
+                [
+                  101584.34709460783,
+                  108231.03510493637
+                ],
+                [
+                  101581.84498768004,
+                  108229.21500972891
+                ],
+                [
+                  101580.08898768242,
+                  108227.93800973488
+                ],
+                [
+                  101578.70610340894,
+                  108226.93213864477
+                ],
+                [
+                  101568.83909903694,
+                  108219.75409912155
+                ],
+                [
+                  101568.231066813,
+                  108220.60712646254
+                ],
+                [
+                  101565.58909904945,
+                  108224.3120825084
+                ],
+                [
+                  101563.70909417381,
+                  108226.95008299008
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "025-077-023",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MIÑONES 2148",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.446110361274854,
+      -34.55506580280685
+    ],
+    "direccion": "",
+    "fondo": "28.17",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "077",
+    "parcela": "023",
+    "pdamatriz": "341847",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "025",
+    "smp": "025-077-023",
+    "smp_anterior": "025-077-022",
+    "smp_siguiente": "025-077-001",
+    "srid": 4326,
+    "superficie_cubierta": "302.00",
+    "superficie_total": "244.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "025-077-023",
+  "_http_status": 200
+}

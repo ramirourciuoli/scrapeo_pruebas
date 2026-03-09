@@ -1,0 +1,313 @@
+{
+  "area_m2": 72.42643356323242,
+  "centroide_lonlat": {
+    "lat": -34.560594,
+    "lon": -58.475474
+  },
+  "centroide_xy": {
+    "x": 98882.73264818496,
+    "y": 107618.47821801377
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": "SI",
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/1/59/041-027-018a_0000387159.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION041/041-027-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION041/PI-041-027-V3.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "041-027-017",
+            "041-027-018b",
+            "041-027-019"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 400.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 72.4545999999968,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 72.4,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "041-027-018A"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Coghlan",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1430",
+    "codigo_postal_argentino": "C1430EYM",
+    "comisaria": "35",
+    "comisaria_vecinal": "12C",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   X",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "41"
+  },
+  "debug": {
+    "address": "MELIAN 3005",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.475473673118714,
+        -34.560593659601736
+      ],
+      "direccion": "",
+      "fondo": "17.86",
+      "frente": "4.20",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "027",
+      "parcela": "018A",
+      "pdamatriz": "378704",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "041",
+      "smp": "041-027-018A",
+      "smp_anterior": "041-027-017",
+      "smp_siguiente": "041-027-018B",
+      "srid": 4326,
+      "superficie_cubierta": "185.00",
+      "superficie_total": "75.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3005,
+      "cod_calle": 13063
+    },
+    "usig_direccion_elegida": {
+      "altura": 3005,
+      "cod_calle": 13063,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.475560",
+        "y": "-34.560674"
+      },
+      "direccion": "MELIAN AV. 3005, CABA",
+      "nombre_calle": "MELIAN AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3005,
+          "cod_calle": 13063,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.475560",
+            "y": "-34.560674"
+          },
+          "direccion": "MELIAN AV. 3005, CABA",
+          "nombre_calle": "MELIAN AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98889.64199476875,
+                  107617.4200134709
+                ],
+                [
+                  98883.96279113989,
+                  107614.34594139652
+                ],
+                [
+                  98882.72976779102,
+                  107616.45969571243
+                ],
+                [
+                  98881.05637895854,
+                  107616.76795155133
+                ],
+                [
+                  98876.94099480135,
+                  107613.88401349014
+                ],
+                [
+                  98874.87799480953,
+                  107617.19501348305
+                ],
+                [
+                  98878.18999480271,
+                  107619.32901347414
+                ],
+                [
+                  98880.66399479641,
+                  107620.9240134676
+                ],
+                [
+                  98881.67499479403,
+                  107621.57501346551
+                ],
+                [
+                  98883.58499478975,
+                  107622.8060134603
+                ],
+                [
+                  98885.43299478569,
+                  107623.99701345616
+                ],
+                [
+                  98887.23599477788,
+                  107621.18001346197
+                ],
+                [
+                  98889.64199476875,
+                  107617.4200134709
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "041-027-018A",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MELIAN 3005",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.475473673118714,
+      -34.560593659601736
+    ],
+    "direccion": "",
+    "fondo": "17.86",
+    "frente": "4.20",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "027",
+    "parcela": "018A",
+    "pdamatriz": "378704",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "041",
+    "smp": "041-027-018A",
+    "smp_anterior": "041-027-017",
+    "smp_siguiente": "041-027-018B",
+    "srid": 4326,
+    "superficie_cubierta": "185.00",
+    "superficie_total": "75.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "041-027-018A",
+  "_http_status": 200
+}

@@ -1,0 +1,462 @@
+{
+  "area_m2": 630.2344379425049,
+  "centroide_lonlat": {
+    "lat": -34.620559,
+    "lon": -58.459582
+  },
+  "centroide_xy": {
+    "x": 100340.962949676,
+    "y": 100966.30179055891
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 2.72,
+          "fot_perim_libre": 2.72,
+          "fot_semi_libre": 2.72
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/16/057-006-025_0000134016.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION057/057-006-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION057/PI-057-006-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "057-006-020a",
+            "057-006-027",
+            "057-006-024",
+            "057-006-019c",
+            "057-006-021"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2a II",
+          "incidencia_uva": 150.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 452.014130418463,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 630.2,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "057-006-025"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. T. ÁLVAREZ",
+    "barrio": "Flores",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1406",
+    "codigo_postal_argentino": "C1406BKJ",
+    "comisaria": "50",
+    "comisaria_vecinal": "7C",
+    "comuna": "Comuna 7",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "57"
+  },
+  "debug": {
+    "address": "TERRERO 530",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.459582217449814,
+        -34.620558516211176
+      ],
+      "direccion": "",
+      "fondo": "24.02",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "006",
+      "parcela": "025",
+      "pdamatriz": "133544",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "057",
+      "smp": "057-006-025",
+      "smp_anterior": "057-006-024",
+      "smp_siguiente": "057-006-027",
+      "srid": 4326,
+      "superficie_cubierta": "211.00",
+      "superficie_total": "208.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 530,
+      "cod_calle": 21022
+    },
+    "usig_direccion_elegida": {
+      "altura": 530,
+      "cod_calle": 21022,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.459352",
+        "y": "-34.620520"
+      },
+      "direccion": "TERRERO 530, CABA",
+      "nombre_calle": "TERRERO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 530,
+          "cod_calle": 21022,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.459352",
+            "y": "-34.620520"
+          },
+          "direccion": "TERRERO 530, CABA",
+          "nombre_calle": "TERRERO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 530,
+          "cod_calle": 53832,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3772353363636,
+            "y": -34.824787880303
+          },
+          "direccion": "Terrero 530, Almirante Brown",
+          "nombre_calle": "Terrero",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Burzaco",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 530,
+          "cod_calle": 26164,
+          "cod_calle_cruce": null,
+          "cod_partido": "esteban_echeverria",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4663644040816,
+            "y": -34.8199086836735
+          },
+          "direccion": "Sofía Terrero de Santamarina 530, Esteban Echeverría",
+          "nombre_calle": "Sofía Terrero de Santamarina",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Monte Grande",
+          "nombre_partido": "Esteban Echeverría",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 530,
+          "cod_calle": 166448,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "direccion": "Terrero 530, La Matanza",
+          "nombre_calle": "Terrero",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Isidro Casanova",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 530,
+          "cod_calle": 69040,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_isidro",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5198444704545,
+            "y": -34.4760526704545
+          },
+          "direccion": "Obispo Terrero 530, San Isidro",
+          "nombre_calle": "Obispo Terrero",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Isidro",
+          "nombre_partido": "San Isidro",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  100361.03998563443,
+                  100964.00403102205
+                ],
+                [
+                  100359.19798563825,
+                  100963.17803102644
+                ],
+                [
+                  100356.93098564401,
+                  100962.16103102989
+                ],
+                [
+                  100354.87598564936,
+                  100961.23903103435
+                ],
+                [
+                  100350.08998566125,
+                  100959.0920310434
+                ],
+                [
+                  100347.27898566794,
+                  100957.83103104995
+                ],
+                [
+                  100346.99098566978,
+                  100957.70203104877
+                ],
+                [
+                  100344.28898567546,
+                  100956.489031056
+                ],
+                [
+                  100340.94398568421,
+                  100954.989031061
+                ],
+                [
+                  100336.69698570063,
+                  100962.35103104531
+                ],
+                [
+                  100327.69206335983,
+                  100958.27011162936
+                ],
+                [
+                  100324.24809364232,
+                  100956.70895440943
+                ],
+                [
+                  100318.85198574522,
+                  100954.26403108097
+                ],
+                [
+                  100316.67298575427,
+                  100958.10603107238
+                ],
+                [
+                  100314.1459857645,
+                  100962.56203106113
+                ],
+                [
+                  100327.18898573279,
+                  100968.56403103436
+                ],
+                [
+                  100327.77398573156,
+                  100968.83303103194
+                ],
+                [
+                  100329.69698572662,
+                  100969.7180310291
+                ],
+                [
+                  100333.54798571755,
+                  100971.49003102287
+                ],
+                [
+                  100334.6509857144,
+                  100971.9980310185
+                ],
+                [
+                  100334.80198571457,
+                  100972.06703101989
+                ],
+                [
+                  100339.20198570246,
+                  100974.09203101072
+                ],
+                [
+                  100342.32798569472,
+                  100975.53103100497
+                ],
+                [
+                  100345.63998568666,
+                  100977.05503099828
+                ],
+                [
+                  100348.80098567961,
+                  100978.51003099015
+                ],
+                [
+                  100349.22198567851,
+                  100978.70403099069
+                ],
+                [
+                  100354.06698566626,
+                  100980.93303097907
+                ],
+                [
+                  100358.89998564759,
+                  100972.41103100046
+                ],
+                [
+                  100361.01998563748,
+                  100968.55803100968
+                ],
+                [
+                  100361.25698563714,
+                  100968.25703101122
+                ],
+                [
+                  100363.14398562952,
+                  100964.9330310178
+                ],
+                [
+                  100362.5909856304,
+                  100964.70003101899
+                ],
+                [
+                  100361.57998563169,
+                  100964.24603102182
+                ],
+                [
+                  100361.03998563443,
+                  100964.00403102205
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "057-006-025",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "TERRERO 530",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.459582217449814,
+      -34.620558516211176
+    ],
+    "direccion": "",
+    "fondo": "24.02",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "006",
+    "parcela": "025",
+    "pdamatriz": "133544",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "057",
+    "smp": "057-006-025",
+    "smp_anterior": "057-006-024",
+    "smp_siguiente": "057-006-027",
+    "srid": 4326,
+    "superficie_cubierta": "211.00",
+    "superficie_total": "208.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "057-006-025",
+  "_http_status": 200
+}

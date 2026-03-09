@@ -1,0 +1,446 @@
+{
+  "area_m2": 363.05284214019775,
+  "centroide_lonlat": {
+    "lat": -34.629016,
+    "lon": -58.511974
+  },
+  "centroide_xy": {
+    "x": 95536.51723183741,
+    "y": 100027.00042120946
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/fp/SECCION091/FP-091-062-035-VD.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION091/091-062-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION091/PI-091-062-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "091-062-005",
+            "091-062-004",
+            "091-062-034",
+            "091-062-036",
+            "091-062-025d"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 360.094468815965,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 363.1,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "091-062-035"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Villa Luro",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1407",
+    "codigo_postal_argentino": "C1407BWV",
+    "comisaria": "44",
+    "comisaria_vecinal": "10B",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "91"
+  },
+  "debug": {
+    "address": "VICTOR HUGO 1166",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.51197371411279,
+        -34.629015899143816
+      ],
+      "direccion": "",
+      "fondo": "41.75",
+      "frente": "8.60",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "062",
+      "parcela": "035",
+      "pdamatriz": "285296",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "091",
+      "smp": "091-062-035",
+      "smp_anterior": "091-062-034",
+      "smp_siguiente": "091-062-036",
+      "srid": 4326,
+      "superficie_cubierta": "331.00",
+      "superficie_total": "359.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1166,
+      "cod_calle": 8032
+    },
+    "usig_direccion_elegida": {
+      "altura": 1166,
+      "cod_calle": 8032,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.511787",
+        "y": "-34.628845"
+      },
+      "direccion": "HUGO, VICTOR 1166, CABA",
+      "nombre_calle": "HUGO, VICTOR",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1166,
+          "cod_calle": 8032,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.511787",
+            "y": "-34.628845"
+          },
+          "direccion": "HUGO, VICTOR 1166, CABA",
+          "nombre_calle": "HUGO, VICTOR",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1166,
+          "cod_calle": 59641,
+          "cod_calle_cruce": null,
+          "cod_partido": "avellaneda",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3268509877551,
+            "y": -34.7168988632653
+          },
+          "direccion": "Victor Hugo 1166, Avellaneda",
+          "nombre_calle": "Victor Hugo",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Wilde",
+          "nombre_partido": "Avellaneda",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1166,
+          "cod_calle": 40479,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3427867653061,
+            "y": -34.7319334571429
+          },
+          "direccion": "Victor Hugo 1166, Lanús",
+          "nombre_calle": "Victor Hugo",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Monte Chingolo",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1166,
+          "cod_calle": 157559,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6857330163265,
+            "y": -34.6895950755102
+          },
+          "direccion": "Victor Hugo 1166, Merlo",
+          "nombre_calle": "Victor Hugo",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Libertad",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  95547.41899844176,
+                  100045.26703722184
+                ],
+                [
+                  95550.25599843219,
+                  100042.7150372267
+                ],
+                [
+                  95551.14899842918,
+                  100041.91203722797
+                ],
+                [
+                  95553.75099842012,
+                  100039.57103723352
+                ],
+                [
+                  95551.50599842444,
+                  100037.08403724153
+                ],
+                [
+                  95549.8189984278,
+                  100035.21703724843
+                ],
+                [
+                  95549.60499842856,
+                  100034.98003724948
+                ],
+                [
+                  95546.12099843526,
+                  100031.12103726278
+                ],
+                [
+                  95545.95199843487,
+                  100030.93403726356
+                ],
+                [
+                  95542.03199844268,
+                  100026.5930372786
+                ],
+                [
+                  95540.69099844534,
+                  100025.10803728347
+                ],
+                [
+                  95539.41899844795,
+                  100023.69903728837
+                ],
+                [
+                  95531.78399846322,
+                  100015.24403731778
+                ],
+                [
+                  95529.6539984675,
+                  100012.88503732585
+                ],
+                [
+                  95528.26299847043,
+                  100011.34503733114
+                ],
+                [
+                  95525.88399847447,
+                  100008.71003734053
+                ],
+                [
+                  95520.71799849317,
+                  100013.36303733129
+                ],
+                [
+                  95519.34299849796,
+                  100014.60103732877
+                ],
+                [
+                  95525.30099848587,
+                  100021.16703730644
+                ],
+                [
+                  95531.95899847255,
+                  100028.50403728022
+                ],
+                [
+                  95532.93699847072,
+                  100029.58103727695
+                ],
+                [
+                  95533.2349984705,
+                  100029.91003727578
+                ],
+                [
+                  95534.21199846856,
+                  100030.98703727155
+                ],
+                [
+                  95535.24999846623,
+                  100032.13003726775
+                ],
+                [
+                  95535.55699846563,
+                  100032.46803726701
+                ],
+                [
+                  95538.71899845895,
+                  100035.95303725425
+                ],
+                [
+                  95539.52399845803,
+                  100036.89303725143
+                ],
+                [
+                  95543.19999845063,
+                  100040.79203723793
+                ],
+                [
+                  95544.04699844898,
+                  100041.69003723483
+                ],
+                [
+                  95545.1449984461,
+                  100042.85603723
+                ],
+                [
+                  95545.56899844581,
+                  100043.30403722828
+                ],
+                [
+                  95546.73299844336,
+                  100044.54003722442
+                ],
+                [
+                  95547.41899844176,
+                  100045.26703722184
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "091-062-035",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "VICTOR HUGO 1166",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.51197371411279,
+      -34.629015899143816
+    ],
+    "direccion": "",
+    "fondo": "41.75",
+    "frente": "8.60",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "062",
+    "parcela": "035",
+    "pdamatriz": "285296",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "091",
+    "smp": "091-062-035",
+    "smp_anterior": "091-062-034",
+    "smp_siguiente": "091-062-036",
+    "srid": 4326,
+    "superficie_cubierta": "331.00",
+    "superficie_total": "359.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "091-062-035",
+  "_http_status": 200
+}

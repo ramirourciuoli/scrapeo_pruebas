@@ -1,0 +1,459 @@
+{
+  "area_m2": 109.66211795806885,
+  "centroide_lonlat": {
+    "lat": -34.61233,
+    "lon": -58.497561
+  },
+  "centroide_xy": {
+    "x": 96857.59535168845,
+    "y": 101878.63139265604
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/48/081-067-001_0000166548.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION081/081-067-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION081/PI-081-067-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "081-067-002",
+            "081-067-051"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 100.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 109.609000000045,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 109.7,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "081-067-001"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Monte Castro",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1417",
+    "codigo_postal_argentino": "C1417AQD",
+    "comisaria": "43",
+    "comisaria_vecinal": "11A",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "81"
+  },
+  "debug": {
+    "address": "JOAQUIN V. GONZALEZ 2298",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.49756065979135,
+        -34.61232983342913
+      ],
+      "direccion": "",
+      "fondo": "14.36",
+      "frente": "7.38",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "067",
+      "parcela": "001",
+      "pdamatriz": "265247",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "2",
+      "propiedad_horizontal": "Si",
+      "seccion": "081",
+      "smp": "081-067-001",
+      "smp_anterior": "081-067-051",
+      "smp_siguiente": "081-067-002",
+      "srid": 4326,
+      "superficie_cubierta": "222.00",
+      "superficie_total": "106.00",
+      "unidades_funcionales": "4",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2298,
+      "cod_calle": 7066
+    },
+    "usig_direccion_elegida": {
+      "altura": 2298,
+      "cod_calle": 7066,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.497474",
+        "y": "-34.612293"
+      },
+      "direccion": "GONZALEZ, JOAQUIN V. 2298, CABA",
+      "nombre_calle": "GONZALEZ, JOAQUIN V.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2298,
+          "cod_calle": 7066,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.497474",
+            "y": "-34.612293"
+          },
+          "direccion": "GONZALEZ, JOAQUIN V. 2298, CABA",
+          "nombre_calle": "GONZALEZ, JOAQUIN V.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2298,
+          "cod_calle": 52785,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3718417653061,
+            "y": -34.8158029591837
+          },
+          "direccion": "Joaquín V. González 2298, Almirante Brown",
+          "nombre_calle": "Joaquín V. González",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Burzaco",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2298,
+          "cod_calle": 53218,
+          "cod_calle_cruce": null,
+          "cod_partido": "general_san_martin",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5426211469388,
+            "y": -34.553055255102
+          },
+          "direccion": "92 - Joaquin V. Gonzalez 2298, General San Martín",
+          "nombre_calle": "92 - Joaquin V. Gonzalez",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Andrés",
+          "nombre_partido": "General San Martín",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2298,
+          "cod_calle": 48024,
+          "cod_calle_cruce": null,
+          "cod_partido": "jose_c_paz",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7442056795918,
+            "y": -34.533749477551
+          },
+          "direccion": "Joaquín V. González 2298, José C. Paz",
+          "nombre_calle": "Joaquín V. González",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "José C. Paz",
+          "nombre_partido": "José C. Paz",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2298,
+          "cod_calle": 165665,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7162400020408,
+            "y": -34.6990657306122
+          },
+          "direccion": "Joaquín Víctor González 2298, Merlo",
+          "nombre_calle": "Joaquín Víctor González",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Parque San Martín",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2298,
+          "cod_calle": 65152,
+          "cod_calle_cruce": null,
+          "cod_partido": "moreno",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.8076341071428,
+            "y": -34.6391977326531
+          },
+          "direccion": "Joaquin Victor Gonzalez 2298, Moreno",
+          "nombre_calle": "Joaquin Victor Gonzalez",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "La Reja",
+          "nombre_partido": "Moreno",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2298,
+          "cod_calle": 65152,
+          "cod_calle_cruce": null,
+          "cod_partido": "moreno",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.8076341071428,
+            "y": -34.6391977326531
+          },
+          "direccion": "Joaquín Víctor González 2298, Moreno",
+          "nombre_calle": "Joaquín Víctor González",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Moreno",
+          "nombre_partido": "Moreno",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2298,
+          "cod_calle": 64941,
+          "cod_calle_cruce": null,
+          "cod_partido": "quilmes",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.2782303,
+            "y": -34.743809044898
+          },
+          "direccion": "Joaquín V. González 2298, Quilmes",
+          "nombre_calle": "Joaquín V. González",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Quilmes",
+          "nombre_partido": "Quilmes",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96854.42099615384,
+                  101874.80203110754
+                ],
+                [
+                  96853.74699615687,
+                  101875.86803110468
+                ],
+                [
+                  96852.8359961602,
+                  101877.31003110105
+                ],
+                [
+                  96852.28899616213,
+                  101878.17503109935
+                ],
+                [
+                  96850.33799617052,
+                  101881.26303109262
+                ],
+                [
+                  96850.87699616916,
+                  101881.64003109056
+                ],
+                [
+                  96853.90799616174,
+                  101883.75803108304
+                ],
+                [
+                  96854.86999615986,
+                  101884.43003107971
+                ],
+                [
+                  96856.20399615573,
+                  101884.2030310794
+                ],
+                [
+                  96860.73999614273,
+                  101883.43003107814
+                ],
+                [
+                  96861.11199614084,
+                  101882.91503107964
+                ],
+                [
+                  96863.12199613382,
+                  101880.1340310855
+                ],
+                [
+                  96864.66499612748,
+                  101877.99803109039
+                ],
+                [
+                  96865.06199612585,
+                  101877.44803109183
+                ],
+                [
+                  96860.26999613618,
+                  101873.82103110617
+                ],
+                [
+                  96860.05699613712,
+                  101873.66003110647
+                ],
+                [
+                  96856.73299614454,
+                  101871.14303111608
+                ],
+                [
+                  96855.37999614982,
+                  101873.28503111107
+                ],
+                [
+                  96854.56399615343,
+                  101874.57603110824
+                ],
+                [
+                  96854.42099615384,
+                  101874.80203110754
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "081-067-001",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "JOAQUIN V. GONZALEZ 2298",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.49756065979135,
+      -34.61232983342913
+    ],
+    "direccion": "",
+    "fondo": "14.36",
+    "frente": "7.38",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "067",
+    "parcela": "001",
+    "pdamatriz": "265247",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "2",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "081",
+    "smp": "081-067-001",
+    "smp_anterior": "081-067-051",
+    "smp_siguiente": "081-067-002",
+    "srid": 4326,
+    "superficie_cubierta": "222.00",
+    "superficie_total": "106.00",
+    "unidades_funcionales": "4",
+    "vuc": "0.00"
+  },
+  "smp": "081-067-001",
+  "_http_status": 200
+}

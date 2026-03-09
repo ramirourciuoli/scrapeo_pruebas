@@ -1,0 +1,399 @@
+{
+  "area_m2": 147.53389072418213,
+  "centroide_lonlat": {
+    "lat": -34.592722,
+    "lon": -58.437067
+  },
+  "centroide_xy": {
+    "x": 102406.711636408,
+    "y": 104054.02064229094
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/9/01/031-056-002_0000264901.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION031/031-056-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION031/PI-031-056-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "031-056-033",
+            "031-056-003",
+            "031-056-001",
+            "031-056-032"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 330.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 147.478400000016,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 147.5,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "031-056-002"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Villa Crespo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1414",
+    "codigo_postal_argentino": "C1414AWR",
+    "comisaria": "25",
+    "comisaria_vecinal": "15B",
+    "comuna": "Comuna 15",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   IX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "31"
+  },
+  "debug": {
+    "address": "CASTILLO 824",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.43706653166051,
+        -34.59272239451722
+      ],
+      "direccion": "",
+      "fondo": "17.43",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "056",
+      "parcela": "002",
+      "pdamatriz": "422984",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "031",
+      "smp": "031-056-002",
+      "smp_anterior": "031-056-001",
+      "smp_siguiente": "031-056-003",
+      "srid": 4326,
+      "superficie_cubierta": "145.00",
+      "superficie_total": "151.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 824,
+      "cod_calle": 3094
+    },
+    "usig_direccion_elegida": {
+      "altura": 824,
+      "cod_calle": 3094,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.436965",
+        "y": "-34.592657"
+      },
+      "direccion": "CASTILLO 824, CABA",
+      "nombre_calle": "CASTILLO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 824,
+          "cod_calle": 3094,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.436965",
+            "y": "-34.592657"
+          },
+          "direccion": "CASTILLO 824, CABA",
+          "nombre_calle": "CASTILLO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 824,
+          "cod_calle": 3253,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.375481",
+            "y": "-34.580488"
+          },
+          "direccion": "CASTILLO, RAMON S., PRES. AV. 824, CABA",
+          "nombre_calle": "CASTILLO, RAMON S., PRES. AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 824,
+          "cod_calle": 23051,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.442586",
+            "y": "-34.615148"
+          },
+          "direccion": "VIDELA CASTILLO 824, CABA",
+          "nombre_calle": "VIDELA CASTILLO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 824,
+          "cod_calle": 126874,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3793274214286,
+            "y": -34.856296927551
+          },
+          "direccion": "Presidente Castillo 824, Almirante Brown",
+          "nombre_calle": "Presidente Castillo",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Longchamps",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 824,
+          "cod_calle": 14524,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5474554387755,
+            "y": -34.643854522449
+          },
+          "direccion": "José González Castillo 824, La Matanza",
+          "nombre_calle": "José González Castillo",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ramos Mejía",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 824,
+          "cod_calle": 201968,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_isidro",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5587646428571,
+            "y": -34.5176650571429
+          },
+          "direccion": "Jose Maria Castillo 824, San Isidro",
+          "nombre_calle": "Jose Maria Castillo",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Boulogne Sur Mer",
+          "nombre_partido": "San Isidro",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102397.1949822491,
+                  104052.35202082858
+                ],
+                [
+                  102400.42298224196,
+                  104054.71602081961
+                ],
+                [
+                  102406.25298222798,
+                  104058.98702080292
+                ],
+                [
+                  102411.09498221724,
+                  104062.53402078961
+                ],
+                [
+                  102416.2349821984,
+                  104055.89102080418
+                ],
+                [
+                  102411.93098220756,
+                  104052.61902081675
+                ],
+                [
+                  102408.9049822147,
+                  104050.3190208257
+                ],
+                [
+                  102405.82298222116,
+                  104047.9760208342
+                ],
+                [
+                  102402.48098222847,
+                  104045.43502084361
+                ],
+                [
+                  102399.91898223826,
+                  104048.78802083628
+                ],
+                [
+                  102399.01698224193,
+                  104049.96802083426
+                ],
+                [
+                  102398.65198224306,
+                  104050.4450208332
+                ],
+                [
+                  102397.1949822491,
+                  104052.35202082858
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "031-056-002",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CASTILLO 824",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.43706653166051,
+      -34.59272239451722
+    ],
+    "direccion": "",
+    "fondo": "17.43",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "056",
+    "parcela": "002",
+    "pdamatriz": "422984",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "031",
+    "smp": "031-056-002",
+    "smp_anterior": "031-056-001",
+    "smp_siguiente": "031-056-003",
+    "srid": 4326,
+    "superficie_cubierta": "145.00",
+    "superficie_total": "151.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "031-056-002",
+  "_http_status": 200
+}

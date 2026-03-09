@@ -1,0 +1,363 @@
+{
+  "area_m2": 120.76327419281006,
+  "centroide_lonlat": {
+    "lat": -34.566271,
+    "lon": -58.478399
+  },
+  "centroide_xy": {
+    "x": 98614.3372782786,
+    "y": 106988.62797978522
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.0,
+          "fot_perim_libre": 1.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/4/10/053-102-027_0000235410.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION053/053-102-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION053/PI-053-102-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "053-102-028a",
+            "053-102-024",
+            "053-102-025"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R1b II 7",
+          "incidencia_uva": 340.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 11500.85
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 120.80724999998,
+        "sup_max_edificable": 124.5,
+        "superficie_parcela": 120.8,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "053-102-027"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Villa Urquiza",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1430",
+    "codigo_postal_argentino": "C1430DHD",
+    "comisaria": "37",
+    "comisaria_vecinal": "12C",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "53"
+  },
+  "debug": {
+    "address": "PLAZA 2724",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.47839910974752,
+        -34.566270971040126
+      ],
+      "direccion": "",
+      "fondo": "13.85",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "102",
+      "parcela": "027",
+      "pdamatriz": "345967",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "053",
+      "smp": "053-102-027",
+      "smp_anterior": "053-102-026",
+      "smp_siguiente": "053-102-028A",
+      "srid": 4326,
+      "superficie_cubierta": "206.00",
+      "superficie_total": "120.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2724,
+      "cod_calle": 17099
+    },
+    "usig_direccion_elegida": {
+      "altura": 2724,
+      "cod_calle": 17099,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.478298",
+        "y": "-34.566210"
+      },
+      "direccion": "PLAZA 2724, CABA",
+      "nombre_calle": "PLAZA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2724,
+          "cod_calle": 17099,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.478298",
+            "y": "-34.566210"
+          },
+          "direccion": "PLAZA 2724, CABA",
+          "nombre_calle": "PLAZA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2724,
+          "cod_calle": 203344,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6067589428571,
+            "y": -34.7023878
+          },
+          "direccion": "Victorino de la Plaza 2724, La Matanza",
+          "nombre_calle": "Victorino de la Plaza",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Isidro Casanova",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2724,
+          "cod_calle": 84646,
+          "cod_calle_cruce": null,
+          "cod_partido": "quilmes",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.2830244653061,
+            "y": -34.7455321244898
+          },
+          "direccion": "Madres de Plaza de Mayo 2724, Quilmes",
+          "nombre_calle": "Madres de Plaza de Mayo",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Quilmes",
+          "nombre_partido": "Quilmes",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98614.24799506462,
+                  106983.14301545723
+                ],
+                [
+                  98611.33599507049,
+                  106980.99001546486
+                ],
+                [
+                  98608.76799508027,
+                  106984.48201545654
+                ],
+                [
+                  98606.1949950903,
+                  106987.9800154494
+                ],
+                [
+                  98609.0859950839,
+                  106990.12001544159
+                ],
+                [
+                  98610.59279508027,
+                  106991.25551543653
+                ],
+                [
+                  98611.35499507858,
+                  106991.82981543566
+                ],
+                [
+                  98612.9409950738,
+                  106993.02501543041
+                ],
+                [
+                  98613.09899507431,
+                  106993.1430154294
+                ],
+                [
+                  98614.60609507129,
+                  106994.27851542507
+                ],
+                [
+                  98615.58989506838,
+                  106995.01981542355
+                ],
+                [
+                  98615.97519506866,
+                  106995.31011542128
+                ],
+                [
+                  98617.28899506431,
+                  106996.30001541667
+                ],
+                [
+                  98622.47699504535,
+                  106989.23001543398
+                ],
+                [
+                  98618.12399505441,
+                  106986.01101544625
+                ],
+                [
+                  98617.36799505641,
+                  106985.4510154468
+                ],
+                [
+                  98614.24799506462,
+                  106983.14301545723
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "053-102-027",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "PLAZA 2724",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.47839910974752,
+      -34.566270971040126
+    ],
+    "direccion": "",
+    "fondo": "13.85",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "102",
+    "parcela": "027",
+    "pdamatriz": "345967",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "053",
+    "smp": "053-102-027",
+    "smp_anterior": "053-102-026",
+    "smp_siguiente": "053-102-028A",
+    "srid": 4326,
+    "superficie_cubierta": "206.00",
+    "superficie_total": "120.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "053-102-027",
+  "_http_status": 200
+}

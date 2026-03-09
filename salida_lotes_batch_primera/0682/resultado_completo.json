@@ -1,0 +1,376 @@
+{
+  "area_m2": 190.54172611236572,
+  "centroide_lonlat": {
+    "lat": -34.611573,
+    "lon": -58.447568
+  },
+  "centroide_xy": {
+    "x": 101443.00527378854,
+    "y": 101963.00042137167
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/76/057-118-001_0000133576.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION057/057-118-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION057/PI-057-118-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "057-118-038",
+            "057-118-002"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 300.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 190.534150000188,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 190.5,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "057-118-001"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. T. ÁLVAREZ",
+    "barrio": "Caballito",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1405",
+    "codigo_postal_argentino": "C1405AEN",
+    "comisaria": "13",
+    "comisaria_vecinal": "6A",
+    "comuna": "Comuna 6",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "57"
+  },
+  "debug": {
+    "address": "DOCTOR NICOLAS REPETTO 894",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.44756750219109,
+        -34.61157311966422
+      ],
+      "direccion": "",
+      "fondo": "14.46",
+      "frente": "13.21",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "118",
+      "parcela": "001",
+      "pdamatriz": "130340",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "057",
+      "smp": "057-118-001",
+      "smp_anterior": "057-118-038",
+      "smp_siguiente": "057-118-002",
+      "srid": 4326,
+      "superficie_cubierta": "351.00",
+      "superficie_total": "191.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 894,
+      "cod_calle": 1091
+    },
+    "usig_direccion_elegida": {
+      "altura": 894,
+      "cod_calle": 1091,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.447430",
+        "y": "-34.611528"
+      },
+      "direccion": "REPETTO, NICOLAS, DR. 894, CABA",
+      "nombre_calle": "REPETTO, NICOLAS, DR.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 894,
+          "cod_calle": 1091,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.447430",
+            "y": "-34.611528"
+          },
+          "direccion": "REPETTO, NICOLAS, DR. 894, CABA",
+          "nombre_calle": "REPETTO, NICOLAS, DR.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  101432.89498338172,
+                  101964.79402740856
+                ],
+                [
+                  101433.01798338174,
+                  101964.85202740828
+                ],
+                [
+                  101437.86698336882,
+                  101967.14702739997
+                ],
+                [
+                  101444.78898335263,
+                  101970.42202738428
+                ],
+                [
+                  101445.15598335103,
+                  101969.6560273848
+                ],
+                [
+                  101445.63298334995,
+                  101969.78902738431
+                ],
+                [
+                  101446.13298334862,
+                  101969.84402738494
+                ],
+                [
+                  101446.63298334758,
+                  101969.82202738349
+                ],
+                [
+                  101447.12198334571,
+                  101969.73302738467
+                ],
+                [
+                  101447.58898334377,
+                  101969.57802738404
+                ],
+                [
+                  101448.03298334224,
+                  101969.34402738407
+                ],
+                [
+                  101448.43298334142,
+                  101969.05602738494
+                ],
+                [
+                  101448.78898333976,
+                  101968.70002738613
+                ],
+                [
+                  101449.08898333905,
+                  101968.30002738722
+                ],
+                [
+                  101450.34398333525,
+                  101968.85602738347
+                ],
+                [
+                  101452.12898332755,
+                  101964.9680273945
+                ],
+                [
+                  101453.58898332072,
+                  101961.78902740186
+                ],
+                [
+                  101449.22598333165,
+                  101959.80002741047
+                ],
+                [
+                  101447.30998333648,
+                  101958.92602741413
+                ],
+                [
+                  101445.58098334091,
+                  101958.13802741797
+                ],
+                [
+                  101442.37798334815,
+                  101956.67802742438
+                ],
+                [
+                  101441.6679833509,
+                  101956.35402742657
+                ],
+                [
+                  101441.18798335182,
+                  101956.13602742576
+                ],
+                [
+                  101439.60298335552,
+                  101955.41302742955
+                ],
+                [
+                  101437.65498336099,
+                  101954.5250274349
+                ],
+                [
+                  101435.56298337001,
+                  101959.03902742246
+                ],
+                [
+                  101434.8399833727,
+                  101960.599027419
+                ],
+                [
+                  101433.25898338004,
+                  101964.00902741033
+                ],
+                [
+                  101432.89498338172,
+                  101964.79402740856
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "057-118-001",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "DOCTOR NICOLAS REPETTO 894",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.44756750219109,
+      -34.61157311966422
+    ],
+    "direccion": "",
+    "fondo": "14.46",
+    "frente": "13.21",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "118",
+    "parcela": "001",
+    "pdamatriz": "130340",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "057",
+    "smp": "057-118-001",
+    "smp_anterior": "057-118-038",
+    "smp_siguiente": "057-118-002",
+    "srid": 4326,
+    "superficie_cubierta": "351.00",
+    "superficie_total": "191.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "057-118-001",
+  "_http_status": 200
+}

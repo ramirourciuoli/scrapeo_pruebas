@@ -1,0 +1,359 @@
+{
+  "area_m2": 339.23015880584717,
+  "centroide_lonlat": {
+    "lat": -34.595711,
+    "lon": -58.505023
+  },
+  "centroide_xy": {
+    "x": 96172.4140534961,
+    "y": 103721.95550424364
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.0,
+          "fot_perim_libre": 1.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/8/42/083-190-020_0000176842.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION083/083-190-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION083/PI-083-190-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "083-190-019",
+            "083-190-003",
+            "083-190-001b",
+            "083-190-001m",
+            "083-190-002"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R1b I",
+          "incidencia_uva": 380.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 18451.58
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 224.799922154353,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 339.2,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "083-190-020"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. A. ZUBIZARRETA",
+    "barrio": "Villa Devoto",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1419",
+    "codigo_postal_argentino": "C1419HDC",
+    "comisaria": "45",
+    "comisaria_vecinal": "11B",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "83"
+  },
+  "debug": {
+    "address": "NUEVA YORK 3443",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.505022677230535,
+        -34.59571139303949
+      ],
+      "direccion": "",
+      "fondo": "38.45",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "190",
+      "parcela": "020",
+      "pdamatriz": "269820",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "083",
+      "smp": "083-190-020",
+      "smp_anterior": "083-190-019",
+      "smp_siguiente": "083-190-001B",
+      "srid": 4326,
+      "superficie_cubierta": "885.00",
+      "superficie_total": "333.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3443,
+      "cod_calle": 14027
+    },
+    "usig_direccion_elegida": {
+      "altura": 3443,
+      "cod_calle": 14027,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.504875",
+        "y": "-34.595875"
+      },
+      "direccion": "NUEVA YORK 3443, CABA",
+      "nombre_calle": "NUEVA YORK",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3443,
+          "cod_calle": 14027,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.504875",
+            "y": "-34.595875"
+          },
+          "direccion": "NUEVA YORK 3443, CABA",
+          "nombre_calle": "NUEVA YORK",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96174.27599944382,
+                  103712.25502646633
+                ],
+                [
+                  96173.25599944814,
+                  103713.60402646373
+                ],
+                [
+                  96171.23699945549,
+                  103716.2740264576
+                ],
+                [
+                  96169.69799946147,
+                  103718.30902645324
+                ],
+                [
+                  96167.92299946875,
+                  103720.65602644806
+                ],
+                [
+                  96165.5299994777,
+                  103723.82002644087
+                ],
+                [
+                  96161.8269994911,
+                  103728.71602642961
+                ],
+                [
+                  96161.75499949165,
+                  103728.81202642931
+                ],
+                [
+                  96159.76399949977,
+                  103731.4440264237
+                ],
+                [
+                  96157.18499950873,
+                  103734.8540264162
+                ],
+                [
+                  96164.16599949368,
+                  103740.05602639596
+                ],
+                [
+                  96166.71199948409,
+                  103736.69902640354
+                ],
+                [
+                  96168.77899947607,
+                  103733.97402641003
+                ],
+                [
+                  96172.51399946223,
+                  103729.05002642042
+                ],
+                [
+                  96177.61599944279,
+                  103722.32302643551
+                ],
+                [
+                  96178.97099943717,
+                  103720.53602643992
+                ],
+                [
+                  96180.33899943175,
+                  103718.73302644366
+                ],
+                [
+                  96186.0459994105,
+                  103711.20902646033
+                ],
+                [
+                  96187.63499940414,
+                  103709.11302646511
+                ],
+                [
+                  96180.6219994205,
+                  103703.86402648524
+                ],
+                [
+                  96179.03199942577,
+                  103705.96602648054
+                ],
+                [
+                  96177.05299943396,
+                  103708.58302647423
+                ],
+                [
+                  96175.84699943829,
+                  103710.17802647137
+                ],
+                [
+                  96174.27599944382,
+                  103712.25502646633
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "083-190-020",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "NUEVA YORK 3443",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.505022677230535,
+      -34.59571139303949
+    ],
+    "direccion": "",
+    "fondo": "38.45",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "190",
+    "parcela": "020",
+    "pdamatriz": "269820",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "083",
+    "smp": "083-190-020",
+    "smp_anterior": "083-190-019",
+    "smp_siguiente": "083-190-001B",
+    "srid": 4326,
+    "superficie_cubierta": "885.00",
+    "superficie_total": "333.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "083-190-020",
+  "_http_status": 200
+}

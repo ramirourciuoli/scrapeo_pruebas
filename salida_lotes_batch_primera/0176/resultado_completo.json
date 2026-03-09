@@ -1,0 +1,61 @@
+{
+  "debug": {
+    "address": "GRAL. LUCIO NORBERTO MANSILLA 3201",
+    "catastro_parcela_por_codcalle_altura": {},
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "MANSILLA, LUCIO NORBERTO, GENERAL",
+      "puerta": 3201
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3201,
+      "cod_calle": 13025
+    },
+    "usig_direccion_elegida": {
+      "altura": 3201,
+      "cod_calle": 13025,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.411694",
+        "y": "-34.593124"
+      },
+      "direccion": "MANSILLA, LUCIO NORBERTO, GENERAL 3201, CABA",
+      "nombre_calle": "MANSILLA, LUCIO NORBERTO, GENERAL",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.593124,
+      "lng": -58.411694
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3201,
+          "cod_calle": 13025,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.411694",
+            "y": "-34.593124"
+          },
+          "direccion": "MANSILLA, LUCIO NORBERTO, GENERAL 3201, CABA",
+          "nombre_calle": "MANSILLA, LUCIO NORBERTO, GENERAL",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura.",
+  "ok": false,
+  "_http_status": 404
+}

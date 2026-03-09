@@ -1,0 +1,411 @@
+{
+  "area_m2": 224.3275270462036,
+  "centroide_lonlat": {
+    "lat": -34.63235,
+    "lon": -58.445216
+  },
+  "centroide_xy": {
+    "x": 101658.30143931048,
+    "y": 99658.02154968909
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [
+          {
+            "estado_parcelario_constituido": "Si",
+            "fecha_de_constitucion": "22-8-2023",
+            "tipo_de_construccion": "Construido",
+            "vencimiento_de_construccion": "22-8-2029"
+          }
+        ],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.43,
+          "fot_perim_libre": 3.43,
+          "fot_semi_libre": 3.43
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/fp/SECCION042/FP-042-061-025-VD.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION042/042-061-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION042/PI-042-061-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "DI-2021-1789-GCABA-DGIUR",
+          "pdf": "042-061.pdf"
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "042-061-026a",
+            "042-061-024",
+            "042-061-002",
+            "042-061-001b"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2a II",
+          "incidencia_uva": 350.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 133.800929990427,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 224.3,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "042-061-025"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. P. PIÑERO",
+    "barrio": "Parque Chacabuco",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1406",
+    "codigo_postal_argentino": "C1406CQQ",
+    "comisaria": "12",
+    "comisaria_vecinal": "7B",
+    "comuna": "Comuna 7",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "42"
+  },
+  "debug": {
+    "address": "PUAN 833",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.445215708793235,
+        -34.632350315161816
+      ],
+      "direccion": "",
+      "fondo": "26.44",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "061",
+      "parcela": "025",
+      "pdamatriz": "139063",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "042",
+      "smp": "042-061-025",
+      "smp_anterior": "042-061-024",
+      "smp_siguiente": "042-061-026A",
+      "srid": 4326,
+      "superficie_cubierta": "305.00",
+      "superficie_total": "229.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 833,
+      "cod_calle": 17128
+    },
+    "usig_direccion_elegida": {
+      "altura": 833,
+      "cod_calle": 17128,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.445044",
+        "y": "-34.632299"
+      },
+      "direccion": "PUAN 833, CABA",
+      "nombre_calle": "PUAN",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 833,
+          "cod_calle": 17128,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.445044",
+            "y": "-34.632299"
+          },
+          "direccion": "PUAN 833, CABA",
+          "nombre_calle": "PUAN",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 833,
+          "cod_calle": 129109,
+          "cod_calle_cruce": null,
+          "cod_partido": "esteban_echeverria",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4613826387755,
+            "y": -34.8446882734694
+          },
+          "direccion": "Puán 833, Esteban Echeverría",
+          "nombre_calle": "Puán",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Monte Grande",
+          "nombre_partido": "Esteban Echeverría",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 833,
+          "cod_calle": 25337,
+          "cod_calle_cruce": null,
+          "cod_partido": "moron",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5992768714286,
+            "y": -34.6375457734694
+          },
+          "direccion": "Puán 833, Morón",
+          "nombre_calle": "Puán",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Haedo",
+          "nombre_partido": "Morón",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  101645.43098104649,
+                  99654.32503372835
+                ],
+                [
+                  101644.28298105198,
+                  99657.4290337199
+                ],
+                [
+                  101646.28398104708,
+                  99658.15103371648
+                ],
+                [
+                  101646.44298104665,
+                  99658.20803371616
+                ],
+                [
+                  101647.63598104363,
+                  99658.63803371476
+                ],
+                [
+                  101651.12298103451,
+                  99659.89503370781
+                ],
+                [
+                  101651.81798103305,
+                  99660.14603370675
+                ],
+                [
+                  101653.51198102889,
+                  99660.75703370431
+                ],
+                [
+                  101654.35798102665,
+                  99661.06203370247
+                ],
+                [
+                  101655.1109810243,
+                  99661.33403370104
+                ],
+                [
+                  101655.42298102436,
+                  99661.44603370116
+                ],
+                [
+                  101659.48698101341,
+                  99662.91203369314
+                ],
+                [
+                  101664.51698100094,
+                  99664.72603368445
+                ],
+                [
+                  101669.43398098883,
+                  99666.49903367579
+                ],
+                [
+                  101672.2929809741,
+                  99658.60103369574
+                ],
+                [
+                  101668.8329809829,
+                  99657.35303370221
+                ],
+                [
+                  101667.39098098675,
+                  99656.83303370423
+                ],
+                [
+                  101665.28398099227,
+                  99656.0730337082
+                ],
+                [
+                  101663.83998099578,
+                  99655.55303371116
+                ],
+                [
+                  101661.09498100262,
+                  99654.56303371579
+                ],
+                [
+                  101660.97598100295,
+                  99654.52003371555
+                ],
+                [
+                  101655.07898101803,
+                  99652.39303372649
+                ],
+                [
+                  101654.30998101967,
+                  99652.11603372809
+                ],
+                [
+                  101651.23698102756,
+                  99651.00803373352
+                ],
+                [
+                  101647.51398103771,
+                  99649.6650337397
+                ],
+                [
+                  101647.19698103775,
+                  99649.5510337402
+                ],
+                [
+                  101645.43098104649,
+                  99654.32503372835
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "042-061-025",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "PUAN 833",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.445215708793235,
+      -34.632350315161816
+    ],
+    "direccion": "",
+    "fondo": "26.44",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "061",
+    "parcela": "025",
+    "pdamatriz": "139063",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "042",
+    "smp": "042-061-025",
+    "smp_anterior": "042-061-024",
+    "smp_siguiente": "042-061-026A",
+    "srid": 4326,
+    "superficie_cubierta": "305.00",
+    "superficie_total": "229.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "042-061-025",
+  "_http_status": 200
+}

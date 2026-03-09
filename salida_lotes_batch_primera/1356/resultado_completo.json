@@ -1,0 +1,350 @@
+{
+  "area_m2": 204.78962516784668,
+  "centroide_lonlat": {
+    "lat": -34.556689,
+    "lon": -58.491075
+  },
+  "centroide_xy": {
+    "x": 97450.74681235052,
+    "y": 108051.30662629937
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/8/83/055-151-010_0000238883.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION055/055-151-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION055/PI-055-151-V3.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "055-151-009",
+            "055-151-007",
+            "055-151-011",
+            "055-151-006"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 250.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 204.76415000012,
+        "sup_max_edificable": 977.9,
+        "superficie_parcela": 204.8,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "055-151-010"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Saavedra",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1430",
+    "codigo_postal_argentino": "C1430EDA",
+    "comisaria": "49",
+    "comisaria_vecinal": "12A",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "55"
+  },
+  "debug": {
+    "address": "LUGONES 3975",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.49107519884703,
+        -34.55668946436597
+      ],
+      "direccion": "",
+      "fondo": "24.13",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "151",
+      "parcela": "010",
+      "pdamatriz": "357166",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "055",
+      "smp": "055-151-010",
+      "smp_anterior": "055-151-009",
+      "smp_siguiente": "055-151-011",
+      "srid": 4326,
+      "superficie_cubierta": "178.00",
+      "superficie_total": "209.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3975,
+      "cod_calle": 12151
+    },
+    "usig_direccion_elegida": {
+      "altura": 3975,
+      "cod_calle": 12151,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.491230",
+        "y": "-34.556763"
+      },
+      "direccion": "LUGONES 3975, CABA",
+      "nombre_calle": "LUGONES",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3975,
+          "cod_calle": 12151,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.491230",
+            "y": "-34.556763"
+          },
+          "direccion": "LUGONES 3975, CABA",
+          "nombre_calle": "LUGONES",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97439.90699915672,
+                  108046.14601335963
+                ],
+                [
+                  97438.19899916412,
+                  108049.12601335297
+                ],
+                [
+                  97440.3449991587,
+                  108050.3350133478
+                ],
+                [
+                  97441.826999155,
+                  108051.17001334432
+                ],
+                [
+                  97442.4099991542,
+                  108051.49901334287
+                ],
+                [
+                  97445.07099914817,
+                  108052.9980133365
+                ],
+                [
+                  97451.46299913297,
+                  108056.60001332153
+                ],
+                [
+                  97453.7289991274,
+                  108057.87701331693
+                ],
+                [
+                  97459.14299911438,
+                  108060.92701330411
+                ],
+                [
+                  97461.02999910671,
+                  108057.63201331202
+                ],
+                [
+                  97462.33299910073,
+                  108055.35801331722
+                ],
+                [
+                  97463.32699909655,
+                  108053.62201332182
+                ],
+                [
+                  97461.07299910221,
+                  108052.32701332626
+                ],
+                [
+                  97456.46399911295,
+                  108049.6790133371
+                ],
+                [
+                  97454.24199911815,
+                  108048.4020133426
+                ],
+                [
+                  97452.85399912213,
+                  108047.60401334637
+                ],
+                [
+                  97449.63499912924,
+                  108045.7550133536
+                ],
+                [
+                  97448.27699913246,
+                  108044.97501335651
+                ],
+                [
+                  97444.59099914145,
+                  108042.85701336546
+                ],
+                [
+                  97443.71899914308,
+                  108042.35601336739
+                ],
+                [
+                  97442.48499914678,
+                  108041.6470133705
+                ],
+                [
+                  97439.90699915672,
+                  108046.14601335963
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "055-151-010",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "LUGONES 3975",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.49107519884703,
+      -34.55668946436597
+    ],
+    "direccion": "",
+    "fondo": "24.13",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "151",
+    "parcela": "010",
+    "pdamatriz": "357166",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "055",
+    "smp": "055-151-010",
+    "smp_anterior": "055-151-009",
+    "smp_siguiente": "055-151-011",
+    "srid": 4326,
+    "superficie_cubierta": "178.00",
+    "superficie_total": "209.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "055-151-010",
+  "_http_status": 200
+}

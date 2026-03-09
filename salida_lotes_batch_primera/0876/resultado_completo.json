@@ -1,0 +1,95 @@
+{
+  "debug": {
+    "address": "ARAUJO 214",
+    "catastro_parcela_por_codcalle_altura": {},
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "ARAUJO",
+      "puerta": 214
+    },
+    "usig_cod_calle_altura": {
+      "altura": 214,
+      "cod_calle": 1097
+    },
+    "usig_direccion_elegida": {
+      "altura": 214,
+      "cod_calle": 1097,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.506228",
+        "y": "-34.640199"
+      },
+      "direccion": "ARAUJO 214, CABA",
+      "nombre_calle": "ARAUJO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.640199,
+      "lng": -58.506228
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 214,
+          "cod_calle": 1097,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.506228",
+            "y": "-34.640199"
+          },
+          "direccion": "ARAUJO 214, CABA",
+          "nombre_calle": "ARAUJO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 214,
+          "cod_calle": 118511,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3777537020833,
+            "y": -34.8396417541667
+          },
+          "direccion": "Manuel Araujo 214, Almirante Brown",
+          "nombre_calle": "Manuel Araujo",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Burzaco",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 214,
+          "cod_calle": 118511,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3777537020833,
+            "y": -34.8396417541667
+          },
+          "direccion": "Manuel Araujo 214, Almirante Brown",
+          "nombre_calle": "Manuel Araujo",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ministro Rivadavia",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura.",
+  "ok": false,
+  "_http_status": 404
+}

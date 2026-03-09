@@ -1,0 +1,509 @@
+{
+  "area_m2": 183.34881782531738,
+  "centroide_lonlat": {
+    "lat": -34.639049,
+    "lon": -58.363962
+  },
+  "centroide_xy": {
+    "x": 109108.44897437262,
+    "y": 98910.51368168496
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": "APH",
+          "denominacion": null,
+          "estado": "CPU/CUr",
+          "ley_3056": "NO",
+          "proteccion": "GENERAL"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 4"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.0,
+          "fot_perim_libre": 3.0,
+          "fot_semi_libre": 3.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/50/010-111-024b_0000300750.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION010/010-111-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION010/PI-010-111-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "010-111-023",
+            "010-111-024a",
+            "010-111-025"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "E3 2",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 183.313800000078,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 183.3,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "010-111-024B"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C. ARGERICH",
+    "barrio": "Boca",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1167",
+    "codigo_postal_argentino": "C1167ACA",
+    "comisaria": "26",
+    "comisaria_vecinal": "4C",
+    "comuna": "Comuna 4",
+    "distrito_economico": "DISTRITO DE LAS ARTES",
+    "distrito_escolar": "Distrito Escolar   IV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "10"
+  },
+  "debug": {
+    "address": "GARIBALDI 1375",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.363961569817725,
+        -34.63904936570195
+      ],
+      "direccion": "",
+      "fondo": "16.84",
+      "frente": "10.39",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "111",
+      "parcela": "024B",
+      "pdamatriz": "121966",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "010",
+      "smp": "010-111-024B",
+      "smp_anterior": "010-111-024A",
+      "smp_siguiente": "010-111-025",
+      "srid": 4326,
+      "superficie_cubierta": "337.00",
+      "superficie_total": "175.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1375,
+      "cod_calle": 7035
+    },
+    "usig_direccion_elegida": {
+      "altura": 1375,
+      "cod_calle": 7035,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.363866",
+        "y": "-34.639015"
+      },
+      "direccion": "GARIBALDI 1375, CABA",
+      "nombre_calle": "GARIBALDI",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1375,
+          "cod_calle": 7035,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.363866",
+            "y": "-34.639015"
+          },
+          "direccion": "GARIBALDI 1375, CABA",
+          "nombre_calle": "GARIBALDI",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1375,
+          "cod_calle": 118018,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3501530734694,
+            "y": -34.8014676714286
+          },
+          "direccion": "Garibaldi 1375, Almirante Brown",
+          "nombre_calle": "Garibaldi",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Claypole",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1375,
+          "cod_calle": 45687,
+          "cod_calle_cruce": null,
+          "cod_partido": "general_san_martin",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5623422765306,
+            "y": -34.5252145122449
+          },
+          "direccion": "170 - José Garibaldi 1375, General San Martín",
+          "nombre_calle": "170 - José Garibaldi",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "José León Suárez",
+          "nombre_partido": "General San Martín",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1375,
+          "cod_calle": 15187,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5782076918367,
+            "y": -34.6511506795918
+          },
+          "direccion": "Garibaldi 1375, La Matanza",
+          "nombre_calle": "Garibaldi",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ramos Mejía",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1375,
+          "cod_calle": 354180,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4157873612245,
+            "y": -34.7770061959184
+          },
+          "direccion": "José Garibaldi 1375, Lomas de Zamora",
+          "nombre_calle": "José Garibaldi",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lomas de Zamora",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1375,
+          "cod_calle": 354180,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4157873612245,
+            "y": -34.7770061959184
+          },
+          "direccion": "José Garibaldi 1375, Lomas de Zamora",
+          "nombre_calle": "José Garibaldi",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Temperley",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1375,
+          "cod_calle": 154057,
+          "cod_calle_cruce": null,
+          "cod_partido": "moreno",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.8337630642857,
+            "y": -34.6161631683673
+          },
+          "direccion": "José Garibaldi 1375, Moreno",
+          "nombre_calle": "José Garibaldi",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "La Reja",
+          "nombre_partido": "Moreno",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1375,
+          "cod_calle": 5401,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_fernando",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.547491427551,
+            "y": -34.4503489836735
+          },
+          "direccion": "Garibaldi 1375, San Fernando",
+          "nombre_calle": "Garibaldi",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Victoria",
+          "nombre_partido": "San Fernando",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1375,
+          "cod_calle": 142853,
+          "cod_calle_cruce": null,
+          "cod_partido": "tigre",
+          "direccion": "Garibaldi 1375, Tigre",
+          "nombre_calle": "Garibaldi",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Tigre",
+          "nombre_partido": "Tigre",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1375,
+          "cod_calle": 8951,
+          "cod_calle_cruce": null,
+          "cod_partido": "tres_de_febrero",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5318082571429,
+            "y": -34.6188643765306
+          },
+          "direccion": "202 - Giuseppe Garibaldi 1375, Tres de Febrero",
+          "nombre_calle": "202 - Giuseppe Garibaldi",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "José Ingenieros",
+          "nombre_partido": "Tres de Febrero",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  109110.07195954898,
+                  98905.45903020943
+                ],
+                [
+                  109107.01895955772,
+                  98904.82503021389
+                ],
+                [
+                  109106.21995955922,
+                  98904.65903021474
+                ],
+                [
+                  109104.8649595633,
+                  98904.37803021615
+                ],
+                [
+                  109101.76395957173,
+                  98903.73403022089
+                ],
+                [
+                  109100.96895957498,
+                  98906.18803021451
+                ],
+                [
+                  109099.82995958129,
+                  98909.70603020568
+                ],
+                [
+                  109098.78695958613,
+                  98912.92403019682
+                ],
+                [
+                  109098.34895958922,
+                  98914.27703019348
+                ],
+                [
+                  109098.79995958743,
+                  98914.35203019314
+                ],
+                [
+                  109100.01995958391,
+                  98914.55603019151
+                ],
+                [
+                  109101.78495957979,
+                  98914.85103018931
+                ],
+                [
+                  109102.54295957717,
+                  98914.97703018854
+                ],
+                [
+                  109103.38695957541,
+                  98915.11803018732
+                ],
+                [
+                  109105.73495956938,
+                  98915.5100301845
+                ],
+                [
+                  109108.53695956108,
+                  98915.97803018137
+                ],
+                [
+                  109108.90595956097,
+                  98916.04003018088
+                ],
+                [
+                  109109.71695955856,
+                  98916.17503017964
+                ],
+                [
+                  109111.6689595529,
+                  98916.50103017763
+                ],
+                [
+                  109114.73695954467,
+                  98917.01303017398
+                ],
+                [
+                  109117.7819595311,
+                  98910.42503018971
+                ],
+                [
+                  109119.20095952551,
+                  98907.35503019788
+                ],
+                [
+                  109113.05195954157,
+                  98906.07803020539
+                ],
+                [
+                  109110.97295954716,
+                  98905.64603020813
+                ],
+                [
+                  109110.07195954898,
+                  98905.45903020943
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "010-111-024B",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "GARIBALDI 1375",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.363961569817725,
+      -34.63904936570195
+    ],
+    "direccion": "",
+    "fondo": "16.84",
+    "frente": "10.39",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "111",
+    "parcela": "024B",
+    "pdamatriz": "121966",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "010",
+    "smp": "010-111-024B",
+    "smp_anterior": "010-111-024A",
+    "smp_siguiente": "010-111-025",
+    "srid": 4326,
+    "superficie_cubierta": "337.00",
+    "superficie_total": "175.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "010-111-024B",
+  "_http_status": 200
+}

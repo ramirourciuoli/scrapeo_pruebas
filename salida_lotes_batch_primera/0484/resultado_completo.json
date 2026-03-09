@@ -1,0 +1,95 @@
+{
+  "debug": {
+    "address": "AGUIRRE 1501",
+    "catastro_parcela_por_codcalle_altura": {},
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "AGUIRRE",
+      "puerta": 1501
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1501,
+      "cod_calle": 1024
+    },
+    "usig_direccion_elegida": {
+      "altura": 1501,
+      "cod_calle": 1024,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.444320",
+        "y": "-34.588753"
+      },
+      "direccion": "AGUIRRE 1501, CABA",
+      "nombre_calle": "AGUIRRE",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.588753,
+      "lng": -58.44432
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1501,
+          "cod_calle": 1024,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.444320",
+            "y": "-34.588753"
+          },
+          "direccion": "AGUIRRE 1501, CABA",
+          "nombre_calle": "AGUIRRE",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1501,
+          "cod_calle": 186332,
+          "cod_calle_cruce": null,
+          "cod_partido": "moreno",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7750657,
+            "y": -34.6014002
+          },
+          "direccion": "Julián Aguirre 1501, Moreno",
+          "nombre_calle": "Julián Aguirre",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Moreno",
+          "nombre_partido": "Moreno",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1501,
+          "cod_calle": 186332,
+          "cod_calle_cruce": null,
+          "cod_partido": "moreno",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7750657,
+            "y": -34.6014002
+          },
+          "direccion": "Julián Aguirre 1501, Moreno",
+          "nombre_calle": "Julián Aguirre",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Trujui",
+          "nombre_partido": "Moreno",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura.",
+  "ok": false,
+  "_http_status": 404
+}

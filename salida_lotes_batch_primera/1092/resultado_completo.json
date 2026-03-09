@@ -1,0 +1,493 @@
+{
+  "area_m2": 195.04187965393066,
+  "centroide_lonlat": {
+    "lat": -34.587247,
+    "lon": -58.403253
+  },
+  "centroide_xy": {
+    "x": 105509.20779008673,
+    "y": 104660.05776923639
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 4.14,
+          "fot_perim_libre": 4.14,
+          "fot_semi_libre": 4.14
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/fp/SECCION015/FP-015-070-001-VD.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION015/015-070-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION015/PI-015-070-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "DI-2022-2588-GCABA-DGIUR",
+          "pdf": "015-070.pdf"
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "015-070-031",
+            "015-070-002"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2a I",
+          "incidencia_uva": 450.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 195.040250000158,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 195.0,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "015-070-001"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.A.FERNÁNDEZ",
+    "barrio": "Recoleta",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1425",
+    "codigo_postal_argentino": "C1425AVH",
+    "comisaria": "53",
+    "comisaria_vecinal": "2A",
+    "comuna": "Comuna 2",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   I",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "15"
+  },
+  "debug": {
+    "address": "PEÑA 2812",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.40325286100155,
+        -34.587247476833554
+      ],
+      "direccion": "",
+      "fondo": "16.34",
+      "frente": "11.99",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "070",
+      "parcela": "001",
+      "pdamatriz": "445829",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "10",
+      "propiedad_horizontal": "Si",
+      "seccion": "015",
+      "smp": "015-070-001",
+      "smp_anterior": "015-070-031",
+      "smp_siguiente": "015-070-002",
+      "srid": 4326,
+      "superficie_cubierta": "2566.00",
+      "superficie_total": "196.00",
+      "unidades_funcionales": "41",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2812,
+      "cod_calle": 17054
+    },
+    "usig_direccion_elegida": {
+      "altura": 2812,
+      "cod_calle": 17054,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.403200",
+        "y": "-34.587181"
+      },
+      "direccion": "PEÑA 2812, CABA",
+      "nombre_calle": "PEÑA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2812,
+          "cod_calle": 17054,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.403200",
+            "y": "-34.587181"
+          },
+          "direccion": "PEÑA 2812, CABA",
+          "nombre_calle": "PEÑA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2812,
+          "cod_calle": 8214,
+          "cod_calle_cruce": null,
+          "cod_partido": "general_san_martin",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5345409714286,
+            "y": -34.5675784285714
+          },
+          "direccion": "Diagonal 62 - Sáenz Peña 2812, General San Martín",
+          "nombre_calle": "Diagonal 62 - Sáenz Peña",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Andrés",
+          "nombre_partido": "General San Martín",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2812,
+          "cod_calle": 8214,
+          "cod_calle_cruce": null,
+          "cod_partido": "general_san_martin",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5345409714286,
+            "y": -34.5675784285714
+          },
+          "direccion": "Diagonal 62 - Sáenz Peña 2812, General San Martín",
+          "nombre_calle": "Diagonal 62 - Sáenz Peña",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Maipú",
+          "nombre_partido": "General San Martín",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2812,
+          "cod_calle": 66814,
+          "cod_calle_cruce": null,
+          "cod_partido": "general_san_martin",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5531884416667,
+            "y": -34.5771368833333
+          },
+          "direccion": "111 - Rodríguez Peña 2812, General San Martín",
+          "nombre_calle": "111 - Rodríguez Peña",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Billinghurst",
+          "nombre_partido": "General San Martín",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2812,
+          "cod_calle": 9451,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5237785734694,
+            "y": -34.6598905857143
+          },
+          "direccion": "Sáenz Peña 2812, La Matanza",
+          "nombre_calle": "Sáenz Peña",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lomas del Mirador",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2812,
+          "cod_calle": 35010,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3683089591837,
+            "y": -34.7347557938775
+          },
+          "direccion": "Néstor De La Peña 2812, Lanús",
+          "nombre_calle": "Néstor De La Peña",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Monte Chingolo",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2812,
+          "cod_calle": 279240,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7148182333334,
+            "y": -34.7024575424242
+          },
+          "direccion": "A. Peñaloza 2812, Merlo",
+          "nombre_calle": "A. Peñaloza",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Libertad",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2812,
+          "cod_calle": 84354,
+          "cod_calle_cruce": null,
+          "cod_partido": "quilmes",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.2554716938776,
+            "y": -34.7376563938776
+          },
+          "direccion": "Roque Sáenz Peña 2812, Quilmes",
+          "nombre_calle": "Roque Sáenz Peña",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Quilmes",
+          "nombre_partido": "Quilmes",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2812,
+          "cod_calle": 13041,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_isidro",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5310456081633,
+            "y": -34.5026028530612
+          },
+          "direccion": "Rodríguez Peña 2812, San Isidro",
+          "nombre_calle": "Rodríguez Peña",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Martínez",
+          "nombre_partido": "San Isidro",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2812,
+          "cod_calle": 13064,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_isidro",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5009356916667,
+            "y": -34.4981995833333
+          },
+          "direccion": "Luis Sáenz Peña 2812, San Isidro",
+          "nombre_calle": "Luis Sáenz Peña",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Martínez",
+          "nombre_partido": "San Isidro",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  105501.36667321876,
+                  104658.78450165477
+                ],
+                [
+                  105500.41447400424,
+                  104659.68171678926
+                ],
+                [
+                  105499.29207400842,
+                  104660.73901678756
+                ],
+                [
+                  105503.20163806224,
+                  104664.99964372575
+                ],
+                [
+                  105504.01297399822,
+                  104665.88501676929
+                ],
+                [
+                  105505.22806237443,
+                  104667.20912321028
+                ],
+                [
+                  105506.41769860257,
+                  104668.50514371347
+                ],
+                [
+                  105507.36105797568,
+                  104669.53309781151
+                ],
+                [
+                  105509.836346542,
+                  104667.76660465053
+                ],
+                [
+                  105516.98295296344,
+                  104662.66699528447
+                ],
+                [
+                  105517.15098274619,
+                  104660.12720036964
+                ],
+                [
+                  105517.20676887824,
+                  104659.28338933678
+                ],
+                [
+                  105517.38297737183,
+                  104656.61700750815
+                ],
+                [
+                  105510.29997396938,
+                  104650.3669168081
+                ],
+                [
+                  105508.72953500968,
+                  104651.84680489136
+                ],
+                [
+                  105508.25156870275,
+                  104652.29718330846
+                ],
+                [
+                  105507.54697397951,
+                  104652.9609168034
+                ],
+                [
+                  105504.89557398803,
+                  104655.45921679854
+                ],
+                [
+                  105503.7590682299,
+                  104656.53029023344
+                ],
+                [
+                  105501.36667321876,
+                  104658.78450165477
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "015-070-001",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "PEÑA 2812",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.40325286100155,
+      -34.587247476833554
+    ],
+    "direccion": "",
+    "fondo": "16.34",
+    "frente": "11.99",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "070",
+    "parcela": "001",
+    "pdamatriz": "445829",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "10",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "015",
+    "smp": "015-070-001",
+    "smp_anterior": "015-070-031",
+    "smp_siguiente": "015-070-002",
+    "srid": 4326,
+    "superficie_cubierta": "2566.00",
+    "superficie_total": "196.00",
+    "unidades_funcionales": "41",
+    "vuc": "0.00"
+  },
+  "smp": "015-070-001",
+  "_http_status": 200
+}

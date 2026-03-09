@@ -1,0 +1,353 @@
+{
+  "area_m2": 72.66542339324951,
+  "centroide_lonlat": {
+    "lat": -34.600414,
+    "lon": -58.523235
+  },
+  "centroide_xy": {
+    "x": 94501.99114066023,
+    "y": 103199.37781022718
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.0,
+          "fot_perim_libre": 1.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/78/089-014-004b_0000201578.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION089/089-014-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION089/PI-089-014-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "DI-2022-1068-GCABA-DGIUR",
+          "pdf": "089-014.pdf"
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "089-014-004a"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R1b I",
+          "incidencia_uva": 310.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 4863.8
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 72.6373999999428,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 72.7,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "089-014-004B"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. A. ZUBIZARRETA",
+    "barrio": "Villa Devoto",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1419",
+    "codigo_postal_argentino": "C1419GHI",
+    "comisaria": "45",
+    "comisaria_vecinal": "11B",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "89"
+  },
+  "debug": {
+    "address": "GABRIELA MISTRAL 4635",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.523234540138624,
+        -34.60041444792489
+      ],
+      "direccion": "",
+      "fondo": "4.48",
+      "frente": "16.30",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "014",
+      "parcela": "004B",
+      "pdamatriz": "308350",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "089",
+      "smp": "089-014-004B",
+      "smp_anterior": "089-014-004A",
+      "smp_siguiente": "089-014-001A",
+      "srid": 4326,
+      "superficie_cubierta": "94.00",
+      "superficie_total": "73.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4635,
+      "cod_calle": 13093
+    },
+    "usig_direccion_elegida": {
+      "altura": 4635,
+      "cod_calle": 13093,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.523172",
+        "y": "-34.600465"
+      },
+      "direccion": "MISTRAL, GABRIELA 4635, CABA",
+      "nombre_calle": "MISTRAL, GABRIELA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4635,
+          "cod_calle": 13093,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.523172",
+            "y": "-34.600465"
+          },
+          "direccion": "MISTRAL, GABRIELA 4635, CABA",
+          "nombre_calle": "MISTRAL, GABRIELA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 4635,
+          "cod_calle": 77416,
+          "cod_calle_cruce": null,
+          "cod_partido": "malvinas_argentinas",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6703703489796,
+            "y": -34.4997710571429
+          },
+          "direccion": "Gabriela Mistral 4635, Malvinas Argentinas",
+          "nombre_calle": "Gabriela Mistral",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ingeniero Adolfo Sourdeaux",
+          "nombre_partido": "Malvinas Argentinas",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 4635,
+          "cod_calle": 158309,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7453563721321,
+            "y": -34.7145582441385
+          },
+          "direccion": "Gabriela Mistral 4635, Merlo",
+          "nombre_calle": "Gabriela Mistral",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Parque San Martín",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  94504.28400373907,
+                  103196.60402916971
+                ],
+                [
+                  94502.44300374342,
+                  103195.2250291743
+                ],
+                [
+                  94499.14000375093,
+                  103192.75002918538
+                ],
+                [
+                  94497.0200037588,
+                  103195.29002917925
+                ],
+                [
+                  94499.17900375635,
+                  103200.70302916146
+                ],
+                [
+                  94501.73700375416,
+                  103207.11702914181
+                ],
+                [
+                  94502.81000374985,
+                  103205.74302914453
+                ],
+                [
+                  94503.70800374643,
+                  103204.59402914604
+                ],
+                [
+                  94503.79500374614,
+                  103204.48302914714
+                ],
+                [
+                  94504.13900374559,
+                  103204.04202914843
+                ],
+                [
+                  94504.41000374402,
+                  103203.69502914924
+                ],
+                [
+                  94506.7620037353,
+                  103200.68402915637
+                ],
+                [
+                  94506.91500373509,
+                  103200.48802915757
+                ],
+                [
+                  94507.85700373104,
+                  103199.28202915876
+                ],
+                [
+                  94504.28400373907,
+                  103196.60402916971
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "089-014-004B",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "GABRIELA MISTRAL 4635",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.523234540138624,
+      -34.60041444792489
+    ],
+    "direccion": "",
+    "fondo": "4.48",
+    "frente": "16.30",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "014",
+    "parcela": "004B",
+    "pdamatriz": "308350",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "089",
+    "smp": "089-014-004B",
+    "smp_anterior": "089-014-004A",
+    "smp_siguiente": "089-014-001A",
+    "srid": 4326,
+    "superficie_cubierta": "94.00",
+    "superficie_total": "73.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "089-014-004B",
+  "_http_status": 200
+}

@@ -1,0 +1,383 @@
+{
+  "area_m2": 226.19690990447998,
+  "centroide_lonlat": {
+    "lat": -34.651905,
+    "lon": -58.508627
+  },
+  "centroide_xy": {
+    "x": 95844.58541752772,
+    "y": 97487.90310297243
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/3/03/074-112-018_0000061303.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION074/074-112-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION074/PI-074-112-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "074-112-023",
+            "074-112-017",
+            "074-112-019",
+            "074-112-022"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 50.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 226.16034999993,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 226.2,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "074-112-018"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Mataderos",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1440",
+    "codigo_postal_argentino": "C1440BWZ",
+    "comisaria": "42",
+    "comisaria_vecinal": "9A",
+    "comuna": "Comuna 9",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "74"
+  },
+  "debug": {
+    "address": "ZELADA 6356",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.50862672235992,
+        -34.65190502836445
+      ],
+      "direccion": "",
+      "fondo": "26.32",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "112",
+      "parcela": "018",
+      "pdamatriz": "14730",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "074",
+      "smp": "074-112-018",
+      "smp_anterior": "074-112-017",
+      "smp_siguiente": "074-112-019",
+      "srid": 4326,
+      "superficie_cubierta": "193.00",
+      "superficie_total": "228.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 6356,
+      "cod_calle": 27015
+    },
+    "usig_direccion_elegida": {
+      "altura": 6356,
+      "cod_calle": 27015,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.508769",
+        "y": "-34.651804"
+      },
+      "direccion": "ZELADA 6356, CABA",
+      "nombre_calle": "ZELADA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 6356,
+          "cod_calle": 27015,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.508769",
+            "y": "-34.651804"
+          },
+          "direccion": "ZELADA 6356, CABA",
+          "nombre_calle": "ZELADA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 6356,
+          "cod_calle": 214482,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.603215667347,
+            "y": -34.7789516755102
+          },
+          "direccion": "Francisco Zelada 6356, La Matanza",
+          "nombre_calle": "Francisco Zelada",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "González Catán",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  95831.71799572396,
+                  97493.05704416527
+                ],
+                [
+                  95836.65799571393,
+                  97498.78104414584
+                ],
+                [
+                  95837.44199571238,
+                  97499.69004414266
+                ],
+                [
+                  95838.59699570865,
+                  97498.69804414408
+                ],
+                [
+                  95842.49799569482,
+                  97495.35004415025
+                ],
+                [
+                  95845.92599568327,
+                  97492.40704415602
+                ],
+                [
+                  95847.92799567671,
+                  97490.6890441599
+                ],
+                [
+                  95851.84399566244,
+                  97487.32704416572
+                ],
+                [
+                  95853.8089956565,
+                  97485.64004416906
+                ],
+                [
+                  95854.66999565305,
+                  97484.90104417043
+                ],
+                [
+                  95856.19699564757,
+                  97483.59004417318
+                ],
+                [
+                  95857.42299564404,
+                  97482.53804417507
+                ],
+                [
+                  95854.30399564916,
+                  97478.8450441878
+                ],
+                [
+                  95854.10999565032,
+                  97478.61604418926
+                ],
+                [
+                  95851.94999565429,
+                  97476.05904419799
+                ],
+                [
+                  95849.92699566123,
+                  97477.7960441944
+                ],
+                [
+                  95849.14699566364,
+                  97478.46604419305
+                ],
+                [
+                  95847.90699566773,
+                  97479.53004419123
+                ],
+                [
+                  95845.42499567641,
+                  97481.66104418715
+                ],
+                [
+                  95844.69599567958,
+                  97482.26704418569
+                ],
+                [
+                  95843.32999568383,
+                  97483.40304418348
+                ],
+                [
+                  95840.73899569272,
+                  97485.5570441795
+                ],
+                [
+                  95838.13199570184,
+                  97487.72404417573
+                ],
+                [
+                  95836.8559957057,
+                  97488.78504417348
+                ],
+                [
+                  95832.10299572244,
+                  97492.73704416555
+                ],
+                [
+                  95831.71799572396,
+                  97493.05704416527
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "074-112-018",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ZELADA 6356",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.50862672235992,
+      -34.65190502836445
+    ],
+    "direccion": "",
+    "fondo": "26.32",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "112",
+    "parcela": "018",
+    "pdamatriz": "14730",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "074",
+    "smp": "074-112-018",
+    "smp_anterior": "074-112-017",
+    "smp_siguiente": "074-112-019",
+    "srid": 4326,
+    "superficie_cubierta": "193.00",
+    "superficie_total": "228.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "074-112-018",
+  "_http_status": 200
+}

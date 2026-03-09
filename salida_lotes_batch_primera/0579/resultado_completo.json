@@ -1,0 +1,328 @@
+{
+  "area_m2": 162.7989330291748,
+  "centroide_lonlat": {
+    "lat": -34.669633,
+    "lon": -58.4889
+  },
+  "centroide_xy": {
+    "x": 97653.59788454123,
+    "y": 95521.90825248498
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [
+          {
+            "estado_parcelario_constituido": "Si",
+            "fecha_de_constitucion": "27-9-2023",
+            "tipo_de_construccion": "Construido",
+            "vencimiento_de_construccion": "27-9-2029"
+          }
+        ],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/fp/SECCION078/FP-078-106A-001-VD.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION078/078-106A-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION078/PI-078-106A-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "078-106A-032",
+            "078-106A-002"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "R2b III",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 162.8,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "078-106A-001"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Villa Lugano",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1439",
+    "codigo_postal_argentino": "C1439FVC",
+    "comisaria": "48",
+    "comisaria_vecinal": "8A",
+    "comuna": "Comuna 8",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "78"
+  },
+  "debug": {
+    "address": "JOSE IGNACIO RUCCI 3207",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.48889969954487,
+        -34.66963250607508
+      ],
+      "direccion": "",
+      "fondo": "14.17",
+      "frente": "10.80",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "106A",
+      "parcela": "001",
+      "pdamatriz": "71785",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "078",
+      "smp": "078-106A-001",
+      "smp_anterior": "078-106A-032",
+      "smp_siguiente": "078-106A-002",
+      "srid": 4326,
+      "superficie_cubierta": "153.00",
+      "superficie_total": "153.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3207,
+      "cod_calle": 17081
+    },
+    "usig_direccion_elegida": {
+      "altura": 3207,
+      "cod_calle": 17081,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.488803",
+        "y": "-34.669550"
+      },
+      "direccion": "RUCCI, JOSE IGNACIO 3207, CABA",
+      "nombre_calle": "RUCCI, JOSE IGNACIO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3207,
+          "cod_calle": 17081,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.488803",
+            "y": "-34.669550"
+          },
+          "direccion": "RUCCI, JOSE IGNACIO 3207, CABA",
+          "nombre_calle": "RUCCI, JOSE IGNACIO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3207,
+          "cod_calle": 151456,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "direccion": "José Ignacio Rucci 3207, La Matanza",
+          "nombre_calle": "José Ignacio Rucci",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Isidro Casanova",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3207,
+          "cod_calle": 151456,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "direccion": "José Ignacio Rucci 3207, La Matanza",
+          "nombre_calle": "José Ignacio Rucci",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Justo",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3207,
+          "cod_calle": 22229,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4330582306123,
+            "y": -34.6886251367347
+          },
+          "direccion": "José Ignacio Rucci 3207, Lanús",
+          "nombre_calle": "José Ignacio Rucci",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lanús Oeste",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97662.99495627203,
+                  95522.86967487613
+                ],
+                [
+                  97650.35688736438,
+                  95512.95783307886
+                ],
+                [
+                  97644.39220038085,
+                  95519.27874091787
+                ],
+                [
+                  97655.67956637169,
+                  95531.48795058116
+                ],
+                [
+                  97662.99495627203,
+                  95522.86967487613
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "078-106A-001",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "JOSE IGNACIO RUCCI 3207",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.48889969954487,
+      -34.66963250607508
+    ],
+    "direccion": "",
+    "fondo": "14.17",
+    "frente": "10.80",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "106A",
+    "parcela": "001",
+    "pdamatriz": "71785",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "078",
+    "smp": "078-106A-001",
+    "smp_anterior": "078-106A-032",
+    "smp_siguiente": "078-106A-002",
+    "srid": 4326,
+    "superficie_cubierta": "153.00",
+    "superficie_total": "153.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "078-106A-001",
+  "_http_status": 200
+}

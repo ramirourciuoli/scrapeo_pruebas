@@ -1,0 +1,546 @@
+{
+  "area_m2": 407.8184070587158,
+  "centroide_lonlat": {
+    "lat": -34.617235,
+    "lon": -58.392617
+  },
+  "centroide_xy": {
+    "x": 106482.67007002342,
+    "y": 101332.7065061962
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 38.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "PEV",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 2.76,
+          "fot_perim_libre": 2.76,
+          "fot_semi_libre": 2.76
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/58/020-067-008_0000285058.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION020/020-067-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION020/PI-020-067-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": true,
+          "smp_linderas": [
+            "020-067-039",
+            "020-067-009",
+            "020-067-007",
+            "020-067-016"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2a II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 315.689429164597,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 407.8,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "020-067-008"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. J.M. RAMOS MEJÍA",
+    "barrio": "Balvanera",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1227",
+    "codigo_postal_argentino": "C1227AAB",
+    "comisaria": "18",
+    "comisaria_vecinal": "3B",
+    "comuna": "Comuna 3",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   III",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "20"
+  },
+  "debug": {
+    "address": "CHILE 1850",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.392617294741186,
+        -34.61723525530153
+      ],
+      "direccion": "",
+      "fondo": "52.31",
+      "frente": "7.80",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "067",
+      "parcela": "008",
+      "pdamatriz": "200220",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "020",
+      "smp": "020-067-008",
+      "smp_anterior": "020-067-007",
+      "smp_siguiente": "020-067-009",
+      "srid": 4326,
+      "superficie_cubierta": "312.00",
+      "superficie_total": "408.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1850,
+      "cod_calle": 3230
+    },
+    "usig_direccion_elegida": {
+      "altura": 1850,
+      "cod_calle": 3230,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.392641",
+        "y": "-34.616978"
+      },
+      "direccion": "CHILE 1850, CABA",
+      "nombre_calle": "CHILE",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1850,
+          "cod_calle": 3230,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.392641",
+            "y": "-34.616978"
+          },
+          "direccion": "CHILE 1850, CABA",
+          "nombre_calle": "CHILE",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1850,
+          "cod_calle": 22621,
+          "cod_calle_cruce": null,
+          "cod_partido": "avellaneda",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4020584040816,
+            "y": -34.6669616020408
+          },
+          "direccion": "Chile 1850, Avellaneda",
+          "nombre_calle": "Chile",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Piñeyro",
+          "nombre_partido": "Avellaneda",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1850,
+          "cod_calle": 10970,
+          "cod_calle_cruce": null,
+          "cod_partido": "jose_c_paz",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7385494755102,
+            "y": -34.5318079489796
+          },
+          "direccion": "Chile 1850, José C. Paz",
+          "nombre_calle": "Chile",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "José C. Paz",
+          "nombre_partido": "José C. Paz",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1850,
+          "cod_calle": 41372,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "direccion": "República de Chile 1850, La Matanza",
+          "nombre_calle": "República de Chile",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Justo",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1850,
+          "cod_calle": 22621,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4020584040816,
+            "y": -34.6669616020408
+          },
+          "direccion": "Chile 1850, Lanús",
+          "nombre_calle": "Chile",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Valentín Alsina",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1850,
+          "cod_calle": 176245,
+          "cod_calle_cruce": null,
+          "cod_partido": "malvinas_argentinas",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.75334745,
+            "y": -34.47053525
+          },
+          "direccion": "Santiago de Chile 1850, Malvinas Argentinas",
+          "nombre_calle": "Santiago de Chile",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Tortuguitas",
+          "nombre_partido": "Malvinas Argentinas",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1850,
+          "cod_calle": 180693,
+          "cod_calle_cruce": null,
+          "cod_partido": "tigre",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6905494612245,
+            "y": -34.4242999632653
+          },
+          "direccion": "Chile 1850, Tigre",
+          "nombre_calle": "Chile",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Benavídez",
+          "nombre_partido": "Tigre",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1850,
+          "cod_calle": 181187,
+          "cod_calle_cruce": null,
+          "cod_partido": "tigre",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5835907,
+            "y": -34.43494965
+          },
+          "direccion": "Chile 1850, Tigre",
+          "nombre_calle": "Chile",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Tigre",
+          "nombre_partido": "Tigre",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1850,
+          "cod_calle": 269273,
+          "cod_calle_cruce": null,
+          "cod_partido": "tigre",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6527557,
+            "y": -34.4612974
+          },
+          "direccion": "Chile 1850, Tigre",
+          "nombre_calle": "Chile",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "El Talar",
+          "nombre_partido": "Tigre",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1850,
+          "cod_calle": 177141,
+          "cod_calle_cruce": null,
+          "cod_partido": "tigre",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.649750544898,
+            "y": -34.4590668346939
+          },
+          "direccion": "Santiago de Chile 1850, Tigre",
+          "nombre_calle": "Santiago de Chile",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "General Pacheco",
+          "nombre_partido": "Tigre",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  106478.79796875903,
+                  101336.96902537087
+                ],
+                [
+                  106478.80796875953,
+                  101337.99802536808
+                ],
+                [
+                  106478.86596876416,
+                  101344.1290253509
+                ],
+                [
+                  106478.90296876653,
+                  101347.99802534
+                ],
+                [
+                  106478.90796876675,
+                  101348.43902533935
+                ],
+                [
+                  106478.91796876727,
+                  101349.48002533661
+                ],
+                [
+                  106478.92596876831,
+                  101350.37902533339
+                ],
+                [
+                  106478.95496877059,
+                  101353.39102532493
+                ],
+                [
+                  106478.98496877309,
+                  101356.47902531674
+                ],
+                [
+                  106478.99196877293,
+                  101357.19102531412
+                ],
+                [
+                  106479.00296877368,
+                  101358.3910253109
+                ],
+                [
+                  106486.88796875278,
+                  101359.02202530325
+                ],
+                [
+                  106486.75896874417,
+                  101347.91202533417
+                ],
+                [
+                  106486.64196873727,
+                  101337.91202536234
+                ],
+                [
+                  106486.60696873502,
+                  101334.91202537072
+                ],
+                [
+                  106486.45396872556,
+                  101321.72802540849
+                ],
+                [
+                  106486.4109687233,
+                  101318.07602541894
+                ],
+                [
+                  106486.40996872308,
+                  101317.9280254193
+                ],
+                [
+                  106486.28096871544,
+                  101306.88602544999
+                ],
+                [
+                  106484.3049687201,
+                  101306.73402545214
+                ],
+                [
+                  106482.37996872557,
+                  101306.58602545396
+                ],
+                [
+                  106478.50396873607,
+                  101306.2870254571
+                ],
+                [
+                  106478.54096873935,
+                  101310.1990254466
+                ],
+                [
+                  106478.5769687414,
+                  101313.88902543666
+                ],
+                [
+                  106478.58196874264,
+                  101314.42902543425
+                ],
+                [
+                  106478.614968745,
+                  101317.92902542444
+                ],
+                [
+                  106478.62196874569,
+                  101318.57902542289
+                ],
+                [
+                  106478.6489687475,
+                  101321.42902541457
+                ],
+                [
+                  106478.65896874804,
+                  101322.4590254119
+                ],
+                [
+                  106478.72696875322,
+                  101329.60902539216
+                ],
+                [
+                  106478.74496875475,
+                  101331.49902538655
+                ],
+                [
+                  106478.77896875727,
+                  101334.99902537672
+                ],
+                [
+                  106478.7869687573,
+                  101335.81902537469
+                ],
+                [
+                  106478.79796875903,
+                  101336.96902537087
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "020-067-008",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CHILE 1850",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.392617294741186,
+      -34.61723525530153
+    ],
+    "direccion": "",
+    "fondo": "52.31",
+    "frente": "7.80",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "067",
+    "parcela": "008",
+    "pdamatriz": "200220",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "020",
+    "smp": "020-067-008",
+    "smp_anterior": "020-067-007",
+    "smp_siguiente": "020-067-009",
+    "srid": 4326,
+    "superficie_cubierta": "312.00",
+    "superficie_total": "408.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "020-067-008",
+  "_http_status": 200
+}

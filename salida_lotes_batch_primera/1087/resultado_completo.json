@@ -1,0 +1,314 @@
+{
+  "area_m2": 146.24669742584229,
+  "centroide_lonlat": {
+    "lat": -34.582127,
+    "lon": -58.432511
+  },
+  "centroide_xy": {
+    "x": 102825.00323937279,
+    "y": 105229.2894812873
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 0.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "U",
+            "distrito_especifico": "U 20"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.0,
+          "fot_perim_libre": 3.5,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/9/64/035-072-034_0000343964.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION035/035-072-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION035/PI-035-072-V7.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "035-072-035",
+            "035-072-032",
+            "035-072-033",
+            "035-072-031"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "U20",
+          "incidencia_uva": 700.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 28667.25
+        },
+        "rivolta": 0,
+        "subzona": "Zona 4",
+        "sup_edificable_planta": 146.261500000159,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 146.2,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "035-072-034"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.A.FERNÁNDEZ",
+    "barrio": "Palermo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1414",
+    "codigo_postal_argentino": "C1414CTX",
+    "comisaria": "31",
+    "comisaria_vecinal": "14B",
+    "comuna": "Comuna 14",
+    "distrito_economico": "DISTRITO AUDIOVISUAL",
+    "distrito_escolar": "Distrito Escolar   IX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "35"
+  },
+  "debug": {
+    "address": "HUMBOLDT 2020",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.43251100689519,
+        -34.58212717117297
+      ],
+      "direccion": "",
+      "fondo": "18.87",
+      "frente": "7.79",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "072",
+      "parcela": "034",
+      "pdamatriz": "402845",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "035",
+      "smp": "035-072-034",
+      "smp_anterior": "035-072-033",
+      "smp_siguiente": "035-072-035",
+      "srid": 4326,
+      "superficie_cubierta": "294.00",
+      "superficie_total": "147.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2020,
+      "cod_calle": 8036
+    },
+    "usig_direccion_elegida": {
+      "altura": 2020,
+      "cod_calle": 8036,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.432411",
+        "y": "-34.582205"
+      },
+      "direccion": "HUMBOLDT 2020, CABA",
+      "nombre_calle": "HUMBOLDT",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2020,
+          "cod_calle": 8036,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.432411",
+            "y": "-34.582205"
+          },
+          "direccion": "HUMBOLDT 2020, CABA",
+          "nombre_calle": "HUMBOLDT",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102815.47398196495,
+                  105233.09701720258
+                ],
+                [
+                  102817.08598196144,
+                  105234.80001719634
+                ],
+                [
+                  102820.73398195417,
+                  105238.65601718347
+                ],
+                [
+                  102821.88398194955,
+                  105237.56201718509
+                ],
+                [
+                  102831.94998191469,
+                  105227.98501720477
+                ],
+                [
+                  102834.519981905,
+                  105225.5400172094
+                ],
+                [
+                  102829.17398191585,
+                  105219.89901722941
+                ],
+                [
+                  102826.66498192512,
+                  105222.339017224
+                ],
+                [
+                  102823.080981938,
+                  105225.82401721721
+                ],
+                [
+                  102821.35698194368,
+                  105227.50001721381
+                ],
+                [
+                  102817.50258195767,
+                  105231.16701720681
+                ],
+                [
+                  102816.61298196045,
+                  105232.01301720503
+                ],
+                [
+                  102815.47398196495,
+                  105233.09701720258
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "035-072-034",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "HUMBOLDT 2020",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.43251100689519,
+      -34.58212717117297
+    ],
+    "direccion": "",
+    "fondo": "18.87",
+    "frente": "7.79",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "072",
+    "parcela": "034",
+    "pdamatriz": "402845",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "035",
+    "smp": "035-072-034",
+    "smp_anterior": "035-072-033",
+    "smp_siguiente": "035-072-035",
+    "srid": 4326,
+    "superficie_cubierta": "294.00",
+    "superficie_total": "147.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "035-072-034",
+  "_http_status": 200
+}

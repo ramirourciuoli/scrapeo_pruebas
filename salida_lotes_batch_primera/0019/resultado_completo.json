@@ -1,0 +1,380 @@
+{
+  "area_m2": 345.2785186767578,
+  "centroide_lonlat": {
+    "lat": -34.621998,
+    "lon": -58.484963
+  },
+  "centroide_xy": {
+    "x": 98013.2508688447,
+    "y": 100806.42829419517
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "PEV",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.0,
+          "fot_perim_libre": 3.0,
+          "fot_semi_libre": 3.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/2/67/079-077-008_0000174267.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION079/079-077-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION079/PI-079-077-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "079-077-007",
+            "079-077-009",
+            "079-077-031",
+            "079-077-030"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "E3",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 304.05452604375,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 345.3,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "079-077-008"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. T. ÁLVAREZ",
+    "barrio": "Villa Santa Rita",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1407",
+    "codigo_postal_argentino": "C1407DCV",
+    "comisaria": "43",
+    "comisaria_vecinal": "11A",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "79"
+  },
+  "debug": {
+    "address": "SAN NICOLAS 1136",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.48496342873236,
+        -34.621997783844506
+      ],
+      "direccion": "",
+      "fondo": "40.33",
+      "frente": "8.53",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "077",
+      "parcela": "008",
+      "pdamatriz": "260617",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "079",
+      "smp": "079-077-008",
+      "smp_anterior": "079-077-007",
+      "smp_siguiente": "079-077-009",
+      "srid": 4326,
+      "superficie_cubierta": "163.00",
+      "superficie_total": "344.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1136,
+      "cod_calle": 20049
+    },
+    "usig_direccion_elegida": {
+      "altura": 1136,
+      "cod_calle": 20049,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.484777",
+        "y": "-34.621838"
+      },
+      "direccion": "SAN NICOLAS 1136, CABA",
+      "nombre_calle": "SAN NICOLAS",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1136,
+          "cod_calle": 20049,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.484777",
+            "y": "-34.621838"
+          },
+          "direccion": "SAN NICOLAS 1136, CABA",
+          "nombre_calle": "SAN NICOLAS",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1136,
+          "cod_calle": 99851,
+          "cod_calle_cruce": null,
+          "cod_partido": "esteban_echeverria",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4642558163265,
+            "y": -34.7959559163265
+          },
+          "direccion": "San Nicolás 1136, Esteban Echeverría",
+          "nombre_calle": "San Nicolás",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Luis Guillón",
+          "nombre_partido": "Esteban Echeverría",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1136,
+          "cod_calle": 44189,
+          "cod_calle_cruce": null,
+          "cod_partido": "moron",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6482372204082,
+            "y": -34.6472892489796
+          },
+          "direccion": "San Nicolás 1136, Morón",
+          "nombre_calle": "San Nicolás",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Castelar",
+          "nombre_partido": "Morón",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98024.15099208253,
+                  100823.93803317551
+                ],
+                [
+                  98026.90099207217,
+                  100821.28803317843
+                ],
+                [
+                  98030.32299206001,
+                  100817.99203318628
+                ],
+                [
+                  98029.62899206119,
+                  100817.27203318902
+                ],
+                [
+                  98027.37399206593,
+                  100814.93003319568
+                ],
+                [
+                  98015.81399208971,
+                  100802.92503323866
+                ],
+                [
+                  98013.345992095,
+                  100800.36203324827
+                ],
+                [
+                  98012.29999209747,
+                  100799.27603325067
+                ],
+                [
+                  98012.16699209722,
+                  100799.1380332527
+                ],
+                [
+                  98011.74599209805,
+                  100798.70003325489
+                ],
+                [
+                  98010.36299210126,
+                  100797.26503325917
+                ],
+                [
+                  98008.30699210479,
+                  100795.130033266
+                ],
+                [
+                  98007.05799210747,
+                  100793.83303327046
+                ],
+                [
+                  98002.31799211723,
+                  100788.91003328908
+                ],
+                [
+                  97996.17199213876,
+                  100794.83203327793
+                ],
+                [
+                  98004.22399212296,
+                  100803.20803324736
+                ],
+                [
+                  98016.78999209745,
+                  100816.28003320046
+                ],
+                [
+                  98020.35299209053,
+                  100819.98703318764
+                ],
+                [
+                  98021.21499208809,
+                  100820.88403318476
+                ],
+                [
+                  98023.31899208458,
+                  100823.07303317645
+                ],
+                [
+                  98024.15099208253,
+                  100823.93803317551
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "079-077-008",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "SAN NICOLAS 1136",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.48496342873236,
+      -34.621997783844506
+    ],
+    "direccion": "",
+    "fondo": "40.33",
+    "frente": "8.53",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "077",
+    "parcela": "008",
+    "pdamatriz": "260617",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "079",
+    "smp": "079-077-008",
+    "smp_anterior": "079-077-007",
+    "smp_siguiente": "079-077-009",
+    "srid": 4326,
+    "superficie_cubierta": "163.00",
+    "superficie_total": "344.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "079-077-008",
+  "_http_status": 200
+}

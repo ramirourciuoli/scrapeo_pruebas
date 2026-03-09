@@ -1,0 +1,422 @@
+{
+  "area_m2": 127.38310527801514,
+  "centroide_lonlat": {
+    "lat": -34.617271,
+    "lon": -58.421728
+  },
+  "centroide_xy": {
+    "x": 103812.82271799583,
+    "y": 101330.24726428305
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/8/79/036-081-027_0000296879.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION036/036-081-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION036/PI-036-081-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "036-081-026",
+            "036-081-028",
+            "036-081-023"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 140.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 127.405700000071,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 127.4,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "036-081-027"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Almagro",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1202",
+    "codigo_postal_argentino": "C1202ACI",
+    "comisaria": "10",
+    "comisaria_vecinal": "5B",
+    "comuna": "Comuna 5",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "36"
+  },
+  "debug": {
+    "address": "YAPEYU 451",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.4217275044614,
+        -34.61727081362595
+      ],
+      "direccion": "",
+      "fondo": "15.63",
+      "frente": "8.00",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "081",
+      "parcela": "027",
+      "pdamatriz": "151992",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "036",
+      "smp": "036-081-027",
+      "smp_anterior": "036-081-026",
+      "smp_siguiente": "036-081-028",
+      "srid": 4326,
+      "superficie_cubierta": "219.00",
+      "superficie_total": "125.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 451,
+      "cod_calle": 26001
+    },
+    "usig_direccion_elegida": {
+      "altura": 451,
+      "cod_calle": 26001,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.421608",
+        "y": "-34.617269"
+      },
+      "direccion": "YAPEYU 451, CABA",
+      "nombre_calle": "YAPEYU",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 451,
+          "cod_calle": 26001,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.421608",
+            "y": "-34.617269"
+          },
+          "direccion": "YAPEYU 451, CABA",
+          "nombre_calle": "YAPEYU",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 451,
+          "cod_calle": 80740,
+          "cod_calle_cruce": null,
+          "cod_partido": "esteban_echeverria",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5049884,
+            "y": -34.827105
+          },
+          "direccion": "Yapeyú 451, Esteban Echeverría",
+          "nombre_calle": "Yapeyú",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "El Jagüel",
+          "nombre_partido": "Esteban Echeverría",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 451,
+          "cod_calle": 40483,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3364594,
+            "y": -34.72812255
+          },
+          "direccion": "Yapeyú 451, Lanús",
+          "nombre_calle": "Yapeyú",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Monte Chingolo",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 451,
+          "cod_calle": 15464,
+          "cod_calle_cruce": null,
+          "cod_partido": "moron",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.563238,
+            "y": -34.635448
+          },
+          "direccion": "Yapeyú 451, Morón",
+          "nombre_calle": "Yapeyú",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Sarmiento",
+          "nombre_partido": "Morón",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 451,
+          "cod_calle": 58349,
+          "cod_calle_cruce": null,
+          "cod_partido": "quilmes",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.288726144898,
+            "y": -34.7156259979592
+          },
+          "direccion": "Yapeyú 451, Quilmes",
+          "nombre_calle": "Yapeyú",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Bernal",
+          "nombre_partido": "Quilmes",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 451,
+          "cod_calle": 13341,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_isidro",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5024427,
+            "y": -34.4968809
+          },
+          "direccion": "Yapeyú 451, San Isidro",
+          "nombre_calle": "Yapeyú",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Martínez",
+          "nombre_partido": "San Isidro",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  103808.9589762373,
+                  101325.94002741226
+                ],
+                [
+                  103808.67097623838,
+                  101325.91602741237
+                ],
+                [
+                  103804.8909762485,
+                  101325.6100274162
+                ],
+                [
+                  103804.83597625178,
+                  101329.32102740597
+                ],
+                [
+                  103804.77397625518,
+                  101333.53602739406
+                ],
+                [
+                  103808.30097624529,
+                  101333.84502738997
+                ],
+                [
+                  103811.19797623725,
+                  101334.09902738768
+                ],
+                [
+                  103812.62197623389,
+                  101334.22302738612
+                ],
+                [
+                  103814.66597622808,
+                  101334.40202738359
+                ],
+                [
+                  103816.41697622344,
+                  101334.55602738197
+                ],
+                [
+                  103819.5759762148,
+                  101334.83202737937
+                ],
+                [
+                  103820.7149762112,
+                  101334.9780273778
+                ],
+                [
+                  103820.77697620782,
+                  101330.82602738962
+                ],
+                [
+                  103820.83597620507,
+                  101326.9020274
+                ],
+                [
+                  103817.97997621319,
+                  101326.67102740309
+                ],
+                [
+                  103816.98397621566,
+                  101326.59002740387
+                ],
+                [
+                  103815.88597621847,
+                  101326.50102740526
+                ],
+                [
+                  103812.5599762272,
+                  101326.23102740804
+                ],
+                [
+                  103808.9589762373,
+                  101325.94002741226
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "036-081-027",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "YAPEYU 451",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.4217275044614,
+      -34.61727081362595
+    ],
+    "direccion": "",
+    "fondo": "15.63",
+    "frente": "8.00",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "081",
+    "parcela": "027",
+    "pdamatriz": "151992",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "036",
+    "smp": "036-081-027",
+    "smp_anterior": "036-081-026",
+    "smp_siguiente": "036-081-028",
+    "srid": 4326,
+    "superficie_cubierta": "219.00",
+    "superficie_total": "125.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "036-081-027",
+  "_http_status": 200
+}

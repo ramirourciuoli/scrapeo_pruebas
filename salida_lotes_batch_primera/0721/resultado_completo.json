@@ -1,0 +1,350 @@
+{
+  "area_m2": 211.96108531951904,
+  "centroide_lonlat": {
+    "lat": -34.618114,
+    "lon": -58.524635
+  },
+  "centroide_xy": {
+    "x": 94374.68947962493,
+    "y": 101235.8078672362
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/84/093-161-004_0000210084.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION093/093-161-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION093/PI-093-161-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "093-161-003",
+            "093-161-005",
+            "093-161-022",
+            "093-161-021b"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 130.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 212.0,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "093-161-004"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Villa Real",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1408",
+    "codigo_postal_argentino": "C1408DCX",
+    "comisaria": "44",
+    "comisaria_vecinal": "10B",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "93"
+  },
+  "debug": {
+    "address": "MOLIERE 2636",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.52463527872034,
+        -34.61811377464
+      ],
+      "direccion": "",
+      "fondo": "24.24",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "161",
+      "parcela": "004",
+      "pdamatriz": "289112",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "093",
+      "smp": "093-161-004",
+      "smp_anterior": "093-161-003",
+      "smp_siguiente": "093-161-005",
+      "srid": 4326,
+      "superficie_cubierta": "136.00",
+      "superficie_total": "210.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2636,
+      "cod_calle": 13100
+    },
+    "usig_direccion_elegida": {
+      "altura": 2636,
+      "cod_calle": 13100,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.524510",
+        "y": "-34.618003"
+      },
+      "direccion": "MOLIERE 2636, CABA",
+      "nombre_calle": "MOLIERE",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2636,
+          "cod_calle": 13100,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.524510",
+            "y": "-34.618003"
+          },
+          "direccion": "MOLIERE 2636, CABA",
+          "nombre_calle": "MOLIERE",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  94373.16400263454,
+                  101240.46303475439
+                ],
+                [
+                  94375.4110026304,
+                  101242.76403474621
+                ],
+                [
+                  94376.27700262814,
+                  101243.65203474244
+                ],
+                [
+                  94380.036002621,
+                  101247.50203472935
+                ],
+                [
+                  94382.61700261125,
+                  101245.09603473372
+                ],
+                [
+                  94386.39700259827,
+                  101241.57203474059
+                ],
+                [
+                  94382.47800260648,
+                  101237.56703475484
+                ],
+                [
+                  94382.38200260676,
+                  101237.46903475496
+                ],
+                [
+                  94380.22700261089,
+                  101235.26603476302
+                ],
+                [
+                  94379.57200261195,
+                  101234.59703476564
+                ],
+                [
+                  94376.4090026187,
+                  101231.3630347769
+                ],
+                [
+                  94373.91700262415,
+                  101228.81703478584
+                ],
+                [
+                  94373.06800262548,
+                  101227.94903478917
+                ],
+                [
+                  94371.80900262839,
+                  101226.6620347932
+                ],
+                [
+                  94369.28300263302,
+                  101224.08103480304
+                ],
+                [
+                  94366.06300264462,
+                  101227.15603479702
+                ],
+                [
+                  94364.14400265166,
+                  101228.98803479283
+                ],
+                [
+                  94364.0490026513,
+                  101229.07903479264
+                ],
+                [
+                  94363.01500265494,
+                  101230.06703479055
+                ],
+                [
+                  94365.53900265004,
+                  101232.65203478138
+                ],
+                [
+                  94366.61300264785,
+                  101233.75203477804
+                ],
+                [
+                  94373.16400263454,
+                  101240.46303475439
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "093-161-004",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MOLIERE 2636",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.52463527872034,
+      -34.61811377464
+    ],
+    "direccion": "",
+    "fondo": "24.24",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "161",
+    "parcela": "004",
+    "pdamatriz": "289112",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "093",
+    "smp": "093-161-004",
+    "smp_anterior": "093-161-003",
+    "smp_siguiente": "093-161-005",
+    "srid": 4326,
+    "superficie_cubierta": "136.00",
+    "superficie_total": "210.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "093-161-004",
+  "_http_status": 200
+}

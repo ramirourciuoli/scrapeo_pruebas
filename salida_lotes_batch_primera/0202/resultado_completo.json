@@ -1,0 +1,325 @@
+{
+  "area_m2": 227.82215690612793,
+  "centroide_lonlat": {
+    "lat": -34.619451,
+    "lon": -58.373687
+  },
+  "centroide_xy": {
+    "x": 108218.64760814045,
+    "y": 101085.51965363842
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 10.0,
+        "catalogacion": {
+          "catalogacion": "APH",
+          "denominacion": null,
+          "estado": "CPU/CUr",
+          "ley_3056": "NO",
+          "proteccion": "CAUTELAR"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "APH",
+            "distrito_especifico": "APH 1"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 0.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/15/004-023-029_0000388015.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION004/004-023-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION004/PI-004-023-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": true,
+          "smp_linderas": [
+            "004-023-028",
+            "004-023-030",
+            "004-023-020a"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "APH 1",
+          "incidencia_uva": 90.0,
+          "plusvalia_em": 0.0,
+          "plusvalia_pl": 0.0,
+          "plusvalia_sl": 0.0
+        },
+        "rivolta": 0,
+        "subzona": "2c",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 227.8,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "004-023-029"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C. ARGERICH",
+    "barrio": "San Telmo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1102",
+    "codigo_postal_argentino": "C1102AAK",
+    "comisaria": "2",
+    "comisaria_vecinal": "1F",
+    "comuna": "Comuna 1",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   IV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "04"
+  },
+  "debug": {
+    "address": "CARLOS CALVO 555",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.373686976471326,
+        -34.61945100717217
+      ],
+      "direccion": "",
+      "fondo": "29.74",
+      "frente": "7.70",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "023",
+      "parcela": "029",
+      "pdamatriz": "210686",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "004",
+      "smp": "004-023-029",
+      "smp_anterior": "004-023-028",
+      "smp_siguiente": "004-023-030",
+      "srid": 4326,
+      "superficie_cubierta": "260.00",
+      "superficie_total": "229.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 555,
+      "cod_calle": 3028
+    },
+    "usig_direccion_elegida": {
+      "altura": 555,
+      "cod_calle": 3028,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.373677",
+        "y": "-34.619599"
+      },
+      "direccion": "CALVO, CARLOS 555, CABA",
+      "nombre_calle": "CALVO, CARLOS",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 555,
+          "cod_calle": 3028,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.373677",
+            "y": "-34.619599"
+          },
+          "direccion": "CALVO, CARLOS 555, CABA",
+          "nombre_calle": "CALVO, CARLOS",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  108222.22596368712,
+                  101095.10602473703
+                ],
+                [
+                  108222.64996367146,
+                  101075.13702479313
+                ],
+                [
+                  108222.74296366732,
+                  101070.74202480487
+                ],
+                [
+                  108215.10596368829,
+                  101070.28702481184
+                ],
+                [
+                  108214.96896369506,
+                  101078.937024788
+                ],
+                [
+                  108214.89096369926,
+                  101083.89002477398
+                ],
+                [
+                  108214.87596370034,
+                  101084.80102477176
+                ],
+                [
+                  108214.83896370172,
+                  101087.17102476521
+                ],
+                [
+                  108214.76596370555,
+                  101091.75102475248
+                ],
+                [
+                  108214.74196370656,
+                  101093.30202474815
+                ],
+                [
+                  108214.69996370925,
+                  101095.94502474094
+                ],
+                [
+                  108214.62996371248,
+                  101100.38702472832
+                ],
+                [
+                  108219.97196369791,
+                  101100.73802472308
+                ],
+                [
+                  108221.92396369218,
+                  101100.86602472182
+                ],
+                [
+                  108222.1039636923,
+                  101100.87802472076
+                ],
+                [
+                  108222.22596368712,
+                  101095.10602473703
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "004-023-029",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CARLOS CALVO 555",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.373686976471326,
+      -34.61945100717217
+    ],
+    "direccion": "",
+    "fondo": "29.74",
+    "frente": "7.70",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "023",
+    "parcela": "029",
+    "pdamatriz": "210686",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "004",
+    "smp": "004-023-029",
+    "smp_anterior": "004-023-028",
+    "smp_siguiente": "004-023-030",
+    "srid": 4326,
+    "superficie_cubierta": "260.00",
+    "superficie_total": "229.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "004-023-029",
+  "_http_status": 200
+}

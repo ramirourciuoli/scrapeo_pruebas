@@ -1,0 +1,431 @@
+{
+  "area_m2": 179.95438480377197,
+  "centroide_lonlat": {
+    "lat": -34.627663,
+    "lon": -58.435017
+  },
+  "centroide_xy": {
+    "x": 102593.62706450067,
+    "y": 100177.8375995648
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.0,
+          "fot_perim_libre": 3.0,
+          "fot_semi_libre": 3.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/2/03/040-066-025a_0000352203.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION040/040-066-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION040/PI-040-066-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "040-066-026a",
+            "040-066-020",
+            "040-066-024"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "AE 26",
+          "incidencia_uva": 300.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 180.0,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "040-066-025A"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Caballito",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1424",
+    "codigo_postal_argentino": "C1424ACC",
+    "comisaria": "12",
+    "comisaria_vecinal": "6B",
+    "comuna": "Comuna 6",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "40"
+  },
+  "debug": {
+    "address": "CRAIG 769",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.4350172765595,
+        -34.62766265592954
+      ],
+      "direccion": "",
+      "fondo": "13.37",
+      "frente": "13.54",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "066",
+      "parcela": "025A",
+      "pdamatriz": "157421",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "2",
+      "propiedad_horizontal": "Si",
+      "seccion": "040",
+      "smp": "040-066-025A",
+      "smp_anterior": "040-066-024",
+      "smp_siguiente": "040-066-026A",
+      "srid": 4326,
+      "superficie_cubierta": "401.00",
+      "superficie_total": "181.00",
+      "unidades_funcionales": "5",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 769,
+      "cod_calle": 3188
+    },
+    "usig_direccion_elegida": {
+      "altura": 769,
+      "cod_calle": 3188,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.434917",
+        "y": "-34.627636"
+      },
+      "direccion": "CRAIG 769, CABA",
+      "nombre_calle": "CRAIG",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 769,
+          "cod_calle": 3188,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.434917",
+            "y": "-34.627636"
+          },
+          "direccion": "CRAIG 769, CABA",
+          "nombre_calle": "CRAIG",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 769,
+          "cod_calle": 128764,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3923373721271,
+            "y": -34.9006934555012
+          },
+          "direccion": "Teniente Craig 769, Almirante Brown",
+          "nombre_calle": "Teniente Craig",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Glew",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 769,
+          "cod_calle": 158513,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6598152918368,
+            "y": -34.6942782102041
+          },
+          "direccion": "Craig 769, Merlo",
+          "nombre_calle": "Craig",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Libertad",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102584.0750520457,
+                  100171.34512434516
+                ],
+                [
+                  102581.5250642595,
+                  100170.88613997336
+                ],
+                [
+                  102581.02197881386,
+                  100173.9520315663
+                ],
+                [
+                  102584.86597880567,
+                  100176.72403155646
+                ],
+                [
+                  102588.02897879825,
+                  100179.00503154716
+                ],
+                [
+                  102591.27297879088,
+                  100181.34503153805
+                ],
+                [
+                  102592.08397878877,
+                  100181.93003153574
+                ],
+                [
+                  102599.38397877208,
+                  100187.19503151608
+                ],
+                [
+                  102600.31697877016,
+                  100187.86803151297
+                ],
+                [
+                  102600.5599787694,
+                  100188.04303151209
+                ],
+                [
+                  102600.67597876897,
+                  100187.37003151444
+                ],
+                [
+                  102601.12397876561,
+                  100184.78203152088
+                ],
+                [
+                  102601.54197876317,
+                  100182.36703152736
+                ],
+                [
+                  102601.74697876177,
+                  100181.18203153092
+                ],
+                [
+                  102602.08797875933,
+                  100179.21203153642
+                ],
+                [
+                  102602.30897875765,
+                  100177.9310315394
+                ],
+                [
+                  102602.3689787568,
+                  100177.58703154078
+                ],
+                [
+                  102602.75197875444,
+                  100175.37003154654
+                ],
+                [
+                  102602.86307689786,
+                  100174.7301340872
+                ],
+                [
+                  102602.3220612743,
+                  100174.63314922462
+                ],
+                [
+                  102600.41910717783,
+                  100174.29013164883
+                ],
+                [
+                  102598.45097876545,
+                  100173.93503155326
+                ],
+                [
+                  102597.66297876694,
+                  100173.79303155426
+                ],
+                [
+                  102596.71197877004,
+                  100173.6220315563
+                ],
+                [
+                  102594.69497877543,
+                  100173.259031558
+                ],
+                [
+                  102593.73105787928,
+                  100173.08511456742
+                ],
+                [
+                  102593.51310133687,
+                  100173.04611310281
+                ],
+                [
+                  102591.15597878501,
+                  100172.62103156309
+                ],
+                [
+                  102589.25897878926,
+                  100172.27903156538
+                ],
+                [
+                  102588.2079787921,
+                  100172.09003156642
+                ],
+                [
+                  102587.22097879497,
+                  100171.9120315673
+                ],
+                [
+                  102586.94797879565,
+                  100171.863031568
+                ],
+                [
+                  102585.98397879854,
+                  100171.68903156958
+                ],
+                [
+                  102584.0750520457,
+                  100171.34512434516
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "040-066-025A",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CRAIG 769",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.4350172765595,
+      -34.62766265592954
+    ],
+    "direccion": "",
+    "fondo": "13.37",
+    "frente": "13.54",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "066",
+    "parcela": "025A",
+    "pdamatriz": "157421",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "2",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "040",
+    "smp": "040-066-025A",
+    "smp_anterior": "040-066-024",
+    "smp_siguiente": "040-066-026A",
+    "srid": 4326,
+    "superficie_cubierta": "401.00",
+    "superficie_total": "181.00",
+    "unidades_funcionales": "5",
+    "vuc": "0.00"
+  },
+  "smp": "040-066-025A",
+  "_http_status": 200
+}

@@ -1,0 +1,476 @@
+{
+  "area_m2": 218.20862483978271,
+  "centroide_lonlat": {
+    "lat": -34.631159,
+    "lon": -58.437052
+  },
+  "centroide_xy": {
+    "x": 102406.94151395402,
+    "y": 99790.01294406563
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/3/56/040-026-003_0000049356.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION040/040-026-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION040/PI-040-026-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "040-026-026",
+            "040-026-002",
+            "040-026-004",
+            "040-026-027"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 270.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 201.933965811713,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 218.2,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "040-026-003"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Parque Chacabuco",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1424",
+    "codigo_postal_argentino": "C1424CLR",
+    "comisaria": "12",
+    "comisaria_vecinal": "7B",
+    "comuna": "Comuna 7",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "40"
+  },
+  "debug": {
+    "address": "TEJEDOR 824",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.43705193028162,
+        -34.63115903674889
+      ],
+      "direccion": "",
+      "fondo": "25.75",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "026",
+      "parcela": "003",
+      "pdamatriz": "158511",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "040",
+      "smp": "040-026-003",
+      "smp_anterior": "040-026-002",
+      "smp_siguiente": "040-026-004",
+      "srid": 4326,
+      "superficie_cubierta": "183.00",
+      "superficie_total": "223.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 824,
+      "cod_calle": 21018
+    },
+    "usig_direccion_elegida": {
+      "altura": 824,
+      "cod_calle": 21018,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.437082",
+        "y": "-34.630997"
+      },
+      "direccion": "TEJEDOR 824, CABA",
+      "nombre_calle": "TEJEDOR",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 824,
+          "cod_calle": 21018,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.437082",
+            "y": "-34.630997"
+          },
+          "direccion": "TEJEDOR 824, CABA",
+          "nombre_calle": "TEJEDOR",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 824,
+          "cod_calle": 10089,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5165672693878,
+            "y": -34.6734547591837
+          },
+          "direccion": "Tejedor 824, La Matanza",
+          "nombre_calle": "Tejedor",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "La Tablada",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 824,
+          "cod_calle": 506145,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4036414265306,
+            "y": -34.7024158428571
+          },
+          "direccion": "Gobernador Carlos Tejedor 824, Lanús",
+          "nombre_calle": "Gobernador Carlos Tejedor",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lanús Oeste",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 824,
+          "cod_calle": 32514,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3832912083333,
+            "y": -34.7693727916667
+          },
+          "direccion": "Carlos de Tejedor 824, Lomas de Zamora",
+          "nombre_calle": "Carlos de Tejedor",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Temperley",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 824,
+          "cod_calle": 165153,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7157718244898,
+            "y": -34.6842645408164
+          },
+          "direccion": "Carlos Tejedor 824, Merlo",
+          "nombre_calle": "Carlos Tejedor",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Merlo",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 824,
+          "cod_calle": 171341,
+          "cod_calle_cruce": null,
+          "cod_partido": "pilar",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.827266122449,
+            "y": -34.4821048183674
+          },
+          "direccion": "Carlos Tejedor 824, Pilar",
+          "nombre_calle": "Carlos Tejedor",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Presidente Derqui",
+          "nombre_partido": "Pilar",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 824,
+          "cod_calle": 181764,
+          "cod_calle_cruce": null,
+          "cod_partido": "tigre",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6676935142857,
+            "y": -34.4437861459184
+          },
+          "direccion": "Carlos Tejedor 824, Tigre",
+          "nombre_calle": "Carlos Tejedor",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "General Pacheco",
+          "nombre_partido": "Tigre",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102400.60597903958,
+                  99801.91803274542
+                ],
+                [
+                  102409.13497901688,
+                  99803.35503273585
+                ],
+                [
+                  102410.10697900955,
+                  99797.15503275234
+                ],
+                [
+                  102410.72797900511,
+                  99793.20103276303
+                ],
+                [
+                  102411.36097899973,
+                  99789.15903277355
+                ],
+                [
+                  102411.43197899964,
+                  99788.71003277472
+                ],
+                [
+                  102411.7939789966,
+                  99786.40103278059
+                ],
+                [
+                  102412.3029789933,
+                  99783.15903278964
+                ],
+                [
+                  102412.61897899053,
+                  99781.13903279556
+                ],
+                [
+                  102413.12897898644,
+                  99777.89103280363
+                ],
+                [
+                  102411.79297898989,
+                  99777.66803280503
+                ],
+                [
+                  102411.1449789916,
+                  99777.56003280578
+                ],
+                [
+                  102409.56697899604,
+                  99777.29603280823
+                ],
+                [
+                  102408.6719789989,
+                  99777.14703280912
+                ],
+                [
+                  102406.77997900399,
+                  99776.83103281175
+                ],
+                [
+                  102404.95397900853,
+                  99776.52603281339
+                ],
+                [
+                  102404.52197901161,
+                  99779.04703280734
+                ],
+                [
+                  102404.27097901326,
+                  99780.51703280312
+                ],
+                [
+                  102403.88397901594,
+                  99782.7790327972
+                ],
+                [
+                  102403.67297901824,
+                  99784.01003279354
+                ],
+                [
+                  102403.60697901816,
+                  99784.39503279232
+                ],
+                [
+                  102402.865979024,
+                  99788.72003278096
+                ],
+                [
+                  102401.69597903252,
+                  99795.55503276261
+                ],
+                [
+                  102401.59297903316,
+                  99796.15503276151
+                ],
+                [
+                  102401.41497903412,
+                  99797.19303275851
+                ],
+                [
+                  102400.91997903757,
+                  99800.08503275077
+                ],
+                [
+                  102400.77697903845,
+                  99800.92203274876
+                ],
+                [
+                  102400.60597903958,
+                  99801.91803274542
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "040-026-003",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "TEJEDOR 824",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.43705193028162,
+      -34.63115903674889
+    ],
+    "direccion": "",
+    "fondo": "25.75",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "026",
+    "parcela": "003",
+    "pdamatriz": "158511",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "040",
+    "smp": "040-026-003",
+    "smp_anterior": "040-026-002",
+    "smp_siguiente": "040-026-004",
+    "srid": 4326,
+    "superficie_cubierta": "183.00",
+    "superficie_total": "223.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "040-026-003",
+  "_http_status": 200
+}

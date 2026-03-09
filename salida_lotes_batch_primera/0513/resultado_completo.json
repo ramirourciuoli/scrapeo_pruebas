@@ -1,0 +1,446 @@
+{
+  "area_m2": 275.3747863769531,
+  "centroide_lonlat": {
+    "lat": -34.64017,
+    "lon": -58.507604
+  },
+  "centroide_xy": {
+    "x": 95937.77072173993,
+    "y": 98789.77414261723
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.45,
+          "fot_perim_libre": 3.45,
+          "fot_semi_libre": 3.45
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/9/46/060-076-020_0000013946.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION060/060-076-V2.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION060/PI-060-076-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "060-076-021",
+            "060-076-010",
+            "060-076-011",
+            "060-076-019",
+            "060-076-012a"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2a II",
+          "incidencia_uva": 230.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 187.458170782607,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 275.4,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "060-076-020"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Villa Luro",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1408",
+    "codigo_postal_argentino": "C1408HQD",
+    "comisaria": "54",
+    "comisaria_vecinal": "10C",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "60"
+  },
+  "debug": {
+    "address": "CORVALAN 150",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.507604033337955,
+        -34.64017014190868
+      ],
+      "direccion": "",
+      "fondo": "31.58",
+      "frente": "8.74",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "076",
+      "parcela": "020",
+      "pdamatriz": "9617",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "9",
+      "propiedad_horizontal": "Si",
+      "seccion": "060",
+      "smp": "060-076-020",
+      "smp_anterior": "060-076-019",
+      "smp_siguiente": "060-076-021",
+      "srid": 4326,
+      "superficie_cubierta": "1652.00",
+      "superficie_total": "276.00",
+      "unidades_funcionales": "9",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 150,
+      "cod_calle": 3179
+    },
+    "usig_direccion_elegida": {
+      "altura": 150,
+      "cod_calle": 3179,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.507753",
+        "y": "-34.640300"
+      },
+      "direccion": "CORVALAN 150, CABA",
+      "nombre_calle": "CORVALAN",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 150,
+          "cod_calle": 3179,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.507753",
+            "y": "-34.640300"
+          },
+          "direccion": "CORVALAN 150, CABA",
+          "nombre_calle": "CORVALAN",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 150,
+          "cod_calle": 58722,
+          "cod_calle_cruce": null,
+          "cod_partido": "avellaneda",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3246411755102,
+            "y": -34.7013506367347
+          },
+          "direccion": "Manuel Corvalán 150, Avellaneda",
+          "nombre_calle": "Manuel Corvalán",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Wilde",
+          "nombre_partido": "Avellaneda",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 150,
+          "cod_calle": 161975,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7439304479348,
+            "y": -34.6607137368565
+          },
+          "direccion": "Corvalán 150, Merlo",
+          "nombre_calle": "Corvalán",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Merlo",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 150,
+          "cod_calle": 163136,
+          "cod_calle_cruce": null,
+          "cod_partido": "moreno",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7788587795918,
+            "y": -34.6514688469388
+          },
+          "direccion": "Intendente Benito Corvalán 150, Moreno",
+          "nombre_calle": "Intendente Benito Corvalán",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Moreno",
+          "nombre_partido": "Moreno",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  95943.7259963952,
+                  98802.85004040739
+                ],
+                [
+                  95943.89499639448,
+                  98802.80604040762
+                ],
+                [
+                  95947.55099638391,
+                  98801.84604040763
+                ],
+                [
+                  95950.25399637556,
+                  98801.13704040775
+                ],
+                [
+                  95953.0839963671,
+                  98800.3940404079
+                ],
+                [
+                  95947.73699637759,
+                  98794.48404042836
+                ],
+                [
+                  95943.67399638554,
+                  98789.99304044366
+                ],
+                [
+                  95941.99699638961,
+                  98788.14004044997
+                ],
+                [
+                  95941.39299639052,
+                  98787.4720404527
+                ],
+                [
+                  95938.75999639535,
+                  98784.56104046255
+                ],
+                [
+                  95934.62799640329,
+                  98779.9950404788
+                ],
+                [
+                  95933.49299640574,
+                  98778.74004048327
+                ],
+                [
+                  95933.22099640641,
+                  98778.4390404844
+                ],
+                [
+                  95932.21199640876,
+                  98777.32404048802
+                ],
+                [
+                  95930.81399641147,
+                  98775.77904049348
+                ],
+                [
+                  95930.24099641277,
+                  98775.14604049531
+                ],
+                [
+                  95929.8719964141,
+                  98775.4840404951
+                ],
+                [
+                  95927.66299642107,
+                  98777.51304049115
+                ],
+                [
+                  95927.53899642167,
+                  98777.62704049097
+                ],
+                [
+                  95926.55799642544,
+                  98778.52804048883
+                ],
+                [
+                  95924.34699643303,
+                  98780.55604048472
+                ],
+                [
+                  95923.79499643484,
+                  98781.06304048392
+                ],
+                [
+                  95925.74899643086,
+                  98783.19904047641
+                ],
+                [
+                  95928.1829964264,
+                  98785.86004046744
+                ],
+                [
+                  95931.40299641975,
+                  98789.37904045451
+                ],
+                [
+                  95932.3359964181,
+                  98790.40004045161
+                ],
+                [
+                  95933.7649964148,
+                  98791.9610404459
+                ],
+                [
+                  95934.9859964123,
+                  98793.2950404411
+                ],
+                [
+                  95935.59299641188,
+                  98793.95904043861
+                ],
+                [
+                  95936.97199640886,
+                  98795.46704043378
+                ],
+                [
+                  95939.56899640379,
+                  98798.30604042349
+                ],
+                [
+                  95941.36699639968,
+                  98800.27104041647
+                ],
+                [
+                  95943.7259963952,
+                  98802.85004040739
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "060-076-020",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CORVALAN 150",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.507604033337955,
+      -34.64017014190868
+    ],
+    "direccion": "",
+    "fondo": "31.58",
+    "frente": "8.74",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "076",
+    "parcela": "020",
+    "pdamatriz": "9617",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "9",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "060",
+    "smp": "060-076-020",
+    "smp_anterior": "060-076-019",
+    "smp_siguiente": "060-076-021",
+    "srid": 4326,
+    "superficie_cubierta": "1652.00",
+    "superficie_total": "276.00",
+    "unidades_funcionales": "9",
+    "vuc": "0.00"
+  },
+  "smp": "060-076-020",
+  "_http_status": 200
+}

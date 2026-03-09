@@ -1,0 +1,460 @@
+{
+  "area_m2": 249.76954650878906,
+  "centroide_lonlat": {
+    "lat": -34.587651,
+    "lon": -58.406389
+  },
+  "centroide_xy": {
+    "x": 105221.41013684621,
+    "y": 104615.49289774356
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.32,
+          "fot_perim_libre": 3.32,
+          "fot_semi_libre": 3.32
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/26/015-051-034_0000412026.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION015/015-051-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION015/PI-015-051-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "015-051-035",
+            "015-051-030",
+            "015-051-031",
+            "015-051-033"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2a I",
+          "incidencia_uva": 410.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 172.883298956346,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 249.8,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "015-051-034"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.A.FERNÁNDEZ",
+    "barrio": "Recoleta",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1425",
+    "codigo_postal_argentino": "C1425DUR",
+    "comisaria": "53",
+    "comisaria_vecinal": "2A",
+    "comuna": "Comuna 2",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   I",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "15"
+  },
+  "debug": {
+    "address": "SANCHEZ DE BUSTAMANTE 2130",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.40638941436733,
+        -34.58765070065099
+      ],
+      "direccion": "",
+      "fondo": "29.37",
+      "frente": "8.65",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "051",
+      "parcela": "034",
+      "pdamatriz": "446124",
+      "pisos_bajo_rasante": "1",
+      "pisos_sobre_rasante": "10",
+      "propiedad_horizontal": "Si",
+      "seccion": "015",
+      "smp": "015-051-034",
+      "smp_anterior": "015-051-033",
+      "smp_siguiente": "015-051-035",
+      "srid": 4326,
+      "superficie_cubierta": "2353.00",
+      "superficie_total": "254.00",
+      "unidades_funcionales": "26",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2130,
+      "cod_calle": 20029
+    },
+    "usig_direccion_elegida": {
+      "altura": 2130,
+      "cod_calle": 20029,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.406255",
+        "y": "-34.587760"
+      },
+      "direccion": "SANCHEZ DE BUSTAMANTE 2130, CABA",
+      "nombre_calle": "SANCHEZ DE BUSTAMANTE",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2130,
+          "cod_calle": 20029,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.406255",
+            "y": "-34.587760"
+          },
+          "direccion": "SANCHEZ DE BUSTAMANTE 2130, CABA",
+          "nombre_calle": "SANCHEZ DE BUSTAMANTE",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2130,
+          "cod_calle": 237724,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3647067142857,
+            "y": -34.701641
+          },
+          "direccion": "Avenida Teodoro Sánchez de Bustamante 2130, Lanús",
+          "nombre_calle": "Avenida Teodoro Sánchez de Bustamante",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lanús Este",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2130,
+          "cod_calle": 17154,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4273463428571,
+            "y": -34.7666019857143
+          },
+          "direccion": "Sánchez de Bustamante 2130, Lomas de Zamora",
+          "nombre_calle": "Sánchez de Bustamante",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lomas de Zamora",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  105234.05597471277,
+                  104609.94201712942
+                ],
+                [
+                  105235.31297470862,
+                  104608.83101713203
+                ],
+                [
+                  105234.95197470886,
+                  104608.46501713296
+                ],
+                [
+                  105231.6009747159,
+                  104605.0640171454
+                ],
+                [
+                  105229.6329747205,
+                  104603.06701715206
+                ],
+                [
+                  105229.21397472067,
+                  104602.64201715367
+                ],
+                [
+                  105228.65797472277,
+                  104603.14701715263
+                ],
+                [
+                  105228.47397472395,
+                  104603.31401715262
+                ],
+                [
+                  105227.98697472496,
+                  104603.75601715158
+                ],
+                [
+                  105227.65397472652,
+                  104604.05801715114
+                ],
+                [
+                  105227.5239747271,
+                  104604.17601715066
+                ],
+                [
+                  105226.3769747312,
+                  104605.21701714885
+                ],
+                [
+                  105225.97197473234,
+                  104605.58501714788
+                ],
+                [
+                  105224.86197473592,
+                  104606.59301714628
+                ],
+                [
+                  105222.01197474616,
+                  104609.18001714055
+                ],
+                [
+                  105218.83997475701,
+                  104612.05901713544
+                ],
+                [
+                  105216.42697476572,
+                  104614.25001713075
+                ],
+                [
+                  105213.95497477427,
+                  104616.49401712633
+                ],
+                [
+                  105211.59197478261,
+                  104618.63701712224
+                ],
+                [
+                  105211.22097478365,
+                  104618.97301712175
+                ],
+                [
+                  105209.02897479146,
+                  104620.9620171178
+                ],
+                [
+                  105207.5489747962,
+                  104622.30401711448
+                ],
+                [
+                  105210.24897479085,
+                  104625.03401710521
+                ],
+                [
+                  105210.61597479065,
+                  104625.40401710404
+                ],
+                [
+                  105211.14497478875,
+                  104625.93901710224
+                ],
+                [
+                  105213.72197478398,
+                  104628.54501709269
+                ],
+                [
+                  105216.71697477344,
+                  104625.58301709843
+                ],
+                [
+                  105216.56697477339,
+                  104625.4000170998
+                ],
+                [
+                  105216.79197477318,
+                  104625.20101710019
+                ],
+                [
+                  105217.16697477187,
+                  104624.87001710053
+                ],
+                [
+                  105219.47697476343,
+                  104622.82801710424
+                ],
+                [
+                  105220.39597476002,
+                  104622.0150171057
+                ],
+                [
+                  105223.40397474993,
+                  104619.35701711109
+                ],
+                [
+                  105227.44997473598,
+                  104615.7810171186
+                ],
+                [
+                  105227.86197473409,
+                  104615.41701711933
+                ],
+                [
+                  105228.01197473398,
+                  104615.28401711918
+                ],
+                [
+                  105229.85097472728,
+                  104613.65801712222
+                ],
+                [
+                  105232.0119747201,
+                  104611.74901712593
+                ],
+                [
+                  105232.75997471718,
+                  104611.08801712783
+                ],
+                [
+                  105233.71497471395,
+                  104610.24301712881
+                ],
+                [
+                  105234.05597471277,
+                  104609.94201712942
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "015-051-034",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "SANCHEZ DE BUSTAMANTE 2130",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.40638941436733,
+      -34.58765070065099
+    ],
+    "direccion": "",
+    "fondo": "29.37",
+    "frente": "8.65",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "051",
+    "parcela": "034",
+    "pdamatriz": "446124",
+    "pisos_bajo_rasante": "1",
+    "pisos_sobre_rasante": "10",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "015",
+    "smp": "015-051-034",
+    "smp_anterior": "015-051-033",
+    "smp_siguiente": "015-051-035",
+    "srid": 4326,
+    "superficie_cubierta": "2353.00",
+    "superficie_total": "254.00",
+    "unidades_funcionales": "26",
+    "vuc": "0.00"
+  },
+  "smp": "015-051-034",
+  "_http_status": 200
+}

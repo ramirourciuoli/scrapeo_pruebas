@@ -1,0 +1,398 @@
+{
+  "area_m2": 163.2026605606079,
+  "centroide_lonlat": {
+    "lat": -34.626154,
+    "lon": -58.463979
+  },
+  "centroide_xy": {
+    "x": 99937.76394806347,
+    "y": 100345.57027374247
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 2.77,
+          "fot_perim_libre": 2.77,
+          "fot_semi_libre": 2.77
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/55/065-073-023_0000452655.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION065/065-073-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION065/PI-065-073-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "065-073-024",
+            "065-073-021a",
+            "065-073-020"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2a II",
+          "incidencia_uva": 60.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 1,
+        "subzona": "",
+        "sup_edificable_planta": 163.157250000181,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 163.2,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "065-073-023"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. T. ÁLVAREZ",
+    "barrio": "Flores",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1406",
+    "codigo_postal_argentino": "C1406AWD",
+    "comisaria": "50",
+    "comisaria_vecinal": "7C",
+    "comuna": "Comuna 7",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "65"
+  },
+  "debug": {
+    "address": "FRAY CAYETANO RODRIGUEZ 326",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.463978655341144,
+        -34.62615396617066
+      ],
+      "direccion": "",
+      "fondo": "13.74",
+      "frente": "11.72",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "073",
+      "parcela": "023",
+      "pdamatriz": "135331",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "0",
+      "propiedad_horizontal": "No",
+      "seccion": "065",
+      "smp": "065-073-023",
+      "smp_anterior": "065-073-021A",
+      "smp_siguiente": "065-073-024",
+      "srid": 4326,
+      "superficie_cubierta": "0.00",
+      "superficie_total": "161.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 326,
+      "cod_calle": 3107
+    },
+    "usig_direccion_elegida": {
+      "altura": 326,
+      "cod_calle": 3107,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.463878",
+        "y": "-34.626124"
+      },
+      "direccion": "FRAY CAYETANO RODRIGUEZ 326, CABA",
+      "nombre_calle": "FRAY CAYETANO RODRIGUEZ",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 326,
+          "cod_calle": 3107,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.463878",
+            "y": "-34.626124"
+          },
+          "direccion": "FRAY CAYETANO RODRIGUEZ 326, CABA",
+          "nombre_calle": "FRAY CAYETANO RODRIGUEZ",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 326,
+          "cod_calle": 14385,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5812504408163,
+            "y": -34.6462875244898
+          },
+          "direccion": "Fray Cayetano Rodríguez 326, La Matanza",
+          "nombre_calle": "Fray Cayetano Rodríguez",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ramos Mejía",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 326,
+          "cod_calle": 463443,
+          "cod_calle_cruce": null,
+          "cod_partido": "malvinas_argentinas",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7162089020408,
+            "y": -34.5189429673469
+          },
+          "direccion": "Fray Cayetano Rodríguez 326, Malvinas Argentinas",
+          "nombre_calle": "Fray Cayetano Rodríguez",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Los Polvorines",
+          "nombre_partido": "Malvinas Argentinas",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 326,
+          "cod_calle": 154485,
+          "cod_calle_cruce": null,
+          "cod_partido": "moreno",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.8290529040816,
+            "y": -34.6272655959184
+          },
+          "direccion": "Fray Cayetano Rodriguez 326, Moreno",
+          "nombre_calle": "Fray Cayetano Rodriguez",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "La Reja",
+          "nombre_partido": "Moreno",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 326,
+          "cod_calle": 14385,
+          "cod_calle_cruce": null,
+          "cod_partido": "moron",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5812504408163,
+            "y": -34.6462875244898
+          },
+          "direccion": "Fray Cayetano Rodríguez 326, Morón",
+          "nombre_calle": "Fray Cayetano Rodríguez",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Haedo",
+          "nombre_partido": "Morón",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 326,
+          "cod_calle": 45918,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_isidro",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.56496062,
+            "y": -34.5194395
+          },
+          "direccion": "Fray Cayetano Rodríguez 326, San Isidro",
+          "nombre_calle": "Fray Cayetano Rodríguez",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Boulogne Sur Mer",
+          "nombre_partido": "San Isidro",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99933.17998636304,
+                  100337.77203309973
+                ],
+                [
+                  99932.78498636506,
+                  100338.86703309647
+                ],
+                [
+                  99932.12398636737,
+                  100340.69503309348
+                ],
+                [
+                  99931.90698636873,
+                  100341.29603309132
+                ],
+                [
+                  99929.53898638015,
+                  100347.85403307338
+                ],
+                [
+                  99929.19898638221,
+                  100348.79503307148
+                ],
+                [
+                  99930.62298637835,
+                  100349.29003307031
+                ],
+                [
+                  99933.33798637288,
+                  100350.23403306646
+                ],
+                [
+                  99933.52698637184,
+                  100350.30003306537
+                ],
+                [
+                  99942.37398634902,
+                  100353.37503304888
+                ],
+                [
+                  99946.30298632932,
+                  100342.32003307756
+                ],
+                [
+                  99941.36498634244,
+                  100340.60903308488
+                ],
+                [
+                  99933.17998636304,
+                  100337.77203309973
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "065-073-023",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "FRAY CAYETANO RODRIGUEZ 326",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.463978655341144,
+      -34.62615396617066
+    ],
+    "direccion": "",
+    "fondo": "13.74",
+    "frente": "11.72",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "073",
+    "parcela": "023",
+    "pdamatriz": "135331",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "0",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "065",
+    "smp": "065-073-023",
+    "smp_anterior": "065-073-021A",
+    "smp_siguiente": "065-073-024",
+    "srid": 4326,
+    "superficie_cubierta": "0.00",
+    "superficie_total": "161.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "065-073-023",
+  "_http_status": 200
+}

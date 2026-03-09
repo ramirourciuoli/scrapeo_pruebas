@@ -1,0 +1,512 @@
+{
+  "area_m2": 379.4231643676758,
+  "centroide_lonlat": {
+    "lat": -34.630479,
+    "lon": -58.3734
+  },
+  "centroide_xy": {
+    "x": 108243.85890249368,
+    "y": 99862.06430117863
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/2/88/008-029-020_0000303288.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION008/008-029-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION008/PI-008-029-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": true,
+          "smp_linderas": [
+            "008-029-006",
+            "008-029-021",
+            "008-029-005",
+            "008-029-004",
+            "008-029-019"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 170.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 251.664001112089,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 379.4,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "008-029-020"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C. ARGERICH",
+    "barrio": "Barracas",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1143",
+    "codigo_postal_argentino": "C1143ACE",
+    "comisaria": "14",
+    "comisaria_vecinal": "4D",
+    "comuna": "Comuna 4",
+    "distrito_economico": "DISTRITO DE LAS ARTES",
+    "distrito_escolar": "Distrito Escolar   V",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "08"
+  },
+  "debug": {
+    "address": "USPALLATA 649",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.37340018429036,
+        -34.63047924369661
+      ],
+      "direccion": "",
+      "fondo": "44.34",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "029",
+      "parcela": "020",
+      "pdamatriz": "111140",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "2",
+      "propiedad_horizontal": "Si",
+      "seccion": "008",
+      "smp": "008-029-020",
+      "smp_anterior": "008-029-019",
+      "smp_siguiente": "008-029-021",
+      "srid": 4326,
+      "superficie_cubierta": "454.00",
+      "superficie_total": "384.00",
+      "unidades_funcionales": "4",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 649,
+      "cod_calle": 22018
+    },
+    "usig_direccion_elegida": {
+      "altura": 649,
+      "cod_calle": 22018,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.373194",
+        "y": "-34.630616"
+      },
+      "direccion": "USPALLATA 649, CABA",
+      "nombre_calle": "USPALLATA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 649,
+          "cod_calle": 22018,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.373194",
+            "y": "-34.630616"
+          },
+          "direccion": "USPALLATA 649, CABA",
+          "nombre_calle": "USPALLATA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 649,
+          "cod_calle": 118148,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3375601408163,
+            "y": -34.7962765704082
+          },
+          "direccion": "Uspallata 649, Almirante Brown",
+          "nombre_calle": "Uspallata",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Claypole",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 649,
+          "cod_calle": 47147,
+          "cod_calle_cruce": null,
+          "cod_partido": "hurlingham",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6184023316327,
+            "y": -34.5914559663265
+          },
+          "direccion": "Uspallata 649, Hurlingham",
+          "nombre_calle": "Uspallata",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Hurlingham",
+          "nombre_partido": "Hurlingham",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 649,
+          "cod_calle": 35795,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5254073816326,
+            "y": -34.6927704469388
+          },
+          "direccion": "Uspallata 649, La Matanza",
+          "nombre_calle": "Uspallata",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "La Tablada",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 649,
+          "cod_calle": 226576,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4510468142857,
+            "y": -34.7587940744898
+          },
+          "direccion": "Uspallata 649, Lomas de Zamora",
+          "nombre_calle": "Uspallata",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lomas de Zamora",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 649,
+          "cod_calle": 143167,
+          "cod_calle_cruce": null,
+          "cod_partido": "malvinas_argentinas",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.72118529,
+            "y": -34.495538078
+          },
+          "direccion": "Uspallata 649, Malvinas Argentinas",
+          "nombre_calle": "Uspallata",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Grand Bourg",
+          "nombre_partido": "Malvinas Argentinas",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  108231.46496273625,
+                  99866.19902817669
+                ],
+                [
+                  108229.08196274485,
+                  99868.03602817366
+                ],
+                [
+                  108227.76396274936,
+                  99869.05202817157
+                ],
+                [
+                  108226.62296275244,
+                  99869.93102816975
+                ],
+                [
+                  108223.6529627628,
+                  99872.22102816554
+                ],
+                [
+                  108226.25696275824,
+                  99875.52402815467
+                ],
+                [
+                  108227.63896275591,
+                  99877.2770281483
+                ],
+                [
+                  108228.92696275323,
+                  99878.91102814322
+                ],
+                [
+                  108231.78996274344,
+                  99876.71702814708
+                ],
+                [
+                  108231.90896274298,
+                  99876.62602814724
+                ],
+                [
+                  108232.273962742,
+                  99876.34702814766
+                ],
+                [
+                  108234.1469627353,
+                  99874.91102815059
+                ],
+                [
+                  108234.58196273436,
+                  99874.57802815054
+                ],
+                [
+                  108236.64696272687,
+                  99872.99602815395
+                ],
+                [
+                  108236.925962726,
+                  99872.78202815377
+                ],
+                [
+                  108238.15896272188,
+                  99871.83802815631
+                ],
+                [
+                  108239.87796271563,
+                  99870.521028158
+                ],
+                [
+                  108243.43496270363,
+                  99867.79602816325
+                ],
+                [
+                  108245.60896269683,
+                  99866.13002816614
+                ],
+                [
+                  108248.19796268779,
+                  99864.14702816971
+                ],
+                [
+                  108248.88396268521,
+                  99863.62102817104
+                ],
+                [
+                  108249.4719626837,
+                  99863.1700281715
+                ],
+                [
+                  108250.93896267892,
+                  99862.0470281739
+                ],
+                [
+                  108259.61996264943,
+                  99855.39602818553
+                ],
+                [
+                  108262.88296263866,
+                  99852.89602819
+                ],
+                [
+                  108264.02596263404,
+                  99852.02002819147
+                ],
+                [
+                  108263.27996263606,
+                  99851.07902819506
+                ],
+                [
+                  108259.69496264277,
+                  99846.55702821058
+                ],
+                [
+                  108258.65296264432,
+                  99845.24202821459
+                ],
+                [
+                  108257.65796264756,
+                  99846.00902821322
+                ],
+                [
+                  108255.35296265568,
+                  99847.78502821052
+                ],
+                [
+                  108254.34996265857,
+                  99848.5590282093
+                ],
+                [
+                  108254.1649626596,
+                  99848.70102820903
+                ],
+                [
+                  108253.49896266166,
+                  99849.2150282076
+                ],
+                [
+                  108245.80896268823,
+                  99855.14202819689
+                ],
+                [
+                  108244.27596269263,
+                  99856.32402819474
+                ],
+                [
+                  108243.5149626953,
+                  99856.91102819392
+                ],
+                [
+                  108243.10796269697,
+                  99857.22402819345
+                ],
+                [
+                  108240.97296270446,
+                  99858.8700281902
+                ],
+                [
+                  108234.38096272657,
+                  99863.95102818115
+                ],
+                [
+                  108231.46496273625,
+                  99866.19902817669
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "008-029-020",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "USPALLATA 649",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.37340018429036,
+      -34.63047924369661
+    ],
+    "direccion": "",
+    "fondo": "44.34",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "029",
+    "parcela": "020",
+    "pdamatriz": "111140",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "2",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "008",
+    "smp": "008-029-020",
+    "smp_anterior": "008-029-019",
+    "smp_siguiente": "008-029-021",
+    "srid": 4326,
+    "superficie_cubierta": "454.00",
+    "superficie_total": "384.00",
+    "unidades_funcionales": "4",
+    "vuc": "0.00"
+  },
+  "smp": "008-029-020",
+  "_http_status": 200
+}

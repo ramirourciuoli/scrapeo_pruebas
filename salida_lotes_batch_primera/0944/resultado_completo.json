@@ -1,0 +1,366 @@
+{
+  "area_m2": 233.67349815368652,
+  "centroide_lonlat": {
+    "lat": -34.643904,
+    "lon": -58.498776
+  },
+  "centroide_xy": {
+    "x": 96747.38018861646,
+    "y": 98375.91984495598
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/3/89/060-091-023_0000014389.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION060/060-091-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION060/PI-060-091-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "060-091-029",
+            "060-091-022",
+            "060-091-028",
+            "060-091-024"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 70.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 233.751949999883,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 233.7,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "060-091-023"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Villa Luro",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1440",
+    "codigo_postal_argentino": "C1440CLB",
+    "comisaria": "54",
+    "comisaria_vecinal": "10C",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "60"
+  },
+  "debug": {
+    "address": "AV. EMILIO CASTRO 5227",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.49877574534211,
+        -34.643903573053315
+      ],
+      "direccion": "",
+      "fondo": "27.37",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "091",
+      "parcela": "023",
+      "pdamatriz": "9205",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "060",
+      "smp": "060-091-023",
+      "smp_anterior": "060-091-022",
+      "smp_siguiente": "060-091-024",
+      "srid": 4326,
+      "superficie_cubierta": "129.00",
+      "superficie_total": "237.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 5227,
+      "cod_calle": 3097
+    },
+    "usig_direccion_elegida": {
+      "altura": 5227,
+      "cod_calle": 3097,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.498673",
+        "y": "-34.644055"
+      },
+      "direccion": "CASTRO, EMILIO AV. 5227, CABA",
+      "nombre_calle": "CASTRO, EMILIO AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 5227,
+          "cod_calle": 3097,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.498673",
+            "y": "-34.644055"
+          },
+          "direccion": "CASTRO, EMILIO AV. 5227, CABA",
+          "nombre_calle": "CASTRO, EMILIO AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96758.36299378231,
+                  98366.47404101875
+                ],
+                [
+                  96755.94999378832,
+                  98365.09604102393
+                ],
+                [
+                  96750.84199380044,
+                  98362.18004103572
+                ],
+                [
+                  96747.33399381413,
+                  98367.82304102276
+                ],
+                [
+                  96744.47299382604,
+                  98372.42404101178
+                ],
+                [
+                  96742.06799383546,
+                  98376.29304100267
+                ],
+                [
+                  96740.09699384347,
+                  98379.46304099608
+                ],
+                [
+                  96739.4279938464,
+                  98380.53904099303
+                ],
+                [
+                  96737.54999385345,
+                  98383.5600409857
+                ],
+                [
+                  96736.96699385616,
+                  98384.49804098354
+                ],
+                [
+                  96739.68299385064,
+                  98387.26604097395
+                ],
+                [
+                  96741.48899384683,
+                  98389.10704096741
+                ],
+                [
+                  96742.9899938439,
+                  98390.63704096229
+                ],
+                [
+                  96744.91199383557,
+                  98387.61604096959
+                ],
+                [
+                  96745.93299383216,
+                  98386.01104097281
+                ],
+                [
+                  96746.50999382942,
+                  98385.10404097533
+                ],
+                [
+                  96747.69699382463,
+                  98383.23904097945
+                ],
+                [
+                  96749.194003096,
+                  98380.88601364117
+                ],
+                [
+                  96749.88337954105,
+                  98379.80227469417
+                ],
+                [
+                  96750.63202640117,
+                  98378.62535928661
+                ],
+                [
+                  96751.48398111422,
+                  98377.2860380635
+                ],
+                [
+                  96752.29899380621,
+                  98376.00504099607
+                ],
+                [
+                  96753.38699380234,
+                  98374.29504100009
+                ],
+                [
+                  96754.6209937976,
+                  98372.35604100436
+                ],
+                [
+                  96757.71599378498,
+                  98367.49104101639
+                ],
+                [
+                  96758.36299378231,
+                  98366.47404101875
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "060-091-023",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AV. EMILIO CASTRO 5227",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.49877574534211,
+      -34.643903573053315
+    ],
+    "direccion": "",
+    "fondo": "27.37",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "091",
+    "parcela": "023",
+    "pdamatriz": "9205",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "060",
+    "smp": "060-091-023",
+    "smp_anterior": "060-091-022",
+    "smp_siguiente": "060-091-024",
+    "srid": 4326,
+    "superficie_cubierta": "129.00",
+    "superficie_total": "237.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "060-091-023",
+  "_http_status": 200
+}

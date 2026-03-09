@@ -1,0 +1,430 @@
+{
+  "area_m2": 229.35532188415527,
+  "centroide_lonlat": {
+    "lat": -34.633042,
+    "lon": -58.398175
+  },
+  "centroide_xy": {
+    "x": 105971.81680690337,
+    "y": 99579.48840321934
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/2/93/024-077-023_0000314293.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION024/024-077-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION024/PI-024-077-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "024-077-027",
+            "024-077-022",
+            "024-077-025",
+            "024-077-026",
+            "024-077-024a"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 90.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 229.362899999896,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 229.4,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "024-077-023"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.M. PENNA",
+    "barrio": "Parque Patricios",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1247",
+    "codigo_postal_argentino": "C1247AAP",
+    "comisaria": "28",
+    "comisaria_vecinal": "4A",
+    "comuna": "Comuna 4",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "24"
+  },
+  "debug": {
+    "address": "ALBERTI 1980",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.39817495117686,
+        -34.63304218341276
+      ],
+      "direccion": "",
+      "fondo": "26.56",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "077",
+      "parcela": "023",
+      "pdamatriz": "100401",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "024",
+      "smp": "024-077-023",
+      "smp_anterior": "024-077-022",
+      "smp_siguiente": "024-077-024A",
+      "srid": 4326,
+      "superficie_cubierta": "207.00",
+      "superficie_total": "230.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1980,
+      "cod_calle": 1034
+    },
+    "usig_direccion_elegida": {
+      "altura": 1980,
+      "cod_calle": 1034,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.398355",
+        "y": "-34.633089"
+      },
+      "direccion": "ALBERTI 1980, CABA",
+      "nombre_calle": "ALBERTI",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1980,
+          "cod_calle": 1034,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.398355",
+            "y": "-34.633089"
+          },
+          "direccion": "ALBERTI 1980, CABA",
+          "nombre_calle": "ALBERTI",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1980,
+          "cod_calle": 299305,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3941310918367,
+            "y": -34.817546477551
+          },
+          "direccion": "Alberti 1980, Almirante Brown",
+          "nombre_calle": "Alberti",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Burzaco",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1980,
+          "cod_calle": 7720,
+          "cod_calle_cruce": null,
+          "cod_partido": "ituzaingo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6806009656313,
+            "y": -34.6574426711423
+          },
+          "direccion": "Alberti 1980, Ituzaingó",
+          "nombre_calle": "Alberti",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ituzaingó",
+          "nombre_partido": "Ituzaingó",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1980,
+          "cod_calle": 36398,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5369124836735,
+            "y": -34.6902674020408
+          },
+          "direccion": "Alberti 1980, La Matanza",
+          "nombre_calle": "Alberti",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "La Tablada",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  105960.31996888397,
+                  99571.44103071245
+                ],
+                [
+                  105957.74396889696,
+                  99579.56203069189
+                ],
+                [
+                  105960.29596889057,
+                  99580.36403068784
+                ],
+                [
+                  105961.72796888692,
+                  99580.81503068586
+                ],
+                [
+                  105962.57696888418,
+                  99581.08203068445
+                ],
+                [
+                  105967.46596887207,
+                  99582.61903067605
+                ],
+                [
+                  105968.41996886952,
+                  99582.9190306743
+                ],
+                [
+                  105969.19196886742,
+                  99583.1620306728
+                ],
+                [
+                  105973.75996885565,
+                  99584.59803066595
+                ],
+                [
+                  105974.43796885424,
+                  99584.8110306644
+                ],
+                [
+                  105976.72696884823,
+                  99585.53103066134
+                ],
+                [
+                  105978.29296884386,
+                  99586.02403065856
+                ],
+                [
+                  105979.11096884172,
+                  99586.28103065747
+                ],
+                [
+                  105983.2429688313,
+                  99587.58003065037
+                ],
+                [
+                  105984.25996882602,
+                  99584.33603065874
+                ],
+                [
+                  105985.82996881816,
+                  99579.32603067186
+                ],
+                [
+                  105981.64796882888,
+                  99578.03303067808
+                ],
+                [
+                  105977.48796883941,
+                  99576.74703068545
+                ],
+                [
+                  105976.40696884197,
+                  99576.41303068647
+                ],
+                [
+                  105975.92696884368,
+                  99576.26403068798
+                ],
+                [
+                  105974.01496884812,
+                  99575.67403069028
+                ],
+                [
+                  105970.44696885732,
+                  99574.57103069685
+                ],
+                [
+                  105969.98696885852,
+                  99574.42903069669
+                ],
+                [
+                  105969.20496886088,
+                  99574.18703069835
+                ],
+                [
+                  105968.38396886253,
+                  99573.9330306999
+                ],
+                [
+                  105965.122968871,
+                  99572.92503070479
+                ],
+                [
+                  105964.8019688723,
+                  99572.82603070591
+                ],
+                [
+                  105964.39096887303,
+                  99572.6990307062
+                ],
+                [
+                  105960.31996888397,
+                  99571.44103071245
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "024-077-023",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ALBERTI 1980",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.39817495117686,
+      -34.63304218341276
+    ],
+    "direccion": "",
+    "fondo": "26.56",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "077",
+    "parcela": "023",
+    "pdamatriz": "100401",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "024",
+    "smp": "024-077-023",
+    "smp_anterior": "024-077-022",
+    "smp_siguiente": "024-077-024A",
+    "srid": 4326,
+    "superficie_cubierta": "207.00",
+    "superficie_total": "230.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "024-077-023",
+  "_http_status": 200
+}

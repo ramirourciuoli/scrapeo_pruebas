@@ -1,0 +1,316 @@
+{
+  "area_m2": 126.65563488006592,
+  "centroide_lonlat": {
+    "lat": -34.596738,
+    "lon": -58.453572
+  },
+  "centroide_xy": {
+    "x": 100892.40739080701,
+    "y": 103608.84991714245
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 2.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/2/95/047-084A-011a_0000127295.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION047/047-084A-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION047/PI-047-084A-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "047-084A-011b",
+            "047-084A-010a"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "E2",
+          "incidencia_uva": 140.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0.0,
+          "plusvalia_sl": 0.0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 126.7,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "047-084A-011A"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Villa Crespo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1414",
+    "codigo_postal_argentino": "C1414ACC",
+    "comisaria": "29",
+    "comisaria_vecinal": "15B",
+    "comuna": "Comuna 15",
+    "distrito_economico": "DISTRITO AUDIOVISUAL",
+    "distrito_escolar": "Distrito Escolar   XIV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "47"
+  },
+  "debug": {
+    "address": "HUAURA 1489",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.45357217362843,
+        -34.59673769650547
+      ],
+      "direccion": "",
+      "fondo": "11.60",
+      "frente": "10.60",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "084A",
+      "parcela": "011A",
+      "pdamatriz": "296319",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "047",
+      "smp": "047-084A-011A",
+      "smp_anterior": "047-084A-010A",
+      "smp_siguiente": "047-084A-011B",
+      "srid": 4326,
+      "superficie_cubierta": "262.00",
+      "superficie_total": "123.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1489,
+      "cod_calle": 8024
+    },
+    "usig_direccion_elegida": {
+      "altura": 1489,
+      "cod_calle": 8024,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.453660",
+        "y": "-34.596787"
+      },
+      "direccion": "HUAURA 1489, CABA",
+      "nombre_calle": "HUAURA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1489,
+          "cod_calle": 8024,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.453660",
+            "y": "-34.596787"
+          },
+          "direccion": "HUAURA 1489, CABA",
+          "nombre_calle": "HUAURA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  100891.38998614429,
+                  103617.78302317957
+                ],
+                [
+                  100894.58898613184,
+                  103613.41102319126
+                ],
+                [
+                  100894.88698613096,
+                  103613.00302319249
+                ],
+                [
+                  100899.65698611207,
+                  103606.48402320701
+                ],
+                [
+                  100900.0439861108,
+                  103605.95502320668
+                ],
+                [
+                  100896.05698611993,
+                  103603.1090232202
+                ],
+                [
+                  100892.37098612892,
+                  103600.47902322913
+                ],
+                [
+                  100889.35098613979,
+                  103604.58802321923
+                ],
+                [
+                  100889.00798614157,
+                  103605.05602321652
+                ],
+                [
+                  100887.82398614561,
+                  103606.66702321588
+                ],
+                [
+                  100886.57998615062,
+                  103608.36002321201
+                ],
+                [
+                  100887.21998615333,
+                  103614.33002319359
+                ],
+                [
+                  100889.56098614786,
+                  103616.26802318747
+                ],
+                [
+                  100891.38998614429,
+                  103617.78302317957
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "047-084A-011A",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "HUAURA 1489",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.45357217362843,
+      -34.59673769650547
+    ],
+    "direccion": "",
+    "fondo": "11.60",
+    "frente": "10.60",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "084A",
+    "parcela": "011A",
+    "pdamatriz": "296319",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "047",
+    "smp": "047-084A-011A",
+    "smp_anterior": "047-084A-010A",
+    "smp_siguiente": "047-084A-011B",
+    "srid": 4326,
+    "superficie_cubierta": "262.00",
+    "superficie_total": "123.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "047-084A-011A",
+  "_http_status": 200
+}

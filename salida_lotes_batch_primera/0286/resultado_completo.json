@@ -1,0 +1,586 @@
+{
+  "area_m2": 256.1275329589844,
+  "centroide_lonlat": {
+    "lat": -34.601967,
+    "lon": -58.42678
+  },
+  "centroide_xy": {
+    "x": 103350.0182145196,
+    "y": 103028.13890576019
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "PEV",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 2.74,
+          "fot_perim_libre": 2.74,
+          "fot_semi_libre": 2.74
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/1/45/017-048-007_0000159145.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION017/017-048-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION017/PI-017-048-V3.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "017-048-006",
+            "017-048-014a",
+            "017-048-008"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2a II",
+          "incidencia_uva": 180.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 256.105150000001,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 256.1,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "017-048-007"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Almagro",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1183",
+    "codigo_postal_argentino": "C1183AEO",
+    "comisaria": "11",
+    "comisaria_vecinal": "5A",
+    "comuna": "Comuna 5",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   II",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "17"
+  },
+  "debug": {
+    "address": "PRINGLES 853",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.42678032267172,
+        -34.60196728216731
+      ],
+      "direccion": "",
+      "fondo": "29.33",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "048",
+      "parcela": "007",
+      "pdamatriz": "172308",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "10",
+      "propiedad_horizontal": "Si",
+      "seccion": "017",
+      "smp": "017-048-007",
+      "smp_anterior": "017-048-006",
+      "smp_siguiente": "017-048-008",
+      "srid": 4326,
+      "superficie_cubierta": "2063.00",
+      "superficie_total": "254.00",
+      "unidades_funcionales": "37",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 853,
+      "cod_calle": 17123
+    },
+    "usig_direccion_elegida": {
+      "altura": 853,
+      "cod_calle": 17123,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.426974",
+        "y": "-34.601949"
+      },
+      "direccion": "PRINGLES 853, CABA",
+      "nombre_calle": "PRINGLES",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 853,
+          "cod_calle": 17123,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.426974",
+            "y": "-34.601949"
+          },
+          "direccion": "PRINGLES 853, CABA",
+          "nombre_calle": "PRINGLES",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 853,
+          "cod_calle": 125683,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3718370081633,
+            "y": -34.8694370285714
+          },
+          "direccion": "Pringles 853, Almirante Brown",
+          "nombre_calle": "Pringles",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Longchamps",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 853,
+          "cod_calle": 6964,
+          "cod_calle_cruce": null,
+          "cod_partido": "ituzaingo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6889653166667,
+            "y": -34.6314688208333
+          },
+          "direccion": "Coronel Pringles 853, Ituzaingó",
+          "nombre_calle": "Coronel Pringles",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ituzaingó",
+          "nombre_partido": "Ituzaingó",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 853,
+          "cod_calle": 14976,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5636801530612,
+            "y": -34.6494007367347
+          },
+          "direccion": "Coronel Pringles 853, La Matanza",
+          "nombre_calle": "Coronel Pringles",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ramos Mejía",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 853,
+          "cod_calle": 33814,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3863787306122,
+            "y": -34.7000492918367
+          },
+          "direccion": "Coronel Pringles 853, Lanús",
+          "nombre_calle": "Coronel Pringles",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lanús Este",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 853,
+          "cod_calle": 18689,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4100327039023,
+            "y": -34.7752423763234
+          },
+          "direccion": "Coronel Pringles 853, Lomas de Zamora",
+          "nombre_calle": "Coronel Pringles",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Temperley",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 853,
+          "cod_calle": 164113,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7366474378788,
+            "y": -34.6708090590909
+          },
+          "direccion": "Pringles 853, Merlo",
+          "nombre_calle": "Pringles",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Merlo",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 853,
+          "cod_calle": 49765,
+          "cod_calle_cruce": null,
+          "cod_partido": "quilmes",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.2487895541667,
+            "y": -34.7231071541667
+          },
+          "direccion": "Pringles 853, Quilmes",
+          "nombre_calle": "Pringles",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Quilmes",
+          "nombre_partido": "Quilmes",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 853,
+          "cod_calle": 58525,
+          "cod_calle_cruce": null,
+          "cod_partido": "quilmes",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.292187528,
+            "y": -34.705739706
+          },
+          "direccion": "Coronel Pringles 853, Quilmes",
+          "nombre_calle": "Coronel Pringles",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Bernal",
+          "nombre_partido": "Quilmes",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 853,
+          "cod_calle": 13253,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_isidro",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5224313846939,
+            "y": -34.4891844989796
+          },
+          "direccion": "Pringles 853, San Isidro",
+          "nombre_calle": "Pringles",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Martínez",
+          "nombre_partido": "San Isidro",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  103365.4459787647,
+                  103030.41202296529
+                ],
+                [
+                  103364.473978761,
+                  103021.96802299048
+                ],
+                [
+                  103364.11597876204,
+                  103022.01502298994
+                ],
+                [
+                  103360.66197877124,
+                  103022.46502299147
+                ],
+                [
+                  103359.48397877527,
+                  103022.61902299203
+                ],
+                [
+                  103357.31497878183,
+                  103022.9020229927
+                ],
+                [
+                  103355.05997878755,
+                  103023.19602299426
+                ],
+                [
+                  103354.25997879004,
+                  103023.3000229939
+                ],
+                [
+                  103353.91297879099,
+                  103023.34602299411
+                ],
+                [
+                  103353.33797879342,
+                  103023.42102299453
+                ],
+                [
+                  103350.14097880205,
+                  103023.83802299615
+                ],
+                [
+                  103349.25297880438,
+                  103023.95402299592
+                ],
+                [
+                  103347.88197880899,
+                  103024.13202299672
+                ],
+                [
+                  103345.78197881451,
+                  103024.40602299775
+                ],
+                [
+                  103344.4929788184,
+                  103024.57502299806
+                ],
+                [
+                  103343.50097882164,
+                  103024.70402299814
+                ],
+                [
+                  103341.21197882842,
+                  103025.00302299872
+                ],
+                [
+                  103340.66797882931,
+                  103025.07402299938
+                ],
+                [
+                  103340.03197883122,
+                  103025.15702299925
+                ],
+                [
+                  103339.13907795525,
+                  103025.27309428898
+                ],
+                [
+                  103336.832071126,
+                  103025.57411968053
+                ],
+                [
+                  103336.48508626372,
+                  103025.6191025908
+                ],
+                [
+                  103335.4711092159,
+                  103025.75209819668
+                ],
+                [
+                  103334.5781038474,
+                  103025.86812602903
+                ],
+                [
+                  103334.6369788477,
+                  103026.36402300035
+                ],
+                [
+                  103334.82397884833,
+                  103027.95302299541
+                ],
+                [
+                  103334.95297884848,
+                  103029.04602299255
+                ],
+                [
+                  103335.57497885115,
+                  103034.30902297763
+                ],
+                [
+                  103337.50797884574,
+                  103034.05702297654
+                ],
+                [
+                  103341.01197883527,
+                  103033.6000229748
+                ],
+                [
+                  103342.05097883217,
+                  103033.46402297448
+                ],
+                [
+                  103346.41897881925,
+                  103032.89402297343
+                ],
+                [
+                  103347.21197881748,
+                  103032.79102297299
+                ],
+                [
+                  103349.03897881172,
+                  103032.55202297223
+                ],
+                [
+                  103350.33997880791,
+                  103032.38302297195
+                ],
+                [
+                  103351.33297880486,
+                  103032.25302297075
+                ],
+                [
+                  103351.65197880408,
+                  103032.21202297136
+                ],
+                [
+                  103352.12697880322,
+                  103032.15002297124
+                ],
+                [
+                  103354.86697879457,
+                  103031.79202297018
+                ],
+                [
+                  103360.44697877846,
+                  103031.06402296791
+                ],
+                [
+                  103362.39797877314,
+                  103030.8100229665
+                ],
+                [
+                  103362.96097877159,
+                  103030.73602296627
+                ],
+                [
+                  103365.4459787647,
+                  103030.41202296529
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "017-048-007",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "PRINGLES 853",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.42678032267172,
+      -34.60196728216731
+    ],
+    "direccion": "",
+    "fondo": "29.33",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "048",
+    "parcela": "007",
+    "pdamatriz": "172308",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "10",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "017",
+    "smp": "017-048-007",
+    "smp_anterior": "017-048-006",
+    "smp_siguiente": "017-048-008",
+    "srid": 4326,
+    "superficie_cubierta": "2063.00",
+    "superficie_total": "254.00",
+    "unidades_funcionales": "37",
+    "vuc": "0.00"
+  },
+  "smp": "017-048-007",
+  "_http_status": 200
+}

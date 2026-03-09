@@ -1,0 +1,382 @@
+{
+  "area_m2": 240.91333961486816,
+  "centroide_lonlat": {
+    "lat": -34.543867,
+    "lon": -58.46552
+  },
+  "centroide_xy": {
+    "x": 99796.24310296442,
+    "y": 109474.07245228032
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/8/20/029-056-002_0000221820.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION029/029-056-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION029/PI-029-056-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "029-056-001b",
+            "029-056-003",
+            "029-056-021a"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 420.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 240.896999999938,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 240.9,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "029-056-002"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Nuñez",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1429",
+    "codigo_postal_argentino": "C1429DAB",
+    "comisaria": "35",
+    "comisaria_vecinal": "13B",
+    "comuna": "Comuna 13",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   X",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "29"
+  },
+  "debug": {
+    "address": "VILELA 1930",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.46551967508277,
+        -34.54386737023831
+      ],
+      "direccion": "",
+      "fondo": "33.10",
+      "frente": "7.10",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "056",
+      "parcela": "002",
+      "pdamatriz": "339642",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "029",
+      "smp": "029-056-002",
+      "smp_anterior": "029-056-001B",
+      "smp_siguiente": "029-056-003",
+      "srid": 4326,
+      "superficie_cubierta": "181.00",
+      "superficie_total": "235.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1930,
+      "cod_calle": 23062
+    },
+    "usig_direccion_elegida": {
+      "altura": 1930,
+      "cod_calle": 23062,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.465637",
+        "y": "-34.543708"
+      },
+      "direccion": "VILELA 1930, CABA",
+      "nombre_calle": "VILELA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1930,
+          "cod_calle": 23062,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.465637",
+            "y": "-34.543708"
+          },
+          "direccion": "VILELA 1930, CABA",
+          "nombre_calle": "VILELA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1930,
+          "cod_calle": 162795,
+          "cod_calle_cruce": null,
+          "cod_partido": "ituzaingo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6824097784569,
+            "y": -34.6544958310621
+          },
+          "direccion": "José María Vilela 1930, Ituzaingó",
+          "nombre_calle": "José María Vilela",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ituzaingó",
+          "nombre_partido": "Ituzaingó",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99784.47299366632,
+                  109486.38600755617
+                ],
+                [
+                  99784.66199366518,
+                  109486.50100755593
+                ],
+                [
+                  99790.24899365238,
+                  109489.9030075419
+                ],
+                [
+                  99790.63299365202,
+                  109490.13700754111
+                ],
+                [
+                  99796.13699362957,
+                  109481.17700756213
+                ],
+                [
+                  99796.6309936275,
+                  109480.37200756429
+                ],
+                [
+                  99799.23399361715,
+                  109476.13400757342
+                ],
+                [
+                  99800.25599361291,
+                  109474.47000757745
+                ],
+                [
+                  99802.7869936022,
+                  109470.35000758697
+                ],
+                [
+                  99804.384993596,
+                  109467.74800759312
+                ],
+                [
+                  99805.64099359099,
+                  109465.70300759797
+                ],
+                [
+                  99805.84499359007,
+                  109465.37000759915
+                ],
+                [
+                  99808.00899358123,
+                  109461.84800760754
+                ],
+                [
+                  99801.79499359605,
+                  109458.0280076226
+                ],
+                [
+                  99799.64399360519,
+                  109461.54900761408
+                ],
+                [
+                  99796.3499936178,
+                  109466.94200760161
+                ],
+                [
+                  99794.33799362673,
+                  109470.2360075936
+                ],
+                [
+                  99793.03999363151,
+                  109472.36000758939
+                ],
+                [
+                  99791.7019936365,
+                  109474.55100758394
+                ],
+                [
+                  99790.46699364207,
+                  109476.57300757905
+                ],
+                [
+                  99789.96499364378,
+                  109477.39600757696
+                ],
+                [
+                  99788.96699364814,
+                  109479.02900757355
+                ],
+                [
+                  99788.47199365002,
+                  109479.84000757139
+                ],
+                [
+                  99787.78999365271,
+                  109480.95600756916
+                ],
+                [
+                  99786.67999365687,
+                  109482.77300756468
+                ],
+                [
+                  99784.47299366632,
+                  109486.38600755617
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "029-056-002",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "VILELA 1930",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.46551967508277,
+      -34.54386737023831
+    ],
+    "direccion": "",
+    "fondo": "33.10",
+    "frente": "7.10",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "056",
+    "parcela": "002",
+    "pdamatriz": "339642",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "029",
+    "smp": "029-056-002",
+    "smp_anterior": "029-056-001B",
+    "smp_siguiente": "029-056-003",
+    "srid": 4326,
+    "superficie_cubierta": "181.00",
+    "superficie_total": "235.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "029-056-002",
+  "_http_status": 200
+}

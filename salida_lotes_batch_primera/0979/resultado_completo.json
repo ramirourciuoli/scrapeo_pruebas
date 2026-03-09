@@ -1,0 +1,355 @@
+{
+  "area_m2": 331.19575023651123,
+  "centroide_lonlat": {
+    "lat": -34.591715,
+    "lon": -58.505874
+  },
+  "centroide_xy": {
+    "x": 96094.15837083916,
+    "y": 104165.24160941129
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.0,
+          "fot_perim_libre": 3.0,
+          "fot_semi_libre": 3.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/71/083-221-039_0000357671.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION083/083-221-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION083/PI-083-221-V3.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "083-221-034",
+            "083-221-038",
+            "083-221-035",
+            "083-221-033",
+            "083-221-040"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "E3",
+          "incidencia_uva": 220.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 218.419695528203,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 331.2,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "083-221-039"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. A. ZUBIZARRETA",
+    "barrio": "Villa Devoto",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1419",
+    "codigo_postal_argentino": "C1419AHJ",
+    "comisaria": "47",
+    "comisaria_vecinal": "12B",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "83"
+  },
+  "debug": {
+    "address": "CAMPANA 4430",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.50587366566311,
+        -34.59171521406492
+      ],
+      "direccion": "",
+      "fondo": "37.65",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "221",
+      "parcela": "039",
+      "pdamatriz": "299252",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "3",
+      "propiedad_horizontal": "Si",
+      "seccion": "083",
+      "smp": "083-221-039",
+      "smp_anterior": "083-221-038",
+      "smp_siguiente": "083-221-040",
+      "srid": 4326,
+      "superficie_cubierta": "589.00",
+      "superficie_total": "326.00",
+      "unidades_funcionales": "6",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4430,
+      "cod_calle": 3039
+    },
+    "usig_direccion_elegida": {
+      "altura": 4430,
+      "cod_calle": 3039,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.505667",
+        "y": "-34.591587"
+      },
+      "direccion": "CAMPANA 4430, CABA",
+      "nombre_calle": "CAMPANA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4430,
+          "cod_calle": 3039,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.505667",
+            "y": "-34.591587"
+          },
+          "direccion": "CAMPANA 4430, CABA",
+          "nombre_calle": "CAMPANA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96107.52199997575,
+                  104169.88602523322
+                ],
+                [
+                  96103.76499998392,
+                  104167.03302524393
+                ],
+                [
+                  96101.37399998943,
+                  104165.21902525058
+                ],
+                [
+                  96100.66399999105,
+                  104164.68002525275
+                ],
+                [
+                  96099.78099999357,
+                  104164.01002525541
+                ],
+                [
+                  96095.63100000247,
+                  104160.8600252679
+                ],
+                [
+                  96093.3620000072,
+                  104159.13802527435
+                ],
+                [
+                  96088.64300001817,
+                  104155.5580252879
+                ],
+                [
+                  96086.14300002379,
+                  104153.66102529524
+                ],
+                [
+                  96081.76100003335,
+                  104150.33602530762
+                ],
+                [
+                  96076.49000005373,
+                  104157.44502529188
+                ],
+                [
+                  96087.24707034192,
+                  104165.52913903029
+                ],
+                [
+                  96092.06109621006,
+                  104169.14614341105
+                ],
+                [
+                  96093.5250854646,
+                  104170.24611899283
+                ],
+                [
+                  96096.90911866014,
+                  104172.7891487683
+                ],
+                [
+                  96103.69610594964,
+                  104177.89010089732
+                ],
+                [
+                  96106.69409178279,
+                  104180.14315264655
+                ],
+                [
+                  96108.58199997913,
+                  104177.62102521106
+                ],
+                [
+                  96109.48099997494,
+                  104176.42102521358
+                ],
+                [
+                  96111.89099996597,
+                  104173.20102522106
+                ],
+                [
+                  96110.21599996986,
+                  104171.93002522524
+                ],
+                [
+                  96107.87099997536,
+                  104170.1510252319
+                ],
+                [
+                  96107.52199997575,
+                  104169.88602523322
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "083-221-039",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CAMPANA 4430",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.50587366566311,
+      -34.59171521406492
+    ],
+    "direccion": "",
+    "fondo": "37.65",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "221",
+    "parcela": "039",
+    "pdamatriz": "299252",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "3",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "083",
+    "smp": "083-221-039",
+    "smp_anterior": "083-221-038",
+    "smp_siguiente": "083-221-040",
+    "srid": 4326,
+    "superficie_cubierta": "589.00",
+    "superficie_total": "326.00",
+    "unidades_funcionales": "6",
+    "vuc": "0.00"
+  },
+  "smp": "083-221-039",
+  "_http_status": 200
+}

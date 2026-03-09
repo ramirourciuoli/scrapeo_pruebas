@@ -1,0 +1,313 @@
+{
+  "area_m2": 101.60265731811523,
+  "centroide_lonlat": {
+    "lat": -34.581252,
+    "lon": -58.484659
+  },
+  "centroide_xy": {
+    "x": 98040.25183333148,
+    "y": 105326.54834826489
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/fp/SECCION051/FP-051-032-011-VD.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION051/051-032-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION051/PI-051-032-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "051-032-010",
+            "051-032-009",
+            "051-032-012"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 420.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 101.615649999994,
+        "sup_max_edificable": 102.4,
+        "superficie_parcela": 101.6,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "051-032-011"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. E. TORNÚ",
+    "barrio": "Villa Urquiza",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1431",
+    "codigo_postal_argentino": "C1431DVI",
+    "comisaria": "39",
+    "comisaria_vecinal": "12C",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "51"
+  },
+  "debug": {
+    "address": "ANDONAEGUI 1891",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.48465857690992,
+        -34.58125247105737
+      ],
+      "direccion": "",
+      "fondo": "12.12",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "032",
+      "parcela": "011",
+      "pdamatriz": "350184",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "051",
+      "smp": "051-032-011",
+      "smp_anterior": "051-032-010",
+      "smp_siguiente": "051-032-012",
+      "srid": 4326,
+      "superficie_cubierta": "116.00",
+      "superficie_total": "105.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1891,
+      "cod_calle": 1082
+    },
+    "usig_direccion_elegida": {
+      "altura": 1891,
+      "cod_calle": 1082,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.484753",
+        "y": "-34.581308"
+      },
+      "direccion": "ANDONAEGUI 1891, CABA",
+      "nombre_calle": "ANDONAEGUI",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1891,
+          "cod_calle": 1082,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.484753",
+            "y": "-34.581308"
+          },
+          "direccion": "ANDONAEGUI 1891, CABA",
+          "nombre_calle": "ANDONAEGUI",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98037.81199542801,
+                  105319.70002055605
+                ],
+                [
+                  98036.41599543368,
+                  105321.66902055114
+                ],
+                [
+                  98032.88299544751,
+                  105326.65002054043
+                ],
+                [
+                  98036.20499543962,
+                  105328.9380205312
+                ],
+                [
+                  98040.62899542917,
+                  105331.98502051964
+                ],
+                [
+                  98042.72699542459,
+                  105333.43002051327
+                ],
+                [
+                  98043.78099542097,
+                  105331.91002051724
+                ],
+                [
+                  98047.57799540545,
+                  105326.3700205299
+                ],
+                [
+                  98046.2129954093,
+                  105325.4380205335
+                ],
+                [
+                  98045.45399541048,
+                  105324.92002053536
+                ],
+                [
+                  98044.42999541265,
+                  105324.2200205379
+                ],
+                [
+                  98043.48799541498,
+                  105323.57602054108
+                ],
+                [
+                  98037.81199542801,
+                  105319.70002055605
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "051-032-011",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ANDONAEGUI 1891",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.48465857690992,
+      -34.58125247105737
+    ],
+    "direccion": "",
+    "fondo": "12.12",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "032",
+    "parcela": "011",
+    "pdamatriz": "350184",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "051",
+    "smp": "051-032-011",
+    "smp_anterior": "051-032-010",
+    "smp_siguiente": "051-032-012",
+    "srid": 4326,
+    "superficie_cubierta": "116.00",
+    "superficie_total": "105.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "051-032-011",
+  "_http_status": 200
+}

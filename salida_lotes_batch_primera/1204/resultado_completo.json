@@ -1,0 +1,357 @@
+{
+  "area_m2": 221.517746925354,
+  "centroide_lonlat": {
+    "lat": -34.603545,
+    "lon": -58.436825
+  },
+  "centroide_xy": {
+    "x": 102428.541179167,
+    "y": 102853.3947725648
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.42,
+          "fot_perim_libre": 3.42,
+          "fot_semi_libre": 3.42
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/97/047-168-025_0000129697.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION047/047-168-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION047/PI-047-168-V4.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "047-168-026",
+            "047-168-024",
+            "047-168-020"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2a II",
+          "incidencia_uva": 250.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 170.269686880816,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 221.5,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "047-168-025"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Villa Crespo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1414",
+    "codigo_postal_argentino": "C1414DVD",
+    "comisaria": "27",
+    "comisaria_vecinal": "15B",
+    "comuna": "Comuna 15",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   II",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "47"
+  },
+  "debug": {
+    "address": "TTE. GRAL. EUSTOQUIO FRIAS 130",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.43682515333907,
+        -34.60354505689119
+      ],
+      "direccion": "",
+      "fondo": "25.66",
+      "frente": "8.69",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "168",
+      "parcela": "025",
+      "pdamatriz": "225239",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "9",
+      "propiedad_horizontal": "Si",
+      "seccion": "047",
+      "smp": "047-168-025",
+      "smp_anterior": "047-168-024",
+      "smp_siguiente": "047-168-026",
+      "srid": 4326,
+      "superficie_cubierta": "1122.00",
+      "superficie_total": "223.00",
+      "unidades_funcionales": "16",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 130,
+      "cod_calle": 6058
+    },
+    "usig_direccion_elegida": {
+      "altura": 130,
+      "cod_calle": 6058,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.436723",
+        "y": "-34.603654"
+      },
+      "direccion": "FRIAS, EUSTOQUIO, TTE. GENERAL 130, CABA",
+      "nombre_calle": "FRIAS, EUSTOQUIO, TTE. GENERAL",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 130,
+          "cod_calle": 6058,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.436723",
+            "y": "-34.603654"
+          },
+          "direccion": "FRIAS, EUSTOQUIO, TTE. GENERAL 130, CABA",
+          "nombre_calle": "FRIAS, EUSTOQUIO, TTE. GENERAL",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102424.51598127908,
+                  102865.89702413589
+                ],
+                [
+                  102427.05098126963,
+                  102862.54802414341
+                ],
+                [
+                  102427.40298126763,
+                  102862.08302414365
+                ],
+                [
+                  102430.33598125752,
+                  102858.20802415174
+                ],
+                [
+                  102433.02298124695,
+                  102854.66002416087
+                ],
+                [
+                  102435.43698123746,
+                  102851.4710241677
+                ],
+                [
+                  102437.85198122812,
+                  102848.28102417549
+                ],
+                [
+                  102438.45598122591,
+                  102847.48402417658
+                ],
+                [
+                  102439.66298122142,
+                  102845.88902418196
+                ],
+                [
+                  102432.75398123614,
+                  102840.53502420144
+                ],
+                [
+                  102431.70598124078,
+                  102841.93702419763
+                ],
+                [
+                  102431.10698124312,
+                  102842.73802419507
+                ],
+                [
+                  102430.35898124584,
+                  102843.73802419449
+                ],
+                [
+                  102427.39298125784,
+                  102847.70402418327
+                ],
+                [
+                  102426.94298125945,
+                  102848.30602418236
+                ],
+                [
+                  102426.16498126255,
+                  102849.3460241798
+                ],
+                [
+                  102424.24798126853,
+                  102851.91002417458
+                ],
+                [
+                  102423.76898127153,
+                  102852.55102417347
+                ],
+                [
+                  102423.28998127309,
+                  102853.1910241713
+                ],
+                [
+                  102423.01998127368,
+                  102853.55202417035
+                ],
+                [
+                  102417.3909812949,
+                  102861.0800241541
+                ],
+                [
+                  102421.31598128642,
+                  102863.99902414202
+                ],
+                [
+                  102424.28198127942,
+                  102866.20602413427
+                ],
+                [
+                  102424.51598127908,
+                  102865.89702413589
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "047-168-025",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "TTE. GRAL. EUSTOQUIO FRIAS 130",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.43682515333907,
+      -34.60354505689119
+    ],
+    "direccion": "",
+    "fondo": "25.66",
+    "frente": "8.69",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "168",
+    "parcela": "025",
+    "pdamatriz": "225239",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "9",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "047",
+    "smp": "047-168-025",
+    "smp_anterior": "047-168-024",
+    "smp_siguiente": "047-168-026",
+    "srid": 4326,
+    "superficie_cubierta": "1122.00",
+    "superficie_total": "223.00",
+    "unidades_funcionales": "16",
+    "vuc": "0.00"
+  },
+  "smp": "047-168-025",
+  "_http_status": 200
+}

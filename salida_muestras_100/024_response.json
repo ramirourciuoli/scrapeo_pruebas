@@ -1,0 +1,363 @@
+{
+  "area_m2": 291.838773727417,
+  "centroide_lonlat": {
+    "lat": -34.678288,
+    "lon": -58.485145
+  },
+  "centroide_xy": {
+    "x": 97997.98631692442,
+    "y": 94561.78065846518
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.0,
+          "fot_perim_libre": 3.0,
+          "fot_semi_libre": 3.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/9/89/080-052-003_0000000989.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION080/080-052-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION080/PI-080-052-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "080-052-010",
+            "080-052-004",
+            "080-052-009",
+            "080-052-002"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "E3",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 245.494295596163,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 291.8,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "080-052-003"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Villa Lugano",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1439",
+    "codigo_postal_argentino": "C1439GQB",
+    "comisaria": "48",
+    "comisaria_vecinal": "8A",
+    "comuna": "Comuna 8",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XXI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "80"
+  },
+  "debug": {
+    "address": "COSQUIN 4062",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.485144630711154,
+        -34.67828793952755
+      ],
+      "direccion": "COSQUIN 4062",
+      "fondo": "33.60",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "052",
+      "parcela": "003",
+      "pdamatriz": "65657",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "080",
+      "smp": "080-052-003",
+      "smp_anterior": "080-052-002",
+      "smp_siguiente": "080-052-004",
+      "srid": 4326,
+      "superficie_cubierta": "163.00",
+      "superficie_total": "291.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4062,
+      "cod_calle": 3180
+    },
+    "usig_direccion_elegida": {
+      "altura": 4062,
+      "cod_calle": 3180,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.485292",
+        "y": "-34.678409"
+      },
+      "direccion": "COSQUIN 4062, CABA",
+      "nombre_calle": "COSQUIN",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4062,
+          "cod_calle": 3180,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.485292",
+            "y": "-34.678409"
+          },
+          "direccion": "COSQUIN 4062, CABA",
+          "nombre_calle": "COSQUIN",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98006.76698742871,
+                  94576.8950507055
+                ],
+                [
+                  98008.17898742354,
+                  94575.47905070923
+                ],
+                [
+                  98009.68498741854,
+                  94573.96905071284
+                ],
+                [
+                  98011.02798741337,
+                  94572.62105071498
+                ],
+                [
+                  98012.51098740815,
+                  94571.13505071613
+                ],
+                [
+                  98012.85998740736,
+                  94570.78405071684
+                ],
+                [
+                  98009.00498741507,
+                  94566.85005073271
+                ],
+                [
+                  98007.04798741968,
+                  94564.85305074038
+                ],
+                [
+                  98006.5549874196,
+                  94564.35005074026
+                ],
+                [
+                  98006.47598742024,
+                  94564.2700507401
+                ],
+                [
+                  98003.04298742666,
+                  94560.76505075285
+                ],
+                [
+                  97998.89498743523,
+                  94556.53205076707
+                ],
+                [
+                  97992.88798744864,
+                  94550.40105078924
+                ],
+                [
+                  97989.23798745585,
+                  94546.67605080453
+                ],
+                [
+                  97983.10998747806,
+                  94552.79505079161
+                ],
+                [
+                  97988.42598746676,
+                  94558.21105077246
+                ],
+                [
+                  97991.73998745982,
+                  94561.58705075984
+                ],
+                [
+                  97994.02798745468,
+                  94563.91805075077
+                ],
+                [
+                  97996.51898745014,
+                  94566.455050743
+                ],
+                [
+                  97998.62098744616,
+                  94568.59605073606
+                ],
+                [
+                  98002.11798743872,
+                  94572.15805072358
+                ],
+                [
+                  98005.64598743142,
+                  94575.75305070872
+                ],
+                [
+                  98006.76698742871,
+                  94576.8950507055
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "080-052-003",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "COSQUIN 4062",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.485144630711154,
+      -34.67828793952755
+    ],
+    "direccion": "COSQUIN 4062",
+    "fondo": "33.60",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "052",
+    "parcela": "003",
+    "pdamatriz": "65657",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [
+      {
+        "altura": 4062,
+        "calle": "COSQUIN",
+        "codigo_calle": 3180,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "080",
+    "smp": "080-052-003",
+    "smp_anterior": "080-052-002",
+    "smp_siguiente": "080-052-004",
+    "srid": 4326,
+    "superficie_cubierta": "163.00",
+    "superficie_total": "291.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "080-052-003"
+}

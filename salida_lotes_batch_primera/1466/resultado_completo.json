@@ -1,0 +1,357 @@
+{
+  "area_m2": 260.3474884033203,
+  "centroide_lonlat": {
+    "lat": -34.576493,
+    "lon": -58.457384
+  },
+  "centroide_xy": {
+    "x": 100542.85826887334,
+    "y": 105854.71899127931
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/8/93/037-039-044_0000088893.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION037/037-039-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION037/PI-037-039-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "037-039-042a",
+            "037-039-006",
+            "037-039-045"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 450.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 260.3,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "037-039-044"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Colegiales",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1426",
+    "codigo_postal_argentino": "C1426DYM",
+    "comisaria": "37",
+    "comisaria_vecinal": "13C",
+    "comuna": "Comuna 13",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "37"
+  },
+  "debug": {
+    "address": "VIRREY LORETO 3449",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.45738392808379,
+        -34.57649313240311
+      ],
+      "direccion": "",
+      "fondo": "33.33",
+      "frente": "7.80",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "039",
+      "parcela": "044",
+      "pdamatriz": "408420",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "037",
+      "smp": "037-039-044",
+      "smp_anterior": "037-039-042A",
+      "smp_siguiente": "037-039-045",
+      "srid": 4326,
+      "superficie_cubierta": "194.00",
+      "superficie_total": "260.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3449,
+      "cod_calle": 12136
+    },
+    "usig_direccion_elegida": {
+      "altura": 3449,
+      "cod_calle": 12136,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.457189",
+        "y": "-34.576598"
+      },
+      "direccion": "LORETO, VIRREY 3449, CABA",
+      "nombre_calle": "LORETO, VIRREY",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3449,
+          "cod_calle": 12136,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.457189",
+            "y": "-34.576598"
+          },
+          "direccion": "LORETO, VIRREY 3449, CABA",
+          "nombre_calle": "LORETO, VIRREY",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  100528.2109888504,
+                  105859.36801716764
+                ],
+                [
+                  100529.66898885238,
+                  105867.88801714315
+                ],
+                [
+                  100533.13098884127,
+                  105865.63601714652
+                ],
+                [
+                  100534.14698883775,
+                  105864.97501714731
+                ],
+                [
+                  100541.43998881424,
+                  105860.2310171552
+                ],
+                [
+                  100542.26098881106,
+                  105859.69701715608
+                ],
+                [
+                  100543.12598880843,
+                  105859.13401715693
+                ],
+                [
+                  100544.33698880463,
+                  105858.34601715856
+                ],
+                [
+                  100545.11398880178,
+                  105857.84101715946
+                ],
+                [
+                  100545.67798880019,
+                  105857.47401716042
+                ],
+                [
+                  100546.97998879603,
+                  105856.62701716175
+                ],
+                [
+                  100548.08898879161,
+                  105855.90501716288
+                ],
+                [
+                  100549.98698878541,
+                  105854.67101716477
+                ],
+                [
+                  100553.90298877272,
+                  105852.12301716849
+                ],
+                [
+                  100557.95598875968,
+                  105849.48601717275
+                ],
+                [
+                  100558.96198875639,
+                  105848.83201717466
+                ],
+                [
+                  100554.77398876322,
+                  105842.35401719587
+                ],
+                [
+                  100550.49798877671,
+                  105845.09301719145
+                ],
+                [
+                  100543.83298879862,
+                  105849.36201718394
+                ],
+                [
+                  100540.06198881126,
+                  105851.77701718002
+                ],
+                [
+                  100536.02698882438,
+                  105854.36201717576
+                ],
+                [
+                  100534.96398882777,
+                  105855.04301717455
+                ],
+                [
+                  100530.91298884116,
+                  105857.63701717084
+                ],
+                [
+                  100528.2109888504,
+                  105859.36801716764
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "037-039-044",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "VIRREY LORETO 3449",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.45738392808379,
+      -34.57649313240311
+    ],
+    "direccion": "",
+    "fondo": "33.33",
+    "frente": "7.80",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "039",
+    "parcela": "044",
+    "pdamatriz": "408420",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "037",
+    "smp": "037-039-044",
+    "smp_anterior": "037-039-042A",
+    "smp_siguiente": "037-039-045",
+    "srid": 4326,
+    "superficie_cubierta": "194.00",
+    "superficie_total": "260.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "037-039-044",
+  "_http_status": 200
+}

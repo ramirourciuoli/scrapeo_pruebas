@@ -1,0 +1,419 @@
+{
+  "area_m2": 383.3788995742798,
+  "centroide_lonlat": {
+    "lat": -34.591141,
+    "lon": -58.436976
+  },
+  "centroide_xy": {
+    "x": 102415.06772206828,
+    "y": 104229.47816734892
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/3/87/031-069-006_0000425387.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION031/031-069-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION031/PI-031-069-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "031-069-011",
+            "031-069-005",
+            "031-069-007"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 350.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 369.417793817171,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 383.4,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "031-069-006"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Villa Crespo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1414",
+    "codigo_postal_argentino": "C1414AYT",
+    "comisaria": "25",
+    "comisaria_vecinal": "15B",
+    "comuna": "Comuna 15",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   IX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "31"
+  },
+  "debug": {
+    "address": "JUFRE 970",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.436975946849415,
+        -34.59114075827202
+      ],
+      "direccion": "",
+      "fondo": "38.60",
+      "frente": "10.00",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "069",
+      "parcela": "006",
+      "pdamatriz": "423316",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "031",
+      "smp": "031-069-006",
+      "smp_anterior": "031-069-005",
+      "smp_siguiente": "031-069-007",
+      "srid": 4326,
+      "superficie_cubierta": "417.00",
+      "superficie_total": "386.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 970,
+      "cod_calle": 10012
+    },
+    "usig_direccion_elegida": {
+      "altura": 970,
+      "cod_calle": 10012,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.436784",
+        "y": "-34.591018"
+      },
+      "direccion": "JUFRE 970, CABA",
+      "nombre_calle": "JUFRE",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 970,
+          "cod_calle": 10012,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.436784",
+            "y": "-34.591018"
+          },
+          "direccion": "JUFRE 970, CABA",
+          "nombre_calle": "JUFRE",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 970,
+          "cod_calle": 78042,
+          "cod_calle_cruce": null,
+          "cod_partido": "hurlingham",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6250446387755,
+            "y": -34.6233625204082
+          },
+          "direccion": "Juan Jufrè 970, Hurlingham",
+          "nombre_calle": "Juan Jufrè",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Tesei",
+          "nombre_partido": "Hurlingham",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 970,
+          "cod_calle": 158433,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6740919387755,
+            "y": -34.6953546979592
+          },
+          "direccion": "Jufre 970, Merlo",
+          "nombre_calle": "Jufre",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Libertad",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102427.09498230976,
+                  104245.07802026538
+                ],
+                [
+                  102433.26498228639,
+                  104237.14002028294
+                ],
+                [
+                  102429.17898229539,
+                  104233.99502029529
+                ],
+                [
+                  102427.67498229897,
+                  104232.8380203
+                ],
+                [
+                  102425.23398230478,
+                  104230.95902030644
+                ],
+                [
+                  102422.7349823105,
+                  104229.03602031426
+                ],
+                [
+                  102419.69098231662,
+                  104226.69302032277
+                ],
+                [
+                  102418.44198231952,
+                  104225.73202032628
+                ],
+                [
+                  102417.77198232111,
+                  104225.2160203284
+                ],
+                [
+                  102414.03898232938,
+                  104222.34302033961
+                ],
+                [
+                  102410.99698233674,
+                  104220.00202034842
+                ],
+                [
+                  102405.0439823493,
+                  104215.42002036533
+                ],
+                [
+                  102403.06298235402,
+                  104213.89502037075
+                ],
+                [
+                  102402.28098235733,
+                  104214.88802036925
+                ],
+                [
+                  102401.25898236033,
+                  104216.18602036589
+                ],
+                [
+                  102396.84698237738,
+                  104221.79102035394
+                ],
+                [
+                  102398.96398237233,
+                  104223.42102034765
+                ],
+                [
+                  102400.77998236883,
+                  104224.81902034243
+                ],
+                [
+                  102401.3419823675,
+                  104225.25202034094
+                ],
+                [
+                  102404.08398236101,
+                  104227.36302033256
+                ],
+                [
+                  102408.51298235165,
+                  104230.77302031976
+                ],
+                [
+                  102411.77598234372,
+                  104233.28502031034
+                ],
+                [
+                  102412.22598234292,
+                  104233.63102030903
+                ],
+                [
+                  102412.81098234156,
+                  104234.0810203075
+                ],
+                [
+                  102417.64198233104,
+                  104237.80102029315
+                ],
+                [
+                  102418.29798233003,
+                  104238.30602029111
+                ],
+                [
+                  102421.49098232287,
+                  104240.76302028223
+                ],
+                [
+                  102422.09798232137,
+                  104241.23102027987
+                ],
+                [
+                  102423.02698231884,
+                  104241.94602027797
+                ],
+                [
+                  102425.16098231463,
+                  104243.589020271
+                ],
+                [
+                  102427.09498230976,
+                  104245.07802026538
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "031-069-006",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "JUFRE 970",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.436975946849415,
+      -34.59114075827202
+    ],
+    "direccion": "",
+    "fondo": "38.60",
+    "frente": "10.00",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "069",
+    "parcela": "006",
+    "pdamatriz": "423316",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "031",
+    "smp": "031-069-006",
+    "smp_anterior": "031-069-005",
+    "smp_siguiente": "031-069-007",
+    "srid": 4326,
+    "superficie_cubierta": "417.00",
+    "superficie_total": "386.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "031-069-006",
+  "_http_status": 200
+}

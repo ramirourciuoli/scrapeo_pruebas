@@ -1,0 +1,334 @@
+{
+  "area_m2": 281.2381296157837,
+  "centroide_lonlat": {
+    "lat": -34.65414,
+    "lon": -58.433532
+  },
+  "centroide_xy": {
+    "x": 102728.93436967672,
+    "y": 97240.53673287641
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 2.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/14/046-068-030_0000075514.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION046/046-068-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION046/PI-046-068-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "046-068-001",
+            "046-068-029",
+            "046-068-003a",
+            "046-068-002"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "E2",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 899.89,
+          "plusvalia_sl": 899.89
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 281.214999999989,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 281.2,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "046-068-030"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.M. PENNA",
+    "barrio": "Villa Soldati",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1437",
+    "codigo_postal_argentino": "C1437GVK",
+    "comisaria": "36",
+    "comisaria_vecinal": "8B",
+    "comuna": "Comuna 8",
+    "distrito_economico": "DISTRITO DEL DEPORTE",
+    "distrito_escolar": "Distrito Escolar   XIX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "46"
+  },
+  "debug": {
+    "address": "ITAQUI 2225",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.43353234010548,
+        -34.65413961916692
+      ],
+      "direccion": "",
+      "fondo": "27.50",
+      "frente": "10.00",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "068",
+      "parcela": "030",
+      "pdamatriz": "52181",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "046",
+      "smp": "046-068-030",
+      "smp_anterior": "046-068-029",
+      "smp_siguiente": "046-068-001",
+      "srid": 4326,
+      "superficie_cubierta": "301.00",
+      "superficie_total": "275.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2225,
+      "cod_calle": 9027
+    },
+    "usig_direccion_elegida": {
+      "altura": 2225,
+      "cod_calle": 9027,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.433407",
+        "y": "-34.654266"
+      },
+      "direccion": "ITAQUI 2225, CABA",
+      "nombre_calle": "ITAQUI",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2225,
+          "cod_calle": 9027,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.433407",
+            "y": "-34.654266"
+          },
+          "direccion": "ITAQUI 2225, CABA",
+          "nombre_calle": "ITAQUI",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102716.38997623164,
+                  97248.1310396716
+                ],
+                [
+                  102718.56397622717,
+                  97249.93303966333
+                ],
+                [
+                  102721.18797622118,
+                  97252.10803965476
+                ],
+                [
+                  102724.20397621495,
+                  97254.60903964564
+                ],
+                [
+                  102726.31397620765,
+                  97251.96303965116
+                ],
+                [
+                  102727.26697620357,
+                  97250.7680396554
+                ],
+                [
+                  102730.53997619163,
+                  97246.6630396623
+                ],
+                [
+                  102741.47697615047,
+                  97232.94703969406
+                ],
+                [
+                  102737.35797615969,
+                  97229.52803970827
+                ],
+                [
+                  102733.66397616711,
+                  97226.46203971753
+                ],
+                [
+                  102731.17197617698,
+                  97229.5890397095
+                ],
+                [
+                  102729.1189761842,
+                  97232.16303970644
+                ],
+                [
+                  102728.21897618711,
+                  97233.29303970202
+                ],
+                [
+                  102727.49697619097,
+                  97234.19803970022
+                ],
+                [
+                  102721.14597621358,
+                  97242.165039683
+                ],
+                [
+                  102720.66497621653,
+                  97242.76803968099
+                ],
+                [
+                  102719.26697622126,
+                  97244.52203967824
+                ],
+                [
+                  102716.38997623164,
+                  97248.1310396716
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "046-068-030",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ITAQUI 2225",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.43353234010548,
+      -34.65413961916692
+    ],
+    "direccion": "",
+    "fondo": "27.50",
+    "frente": "10.00",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "068",
+    "parcela": "030",
+    "pdamatriz": "52181",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "046",
+    "smp": "046-068-030",
+    "smp_anterior": "046-068-029",
+    "smp_siguiente": "046-068-001",
+    "srid": 4326,
+    "superficie_cubierta": "301.00",
+    "superficie_total": "275.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "046-068-030",
+  "_http_status": 200
+}

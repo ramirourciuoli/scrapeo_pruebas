@@ -1,0 +1,473 @@
+{
+  "area_m2": 284.77069759368896,
+  "centroide_lonlat": {
+    "lat": -34.599249,
+    "lon": -58.435563
+  },
+  "centroide_xy": {
+    "x": 102544.4344191306,
+    "y": 103329.99253264714
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.47,
+          "fot_perim_libre": 3.47,
+          "fot_semi_libre": 3.47
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/71/031-026-011_0000259571.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION031/031-026-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION031/PI-031-026-V4.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "031-026-012b",
+            "031-026-010",
+            "031-026-013",
+            "031-026-014",
+            "031-026-012a"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2a II",
+          "incidencia_uva": 180.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 264.329193531402,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 284.8,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "031-026-011"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Villa Crespo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1414",
+    "codigo_postal_argentino": "C1414DPK",
+    "comisaria": "27",
+    "comisaria_vecinal": "15B",
+    "comuna": "Comuna 15",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   II",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "31"
+  },
+  "debug": {
+    "address": "ARAOZ 519",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.435563166165615,
+        -34.599248618153474
+      ],
+      "direccion": "",
+      "fondo": "32.68",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "026",
+      "parcela": "011",
+      "pdamatriz": "420847",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "3",
+      "propiedad_horizontal": "Si",
+      "seccion": "031",
+      "smp": "031-026-011",
+      "smp_anterior": "031-026-010",
+      "smp_siguiente": "031-026-012A",
+      "srid": 4326,
+      "superficie_cubierta": "717.00",
+      "superficie_total": "283.00",
+      "unidades_funcionales": "11",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 519,
+      "cod_calle": 1095
+    },
+    "usig_direccion_elegida": {
+      "altura": 519,
+      "cod_calle": 1095,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.435697",
+        "y": "-34.599106"
+      },
+      "direccion": "ARAOZ 519, CABA",
+      "nombre_calle": "ARAOZ",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 519,
+          "cod_calle": 1095,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.435697",
+            "y": "-34.599106"
+          },
+          "direccion": "ARAOZ 519, CABA",
+          "nombre_calle": "ARAOZ",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 519,
+          "cod_calle": 1163,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.359770",
+            "y": "-34.637649"
+          },
+          "direccion": "ARAOZ DE LAMADRID, GREGORIO, GRAL. 519, CABA",
+          "nombre_calle": "ARAOZ DE LAMADRID, GREGORIO, GRAL.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 519,
+          "cod_calle": 42034,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5094420030612,
+            "y": -34.6883413765306
+          },
+          "direccion": "Pedro Miguel Aráoz 519, La Matanza",
+          "nombre_calle": "Pedro Miguel Aráoz",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Madero",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 519,
+          "cod_calle": 18072,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4021687112245,
+            "y": -34.7357487122449
+          },
+          "direccion": "Aráoz 519, Lomas de Zamora",
+          "nombre_calle": "Aráoz",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Banfield",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 519,
+          "cod_calle": 96803,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7121788693878,
+            "y": -34.6619493642857
+          },
+          "direccion": "Araoz 519, Merlo",
+          "nombre_calle": "Araoz",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Antonio de Padua",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 519,
+          "cod_calle": 66454,
+          "cod_calle_cruce": null,
+          "cod_partido": "moreno",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.8378134734694,
+            "y": -34.6302989183674
+          },
+          "direccion": "Agustina de Araoz 519, Moreno",
+          "nombre_calle": "Agustina de Araoz",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Francisco Álvarez",
+          "nombre_partido": "Moreno",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 519,
+          "cod_calle": 353028,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_vicente",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3840059397959,
+            "y": -34.9758194204082
+          },
+          "direccion": "General Gregorio Aráoz de Lamadrid 519, San Vicente",
+          "nombre_calle": "General Gregorio Aráoz de Lamadrid",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Vicente",
+          "nombre_partido": "San Vicente",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102531.06098133717,
+                  103340.28202272445
+                ],
+                [
+                  102531.53598133668,
+                  103340.6500227238
+                ],
+                [
+                  102533.27698133227,
+                  103341.99602271855
+                ],
+                [
+                  102535.6889813274,
+                  103343.86202271096
+                ],
+                [
+                  102537.4289813228,
+                  103345.20802270583
+                ],
+                [
+                  102537.90298132217,
+                  103345.57502270496
+                ],
+                [
+                  102543.68198130043,
+                  103338.11402272136
+                ],
+                [
+                  102544.05998129857,
+                  103337.6260227226
+                ],
+                [
+                  102549.75098127763,
+                  103330.27702273853
+                ],
+                [
+                  102555.44798125583,
+                  103322.92202275532
+                ],
+                [
+                  102557.80498124677,
+                  103319.8780227614
+                ],
+                [
+                  102557.32498124831,
+                  103319.50102276346
+                ],
+                [
+                  102556.04898125061,
+                  103318.49802276675
+                ],
+                [
+                  102551.447981261,
+                  103314.88202278086
+                ],
+                [
+                  102550.94998126241,
+                  103314.49002278238
+                ],
+                [
+                  102548.50998127108,
+                  103317.47102277554
+                ],
+                [
+                  102545.93998128144,
+                  103320.80902276858
+                ],
+                [
+                  102545.60498128264,
+                  103321.09202276784
+                ],
+                [
+                  102543.45998129042,
+                  103324.05402276048
+                ],
+                [
+                  102542.85398129301,
+                  103324.84802275943
+                ],
+                [
+                  102541.08898129911,
+                  103327.1580227539
+                ],
+                [
+                  102540.45098130217,
+                  103327.99202275183
+                ],
+                [
+                  102538.4919813089,
+                  103330.55702274648
+                ],
+                [
+                  102536.79498131563,
+                  103332.77802274143
+                ],
+                [
+                  102536.60898131657,
+                  103333.02102274066
+                ],
+                [
+                  102535.96498131871,
+                  103333.86402273917
+                ],
+                [
+                  102531.06098133717,
+                  103340.28202272445
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "031-026-011",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ARAOZ 519",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.435563166165615,
+      -34.599248618153474
+    ],
+    "direccion": "",
+    "fondo": "32.68",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "026",
+    "parcela": "011",
+    "pdamatriz": "420847",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "3",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "031",
+    "smp": "031-026-011",
+    "smp_anterior": "031-026-010",
+    "smp_siguiente": "031-026-012A",
+    "srid": 4326,
+    "superficie_cubierta": "717.00",
+    "superficie_total": "283.00",
+    "unidades_funcionales": "11",
+    "vuc": "0.00"
+  },
+  "smp": "031-026-011",
+  "_http_status": 200
+}

@@ -1,0 +1,357 @@
+{
+  "area_m2": 159.30272388458252,
+  "centroide_lonlat": {
+    "lat": -34.63519,
+    "lon": -58.501252
+  },
+  "centroide_xy": {
+    "x": 96519.97000742167,
+    "y": 99342.46549861779
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/93/095-061-025_0000218793.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION095/095-061-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION095/PI-095-061-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "095-061-026",
+            "095-061-024"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 159.296749999996,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 159.3,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "095-061-025"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Villa Luro",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1407",
+    "codigo_postal_argentino": "C1407BQE",
+    "comisaria": "44",
+    "comisaria_vecinal": "10B",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "95"
+  },
+  "debug": {
+    "address": "VIRGILIO 307",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.501252099121636,
+        -34.635190225954666
+      ],
+      "direccion": "",
+      "fondo": "18.40",
+      "frente": "8.75",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "061",
+      "parcela": "025",
+      "pdamatriz": "6701",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "095",
+      "smp": "095-061-025",
+      "smp_anterior": "095-061-024",
+      "smp_siguiente": "095-061-026",
+      "srid": 4326,
+      "superficie_cubierta": "180.00",
+      "superficie_total": "161.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 307,
+      "cod_calle": 23073
+    },
+    "usig_direccion_elegida": {
+      "altura": 307,
+      "cod_calle": 23073,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.501361",
+        "y": "-34.635172"
+      },
+      "direccion": "VIRGILIO 307, CABA",
+      "nombre_calle": "VIRGILIO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 307,
+          "cod_calle": 23073,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.501361",
+            "y": "-34.635172"
+          },
+          "direccion": "VIRGILIO 307, CABA",
+          "nombre_calle": "VIRGILIO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 307,
+          "cod_calle": 209925,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "direccion": "Virgilio 307, La Matanza",
+          "nombre_calle": "Virgilio",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Isidro Casanova",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 307,
+          "cod_calle": 177820,
+          "cod_calle_cruce": null,
+          "cod_partido": "tigre",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7063764012048,
+            "y": -34.4290047277108
+          },
+          "direccion": "Virgilio Tedín 307, Tigre",
+          "nombre_calle": "Virgilio Tedín",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Benavídez",
+          "nombre_partido": "Tigre",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96524.00299516911,
+                  99336.19803847512
+                ],
+                [
+                  96522.7859951731,
+                  99336.00403847644
+                ],
+                [
+                  96518.66899518363,
+                  99335.34903848209
+                ],
+                [
+                  96513.72899520065,
+                  99338.86903847547
+                ],
+                [
+                  96513.52399520206,
+                  99340.09003847209
+                ],
+                [
+                  96512.76599520723,
+                  99344.60403846041
+                ],
+                [
+                  96512.27599521057,
+                  99347.52203845221
+                ],
+                [
+                  96513.31499520855,
+                  99347.68803845116
+                ],
+                [
+                  96515.3629952026,
+                  99348.01603844846
+                ],
+                [
+                  96515.95499520116,
+                  99348.11103844747
+                ],
+                [
+                  96519.42499519158,
+                  99348.66703844414
+                ],
+                [
+                  96525.1219951769,
+                  99349.57903843682
+                ],
+                [
+                  96525.64399517278,
+                  99346.19803844584
+                ],
+                [
+                  96526.05599516917,
+                  99343.52603845281
+                ],
+                [
+                  96526.2219951681,
+                  99342.44703845581
+                ],
+                [
+                  96527.10999516158,
+                  99336.69203847134
+                ],
+                [
+                  96524.00299516911,
+                  99336.19803847512
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "095-061-025",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "VIRGILIO 307",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.501252099121636,
+      -34.635190225954666
+    ],
+    "direccion": "",
+    "fondo": "18.40",
+    "frente": "8.75",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "061",
+    "parcela": "025",
+    "pdamatriz": "6701",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "095",
+    "smp": "095-061-025",
+    "smp_anterior": "095-061-024",
+    "smp_siguiente": "095-061-026",
+    "srid": 4326,
+    "superficie_cubierta": "180.00",
+    "superficie_total": "161.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "095-061-025",
+  "_http_status": 200
+}

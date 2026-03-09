@@ -1,0 +1,296 @@
+{
+  "area_m2": 504.73048877716064,
+  "centroide_lonlat": {
+    "lat": -34.636585,
+    "lon": -58.523146
+  },
+  "centroide_xy": {
+    "x": 94512.52238051342,
+    "y": 99186.75181382467
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 1,
+          "ensanche": 1,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 0.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "RUA",
+            "distrito_especifico": "RUA"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 0.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/74/095-023-026_0000213674.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION095/095-023-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION095/PI-095-023-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "095-023-019",
+            "095-023-020",
+            "095-023-027d",
+            "095-023-015a",
+            "095-023-027e",
+            "095-023-025"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "RUA",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0.0,
+          "plusvalia_pl": 0.0,
+          "plusvalia_sl": 0.0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 504.7,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "095-023-026"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Liniers",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1408",
+    "codigo_postal_argentino": "C1408BVH",
+    "comisaria": "44",
+    "comisaria_vecinal": "9B",
+    "comuna": "Comuna 9",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "95"
+  },
+  "debug": {
+    "address": "BARRAGAN 348",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.523145687460975,
+        -34.63658508037743
+      ],
+      "direccion": "",
+      "manzana": "023",
+      "parcela": "026",
+      "seccion": "095",
+      "smp": "095-023-026",
+      "smp_anterior": "095-023-025",
+      "smp_siguiente": "095-023-027D",
+      "srid": 4326
+    },
+    "usig_cod_calle_altura": {
+      "altura": 348,
+      "cod_calle": 2027
+    },
+    "usig_direccion_elegida": {
+      "altura": 348,
+      "cod_calle": 2027,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.522857",
+        "y": "-34.636475"
+      },
+      "direccion": "BARRAGAN 348, CABA",
+      "nombre_calle": "BARRAGAN",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 348,
+          "cod_calle": 2027,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.522857",
+            "y": "-34.636475"
+          },
+          "direccion": "BARRAGAN 348, CABA",
+          "nombre_calle": "BARRAGAN",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  94489.88695872558,
+                  99190.4347273045
+                ],
+                [
+                  94503.53900072686,
+                  99191.7580404015
+                ],
+                [
+                  94510.08300070869,
+                  99192.33504039454
+                ],
+                [
+                  94513.9450006988,
+                  99192.67604039071
+                ],
+                [
+                  94516.21700069244,
+                  99192.87704038882
+                ],
+                [
+                  94520.16800068102,
+                  99193.22504038413
+                ],
+                [
+                  94523.81500067186,
+                  99193.54704038115
+                ],
+                [
+                  94525.89700066565,
+                  99193.73104037848
+                ],
+                [
+                  94527.89000065997,
+                  99193.90704037648
+                ],
+                [
+                  94533.59200064484,
+                  99194.41004037118
+                ],
+                [
+                  94534.64216984418,
+                  99182.57626018269
+                ],
+                [
+                  94507.71111556928,
+                  99180.62451381129
+                ],
+                [
+                  94490.99817384394,
+                  99179.41329411545
+                ],
+                [
+                  94489.88695872558,
+                  99190.4347273045
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "095-023-026",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "BARRAGAN 348",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.523145687460975,
+      -34.63658508037743
+    ],
+    "direccion": "",
+    "manzana": "023",
+    "parcela": "026",
+    "puertas": [],
+    "seccion": "095",
+    "smp": "095-023-026",
+    "smp_anterior": "095-023-025",
+    "smp_siguiente": "095-023-027D",
+    "srid": 4326
+  },
+  "smp": "095-023-026",
+  "_http_status": 200
+}

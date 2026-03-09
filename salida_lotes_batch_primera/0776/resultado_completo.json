@@ -1,0 +1,329 @@
+{
+  "area_m2": 218.0122537612915,
+  "centroide_lonlat": {
+    "lat": -34.641652,
+    "lon": -58.516158
+  },
+  "centroide_xy": {
+    "x": 95153.55491295616,
+    "y": 98625.04590453798
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/4/43/072-140-002_0000029443.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION072/072-140-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION072/PI-072-140-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "072-140-001b",
+            "072-140-020",
+            "072-140-003"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 130.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 218.041550000004,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 218.0,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "072-140-002"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Liniers",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1408",
+    "codigo_postal_argentino": "C1408DXB",
+    "comisaria": "54",
+    "comisaria_vecinal": "9B",
+    "comuna": "Comuna 9",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "72"
+  },
+  "debug": {
+    "address": "IBARROLA 6340",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.51615788748501,
+        -34.641651617899015
+      ],
+      "direccion": "",
+      "fondo": "13.85",
+      "frente": "16.10",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "140",
+      "parcela": "002",
+      "pdamatriz": "13086",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "072",
+      "smp": "072-140-002",
+      "smp_anterior": "072-140-001B",
+      "smp_siguiente": "072-140-003",
+      "srid": 4326,
+      "superficie_cubierta": "205.00",
+      "superficie_total": "223.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 6340,
+      "cod_calle": 9002
+    },
+    "usig_direccion_elegida": {
+      "altura": 6340,
+      "cod_calle": 9002,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.516153",
+        "y": "-34.641545"
+      },
+      "direccion": "IBARROLA 6340, CABA",
+      "nombre_calle": "IBARROLA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 6340,
+          "cod_calle": 9002,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.516153",
+            "y": "-34.641545"
+          },
+          "direccion": "IBARROLA 6340, CABA",
+          "nombre_calle": "IBARROLA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  95150.72499849014,
+                  98632.26904148245
+                ],
+                [
+                  95155.65599847688,
+                  98632.18804147953
+                ],
+                [
+                  95161.30599846109,
+                  98632.09604147586
+                ],
+                [
+                  95161.29499846064,
+                  98631.51904147645
+                ],
+                [
+                  95161.19610441386,
+                  98626.40916014393
+                ],
+                [
+                  95161.12206876648,
+                  98622.56315185345
+                ],
+                [
+                  95161.04607999475,
+                  98618.60013917022
+                ],
+                [
+                  95152.78008880556,
+                  98617.33616212793
+                ],
+                [
+                  95147.34008637932,
+                  98616.50413088547
+                ],
+                [
+                  95146.18108980793,
+                  98625.98215820352
+                ],
+                [
+                  95146.01999850024,
+                  98627.30304150129
+                ],
+                [
+                  95145.86499850155,
+                  98628.56704149517
+                ],
+                [
+                  95145.59599850455,
+                  98630.7680414913
+                ],
+                [
+                  95145.40199850527,
+                  98632.35604148635
+                ],
+                [
+                  95146.47299850354,
+                  98632.33804148648
+                ],
+                [
+                  95147.4559985,
+                  98632.32204148523
+                ],
+                [
+                  95150.72499849014,
+                  98632.26904148245
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "072-140-002",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "IBARROLA 6340",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.51615788748501,
+      -34.641651617899015
+    ],
+    "direccion": "",
+    "fondo": "13.85",
+    "frente": "16.10",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "140",
+    "parcela": "002",
+    "pdamatriz": "13086",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "072",
+    "smp": "072-140-002",
+    "smp_anterior": "072-140-001B",
+    "smp_siguiente": "072-140-003",
+    "srid": 4326,
+    "superficie_cubierta": "205.00",
+    "superficie_total": "223.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "072-140-002",
+  "_http_status": 200
+}

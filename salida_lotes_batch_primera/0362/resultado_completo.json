@@ -1,0 +1,424 @@
+{
+  "area_m2": 652.0409488677979,
+  "centroide_lonlat": {
+    "lat": -34.640427,
+    "lon": -58.458204
+  },
+  "centroide_xy": {
+    "x": 100467.25259692536,
+    "y": 98762.15299511545
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 0.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/51/048-085-012d_0000072751.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION048/048-085-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION048/PI-048-085-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "048-085-022",
+            "048-085-021",
+            "048-085-018",
+            "048-085-012c",
+            "048-085-028b"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "RUA",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0.0,
+          "plusvalia_pl": 0.0,
+          "plusvalia_sl": 0.0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 652.0,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "048-085-012D"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. P. PIÑERO",
+    "barrio": "Flores",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1406",
+    "codigo_postal_argentino": "C1406EKS",
+    "comisaria": "38",
+    "comisaria_vecinal": "7A",
+    "comuna": "Comuna 7",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "48"
+  },
+  "debug": {
+    "address": "AV. VARELA 975",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.45820397211182,
+        -34.64042706045057
+      ],
+      "direccion": "",
+      "manzana": "085",
+      "parcela": "012D",
+      "seccion": "048",
+      "smp": "048-085-012D",
+      "smp_anterior": "048-085-012C",
+      "smp_siguiente": "048-085-018",
+      "srid": 4326
+    },
+    "usig_cod_calle_altura": {
+      "altura": 975,
+      "cod_calle": 23011
+    },
+    "usig_direccion_elegida": {
+      "altura": 975,
+      "cod_calle": 23011,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.457865",
+        "y": "-34.640262"
+      },
+      "direccion": "VARELA AV. 975, CABA",
+      "nombre_calle": "VARELA AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 975,
+          "cod_calle": 23011,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.457865",
+            "y": "-34.640262"
+          },
+          "direccion": "VARELA AV. 975, CABA",
+          "nombre_calle": "VARELA AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 975,
+          "cod_calle": 116878,
+          "cod_calle_cruce": null,
+          "cod_partido": "berazategui",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.2391734959184,
+            "y": -34.7587826530612
+          },
+          "direccion": "Avenida Florencio Varela 975, Berazategui",
+          "nombre_calle": "Avenida Florencio Varela",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Berazategui",
+          "nombre_partido": "Berazategui",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 975,
+          "cod_calle": 87029,
+          "cod_calle_cruce": null,
+          "cod_partido": "ezeiza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.516382422449,
+            "y": -34.8393019081633
+          },
+          "direccion": "Florencio Varela 975, Ezeiza",
+          "nombre_calle": "Florencio Varela",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ezeiza",
+          "nombre_partido": "Ezeiza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 975,
+          "cod_calle": 122378,
+          "cod_calle_cruce": null,
+          "cod_partido": "florencio_varela",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.2078251632653,
+            "y": -34.8381984193878
+          },
+          "direccion": "Juan Cruz Varela 975, Florencio Varela",
+          "nombre_calle": "Juan Cruz Varela",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ingeniero Juan Allan",
+          "nombre_partido": "Florencio Varela",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 975,
+          "cod_calle": 14952,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5547949326531,
+            "y": -34.6637456316327
+          },
+          "direccion": "Florencio Varela 975, La Matanza",
+          "nombre_calle": "Florencio Varela",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ramos Mejía",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 975,
+          "cod_calle": 235762,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3873955714286,
+            "y": -34.6918773928572
+          },
+          "direccion": "Florencio Varela 975, Lanús",
+          "nombre_calle": "Florencio Varela",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Gerli",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 975,
+          "cod_calle": 23467,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3776140020408,
+            "y": -34.7794693959184
+          },
+          "direccion": "Florencio Varela 975, Lomas de Zamora",
+          "nombre_calle": "Florencio Varela",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Temperley",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 975,
+          "cod_calle": 116878,
+          "cod_calle_cruce": null,
+          "cod_partido": "quilmes",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.2391734959184,
+            "y": -34.7587826530612
+          },
+          "direccion": "Avenida Florencio Varela 975, Quilmes",
+          "nombre_calle": "Avenida Florencio Varela",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ezpeleta",
+          "nombre_partido": "Quilmes",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 975,
+          "cod_calle": 52205,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_isidro",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5036907438775,
+            "y": -34.4724106673469
+          },
+          "direccion": "Juan Cruz Varela 975, San Isidro",
+          "nombre_calle": "Juan Cruz Varela",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Acassuso",
+          "nombre_partido": "San Isidro",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 975,
+          "cod_calle": 173846,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_miguel",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7069232091837,
+            "y": -34.5812407214286
+          },
+          "direccion": "Florencio Varela 975, San Miguel",
+          "nombre_calle": "Florencio Varela",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Bella Vista",
+          "nombre_partido": "San Miguel",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  100495.476490567,
+                  98779.06093632299
+                ],
+                [
+                  100469.26558387291,
+                  98757.6374747929
+                ],
+                [
+                  100462.38440035027,
+                  98752.01399012192
+                ],
+                [
+                  100455.57551375928,
+                  98746.44836242896
+                ],
+                [
+                  100441.8666445675,
+                  98735.24313793925
+                ],
+                [
+                  100436.8192051541,
+                  98740.87432564082
+                ],
+                [
+                  100487.94179758671,
+                  98787.4710960812
+                ],
+                [
+                  100495.476490567,
+                  98779.06093632299
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "048-085-012D",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AV. VARELA 975",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.45820397211182,
+      -34.64042706045057
+    ],
+    "direccion": "",
+    "manzana": "085",
+    "parcela": "012D",
+    "puertas": [],
+    "seccion": "048",
+    "smp": "048-085-012D",
+    "smp_anterior": "048-085-012C",
+    "smp_siguiente": "048-085-018",
+    "srid": 4326
+  },
+  "smp": "048-085-012D",
+  "_http_status": 200
+}

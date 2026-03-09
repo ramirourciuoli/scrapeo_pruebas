@@ -1,0 +1,337 @@
+{
+  "area_m2": 156.96786785125732,
+  "centroide_lonlat": {
+    "lat": -34.582707,
+    "lon": -58.478539
+  },
+  "centroide_xy": {
+    "x": 98601.81740227719,
+    "y": 105165.31797721243
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "U",
+            "distrito_especifico": "U 39"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 0.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/9/92/061-095-011_0000361992.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION061/061-095-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION061/PI-061-095-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "DI-2023-187-GCABA-DGIUR",
+          "pdf": "061-095.pdf"
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "061-095-013",
+            "061-095-010",
+            "061-095-012"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "U39",
+          "incidencia_uva": 260.0,
+          "plusvalia_em": 0.0,
+          "plusvalia_pl": 0.0,
+          "plusvalia_sl": 0.0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 157.0,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "061-095-011"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. E. TORNÚ",
+    "barrio": "Parque Chas",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1431",
+    "codigo_postal_argentino": "C1431DPC",
+    "comisaria": "39",
+    "comisaria_vecinal": "15C",
+    "comuna": "Comuna 15",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "61"
+  },
+  "debug": {
+    "address": "AVALOS 1521",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.47853854419389,
+        -34.58270675833157
+      ],
+      "direccion": "",
+      "fondo": "17.22",
+      "frente": "9.00",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "095",
+      "parcela": "011",
+      "pdamatriz": "245007",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "061",
+      "smp": "061-095-011",
+      "smp_anterior": "061-095-010",
+      "smp_siguiente": "061-095-012",
+      "srid": 4326,
+      "superficie_cubierta": "101.00",
+      "superficie_total": "155.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1521,
+      "cod_calle": 1139
+    },
+    "usig_direccion_elegida": {
+      "altura": 1521,
+      "cod_calle": 1139,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.478605",
+        "y": "-34.582794"
+      },
+      "direccion": "AVALOS 1521, CABA",
+      "nombre_calle": "AVALOS",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1521,
+          "cod_calle": 1139,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.478605",
+            "y": "-34.582794"
+          },
+          "direccion": "AVALOS 1521, CABA",
+          "nombre_calle": "AVALOS",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98596.08799374617,
+                  105164.61102057013
+                ],
+                [
+                  98597.6649937433,
+                  105167.22502056169
+                ],
+                [
+                  98597.81999374334,
+                  105167.48202056109
+                ],
+                [
+                  98599.79599374004,
+                  105170.75602055059
+                ],
+                [
+                  98600.454993739,
+                  105171.84802054719
+                ],
+                [
+                  98601.77499373724,
+                  105174.03502053997
+                ],
+                [
+                  98602.49799373544,
+                  105175.23302053599
+                ],
+                [
+                  98604.26499372956,
+                  105174.03002053825
+                ],
+                [
+                  98604.91399372759,
+                  105173.5890205384
+                ],
+                [
+                  98606.61199372185,
+                  105172.43302054086
+                ],
+                [
+                  98608.15199371678,
+                  105171.38402054209
+                ],
+                [
+                  98610.07099371108,
+                  105170.07802054449
+                ],
+                [
+                  98609.34399371133,
+                  105168.87902054834
+                ],
+                [
+                  98608.21699371371,
+                  105167.02102055438
+                ],
+                [
+                  98607.95099371429,
+                  105166.58202055647
+                ],
+                [
+                  98606.36999371652,
+                  105163.97502056422
+                ],
+                [
+                  98601.29599372443,
+                  105155.61002059217
+                ],
+                [
+                  98593.47299375005,
+                  105160.2780205846
+                ],
+                [
+                  98596.08799374617,
+                  105164.61102057013
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "061-095-011",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AVALOS 1521",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.47853854419389,
+      -34.58270675833157
+    ],
+    "direccion": "",
+    "fondo": "17.22",
+    "frente": "9.00",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "095",
+    "parcela": "011",
+    "pdamatriz": "245007",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "061",
+    "smp": "061-095-011",
+    "smp_anterior": "061-095-010",
+    "smp_siguiente": "061-095-012",
+    "srid": 4326,
+    "superficie_cubierta": "101.00",
+    "superficie_total": "155.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "061-095-011",
+  "_http_status": 200
+}

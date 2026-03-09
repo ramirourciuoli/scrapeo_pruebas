@@ -1,0 +1,360 @@
+{
+  "area_m2": 315.99139308929443,
+  "centroide_lonlat": {
+    "lat": -34.597015,
+    "lon": -58.425817
+  },
+  "centroide_xy": {
+    "x": 103438.63154942598,
+    "y": 103577.50705551551
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 38.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 0.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/1/18/031-094-036_0000263118.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION031/031-094-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION031/PI-031-094-V3.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "031-094-004",
+            "031-094-005",
+            "031-094-037",
+            "031-094-035"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "C3 II",
+          "incidencia_uva": 420.0,
+          "plusvalia_em": 28657.99,
+          "plusvalia_pl": 28657.99,
+          "plusvalia_sl": 28657.99
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 315.894950000285,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 316.0,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "031-094-036"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Villa Crespo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1188",
+    "codigo_postal_argentino": "C1188AAU",
+    "comisaria": "25",
+    "comisaria_vecinal": "14A",
+    "comuna": "Comuna 15",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   II",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "31"
+  },
+  "debug": {
+    "address": "AV. CORDOBA 4168",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.4258165401112,
+        -34.597014858915806
+      ],
+      "direccion": "",
+      "fondo": "36.48",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "094",
+      "parcela": "036",
+      "pdamatriz": "420342",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "031",
+      "smp": "031-094-036",
+      "smp_anterior": "031-094-035",
+      "smp_siguiente": "031-094-037",
+      "srid": 4326,
+      "superficie_cubierta": "357.00",
+      "superficie_total": "316.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4168,
+      "cod_calle": 3165
+    },
+    "usig_direccion_elegida": {
+      "altura": 4168,
+      "cod_calle": 3165,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.425712",
+        "y": "-34.596828"
+      },
+      "direccion": "CORDOBA AV. 4168, CABA",
+      "nombre_calle": "CORDOBA AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4168,
+          "cod_calle": 3165,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.425712",
+            "y": "-34.596828"
+          },
+          "direccion": "CORDOBA AV. 4168, CABA",
+          "nombre_calle": "CORDOBA AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 4168,
+          "cod_calle": 73781,
+          "cod_calle_cruce": null,
+          "cod_partido": "general_san_martin",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5495129666667,
+            "y": -34.5532948333333
+          },
+          "direccion": "63 - Córdoba 4168, General San Martín",
+          "nombre_calle": "63 - Córdoba",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Ballester",
+          "nombre_partido": "General San Martín",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 4168,
+          "cod_calle": 160883,
+          "cod_calle_cruce": null,
+          "cod_partido": "vicente_lopez",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5044495489796,
+            "y": -34.5559459142857
+          },
+          "direccion": "Córdoba 4168, Vicente López",
+          "nombre_calle": "Córdoba",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Martelli",
+          "nombre_partido": "Vicente López",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  103442.86097897321,
+                  103595.82102132321
+                ],
+                [
+                  103450.66997894783,
+                  103591.93502132644
+                ],
+                [
+                  103449.76998356332,
+                  103590.1245165949
+                ],
+                [
+                  103448.52997895188,
+                  103587.63002134042
+                ],
+                [
+                  103446.10385339503,
+                  103582.74961152664
+                ],
+                [
+                  103443.57939599297,
+                  103577.66947123801
+                ],
+                [
+                  103438.84221439707,
+                  103568.1388416884
+                ],
+                [
+                  103434.9979789669,
+                  103560.40502142638
+                ],
+                [
+                  103426.14397899497,
+                  103561.41602143113
+                ],
+                [
+                  103430.07697898854,
+                  103569.71102140573
+                ],
+                [
+                  103436.56097898139,
+                  103582.95302136333
+                ],
+                [
+                  103439.16897897719,
+                  103588.28102134619
+                ],
+                [
+                  103440.04897897596,
+                  103590.07702133962
+                ],
+                [
+                  103440.4879789766,
+                  103590.97402133667
+                ],
+                [
+                  103440.8209789767,
+                  103591.65402133515
+                ],
+                [
+                  103442.86097897321,
+                  103595.82102132321
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "031-094-036",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AV. CORDOBA 4168",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.4258165401112,
+      -34.597014858915806
+    ],
+    "direccion": "",
+    "fondo": "36.48",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "094",
+    "parcela": "036",
+    "pdamatriz": "420342",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "031",
+    "smp": "031-094-036",
+    "smp_anterior": "031-094-035",
+    "smp_siguiente": "031-094-037",
+    "srid": 4326,
+    "superficie_cubierta": "357.00",
+    "superficie_total": "316.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "031-094-036",
+  "_http_status": 200
+}

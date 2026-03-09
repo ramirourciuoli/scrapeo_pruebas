@@ -1,0 +1,378 @@
+{
+  "area_m2": 283.1985378265381,
+  "centroide_lonlat": {
+    "lat": -34.632501,
+    "lon": -58.505578
+  },
+  "centroide_xy": {
+    "x": 96123.21050404609,
+    "y": 99640.64568156787
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/76/091-072-031_0000204776.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION091/091-072-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION091/PI-091-072-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "091-072-038",
+            "091-072-030",
+            "091-072-032"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 100.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 283.109999999927,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 283.2,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "091-072-031"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Villa Luro",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1407",
+    "codigo_postal_argentino": "C1407FCQ",
+    "comisaria": "44",
+    "comisaria_vecinal": "10B",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "91"
+  },
+  "debug": {
+    "address": "MURATURE 5329",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.505577669187495,
+        -34.63250095691062
+      ],
+      "direccion": "",
+      "fondo": "32.21",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "072",
+      "parcela": "031",
+      "pdamatriz": "284829",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "091",
+      "smp": "091-072-031",
+      "smp_anterior": "091-072-030",
+      "smp_siguiente": "091-072-032",
+      "srid": 4326,
+      "superficie_cubierta": "181.00",
+      "superficie_total": "279.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 5329,
+      "cod_calle": 13143
+    },
+    "usig_direccion_elegida": {
+      "altura": 5329,
+      "cod_calle": 13143,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.505411",
+        "y": "-34.632624"
+      },
+      "direccion": "MURATURE 5329, CABA",
+      "nombre_calle": "MURATURE",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 5329,
+          "cod_calle": 13143,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.505411",
+            "y": "-34.632624"
+          },
+          "direccion": "MURATURE 5329, CABA",
+          "nombre_calle": "MURATURE",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 5329,
+          "cod_calle": 117573,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3366736125,
+            "y": -34.77908475
+          },
+          "direccion": "José Murature 5329, Almirante Brown",
+          "nombre_calle": "José Murature",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Rafael Calzada",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96116.57999655043,
+                  99652.64403789482
+                ],
+                [
+                  96122.08099653135,
+                  99647.6330379048
+                ],
+                [
+                  96123.27399652716,
+                  99646.5470379068
+                ],
+                [
+                  96127.80099651114,
+                  99642.42203791498
+                ],
+                [
+                  96131.15399649953,
+                  99639.3690379207
+                ],
+                [
+                  96133.33199649226,
+                  99637.38503792445
+                ],
+                [
+                  96134.46299648835,
+                  99636.354037927
+                ],
+                [
+                  96138.03099647586,
+                  99633.10403793346
+                ],
+                [
+                  96134.52899648239,
+                  99629.18403794713
+                ],
+                [
+                  96132.16799648655,
+                  99626.54203795636
+                ],
+                [
+                  96128.68699649902,
+                  99629.70803794937
+                ],
+                [
+                  96122.86299651932,
+                  99635.00603793928
+                ],
+                [
+                  96118.96699653319,
+                  99638.54903793187
+                ],
+                [
+                  96116.00599654339,
+                  99641.24103792728
+                ],
+                [
+                  96114.03099655065,
+                  99643.03903792321
+                ],
+                [
+                  96112.91199655368,
+                  99644.0560379212
+                ],
+                [
+                  96111.57099655924,
+                  99645.27603791858
+                ],
+                [
+                  96111.22599655982,
+                  99645.58903791805
+                ],
+                [
+                  96108.40199656962,
+                  99648.15803791303
+                ],
+                [
+                  96110.53399656569,
+                  99650.55903790524
+                ],
+                [
+                  96111.41599656417,
+                  99651.55203790157
+                ],
+                [
+                  96112.546996562,
+                  99652.82603789735
+                ],
+                [
+                  96114.26099655835,
+                  99654.75703789052
+                ],
+                [
+                  96116.43299655101,
+                  99652.7790378943
+                ],
+                [
+                  96116.57999655043,
+                  99652.64403789482
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "091-072-031",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MURATURE 5329",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.505577669187495,
+      -34.63250095691062
+    ],
+    "direccion": "",
+    "fondo": "32.21",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "072",
+    "parcela": "031",
+    "pdamatriz": "284829",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "091",
+    "smp": "091-072-031",
+    "smp_anterior": "091-072-030",
+    "smp_siguiente": "091-072-032",
+    "srid": 4326,
+    "superficie_cubierta": "181.00",
+    "superficie_total": "279.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "091-072-031",
+  "_http_status": 200
+}

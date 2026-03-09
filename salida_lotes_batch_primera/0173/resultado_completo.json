@@ -1,0 +1,427 @@
+{
+  "area_m2": 235.31939029693604,
+  "centroide_lonlat": {
+    "lat": -34.536693,
+    "lon": -58.466756
+  },
+  "centroide_xy": {
+    "x": 99682.70461485961,
+    "y": 110269.98867289565
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          38.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 45.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 4.15,
+          "fot_perim_libre": 4.15,
+          "fot_semi_libre": 4.15
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/94/029-105-024_0000222794.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION029/029-105-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION029/PI-029-105-V3.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "DI-2022-1405-GCABA-DGIUR",
+          "pdf": "029-105.pdf"
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "029-105-023",
+            "029-105-025",
+            "029-105-026a"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2a I",
+          "incidencia_uva": 500.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 235.333099999981,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 235.3,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          38.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "029-105-024"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Nuñez",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1429",
+    "codigo_postal_argentino": "C1429EEC",
+    "comisaria": "35",
+    "comisaria_vecinal": "13B",
+    "comuna": "Comuna 13",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   X",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "29"
+  },
+  "debug": {
+    "address": "PICO 1617",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.466756240326966,
+        -34.53669270414681
+      ],
+      "direccion": "",
+      "fondo": "24.12",
+      "frente": "9.70",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "105",
+      "parcela": "024",
+      "pdamatriz": "373475",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "4",
+      "propiedad_horizontal": "Si",
+      "seccion": "029",
+      "smp": "029-105-024",
+      "smp_anterior": "029-105-023",
+      "smp_siguiente": "029-105-025",
+      "srid": 4326,
+      "superficie_cubierta": "529.00",
+      "superficie_total": "234.00",
+      "unidades_funcionales": "9",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1617,
+      "cod_calle": 17074
+    },
+    "usig_direccion_elegida": {
+      "altura": 1617,
+      "cod_calle": 17074,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.466667",
+        "y": "-34.536813"
+      },
+      "direccion": "PICO 1617, CABA",
+      "nombre_calle": "PICO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1617,
+          "cod_calle": 17074,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.466667",
+            "y": "-34.536813"
+          },
+          "direccion": "PICO 1617, CABA",
+          "nombre_calle": "PICO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1617,
+          "cod_calle": 33096,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3642368142857,
+            "y": -34.7213085285714
+          },
+          "direccion": "General Pico 1617, Lanús",
+          "nombre_calle": "General Pico",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lanús Este",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1617,
+          "cod_calle": 77331,
+          "cod_calle_cruce": null,
+          "cod_partido": "malvinas_argentinas",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.667192022449,
+            "y": -34.499790644898
+          },
+          "direccion": "General Pico 1617, Malvinas Argentinas",
+          "nombre_calle": "General Pico",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ingeniero Adolfo Sourdeaux",
+          "nombre_partido": "Malvinas Argentinas",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99675.672994563,
+                  110272.08700543497
+                ],
+                [
+                  99673.95699456986,
+                  110274.7880054281
+                ],
+                [
+                  99673.18099457242,
+                  110276.01000542534
+                ],
+                [
+                  99671.8591254372,
+                  110278.09210747154
+                ],
+                [
+                  99675.97008734132,
+                  110280.24310843897
+                ],
+                [
+                  99676.40575530865,
+                  110280.47083988285
+                ],
+                [
+                  99680.28795744774,
+                  110282.50202883905
+                ],
+                [
+                  99686.23577236562,
+                  110273.4470361842
+                ],
+                [
+                  99686.62310244264,
+                  110272.85809868603
+                ],
+                [
+                  99687.69399452835,
+                  110271.22700542802
+                ],
+                [
+                  99689.87999451946,
+                  110267.89900543593
+                ],
+                [
+                  99689.95499451939,
+                  110267.78500543613
+                ],
+                [
+                  99690.90599451597,
+                  110266.33600543946
+                ],
+                [
+                  99691.39999451397,
+                  110265.58400544088
+                ],
+                [
+                  99691.59299451318,
+                  110265.29100544198
+                ],
+                [
+                  99693.49099450574,
+                  110262.40100544808
+                ],
+                [
+                  99690.88699451156,
+                  110260.8110054546
+                ],
+                [
+                  99685.08499452502,
+                  110257.26600546902
+                ],
+                [
+                  99684.76399452677,
+                  110257.77200546785
+                ],
+                [
+                  99684.01299452958,
+                  110258.95400546512
+                ],
+                [
+                  99683.36299453181,
+                  110259.9770054628
+                ],
+                [
+                  99683.17499453246,
+                  110260.2730054622
+                ],
+                [
+                  99682.40399453582,
+                  110261.48700545906
+                ],
+                [
+                  99681.14399454108,
+                  110263.47100545463
+                ],
+                [
+                  99680.8949945413,
+                  110263.86300545369
+                ],
+                [
+                  99680.66199454223,
+                  110264.23100545263
+                ],
+                [
+                  99680.12499454484,
+                  110265.07600545132
+                ],
+                [
+                  99679.80899454645,
+                  110265.5730054497
+                ],
+                [
+                  99677.71199455476,
+                  110268.87600544235
+                ],
+                [
+                  99677.64399455508,
+                  110268.9830054419
+                ],
+                [
+                  99677.17599455656,
+                  110269.72000543991
+                ],
+                [
+                  99675.78199456181,
+                  110271.91500543512
+                ],
+                [
+                  99675.672994563,
+                  110272.08700543497
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "029-105-024",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "PICO 1617",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.466756240326966,
+      -34.53669270414681
+    ],
+    "direccion": "",
+    "fondo": "24.12",
+    "frente": "9.70",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "105",
+    "parcela": "024",
+    "pdamatriz": "373475",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "4",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "029",
+    "smp": "029-105-024",
+    "smp_anterior": "029-105-023",
+    "smp_siguiente": "029-105-025",
+    "srid": 4326,
+    "superficie_cubierta": "529.00",
+    "superficie_total": "234.00",
+    "unidades_funcionales": "9",
+    "vuc": "0.00"
+  },
+  "smp": "029-105-024",
+  "_http_status": 200
+}

@@ -1,0 +1,393 @@
+{
+  "area_m2": 273.48410415649414,
+  "centroide_lonlat": {
+    "lat": -34.60467,
+    "lon": -58.413039
+  },
+  "centroide_xy": {
+    "x": 104610.40055923132,
+    "y": 102727.7424933588
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.0,
+          "fot_perim_libre": 3.0,
+          "fot_semi_libre": 3.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/1/27/013-050-014_0000158127.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION013/013-050-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION013/PI-013-050-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "013-050-020b",
+            "013-050-013",
+            "013-050-015",
+            "013-050-007b"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "E3",
+          "incidencia_uva": 120.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 195.914363974044,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 273.5,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "013-050-014"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. J.M. RAMOS MEJÍA",
+    "barrio": "Balvanera",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1172",
+    "codigo_postal_argentino": "C1172ABG",
+    "comisaria": "9",
+    "comisaria_vecinal": "3A",
+    "comuna": "Comuna 3",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   II",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "13"
+  },
+  "debug": {
+    "address": "GALLO 353",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.4130388385513,
+        -34.604670231644
+      ],
+      "direccion": "",
+      "fondo": "31.75",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "050",
+      "parcela": "014",
+      "pdamatriz": "191429",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "013",
+      "smp": "013-050-014",
+      "smp_anterior": "013-050-013",
+      "smp_siguiente": "013-050-015",
+      "srid": 4326,
+      "superficie_cubierta": "274.00",
+      "superficie_total": "275.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 353,
+      "cod_calle": 7018
+    },
+    "usig_direccion_elegida": {
+      "altura": 353,
+      "cod_calle": 7018,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.413247",
+        "y": "-34.604637"
+      },
+      "direccion": "GALLO 353, CABA",
+      "nombre_calle": "GALLO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 353,
+          "cod_calle": 7018,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.413247",
+            "y": "-34.604637"
+          },
+          "direccion": "GALLO 353, CABA",
+          "nombre_calle": "GALLO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 353,
+          "cod_calle": 31555,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.390842025,
+            "y": -34.75107039375
+          },
+          "direccion": "Gallo 353, Lomas de Zamora",
+          "nombre_calle": "Gallo",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Banfield",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 353,
+          "cod_calle": 354326,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.390842025,
+            "y": -34.75107039375
+          },
+          "direccion": "Gallo 353, Lomas de Zamora",
+          "nombre_calle": "Gallo",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lomas de Zamora",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 353,
+          "cod_calle": 271738,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6936042572993,
+            "y": -34.7043626963504
+          },
+          "direccion": "Gallo 353, Merlo",
+          "nombre_calle": "Gallo",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Libertad",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  104593.89597508946,
+                  102725.5150228958
+                ],
+                [
+                  104595.53197509122,
+                  102734.0670228707
+                ],
+                [
+                  104600.5009750773,
+                  102733.40502286926
+                ],
+                [
+                  104604.31697506589,
+                  102732.89702286743
+                ],
+                [
+                  104609.0169750524,
+                  102732.27102286549
+                ],
+                [
+                  104609.33197505189,
+                  102732.22902286594
+                ],
+                [
+                  104615.88197503268,
+                  102731.35702286303
+                ],
+                [
+                  104619.84797502113,
+                  102730.82802286139
+                ],
+                [
+                  104622.821975012,
+                  102730.43202286056
+                ],
+                [
+                  104627.06697500071,
+                  102729.86702285855
+                ],
+                [
+                  104626.46697500063,
+                  102727.00002286743
+                ],
+                [
+                  104626.4199749994,
+                  102726.78502286822
+                ],
+                [
+                  104625.2669749987,
+                  102721.4830228838
+                ],
+                [
+                  104616.8179750232,
+                  102722.56902288727
+                ],
+                [
+                  104616.59997502348,
+                  102722.59702288726
+                ],
+                [
+                  104614.64697502943,
+                  102722.84802288821
+                ],
+                [
+                  104614.44897503011,
+                  102722.87302288771
+                ],
+                [
+                  104607.96797504927,
+                  102723.70602289084
+                ],
+                [
+                  104599.06697507453,
+                  102724.85002289369
+                ],
+                [
+                  104593.89597508946,
+                  102725.5150228958
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "013-050-014",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "GALLO 353",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.4130388385513,
+      -34.604670231644
+    ],
+    "direccion": "",
+    "fondo": "31.75",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "050",
+    "parcela": "014",
+    "pdamatriz": "191429",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "013",
+    "smp": "013-050-014",
+    "smp_anterior": "013-050-013",
+    "smp_siguiente": "013-050-015",
+    "srid": 4326,
+    "superficie_cubierta": "274.00",
+    "superficie_total": "275.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "013-050-014",
+  "_http_status": 200
+}

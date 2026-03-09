@@ -1,0 +1,437 @@
+{
+  "area_m2": 367.92481422424316,
+  "centroide_lonlat": {
+    "lat": -34.613221,
+    "lon": -58.414564
+  },
+  "centroide_xy": {
+    "x": 104470.04162227265,
+    "y": 101779.21836964072
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/1/71/028-023-012_0000363171.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION028/028-023-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION028/PI-028-023-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "028-023-013",
+            "028-023-011"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 60.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 367.91585000003,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 367.9,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "028-023-012"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. J.M. RAMOS MEJÍA",
+    "barrio": "Almagro",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1208",
+    "codigo_postal_argentino": "C1208ABN",
+    "comisaria": "8",
+    "comisaria_vecinal": "5A",
+    "comuna": "Comuna 5",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "28"
+  },
+  "debug": {
+    "address": "AV. HIPOLITO YRIGOYEN 3400",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.41456399392659,
+        -34.61322104779869
+      ],
+      "direccion": "",
+      "fondo": "26.44",
+      "frente": "14.03",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "023",
+      "parcela": "012",
+      "pdamatriz": "194443",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "4",
+      "propiedad_horizontal": "Si",
+      "seccion": "028",
+      "smp": "028-023-012",
+      "smp_anterior": "028-023-011",
+      "smp_siguiente": "028-023-013",
+      "srid": 4326,
+      "superficie_cubierta": "1306.00",
+      "superficie_total": "371.00",
+      "unidades_funcionales": "17",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3400,
+      "cod_calle": 26005
+    },
+    "usig_direccion_elegida": {
+      "altura": 3400,
+      "cod_calle": 26005,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.414656",
+        "y": "-34.613076"
+      },
+      "direccion": "YRIGOYEN, HIPOLITO AV. 3400, CABA",
+      "nombre_calle": "YRIGOYEN, HIPOLITO AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3400,
+          "cod_calle": 26005,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.414656",
+            "y": "-34.613076"
+          },
+          "direccion": "YRIGOYEN, HIPOLITO AV. 3400, CABA",
+          "nombre_calle": "YRIGOYEN, HIPOLITO AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3400,
+          "cod_calle": 41208,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5672685,
+            "y": -34.6841875
+          },
+          "direccion": "Presidente Hipólito Yrigoyen 3400, La Matanza",
+          "nombre_calle": "Presidente Hipólito Yrigoyen",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Justo",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3400,
+          "cod_calle": 73602,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3906063,
+            "y": -34.694965
+          },
+          "direccion": "Avenida Hipólito Yrigoyen 3400, Lanús",
+          "nombre_calle": "Avenida Hipólito Yrigoyen",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lanús Oeste",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3400,
+          "cod_calle": 105077,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_fernando",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5739804,
+            "y": -34.4522538
+          },
+          "direccion": "Avenida Hipólito Yrigoyen 3400, San Fernando",
+          "nombre_calle": "Avenida Hipólito Yrigoyen",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Fernando",
+          "nombre_partido": "San Fernando",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3400,
+          "cod_calle": 293325,
+          "cod_calle_cruce": null,
+          "cod_partido": "tigre",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6733999,
+            "y": -34.4786545
+          },
+          "direccion": "Avenida Hipólito Yrigoyen 3400, Tigre",
+          "nombre_calle": "Avenida Hipólito Yrigoyen",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "El Talar",
+          "nombre_partido": "Tigre",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3400,
+          "cod_calle": 72935,
+          "cod_calle_cruce": null,
+          "cod_partido": "vicente_lopez",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5085527,
+            "y": -34.5323288
+          },
+          "direccion": "Presidente Hipólito Yrigoyen 3400, Vicente López",
+          "nombre_calle": "Presidente Hipólito Yrigoyen",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Florida Oeste",
+          "nombre_partido": "Vicente López",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  104475.50897471876,
+                  101792.12902560251
+                ],
+                [
+                  104477.41997470931,
+                  101786.2690256181
+                ],
+                [
+                  104478.13197470596,
+                  101784.08502562332
+                ],
+                [
+                  104478.45697470449,
+                  101783.08802562638
+                ],
+                [
+                  104480.73197469229,
+                  101776.11102564333
+                ],
+                [
+                  104481.2289746902,
+                  101774.58902564735
+                ],
+                [
+                  104481.39497468862,
+                  101774.08002564902
+                ],
+                [
+                  104482.09697468553,
+                  101771.92602565445
+                ],
+                [
+                  104480.41097469031,
+                  101771.61502565682
+                ],
+                [
+                  104478.8449746939,
+                  101771.32602565896
+                ],
+                [
+                  104477.86097469635,
+                  101771.14402566015
+                ],
+                [
+                  104476.30197470107,
+                  101770.85702566168
+                ],
+                [
+                  104473.69697470755,
+                  101770.37602566529
+                ],
+                [
+                  104470.0679747175,
+                  101769.70702567016
+                ],
+                [
+                  104467.84097472347,
+                  101769.29602567267
+                ],
+                [
+                  104466.36197472714,
+                  101769.02302567451
+                ],
+                [
+                  104466.11497472829,
+                  101768.97702567477
+                ],
+                [
+                  104461.7019747394,
+                  101768.16302568009
+                ],
+                [
+                  104459.3779747563,
+                  101781.91802564313
+                ],
+                [
+                  104462.37797475178,
+                  101787.12802562624
+                ],
+                [
+                  104465.1819747452,
+                  101788.19602562205
+                ],
+                [
+                  104467.51897473959,
+                  101789.08602561746
+                ],
+                [
+                  104475.50897471876,
+                  101792.12902560251
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "028-023-012",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AV. HIPOLITO YRIGOYEN 3400",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.41456399392659,
+      -34.61322104779869
+    ],
+    "direccion": "",
+    "fondo": "26.44",
+    "frente": "14.03",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "023",
+    "parcela": "012",
+    "pdamatriz": "194443",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "4",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "028",
+    "smp": "028-023-012",
+    "smp_anterior": "028-023-011",
+    "smp_siguiente": "028-023-013",
+    "srid": 4326,
+    "superficie_cubierta": "1306.00",
+    "superficie_total": "371.00",
+    "unidades_funcionales": "17",
+    "vuc": "0.00"
+  },
+  "smp": "028-023-012",
+  "_http_status": 200
+}

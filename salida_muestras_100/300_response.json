@@ -1,0 +1,378 @@
+{
+  "area_m2": 230.9383192062378,
+  "centroide_lonlat": {
+    "lat": -34.622934,
+    "lon": -58.50668
+  },
+  "centroide_xy": {
+    "x": 96021.66964954924,
+    "y": 100701.9476104227
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [
+          {
+            "estado_parcelario_constituido": "Si",
+            "fecha_de_constitucion": "4-8-2023",
+            "tipo_de_construccion": "Construido",
+            "vencimiento_de_construccion": "4-8-2029"
+          }
+        ],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 2.5,
+          "fot_perim_libre": 2.5,
+          "fot_semi_libre": 2.5
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/fp/SECCION085/FP-085-038A-025a-VD.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION085/085-038A-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION085/PI-085-038A-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "085-038A-018",
+            "085-038A-025b",
+            "085-038A-024",
+            "085-038A-011"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "AE 26",
+          "incidencia_uva": 150.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 188.932722432815,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 230.9,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "085-038A-025A"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Monte Castro",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1407",
+    "codigo_postal_argentino": "C1407CMD",
+    "comisaria": "43",
+    "comisaria_vecinal": "10A",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "85"
+  },
+  "debug": {
+    "address": "RENQUE CURA 1728",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.5066800208081,
+        -34.62293379580947
+      ],
+      "direccion": "RENQUE CURA 1728",
+      "fondo": "29.52",
+      "frente": "7.79",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "038A",
+      "parcela": "025A",
+      "pdamatriz": "282805",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "085",
+      "smp": "085-038A-025A",
+      "smp_anterior": "085-038A-024",
+      "smp_siguiente": "085-038A-025B",
+      "srid": 4326,
+      "superficie_cubierta": "189.00",
+      "superficie_total": "230.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1728,
+      "cod_calle": 19023
+    },
+    "usig_direccion_elegida": {
+      "altura": 1728,
+      "cod_calle": 19023,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.506553",
+        "y": "-34.622820"
+      },
+      "direccion": "RENQUE CURA 1728, CABA",
+      "nombre_calle": "RENQUE CURA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1728,
+          "cod_calle": 19023,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.506553",
+            "y": "-34.622820"
+          },
+          "direccion": "RENQUE CURA 1728, CABA",
+          "nombre_calle": "RENQUE CURA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96014.74499761534,
+                  100688.33403506497
+                ],
+                [
+                  96014.60199761597,
+                  100688.46403506462
+                ],
+                [
+                  96010.9909976285,
+                  100691.73603506084
+                ],
+                [
+                  96010.3469976311,
+                  100692.31903505922
+                ],
+                [
+                  96008.9079976351,
+                  100693.62303505419
+                ],
+                [
+                  96012.39899762864,
+                  100697.4960350433
+                ],
+                [
+                  96012.82499762825,
+                  100697.96903504105
+                ],
+                [
+                  96014.52799762513,
+                  100699.85803503438
+                ],
+                [
+                  96014.7219976247,
+                  100700.07303503301
+                ],
+                [
+                  96016.96399761908,
+                  100702.56003502468
+                ],
+                [
+                  96019.73099761416,
+                  100705.63003501532
+                ],
+                [
+                  96021.76799761024,
+                  100707.89003500566
+                ],
+                [
+                  96022.1809976101,
+                  100708.34803500611
+                ],
+                [
+                  96025.91599760196,
+                  100712.49203499165
+                ],
+                [
+                  96028.7149975963,
+                  100715.59703498069
+                ],
+                [
+                  96034.42299757671,
+                  100710.35503499125
+                ],
+                [
+                  96030.90999758353,
+                  100706.42403500434
+                ],
+                [
+                  96030.67599758379,
+                  100706.16103500495
+                ],
+                [
+                  96025.06599759537,
+                  100699.8840350261
+                ],
+                [
+                  96024.79099759563,
+                  100699.57603502774
+                ],
+                [
+                  96022.75799760057,
+                  100697.30103503578
+                ],
+                [
+                  96021.74299760195,
+                  100696.16503503887
+                ],
+                [
+                  96020.3399976049,
+                  100694.59503504483
+                ],
+                [
+                  96015.8779976123,
+                  100689.60103506313
+                ],
+                [
+                  96014.74499761534,
+                  100688.33403506497
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "085-038A-025A",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "RENQUE CURA 1728",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.5066800208081,
+      -34.62293379580947
+    ],
+    "direccion": "RENQUE CURA 1728",
+    "fondo": "29.52",
+    "frente": "7.79",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "038A",
+    "parcela": "025A",
+    "pdamatriz": "282805",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [
+      {
+        "altura": 1728,
+        "calle": "RENQUE CURA",
+        "codigo_calle": 19023,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "085",
+    "smp": "085-038A-025A",
+    "smp_anterior": "085-038A-024",
+    "smp_siguiente": "085-038A-025B",
+    "srid": 4326,
+    "superficie_cubierta": "189.00",
+    "superficie_total": "230.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "085-038A-025A"
+}

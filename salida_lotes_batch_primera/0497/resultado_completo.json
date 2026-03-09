@@ -1,0 +1,383 @@
+{
+  "area_m2": 358.0557632446289,
+  "centroide_lonlat": {
+    "lat": -34.573816,
+    "lon": -58.499143
+  },
+  "centroide_xy": {
+    "x": 96710.9856456831,
+    "y": 106151.09187007573
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.0,
+          "fot_perim_libre": 3.0,
+          "fot_semi_libre": 3.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/71/063-022-030_0000243671.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION063/063-022-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION063/PI-063-022-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "063-022-031",
+            "063-022-022",
+            "063-022-023",
+            "063-022-024",
+            "063-022-029"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "E3",
+          "incidencia_uva": 300.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 217.539412474827,
+        "sup_max_edificable": 1523.2,
+        "superficie_parcela": 358.1,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "063-022-030"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Villa Urquiza",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1431",
+    "codigo_postal_argentino": "C1431ERN",
+    "comisaria": "49",
+    "comisaria_vecinal": "12C",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "63"
+  },
+  "debug": {
+    "address": "AIZPURUA 3044",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.49914256575278,
+        -34.57381642726828
+      ],
+      "direccion": "",
+      "fondo": "40.87",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "022",
+      "parcela": "030",
+      "pdamatriz": "353407",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "063",
+      "smp": "063-022-030",
+      "smp_anterior": "063-022-029",
+      "smp_siguiente": "063-022-031",
+      "srid": 4326,
+      "superficie_cubierta": "287.00",
+      "superficie_total": "354.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3044,
+      "cod_calle": 1026
+    },
+    "usig_direccion_elegida": {
+      "altura": 3044,
+      "cod_calle": 1026,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.498916",
+        "y": "-34.573689"
+      },
+      "direccion": "AIZPURUA 3044, CABA",
+      "nombre_calle": "AIZPURUA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3044,
+          "cod_calle": 1026,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.498916",
+            "y": "-34.573689"
+          },
+          "direccion": "AIZPURUA 3044, CABA",
+          "nombre_calle": "AIZPURUA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96694.57299981144,
+                  106138.82701926935
+                ],
+                [
+                  96691.616999823,
+                  106143.45001925918
+                ],
+                [
+                  96695.10599981499,
+                  106145.77501925032
+                ],
+                [
+                  96709.4999997822,
+                  106155.37001921228
+                ],
+                [
+                  96710.28999978036,
+                  106155.89601920985
+                ],
+                [
+                  96711.16499977838,
+                  106156.47901920805
+                ],
+                [
+                  96712.61399977506,
+                  106157.44501920426
+                ],
+                [
+                  96720.49399975681,
+                  106162.69701918305
+                ],
+                [
+                  96720.8539997563,
+                  106162.93701918231
+                ],
+                [
+                  96721.07999975563,
+                  106163.08801918224
+                ],
+                [
+                  96721.49099975498,
+                  106163.36201918044
+                ],
+                [
+                  96721.81399975406,
+                  106163.57701917941
+                ],
+                [
+                  96723.6479997496,
+                  106164.80001917487
+                ],
+                [
+                  96725.53899974513,
+                  106166.06001916967
+                ],
+                [
+                  96730.44499972631,
+                  106158.81001918635
+                ],
+                [
+                  96728.51599973027,
+                  106157.52001919135
+                ],
+                [
+                  96727.53899973261,
+                  106156.88001919424
+                ],
+                [
+                  96727.43799973304,
+                  106156.80001919446
+                ],
+                [
+                  96726.45099973556,
+                  106156.14201919723
+                ],
+                [
+                  96726.16399973574,
+                  106155.95101919831
+                ],
+                [
+                  96718.57999975342,
+                  106150.89701921772
+                ],
+                [
+                  96717.9949997548,
+                  106150.50601921944
+                ],
+                [
+                  96716.00099975945,
+                  106149.17801922493
+                ],
+                [
+                  96714.25999976306,
+                  106148.01701922921
+                ],
+                [
+                  96710.64799977165,
+                  106145.61001923899
+                ],
+                [
+                  96703.5309997884,
+                  106140.86001925767
+                ],
+                [
+                  96701.45499979286,
+                  106139.4780192629
+                ],
+                [
+                  96699.8519997964,
+                  106138.41101926728
+                ],
+                [
+                  96696.33599980471,
+                  106136.07001927646
+                ],
+                [
+                  96694.57299981144,
+                  106138.82701926935
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "063-022-030",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AIZPURUA 3044",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.49914256575278,
+      -34.57381642726828
+    ],
+    "direccion": "",
+    "fondo": "40.87",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "022",
+    "parcela": "030",
+    "pdamatriz": "353407",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "063",
+    "smp": "063-022-030",
+    "smp_anterior": "063-022-029",
+    "smp_siguiente": "063-022-031",
+    "srid": 4326,
+    "superficie_cubierta": "287.00",
+    "superficie_total": "354.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "063-022-030",
+  "_http_status": 200
+}

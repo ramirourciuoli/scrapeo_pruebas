@@ -1,0 +1,379 @@
+{
+  "area_m2": 114.90534591674805,
+  "centroide_lonlat": {
+    "lat": -34.591985,
+    "lon": -58.418089
+  },
+  "centroide_xy": {
+    "x": 104147.81041745907,
+    "y": 104135.18598968822
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [
+          {
+            "estado_parcelario_constituido": "Si",
+            "fecha_de_constitucion": "25-9-2023",
+            "tipo_de_construccion": "Construido",
+            "vencimiento_de_construccion": "25-9-2029"
+          }
+        ],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/fp/SECCION019/FP-019-058-040-VD.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION019/019-058-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION019/PI-019-058-V3.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "019-058-003",
+            "019-058-039",
+            "019-058-002",
+            "019-058-001c"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 410.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 114.933800000024,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 114.9,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "019-058-040"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.A.FERNÁNDEZ",
+    "barrio": "Palermo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1177",
+    "codigo_postal_argentino": "C1177AFD",
+    "comisaria": "21",
+    "comisaria_vecinal": "14A",
+    "comuna": "Comuna 14",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   II",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "19"
+  },
+  "debug": {
+    "address": "JERONIMO SALGUERO 1576",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.418088726220866,
+        -34.591985193195875
+      ],
+      "direccion": "",
+      "fondo": "13.05",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "058",
+      "parcela": "040",
+      "pdamatriz": "424610",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "019",
+      "smp": "019-058-040",
+      "smp_anterior": "019-058-039",
+      "smp_siguiente": "019-058-001B",
+      "srid": 4326,
+      "superficie_cubierta": "116.00",
+      "superficie_total": "113.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1576,
+      "cod_calle": 20012
+    },
+    "usig_direccion_elegida": {
+      "altura": 1576,
+      "cod_calle": 20012,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.418002",
+        "y": "-34.591997"
+      },
+      "direccion": "SALGUERO, JERONIMO 1576, CABA",
+      "nombre_calle": "SALGUERO, JERONIMO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1576,
+          "cod_calle": 20012,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.418002",
+            "y": "-34.591997"
+          },
+          "direccion": "SALGUERO, JERONIMO 1576, CABA",
+          "nombre_calle": "SALGUERO, JERONIMO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1576,
+          "cod_calle": 9981,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5087341918367,
+            "y": -34.6713364102041
+          },
+          "direccion": "Jerónimo Salguero 1576, La Matanza",
+          "nombre_calle": "Jerónimo Salguero",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "La Tablada",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1576,
+          "cod_calle": 40093,
+          "cod_calle_cruce": null,
+          "cod_partido": "tres_de_febrero",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6189936632653,
+            "y": -34.5609471040816
+          },
+          "direccion": "971 - Jerónimo Salguero 1576, Tres de Febrero",
+          "nombre_calle": "971 - Jerónimo Salguero",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Churruca",
+          "nombre_partido": "Tres de Febrero",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  104151.40797739342,
+                  104137.74101926913
+                ],
+                [
+                  104154.37197738429,
+                  104135.84201927204
+                ],
+                [
+                  104154.60297738321,
+                  104135.69401927222
+                ],
+                [
+                  104153.7259773809,
+                  104129.79601928938
+                ],
+                [
+                  104153.3219773799,
+                  104127.07701929679
+                ],
+                [
+                  104151.09397738715,
+                  104128.5230192949
+                ],
+                [
+                  104148.99997739444,
+                  104129.88101929266
+                ],
+                [
+                  104147.93397739834,
+                  104130.57301929133
+                ],
+                [
+                  104146.13497740365,
+                  104131.74101928994
+                ],
+                [
+                  104139.78697742433,
+                  104135.85901928297
+                ],
+                [
+                  104141.69297742195,
+                  104139.2130192724
+                ],
+                [
+                  104142.83197742159,
+                  104141.21801926583
+                ],
+                [
+                  104143.2589774202,
+                  104141.96901926261
+                ],
+                [
+                  104143.67197741928,
+                  104142.69601926114
+                ],
+                [
+                  104146.08597741125,
+                  104141.15001926359
+                ],
+                [
+                  104147.3429774073,
+                  104140.34501926426
+                ],
+                [
+                  104147.51697740638,
+                  104140.2330192647
+                ],
+                [
+                  104148.40897740347,
+                  104139.66101926594
+                ],
+                [
+                  104151.40797739342,
+                  104137.74101926913
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "019-058-040",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "JERONIMO SALGUERO 1576",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.418088726220866,
+      -34.591985193195875
+    ],
+    "direccion": "",
+    "fondo": "13.05",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "058",
+    "parcela": "040",
+    "pdamatriz": "424610",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "019",
+    "smp": "019-058-040",
+    "smp_anterior": "019-058-039",
+    "smp_siguiente": "019-058-001B",
+    "srid": 4326,
+    "superficie_cubierta": "116.00",
+    "superficie_total": "113.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "019-058-040",
+  "_http_status": 200
+}

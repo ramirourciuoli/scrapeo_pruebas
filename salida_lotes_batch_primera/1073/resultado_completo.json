@@ -1,0 +1,347 @@
+{
+  "area_m2": 224.3497142791748,
+  "centroide_lonlat": {
+    "lat": -34.608503,
+    "lon": -58.493032
+  },
+  "centroide_xy": {
+    "x": 97272.80257063711,
+    "y": 102303.34925108409
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/50/081-133-003_0000120550.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION081/081-133-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION081/PI-081-133-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "081-133-002a",
+            "081-133-031",
+            "081-133-032a",
+            "081-133-004",
+            "081-133-000E"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 50.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 224.316149999873,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 224.3,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "081-133-003"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Villa Del Parque",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1417",
+    "codigo_postal_argentino": "C1417GFX",
+    "comisaria": "43",
+    "comisaria_vecinal": "11A",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "81"
+  },
+  "debug": {
+    "address": "SANTO TOME 3436",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.493032432854356,
+        -34.60850253756145
+      ],
+      "direccion": "",
+      "fondo": "25.87",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "133",
+      "parcela": "003",
+      "pdamatriz": "264167",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "081",
+      "smp": "081-133-003",
+      "smp_anterior": "081-133-002A",
+      "smp_siguiente": "081-133-004",
+      "srid": 4326,
+      "superficie_cubierta": "164.00",
+      "superficie_total": "224.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3436,
+      "cod_calle": 20068
+    },
+    "usig_direccion_elegida": {
+      "altura": 3436,
+      "cod_calle": 20068,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.493141",
+        "y": "-34.608374"
+      },
+      "direccion": "SANTO TOME 3436, CABA",
+      "nombre_calle": "SANTO TOME",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3436,
+          "cod_calle": 20068,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.493141",
+            "y": "-34.608374"
+          },
+          "direccion": "SANTO TOME 3436, CABA",
+          "nombre_calle": "SANTO TOME",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97279.53799528246,
+                  102301.47502959048
+                ],
+                [
+                  97281.23499527657,
+                  102299.17202959626
+                ],
+                [
+                  97282.73799527038,
+                  102297.13202960085
+                ],
+                [
+                  97284.0269952653,
+                  102295.38302960494
+                ],
+                [
+                  97279.63399527519,
+                  102292.32602961673
+                ],
+                [
+                  97276.85899528206,
+                  102290.39502962344
+                ],
+                [
+                  97275.9649952852,
+                  102291.62902962085
+                ],
+                [
+                  97273.90399529334,
+                  102294.47402961517
+                ],
+                [
+                  97272.52599529817,
+                  102296.37702961071
+                ],
+                [
+                  97270.26299530752,
+                  102299.50102960353
+                ],
+                [
+                  97266.17599532293,
+                  102305.14402959091
+                ],
+                [
+                  97262.53799533666,
+                  102310.1670295796
+                ],
+                [
+                  97262.35199533761,
+                  102310.42402957831
+                ],
+                [
+                  97261.60799534054,
+                  102311.45102957668
+                ],
+                [
+                  97265.87699533114,
+                  102314.44002956513
+                ],
+                [
+                  97268.58799532506,
+                  102316.33702955768
+                ],
+                [
+                  97273.198995307,
+                  102310.07902957141
+                ],
+                [
+                  97274.4109953027,
+                  102308.43302957536
+                ],
+                [
+                  97277.4849952909,
+                  102304.26102958448
+                ],
+                [
+                  97278.90599528559,
+                  102302.33302958851
+                ],
+                [
+                  97279.53799528246,
+                  102301.47502959048
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "081-133-003",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "SANTO TOME 3436",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.493032432854356,
+      -34.60850253756145
+    ],
+    "direccion": "",
+    "fondo": "25.87",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "133",
+    "parcela": "003",
+    "pdamatriz": "264167",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "081",
+    "smp": "081-133-003",
+    "smp_anterior": "081-133-002A",
+    "smp_siguiente": "081-133-004",
+    "srid": 4326,
+    "superficie_cubierta": "164.00",
+    "superficie_total": "224.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "081-133-003",
+  "_http_status": 200
+}

@@ -1,0 +1,312 @@
+{
+  "area_m2": 218.30422019958496,
+  "centroide_lonlat": {
+    "lat": -34.564879,
+    "lon": -58.473269
+  },
+  "centroide_xy": {
+    "x": 99085.1370775235,
+    "y": 107143.11055888285
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": "APH",
+          "denominacion": null,
+          "estado": "CPU/CUr",
+          "ley_3056": "NO",
+          "proteccion": "GENERAL"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "APH",
+            "distrito_especifico": "APH 48"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.0,
+          "fot_perim_libre": 1.0,
+          "fot_semi_libre": 1.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/42/041-013-012_0000226742.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION041/041-013-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION041/PI-041-013-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "041-013-011",
+            "041-013-013"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "APH 48",
+          "incidencia_uva": 300.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "Zona 2",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 218.3,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "041-013-012"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Coghlan",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1430",
+    "codigo_postal_argentino": "C1430BHA",
+    "comisaria": "37",
+    "comisaria_vecinal": "12C",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   X",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "41"
+  },
+  "debug": {
+    "address": "FRANKLIN D. ROOSEVELT 3683",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.47326879953468,
+        -34.564878957708345
+      ],
+      "direccion": "",
+      "fondo": "16.48",
+      "frente": "13.10",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "013",
+      "parcela": "012",
+      "pdamatriz": "327319",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "041",
+      "smp": "041-013-012",
+      "smp_anterior": "041-013-011",
+      "smp_siguiente": "041-013-013",
+      "srid": 4326,
+      "superficie_cubierta": "133.00",
+      "superficie_total": "216.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3683,
+      "cod_calle": 19083
+    },
+    "usig_direccion_elegida": {
+      "altura": 3683,
+      "cod_calle": 19083,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.473191",
+        "y": "-34.564956"
+      },
+      "direccion": "ROOSEVELT FRANKLIN D. 3683, CABA",
+      "nombre_calle": "ROOSEVELT FRANKLIN D.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3683,
+          "cod_calle": 19083,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.473191",
+            "y": "-34.564956"
+          },
+          "direccion": "ROOSEVELT FRANKLIN D. 3683, CABA",
+          "nombre_calle": "ROOSEVELT FRANKLIN D.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99082.59399387467,
+                  107149.07201463889
+                ],
+                [
+                  99083.80599387223,
+                  107149.95401463573
+                ],
+                [
+                  99084.23099387108,
+                  107150.26401463506
+                ],
+                [
+                  99088.15699386223,
+                  107153.1220146241
+                ],
+                [
+                  99088.8129938601,
+                  107152.24601462588
+                ],
+                [
+                  99089.40699385745,
+                  107151.45301462713
+                ],
+                [
+                  99093.31199384281,
+                  107146.23801463898
+                ],
+                [
+                  99095.95899383264,
+                  107142.70301464674
+                ],
+                [
+                  99085.22999385749,
+                  107134.85001467672
+                ],
+                [
+                  99079.28999387442,
+                  107135.83001467888
+                ],
+                [
+                  99077.55399388057,
+                  107138.20301467323
+                ],
+                [
+                  99074.11699389387,
+                  107142.9010146625
+                ],
+                [
+                  99082.59399387467,
+                  107149.07201463889
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "041-013-012",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "FRANKLIN D. ROOSEVELT 3683",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.47326879953468,
+      -34.564878957708345
+    ],
+    "direccion": "",
+    "fondo": "16.48",
+    "frente": "13.10",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "013",
+    "parcela": "012",
+    "pdamatriz": "327319",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "041",
+    "smp": "041-013-012",
+    "smp_anterior": "041-013-011",
+    "smp_siguiente": "041-013-013",
+    "srid": 4326,
+    "superficie_cubierta": "133.00",
+    "superficie_total": "216.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "041-013-012",
+  "_http_status": 200
+}

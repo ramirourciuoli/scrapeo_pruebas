@@ -1,0 +1,360 @@
+{
+  "area_m2": 288.1088180541992,
+  "centroide_lonlat": {
+    "lat": -34.637869,
+    "lon": -58.465333
+  },
+  "centroide_xy": {
+    "x": 99813.57594972131,
+    "y": 99045.95211565647
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/89/048-047-039_0000070089.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION048/048-047-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION048/PI-048-047-V3.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "048-047-040",
+            "048-047-003",
+            "048-047-038",
+            "048-047-004"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 288.206649999886,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 288.1,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "048-047-039"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. P. PIÑERO",
+    "barrio": "Flores",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1406",
+    "codigo_postal_argentino": "C1406ETG",
+    "comisaria": "38",
+    "comisaria_vecinal": "7A",
+    "comuna": "Comuna 7",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "48"
+  },
+  "debug": {
+    "address": "LAFUENTE 639",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.46533314794974,
+        -34.63786893826353
+      ],
+      "direccion": "LAFUENTE 639",
+      "fondo": "33.33",
+      "frente": "8.73",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "047",
+      "parcela": "039",
+      "pdamatriz": "145120",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "048",
+      "smp": "048-047-039",
+      "smp_anterior": "048-047-038",
+      "smp_siguiente": "048-047-040",
+      "srid": 4326,
+      "superficie_cubierta": "208.00",
+      "superficie_total": "291.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 639,
+      "cod_calle": 12023
+    },
+    "usig_direccion_elegida": {
+      "altura": 639,
+      "cod_calle": 12023,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.465124",
+        "y": "-34.637807"
+      },
+      "direccion": "LAFUENTE 639, CABA",
+      "nombre_calle": "LAFUENTE",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 639,
+          "cod_calle": 12023,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.465124",
+            "y": "-34.637807"
+          },
+          "direccion": "LAFUENTE 639, CABA",
+          "nombre_calle": "LAFUENTE",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 639,
+          "cod_calle": 39527,
+          "cod_calle_cruce": null,
+          "cod_partido": "avellaneda",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3730722755102,
+            "y": -34.6780935010204
+          },
+          "direccion": "Teniente Coronel Lafuente 639, Avellaneda",
+          "nombre_calle": "Teniente Coronel Lafuente",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Gerli",
+          "nombre_partido": "Avellaneda",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99828.06498569259,
+                  99055.15103677605
+                ],
+                [
+                  99830.98598567746,
+                  99047.04703679719
+                ],
+                [
+                  99826.14298569049,
+                  99045.48803680483
+                ],
+                [
+                  99825.27198569241,
+                  99045.2070368068
+                ],
+                [
+                  99814.18998572134,
+                  99041.63903682519
+                ],
+                [
+                  99810.79598572971,
+                  99040.54603683049
+                ],
+                [
+                  99808.66898573481,
+                  99039.86103683349
+                ],
+                [
+                  99806.58998574025,
+                  99039.19203683722
+                ],
+                [
+                  99800.1989857568,
+                  99037.1340368476
+                ],
+                [
+                  99799.04498575967,
+                  99036.76203684992
+                ],
+                [
+                  99797.21498576856,
+                  99041.8720368373
+                ],
+                [
+                  99796.15498577413,
+                  99044.83203682976
+                ],
+                [
+                  99804.17298575377,
+                  99047.42503681587
+                ],
+                [
+                  99811.96498573327,
+                  99049.94503680343
+                ],
+                [
+                  99812.29798573299,
+                  99050.05203680281
+                ],
+                [
+                  99821.3979857093,
+                  99052.99503678767
+                ],
+                [
+                  99826.41898569616,
+                  99054.61903677913
+                ],
+                [
+                  99828.06498569259,
+                  99055.15103677605
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "048-047-039",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "LAFUENTE 639",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.46533314794974,
+      -34.63786893826353
+    ],
+    "direccion": "LAFUENTE 639",
+    "fondo": "33.33",
+    "frente": "8.73",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "047",
+    "parcela": "039",
+    "pdamatriz": "145120",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [
+      {
+        "altura": 639,
+        "calle": "LAFUENTE",
+        "codigo_calle": 12023,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "048",
+    "smp": "048-047-039",
+    "smp_anterior": "048-047-038",
+    "smp_siguiente": "048-047-040",
+    "srid": 4326,
+    "superficie_cubierta": "208.00",
+    "superficie_total": "291.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "048-047-039"
+}

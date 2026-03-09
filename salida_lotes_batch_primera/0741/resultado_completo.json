@@ -1,0 +1,413 @@
+{
+  "area_m2": 840.0860214233398,
+  "centroide_lonlat": {
+    "lat": -34.589884,
+    "lon": -58.419322
+  },
+  "centroide_xy": {
+    "x": 104034.7723826943,
+    "y": 104368.29821169714
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [
+          {
+            "estado_parcelario_constituido": "Si",
+            "fecha_de_constitucion": "22-6-2023",
+            "tipo_de_construccion": "Construido",
+            "vencimiento_de_construccion": "22-6-2029"
+          }
+        ],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": "SINGULAR",
+          "denominacion": "Circulo Catolico de Obreros de Palermo",
+          "estado": "CATALOGO PREVENTIVO",
+          "ley_3056": "SI",
+          "proteccion": "CAUTELAR"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 4.13,
+          "fot_perim_libre": 4.13,
+          "fot_semi_libre": 4.13
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/fp/SECCION019/FP-019-102-011-VD.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION019/019-102-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION019/PI-019-102-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "019-102-010",
+            "019-102-031",
+            "019-102-012",
+            "019-102-023"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2a I",
+          "incidencia_uva": 500.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 840.1,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "019-102-011"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.A.FERNÁNDEZ",
+    "barrio": "Palermo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1425",
+    "codigo_postal_argentino": "C1425DHA",
+    "comisaria": "21",
+    "comisaria_vecinal": "14A",
+    "comuna": "Comuna 14",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   II",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "19"
+  },
+  "debug": {
+    "address": "JULIAN ALVAREZ 1965",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.41932195309764,
+        -34.58988431655368
+      ],
+      "direccion": "",
+      "fondo": "48.33",
+      "frente": "17.32",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "102",
+      "parcela": "011",
+      "pdamatriz": "424910",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "019",
+      "smp": "019-102-011",
+      "smp_anterior": "019-102-010",
+      "smp_siguiente": "019-102-012",
+      "srid": 4326,
+      "superficie_cubierta": "1065.00",
+      "superficie_total": "837.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1965,
+      "cod_calle": 1057
+    },
+    "usig_direccion_elegida": {
+      "altura": 1965,
+      "cod_calle": 1057,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.419495",
+        "y": "-34.589682"
+      },
+      "direccion": "ALVAREZ, JULIAN 1965, CABA",
+      "nombre_calle": "ALVAREZ, JULIAN",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1965,
+          "cod_calle": 1057,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.419495",
+            "y": "-34.589682"
+          },
+          "direccion": "ALVAREZ, JULIAN 1965, CABA",
+          "nombre_calle": "ALVAREZ, JULIAN",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  104051.32097784236,
+                  104360.41201871916
+                ],
+                [
+                  104053.48097783324,
+                  104357.40701872608
+                ],
+                [
+                  104054.49097782915,
+                  104356.00201873182
+                ],
+                [
+                  104054.34997782965,
+                  104355.90001873043
+                ],
+                [
+                  104051.74097783511,
+                  104352.42401874135
+                ],
+                [
+                  104049.4969778392,
+                  104349.43501875136
+                ],
+                [
+                  104048.57697784,
+                  104348.20801875557
+                ],
+                [
+                  104047.1379778433,
+                  104346.29101876257
+                ],
+                [
+                  104043.51697784953,
+                  104341.46701877884
+                ],
+                [
+                  104040.99297785904,
+                  104344.97801877081
+                ],
+                [
+                  104040.65197786035,
+                  104345.4520187692
+                ],
+                [
+                  104040.03997786295,
+                  104346.303018768
+                ],
+                [
+                  104038.23297786989,
+                  104348.8170187618
+                ],
+                [
+                  104036.8839778747,
+                  104350.70601875795
+                ],
+                [
+                  104034.56897788415,
+                  104353.94601875087
+                ],
+                [
+                  104032.42297789275,
+                  104356.95001874375
+                ],
+                [
+                  104031.66797789479,
+                  104358.00801874162
+                ],
+                [
+                  104030.5049778996,
+                  104359.63501873732
+                ],
+                [
+                  104029.11697790468,
+                  104361.57901873297
+                ],
+                [
+                  104026.89797791367,
+                  104364.68401872637
+                ],
+                [
+                  104026.57797791461,
+                  104365.13201872527
+                ],
+                [
+                  104024.6179779222,
+                  104367.87601871896
+                ],
+                [
+                  104023.84297792573,
+                  104368.96001871629
+                ],
+                [
+                  104022.32197793094,
+                  104371.08901871121
+                ],
+                [
+                  104021.61897793393,
+                  104372.0740187093
+                ],
+                [
+                  104021.01797793646,
+                  104372.9150187074
+                ],
+                [
+                  104020.70597793775,
+                  104373.35201870636
+                ],
+                [
+                  104018.32597794704,
+                  104376.68301869903
+                ],
+                [
+                  104013.74997796433,
+                  104383.089018684
+                ],
+                [
+                  104027.7739779328,
+                  104393.16901864525
+                ],
+                [
+                  104028.83991151943,
+                  104391.68616365085
+                ],
+                [
+                  104033.5985103382,
+                  104385.06632156402
+                ],
+                [
+                  104035.87995671833,
+                  104381.89252705671
+                ],
+                [
+                  104038.84866430846,
+                  104377.76266105834
+                ],
+                [
+                  104040.88788195522,
+                  104374.92583884744
+                ],
+                [
+                  104051.32097784236,
+                  104360.41201871916
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "019-102-011",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "JULIAN ALVAREZ 1965",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.41932195309764,
+      -34.58988431655368
+    ],
+    "direccion": "",
+    "fondo": "48.33",
+    "frente": "17.32",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "102",
+    "parcela": "011",
+    "pdamatriz": "424910",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "019",
+    "smp": "019-102-011",
+    "smp_anterior": "019-102-010",
+    "smp_siguiente": "019-102-012",
+    "srid": 4326,
+    "superficie_cubierta": "1065.00",
+    "superficie_total": "837.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "019-102-011",
+  "_http_status": 200
+}

@@ -1,0 +1,342 @@
+{
+  "area_m2": 147.84747695922852,
+  "centroide_lonlat": {
+    "lat": -34.649535,
+    "lon": -58.405932
+  },
+  "centroide_xy": {
+    "x": 105259.42733511556,
+    "y": 97750.25707132708
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [
+          {
+            "estado_parcelario_constituido": "Si",
+            "fecha_de_constitucion": "3-7-2023",
+            "tipo_de_construccion": "Construido",
+            "vencimiento_de_construccion": "3-7-2029"
+          }
+        ],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "E-CCA",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/fp/SECCION034/FP-034-093-017-VD.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION034/034-093-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/67/034-093_PI_00003467.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "DI-2022-2564-GCABA-DGIUR",
+          "pdf": "034-093.pdf"
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "034-093-030",
+            "034-093-029",
+            "034-093-018",
+            "034-093-016",
+            "034-093-031"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "R2b III",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 147.8,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "034-093-017"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.M. PENNA",
+    "barrio": "Nueva Pompeya",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1437",
+    "codigo_postal_argentino": "C1437IIA",
+    "comisaria": "32",
+    "comisaria_vecinal": "4B",
+    "comuna": "Comuna 4",
+    "distrito_economico": "DISTRITO TECNOLOGICO",
+    "distrito_escolar": "Distrito Escolar   V",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "34"
+  },
+  "debug": {
+    "address": "ISIDRO LOREA 3245",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.405932480807635,
+        -34.649535061631
+      ],
+      "direccion": "",
+      "fondo": "19.73",
+      "frente": "7.50",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "093",
+      "parcela": "017",
+      "pdamatriz": "106496",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "034",
+      "smp": "034-093-017",
+      "smp_anterior": "034-093-016",
+      "smp_siguiente": "034-093-018",
+      "srid": 4326,
+      "superficie_cubierta": "187.00",
+      "superficie_total": "148.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3245,
+      "cod_calle": 99476
+    },
+    "usig_direccion_elegida": {
+      "altura": 3245,
+      "cod_calle": 99476,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.406212",
+        "y": "-34.649664"
+      },
+      "direccion": "LOREA, ISIDRO AV. 3245, CABA",
+      "nombre_calle": "LOREA, ISIDRO AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3245,
+          "cod_calle": 99476,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.406212",
+            "y": "-34.649664"
+          },
+          "direccion": "LOREA, ISIDRO AV. 3245, CABA",
+          "nombre_calle": "LOREA, ISIDRO AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  105250.36896949899,
+                  97744.30203637044
+                ],
+                [
+                  105254.54296949145,
+                  97749.83203635266
+                ],
+                [
+                  105258.76296948458,
+                  97755.42203633333
+                ],
+                [
+                  105258.96396948301,
+                  97755.68903633335
+                ],
+                [
+                  105259.19696948296,
+                  97755.99803633135
+                ],
+                [
+                  105259.68696948225,
+                  97756.64803632905
+                ],
+                [
+                  105261.02196948012,
+                  97758.41803632322
+                ],
+                [
+                  105263.01596947582,
+                  97761.05903631577
+                ],
+                [
+                  105264.26696947156,
+                  97759.589036319
+                ],
+                [
+                  105264.93196946938,
+                  97758.80703631946
+                ],
+                [
+                  105265.56696946674,
+                  97758.06103632017
+                ],
+                [
+                  105267.94796945793,
+                  97755.26303632683
+                ],
+                [
+                  105265.47896946302,
+                  97751.999036338
+                ],
+                [
+                  105261.64996947048,
+                  97746.94003635569
+                ],
+                [
+                  105260.67596947102,
+                  97745.6520363609
+                ],
+                [
+                  105260.2619694729,
+                  97745.10503636277
+                ],
+                [
+                  105256.55996947802,
+                  97740.21203637807
+                ],
+                [
+                  105250.36896949899,
+                  97744.30203637044
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "034-093-017",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ISIDRO LOREA 3245",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.405932480807635,
+      -34.649535061631
+    ],
+    "direccion": "",
+    "fondo": "19.73",
+    "frente": "7.50",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "093",
+    "parcela": "017",
+    "pdamatriz": "106496",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "034",
+    "smp": "034-093-017",
+    "smp_anterior": "034-093-016",
+    "smp_siguiente": "034-093-018",
+    "srid": 4326,
+    "superficie_cubierta": "187.00",
+    "superficie_total": "148.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "034-093-017",
+  "_http_status": 200
+}

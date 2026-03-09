@@ -1,0 +1,434 @@
+{
+  "area_m2": 190.80294227600098,
+  "centroide_lonlat": {
+    "lat": -34.568647,
+    "lon": -58.456154
+  },
+  "centroide_xy": {
+    "x": 100655.82322683065,
+    "y": 106725.17187202914
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.42,
+          "fot_perim_libre": 3.42,
+          "fot_semi_libre": 3.42
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/01/037-122-008_0000093701.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION037/037-122-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION037/PI-037-122-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "037-122-009",
+            "037-122-006",
+            "037-122-007",
+            "037-122-005"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2a II",
+          "incidencia_uva": 460.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 165.477230150152,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 190.8,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "037-122-008"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Colegiales",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1426",
+    "codigo_postal_argentino": "C1426AMC",
+    "comisaria": "33",
+    "comisaria_vecinal": "13C",
+    "comuna": "Comuna 13",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   IX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "37"
+  },
+  "debug": {
+    "address": "VIDAL 1575",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.4561534970922,
+        -34.568646565266135
+      ],
+      "direccion": "",
+      "fondo": "21.97",
+      "frente": "8.60",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "122",
+      "parcela": "008",
+      "pdamatriz": "410476",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "037",
+      "smp": "037-122-008",
+      "smp_anterior": "037-122-007",
+      "smp_siguiente": "037-122-009",
+      "srid": 4326,
+      "superficie_cubierta": "133.00",
+      "superficie_total": "189.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1575,
+      "cod_calle": 23049
+    },
+    "usig_direccion_elegida": {
+      "altura": 1575,
+      "cod_calle": 23049,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.456229",
+        "y": "-34.568737"
+      },
+      "direccion": "VIDAL 1575, CABA",
+      "nombre_calle": "VIDAL",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1575,
+          "cod_calle": 23049,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.456229",
+            "y": "-34.568737"
+          },
+          "direccion": "VIDAL 1575, CABA",
+          "nombre_calle": "VIDAL",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1575,
+          "cod_calle": 23050,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.529883",
+            "y": "-34.620086"
+          },
+          "direccion": "VIDAL EMERIC E. 1575, CABA",
+          "nombre_calle": "VIDAL EMERIC E.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1575,
+          "cod_calle": 45293,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4050286244898,
+            "y": -34.8234262306122
+          },
+          "direccion": "Francisco Vidal 1575, Almirante Brown",
+          "nombre_calle": "Francisco Vidal",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Burzaco",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1575,
+          "cod_calle": 186622,
+          "cod_calle_cruce": null,
+          "cod_partido": "ituzaingo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6736180816122,
+            "y": -34.6165456661749
+          },
+          "direccion": "De La Vidalita 1575, Ituzaingó",
+          "nombre_calle": "De La Vidalita",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Udaondo",
+          "nombre_partido": "Ituzaingó",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1575,
+          "cod_calle": 199820,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5936181010204,
+            "y": -34.7215215418367
+          },
+          "direccion": "Celestino Vidal 1575, La Matanza",
+          "nombre_calle": "Celestino Vidal",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Isidro Casanova",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  100654.49998915252,
+                  106731.39401462764
+                ],
+                [
+                  100655.72598915017,
+                  106733.12001462167
+                ],
+                [
+                  100656.32398914933,
+                  106733.96301461919
+                ],
+                [
+                  100657.8549891471,
+                  106736.1210146118
+                ],
+                [
+                  100659.48398914144,
+                  106735.02901461345
+                ],
+                [
+                  100660.65998913751,
+                  106734.24001461492
+                ],
+                [
+                  100662.37198913214,
+                  106733.09201461682
+                ],
+                [
+                  100662.80998912986,
+                  106732.79801461755
+                ],
+                [
+                  100663.35698912831,
+                  106732.43201461775
+                ],
+                [
+                  100663.63998912719,
+                  106732.24201461769
+                ],
+                [
+                  100665.57398912113,
+                  106730.94501462058
+                ],
+                [
+                  100661.57598912838,
+                  106725.2460146395
+                ],
+                [
+                  100656.75598913645,
+                  106718.37501466213
+                ],
+                [
+                  100653.8029891418,
+                  106714.16501467625
+                ],
+                [
+                  100646.08898916686,
+                  106719.53601466728
+                ],
+                [
+                  100647.2209891651,
+                  106721.13101466163
+                ],
+                [
+                  100647.294989165,
+                  106721.2360146608
+                ],
+                [
+                  100648.22098916337,
+                  106722.5410146571
+                ],
+                [
+                  100648.29498916327,
+                  106722.64601465623
+                ],
+                [
+                  100648.46798916336,
+                  106722.8900146554
+                ],
+                [
+                  100649.08298916157,
+                  106723.7580146532
+                ],
+                [
+                  100650.43398915997,
+                  106725.66301464615
+                ],
+                [
+                  100651.47598915758,
+                  106727.1310146416
+                ],
+                [
+                  100652.42398915577,
+                  106728.46801463742
+                ],
+                [
+                  100653.93698915339,
+                  106730.60101462976
+                ],
+                [
+                  100654.49998915252,
+                  106731.39401462764
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "037-122-008",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "VIDAL 1575",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.4561534970922,
+      -34.568646565266135
+    ],
+    "direccion": "",
+    "fondo": "21.97",
+    "frente": "8.60",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "122",
+    "parcela": "008",
+    "pdamatriz": "410476",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "037",
+    "smp": "037-122-008",
+    "smp_anterior": "037-122-007",
+    "smp_siguiente": "037-122-009",
+    "srid": 4326,
+    "superficie_cubierta": "133.00",
+    "superficie_total": "189.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "037-122-008",
+  "_http_status": 200
+}

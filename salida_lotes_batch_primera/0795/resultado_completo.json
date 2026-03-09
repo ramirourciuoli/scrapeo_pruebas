@@ -1,0 +1,358 @@
+{
+  "area_m2": 248.80919647216797,
+  "centroide_lonlat": {
+    "lat": -34.557487,
+    "lon": -58.487477
+  },
+  "centroide_xy": {
+    "x": 97781.00627694842,
+    "y": 107962.86458412133
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/8/47/055-178-021_0000239847.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION055/055-178-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION055/PI-055-178-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "055-178-020",
+            "055-178-022",
+            "055-178-026",
+            "055-178-025"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 390.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 243.264829732081,
+        "sup_max_edificable": 1191.9,
+        "superficie_parcela": 248.8,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "055-178-021"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Saavedra",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1430",
+    "codigo_postal_argentino": "C1430AHE",
+    "comisaria": "49",
+    "comisaria_vecinal": "12A",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "55"
+  },
+  "debug": {
+    "address": "JARAMILLO 4425",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.487477117400786,
+        -34.55748747742614
+      ],
+      "direccion": "",
+      "fondo": "29.05",
+      "frente": "8.64",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "178",
+      "parcela": "021",
+      "pdamatriz": "356711",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "055",
+      "smp": "055-178-021",
+      "smp_anterior": "055-178-020",
+      "smp_siguiente": "055-178-022",
+      "srid": 4326,
+      "superficie_cubierta": "162.00",
+      "superficie_total": "251.00",
+      "unidades_funcionales": "2",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4425,
+      "cod_calle": 10005
+    },
+    "usig_direccion_elegida": {
+      "altura": 4425,
+      "cod_calle": 10005,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.487375",
+        "y": "-34.557633"
+      },
+      "direccion": "JARAMILLO 4425, CABA",
+      "nombre_calle": "JARAMILLO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4425,
+          "cod_calle": 10005,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.487375",
+            "y": "-34.557633"
+          },
+          "direccion": "JARAMILLO 4425, CABA",
+          "nombre_calle": "JARAMILLO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97778.61699815356,
+                  107975.44801330307
+                ],
+                [
+                  97778.7079981532,
+                  107975.29201330396
+                ],
+                [
+                  97778.81899815325,
+                  107975.10201330399
+                ],
+                [
+                  97781.7909981412,
+                  107970.02101331577
+                ],
+                [
+                  97782.35899813882,
+                  107969.05001331816
+                ],
+                [
+                  97783.03499813603,
+                  107967.89301332124
+                ],
+                [
+                  97784.0599981313,
+                  107966.14001332485
+                ],
+                [
+                  97785.62599812543,
+                  107963.46301333202
+                ],
+                [
+                  97787.22299811899,
+                  107960.73201333787
+                ],
+                [
+                  97789.14099811076,
+                  107957.45201334535
+                ],
+                [
+                  97789.57399810913,
+                  107956.7120133478
+                ],
+                [
+                  97791.98399809946,
+                  107952.59001335711
+                ],
+                [
+                  97784.37799811688,
+                  107948.20201337489
+                ],
+                [
+                  97781.5149981288,
+                  107953.25701336353
+                ],
+                [
+                  97780.7259981322,
+                  107954.65001336031
+                ],
+                [
+                  97775.47999815454,
+                  107963.91301333765
+                ],
+                [
+                  97774.59099815774,
+                  107965.48301333419
+                ],
+                [
+                  97773.41599816282,
+                  107967.55701332932
+                ],
+                [
+                  97771.50299817006,
+                  107970.93501332082
+                ],
+                [
+                  97771.30599817118,
+                  107971.28301332024
+                ],
+                [
+                  97770.09899817673,
+                  107973.41401331525
+                ],
+                [
+                  97772.36299817087,
+                  107974.73701330967
+                ],
+                [
+                  97777.33399815903,
+                  107977.64201329803
+                ],
+                [
+                  97778.61699815356,
+                  107975.44801330307
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "055-178-021",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "JARAMILLO 4425",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.487477117400786,
+      -34.55748747742614
+    ],
+    "direccion": "",
+    "fondo": "29.05",
+    "frente": "8.64",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "178",
+    "parcela": "021",
+    "pdamatriz": "356711",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "055",
+    "smp": "055-178-021",
+    "smp_anterior": "055-178-020",
+    "smp_siguiente": "055-178-022",
+    "srid": 4326,
+    "superficie_cubierta": "162.00",
+    "superficie_total": "251.00",
+    "unidades_funcionales": "2",
+    "vuc": "0.00"
+  },
+  "smp": "055-178-021",
+  "_http_status": 200
+}

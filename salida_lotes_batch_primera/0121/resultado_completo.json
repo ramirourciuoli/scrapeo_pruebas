@@ -1,0 +1,338 @@
+{
+  "area_m2": 193.92621421813965,
+  "centroide_lonlat": {
+    "lat": -34.598582,
+    "lon": -58.478066
+  },
+  "centroide_xy": {
+    "x": 98645.41218815799,
+    "y": 103404.16836042854
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 2.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/33/061-007-007_0000137033.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION061/061-007-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION061/PI-061-007-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "061-007-010",
+            "061-007-008a",
+            "061-007-009",
+            "061-007-006"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "E2",
+          "incidencia_uva": 110.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 1686.0,
+          "plusvalia_sl": 1686.0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 191.590866849692,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 193.9,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "061-007-007"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. E. TORNÚ",
+    "barrio": "Paternal",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1427",
+    "codigo_postal_argentino": "C1427DWF",
+    "comisaria": "41",
+    "comisaria_vecinal": "15A",
+    "comuna": "Comuna 15",
+    "distrito_economico": "DISTRITO AUDIOVISUAL",
+    "distrito_escolar": "Distrito Escolar   XIV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "61"
+  },
+  "debug": {
+    "address": "ESPINOSA 3186",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.478066222326724,
+        -34.598582240456956
+      ],
+      "direccion": "",
+      "fondo": "21.59",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "007",
+      "parcela": "007",
+      "pdamatriz": "242934",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "061",
+      "smp": "061-007-007",
+      "smp_anterior": "061-007-006",
+      "smp_siguiente": "061-007-008A",
+      "srid": 4326,
+      "superficie_cubierta": "194.00",
+      "superficie_total": "187.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3186,
+      "cod_calle": 5079
+    },
+    "usig_direccion_elegida": {
+      "altura": 3186,
+      "cod_calle": 5079,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.478187",
+        "y": "-34.598374"
+      },
+      "direccion": "ESPINOSA 3186, CABA",
+      "nombre_calle": "ESPINOSA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3186,
+          "cod_calle": 5079,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.478187",
+            "y": "-34.598374"
+          },
+          "direccion": "ESPINOSA 3186, CABA",
+          "nombre_calle": "ESPINOSA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98644.28999229425,
+                  103415.79102543884
+                ],
+                [
+                  98652.89399226879,
+                  103413.63202543836
+                ],
+                [
+                  98652.54299226818,
+                  103412.48502544197
+                ],
+                [
+                  98651.81299226891,
+                  103410.09502544871
+                ],
+                [
+                  98650.94299226912,
+                  103407.25502545745
+                ],
+                [
+                  98650.7379922691,
+                  103406.58502545956
+                ],
+                [
+                  98650.52899226936,
+                  103405.90102546124
+                ],
+                [
+                  98649.77099226924,
+                  103403.42402546882
+                ],
+                [
+                  98649.62499226956,
+                  103402.94702547026
+                ],
+                [
+                  98648.74799226956,
+                  103400.08102547957
+                ],
+                [
+                  98646.42199227093,
+                  103392.47702550236
+                ],
+                [
+                  98642.69299228184,
+                  103393.43302550269
+                ],
+                [
+                  98637.99499229607,
+                  103394.63902550313
+                ],
+                [
+                  98639.74199229508,
+                  103400.51002548466
+                ],
+                [
+                  98640.49099229566,
+                  103403.02502547766
+                ],
+                [
+                  98641.23899229516,
+                  103405.5380254694
+                ],
+                [
+                  98642.262992295,
+                  103408.98002545969
+                ],
+                [
+                  98642.4629922952,
+                  103409.65102545681
+                ],
+                [
+                  98644.28999229425,
+                  103415.79102543884
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "061-007-007",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ESPINOSA 3186",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.478066222326724,
+      -34.598582240456956
+    ],
+    "direccion": "",
+    "fondo": "21.59",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "007",
+    "parcela": "007",
+    "pdamatriz": "242934",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "061",
+    "smp": "061-007-007",
+    "smp_anterior": "061-007-006",
+    "smp_siguiente": "061-007-008A",
+    "srid": 4326,
+    "superficie_cubierta": "194.00",
+    "superficie_total": "187.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "061-007-007",
+  "_http_status": 200
+}

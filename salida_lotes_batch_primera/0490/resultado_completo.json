@@ -1,0 +1,418 @@
+{
+  "area_m2": 673.0845613479614,
+  "centroide_lonlat": {
+    "lat": -34.548444,
+    "lon": -58.443853
+  },
+  "centroide_xy": {
+    "x": 101785.02451344124,
+    "y": 108966.169379469
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/9/10/027-131-027a_0000217910.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION027/027-131-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION027/PI-027-131-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "027-131-020a",
+            "027-131-007c",
+            "027-131-007d",
+            "027-131-007b",
+            "027-131-024"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 470.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 394.860731930982,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 673.1,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "027-131-027A"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Belgrano",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1428",
+    "codigo_postal_argentino": "C1428BKC",
+    "comisaria": "51",
+    "comisaria_vecinal": "13A",
+    "comuna": "Comuna 13",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   X",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "27"
+  },
+  "debug": {
+    "address": "MONROE 847",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.44385331261873,
+        -34.54844423801446
+      ],
+      "direccion": "",
+      "manzana": "131",
+      "parcela": "027A",
+      "seccion": "027",
+      "smp": "027-131-027A",
+      "smp_anterior": "027-131-025B",
+      "smp_siguiente": "027-131-001D",
+      "srid": 4326
+    },
+    "usig_cod_calle_altura": {
+      "altura": 847,
+      "cod_calle": 4111
+    },
+    "usig_direccion_elegida": {
+      "altura": 847,
+      "cod_calle": 4111,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.443713",
+        "y": "-34.548609"
+      },
+      "direccion": "MONROE 847, CABA",
+      "nombre_calle": "MONROE",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 847,
+          "cod_calle": 4111,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.443713",
+            "y": "-34.548609"
+          },
+          "direccion": "MONROE 847, CABA",
+          "nombre_calle": "MONROE",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 847,
+          "cod_calle": 128792,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3964201336735,
+            "y": -34.9020845836735
+          },
+          "direccion": "Monroe 847, Almirante Brown",
+          "nombre_calle": "Monroe",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Glew",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 847,
+          "cod_calle": 7044,
+          "cod_calle_cruce": null,
+          "cod_partido": "ituzaingo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6769711091837,
+            "y": -34.6410889173469
+          },
+          "direccion": "Monroe 847, Ituzaingó",
+          "nombre_calle": "Monroe",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ituzaingó",
+          "nombre_partido": "Ituzaingó",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 847,
+          "cod_calle": 69071,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_isidro",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5607525875,
+            "y": -34.4886897875
+          },
+          "direccion": "Monroe 847, San Isidro",
+          "nombre_calle": "Monroe",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Boulogne Sur Mer",
+          "nombre_partido": "San Isidro",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  101803.33298760418,
+                  108955.08000752659
+                ],
+                [
+                  101789.50798763623,
+                  108945.18200756473
+                ],
+                [
+                  101787.01998764496,
+                  108948.5830075567
+                ],
+                [
+                  101786.85098764584,
+                  108948.8140075568
+                ],
+                [
+                  101782.65098766172,
+                  108954.55400754316
+                ],
+                [
+                  101781.519987666,
+                  108956.0990075405
+                ],
+                [
+                  101780.84098766907,
+                  108957.0270075378
+                ],
+                [
+                  101777.94698767987,
+                  108960.98200752895
+                ],
+                [
+                  101777.2689876831,
+                  108961.91000752719
+                ],
+                [
+                  101773.96298769588,
+                  108966.42900751639
+                ],
+                [
+                  101773.4099876977,
+                  108967.18400751546
+                ],
+                [
+                  101771.89598770309,
+                  108969.25400751017
+                ],
+                [
+                  101770.37798770875,
+                  108971.32800750557
+                ],
+                [
+                  101769.12198771446,
+                  108973.04500750182
+                ],
+                [
+                  101767.80398771857,
+                  108974.8460074978
+                ],
+                [
+                  101770.5549877136,
+                  108978.25600748628
+                ],
+                [
+                  101772.35998771086,
+                  108980.49200747823
+                ],
+                [
+                  101776.21898770286,
+                  108985.27500746265
+                ],
+                [
+                  101779.10898769804,
+                  108988.85700744996
+                ],
+                [
+                  101781.22198768979,
+                  108985.91100745703
+                ],
+                [
+                  101788.48798766162,
+                  108975.77900747981
+                ],
+                [
+                  101789.92898765573,
+                  108973.77000748384
+                ],
+                [
+                  101791.44398765048,
+                  108971.65700748871
+                ],
+                [
+                  101792.56598764566,
+                  108970.09300749289
+                ],
+                [
+                  101792.98998764463,
+                  108969.50200749424
+                ],
+                [
+                  101793.25898764298,
+                  108969.1260074949
+                ],
+                [
+                  101794.92798763725,
+                  108966.80000749984
+                ],
+                [
+                  101795.47398763521,
+                  108966.03800750143
+                ],
+                [
+                  101797.07998762872,
+                  108963.79900750649
+                ],
+                [
+                  101800.89498761346,
+                  108958.47900751917
+                ],
+                [
+                  101801.30298761267,
+                  108957.91000752032
+                ],
+                [
+                  101803.33298760418,
+                  108955.08000752659
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "027-131-027A",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MONROE 847",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.44385331261873,
+      -34.54844423801446
+    ],
+    "direccion": "",
+    "manzana": "131",
+    "parcela": "027A",
+    "puertas": [],
+    "seccion": "027",
+    "smp": "027-131-027A",
+    "smp_anterior": "027-131-025B",
+    "smp_siguiente": "027-131-001D",
+    "srid": 4326
+  },
+  "smp": "027-131-027A",
+  "_http_status": 200
+}

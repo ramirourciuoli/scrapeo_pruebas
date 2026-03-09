@@ -1,0 +1,380 @@
+{
+  "area_m2": 201.00340366363525,
+  "centroide_lonlat": {
+    "lat": -34.634532,
+    "lon": -58.370927
+  },
+  "centroide_xy": {
+    "x": 108470.21196075385,
+    "y": 99412.24465258284
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/9/62/008-047-013_0000453962.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION008/008-047-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION008/PI-008-047-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "008-047-012",
+            "008-047-014"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 240.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 200.955900000059,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 201.0,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "008-047-013"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C. ARGERICH",
+    "barrio": "Barracas",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1267",
+    "codigo_postal_argentino": "C1267ACH",
+    "comisaria": "14",
+    "comisaria_vecinal": "4D",
+    "comuna": "Comuna 4",
+    "distrito_economico": "DISTRITO DE LAS ARTES",
+    "distrito_escolar": "Distrito Escolar   IV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "08"
+  },
+  "debug": {
+    "address": "RUY DIAZ DE GUZMAN 396",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.370927299381435,
+        -34.63453214866265
+      ],
+      "direccion": "",
+      "fondo": "15.40",
+      "frente": "12.99",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "047",
+      "parcela": "013",
+      "pdamatriz": "118290",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "9",
+      "propiedad_horizontal": "Si",
+      "seccion": "008",
+      "smp": "008-047-013",
+      "smp_anterior": "008-047-012",
+      "smp_siguiente": "008-047-014",
+      "srid": 4326,
+      "superficie_cubierta": "1697.00",
+      "superficie_total": "200.00",
+      "unidades_funcionales": "23",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 396,
+      "cod_calle": 19098
+    },
+    "usig_direccion_elegida": {
+      "altura": 396,
+      "cod_calle": 19098,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.371053",
+        "y": "-34.634542"
+      },
+      "direccion": "RUY DIAZ DE GUZMAN 396, CABA",
+      "nombre_calle": "RUY DIAZ DE GUZMAN",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 396,
+          "cod_calle": 19098,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.371053",
+            "y": "-34.634542"
+          },
+          "direccion": "RUY DIAZ DE GUZMAN 396, CABA",
+          "nombre_calle": "RUY DIAZ DE GUZMAN",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  108477.49196170951,
+                  99419.05002924523
+                ],
+                [
+                  108477.61996170905,
+                  99418.25902924719
+                ],
+                [
+                  108477.82996170744,
+                  99416.96302925149
+                ],
+                [
+                  108478.06396170586,
+                  99415.51402925537
+                ],
+                [
+                  108478.90996169948,
+                  99410.29102926911
+                ],
+                [
+                  108479.06696169791,
+                  99409.32002927188
+                ],
+                [
+                  108479.37796169538,
+                  99407.40102927628
+                ],
+                [
+                  108478.39396169878,
+                  99407.22502927759
+                ],
+                [
+                  108476.32796170369,
+                  99406.85702928039
+                ],
+                [
+                  108476.03196170442,
+                  99406.80402928044
+                ],
+                [
+                  108474.35996170958,
+                  99406.50602928305
+                ],
+                [
+                  108469.0999617229,
+                  99405.5670292894
+                ],
+                [
+                  108466.53996173012,
+                  99405.11002929311
+                ],
+                [
+                  108464.39396173769,
+                  99406.77102928949
+                ],
+                [
+                  108464.04396173831,
+                  99407.0430292889
+                ],
+                [
+                  108461.79996174597,
+                  99408.78002928634
+                ],
+                [
+                  108461.58596174882,
+                  99411.37202927939
+                ],
+                [
+                  108461.12696175449,
+                  99416.92202926401
+                ],
+                [
+                  108461.09096175458,
+                  99417.35702926238
+                ],
+                [
+                  108463.17196174918,
+                  99417.57202926007
+                ],
+                [
+                  108464.08696174673,
+                  99417.66602925965
+                ],
+                [
+                  108464.72966174471,
+                  99417.73302925879
+                ],
+                [
+                  108466.31986173989,
+                  99417.89722925666
+                ],
+                [
+                  108469.64296173143,
+                  99418.24002925385
+                ],
+                [
+                  108470.63386172836,
+                  99418.34202925279
+                ],
+                [
+                  108471.52796172607,
+                  99418.43402925204
+                ],
+                [
+                  108472.06296172476,
+                  99418.49002925132
+                ],
+                [
+                  108474.54566171758,
+                  99418.74612924861
+                ],
+                [
+                  108476.28996171316,
+                  99418.92602924668
+                ],
+                [
+                  108477.49196170951,
+                  99419.05002924523
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "008-047-013",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "RUY DIAZ DE GUZMAN 396",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.370927299381435,
+      -34.63453214866265
+    ],
+    "direccion": "",
+    "fondo": "15.40",
+    "frente": "12.99",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "047",
+    "parcela": "013",
+    "pdamatriz": "118290",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "9",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "008",
+    "smp": "008-047-013",
+    "smp_anterior": "008-047-012",
+    "smp_siguiente": "008-047-014",
+    "srid": 4326,
+    "superficie_cubierta": "1697.00",
+    "superficie_total": "200.00",
+    "unidades_funcionales": "23",
+    "vuc": "0.00"
+  },
+  "smp": "008-047-013",
+  "_http_status": 200
+}

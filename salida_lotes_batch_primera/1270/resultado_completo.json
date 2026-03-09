@@ -1,0 +1,382 @@
+{
+  "area_m2": 150.5707311630249,
+  "centroide_lonlat": {
+    "lat": -34.615965,
+    "lon": -58.519444
+  },
+  "centroide_xy": {
+    "x": 94850.64926729615,
+    "y": 101474.50277224627
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/16/087-024B-015_0000197716.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION087/087-024B-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION087/PI-087-024B-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "087-024B-014",
+            "087-024B-016",
+            "087-024B-012",
+            "087-024B-013"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 180.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 150.6,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "087-024B-015"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Villa Devoto",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1417",
+    "codigo_postal_argentino": "C1417CIS",
+    "comisaria": "45",
+    "comisaria_vecinal": "11B",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "87"
+  },
+  "debug": {
+    "address": "PEDRO CALDERON DE LA BARCA 2789",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.519444230717916,
+        -34.615964632054016
+      ],
+      "direccion": "",
+      "fondo": "19.36",
+      "frente": "7.80",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "024B",
+      "parcela": "015",
+      "pdamatriz": "286884",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "087",
+      "smp": "087-024B-015",
+      "smp_anterior": "087-024B-014",
+      "smp_siguiente": "087-024B-016",
+      "srid": 4326,
+      "superficie_cubierta": "212.00",
+      "superficie_total": "151.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2789,
+      "cod_calle": 3023
+    },
+    "usig_direccion_elegida": {
+      "altura": 2789,
+      "cod_calle": 3023,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.519547",
+        "y": "-34.616055"
+      },
+      "direccion": "CALDERON DE LA BARCA, PEDRO 2789, CABA",
+      "nombre_calle": "CALDERON DE LA BARCA, PEDRO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2789,
+          "cod_calle": 3023,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.519547",
+            "y": "-34.616055"
+          },
+          "direccion": "CALDERON DE LA BARCA, PEDRO 2789, CABA",
+          "nombre_calle": "CALDERON DE LA BARCA, PEDRO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  94849.86500146931,
+                  101468.0340337569
+                ],
+                [
+                  94846.81700147506,
+                  101464.82403376827
+                ],
+                [
+                  94846.43200147663,
+                  101465.18803376757
+                ],
+                [
+                  94845.99700147856,
+                  101465.60103376643
+                ],
+                [
+                  94845.12600148133,
+                  101466.42603376502
+                ],
+                [
+                  94844.69000148313,
+                  101466.83803376462
+                ],
+                [
+                  94843.81900148593,
+                  101467.66303376222
+                ],
+                [
+                  94841.13500149501,
+                  101470.20603375763
+                ],
+                [
+                  94845.15500148738,
+                  101474.39903374284
+                ],
+                [
+                  94845.509001486,
+                  101474.76803374148
+                ],
+                [
+                  94846.2570014851,
+                  101475.54803373897
+                ],
+                [
+                  94846.98900148347,
+                  101476.31103373563
+                ],
+                [
+                  94848.46400148013,
+                  101477.84903373089
+                ],
+                [
+                  94849.73300147787,
+                  101479.16203372536
+                ],
+                [
+                  94850.84700147566,
+                  101480.31403372201
+                ],
+                [
+                  94851.93200147341,
+                  101481.4370337177
+                ],
+                [
+                  94853.40500147069,
+                  101482.96003371236
+                ],
+                [
+                  94854.56700146786,
+                  101484.16203370772
+                ],
+                [
+                  94857.59400145698,
+                  101481.31003371347
+                ],
+                [
+                  94860.1660014486,
+                  101478.88603371868
+                ],
+                [
+                  94860.00100144887,
+                  101478.71203371973
+                ],
+                [
+                  94857.51000145348,
+                  101476.08803372903
+                ],
+                [
+                  94857.00900145437,
+                  101475.56103373028
+                ],
+                [
+                  94855.28800145788,
+                  101473.74803373648
+                ],
+                [
+                  94854.80500145888,
+                  101473.23803373851
+                ],
+                [
+                  94854.03100146113,
+                  101472.42403374115
+                ],
+                [
+                  94852.86000146343,
+                  101471.18903374608
+                ],
+                [
+                  94851.27700146605,
+                  101469.52303375176
+                ],
+                [
+                  94850.37700146841,
+                  101468.57503375522
+                ],
+                [
+                  94849.86500146931,
+                  101468.0340337569
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "087-024B-015",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "PEDRO CALDERON DE LA BARCA 2789",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.519444230717916,
+      -34.615964632054016
+    ],
+    "direccion": "",
+    "fondo": "19.36",
+    "frente": "7.80",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "024B",
+    "parcela": "015",
+    "pdamatriz": "286884",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "087",
+    "smp": "087-024B-015",
+    "smp_anterior": "087-024B-014",
+    "smp_siguiente": "087-024B-016",
+    "srid": 4326,
+    "superficie_cubierta": "212.00",
+    "superficie_total": "151.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "087-024B-015",
+  "_http_status": 200
+}

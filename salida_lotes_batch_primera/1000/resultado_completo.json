@@ -1,0 +1,303 @@
+{
+  "area_m2": 165.37684440612793,
+  "centroide_lonlat": {
+    "lat": -34.622834,
+    "lon": -58.388819
+  },
+  "centroide_xy": {
+    "x": 106830.61249857732,
+    "y": 100711.30756951864
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 0.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "Espacio Publico",
+            "distrito_especifico": "Espacio Publico"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 4.0,
+          "fot_perim_libre": 4.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/2/17/014-014-046_0000345217.pdf",
+          "perimetro_manzana": "",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION014/PI-014-014-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "014-014-002",
+            "014-014-045",
+            "014-014-003",
+            "014-014-001"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "RUA",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0.0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 165.4,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "014-014-046"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. J.M. RAMOS MEJÍA",
+    "barrio": "Constitucion",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1135",
+    "codigo_postal_argentino": "C1135AAA",
+    "comisaria": "18",
+    "comisaria_vecinal": "1C",
+    "comuna": "Comuna 1",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   III",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "14"
+  },
+  "debug": {
+    "address": "VIRREY CEVALLOS 1215",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.388818560117,
+        -34.622834403152815
+      ],
+      "direccion": "",
+      "fondo": "0.00",
+      "frente": "7.80",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "014",
+      "parcela": "046",
+      "pdamatriz": "213565",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "0",
+      "propiedad_horizontal": "No",
+      "seccion": "014",
+      "smp": "014-014-046",
+      "smp_anterior": "014-014-045",
+      "smp_siguiente": "014-014-001",
+      "srid": 4326,
+      "superficie_cubierta": "0.00",
+      "superficie_total": "168.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1215,
+      "cod_calle": 3122
+    },
+    "usig_direccion_elegida": {
+      "altura": 1215,
+      "cod_calle": 3122,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.388665",
+        "y": "-34.622987"
+      },
+      "direccion": "CEVALLOS, VIRREY 1215, CABA",
+      "nombre_calle": "CEVALLOS, VIRREY",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1215,
+          "cod_calle": 3122,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.388665",
+            "y": "-34.622987"
+          },
+          "direccion": "CEVALLOS, VIRREY 1215, CABA",
+          "nombre_calle": "CEVALLOS, VIRREY",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1215,
+          "cod_calle": 129604,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3669813496021,
+            "y": -34.8538089522622
+          },
+          "direccion": "Virrey Cevallos 1215, Almirante Brown",
+          "nombre_calle": "Virrey Cevallos",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ministro Rivadavia",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  106840.94583143247,
+                  100716.23804076412
+                ],
+                [
+                  106841.95514103107,
+                  100708.72901506437
+                ],
+                [
+                  106820.06487293771,
+                  100706.3641385163
+                ],
+                [
+                  106819.51024941227,
+                  100713.95554829325
+                ],
+                [
+                  106827.62487181617,
+                  100714.81960528615
+                ],
+                [
+                  106840.94583143247,
+                  100716.23804076412
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "014-014-046",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "VIRREY CEVALLOS 1215",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.388818560117,
+      -34.622834403152815
+    ],
+    "direccion": "",
+    "fondo": "0.00",
+    "frente": "7.80",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "014",
+    "parcela": "046",
+    "pdamatriz": "213565",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "0",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "014",
+    "smp": "014-014-046",
+    "smp_anterior": "014-014-045",
+    "smp_siguiente": "014-014-001",
+    "srid": 4326,
+    "superficie_cubierta": "0.00",
+    "superficie_total": "168.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "014-014-046",
+  "_http_status": 200
+}

@@ -1,0 +1,392 @@
+{
+  "area_m2": 156.77754592895508,
+  "centroide_lonlat": {
+    "lat": -34.638594,
+    "lon": -58.372205
+  },
+  "centroide_xy": {
+    "x": 108352.61147316589,
+    "y": 98961.79842723232
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 1,
+          "lep": 1,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": -1.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/3/86/010-035-006b_0000414386.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION010/010-035-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION010/PI-010-035-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "010-035-006a",
+            "010-035-007"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "C3 II",
+          "incidencia_uva": 230.0,
+          "plusvalia_em": 11622.72,
+          "plusvalia_pl": 5131.2,
+          "plusvalia_sl": 5131.2
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 154.927445014413,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 156.8,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "010-035-006B"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C. ARGERICH",
+    "barrio": "Barracas",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1288",
+    "codigo_postal_argentino": "C1288AEF",
+    "comisaria": "26",
+    "comisaria_vecinal": "4D",
+    "comuna": "Comuna 4",
+    "distrito_economico": "DISTRITO DE DISEÑO",
+    "distrito_escolar": "Distrito Escolar   IV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "10"
+  },
+  "debug": {
+    "address": "SUAREZ 1498",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.372205368043836,
+        -34.638593511613365
+      ],
+      "direccion": "",
+      "fondo": "24.34",
+      "frente": "6.41",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "035",
+      "parcela": "006B",
+      "pdamatriz": "125173",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "4",
+      "propiedad_horizontal": "Si",
+      "seccion": "010",
+      "smp": "010-035-006B",
+      "smp_anterior": "010-035-006A",
+      "smp_siguiente": "010-035-007",
+      "srid": 4326,
+      "superficie_cubierta": "589.00",
+      "superficie_total": "156.00",
+      "unidades_funcionales": "11",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1498,
+      "cod_calle": 20118
+    },
+    "usig_direccion_elegida": {
+      "altura": 1498,
+      "cod_calle": 20118,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.372240",
+        "y": "-34.638429"
+      },
+      "direccion": "SUAREZ 1498, CABA",
+      "nombre_calle": "SUAREZ",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1498,
+          "cod_calle": 20118,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.372240",
+            "y": "-34.638429"
+          },
+          "direccion": "SUAREZ 1498, CABA",
+          "nombre_calle": "SUAREZ",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1498,
+          "cod_calle": 20119,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.522988",
+            "y": "-34.655300"
+          },
+          "direccion": "SUAREZ, JOSE LEON 1498, CABA",
+          "nombre_calle": "SUAREZ, JOSE LEON",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1498,
+          "cod_calle": 339457,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4396096040816,
+            "y": -34.8217479734694
+          },
+          "direccion": "Avenida Pedro Suárez 1498, Almirante Brown",
+          "nombre_calle": "Avenida Pedro Suárez",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Malvinas Argentinas",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1498,
+          "cod_calle": 355101,
+          "cod_calle_cruce": null,
+          "cod_partido": "esteban_echeverria",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4396096040816,
+            "y": -34.8217479734694
+          },
+          "direccion": "Avenida Pedro Suárez 1498, Esteban Echeverría",
+          "nombre_calle": "Avenida Pedro Suárez",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Luis Guillón",
+          "nombre_partido": "Esteban Echeverría",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1498,
+          "cod_calle": 46656,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "direccion": "Coronel Suárez 1498, La Matanza",
+          "nombre_calle": "Coronel Suárez",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "La Tablada",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1498,
+          "cod_calle": 19113,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4170478285714,
+            "y": -34.7261129755102
+          },
+          "direccion": "José León Suárez 1498, Lanús",
+          "nombre_calle": "José León Suárez",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Remedios de Escalada",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  108358.85496169397,
+                  98955.2950306352
+                ],
+                [
+                  108358.41696169504,
+                  98955.23003063627
+                ],
+                [
+                  108355.67096170217,
+                  98954.82303063889
+                ],
+                [
+                  108352.90096170915,
+                  98954.41303064194
+                ],
+                [
+                  108348.19796172206,
+                  98953.71603064777
+                ],
+                [
+                  108347.8029617255,
+                  98956.25503064087
+                ],
+                [
+                  108347.70096172637,
+                  98956.908030639
+                ],
+                [
+                  108346.47996173578,
+                  98964.75003061807
+                ],
+                [
+                  108350.03996172897,
+                  98969.57003060219
+                ],
+                [
+                  108356.40996171202,
+                  98970.59203059445
+                ],
+                [
+                  108357.50996170338,
+                  98963.71303061317
+                ],
+                [
+                  108358.18496169813,
+                  98959.48703062374
+                ],
+                [
+                  108358.85496169397,
+                  98955.2950306352
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "010-035-006B",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "SUAREZ 1498",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.372205368043836,
+      -34.638593511613365
+    ],
+    "direccion": "",
+    "fondo": "24.34",
+    "frente": "6.41",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "035",
+    "parcela": "006B",
+    "pdamatriz": "125173",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "4",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "010",
+    "smp": "010-035-006B",
+    "smp_anterior": "010-035-006A",
+    "smp_siguiente": "010-035-007",
+    "srid": 4326,
+    "superficie_cubierta": "589.00",
+    "superficie_total": "156.00",
+    "unidades_funcionales": "11",
+    "vuc": "0.00"
+  },
+  "smp": "010-035-006B",
+  "_http_status": 200
+}

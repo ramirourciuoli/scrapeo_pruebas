@@ -1,0 +1,526 @@
+{
+  "area_m2": 580.3793869018555,
+  "centroide_lonlat": {
+    "lat": -34.606263,
+    "lon": -58.387691
+  },
+  "centroide_xy": {
+    "x": 106935.3983915419,
+    "y": 102549.61538385598
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 5.0,
+          "fot_perim_libre": 7.0,
+          "fot_semi_libre": 5.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/86/005-029-018b_0000369786.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION005/005-029-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION005/PI-005-029-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "SI",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "005-029-017",
+            "005-029-021"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "C2",
+          "incidencia_uva": 90.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 580.294200000073,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 580.4,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "005-029-018B"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. J.M. RAMOS MEJÍA",
+    "barrio": "San Nicolas",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1037",
+    "codigo_postal_argentino": "C1037ACA",
+    "comisaria": "3",
+    "comisaria_vecinal": "1B",
+    "comuna": "Comuna 1",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   I",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "05"
+  },
+  "debug": {
+    "address": "TENIENTE GENERAL JUAN DOMINGO PERON 1493",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.387690993442256,
+        -34.60626283370455
+      ],
+      "direccion": "PARANA 205",
+      "fondo": "60.88",
+      "frente": "9.61",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "029",
+      "parcela": "018B",
+      "pdamatriz": "223953",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "5",
+      "propiedad_horizontal": "Si",
+      "seccion": "005",
+      "smp": "005-029-018B",
+      "smp_anterior": "005-029-017",
+      "smp_siguiente": "005-029-021",
+      "srid": 4326,
+      "superficie_cubierta": "3194.00",
+      "superficie_total": "585.00",
+      "unidades_funcionales": "50",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1493,
+      "cod_calle": 3050
+    },
+    "usig_direccion_elegida": {
+      "altura": 1493,
+      "cod_calle": 3050,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.387672",
+        "y": "-34.606472"
+      },
+      "direccion": "PERON, JUAN DOMINGO, TTE. GENERAL 1493, CABA",
+      "nombre_calle": "PERON, JUAN DOMINGO, TTE. GENERAL",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1493,
+          "cod_calle": 3050,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.387672",
+            "y": "-34.606472"
+          },
+          "direccion": "PERON, JUAN DOMINGO, TTE. GENERAL 1493, CABA",
+          "nombre_calle": "PERON, JUAN DOMINGO, TTE. GENERAL",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1493,
+          "cod_calle": 10730,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3969197375,
+            "y": -34.6820138729167
+          },
+          "direccion": "Presidente Teniente General Juan Domingo Perón 1493, Lanús",
+          "nombre_calle": "Presidente Teniente General Juan Domingo Perón",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Gerli",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1493,
+          "cod_calle": 124,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_fernando",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5531125357143,
+            "y": -34.4425995785714
+          },
+          "direccion": "Avenida Presidente Teniente General Juan Domingo Perón 1493, San Fernando",
+          "nombre_calle": "Avenida Presidente Teniente General Juan Domingo Perón",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Fernando",
+          "nombre_partido": "San Fernando",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  106928.79596840394,
+                  102541.73302165416
+                ],
+                [
+                  106927.22996842937,
+                  102570.02802157644
+                ],
+                [
+                  106929.62796842154,
+                  102570.17602157398
+                ],
+                [
+                  106932.47796841469,
+                  102570.35202157151
+                ],
+                [
+                  106934.6619684082,
+                  102570.48602156874
+                ],
+                [
+                  106941.1379683911,
+                  102570.88602156323
+                ],
+                [
+                  106941.29696838881,
+                  102567.9192215724
+                ],
+                [
+                  106941.33876838793,
+                  102567.13862157412
+                ],
+                [
+                  106941.45896838544,
+                  102564.89502158013
+                ],
+                [
+                  106941.96376837729,
+                  102555.47712160507
+                ],
+                [
+                  106942.16976837347,
+                  102551.63482161661
+                ],
+                [
+                  106942.19396837315,
+                  102551.18302161744
+                ],
+                [
+                  106942.26156837135,
+                  102549.92332161998
+                ],
+                [
+                  106942.27566837151,
+                  102549.65982162097
+                ],
+                [
+                  106942.43616836898,
+                  102546.67092162996
+                ],
+                [
+                  106942.4428683688,
+                  102546.54602162968
+                ],
+                [
+                  106942.52406836797,
+                  102545.0320216344
+                ],
+                [
+                  106942.62326836633,
+                  102543.18362164052
+                ],
+                [
+                  106943.15226835734,
+                  102533.32592166535
+                ],
+                [
+                  106943.2294683562,
+                  102531.8890216698
+                ],
+                [
+                  106943.25536835403,
+                  102531.4048216714
+                ],
+                [
+                  106943.26596835455,
+                  102531.20802167256
+                ],
+                [
+                  106943.28856835465,
+                  102530.7850216738
+                ],
+                [
+                  106943.31496835446,
+                  102530.2904216751
+                ],
+                [
+                  106943.34716835342,
+                  102529.68902167695
+                ],
+                [
+                  106943.40296835215,
+                  102528.6440216791
+                ],
+                [
+                  106940.21296836165,
+                  102528.4010216824
+                ],
+                [
+                  106934.74996837652,
+                  102527.98402168837
+                ],
+                [
+                  106933.84996837896,
+                  102527.91502168973
+                ],
+                [
+                  106929.34796839445,
+                  102531.74802167978
+                ],
+                [
+                  106928.79596840394,
+                  102541.73302165416
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "005-029-018B",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "TENIENTE GENERAL JUAN DOMINGO PERON 1493",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 12,
+    "centroide": [
+      -58.387690993442256,
+      -34.60626283370455
+    ],
+    "direccion": "PARANA 205",
+    "fondo": "60.88",
+    "frente": "9.61",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "029",
+    "parcela": "018B",
+    "pdamatriz": "223953",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "5",
+    "propiedad_horizontal": "Si",
+    "puertas": [
+      {
+        "altura": 205,
+        "calle": "PARANA",
+        "codigo_calle": 17018,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      },
+      {
+        "altura": 207,
+        "calle": "PARANA",
+        "codigo_calle": 17018,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      },
+      {
+        "altura": 215,
+        "calle": "PARANA",
+        "codigo_calle": 17018,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      },
+      {
+        "altura": 217,
+        "calle": "PARANA",
+        "codigo_calle": 17018,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      },
+      {
+        "altura": 223,
+        "calle": "PARANA",
+        "codigo_calle": 17018,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      },
+      {
+        "altura": 225,
+        "calle": "PARANA",
+        "codigo_calle": 17018,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      },
+      {
+        "altura": 227,
+        "calle": "PARANA",
+        "codigo_calle": 17018,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      },
+      {
+        "altura": 229,
+        "calle": "PARANA",
+        "codigo_calle": 17018,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      },
+      {
+        "altura": 231,
+        "calle": "PARANA",
+        "codigo_calle": 17018,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      },
+      {
+        "altura": 233,
+        "calle": "PARANA",
+        "codigo_calle": 17018,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      },
+      {
+        "altura": 1493,
+        "calle": "PERON, JUAN DOMINGO, TTE. GENERAL",
+        "codigo_calle": 3050,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      },
+      {
+        "altura": 1499,
+        "calle": "PERON, JUAN DOMINGO, TTE. GENERAL",
+        "codigo_calle": 3050,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "005",
+    "smp": "005-029-018B",
+    "smp_anterior": "005-029-017",
+    "smp_siguiente": "005-029-021",
+    "srid": 4326,
+    "superficie_cubierta": "3194.00",
+    "superficie_total": "585.00",
+    "unidades_funcionales": "50",
+    "vuc": "0.00"
+  },
+  "smp": "005-029-018B"
+}

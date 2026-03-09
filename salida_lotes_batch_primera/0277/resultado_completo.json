@@ -1,0 +1,378 @@
+{
+  "area_m2": 274.29697036743164,
+  "centroide_lonlat": {
+    "lat": -34.630328,
+    "lon": -58.419591
+  },
+  "centroide_xy": {
+    "x": 104008.09979543698,
+    "y": 99881.6420649909
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "PEV",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/3/07/036-066-032_0000296307.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION036/036-066-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION036/PI-036-066-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "036-066-031",
+            "036-066-037",
+            "036-066-033"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b III",
+          "incidencia_uva": 90.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 274.239200000088,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 274.3,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "036-066-032"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Boedo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1253",
+    "codigo_postal_argentino": "C1253AAK",
+    "comisaria": "10",
+    "comisaria_vecinal": "5B",
+    "comuna": "Comuna 5",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "36"
+  },
+  "debug": {
+    "address": "AV. PAVON 3919",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.419591488508175,
+        -34.63032806853131
+      ],
+      "direccion": "",
+      "fondo": "31.68",
+      "frente": "8.65",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "066",
+      "parcela": "032",
+      "pdamatriz": "152457",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "2",
+      "propiedad_horizontal": "Si",
+      "seccion": "036",
+      "smp": "036-066-032",
+      "smp_anterior": "036-066-031",
+      "smp_siguiente": "036-066-033",
+      "srid": 4326,
+      "superficie_cubierta": "383.00",
+      "superficie_total": "274.00",
+      "unidades_funcionales": "6",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3919,
+      "cod_calle": 17038
+    },
+    "usig_direccion_elegida": {
+      "altura": 3919,
+      "cod_calle": 17038,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.419560",
+        "y": "-34.630505"
+      },
+      "direccion": "PAVON AV. 3919, CABA",
+      "nombre_calle": "PAVON AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3919,
+          "cod_calle": 17038,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.419560",
+            "y": "-34.630505"
+          },
+          "direccion": "PAVON AV. 3919, CABA",
+          "nombre_calle": "PAVON AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3919,
+          "cod_calle": 75343,
+          "cod_calle_cruce": null,
+          "cod_partido": "moron",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6548131734694,
+            "y": -34.6907663367347
+          },
+          "direccion": "Gervasio Pavon 3919, Morón",
+          "nombre_calle": "Gervasio Pavon",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Castelar",
+          "nombre_partido": "Morón",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  104014.692974562,
+                  99866.52403134995
+                ],
+                [
+                  104014.29697456337,
+                  99866.46903134978
+                ],
+                [
+                  104006.55297458432,
+                  99865.39203135905
+                ],
+                [
+                  104006.13497458494,
+                  99865.33403135929
+                ],
+                [
+                  104005.89997458737,
+                  99866.91703135567
+                ],
+                [
+                  104005.66697458917,
+                  99868.49303135078
+                ],
+                [
+                  104005.12697459341,
+                  99872.13703134132
+                ],
+                [
+                  104004.60097459704,
+                  99875.68403133206
+                ],
+                [
+                  104004.26897460017,
+                  99877.92303132603
+                ],
+                [
+                  104003.90197460252,
+                  99880.3960313187
+                ],
+                [
+                  104003.37597460706,
+                  99883.9490313094
+                ],
+                [
+                  104002.50497461364,
+                  99889.8210312941
+                ],
+                [
+                  104002.38597461463,
+                  99890.62403129126
+                ],
+                [
+                  104001.61597462116,
+                  99895.82303127731
+                ],
+                [
+                  104001.53497462157,
+                  99896.36803127572
+                ],
+                [
+                  104006.19497460949,
+                  99897.46103126949
+                ],
+                [
+                  104007.27597460595,
+                  99897.7140312675
+                ],
+                [
+                  104009.96297459971,
+                  99898.34403126367
+                ],
+                [
+                  104010.38997459559,
+                  99895.47403127223
+                ],
+                [
+                  104010.4919745947,
+                  99894.78403127362
+                ],
+                [
+                  104011.05097459066,
+                  99891.0260312834
+                ],
+                [
+                  104012.45797457926,
+                  99881.55903130968
+                ],
+                [
+                  104013.14797457424,
+                  99876.91903132157
+                ],
+                [
+                  104013.27097457294,
+                  99876.0890313237
+                ],
+                [
+                  104014.692974562,
+                  99866.52403134995
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "036-066-032",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AV. PAVON 3919",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.419591488508175,
+      -34.63032806853131
+    ],
+    "direccion": "",
+    "fondo": "31.68",
+    "frente": "8.65",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "066",
+    "parcela": "032",
+    "pdamatriz": "152457",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "2",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "036",
+    "smp": "036-066-032",
+    "smp_anterior": "036-066-031",
+    "smp_siguiente": "036-066-033",
+    "srid": 4326,
+    "superficie_cubierta": "383.00",
+    "superficie_total": "274.00",
+    "unidades_funcionales": "6",
+    "vuc": "0.00"
+  },
+  "smp": "036-066-032",
+  "_http_status": 200
+}

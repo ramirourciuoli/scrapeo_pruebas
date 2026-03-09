@@ -1,0 +1,454 @@
+{
+  "area_m2": 297.6792287826538,
+  "centroide_lonlat": {
+    "lat": -34.54595,
+    "lon": -58.483714
+  },
+  "centroide_xy": {
+    "x": 98126.10010319912,
+    "y": 109242.847558547
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.0,
+          "fot_perim_libre": 1.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/4/11/043-064-020_0000229411.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION043/043-064-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION043/PI-043-064-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "043-064-015",
+            "043-064-019",
+            "043-064-014",
+            "043-064-021"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R1b I",
+          "incidencia_uva": 220.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 12369.03
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 260.291021340682,
+        "sup_max_edificable": 1316.4,
+        "superficie_parcela": 297.7,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "043-064-020"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Saavedra",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1430",
+    "codigo_postal_argentino": "C1430CRA",
+    "comisaria": "35",
+    "comisaria_vecinal": "12A",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   X",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "43"
+  },
+  "debug": {
+    "address": "ARIAS 3457",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.48371431548299,
+        -34.545950016013414
+      ],
+      "direccion": "ARIAS 3457",
+      "fondo": "34.47",
+      "frente": "8.53",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "064",
+      "parcela": "020",
+      "pdamatriz": "334402",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "043",
+      "smp": "043-064-020",
+      "smp_anterior": "043-064-019",
+      "smp_siguiente": "043-064-021",
+      "srid": 4326,
+      "superficie_cubierta": "285.00",
+      "superficie_total": "294.00",
+      "unidades_funcionales": "2",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3457,
+      "cod_calle": 1111
+    },
+    "usig_direccion_elegida": {
+      "altura": 3457,
+      "cod_calle": 1111,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.483595",
+        "y": "-34.546106"
+      },
+      "direccion": "ARIAS 3457, CABA",
+      "nombre_calle": "ARIAS",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3457,
+          "cod_calle": 1111,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.483595",
+            "y": "-34.546106"
+          },
+          "direccion": "ARIAS 3457, CABA",
+          "nombre_calle": "ARIAS",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3457,
+          "cod_calle": 210033,
+          "cod_calle_cruce": null,
+          "cod_partido": "marcos_paz",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.8514001142857,
+            "y": -34.7927074714286
+          },
+          "direccion": "Arias 3457, Marcos Paz",
+          "nombre_calle": "Arias",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Marcos Paz",
+          "nombre_partido": "Marcos Paz",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3457,
+          "cod_calle": 6818,
+          "cod_calle_cruce": null,
+          "cod_partido": "moron",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6563749816327,
+            "y": -34.6487546122449
+          },
+          "direccion": "Gobernador Inocencio Arias 3457, Morón",
+          "nombre_calle": "Gobernador Inocencio Arias",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Castelar",
+          "nombre_partido": "Morón",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3457,
+          "cod_calle": 194480,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_fernando",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5261877993503,
+            "y": -34.4487734569822
+          },
+          "direccion": "General Arias 3457, San Fernando",
+          "nombre_calle": "General Arias",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Victoria",
+          "nombre_partido": "San Fernando",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98138.9109980886,
+                  109230.55200951238
+                ],
+                [
+                  98135.89399809563,
+                  109228.64100951972
+                ],
+                [
+                  98135.04899809691,
+                  109228.1060095217
+                ],
+                [
+                  98131.59999810492,
+                  109225.92100953084
+                ],
+                [
+                  98130.99899810753,
+                  109226.88200952872
+                ],
+                [
+                  98130.0449981115,
+                  109228.40900952494
+                ],
+                [
+                  98128.86299811618,
+                  109230.3000095204
+                ],
+                [
+                  98128.326998118,
+                  109231.15700951818
+                ],
+                [
+                  98126.454998126,
+                  109234.15100951114
+                ],
+                [
+                  98125.65999812928,
+                  109235.42300950899
+                ],
+                [
+                  98125.40299813007,
+                  109235.83400950741
+                ],
+                [
+                  98124.88999813185,
+                  109236.65500950598
+                ],
+                [
+                  98123.82999813653,
+                  109238.35000950139
+                ],
+                [
+                  98123.5889981371,
+                  109238.73500950114
+                ],
+                [
+                  98123.27199813856,
+                  109239.24300949945
+                ],
+                [
+                  98123.11399813938,
+                  109239.4950094992
+                ],
+                [
+                  98122.15999814327,
+                  109241.02100949522
+                ],
+                [
+                  98121.70999814494,
+                  109241.74100949423
+                ],
+                [
+                  98117.88399815989,
+                  109247.86100947912
+                ],
+                [
+                  98115.1619981707,
+                  109252.1740094691
+                ],
+                [
+                  98113.29499817854,
+                  109255.13400946223
+                ],
+                [
+                  98120.53499816201,
+                  109259.81700944382
+                ],
+                [
+                  98128.07299813152,
+                  109247.8130094721
+                ],
+                [
+                  98128.99799812763,
+                  109246.33900947514
+                ],
+                [
+                  98129.78199812447,
+                  109245.09000947824
+                ],
+                [
+                  98130.56499812212,
+                  109243.84400948085
+                ],
+                [
+                  98131.47099811796,
+                  109242.40100948425
+                ],
+                [
+                  98133.99699810839,
+                  109238.37800949358
+                ],
+                [
+                  98135.633998101,
+                  109235.77000949963
+                ],
+                [
+                  98136.08199810001,
+                  109235.05700950182
+                ],
+                [
+                  98136.16599809947,
+                  109234.9230095025
+                ],
+                [
+                  98136.697998097,
+                  109234.07700950364
+                ],
+                [
+                  98138.9109980886,
+                  109230.55200951238
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "043-064-020",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ARIAS 3457",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.48371431548299,
+      -34.545950016013414
+    ],
+    "direccion": "ARIAS 3457",
+    "fondo": "34.47",
+    "frente": "8.53",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "064",
+    "parcela": "020",
+    "pdamatriz": "334402",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "Si",
+    "puertas": [
+      {
+        "altura": 3457,
+        "calle": "ARIAS",
+        "codigo_calle": 1111,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "043",
+    "smp": "043-064-020",
+    "smp_anterior": "043-064-019",
+    "smp_siguiente": "043-064-021",
+    "srid": 4326,
+    "superficie_cubierta": "285.00",
+    "superficie_total": "294.00",
+    "unidades_funcionales": "2",
+    "vuc": "0.00"
+  },
+  "smp": "043-064-020"
+}

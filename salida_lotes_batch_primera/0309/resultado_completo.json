@@ -1,0 +1,375 @@
+{
+  "area_m2": 177.34001922607422,
+  "centroide_lonlat": {
+    "lat": -34.632211,
+    "lon": -58.51861
+  },
+  "centroide_xy": {
+    "x": 94928.18564866617,
+    "y": 99672.27818121461
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/46/091-012A-017_0000203646.pdf",
+          "perimetro_manzana": "",
+          "plano_indice": ""
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "091-012A-031",
+            "091-012A-018",
+            "091-012A-032",
+            "091-012A-016",
+            "091-012A-033"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 140.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 177.385299999978,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 177.3,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "091-012A-017"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Versalles",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1408",
+    "codigo_postal_argentino": "C1408CED",
+    "comisaria": "44",
+    "comisaria_vecinal": "10B",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "91"
+  },
+  "debug": {
+    "address": "OPORTO 6270",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.51860961328099,
+        -34.63221060041511
+      ],
+      "direccion": "",
+      "fondo": "19.97",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "012A",
+      "parcela": "017",
+      "pdamatriz": "292730",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "091",
+      "smp": "091-012A-017",
+      "smp_anterior": "091-012A-016",
+      "smp_siguiente": "091-012A-018",
+      "srid": 4326,
+      "superficie_cubierta": "194.00",
+      "superficie_total": "173.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 6270,
+      "cod_calle": 16026
+    },
+    "usig_direccion_elegida": {
+      "altura": 6270,
+      "cod_calle": 16026,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.518717",
+        "y": "-34.632148"
+      },
+      "direccion": "OPORTO 6270, CABA",
+      "nombre_calle": "OPORTO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 6270,
+          "cod_calle": 16026,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.518717",
+            "y": "-34.632148"
+          },
+          "direccion": "OPORTO 6270, CABA",
+          "nombre_calle": "OPORTO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  94917.06399993075,
+                  99674.3100387362
+                ],
+                [
+                  94920.38199992497,
+                  99679.02703872067
+                ],
+                [
+                  94922.02899992203,
+                  99681.36903871305
+                ],
+                [
+                  94922.70199991927,
+                  99680.93603871358
+                ],
+                [
+                  94923.29199991815,
+                  99680.55703871444
+                ],
+                [
+                  94928.1329999022,
+                  99677.4450387198
+                ],
+                [
+                  94928.4669999009,
+                  99677.23103871953
+                ],
+                [
+                  94929.05499989851,
+                  99676.85303872061
+                ],
+                [
+                  94933.54899988367,
+                  99673.96403872487
+                ],
+                [
+                  94933.91899988256,
+                  99673.72603872538
+                ],
+                [
+                  94935.84999987608,
+                  99672.48503872796
+                ],
+                [
+                  94936.96899987233,
+                  99671.76603872862
+                ],
+                [
+                  94937.13899987265,
+                  99671.65703872865
+                ],
+                [
+                  94937.23199987174,
+                  99671.59703872912
+                ],
+                [
+                  94939.29499986501,
+                  99670.27103873092
+                ],
+                [
+                  94938.24099986735,
+                  99668.76103873621
+                ],
+                [
+                  94937.56999986841,
+                  99667.79903873909
+                ],
+                [
+                  94936.5539998694,
+                  99666.3440387439
+                ],
+                [
+                  94936.41699987046,
+                  99666.14903874518
+                ],
+                [
+                  94934.34299987402,
+                  99663.177038755
+                ],
+                [
+                  94931.06399988467,
+                  99665.29003875141
+                ],
+                [
+                  94930.87199988554,
+                  99665.41403875107
+                ],
+                [
+                  94929.35899989023,
+                  99666.38803874986
+                ],
+                [
+                  94927.38399989619,
+                  99667.66103874781
+                ],
+                [
+                  94924.27399990703,
+                  99669.66403874409
+                ],
+                [
+                  94922.50199991297,
+                  99670.80603874222
+                ],
+                [
+                  94921.34799991664,
+                  99671.55003874094
+                ],
+                [
+                  94917.06399993075,
+                  99674.3100387362
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "091-012A-017",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "OPORTO 6270",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.51860961328099,
+      -34.63221060041511
+    ],
+    "direccion": "",
+    "fondo": "19.97",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "012A",
+    "parcela": "017",
+    "pdamatriz": "292730",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "091",
+    "smp": "091-012A-017",
+    "smp_anterior": "091-012A-016",
+    "smp_siguiente": "091-012A-018",
+    "srid": 4326,
+    "superficie_cubierta": "194.00",
+    "superficie_total": "173.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "091-012A-017",
+  "_http_status": 200
+}

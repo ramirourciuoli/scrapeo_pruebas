@@ -1,0 +1,481 @@
+{
+  "area_m2": 183.92262935638428,
+  "centroide_lonlat": {
+    "lat": -34.599815,
+    "lon": -58.393151
+  },
+  "centroide_xy": {
+    "x": 106435.08862484216,
+    "y": 103265.29706372808
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 0.0,
+        "catalogacion": {
+          "catalogacion": "APH",
+          "denominacion": null,
+          "estado": "LEY FIRME",
+          "ley_3056": "NO",
+          "proteccion": "CAUTELAR"
+        },
+        "cca": "PEV",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "APH",
+            "distrito_especifico": "APH 50"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 0.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": true,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/4/14/009-082-001_0000468414.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION009/009-082-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION009/PI-009-082-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "009-082-041",
+            "009-082-002"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "APH 50",
+          "incidencia_uva": 340.0,
+          "plusvalia_em": 0.0,
+          "plusvalia_pl": 0.0,
+          "plusvalia_sl": 0.0
+        },
+        "rivolta": 0,
+        "subzona": "Zona 1",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 183.9,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "009-082-001"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. J.M. RAMOS MEJÍA",
+    "barrio": "Balvanera",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1023",
+    "codigo_postal_argentino": "C1023AAN",
+    "comisaria": "5",
+    "comisaria_vecinal": "1B",
+    "comuna": "Comuna 3",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   I",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "09"
+  },
+  "debug": {
+    "address": "AV. CALLAO 796",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.39315074804988,
+        -34.599814790276916
+      ],
+      "direccion": "CALLAO AV. 796",
+      "fondo": "13.35",
+      "frente": "13.63",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "082",
+      "parcela": "001",
+      "pdamatriz": "205220",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "11",
+      "propiedad_horizontal": "Si",
+      "seccion": "009",
+      "smp": "009-082-001",
+      "smp_anterior": "009-082-041",
+      "smp_siguiente": "009-082-002",
+      "srid": 4326,
+      "superficie_cubierta": "2246.00",
+      "superficie_total": "182.00",
+      "unidades_funcionales": "11",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 796,
+      "cod_calle": 3030
+    },
+    "usig_direccion_elegida": {
+      "altura": 796,
+      "cod_calle": 3030,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.393014",
+        "y": "-34.599813"
+      },
+      "direccion": "CALLAO AV. 796, CABA",
+      "nombre_calle": "CALLAO AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 796,
+          "cod_calle": 3030,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.393014",
+            "y": "-34.599813"
+          },
+          "direccion": "CALLAO AV. 796, CABA",
+          "nombre_calle": "CALLAO AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 796,
+          "cod_calle": 195259,
+          "cod_calle_cruce": null,
+          "cod_partido": "escobar",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.800618377551,
+            "y": -34.3446507326531
+          },
+          "direccion": "Callao 796, Escobar",
+          "nombre_calle": "Callao",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Belén de Escobar",
+          "nombre_partido": "Escobar",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 796,
+          "cod_calle": 268791,
+          "cod_calle_cruce": null,
+          "cod_partido": "malvinas_argentinas",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7208860714286,
+            "y": -34.4935402612245
+          },
+          "direccion": "Avenida El Callao 796, Malvinas Argentinas",
+          "nombre_calle": "Avenida El Callao",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Grand Bourg",
+          "nombre_partido": "Malvinas Argentinas",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 796,
+          "cod_calle": 94702,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7150202714286,
+            "y": -34.6825442387755
+          },
+          "direccion": "Callao 796, Merlo",
+          "nombre_calle": "Callao",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Merlo",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 796,
+          "cod_calle": 51745,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_fernando",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5640656040816,
+            "y": -34.4438418591837
+          },
+          "direccion": "Callao 245 796, San Fernando",
+          "nombre_calle": "Callao 245",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Fernando",
+          "nombre_partido": "San Fernando",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 796,
+          "cod_calle": 11229,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_miguel",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7258173918367,
+            "y": -34.5259371122449
+          },
+          "direccion": "Callao 796, San Miguel",
+          "nombre_calle": "Callao",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "San Miguel",
+          "nombre_partido": "San Miguel",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 796,
+          "cod_calle": 142682,
+          "cod_calle_cruce": null,
+          "cod_partido": "tigre",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6000651816326,
+            "y": -34.4109477632653
+          },
+          "direccion": "Callao 796, Tigre",
+          "nombre_calle": "Callao",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Rincón de Milberg",
+          "nombre_partido": "Tigre",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  106426.00297036173,
+                  103270.67301998864
+                ],
+                [
+                  106431.02097034789,
+                  103270.80101998406
+                ],
+                [
+                  106439.04897032549,
+                  103271.00501997737
+                ],
+                [
+                  106439.64897032437,
+                  103271.02001997657
+                ],
+                [
+                  106440.7199703202,
+                  103270.09201997897
+                ],
+                [
+                  106442.96097031281,
+                  103268.15001998292
+                ],
+                [
+                  106444.1489703088,
+                  103267.1200199847
+                ],
+                [
+                  106444.27797030733,
+                  103266.01301998782
+                ],
+                [
+                  106444.85697030189,
+                  103261.03602000143
+                ],
+                [
+                  106444.91497030151,
+                  103260.53902000235
+                ],
+                [
+                  106443.87097030463,
+                  103260.48502000369
+                ],
+                [
+                  106441.34397031093,
+                  103260.35302000574
+                ],
+                [
+                  106437.44597032262,
+                  103260.15002000952
+                ],
+                [
+                  106437.04297032287,
+                  103260.12902000922
+                ],
+                [
+                  106434.07697033105,
+                  103259.97502001177
+                ],
+                [
+                  106433.42597033325,
+                  103259.9410200124
+                ],
+                [
+                  106430.1579703421,
+                  103259.77102001544
+                ],
+                [
+                  106430.02897034274,
+                  103259.76402001624
+                ],
+                [
+                  106427.25397035005,
+                  103259.6200200184
+                ],
+                [
+                  106426.93497035294,
+                  103262.43502001022
+                ],
+                [
+                  106426.77497035524,
+                  103263.85702000663
+                ],
+                [
+                  106426.11597036148,
+                  103269.67701999113
+                ],
+                [
+                  106426.00297036173,
+                  103270.67301998864
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "009-082-001",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AV. CALLAO 796",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 3,
+    "centroide": [
+      -58.39315074804988,
+      -34.599814790276916
+    ],
+    "direccion": "CALLAO AV. 796",
+    "fondo": "13.35",
+    "frente": "13.63",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "082",
+    "parcela": "001",
+    "pdamatriz": "205220",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "11",
+    "propiedad_horizontal": "Si",
+    "puertas": [
+      {
+        "altura": 796,
+        "calle": "CALLAO AV.",
+        "codigo_calle": 3030,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      },
+      {
+        "altura": 1802,
+        "calle": "CORDOBA AV.",
+        "codigo_calle": 3165,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      },
+      {
+        "altura": 1810,
+        "calle": "CORDOBA AV.",
+        "codigo_calle": 3165,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "009",
+    "smp": "009-082-001",
+    "smp_anterior": "009-082-041",
+    "smp_siguiente": "009-082-002",
+    "srid": 4326,
+    "superficie_cubierta": "2246.00",
+    "superficie_total": "182.00",
+    "unidades_funcionales": "11",
+    "vuc": "0.00"
+  },
+  "smp": "009-082-001"
+}

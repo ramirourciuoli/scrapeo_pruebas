@@ -1,0 +1,391 @@
+{
+  "area_m2": 225.42581844329834,
+  "centroide_lonlat": {
+    "lat": -34.550766,
+    "lon": -58.476919
+  },
+  "centroide_xy": {
+    "x": 98749.976323967,
+    "y": 108708.7352005242
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/9/06/043-082-018_0000229906.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION043/043-082-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION043/PI-043-082-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "043-082-017",
+            "043-082-002c",
+            "043-082-019"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 310.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 225.448655317094,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 225.4,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "043-082-018"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Saavedra",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1429",
+    "codigo_postal_argentino": "C1429APN",
+    "comisaria": "35",
+    "comisaria_vecinal": "12A",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   X",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "43"
+  },
+  "debug": {
+    "address": "PINTO 3860",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.4769185751682,
+        -34.550765612951736
+      ],
+      "direccion": "",
+      "fondo": "25.98",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "082",
+      "parcela": "018",
+      "pdamatriz": "370243",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "043",
+      "smp": "043-082-018",
+      "smp_anterior": "043-082-017",
+      "smp_siguiente": "043-082-019",
+      "srid": 4326,
+      "superficie_cubierta": "178.00",
+      "superficie_total": "225.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3860,
+      "cod_calle": 17087
+    },
+    "usig_direccion_elegida": {
+      "altura": 3860,
+      "cod_calle": 17087,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.476777",
+        "y": "-34.550691"
+      },
+      "direccion": "PINTO 3860, CABA",
+      "nombre_calle": "PINTO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3860,
+          "cod_calle": 17087,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.476777",
+            "y": "-34.550691"
+          },
+          "direccion": "PINTO 3860, CABA",
+          "nombre_calle": "PINTO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3860,
+          "cod_calle": 71397,
+          "cod_calle_cruce": null,
+          "cod_partido": "jose_c_paz",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7557143734694,
+            "y": -34.5443567489796
+          },
+          "direccion": "General Pinto 3860, José C. Paz",
+          "nombre_calle": "General Pinto",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "José C. Paz",
+          "nombre_partido": "José C. Paz",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3860,
+          "cod_calle": 40722,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3540971454546,
+            "y": -34.7217713375
+          },
+          "direccion": "General Pinto 3860, Lanús",
+          "nombre_calle": "General Pinto",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Monte Chingolo",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98741.42799600602,
+                  108708.56301052269
+                ],
+                [
+                  98754.44999597539,
+                  108716.57501049049
+                ],
+                [
+                  98758.76399596556,
+                  108719.2290104799
+                ],
+                [
+                  98759.44099596204,
+                  108718.15301048211
+                ],
+                [
+                  98760.77199595695,
+                  108716.03701048662
+                ],
+                [
+                  98761.74799595283,
+                  108714.48501049107
+                ],
+                [
+                  98763.36199594646,
+                  108711.91901049644
+                ],
+                [
+                  98758.7659959573,
+                  108709.07901050805
+                ],
+                [
+                  98757.8739959594,
+                  108708.52701051012
+                ],
+                [
+                  98757.4479959604,
+                  108708.2640105118
+                ],
+                [
+                  98752.03199597288,
+                  108704.91701052521
+                ],
+                [
+                  98749.63299597919,
+                  108703.43401053117
+                ],
+                [
+                  98749.07899598002,
+                  108703.09201053239
+                ],
+                [
+                  98747.21099598461,
+                  108701.93701053676
+                ],
+                [
+                  98745.46899598814,
+                  108700.86101054068
+                ],
+                [
+                  98745.36999598892,
+                  108700.80001054116
+                ],
+                [
+                  98741.19299599853,
+                  108698.21801055208
+                ],
+                [
+                  98739.12799600641,
+                  108701.56101054372
+                ],
+                [
+                  98737.01499601506,
+                  108704.98301053597
+                ],
+                [
+                  98736.62799601653,
+                  108705.61001053482
+                ],
+                [
+                  98739.24199601045,
+                  108707.21801052836
+                ],
+                [
+                  98739.94899600919,
+                  108707.65301052618
+                ],
+                [
+                  98740.98099600642,
+                  108708.28801052345
+                ],
+                [
+                  98741.42799600602,
+                  108708.56301052269
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "043-082-018",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "PINTO 3860",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.4769185751682,
+      -34.550765612951736
+    ],
+    "direccion": "",
+    "fondo": "25.98",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "082",
+    "parcela": "018",
+    "pdamatriz": "370243",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "043",
+    "smp": "043-082-018",
+    "smp_anterior": "043-082-017",
+    "smp_siguiente": "043-082-019",
+    "srid": 4326,
+    "superficie_cubierta": "178.00",
+    "superficie_total": "225.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "043-082-018",
+  "_http_status": 200
+}

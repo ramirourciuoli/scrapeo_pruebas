@@ -1,0 +1,385 @@
+{
+  "area_m2": 286.194917678833,
+  "centroide_lonlat": {
+    "lat": -34.577628,
+    "lon": -58.43299
+  },
+  "centroide_xy": {
+    "x": 102781.24678327062,
+    "y": 105728.44664714814
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 0.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "U",
+            "distrito_especifico": "U 20"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.5,
+          "fot_perim_libre": 3.8,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/8/90/035-119-030_0000281890.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION035/035-119-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION035/PI-035-119-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "035-119-031",
+            "035-119-029"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "U20",
+          "incidencia_uva": 550.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 44074.05
+        },
+        "rivolta": 0,
+        "subzona": "Zona 5",
+        "sup_edificable_planta": 286.195150000084,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 286.2,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "035-119-030"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.A.FERNÁNDEZ",
+    "barrio": "Palermo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1425",
+    "codigo_postal_argentino": "C1425BTK",
+    "comisaria": "31",
+    "comisaria_vecinal": "14B",
+    "comuna": "Comuna 14",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   IX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "35"
+  },
+  "debug": {
+    "address": "PARAGUAY 5401",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.43298952954869,
+        -34.577627760358254
+      ],
+      "direccion": "",
+      "fondo": "22.00",
+      "frente": "13.00",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "119",
+      "parcela": "030",
+      "pdamatriz": "404218",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "4",
+      "propiedad_horizontal": "Si",
+      "seccion": "035",
+      "smp": "035-119-030",
+      "smp_anterior": "035-119-029",
+      "smp_siguiente": "035-119-031",
+      "srid": 4326,
+      "superficie_cubierta": "1006.00",
+      "superficie_total": "286.00",
+      "unidades_funcionales": "14",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 5401,
+      "cod_calle": 17017
+    },
+    "usig_direccion_elegida": {
+      "altura": 5401,
+      "cod_calle": 17017,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.433023",
+        "y": "-34.577749"
+      },
+      "direccion": "PARAGUAY 5401, CABA",
+      "nombre_calle": "PARAGUAY",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 5401,
+          "cod_calle": 17017,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.433023",
+            "y": "-34.577749"
+          },
+          "direccion": "PARAGUAY 5401, CABA",
+          "nombre_calle": "PARAGUAY",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 5401,
+          "cod_calle": 65118,
+          "cod_calle_cruce": null,
+          "cod_partido": "moreno",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7903061,
+            "y": -34.6222065
+          },
+          "direccion": "Paraguay 5401, Moreno",
+          "nombre_calle": "Paraguay",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Moreno",
+          "nombre_partido": "Moreno",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102788.6579824087,
+                  105723.48301584748
+                ],
+                [
+                  102785.04498241605,
+                  105719.66701586128
+                ],
+                [
+                  102784.47998241773,
+                  105719.07001586334
+                ],
+                [
+                  102778.42998243475,
+                  105718.94001586834
+                ],
+                [
+                  102774.15498245036,
+                  105722.98801586064
+                ],
+                [
+                  102769.44598246808,
+                  105727.44901584994
+                ],
+                [
+                  102769.08298246757,
+                  105727.79301584975
+                ],
+                [
+                  102770.30748330007,
+                  105729.07521567319
+                ],
+                [
+                  102770.80198246462,
+                  105729.59301584598
+                ],
+                [
+                  102772.6933557422,
+                  105731.57317682693
+                ],
+                [
+                  102774.25589327507,
+                  105733.20906535862
+                ],
+                [
+                  102774.67898245621,
+                  105733.65201582926
+                ],
+                [
+                  102776.64590518245,
+                  105735.7111092536
+                ],
+                [
+                  102778.41798244779,
+                  105737.56601581536
+                ],
+                [
+                  102778.63898244814,
+                  105737.7980158153
+                ],
+                [
+                  102780.9679824443,
+                  105740.23601580682
+                ],
+                [
+                  102781.37368244384,
+                  105739.85411580719
+                ],
+                [
+                  102783.5079824345,
+                  105737.84501581086
+                ],
+                [
+                  102785.16998242818,
+                  105736.27901581433
+                ],
+                [
+                  102785.94898242559,
+                  105735.54501581565
+                ],
+                [
+                  102786.95158242228,
+                  105734.60081581774
+                ],
+                [
+                  102789.64848241267,
+                  105732.06101582246
+                ],
+                [
+                  102791.26688240704,
+                  105730.53681582562
+                ],
+                [
+                  102793.4179823989,
+                  105728.51101582978
+                ],
+                [
+                  102791.40798240318,
+                  105726.38801583755
+                ],
+                [
+                  102789.78798240633,
+                  105724.67701584345
+                ],
+                [
+                  102788.6579824087,
+                  105723.48301584748
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "035-119-030",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "PARAGUAY 5401",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.43298952954869,
+      -34.577627760358254
+    ],
+    "direccion": "",
+    "fondo": "22.00",
+    "frente": "13.00",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "119",
+    "parcela": "030",
+    "pdamatriz": "404218",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "4",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "035",
+    "smp": "035-119-030",
+    "smp_anterior": "035-119-029",
+    "smp_siguiente": "035-119-031",
+    "srid": 4326,
+    "superficie_cubierta": "1006.00",
+    "superficie_total": "286.00",
+    "unidades_funcionales": "14",
+    "vuc": "0.00"
+  },
+  "smp": "035-119-030",
+  "_http_status": 200
+}

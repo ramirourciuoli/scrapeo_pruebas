@@ -1,0 +1,342 @@
+{
+  "area_m2": 143.80225658416748,
+  "centroide_lonlat": {
+    "lat": -34.603758,
+    "lon": -58.477031
+  },
+  "centroide_xy": {
+    "x": 98740.43292678022,
+    "y": 102830.05131242615
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/4/26/069-078A-001_0000106426.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION069/069-078A-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION069/PI-069-078A-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "069-078A-030",
+            "069-078A-002"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 130.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 143.888950000009,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 143.8,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "069-078A-001"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. T. ÁLVAREZ",
+    "barrio": "Villa Del Parque",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1417",
+    "codigo_postal_argentino": "C1417DUB",
+    "comisaria": "41",
+    "comisaria_vecinal": "11A",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "69"
+  },
+  "debug": {
+    "address": "CARACAS 2514",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.47703126222529,
+        -34.60375757972263
+      ],
+      "direccion": "",
+      "fondo": "12.74",
+      "frente": "11.38",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "078A",
+      "parcela": "001",
+      "pdamatriz": "244023",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "069",
+      "smp": "069-078A-001",
+      "smp_anterior": "069-078A-030",
+      "smp_siguiente": "069-078A-002",
+      "srid": 4326,
+      "superficie_cubierta": "147.00",
+      "superficie_total": "145.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2514,
+      "cod_calle": 3062
+    },
+    "usig_direccion_elegida": {
+      "altura": 2514,
+      "cod_calle": 3062,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.476941",
+        "y": "-34.603713"
+      },
+      "direccion": "CARACAS 2514, CABA",
+      "nombre_calle": "CARACAS",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2514,
+          "cod_calle": 3062,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.476941",
+            "y": "-34.603713"
+          },
+          "direccion": "CARACAS 2514, CABA",
+          "nombre_calle": "CARACAS",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2514,
+          "cod_calle": 162884,
+          "cod_calle_cruce": null,
+          "cod_partido": "ituzaingo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6904751408163,
+            "y": -34.6550850367347
+          },
+          "direccion": "Caracas 2514, Ituzaingó",
+          "nombre_calle": "Caracas",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ituzaingó",
+          "nombre_partido": "Ituzaingó",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2514,
+          "cod_calle": 48500,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_isidro",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5222597513602,
+            "y": -34.5050225268548
+          },
+          "direccion": "Caracas 2514, San Isidro",
+          "nombre_calle": "Caracas",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Martínez",
+          "nombre_partido": "San Isidro",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98740.69699158998,
+                  102839.04502698354
+                ],
+                [
+                  98746.45799156607,
+                  102830.16202700394
+                ],
+                [
+                  98746.8099915652,
+                  102829.62002700634
+                ],
+                [
+                  98745.70099156458,
+                  102823.67102702233
+                ],
+                [
+                  98741.74799157263,
+                  102821.0320270319
+                ],
+                [
+                  98741.08299157472,
+                  102820.5880270343
+                ],
+                [
+                  98737.90899158774,
+                  102825.40402702492
+                ],
+                [
+                  98735.30399159732,
+                  102829.35602701298
+                ],
+                [
+                  98734.00799160305,
+                  102831.3220270093
+                ],
+                [
+                  98732.44499160915,
+                  102833.69302700466
+                ],
+                [
+                  98736.47399159931,
+                  102836.30602699536
+                ],
+                [
+                  98740.69699158998,
+                  102839.04502698354
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "069-078A-001",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CARACAS 2514",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.47703126222529,
+      -34.60375757972263
+    ],
+    "direccion": "",
+    "fondo": "12.74",
+    "frente": "11.38",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "078A",
+    "parcela": "001",
+    "pdamatriz": "244023",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "069",
+    "smp": "069-078A-001",
+    "smp_anterior": "069-078A-030",
+    "smp_siguiente": "069-078A-002",
+    "srid": 4326,
+    "superficie_cubierta": "147.00",
+    "superficie_total": "145.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "069-078A-001",
+  "_http_status": 200
+}

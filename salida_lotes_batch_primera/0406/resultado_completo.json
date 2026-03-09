@@ -1,0 +1,340 @@
+{
+  "area_m2": 135.66195678710938,
+  "centroide_lonlat": {
+    "lat": -34.634929,
+    "lon": -58.426195
+  },
+  "centroide_xy": {
+    "x": 103402.37860664498,
+    "y": 99371.4304290913
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.0,
+          "fot_perim_libre": 3.0,
+          "fot_semi_libre": 3.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/26/038-129-022a_0000045626.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION038/038-129-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION038/PI-038-129-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "038-129-022b",
+            "038-129-021"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "E3",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 135.640500000095,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 135.7,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "038-129-022A"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.M. PENNA",
+    "barrio": "Parque Chacabuco",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1424",
+    "codigo_postal_argentino": "C1424BPF",
+    "comisaria": "34",
+    "comisaria_vecinal": "7B",
+    "comuna": "Comuna 7",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "38"
+  },
+  "debug": {
+    "address": "SENILLOSA 1596",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.42619485367203,
+        -34.63492939085313
+      ],
+      "direccion": "",
+      "fondo": "9.53",
+      "frente": "14.38",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "129",
+      "parcela": "022A",
+      "pdamatriz": "95163",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "038",
+      "smp": "038-129-022A",
+      "smp_anterior": "038-129-021",
+      "smp_siguiente": "038-129-022B",
+      "srid": 4326,
+      "superficie_cubierta": "234.00",
+      "superficie_total": "137.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1596,
+      "cod_calle": 20089
+    },
+    "usig_direccion_elegida": {
+      "altura": 1596,
+      "cod_calle": 20089,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.426279",
+        "y": "-34.634945"
+      },
+      "direccion": "SENILLOSA 1596, CABA",
+      "nombre_calle": "SENILLOSA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1596,
+          "cod_calle": 20089,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.426279",
+            "y": "-34.634945"
+          },
+          "direccion": "SENILLOSA 1596, CABA",
+          "nombre_calle": "SENILLOSA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  103396.55397592793,
+                  99379.19103318141
+                ],
+                [
+                  103398.12197592498,
+                  99379.5020331791
+                ],
+                [
+                  103401.5279759161,
+                  99380.17803317634
+                ],
+                [
+                  103404.19797590777,
+                  99380.7080331705
+                ],
+                [
+                  103404.94597590392,
+                  99377.24903318088
+                ],
+                [
+                  103405.23997590269,
+                  99375.88903318401
+                ],
+                [
+                  103405.36897590109,
+                  99375.29403318616
+                ],
+                [
+                  103405.58297589992,
+                  99374.30203318919
+                ],
+                [
+                  103406.0769758968,
+                  99372.01903319402
+                ],
+                [
+                  103407.10497589104,
+                  99367.26403320738
+                ],
+                [
+                  103407.27397588982,
+                  99366.48103320927
+                ],
+                [
+                  103407.45897588819,
+                  99365.62603321217
+                ],
+                [
+                  103408.11197588348,
+                  99362.60503322078
+                ],
+                [
+                  103404.57997589327,
+                  99361.90003322583
+                ],
+                [
+                  103399.52997591055,
+                  99365.27003321814
+                ],
+                [
+                  103398.30097591743,
+                  99371.01903320389
+                ],
+                [
+                  103397.94797591932,
+                  99372.6690331996
+                ],
+                [
+                  103397.86797592028,
+                  99373.04203319835
+                ],
+                [
+                  103397.80597592107,
+                  99373.33503319684
+                ],
+                [
+                  103396.55397592793,
+                  99379.19103318141
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "038-129-022A",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "SENILLOSA 1596",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.42619485367203,
+      -34.63492939085313
+    ],
+    "direccion": "",
+    "fondo": "9.53",
+    "frente": "14.38",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "129",
+    "parcela": "022A",
+    "pdamatriz": "95163",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "038",
+    "smp": "038-129-022A",
+    "smp_anterior": "038-129-021",
+    "smp_siguiente": "038-129-022B",
+    "srid": 4326,
+    "superficie_cubierta": "234.00",
+    "superficie_total": "137.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "038-129-022A",
+  "_http_status": 200
+}

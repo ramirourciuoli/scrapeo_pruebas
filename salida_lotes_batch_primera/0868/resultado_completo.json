@@ -1,0 +1,324 @@
+{
+  "area_m2": 117.58320713043213,
+  "centroide_lonlat": {
+    "lat": -34.639186,
+    "lon": -58.438147
+  },
+  "centroide_xy": {
+    "x": 102306.33282794083,
+    "y": 98899.50225129427
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/2/69/044-147A-025_0000065269.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION044/044-147A-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION044/PI-044-147A-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "044-147A-024",
+            "044-147A-026"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "AE 26",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 117.616449999997,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 117.6,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "044-147A-025"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. P. PIÑERO",
+    "barrio": "Parque Chacabuco",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1406",
+    "codigo_postal_argentino": "C1406IFA",
+    "comisaria": "12",
+    "comisaria_vecinal": "7B",
+    "comuna": "Comuna 7",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "44"
+  },
+  "debug": {
+    "address": "SARAZA 1441",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.43814666438137,
+        -34.63918648715161
+      ],
+      "direccion": "",
+      "fondo": "20.53",
+      "frente": "5.70",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "147A",
+      "parcela": "025",
+      "pdamatriz": "46802",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "044",
+      "smp": "044-147A-025",
+      "smp_anterior": "044-147A-024",
+      "smp_siguiente": "044-147A-026",
+      "srid": 4326,
+      "superficie_cubierta": "141.00",
+      "superficie_total": "117.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1441,
+      "cod_calle": 20073
+    },
+    "usig_direccion_elegida": {
+      "altura": 1441,
+      "cod_calle": 20073,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.438074",
+        "y": "-34.639257"
+      },
+      "direccion": "SARAZA 1441, CABA",
+      "nombre_calle": "SARAZA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1441,
+          "cod_calle": 20073,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.438074",
+            "y": "-34.639257"
+          },
+          "direccion": "SARAZA 1441, CABA",
+          "nombre_calle": "SARAZA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102310.71897861699,
+                  98905.68603532665
+                ],
+                [
+                  102312.03597861082,
+                  98901.44803533764
+                ],
+                [
+                  102312.29997860895,
+                  98900.6000353396
+                ],
+                [
+                  102313.63297860255,
+                  98896.30903535138
+                ],
+                [
+                  102310.81497860982,
+                  98895.44003535595
+                ],
+                [
+                  102310.14997861152,
+                  98895.23503535692
+                ],
+                [
+                  102305.429978623,
+                  98893.7800353645
+                ],
+                [
+                  102300.24997863977,
+                  98896.4100353609
+                ],
+                [
+                  102298.94897864675,
+                  98900.80303534973
+                ],
+                [
+                  102298.56297864889,
+                  98902.10703534592
+                ],
+                [
+                  102303.21297863724,
+                  98903.47603533856
+                ],
+                [
+                  102306.1989786291,
+                  98904.35503533448
+                ],
+                [
+                  102306.34297862905,
+                  98904.39803533381
+                ],
+                [
+                  102306.82197862715,
+                  98904.53903533285
+                ],
+                [
+                  102308.28797862338,
+                  98904.97003533045
+                ],
+                [
+                  102310.71897861699,
+                  98905.68603532665
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "044-147A-025",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "SARAZA 1441",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.43814666438137,
+      -34.63918648715161
+    ],
+    "direccion": "",
+    "fondo": "20.53",
+    "frente": "5.70",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "147A",
+    "parcela": "025",
+    "pdamatriz": "46802",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "044",
+    "smp": "044-147A-025",
+    "smp_anterior": "044-147A-024",
+    "smp_siguiente": "044-147A-026",
+    "srid": 4326,
+    "superficie_cubierta": "141.00",
+    "superficie_total": "117.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "044-147A-025",
+  "_http_status": 200
+}

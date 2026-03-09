@@ -1,0 +1,380 @@
+{
+  "area_m2": 122.16912174224854,
+  "centroide_lonlat": {
+    "lat": -34.656355,
+    "lon": -58.502183
+  },
+  "centroide_xy": {
+    "x": 96435.51364428512,
+    "y": 96994.53093839066
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 2.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/75/076-159-025d_0000048075.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION076/076-159-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION076/PI-076-159-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "076-159-025c",
+            "076-159-026",
+            "076-159-024"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "E2",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 703.06,
+          "plusvalia_sl": 703.06
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 122.05986898942,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 122.2,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "076-159-025D"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Mataderos",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1440",
+    "codigo_postal_argentino": "C1440CNO",
+    "comisaria": "42",
+    "comisaria_vecinal": "9A",
+    "comuna": "Comuna 9",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "76"
+  },
+  "debug": {
+    "address": "MURGUIONDO 1881",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.5021830340077,
+        -34.65635458252745
+      ],
+      "direccion": "",
+      "fondo": "15.66",
+      "frente": "7.79",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "159",
+      "parcela": "025D",
+      "pdamatriz": "79474",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "076",
+      "smp": "076-159-025D",
+      "smp_anterior": "076-159-025C",
+      "smp_siguiente": "076-159-026",
+      "srid": 4326,
+      "superficie_cubierta": "106.00",
+      "superficie_total": "122.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1881,
+      "cod_calle": 13145
+    },
+    "usig_direccion_elegida": {
+      "altura": 1881,
+      "cod_calle": 13145,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.502093",
+        "y": "-34.656294"
+      },
+      "direccion": "MURGUIONDO 1881, CABA",
+      "nombre_calle": "MURGUIONDO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1881,
+          "cod_calle": 13145,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.502093",
+            "y": "-34.656294"
+          },
+          "direccion": "MURGUIONDO 1881, CABA",
+          "nombre_calle": "MURGUIONDO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1881,
+          "cod_calle": 28351,
+          "cod_calle_cruce": null,
+          "cod_partido": "avellaneda",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4049391622449,
+            "y": -34.6633232051021
+          },
+          "direccion": "Coronel Murguiondo 1881, Avellaneda",
+          "nombre_calle": "Coronel Murguiondo",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Piñeyro",
+          "nombre_partido": "Avellaneda",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1881,
+          "cod_calle": 214001,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5726447428571,
+            "y": -34.7417443714286
+          },
+          "direccion": "Murguiondo 1881, La Matanza",
+          "nombre_calle": "Murguiondo",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Gregorio de Laferrere",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1881,
+          "cod_calle": 78904,
+          "cod_calle_cruce": null,
+          "cod_partido": "malvinas_argentinas",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7017654341463,
+            "y": -34.5015989195122
+          },
+          "direccion": "Murguiondo 1881, Malvinas Argentinas",
+          "nombre_calle": "Murguiondo",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Los Polvorines",
+          "nombre_partido": "Malvinas Argentinas",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96439.00299365094,
+                  97002.66404508313
+                ],
+                [
+                  96443.96599363338,
+                  96996.64604509727
+                ],
+                [
+                  96441.61299363825,
+                  96994.62604510444
+                ],
+                [
+                  96440.63199363997,
+                  96993.78404510769
+                ],
+                [
+                  96439.97399364255,
+                  96993.21904510862
+                ],
+                [
+                  96435.51199365195,
+                  96989.3890451242
+                ],
+                [
+                  96435.01199365193,
+                  96988.96004512382
+                ],
+                [
+                  96434.829993653,
+                  96988.8040451261
+                ],
+                [
+                  96432.25199365885,
+                  96986.59104513371
+                ],
+                [
+                  96429.17599366923,
+                  96989.72704512713
+                ],
+                [
+                  96426.85299367765,
+                  96992.09504512281
+                ],
+                [
+                  96428.90899367319,
+                  96993.88404511445
+                ],
+                [
+                  96429.4519936719,
+                  96994.35504511418
+                ],
+                [
+                  96432.356993666,
+                  96996.88304510515
+                ],
+                [
+                  96434.50799366174,
+                  96998.75404509841
+                ],
+                [
+                  96435.19399365973,
+                  96999.3510450963
+                ],
+                [
+                  96439.00299365094,
+                  97002.66404508313
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "076-159-025D",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MURGUIONDO 1881",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.5021830340077,
+      -34.65635458252745
+    ],
+    "direccion": "",
+    "fondo": "15.66",
+    "frente": "7.79",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "159",
+    "parcela": "025D",
+    "pdamatriz": "79474",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "076",
+    "smp": "076-159-025D",
+    "smp_anterior": "076-159-025C",
+    "smp_siguiente": "076-159-026",
+    "srid": 4326,
+    "superficie_cubierta": "106.00",
+    "superficie_total": "122.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "076-159-025D",
+  "_http_status": 200
+}

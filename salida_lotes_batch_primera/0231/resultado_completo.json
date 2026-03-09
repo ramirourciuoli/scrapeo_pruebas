@@ -1,0 +1,400 @@
+{
+  "area_m2": 127.85629177093506,
+  "centroide_lonlat": {
+    "lat": -34.632981,
+    "lon": -58.494175
+  },
+  "centroide_xy": {
+    "x": 97168.80300576589,
+    "y": 99587.8120444106
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 1,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/4/83/077-032B-013_0000168483.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION077/077-032B-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION077/PI-077-032B-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "077-032B-014c",
+            "077-032B-015",
+            "077-032B-012"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 70.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 127.9,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "077-032B-013"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Velez Sarsfield",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1407",
+    "codigo_postal_argentino": "C1407BDE",
+    "comisaria": "43",
+    "comisaria_vecinal": "10A",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "77"
+  },
+  "debug": {
+    "address": "BERMUDEZ 415",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.49417531047383,
+        -34.63298062319168
+      ],
+      "direccion": "",
+      "fondo": "14.89",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "032B",
+      "parcela": "013",
+      "pdamatriz": "5783",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "077",
+      "smp": "077-032B-013",
+      "smp_anterior": "077-032B-012",
+      "smp_siguiente": "077-032B-014C",
+      "srid": 4326,
+      "superficie_cubierta": "167.00",
+      "superficie_total": "129.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 415,
+      "cod_calle": 2059
+    },
+    "usig_direccion_elegida": {
+      "altura": 415,
+      "cod_calle": 2059,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.494287",
+        "y": "-34.632996"
+      },
+      "direccion": "BERMUDEZ 415, CABA",
+      "nombre_calle": "BERMUDEZ",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 415,
+          "cod_calle": 2059,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.494287",
+            "y": "-34.632996"
+          },
+          "direccion": "BERMUDEZ 415, CABA",
+          "nombre_calle": "BERMUDEZ",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 415,
+          "cod_calle": 53702,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3818585050505,
+            "y": -34.8274566954546
+          },
+          "direccion": "Bermúdez 415, Almirante Brown",
+          "nombre_calle": "Bermúdez",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Burzaco",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 415,
+          "cod_calle": 75625,
+          "cod_calle_cruce": null,
+          "cod_partido": "moron",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6411807989796,
+            "y": -34.6949729255102
+          },
+          "direccion": "Jorge Bermudez 415, Morón",
+          "nombre_calle": "Jorge Bermudez",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Castelar",
+          "nombre_partido": "Morón",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 415,
+          "cod_calle": 51953,
+          "cod_calle_cruce": null,
+          "cod_partido": "vicente_lopez",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4843256651515,
+            "y": -34.4976410681818
+          },
+          "direccion": "Capitán Justo Germán de Bermúdez 415, Vicente López",
+          "nombre_calle": "Capitán Justo Germán de Bermúdez",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "La Lucila",
+          "nombre_partido": "Vicente López",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97163.60299356782,
+                  99591.23703727935
+                ],
+                [
+                  97166.0339935608,
+                  99591.6890372748
+                ],
+                [
+                  97172.41399354364,
+                  99592.87403726738
+                ],
+                [
+                  97173.87499354062,
+                  99593.14603726528
+                ],
+                [
+                  97175.37299353631,
+                  99593.42403726312
+                ],
+                [
+                  97176.03699353116,
+                  99589.4510372743
+                ],
+                [
+                  97176.09199353158,
+                  99589.11803727577
+                ],
+                [
+                  97176.29799353021,
+                  99587.88703727824
+                ],
+                [
+                  97176.70999352721,
+                  99585.42203728488
+                ],
+                [
+                  97176.79499352587,
+                  99584.91103728666
+                ],
+                [
+                  97174.20799353097,
+                  99584.42903728894
+                ],
+                [
+                  97172.43699353756,
+                  99584.09903729134
+                ],
+                [
+                  97168.97499354693,
+                  99583.45303729587
+                ],
+                [
+                  97167.9879935493,
+                  99583.26903729778
+                ],
+                [
+                  97166.50899355272,
+                  99582.99303729914
+                ],
+                [
+                  97164.71799355822,
+                  99582.66003730337
+                ],
+                [
+                  97164.23799355945,
+                  99582.57003730285
+                ],
+                [
+                  97162.23699356502,
+                  99582.19703730562
+                ],
+                [
+                  97162.19899356543,
+                  99582.42503730461
+                ],
+                [
+                  97161.2969935718,
+                  99587.82603729144
+                ],
+                [
+                  97160.8139935751,
+                  99590.71903728167
+                ],
+                [
+                  97163.60299356782,
+                  99591.23703727935
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "077-032B-013",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "BERMUDEZ 415",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.49417531047383,
+      -34.63298062319168
+    ],
+    "direccion": "",
+    "fondo": "14.89",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "032B",
+    "parcela": "013",
+    "pdamatriz": "5783",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "077",
+    "smp": "077-032B-013",
+    "smp_anterior": "077-032B-012",
+    "smp_siguiente": "077-032B-014C",
+    "srid": 4326,
+    "superficie_cubierta": "167.00",
+    "superficie_total": "129.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "077-032B-013",
+  "_http_status": 200
+}

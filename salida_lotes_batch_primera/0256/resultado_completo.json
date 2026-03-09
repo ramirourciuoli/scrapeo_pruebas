@@ -1,0 +1,286 @@
+{
+  "area_m2": 159.36678218841553,
+  "centroide_lonlat": {
+    "lat": -34.661772,
+    "lon": -58.427173
+  },
+  "centroide_xy": {
+    "x": 103311.5864034498,
+    "y": 96393.61637082728
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 2.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/2/39/046-059-028_0000075239.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION046/046-059-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION046/PI-046-059-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "046-059-027",
+            "046-059-029c",
+            "046-059-029d",
+            "046-059-030"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "I1",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 510.03,
+          "plusvalia_sl": 510.03
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 159.385599999983,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 159.4,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "046-059-028"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.M. PENNA",
+    "barrio": "Villa Soldati",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1437",
+    "codigo_postal_argentino": "C1437BEL",
+    "comisaria": "36",
+    "comisaria_vecinal": "8B",
+    "comuna": "Comuna 8",
+    "distrito_economico": "DISTRITO DEL DEPORTE",
+    "distrito_escolar": "Distrito Escolar   XIX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "46"
+  },
+  "debug": {
+    "address": "CARLOS BERG 3574",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.427173361007156,
+        -34.66177215469187
+      ],
+      "direccion": "",
+      "fondo": "18.48",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "059",
+      "parcela": "028",
+      "pdamatriz": "52467",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "046",
+      "smp": "046-059-028",
+      "smp_anterior": "046-059-027",
+      "smp_siguiente": "046-059-029C",
+      "srid": 4326,
+      "superficie_cubierta": "160.00",
+      "superficie_total": "160.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3574,
+      "cod_calle": 2056
+    },
+    "usig_direccion_elegida": {
+      "altura": 3574,
+      "cod_calle": 2056,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.427305",
+        "y": "-34.661840"
+      },
+      "direccion": "BERG, CARLOS 3574, CABA",
+      "nombre_calle": "BERG, CARLOS",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3574,
+          "cod_calle": 2056,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.427305",
+            "y": "-34.661840"
+          },
+          "direccion": "BERG, CARLOS 3574, CABA",
+          "nombre_calle": "BERG, CARLOS",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  103316.68359056364,
+                  96402.42741323006
+                ],
+                [
+                  103321.61823244065,
+                  96395.17346436929
+                ],
+                [
+                  103314.93313604245,
+                  96390.66066402235
+                ],
+                [
+                  103306.32200342319,
+                  96384.84914593416
+                ],
+                [
+                  103301.56947867818,
+                  96391.92120650844
+                ],
+                [
+                  103316.68359056364,
+                  96402.42741323006
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "046-059-028",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CARLOS BERG 3574",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.427173361007156,
+      -34.66177215469187
+    ],
+    "direccion": "",
+    "fondo": "18.48",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "059",
+    "parcela": "028",
+    "pdamatriz": "52467",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "046",
+    "smp": "046-059-028",
+    "smp_anterior": "046-059-027",
+    "smp_siguiente": "046-059-029C",
+    "srid": 4326,
+    "superficie_cubierta": "160.00",
+    "superficie_total": "160.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "046-059-028",
+  "_http_status": 200
+}

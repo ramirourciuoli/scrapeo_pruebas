@@ -1,0 +1,383 @@
+{
+  "area_m2": 388.5359754562378,
+  "centroide_lonlat": {
+    "lat": -34.629034,
+    "lon": -58.507961
+  },
+  "centroide_xy": {
+    "x": 95904.5257400611,
+    "y": 100025.20929534131
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/96/091-089-038_0000205696.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION091/091-089-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION091/PI-091-089-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "091-089-006",
+            "091-089-039",
+            "091-089-027c",
+            "091-089-037"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 130.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 275.811519856007,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 388.5,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "091-089-038"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Villa Luro",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1407",
+    "codigo_postal_argentino": "C1407BQT",
+    "comisaria": "44",
+    "comisaria_vecinal": "10B",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "91"
+  },
+  "debug": {
+    "address": "VIRGILIO 1036",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.50796063733312,
+        -34.62903357989861
+      ],
+      "direccion": "",
+      "fondo": "48.52",
+      "frente": "7.79",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "089",
+      "parcela": "038",
+      "pdamatriz": "284679",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "091",
+      "smp": "091-089-038",
+      "smp_anterior": "091-089-037",
+      "smp_siguiente": "091-089-039",
+      "srid": 4326,
+      "superficie_cubierta": "347.00",
+      "superficie_total": "378.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1036,
+      "cod_calle": 23073
+    },
+    "usig_direccion_elegida": {
+      "altura": 1036,
+      "cod_calle": 23073,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.507748",
+        "y": "-34.628839"
+      },
+      "direccion": "VIRGILIO 1036, CABA",
+      "nombre_calle": "VIRGILIO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1036,
+          "cod_calle": 23073,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.507748",
+            "y": "-34.628839"
+          },
+          "direccion": "VIRGILIO 1036, CABA",
+          "nombre_calle": "VIRGILIO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1036,
+          "cod_calle": 177820,
+          "cod_calle_cruce": null,
+          "cod_partido": "tigre",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.700940708,
+            "y": -34.426080084
+          },
+          "direccion": "Virgilio Tedín 1036, Tigre",
+          "nombre_calle": "Virgilio Tedín",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Benavídez",
+          "nombre_partido": "Tigre",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  95889.97199745891,
+                  100015.36403704793
+                ],
+                [
+                  95896.38299744645,
+                  100022.29403702338
+                ],
+                [
+                  95897.48299744388,
+                  100023.4840370196
+                ],
+                [
+                  95898.63599744152,
+                  100024.73003701551
+                ],
+                [
+                  95900.74999743735,
+                  100027.01603700692
+                ],
+                [
+                  95908.44199742188,
+                  100035.33203697836
+                ],
+                [
+                  95914.70199740918,
+                  100042.09903695466
+                ],
+                [
+                  95915.2339974087,
+                  100042.67403695191
+                ],
+                [
+                  95918.15999740284,
+                  100045.83703694149
+                ],
+                [
+                  95918.97799739997,
+                  100045.10103694245
+                ],
+                [
+                  95923.98699738213,
+                  100040.59203695168
+                ],
+                [
+                  95918.58699739339,
+                  100034.6790369717
+                ],
+                [
+                  95914.29999740142,
+                  100029.98303698856
+                ],
+                [
+                  95914.11999740207,
+                  100029.7870369888
+                ],
+                [
+                  95911.63299740727,
+                  100027.06203699869
+                ],
+                [
+                  95910.49199740877,
+                  100025.81403700335
+                ],
+                [
+                  95908.81299741255,
+                  100023.97403700993
+                ],
+                [
+                  95906.8589974165,
+                  100021.83503701698
+                ],
+                [
+                  95904.83199742074,
+                  100019.61503702498
+                ],
+                [
+                  95902.03399742588,
+                  100016.5510370355
+                ],
+                [
+                  95894.81399744045,
+                  100008.64403706341
+                ],
+                [
+                  95893.94699744161,
+                  100007.69403706651
+                ],
+                [
+                  95891.21799744763,
+                  100004.70603707706
+                ],
+                [
+                  95885.16699746872,
+                  100010.16903706588
+                ],
+                [
+                  95888.84199746123,
+                  100014.14203705214
+                ],
+                [
+                  95889.97199745891,
+                  100015.36403704793
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "091-089-038",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "VIRGILIO 1036",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.50796063733312,
+      -34.62903357989861
+    ],
+    "direccion": "",
+    "fondo": "48.52",
+    "frente": "7.79",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "089",
+    "parcela": "038",
+    "pdamatriz": "284679",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "091",
+    "smp": "091-089-038",
+    "smp_anterior": "091-089-037",
+    "smp_siguiente": "091-089-039",
+    "srid": 4326,
+    "superficie_cubierta": "347.00",
+    "superficie_total": "378.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "091-089-038",
+  "_http_status": 200
+}

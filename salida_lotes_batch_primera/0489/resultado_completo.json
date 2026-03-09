@@ -1,0 +1,335 @@
+{
+  "area_m2": 216.13367748260498,
+  "centroide_lonlat": {
+    "lat": -34.628178,
+    "lon": -58.49197
+  },
+  "centroide_xy": {
+    "x": 97370.83634743578,
+    "y": 100120.64264662581
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/8/53/085-095-016_0000192853.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION085/085-095-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION085/PI-085-095-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "085-095-003",
+            "085-095-015",
+            "085-095-017",
+            "085-095-004",
+            "085-095-002"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 60.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 216.1,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "085-095-016"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Velez Sarsfield",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1407",
+    "codigo_postal_argentino": "C1407FIL",
+    "comisaria": "43",
+    "comisaria_vecinal": "10A",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "85"
+  },
+  "debug": {
+    "address": "AV. GAONA 4925",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.49197040967308,
+        -34.628178134803214
+      ],
+      "direccion": "",
+      "fondo": "25.20",
+      "frente": "8.61",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "095",
+      "parcela": "016",
+      "pdamatriz": "274688",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "085",
+      "smp": "085-095-016",
+      "smp_anterior": "085-095-015",
+      "smp_siguiente": "085-095-017",
+      "srid": 4326,
+      "superficie_cubierta": "202.00",
+      "superficie_total": "217.00",
+      "unidades_funcionales": "2",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4925,
+      "cod_calle": 7025
+    },
+    "usig_direccion_elegida": {
+      "altura": 4925,
+      "cod_calle": 7025,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.491888",
+        "y": "-34.628315"
+      },
+      "direccion": "GAONA AV. 4925, CABA",
+      "nombre_calle": "GAONA AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4925,
+          "cod_calle": 7025,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.491888",
+            "y": "-34.628315"
+          },
+          "direccion": "GAONA AV. 4925, CABA",
+          "nombre_calle": "GAONA AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97367.3059933927,
+                  100118.07903564791
+                ],
+                [
+                  97366.15999339812,
+                  100120.20003564225
+                ],
+                [
+                  97365.77999339931,
+                  100120.90303564022
+                ],
+                [
+                  97363.9499934073,
+                  100124.29103563342
+                ],
+                [
+                  97362.64999341311,
+                  100126.69903562704
+                ],
+                [
+                  97362.39899341375,
+                  100127.16303562504
+                ],
+                [
+                  97361.2239934186,
+                  100129.33803562153
+                ],
+                [
+                  97361.39299341803,
+                  100129.44603561985
+                ],
+                [
+                  97364.09799341214,
+                  100131.16403561167
+                ],
+                [
+                  97368.56699340156,
+                  100134.00403560279
+                ],
+                [
+                  97370.06199339556,
+                  100131.19603560958
+                ],
+                [
+                  97374.67099337558,
+                  100122.54103563057
+                ],
+                [
+                  97380.5739933505,
+                  100111.45603565671
+                ],
+                [
+                  97372.96699336988,
+                  100107.59803567297
+                ],
+                [
+                  97372.4919933709,
+                  100108.47803566957
+                ],
+                [
+                  97369.00899338572,
+                  100114.92503565652
+                ],
+                [
+                  97367.60399339205,
+                  100117.52703564896
+                ],
+                [
+                  97367.3059933927,
+                  100118.07903564791
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "085-095-016",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AV. GAONA 4925",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.49197040967308,
+      -34.628178134803214
+    ],
+    "direccion": "",
+    "fondo": "25.20",
+    "frente": "8.61",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "095",
+    "parcela": "016",
+    "pdamatriz": "274688",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "085",
+    "smp": "085-095-016",
+    "smp_anterior": "085-095-015",
+    "smp_siguiente": "085-095-017",
+    "srid": 4326,
+    "superficie_cubierta": "202.00",
+    "superficie_total": "217.00",
+    "unidades_funcionales": "2",
+    "vuc": "0.00"
+  },
+  "smp": "085-095-016",
+  "_http_status": 200
+}

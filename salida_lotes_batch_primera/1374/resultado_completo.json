@@ -1,0 +1,316 @@
+{
+  "area_m2": 194.8079776763916,
+  "centroide_lonlat": {
+    "lat": -34.689611,
+    "lon": -58.470738
+  },
+  "centroide_xy": {
+    "x": 99318.41810403114,
+    "y": 93305.86374710676
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/95/082-051-019b_0000004795.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION082/082-051-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION082/PI-082-051-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "082-051-020a",
+            "082-051-019a"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 194.819849999937,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 194.8,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "082-051-019B"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DRA. CECILIA GRIERSON",
+    "barrio": "Villa Riachuelo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1439",
+    "codigo_postal_argentino": "C1439GRT",
+    "comisaria": "52",
+    "comisaria_vecinal": "8C",
+    "comuna": "Comuna 8",
+    "distrito_economico": "DISTRITO DEL DEPORTE",
+    "distrito_escolar": "Distrito Escolar   XXI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "82"
+  },
+  "debug": {
+    "address": "COSQUIN 5208",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.47073797906282,
+        -34.68961063148942
+      ],
+      "direccion": "",
+      "fondo": "14.89",
+      "frente": "12.69",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "051",
+      "parcela": "019B",
+      "pdamatriz": "69154",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "082",
+      "smp": "082-051-019B",
+      "smp_anterior": "082-051-019A",
+      "smp_siguiente": "082-051-020A",
+      "srid": 4326,
+      "superficie_cubierta": "201.00",
+      "superficie_total": "189.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 5208,
+      "cod_calle": 3180
+    },
+    "usig_direccion_elegida": {
+      "altura": 5208,
+      "cod_calle": 3180,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.470814",
+        "y": "-34.689680"
+      },
+      "direccion": "COSQUIN 5208, CABA",
+      "nombre_calle": "COSQUIN",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 5208,
+          "cod_calle": 3180,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.470814",
+            "y": "-34.689680"
+          },
+          "direccion": "COSQUIN 5208, CABA",
+          "nombre_calle": "COSQUIN",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99328.33598374072,
+                  93304.16109380726
+                ],
+                [
+                  99320.91697740811,
+                  93295.99306405205
+                ],
+                [
+                  99320.64781236959,
+                  93295.69704354569
+                ],
+                [
+                  99318.22398278872,
+                  93297.91105330542
+                ],
+                [
+                  99314.87698279996,
+                  93300.96605329905
+                ],
+                [
+                  99313.1269828061,
+                  93302.56505329619
+                ],
+                [
+                  99310.80998281341,
+                  93304.6800532915
+                ],
+                [
+                  99310.66498281715,
+                  93307.80105328184
+                ],
+                [
+                  99310.52998281993,
+                  93310.72005327424
+                ],
+                [
+                  99315.61308095403,
+                  93316.23717483746
+                ],
+                [
+                  99318.08207508549,
+                  93313.89415726412
+                ],
+                [
+                  99319.94907947429,
+                  93312.12114701468
+                ],
+                [
+                  99321.75398278805,
+                  93310.40805326871
+                ],
+                [
+                  99328.33598374072,
+                  93304.16109380726
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "082-051-019B",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "COSQUIN 5208",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.47073797906282,
+      -34.68961063148942
+    ],
+    "direccion": "",
+    "fondo": "14.89",
+    "frente": "12.69",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "051",
+    "parcela": "019B",
+    "pdamatriz": "69154",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "082",
+    "smp": "082-051-019B",
+    "smp_anterior": "082-051-019A",
+    "smp_siguiente": "082-051-020A",
+    "srid": 4326,
+    "superficie_cubierta": "201.00",
+    "superficie_total": "189.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "082-051-019B",
+  "_http_status": 200
+}

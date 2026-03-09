@@ -1,0 +1,324 @@
+{
+  "area_m2": 145.5216245651245,
+  "centroide_lonlat": {
+    "lat": -34.54916,
+    "lon": -58.460302
+  },
+  "centroide_xy": {
+    "x": 100275.15760693062,
+    "y": 108886.93487482221
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/fp/SECCION027/FP-027-052-023-VD.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION027/027-052-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION027/PI-027-052-V3.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "027-052-024",
+            "027-052-022"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "AE 26",
+          "incidencia_uva": 410.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 145.506938251335,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 145.5,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "027-052-023"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Nuñez",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1429",
+    "codigo_postal_argentino": "C1429CEI",
+    "comisaria": "35",
+    "comisaria_vecinal": "13B",
+    "comuna": "Comuna 13",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   X",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "27"
+  },
+  "debug": {
+    "address": "CAMPOS SALLES 1905",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.46030231169226,
+        -34.54915999436095
+      ],
+      "direccion": "",
+      "fondo": "28.13",
+      "frente": "5.12",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "052",
+      "parcela": "023",
+      "pdamatriz": "338405",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "027",
+      "smp": "027-052-023",
+      "smp_anterior": "027-052-022",
+      "smp_siguiente": "027-052-024",
+      "srid": 4326,
+      "superficie_cubierta": "119.00",
+      "superficie_total": "144.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1905,
+      "cod_calle": 3044
+    },
+    "usig_direccion_elegida": {
+      "altura": 1905,
+      "cod_calle": 3044,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.460269",
+        "y": "-34.549213"
+      },
+      "direccion": "CAMPOS SALLES 1905, CABA",
+      "nombre_calle": "CAMPOS SALLES",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1905,
+          "cod_calle": 3044,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.460269",
+            "y": "-34.549213"
+          },
+          "direccion": "CAMPOS SALLES 1905, CABA",
+          "nombre_calle": "CAMPOS SALLES",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  100280.49499183008,
+                  108895.07600884145
+                ],
+                [
+                  100282.70099182139,
+                  108891.48700884922
+                ],
+                [
+                  100283.55999181722,
+                  108890.09000885257
+                ],
+                [
+                  100282.2599918179,
+                  108885.97000886503
+                ],
+                [
+                  100277.09299183065,
+                  108882.84400887755
+                ],
+                [
+                  100275.8419918334,
+                  108882.0870088813
+                ],
+                [
+                  100270.40999184611,
+                  108878.80000889412
+                ],
+                [
+                  100269.53299184937,
+                  108880.24700889137
+                ],
+                [
+                  100268.06199185546,
+                  108882.67200888548
+                ],
+                [
+                  100267.97299185609,
+                  108882.82000888517
+                ],
+                [
+                  100266.48899186193,
+                  108885.26700887913
+                ],
+                [
+                  100265.80999186424,
+                  108886.3870088766
+                ],
+                [
+                  100268.40499185876,
+                  108887.92200887052
+                ],
+                [
+                  100269.42699185622,
+                  108888.52700886756
+                ],
+                [
+                  100276.58799183962,
+                  108892.76400885094
+                ],
+                [
+                  100280.49499183008,
+                  108895.07600884145
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "027-052-023",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CAMPOS SALLES 1905",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.46030231169226,
+      -34.54915999436095
+    ],
+    "direccion": "",
+    "fondo": "28.13",
+    "frente": "5.12",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "052",
+    "parcela": "023",
+    "pdamatriz": "338405",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "027",
+    "smp": "027-052-023",
+    "smp_anterior": "027-052-022",
+    "smp_siguiente": "027-052-024",
+    "srid": 4326,
+    "superficie_cubierta": "119.00",
+    "superficie_total": "144.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "027-052-023",
+  "_http_status": 200
+}

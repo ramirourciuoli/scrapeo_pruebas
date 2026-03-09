@@ -1,0 +1,312 @@
+{
+  "area_m2": 192.26136112213135,
+  "centroide_lonlat": {
+    "lat": -34.671633,
+    "lon": -58.468952
+  },
+  "centroide_xy": {
+    "x": 99481.93420419,
+    "y": 95300.27839082667
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/84/066-052-008_0000023684.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION066/066-052-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION066/PI-066-052-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "066-052-007",
+            "066-052-009"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 192.21549999994,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 192.3,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "066-052-008"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. P. PIÑERO",
+    "barrio": "Villa Lugano",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1439",
+    "codigo_postal_argentino": "C1439BYN",
+    "comisaria": "48",
+    "comisaria_vecinal": "8A",
+    "comuna": "Comuna 8",
+    "distrito_economico": "DISTRITO DEL DEPORTE",
+    "distrito_escolar": "Distrito Escolar   XXI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "66"
+  },
+  "debug": {
+    "address": "AV. RIESTRA 4994",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.46895233008417,
+        -34.67163285975062
+      ],
+      "direccion": "",
+      "fondo": "18.12",
+      "frente": "10.87",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "052",
+      "parcela": "008",
+      "pdamatriz": "61211",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "066",
+      "smp": "066-052-008",
+      "smp_anterior": "066-052-007",
+      "smp_siguiente": "066-052-009",
+      "srid": 4326,
+      "superficie_cubierta": "138.00",
+      "superficie_total": "197.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4994,
+      "cod_calle": 4025
+    },
+    "usig_direccion_elegida": {
+      "altura": 4994,
+      "cod_calle": 4025,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.469090",
+        "y": "-34.671530"
+      },
+      "direccion": "RIESTRA AV. 4994, CABA",
+      "nombre_calle": "RIESTRA AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4994,
+          "cod_calle": 4025,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.469090",
+            "y": "-34.671530"
+          },
+          "direccion": "RIESTRA AV. 4994, CABA",
+          "nombre_calle": "RIESTRA AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99481.36798384531,
+                  95310.31204753858
+                ],
+                [
+                  99485.80698383026,
+                  95306.47404754614
+                ],
+                [
+                  99491.5249838111,
+                  95301.53104755646
+                ],
+                [
+                  99489.11998381506,
+                  95298.7710475662
+                ],
+                [
+                  99488.74798381538,
+                  95298.34504756606
+                ],
+                [
+                  99487.94298381759,
+                  95297.42104757036
+                ],
+                [
+                  99483.19598382707,
+                  95291.97504758878
+                ],
+                [
+                  99481.36998383052,
+                  95289.88004759556
+                ],
+                [
+                  99476.03098385004,
+                  95295.30004758509
+                ],
+                [
+                  99474.79998385333,
+                  95296.55004758274
+                ],
+                [
+                  99474.5399838595,
+                  95302.52004756645
+                ],
+                [
+                  99475.88898385668,
+                  95304.05904756137
+                ],
+                [
+                  99481.36798384531,
+                  95310.31204753858
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "066-052-008",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AV. RIESTRA 4994",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.46895233008417,
+      -34.67163285975062
+    ],
+    "direccion": "",
+    "fondo": "18.12",
+    "frente": "10.87",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "052",
+    "parcela": "008",
+    "pdamatriz": "61211",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "066",
+    "smp": "066-052-008",
+    "smp_anterior": "066-052-007",
+    "smp_siguiente": "066-052-009",
+    "srid": 4326,
+    "superficie_cubierta": "138.00",
+    "superficie_total": "197.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "066-052-008",
+  "_http_status": 200
+}

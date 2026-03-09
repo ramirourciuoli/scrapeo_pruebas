@@ -1,0 +1,353 @@
+{
+  "area_m2": 364.46488666534424,
+  "centroide_lonlat": {
+    "lat": -34.672321,
+    "lon": -58.480834
+  },
+  "centroide_xy": {
+    "x": 98392.89918131963,
+    "y": 95223.8217868963
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/38/078-133-006_0000064738.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION078/078-133-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION078/PI-078-133-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "DI-2022-2372-GCABA-DGIUR",
+          "pdf": "078-133.pdf"
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "078-133-005",
+            "078-133-007",
+            "078-133-015"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 90.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 249.52016910899,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 364.5,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "078-133-006"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Villa Lugano",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1439",
+    "codigo_postal_argentino": "C1439APD",
+    "comisaria": "48",
+    "comisaria_vecinal": "8A",
+    "comuna": "Comuna 8",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "78"
+  },
+  "debug": {
+    "address": "SARAZA 5650",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.480834345828384,
+        -34.67232092013321
+      ],
+      "direccion": "",
+      "fondo": "37.20",
+      "frente": "10.00",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "133",
+      "parcela": "006",
+      "pdamatriz": "64016",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "078",
+      "smp": "078-133-006",
+      "smp_anterior": "078-133-005",
+      "smp_siguiente": "078-133-007",
+      "srid": 4326,
+      "superficie_cubierta": "214.00",
+      "superficie_total": "372.00",
+      "unidades_funcionales": "2",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 5650,
+      "cod_calle": 20073
+    },
+    "usig_direccion_elegida": {
+      "altura": 5650,
+      "cod_calle": 20073,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.480998",
+        "y": "-34.672190"
+      },
+      "direccion": "SARAZA 5650, CABA",
+      "nombre_calle": "SARAZA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 5650,
+          "cod_calle": 20073,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.480998",
+            "y": "-34.672190"
+          },
+          "direccion": "SARAZA 5650, CABA",
+          "nombre_calle": "SARAZA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98376.09098688731,
+                  95233.44904858773
+                ],
+                [
+                  98382.98598687336,
+                  95240.49804856064
+                ],
+                [
+                  98387.97198685525,
+                  95235.49804857117
+                ],
+                [
+                  98390.73898684638,
+                  95232.7250485783
+                ],
+                [
+                  98392.0609868407,
+                  95231.39904858088
+                ],
+                [
+                  98396.47898682512,
+                  95226.96904858892
+                ],
+                [
+                  98398.88398681655,
+                  95224.55704859374
+                ],
+                [
+                  98401.5219868077,
+                  95221.91304859878
+                ],
+                [
+                  98405.49398679312,
+                  95217.9300486077
+                ],
+                [
+                  98410.89898677405,
+                  95212.51104861917
+                ],
+                [
+                  98407.32398678282,
+                  95210.86204862536
+                ],
+                [
+                  98401.72898679634,
+                  95208.28204863852
+                ],
+                [
+                  98400.74598680026,
+                  95209.24704863894
+                ],
+                [
+                  98399.31798680492,
+                  95210.64804863503
+                ],
+                [
+                  98398.10398680926,
+                  95211.84004862997
+                ],
+                [
+                  98396.82598681422,
+                  95213.09504862799
+                ],
+                [
+                  98393.15098682644,
+                  95216.70204862059
+                ],
+                [
+                  98389.30298684147,
+                  95220.47904861378
+                ],
+                [
+                  98386.30398685098,
+                  95223.42404860657
+                ],
+                [
+                  98382.17598686564,
+                  95227.47604859795
+                ],
+                [
+                  98380.96298687067,
+                  95228.66604859573
+                ],
+                [
+                  98376.80498688408,
+                  95232.74904858774
+                ],
+                [
+                  98376.09098688731,
+                  95233.44904858773
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "078-133-006",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "SARAZA 5650",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.480834345828384,
+      -34.67232092013321
+    ],
+    "direccion": "",
+    "fondo": "37.20",
+    "frente": "10.00",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "133",
+    "parcela": "006",
+    "pdamatriz": "64016",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "078",
+    "smp": "078-133-006",
+    "smp_anterior": "078-133-005",
+    "smp_siguiente": "078-133-007",
+    "srid": 4326,
+    "superficie_cubierta": "214.00",
+    "superficie_total": "372.00",
+    "unidades_funcionales": "2",
+    "vuc": "0.00"
+  },
+  "smp": "078-133-006",
+  "_http_status": 200
+}

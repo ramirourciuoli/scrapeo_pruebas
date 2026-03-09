@@ -1,0 +1,409 @@
+{
+  "area_m2": 166.7410011291504,
+  "centroide_lonlat": {
+    "lat": -34.624751,
+    "lon": -58.440449
+  },
+  "centroide_xy": {
+    "x": 102095.58246895559,
+    "y": 100500.97026240868
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.44,
+          "fot_perim_libre": 3.44,
+          "fot_semi_libre": 3.44
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/23/040-036B-021_0000449523.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION040/040-036B-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION040/PI-040-036B-V4.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "040-036B-020",
+            "040-036B-023",
+            "040-036B-022"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2a II",
+          "incidencia_uva": 340.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 164.630360140063,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 166.7,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "040-036B-021"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Caballito",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1424",
+    "codigo_postal_argentino": "C1424AMJ",
+    "comisaria": "12",
+    "comisaria_vecinal": "6B",
+    "comuna": "Comuna 6",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "40"
+  },
+  "debug": {
+    "address": "DEL BARCO CENTENERA 488",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.44044910121869,
+        -34.62475101752756
+      ],
+      "direccion": "",
+      "fondo": "19.56",
+      "frente": "8.59",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "036B",
+      "parcela": "021",
+      "pdamatriz": "158702",
+      "pisos_bajo_rasante": "1",
+      "pisos_sobre_rasante": "10",
+      "propiedad_horizontal": "Si",
+      "seccion": "040",
+      "smp": "040-036B-021",
+      "smp_anterior": "040-036B-020",
+      "smp_siguiente": "040-036B-022",
+      "srid": 4326,
+      "superficie_cubierta": "1669.00",
+      "superficie_total": "168.00",
+      "unidades_funcionales": "9",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 488,
+      "cod_calle": 3112
+    },
+    "usig_direccion_elegida": {
+      "altura": 488,
+      "cod_calle": 3112,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.440588",
+        "y": "-34.624761"
+      },
+      "direccion": "BARCO CENTENERA DEL 488, CABA",
+      "nombre_calle": "BARCO CENTENERA DEL",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 488,
+          "cod_calle": 3112,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.440588",
+            "y": "-34.624761"
+          },
+          "direccion": "BARCO CENTENERA DEL 488, CABA",
+          "nombre_calle": "BARCO CENTENERA DEL",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102086.28198044337,
+                  100495.85103103623
+                ],
+                [
+                  102086.22798044448,
+                  100496.48203103451
+                ],
+                [
+                  102086.06798044615,
+                  100498.34203102972
+                ],
+                [
+                  102085.65098045065,
+                  100503.20303101599
+                ],
+                [
+                  102085.60698045141,
+                  100503.71903101439
+                ],
+                [
+                  102085.54598045234,
+                  100504.42903101243
+                ],
+                [
+                  102086.28698044978,
+                  100504.49203101185
+                ],
+                [
+                  102086.78598044916,
+                  100504.53503101182
+                ],
+                [
+                  102087.04098044836,
+                  100504.5570310115
+                ],
+                [
+                  102087.79698044634,
+                  100504.62103101099
+                ],
+                [
+                  102089.44998044171,
+                  100504.76303100926
+                ],
+                [
+                  102089.97098044002,
+                  100504.80703100859
+                ],
+                [
+                  102095.45198042471,
+                  100505.27503100349
+                ],
+                [
+                  102097.27198042,
+                  100505.43103100112
+                ],
+                [
+                  102100.49398041124,
+                  100505.70603099826
+                ],
+                [
+                  102100.89098041004,
+                  100505.74003099793
+                ],
+                [
+                  102100.99098041034,
+                  100505.74903099745
+                ],
+                [
+                  102101.23098040896,
+                  100505.7690309977
+                ],
+                [
+                  102101.56998040862,
+                  100505.79803099742
+                ],
+                [
+                  102104.23398040123,
+                  100506.02603099402
+                ],
+                [
+                  102104.77798039946,
+                  100506.07203099353
+                ],
+                [
+                  102105.15498039633,
+                  100502.82203100235
+                ],
+                [
+                  102105.36498039434,
+                  100501.00803100792
+                ],
+                [
+                  102105.76398039081,
+                  100497.57203101658
+                ],
+                [
+                  102103.4129803965,
+                  100497.36403101936
+                ],
+                [
+                  102101.91798040053,
+                  100497.2320310206
+                ],
+                [
+                  102097.27898041373,
+                  100496.8220310251
+                ],
+                [
+                  102097.12298041373,
+                  100496.80903102594
+                ],
+                [
+                  102096.1579804165,
+                  100496.7230310268
+                ],
+                [
+                  102095.42798041899,
+                  100496.65903102729
+                ],
+                [
+                  102093.83298042271,
+                  100496.518031029
+                ],
+                [
+                  102093.6319804238,
+                  100496.50003102902
+                ],
+                [
+                  102090.26498043246,
+                  100496.20303103214
+                ],
+                [
+                  102088.53198043721,
+                  100496.05003103401
+                ],
+                [
+                  102087.83498043942,
+                  100495.9880310348
+                ],
+                [
+                  102087.6769804401,
+                  100495.97403103538
+                ],
+                [
+                  102086.28198044337,
+                  100495.85103103623
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "040-036B-021",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "DEL BARCO CENTENERA 488",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.44044910121869,
+      -34.62475101752756
+    ],
+    "direccion": "",
+    "fondo": "19.56",
+    "frente": "8.59",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "036B",
+    "parcela": "021",
+    "pdamatriz": "158702",
+    "pisos_bajo_rasante": "1",
+    "pisos_sobre_rasante": "10",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "040",
+    "smp": "040-036B-021",
+    "smp_anterior": "040-036B-020",
+    "smp_siguiente": "040-036B-022",
+    "srid": 4326,
+    "superficie_cubierta": "1669.00",
+    "superficie_total": "168.00",
+    "unidades_funcionales": "9",
+    "vuc": "0.00"
+  },
+  "smp": "040-036B-021",
+  "_http_status": 200
+}

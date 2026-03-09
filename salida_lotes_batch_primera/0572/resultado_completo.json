@@ -1,0 +1,378 @@
+{
+  "area_m2": 262.06583309173584,
+  "centroide_lonlat": {
+    "lat": -34.692428,
+    "lon": -58.472642
+  },
+  "centroide_xy": {
+    "x": 99143.92909878829,
+    "y": 92993.25565899396
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/fp/SECCION082/FP-082-019-004-VD.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION082/082-019-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION082/PI-082-019-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "082-019-029",
+            "082-019-028",
+            "082-019-005",
+            "082-019-003"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 261.66021514117,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 262.1,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "082-019-004"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DRA. CECILIA GRIERSON",
+    "barrio": "Villa Riachuelo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1439",
+    "codigo_postal_argentino": "C1439HFQ",
+    "comisaria": "52",
+    "comisaria_vecinal": "8C",
+    "comuna": "Comuna 8",
+    "distrito_economico": "DISTRITO DEL DEPORTE",
+    "distrito_escolar": "Distrito Escolar   XXI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "82"
+  },
+  "debug": {
+    "address": "MONTIEL 5571",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.4726424567728,
+        -34.69242837366149
+      ],
+      "direccion": "",
+      "fondo": "30.02",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "019",
+      "parcela": "004",
+      "pdamatriz": "70202",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "082",
+      "smp": "082-019-004",
+      "smp_anterior": "082-019-003",
+      "smp_siguiente": "082-019-005",
+      "srid": 4326,
+      "superficie_cubierta": "51.00",
+      "superficie_total": "260.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 5571,
+      "cod_calle": 13119
+    },
+    "usig_direccion_elegida": {
+      "altura": 5571,
+      "cod_calle": 13119,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.472462",
+        "y": "-34.692324"
+      },
+      "direccion": "MONTIEL 5571, CABA",
+      "nombre_calle": "MONTIEL",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 5571,
+          "cod_calle": 13119,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.472462",
+            "y": "-34.692324"
+          },
+          "direccion": "MONTIEL 5571, CABA",
+          "nombre_calle": "MONTIEL",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99130.65398307936,
+                  92985.15005432445
+                ],
+                [
+                  99133.15298307374,
+                  92987.9020543147
+                ],
+                [
+                  99133.79098307258,
+                  92988.60505431189
+                ],
+                [
+                  99134.36298307209,
+                  92989.23405431086
+                ],
+                [
+                  99135.52698306965,
+                  92990.51605430487
+                ],
+                [
+                  99136.18498306815,
+                  92991.24105430316
+                ],
+                [
+                  99140.32698305929,
+                  92995.80105428759
+                ],
+                [
+                  99140.48198305914,
+                  92995.97205428542
+                ],
+                [
+                  99141.42298305847,
+                  92997.00805428377
+                ],
+                [
+                  99143.66998305335,
+                  92999.48305427347
+                ],
+                [
+                  99144.06398305236,
+                  92999.91605427103
+                ],
+                [
+                  99147.23298304586,
+                  93003.40505425874
+                ],
+                [
+                  99149.83298304117,
+                  93006.26905425018
+                ],
+                [
+                  99150.76698303905,
+                  93007.29705424723
+                ],
+                [
+                  99157.21598301693,
+                  93001.369054259
+                ],
+                [
+                  99156.20698301938,
+                  93000.25905426103
+                ],
+                [
+                  99150.17398303005,
+                  92993.62005428466
+                ],
+                [
+                  99150.00898303057,
+                  92993.4390542855
+                ],
+                [
+                  99148.72598303364,
+                  92992.02705429058
+                ],
+                [
+                  99146.77198303683,
+                  92989.87605429893
+                ],
+                [
+                  99146.07298303845,
+                  92989.10805430164
+                ],
+                [
+                  99142.64698304582,
+                  92985.33805431562
+                ],
+                [
+                  99142.38498304613,
+                  92985.04905431595
+                ],
+                [
+                  99142.1089830467,
+                  92984.74605431718
+                ],
+                [
+                  99140.16398305082,
+                  92982.60605432364
+                ],
+                [
+                  99140.02998305092,
+                  92982.45805432368
+                ],
+                [
+                  99137.06998305733,
+                  92979.20105433615
+                ],
+                [
+                  99133.00998307024,
+                  92982.96605432825
+                ],
+                [
+                  99130.65398307936,
+                  92985.15005432445
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "082-019-004",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MONTIEL 5571",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.4726424567728,
+      -34.69242837366149
+    ],
+    "direccion": "",
+    "fondo": "30.02",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "019",
+    "parcela": "004",
+    "pdamatriz": "70202",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "082",
+    "smp": "082-019-004",
+    "smp_anterior": "082-019-003",
+    "smp_siguiente": "082-019-005",
+    "srid": 4326,
+    "superficie_cubierta": "51.00",
+    "superficie_total": "260.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "082-019-004",
+  "_http_status": 200
+}

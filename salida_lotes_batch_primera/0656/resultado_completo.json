@@ -1,0 +1,382 @@
+{
+  "area_m2": 110.98143672943115,
+  "centroide_lonlat": {
+    "lat": -34.651406,
+    "lon": -58.506274
+  },
+  "centroide_xy": {
+    "x": 96060.26368140294,
+    "y": 97543.35181485277
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/39/074-120-013a_0000061539.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION074/074-120-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION074/PI-074-120-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "074-120-012",
+            "074-120-013b"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 60.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 110.9459,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 111.0,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "074-120-013A"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Mataderos",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1440",
+    "codigo_postal_argentino": "C1440CQA",
+    "comisaria": "42",
+    "comisaria_vecinal": "9A",
+    "comuna": "Comuna 9",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "74"
+  },
+  "debug": {
+    "address": "OLIDEN 1307",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.506273879960915,
+        -34.651406061985064
+      ],
+      "direccion": "",
+      "manzana": "120",
+      "parcela": "013A",
+      "seccion": "074",
+      "smp": "074-120-013A",
+      "smp_anterior": "074-120-012",
+      "smp_siguiente": "074-120-013B",
+      "srid": 4326
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1307,
+      "cod_calle": 16016
+    },
+    "usig_direccion_elegida": {
+      "altura": 1307,
+      "cod_calle": 16016,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.506185",
+        "y": "-34.651333"
+      },
+      "direccion": "OLIDEN 1307, CABA",
+      "nombre_calle": "OLIDEN",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1307,
+          "cod_calle": 16016,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.506185",
+            "y": "-34.651333"
+          },
+          "direccion": "OLIDEN 1307, CABA",
+          "nombre_calle": "OLIDEN",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1307,
+          "cod_calle": 11696,
+          "cod_calle_cruce": null,
+          "cod_partido": "avellaneda",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3908831183674,
+            "y": -34.6658120734694
+          },
+          "direccion": "Oliden 1307, Avellaneda",
+          "nombre_calle": "Oliden",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Piñeyro",
+          "nombre_partido": "Avellaneda",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1307,
+          "cod_calle": 69968,
+          "cod_calle_cruce": null,
+          "cod_partido": "jose_c_paz",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7498657061224,
+            "y": -34.5035551183673
+          },
+          "direccion": "M. de Oliden 1307, José C. Paz",
+          "nombre_calle": "M. de Oliden",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "José C. Paz",
+          "nombre_partido": "José C. Paz",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1307,
+          "cod_calle": 10654,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4075736836735,
+            "y": -34.6808925377551
+          },
+          "direccion": "Gobernador Oliden 1307, Lanús",
+          "nombre_calle": "Gobernador Oliden",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Valentín Alsina",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1307,
+          "cod_calle": 354213,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4204417816326,
+            "y": -34.7737046040816
+          },
+          "direccion": "Vicente Oliden 1307, Lomas de Zamora",
+          "nombre_calle": "Vicente Oliden",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Llavallol",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1307,
+          "cod_calle": 354213,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4204417816326,
+            "y": -34.7737046040816
+          },
+          "direccion": "Vicente Oliden 1307, Lomas de Zamora",
+          "nombre_calle": "Vicente Oliden",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lomas de Zamora",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1307,
+          "cod_calle": 165847,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7366109530612,
+            "y": -34.6808363142857
+          },
+          "direccion": "Oliden 1307, Merlo",
+          "nombre_calle": "Oliden",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Parque San Martín",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96058.9099951191,
+                  97536.14604387307
+                ],
+                [
+                  96052.62299514071,
+                  97542.08504386139
+                ],
+                [
+                  96055.95899513437,
+                  97545.93104384796
+                ],
+                [
+                  96058.29999512988,
+                  97548.63004383876
+                ],
+                [
+                  96058.7249951285,
+                  97548.64704383834
+                ],
+                [
+                  96064.15999511392,
+                  97548.86004383408
+                ],
+                [
+                  96068.2589950988,
+                  97544.7310438419
+                ],
+                [
+                  96065.75299510403,
+                  97542.42904385016
+                ],
+                [
+                  96062.80899511106,
+                  97539.72604386017
+                ],
+                [
+                  96060.22399511655,
+                  97537.35204386897
+                ],
+                [
+                  96058.9099951191,
+                  97536.14604387307
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "074-120-013A",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "OLIDEN 1307",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.506273879960915,
+      -34.651406061985064
+    ],
+    "direccion": "",
+    "manzana": "120",
+    "parcela": "013A",
+    "puertas": [],
+    "seccion": "074",
+    "smp": "074-120-013A",
+    "smp_anterior": "074-120-012",
+    "smp_siguiente": "074-120-013B",
+    "srid": 4326
+  },
+  "smp": "074-120-013A",
+  "_http_status": 200
+}

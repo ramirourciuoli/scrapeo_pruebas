@@ -1,0 +1,382 @@
+{
+  "area_m2": 239.44270610809326,
+  "centroide_lonlat": {
+    "lat": -34.649347,
+    "lon": -58.480477
+  },
+  "centroide_xy": {
+    "x": 98425.24549435027,
+    "y": 97772.49928874827
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/3/31/054-055-008_0000081331.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION054/054-055-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION054/PI-054-055-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "054-055-007",
+            "054-055-004",
+            "054-055-009",
+            "054-055-005"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 203.56034019571,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 239.4,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "054-055-008"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. P. PIÑERO",
+    "barrio": "Parque Avellaneda",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1407",
+    "codigo_postal_argentino": "C1407IZB",
+    "comisaria": "40",
+    "comisaria_vecinal": "9C",
+    "comuna": "Comuna 9",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "54"
+  },
+  "debug": {
+    "address": "MORETO 1316",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.48047669052224,
+        -34.64934685144963
+      ],
+      "direccion": "",
+      "fondo": "26.79",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "055",
+      "parcela": "008",
+      "pdamatriz": "25725",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "054",
+      "smp": "054-055-008",
+      "smp_anterior": "054-055-007",
+      "smp_siguiente": "054-055-009",
+      "srid": 4326,
+      "superficie_cubierta": "212.00",
+      "superficie_total": "232.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1316,
+      "cod_calle": 13130
+    },
+    "usig_direccion_elegida": {
+      "altura": 1316,
+      "cod_calle": 13130,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.480612",
+        "y": "-34.649463"
+      },
+      "direccion": "MORETO 1316, CABA",
+      "nombre_calle": "MORETO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1316,
+          "cod_calle": 13130,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.480612",
+            "y": "-34.649463"
+          },
+          "direccion": "MORETO 1316, CABA",
+          "nombre_calle": "MORETO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98436.07698863414,
+                  97777.44104140636
+                ],
+                [
+                  98433.08598863994,
+                  97774.301041419
+                ],
+                [
+                  98432.12998864143,
+                  97773.29804142273
+                ],
+                [
+                  98430.41198864515,
+                  97771.49404142931
+                ],
+                [
+                  98429.03198864814,
+                  97770.04604143344
+                ],
+                [
+                  98425.05998865579,
+                  97765.87704144808
+                ],
+                [
+                  98423.11798866001,
+                  97763.83804145493
+                ],
+                [
+                  98421.37798866353,
+                  97762.01204146177
+                ],
+                [
+                  98419.1409886679,
+                  97759.66304146891
+                ],
+                [
+                  98412.75098869138,
+                  97765.80104145777
+                ],
+                [
+                  98416.11998868355,
+                  97769.35404144504
+                ],
+                [
+                  98416.29898868357,
+                  97769.54304144479
+                ],
+                [
+                  98416.8579886826,
+                  97770.13304144252
+                ],
+                [
+                  98419.68698867716,
+                  97773.11804143176
+                ],
+                [
+                  98420.26598867522,
+                  97773.72804142849
+                ],
+                [
+                  98420.44498867565,
+                  97773.91704143037
+                ],
+                [
+                  98420.87198867495,
+                  97774.36704142805
+                ],
+                [
+                  98422.12098867245,
+                  97775.68504142074
+                ],
+                [
+                  98422.66998867043,
+                  97776.26404142118
+                ],
+                [
+                  98425.29798866651,
+                  97779.0360414104
+                ],
+                [
+                  98426.04698866447,
+                  97779.80304140868
+                ],
+                [
+                  98426.73598866226,
+                  97780.50704140615
+                ],
+                [
+                  98429.67298865737,
+                  97783.51204139434
+                ],
+                [
+                  98431.39098865274,
+                  97785.27104138807
+                ],
+                [
+                  98432.89498864739,
+                  97783.85004139078
+                ],
+                [
+                  98433.37098864692,
+                  97783.40004139385
+                ],
+                [
+                  98435.85298863743,
+                  97781.05504139731
+                ],
+                [
+                  98437.78298863057,
+                  97779.23204140109
+                ],
+                [
+                  98436.66098863274,
+                  97778.05404140343
+                ],
+                [
+                  98436.07698863414,
+                  97777.44104140636
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "054-055-008",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MORETO 1316",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.48047669052224,
+      -34.64934685144963
+    ],
+    "direccion": "",
+    "fondo": "26.79",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "055",
+    "parcela": "008",
+    "pdamatriz": "25725",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "054",
+    "smp": "054-055-008",
+    "smp_anterior": "054-055-007",
+    "smp_siguiente": "054-055-009",
+    "srid": 4326,
+    "superficie_cubierta": "212.00",
+    "superficie_total": "232.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "054-055-008",
+  "_http_status": 200
+}

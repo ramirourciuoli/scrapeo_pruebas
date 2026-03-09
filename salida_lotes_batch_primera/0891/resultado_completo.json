@@ -1,0 +1,382 @@
+{
+  "area_m2": 315.4385070800781,
+  "centroide_lonlat": {
+    "lat": -34.604931,
+    "lon": -58.442236
+  },
+  "centroide_xy": {
+    "x": 101932.18821524501,
+    "y": 102699.81157893885
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/4/82/047-090-004a_0000174482.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION047/047-090-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION047/PI-047-090-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "047-090-003",
+            "047-090-012b",
+            "047-090-005"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 140.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 289.584723343175,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 315.4,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "047-090-004A"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Villa Crespo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1414",
+    "codigo_postal_argentino": "C1414EFF",
+    "comisaria": "27",
+    "comisaria_vecinal": "15B",
+    "comuna": "Comuna 15",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "47"
+  },
+  "debug": {
+    "address": "MAHATMA GANDHI 462",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.44223581571182,
+        -34.604930542354495
+      ],
+      "direccion": "",
+      "fondo": "60.39",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "090",
+      "parcela": "004A",
+      "pdamatriz": "314226",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "047",
+      "smp": "047-090-004A",
+      "smp_anterior": "047-090-003",
+      "smp_siguiente": "047-090-005",
+      "srid": 4326,
+      "superficie_cubierta": "219.00",
+      "superficie_total": "523.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 462,
+      "cod_calle": 7024
+    },
+    "usig_direccion_elegida": {
+      "altura": 462,
+      "cod_calle": 7024,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.442386",
+        "y": "-34.604781"
+      },
+      "direccion": "GANDHI, MAHATMA 462, CABA",
+      "nombre_calle": "GANDHI, MAHATMA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 462,
+          "cod_calle": 7024,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.442386",
+            "y": "-34.604781"
+          },
+          "direccion": "GANDHI, MAHATMA 462, CABA",
+          "nombre_calle": "GANDHI, MAHATMA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 462,
+          "cod_calle": 32693,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.373663222449,
+            "y": -34.7599283306122
+          },
+          "direccion": "Mahatma Gandhi 462, Lomas de Zamora",
+          "nombre_calle": "Mahatma Gandhi",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Temperley",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  101917.36698258459,
+                  102710.90802495228
+                ],
+                [
+                  101919.25598258083,
+                  102712.47202494607
+                ],
+                [
+                  101924.03698256977,
+                  102716.43102493166
+                ],
+                [
+                  101929.44398255079,
+                  102709.96502494533
+                ],
+                [
+                  101930.3479825468,
+                  102708.88302494766
+                ],
+                [
+                  101931.70298254098,
+                  102707.26302495218
+                ],
+                [
+                  101933.11598253644,
+                  102705.57402495586
+                ],
+                [
+                  101933.8179825343,
+                  102704.73402495708
+                ],
+                [
+                  101936.51998252339,
+                  102701.5020249639
+                ],
+                [
+                  101944.01198249658,
+                  102692.5430249827
+                ],
+                [
+                  101944.60998249396,
+                  102691.82702498301
+                ],
+                [
+                  101946.98598248491,
+                  102688.98602499065
+                ],
+                [
+                  101940.09998249928,
+                  102683.2430250117
+                ],
+                [
+                  101937.75498250923,
+                  102686.09602500594
+                ],
+                [
+                  101929.73598253797,
+                  102695.85502498492
+                ],
+                [
+                  101929.58498253928,
+                  102696.03902498315
+                ],
+                [
+                  101927.79698254628,
+                  102698.2150249783
+                ],
+                [
+                  101926.59898255041,
+                  102699.67302497666
+                ],
+                [
+                  101926.36698255129,
+                  102699.95502497503
+                ],
+                [
+                  101925.954982553,
+                  102700.45702497472
+                ],
+                [
+                  101925.70898255322,
+                  102700.75602497323
+                ],
+                [
+                  101924.09298255993,
+                  102702.72302497007
+                ],
+                [
+                  101922.79798256472,
+                  102704.29902496614
+                ],
+                [
+                  101922.10198256689,
+                  102705.14502496479
+                ],
+                [
+                  101918.2559825819,
+                  102709.82602495389
+                ],
+                [
+                  101917.36698258459,
+                  102710.90802495228
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "047-090-004A",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MAHATMA GANDHI 462",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.44223581571182,
+      -34.604930542354495
+    ],
+    "direccion": "",
+    "fondo": "60.39",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "090",
+    "parcela": "004A",
+    "pdamatriz": "314226",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "047",
+    "smp": "047-090-004A",
+    "smp_anterior": "047-090-003",
+    "smp_siguiente": "047-090-005",
+    "srid": 4326,
+    "superficie_cubierta": "219.00",
+    "superficie_total": "523.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "047-090-004A",
+  "_http_status": 200
+}

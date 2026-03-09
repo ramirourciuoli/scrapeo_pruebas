@@ -1,0 +1,361 @@
+{
+  "area_m2": 165.59904384613037,
+  "centroide_lonlat": {
+    "lat": -34.635648,
+    "lon": -58.368453
+  },
+  "centroide_xy": {
+    "x": 108697.0024089457,
+    "y": 99288.2021124127
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.0,
+          "fot_perim_libre": 3.0,
+          "fot_semi_libre": 3.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/9/39/008-057-001b_0000303939.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION008/008-057-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION008/PI-008-057-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "008-057-029",
+            "008-057-001a",
+            "008-057-002"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "E3 2",
+          "incidencia_uva": 130.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 165.554850000046,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 165.6,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "008-057-001B"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C. ARGERICH",
+    "barrio": "Boca",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1164",
+    "codigo_postal_argentino": "C1164AAE",
+    "comisaria": "26",
+    "comisaria_vecinal": "4C",
+    "comuna": "Comuna 4",
+    "distrito_economico": "DISTRITO DE LAS ARTES",
+    "distrito_escolar": "Distrito Escolar   IV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "08"
+  },
+  "debug": {
+    "address": "HERNANDARIAS 719",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.368452754392216,
+        -34.63564839690126
+      ],
+      "direccion": "",
+      "fondo": "12.63",
+      "frente": "12.99",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "057",
+      "parcela": "001B",
+      "pdamatriz": "117649",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "008",
+      "smp": "008-057-001B",
+      "smp_anterior": "008-057-001A",
+      "smp_siguiente": "008-057-002",
+      "srid": 4326,
+      "superficie_cubierta": "183.00",
+      "superficie_total": "164.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 719,
+      "cod_calle": 8010
+    },
+    "usig_direccion_elegida": {
+      "altura": 719,
+      "cod_calle": 8010,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.368352",
+        "y": "-34.635638"
+      },
+      "direccion": "HERNANDARIAS 719, CABA",
+      "nombre_calle": "HERNANDARIAS",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 719,
+          "cod_calle": 8010,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.368352",
+            "y": "-34.635638"
+          },
+          "direccion": "HERNANDARIAS 719, CABA",
+          "nombre_calle": "HERNANDARIAS",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 719,
+          "cod_calle": 10413,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "direccion": "Hernandarias 719, La Matanza",
+          "nombre_calle": "Hernandarias",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ramos Mejia",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  108703.29096097931,
+                  99289.43502943855
+                ],
+                [
+                  108703.42796097818,
+                  99288.34402944153
+                ],
+                [
+                  108703.4649609774,
+                  99288.047029443
+                ],
+                [
+                  108704.13496097142,
+                  99282.68802945738
+                ],
+                [
+                  108698.91096098605,
+                  99281.93002946302
+                ],
+                [
+                  108691.41896100566,
+                  99280.84402947163
+                ],
+                [
+                  108690.83696101188,
+                  99286.21602945743
+                ],
+                [
+                  108690.8049610116,
+                  99286.51402945703
+                ],
+                [
+                  108690.64096101336,
+                  99288.03102945286
+                ],
+                [
+                  108690.62196101416,
+                  99288.20602945218
+                ],
+                [
+                  108690.60896101399,
+                  99288.32902945156
+                ],
+                [
+                  108690.55896101467,
+                  99288.78502945058
+                ],
+                [
+                  108690.39696101578,
+                  99290.27602944596
+                ],
+                [
+                  108690.14196101838,
+                  99292.63002943984
+                ],
+                [
+                  108690.00196102005,
+                  99293.92202943668
+                ],
+                [
+                  108692.29896101318,
+                  99294.20002943411
+                ],
+                [
+                  108693.88996100886,
+                  99294.39202943217
+                ],
+                [
+                  108695.61896100444,
+                  99294.60102943005
+                ],
+                [
+                  108696.33496100255,
+                  99294.68802942958
+                ],
+                [
+                  108697.28596100029,
+                  99294.80302942879
+                ],
+                [
+                  108702.53996098577,
+                  99295.4380294228
+                ],
+                [
+                  108703.29096097931,
+                  99289.43502943855
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "008-057-001B",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "HERNANDARIAS 719",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.368452754392216,
+      -34.63564839690126
+    ],
+    "direccion": "",
+    "fondo": "12.63",
+    "frente": "12.99",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "057",
+    "parcela": "001B",
+    "pdamatriz": "117649",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "008",
+    "smp": "008-057-001B",
+    "smp_anterior": "008-057-001A",
+    "smp_siguiente": "008-057-002",
+    "srid": 4326,
+    "superficie_cubierta": "183.00",
+    "superficie_total": "164.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "008-057-001B",
+  "_http_status": 200
+}

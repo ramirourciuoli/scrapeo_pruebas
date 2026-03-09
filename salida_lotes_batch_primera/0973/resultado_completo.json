@@ -1,0 +1,379 @@
+{
+  "area_m2": 220.05485248565674,
+  "centroide_lonlat": {
+    "lat": -34.576625,
+    "lon": -58.506842
+  },
+  "centroide_xy": {
+    "x": 96004.60031067212,
+    "y": 105839.23364820014
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/2/55/075-064-027_0000252255.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION075/075-064-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION075/PI-075-064-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "075-064-026b",
+            "075-064-022",
+            "075-064-023",
+            "075-064-028"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 240.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 220.024049999981,
+        "sup_max_edificable": 218.3,
+        "superficie_parcela": 220.1,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "075-064-027"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Villa Pueyrredon",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1419",
+    "codigo_postal_argentino": "C1419FRG",
+    "comisaria": "47",
+    "comisaria_vecinal": "12B",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "75"
+  },
+  "debug": {
+    "address": "ESCOBAR 2677",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.50684197614506,
+        -34.57662509336442
+      ],
+      "direccion": "",
+      "fondo": "28.50",
+      "frente": "7.79",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "064",
+      "parcela": "027",
+      "pdamatriz": "365244",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "075",
+      "smp": "075-064-027",
+      "smp_anterior": "075-064-026B",
+      "smp_siguiente": "075-064-028",
+      "srid": 4326,
+      "superficie_cubierta": "222.00",
+      "superficie_total": "222.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2677,
+      "cod_calle": 5070
+    },
+    "usig_direccion_elegida": {
+      "altura": 2677,
+      "cod_calle": 5070,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.506719",
+        "y": "-34.576762"
+      },
+      "direccion": "ESCOBAR 2677, CABA",
+      "nombre_calle": "ESCOBAR",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2677,
+          "cod_calle": 5070,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.506719",
+            "y": "-34.576762"
+          },
+          "direccion": "ESCOBAR 2677, CABA",
+          "nombre_calle": "ESCOBAR",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2677,
+          "cod_calle": 192329,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6872492387755,
+            "y": -34.7060005540816
+          },
+          "direccion": "Escobar 2677, Merlo",
+          "nombre_calle": "Escobar",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Libertad",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96012.69500149542,
+                  105835.00002063511
+                ],
+                [
+                  96012.88900149481,
+                  105834.74502063575
+                ],
+                [
+                  96013.30000149262,
+                  105834.2020206365
+                ],
+                [
+                  96016.26600148139,
+                  105830.29002064565
+                ],
+                [
+                  96010.06200149542,
+                  105825.65002066363
+                ],
+                [
+                  96009.09300149951,
+                  105826.92002066039
+                ],
+                [
+                  96007.12800150616,
+                  105829.49602065494
+                ],
+                [
+                  96006.5220015088,
+                  105830.28902065282
+                ],
+                [
+                  96005.91200151078,
+                  105831.0890206508
+                ],
+                [
+                  96005.69200151187,
+                  105831.37802065004
+                ],
+                [
+                  95999.648001535,
+                  105839.30002063263
+                ],
+                [
+                  95999.32000153651,
+                  105839.73002063233
+                ],
+                [
+                  95998.29700154036,
+                  105841.07002062915
+                ],
+                [
+                  95995.3150015518,
+                  105844.98202062
+                ],
+                [
+                  95992.95300156009,
+                  105848.0800206133
+                ],
+                [
+                  95994.1620015572,
+                  105849.00202061009
+                ],
+                [
+                  95999.18000154618,
+                  105852.83002059534
+                ],
+                [
+                  96000.98900153965,
+                  105850.4440206007
+                ],
+                [
+                  96001.52700153731,
+                  105849.73302060214
+                ],
+                [
+                  96003.53100153033,
+                  105847.0900206079
+                ],
+                [
+                  96005.54000152231,
+                  105844.44002061442
+                ],
+                [
+                  96007.87500151341,
+                  105841.36002062118
+                ],
+                [
+                  96009.37200150819,
+                  105839.38402062489
+                ],
+                [
+                  96012.08800149789,
+                  105835.80202063342
+                ],
+                [
+                  96012.69500149542,
+                  105835.00002063511
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "075-064-027",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ESCOBAR 2677",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.50684197614506,
+      -34.57662509336442
+    ],
+    "direccion": "",
+    "fondo": "28.50",
+    "frente": "7.79",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "064",
+    "parcela": "027",
+    "pdamatriz": "365244",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "075",
+    "smp": "075-064-027",
+    "smp_anterior": "075-064-026B",
+    "smp_siguiente": "075-064-028",
+    "srid": 4326,
+    "superficie_cubierta": "222.00",
+    "superficie_total": "222.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "075-064-027",
+  "_http_status": 200
+}

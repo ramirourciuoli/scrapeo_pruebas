@@ -1,0 +1,364 @@
+{
+  "area_m2": 96.24914646148682,
+  "centroide_lonlat": {
+    "lat": -34.615383,
+    "lon": -58.502916
+  },
+  "centroide_xy": {
+    "x": 96366.52926475128,
+    "y": 101539.76071272643
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 0.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/57/081-002A-001_0000113757.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION081/081-002A-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION081/PI-081-002A-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "081-002A-038",
+            "081-002A-002"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "C3 II",
+          "incidencia_uva": 100.0,
+          "plusvalia_em": 0.0,
+          "plusvalia_pl": 0.0,
+          "plusvalia_sl": 0.0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 96.2,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "081-002A-001"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Monte Castro",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1417",
+    "codigo_postal_argentino": "C1417GNR",
+    "comisaria": "43",
+    "comisaria_vecinal": "10A",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "81"
+  },
+  "debug": {
+    "address": "ARREGUI 4402",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.50291607289259,
+        -34.61538287927377
+      ],
+      "direccion": "",
+      "fondo": "9.37",
+      "frente": "10.25",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "002A",
+      "parcela": "001",
+      "pdamatriz": "276853",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "081",
+      "smp": "081-002A-001",
+      "smp_anterior": "081-002A-038",
+      "smp_siguiente": "081-002A-002",
+      "srid": 4326,
+      "superficie_cubierta": "164.00",
+      "superficie_total": "96.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4402,
+      "cod_calle": 1120
+    },
+    "usig_direccion_elegida": {
+      "altura": 4402,
+      "cod_calle": 1120,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.502978",
+        "y": "-34.615330"
+      },
+      "direccion": "ARREGUI 4402, CABA",
+      "nombre_calle": "ARREGUI",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4402,
+          "cod_calle": 1120,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.502978",
+            "y": "-34.615330"
+          },
+          "direccion": "ARREGUI 4402, CABA",
+          "nombre_calle": "ARREGUI",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96365.98299727456,
+                  101544.02803240257
+                ],
+                [
+                  96367.3199972718,
+                  101544.95003239921
+                ],
+                [
+                  96373.16999725411,
+                  101543.76003239775
+                ],
+                [
+                  96373.36299725331,
+                  101543.45203239829
+                ],
+                [
+                  96373.41599725343,
+                  101543.3670323985
+                ],
+                [
+                  96373.4689972526,
+                  101543.28203239874
+                ],
+                [
+                  96374.90099724683,
+                  101540.99303240422
+                ],
+                [
+                  96374.22199724891,
+                  101540.57203240582
+                ],
+                [
+                  96374.13699724914,
+                  101540.51903240665
+                ],
+                [
+                  96374.05199724936,
+                  101540.46603240655
+                ],
+                [
+                  96371.88799725457,
+                  101539.12303241162
+                ],
+                [
+                  96369.82399725915,
+                  101537.84103241714
+                ],
+                [
+                  96369.73899725937,
+                  101537.78803241704
+                ],
+                [
+                  96368.81699726127,
+                  101537.21603241962
+                ],
+                [
+                  96367.39799726484,
+                  101536.33503242311
+                ],
+                [
+                  96367.01999726525,
+                  101536.10003242371
+                ],
+                [
+                  96365.69799726861,
+                  101535.28003242766
+                ],
+                [
+                  96365.47599726905,
+                  101535.14203242795
+                ],
+                [
+                  96365.22099726979,
+                  101534.9840324287
+                ],
+                [
+                  96365.13599727,
+                  101534.93103242863
+                ],
+                [
+                  96362.4169972768,
+                  101533.24303243536
+                ],
+                [
+                  96358.88499729056,
+                  101539.13203242191
+                ],
+                [
+                  96361.11299728556,
+                  101540.66803241533
+                ],
+                [
+                  96363.42899727995,
+                  101542.26603240933
+                ],
+                [
+                  96365.8999972751,
+                  101543.97103240274
+                ],
+                [
+                  96365.98299727456,
+                  101544.02803240257
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "081-002A-001",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ARREGUI 4402",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.50291607289259,
+      -34.61538287927377
+    ],
+    "direccion": "",
+    "fondo": "9.37",
+    "frente": "10.25",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "002A",
+    "parcela": "001",
+    "pdamatriz": "276853",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "081",
+    "smp": "081-002A-001",
+    "smp_anterior": "081-002A-038",
+    "smp_siguiente": "081-002A-002",
+    "srid": 4326,
+    "superficie_cubierta": "164.00",
+    "superficie_total": "96.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "081-002A-001",
+  "_http_status": 200
+}

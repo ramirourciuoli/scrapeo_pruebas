@@ -1,0 +1,365 @@
+{
+  "area_m2": 158.1829957962036,
+  "centroide_lonlat": {
+    "lat": -34.624653,
+    "lon": -58.447985
+  },
+  "centroide_xy": {
+    "x": 101404.48914725054,
+    "y": 100511.95797121491
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": "SINGULAR",
+          "denominacion": null,
+          "estado": "LEY FIRME",
+          "ley_3056": "SI",
+          "proteccion": "CAUTELAR"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "U",
+            "distrito_especifico": "U 85"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.0,
+          "fot_perim_libre": 1.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/8/99/042-076B-005_0000430899.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION042/042-076B-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION042/PI-042-076B-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "DI-2022-2557-GCABA-DGIUR",
+          "pdf": "042-076B.pdf"
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": true,
+          "smp_linderas": [
+            "042-076B-002b",
+            "042-076B-015",
+            "042-076B-003",
+            "042-076B-002a",
+            "042-076B-006",
+            "042-076B-004"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R1b II 8",
+          "incidencia_uva": 170.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0.0
+        },
+        "rivolta": 0,
+        "subzona": "Zona 5",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 158.2,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "042-076B-005"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. P. PIÑERO",
+    "barrio": "Caballito",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1406",
+    "codigo_postal_argentino": "C1406CQD",
+    "comisaria": "12",
+    "comisaria_vecinal": "6B",
+    "comuna": "Comuna 6",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "42"
+  },
+  "debug": {
+    "address": "PUAN 108",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.44798502464931,
+        -34.624653155507424
+      ],
+      "direccion": "",
+      "fondo": "18.25",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "076B",
+      "parcela": "005",
+      "pdamatriz": "138435",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "042",
+      "smp": "042-076B-005",
+      "smp_anterior": "042-076B-004",
+      "smp_siguiente": "042-076B-006",
+      "srid": 4326,
+      "superficie_cubierta": "290.00",
+      "superficie_total": "158.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 108,
+      "cod_calle": 17128
+    },
+    "usig_direccion_elegida": {
+      "altura": 108,
+      "cod_calle": 17128,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.448112",
+        "y": "-34.624689"
+      },
+      "direccion": "PUAN 108, CABA",
+      "nombre_calle": "PUAN",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 108,
+          "cod_calle": 17128,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.448112",
+            "y": "-34.624689"
+          },
+          "direccion": "PUAN 108, CABA",
+          "nombre_calle": "PUAN",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 108,
+          "cod_calle": 25337,
+          "cod_calle_cruce": null,
+          "cod_partido": "moron",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5980414142857,
+            "y": -34.6439549530612
+          },
+          "direccion": "Puán 108, Morón",
+          "nombre_calle": "Puán",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Haedo",
+          "nombre_partido": "Morón",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  101414.49198233854,
+                  100510.76703150026
+                ],
+                [
+                  101411.34498234667,
+                  100509.69703150529
+                ],
+                [
+                  101410.5019823494,
+                  100509.4100315072
+                ],
+                [
+                  101409.55498235121,
+                  100509.0880315091
+                ],
+                [
+                  101408.59998235351,
+                  100508.76303151058
+                ],
+                [
+                  101398.41598238004,
+                  100505.29803152807
+                ],
+                [
+                  101397.27998238303,
+                  100504.91203152915
+                ],
+                [
+                  101396.95798238402,
+                  100505.85903152739
+                ],
+                [
+                  101396.15298238835,
+                  100508.22603152096
+                ],
+                [
+                  101394.47898239711,
+                  100513.1490315088
+                ],
+                [
+                  101400.60998238156,
+                  100515.23103149782
+                ],
+                [
+                  101402.8669823751,
+                  100515.99803149397
+                ],
+                [
+                  101406.642982366,
+                  100517.2810314883
+                ],
+                [
+                  101407.02298236488,
+                  100517.41003148738
+                ],
+                [
+                  101408.53698236054,
+                  100517.92403148432
+                ],
+                [
+                  101411.00698235494,
+                  100518.76303148075
+                ],
+                [
+                  101411.71198235315,
+                  100519.00303147879
+                ],
+                [
+                  101412.43698234917,
+                  100516.85603148438
+                ],
+                [
+                  101413.2749823454,
+                  100514.37103149132
+                ],
+                [
+                  101413.41598234452,
+                  100513.954031492
+                ],
+                [
+                  101414.49198233854,
+                  100510.76703150026
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "042-076B-005",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "PUAN 108",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.44798502464931,
+      -34.624653155507424
+    ],
+    "direccion": "",
+    "fondo": "18.25",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "076B",
+    "parcela": "005",
+    "pdamatriz": "138435",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "042",
+    "smp": "042-076B-005",
+    "smp_anterior": "042-076B-004",
+    "smp_siguiente": "042-076B-006",
+    "srid": 4326,
+    "superficie_cubierta": "290.00",
+    "superficie_total": "158.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "042-076B-005",
+  "_http_status": 200
+}

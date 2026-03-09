@@ -1,0 +1,350 @@
+{
+  "area_m2": 188.77091026306152,
+  "centroide_lonlat": {
+    "lat": -34.62653,
+    "lon": -58.436976
+  },
+  "centroide_xy": {
+    "x": 102414.06207060676,
+    "y": 100303.50191121433
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 2.5,
+          "fot_perim_libre": 2.5,
+          "fot_semi_libre": 2.5
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/2/73/040-049B-043_0000051273.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION040/040-049B-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION040/PI-040-049B-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "040-049B-010",
+            "040-049B-009",
+            "040-049B-044",
+            "040-049B-008"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "AE 26",
+          "incidencia_uva": 400.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 177.977606008257,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 188.8,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "040-049B-043"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Caballito",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1424",
+    "codigo_postal_argentino": "C1424CGA",
+    "comisaria": "12",
+    "comisaria_vecinal": "6B",
+    "comuna": "Comuna 6",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "40"
+  },
+  "debug": {
+    "address": "MAITEN 657",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.43697574097596,
+        -34.62653033714072
+      ],
+      "direccion": "",
+      "fondo": "21.95",
+      "frente": "8.84",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "049B",
+      "parcela": "043",
+      "pdamatriz": "157825",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "040",
+      "smp": "040-049B-043",
+      "smp_anterior": "040-049B-017",
+      "smp_siguiente": "040-049B-044",
+      "srid": 4326,
+      "superficie_cubierta": "236.00",
+      "superficie_total": "194.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 657,
+      "cod_calle": 13015
+    },
+    "usig_direccion_elegida": {
+      "altura": 657,
+      "cod_calle": 13015,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.436957",
+        "y": "-34.626622"
+      },
+      "direccion": "MAITEN 657, CABA",
+      "nombre_calle": "MAITEN",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 657,
+          "cod_calle": 13015,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.436957",
+            "y": "-34.626622"
+          },
+          "direccion": "MAITEN 657, CABA",
+          "nombre_calle": "MAITEN",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102408.70397940051,
+                  100311.2570313116
+                ],
+                [
+                  102409.59197939839,
+                  100311.41203130982
+                ],
+                [
+                  102412.15697939103,
+                  100311.86003130744
+                ],
+                [
+                  102412.62897938983,
+                  100311.94203130633
+                ],
+                [
+                  102417.56797937686,
+                  100312.80503130009
+                ],
+                [
+                  102418.44297937107,
+                  100308.38203131233
+                ],
+                [
+                  102418.81897936875,
+                  100306.48603131672
+                ],
+                [
+                  102419.25297936532,
+                  100304.29003132303
+                ],
+                [
+                  102419.89197936155,
+                  100301.0640313318
+                ],
+                [
+                  102421.03697935354,
+                  100295.27803134685
+                ],
+                [
+                  102421.09497935334,
+                  100294.9840313479
+                ],
+                [
+                  102417.71697936277,
+                  100294.38603135187
+                ],
+                [
+                  102413.64797937355,
+                  100293.66503135706
+                ],
+                [
+                  102412.64197937615,
+                  100293.487031358
+                ],
+                [
+                  102411.33097938247,
+                  100296.67503135011
+                ],
+                [
+                  102410.8419793847,
+                  100297.86503134758
+                ],
+                [
+                  102410.2619793873,
+                  100299.27603134341
+                ],
+                [
+                  102409.82197938896,
+                  100300.34403134068
+                ],
+                [
+                  102408.99297939285,
+                  100302.36103133569
+                ],
+                [
+                  102406.33997940522,
+                  100308.81403132027
+                ],
+                [
+                  102405.56097940874,
+                  100310.70803131492
+                ],
+                [
+                  102408.70397940051,
+                  100311.2570313116
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "040-049B-043",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MAITEN 657",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.43697574097596,
+      -34.62653033714072
+    ],
+    "direccion": "",
+    "fondo": "21.95",
+    "frente": "8.84",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "049B",
+    "parcela": "043",
+    "pdamatriz": "157825",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "040",
+    "smp": "040-049B-043",
+    "smp_anterior": "040-049B-017",
+    "smp_siguiente": "040-049B-044",
+    "srid": 4326,
+    "superficie_cubierta": "236.00",
+    "superficie_total": "194.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "040-049B-043",
+  "_http_status": 200
+}

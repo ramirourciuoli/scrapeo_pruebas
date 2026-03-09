@@ -1,0 +1,374 @@
+{
+  "area_m2": 256.960337638855,
+  "centroide_lonlat": {
+    "lat": -34.618516,
+    "lon": -58.525978
+  },
+  "centroide_xy": {
+    "x": 94251.59834906258,
+    "y": 101191.14873557596
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/1/87/093-142-041_0000209187.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION093/093-142-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION093/PI-093-142-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "093-142-042",
+            "093-142-004",
+            "093-142-003",
+            "093-142-040"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 140.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 256.952500000001,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 257.0,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "093-142-041"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Villa Real",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1408",
+    "codigo_postal_argentino": "C1408CZX",
+    "comisaria": "44",
+    "comisaria_vecinal": "10B",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "93"
+  },
+  "debug": {
+    "address": "VICTOR HUGO 2574",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.525977701294806,
+        -34.61851566107177
+      ],
+      "direccion": "",
+      "fondo": "29.21",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "142",
+      "parcela": "041",
+      "pdamatriz": "289744",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "093",
+      "smp": "093-142-041",
+      "smp_anterior": "093-142-040",
+      "smp_siguiente": "093-142-042",
+      "srid": 4326,
+      "superficie_cubierta": "343.00",
+      "superficie_total": "253.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2574,
+      "cod_calle": 8032
+    },
+    "usig_direccion_elegida": {
+      "altura": 2574,
+      "cod_calle": 8032,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.525837",
+        "y": "-34.618389"
+      },
+      "direccion": "HUGO, VICTOR 2574, CABA",
+      "nombre_calle": "HUGO, VICTOR",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2574,
+          "cod_calle": 8032,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.525837",
+            "y": "-34.618389"
+          },
+          "direccion": "HUGO, VICTOR 2574, CABA",
+          "nombre_calle": "HUGO, VICTOR",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  94256.0160029344,
+                  101202.4170349492
+                ],
+                [
+                  94258.34400292949,
+                  101204.95003494012
+                ],
+                [
+                  94264.74500290769,
+                  101199.0860349517
+                ],
+                [
+                  94261.9470029128,
+                  101196.01803496247
+                ],
+                [
+                  94261.24609666449,
+                  101195.24911943762
+                ],
+                [
+                  94260.68700291553,
+                  101194.63603496703
+                ],
+                [
+                  94259.46000291794,
+                  101193.29003497187
+                ],
+                [
+                  94259.17600291857,
+                  101192.98003497336
+                ],
+                [
+                  94258.22600292026,
+                  101191.9370349765
+                ],
+                [
+                  94256.6830029237,
+                  101190.24503498254
+                ],
+                [
+                  94253.91913134696,
+                  101187.21512288362
+                ],
+                [
+                  94251.82910449561,
+                  101184.92313070418
+                ],
+                [
+                  94248.52500294002,
+                  101181.29903501333
+                ],
+                [
+                  94244.88400294648,
+                  101177.30703502768
+                ],
+                [
+                  94239.97600296393,
+                  101181.94603501874
+                ],
+                [
+                  94238.50000296933,
+                  101183.3420350157
+                ],
+                [
+                  94240.46100296553,
+                  101185.48303500802
+                ],
+                [
+                  94242.04900296194,
+                  101187.21703500216
+                ],
+                [
+                  94242.48700296115,
+                  101187.6950350006
+                ],
+                [
+                  94244.42300295799,
+                  101189.80903499329
+                ],
+                [
+                  94245.3630029556,
+                  101190.8310349895
+                ],
+                [
+                  94247.58000295138,
+                  101193.24303498067
+                ],
+                [
+                  94250.30900294625,
+                  101196.21003497054
+                ],
+                [
+                  94252.41900294146,
+                  101198.5050349624
+                ],
+                [
+                  94253.02800294044,
+                  101199.16803495979
+                ],
+                [
+                  94254.55900293779,
+                  101200.833034954
+                ],
+                [
+                  94255.52600293512,
+                  101201.88503495042
+                ],
+                [
+                  94256.0160029344,
+                  101202.4170349492
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "093-142-041",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "VICTOR HUGO 2574",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.525977701294806,
+      -34.61851566107177
+    ],
+    "direccion": "",
+    "fondo": "29.21",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "142",
+    "parcela": "041",
+    "pdamatriz": "289744",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "093",
+    "smp": "093-142-041",
+    "smp_anterior": "093-142-040",
+    "smp_siguiente": "093-142-042",
+    "srid": 4326,
+    "superficie_cubierta": "343.00",
+    "superficie_total": "253.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "093-142-041",
+  "_http_status": 200
+}

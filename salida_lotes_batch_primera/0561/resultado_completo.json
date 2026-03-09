@@ -1,0 +1,329 @@
+{
+  "area_m2": 95.305832862854,
+  "centroide_lonlat": {
+    "lat": -34.66448,
+    "lon": -58.477103
+  },
+  "centroide_xy": {
+    "x": 98734.81909993818,
+    "y": 96093.702986496
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/95/064-049A-026_0000032695.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION064/064-049A-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION064/PI-064-049A-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "064-049A-002",
+            "064-049A-025",
+            "064-049A-001"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "AE 26",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 95.2728999999636,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 95.3,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "064-049A-026"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. P. PIÑERO",
+    "barrio": "Villa Lugano",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1439",
+    "codigo_postal_argentino": "C1439AUA",
+    "comisaria": "48",
+    "comisaria_vecinal": "8A",
+    "comuna": "Comuna 8",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "64"
+  },
+  "debug": {
+    "address": "MONTREAL 4913",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.47710251307452,
+        -34.66448018428253
+      ],
+      "direccion": "",
+      "fondo": "12.07",
+      "frente": "7.79",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "049A",
+      "parcela": "026",
+      "pdamatriz": "59211",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "064",
+      "smp": "064-049A-026",
+      "smp_anterior": "064-049A-025",
+      "smp_siguiente": "064-049A-001",
+      "srid": 4326,
+      "superficie_cubierta": "103.00",
+      "superficie_total": "94.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4913,
+      "cod_calle": 13120
+    },
+    "usig_direccion_elegida": {
+      "altura": 4913,
+      "cod_calle": 13120,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.477033",
+        "y": "-34.664536"
+      },
+      "direccion": "MONTREAL 4913, CABA",
+      "nombre_calle": "MONTREAL",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4913,
+          "cod_calle": 13120,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.477033",
+            "y": "-34.664536"
+          },
+          "direccion": "MONTREAL 4913, CABA",
+          "nombre_calle": "MONTREAL",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98738.34298652053,
+                  96095.79804589535
+                ],
+                [
+                  98739.11098651754,
+                  96095.08404589692
+                ],
+                [
+                  98741.01298651134,
+                  96093.314045901
+                ],
+                [
+                  98741.6139865089,
+                  96092.75404590057
+                ],
+                [
+                  98742.00398650767,
+                  96092.3920459032
+                ],
+                [
+                  98739.74098651326,
+                  96090.04904590888
+                ],
+                [
+                  98736.59098651912,
+                  96086.78904592257
+                ],
+                [
+                  98730.92498653835,
+                  96091.93404591223
+                ],
+                [
+                  98730.30298654118,
+                  96092.49904591084
+                ],
+                [
+                  98730.05098654183,
+                  96092.72804591173
+                ],
+                [
+                  98727.59598655027,
+                  96094.95704590631
+                ],
+                [
+                  98730.44098654363,
+                  96097.86404589599
+                ],
+                [
+                  98733.14898653909,
+                  96100.63104588553
+                ],
+                [
+                  98735.06498653202,
+                  96098.84904589044
+                ],
+                [
+                  98735.61898653037,
+                  96098.33304589082
+                ],
+                [
+                  98736.59198652707,
+                  96097.42804589382
+                ],
+                [
+                  98738.34298652053,
+                  96095.79804589535
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "064-049A-026",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MONTREAL 4913",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.47710251307452,
+      -34.66448018428253
+    ],
+    "direccion": "",
+    "fondo": "12.07",
+    "frente": "7.79",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "049A",
+    "parcela": "026",
+    "pdamatriz": "59211",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "064",
+    "smp": "064-049A-026",
+    "smp_anterior": "064-049A-025",
+    "smp_siguiente": "064-049A-001",
+    "srid": 4326,
+    "superficie_cubierta": "103.00",
+    "superficie_total": "94.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "064-049A-026",
+  "_http_status": 200
+}

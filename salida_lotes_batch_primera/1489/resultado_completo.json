@@ -1,0 +1,326 @@
+{
+  "area_m2": 154.4252405166626,
+  "centroide_lonlat": {
+    "lat": -34.618649,
+    "lon": -58.502813
+  },
+  "centroide_xy": {
+    "x": 96376.09106562217,
+    "y": 101177.42186002534
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 2.5,
+          "fot_perim_libre": 2.5,
+          "fot_semi_libre": 2.5
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/9/02/085-063B-015_0000187902.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION085/085-063B-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION085/PI-085-063B-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "085-063B-016",
+            "085-063B-005a",
+            "085-063B-004",
+            "085-063B-003"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "AE 26",
+          "incidencia_uva": 100.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 154.419349999942,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 154.4,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "085-063B-015"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Monte Castro",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1407",
+    "codigo_postal_argentino": "C1407FEC",
+    "comisaria": "43",
+    "comisaria_vecinal": "10A",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "85"
+  },
+  "debug": {
+    "address": "ALBANIA 4547",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.50281335676348,
+        -34.618649097685314
+      ],
+      "direccion": "",
+      "fondo": "17.78",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "063B",
+      "parcela": "015",
+      "pdamatriz": "276251",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "085",
+      "smp": "085-063B-015",
+      "smp_anterior": "085-063B-013",
+      "smp_siguiente": "085-063B-016",
+      "srid": 4326,
+      "superficie_cubierta": "225.00",
+      "superficie_total": "154.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4547,
+      "cod_calle": 1028
+    },
+    "usig_direccion_elegida": {
+      "altura": 4547,
+      "cod_calle": 1028,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.502753",
+        "y": "-34.618729"
+      },
+      "direccion": "ALBANIA 4547, CABA",
+      "nombre_calle": "ALBANIA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4547,
+          "cod_calle": 1028,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.502753",
+            "y": "-34.618729"
+          },
+          "direccion": "ALBANIA 4547, CABA",
+          "nombre_calle": "ALBANIA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96369.12499699568,
+                  101183.55503340982
+                ],
+                [
+                  96374.98399698125,
+                  101187.25503339642
+                ],
+                [
+                  96377.05499697194,
+                  101183.99303340199
+                ],
+                [
+                  96379.50899696314,
+                  101180.12703341429
+                ],
+                [
+                  96381.06099695686,
+                  101177.68203341844
+                ],
+                [
+                  96384.52799694237,
+                  101172.22003343166
+                ],
+                [
+                  96384.10599694369,
+                  101171.95303343321
+                ],
+                [
+                  96377.62299695873,
+                  101167.85503344834
+                ],
+                [
+                  96377.19899696032,
+                  101167.58703345031
+                ],
+                [
+                  96374.90899696897,
+                  101171.19503344147
+                ],
+                [
+                  96374.18299697201,
+                  101172.33903343885
+                ],
+                [
+                  96372.1569969796,
+                  101175.53003343171
+                ],
+                [
+                  96370.06499698908,
+                  101178.82603342284
+                ],
+                [
+                  96368.84710392718,
+                  101180.74515060504
+                ],
+                [
+                  96367.65299699952,
+                  101182.6260334143
+                ],
+                [
+                  96369.12499699568,
+                  101183.55503340982
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "085-063B-015",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ALBANIA 4547",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.50281335676348,
+      -34.618649097685314
+    ],
+    "direccion": "",
+    "fondo": "17.78",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "063B",
+    "parcela": "015",
+    "pdamatriz": "276251",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "085",
+    "smp": "085-063B-015",
+    "smp_anterior": "085-063B-013",
+    "smp_siguiente": "085-063B-016",
+    "srid": 4326,
+    "superficie_cubierta": "225.00",
+    "superficie_total": "154.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "085-063B-015",
+  "_http_status": 200
+}

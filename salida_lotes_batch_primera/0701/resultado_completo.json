@@ -1,0 +1,320 @@
+{
+  "area_m2": 115.90304851531982,
+  "centroide_lonlat": {
+    "lat": -34.548445,
+    "lon": -58.49184
+  },
+  "centroide_xy": {
+    "x": 97380.29717570485,
+    "y": 108965.90586175435
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 1,
+          "ensanche": 1,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "U",
+            "distrito_especifico": "U 34"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 0.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/17/055-218-005_0000242017.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION055/055-218-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION055/PI-055-218-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "055-218-006",
+            "055-218-004"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "U34",
+          "incidencia_uva": 120.0,
+          "plusvalia_em": 3002.93,
+          "plusvalia_pl": 3002.93,
+          "plusvalia_sl": 3002.93
+        },
+        "rivolta": 0,
+        "subzona": "Zona 1",
+        "sup_edificable_planta": 115.853750000213,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 115.9,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "055-218-005"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Saavedra",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1430",
+    "codigo_postal_argentino": "C1430CYB",
+    "comisaria": "49",
+    "comisaria_vecinal": "12A",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "55"
+  },
+  "debug": {
+    "address": "PICO 4296",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.49183996692695,
+        -34.54844482497896
+      ],
+      "direccion": "",
+      "fondo": "29.95",
+      "frente": "3.84",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "218",
+      "parcela": "005",
+      "pdamatriz": "370003",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "055",
+      "smp": "055-218-005",
+      "smp_anterior": "055-218-004",
+      "smp_siguiente": "055-218-006",
+      "srid": 4326,
+      "superficie_cubierta": "172.00",
+      "superficie_total": "115.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4296,
+      "cod_calle": 17074
+    },
+    "usig_direccion_elegida": {
+      "altura": 4296,
+      "cod_calle": 17074,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.491883",
+        "y": "-34.548374"
+      },
+      "direccion": "PICO 4296, CABA",
+      "nombre_calle": "PICO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4296,
+          "cod_calle": 17074,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.491883",
+            "y": "-34.548374"
+          },
+          "direccion": "PICO 4296, CABA",
+          "nombre_calle": "PICO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97375.35300002496,
+                  108958.52201084979
+                ],
+                [
+                  97373.32000003345,
+                  108962.02001084117
+                ],
+                [
+                  97374.94500003321,
+                  108967.72101082432
+                ],
+                [
+                  97378.3270000246,
+                  108969.88001081566
+                ],
+                [
+                  97379.59300002243,
+                  108970.68801081265
+                ],
+                [
+                  97380.85800001917,
+                  108971.49601080958
+                ],
+                [
+                  97383.73712159449,
+                  108973.33411724732
+                ],
+                [
+                  97384.27111817438,
+                  108972.48810894851
+                ],
+                [
+                  97388.34210204483,
+                  108966.04212507681
+                ],
+                [
+                  97388.41412352893,
+                  108965.92811140523
+                ],
+                [
+                  97384.02800000412,
+                  108963.4410108292
+                ],
+                [
+                  97383.74100000528,
+                  108963.27801083014
+                ],
+                [
+                  97382.58200000804,
+                  108962.62101083325
+                ],
+                [
+                  97376.92700002121,
+                  108959.41501084619
+                ],
+                [
+                  97375.35300002496,
+                  108958.52201084979
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "055-218-005",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "PICO 4296",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.49183996692695,
+      -34.54844482497896
+    ],
+    "direccion": "",
+    "fondo": "29.95",
+    "frente": "3.84",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "218",
+    "parcela": "005",
+    "pdamatriz": "370003",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "055",
+    "smp": "055-218-005",
+    "smp_anterior": "055-218-004",
+    "smp_siguiente": "055-218-006",
+    "srid": 4326,
+    "superficie_cubierta": "172.00",
+    "superficie_total": "115.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "055-218-005",
+  "_http_status": 200
+}

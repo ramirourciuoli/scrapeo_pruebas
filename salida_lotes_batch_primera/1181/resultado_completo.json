@@ -1,0 +1,356 @@
+{
+  "area_m2": 103.99808025360107,
+  "centroide_lonlat": {
+    "lat": -34.589102,
+    "lon": -58.481796
+  },
+  "centroide_xy": {
+    "x": 98303.0336017973,
+    "y": 104455.7982775792
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "U",
+            "distrito_especifico": "U 39"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 0.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/4/56/061-059-005_0000361456.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION061/061-059-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION061/PI-061-059-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "DI-2022-1333-GCABA-DGIUR",
+          "pdf": "061-059.pdf"
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "061-059-006",
+            "061-059-004"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "U39",
+          "incidencia_uva": 300.0,
+          "plusvalia_em": 0.0,
+          "plusvalia_pl": 0.0,
+          "plusvalia_sl": 0.0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 104.0,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "061-059-005"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. E. TORNÚ",
+    "barrio": "Parque Chas",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1427",
+    "codigo_postal_argentino": "C1427DHB",
+    "comisaria": "39",
+    "comisaria_vecinal": "15C",
+    "comuna": "Comuna 15",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "61"
+  },
+  "debug": {
+    "address": "ESTOCOLMO 3248",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.48179635600558,
+        -34.58910209583943
+      ],
+      "direccion": "",
+      "fondo": "9.82",
+      "frente": "11.10",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "059",
+      "parcela": "005",
+      "pdamatriz": "246831",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "061",
+      "smp": "061-059-005",
+      "smp_anterior": "061-059-004",
+      "smp_siguiente": "061-059-006",
+      "srid": 4326,
+      "superficie_cubierta": "230.00",
+      "superficie_total": "109.00",
+      "unidades_funcionales": "2",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3248,
+      "cod_calle": 5092
+    },
+    "usig_direccion_elegida": {
+      "altura": 3248,
+      "cod_calle": 5092,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.481825",
+        "y": "-34.589002"
+      },
+      "direccion": "ESTOCOLMO 3248, CABA",
+      "nombre_calle": "ESTOCOLMO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3248,
+          "cod_calle": 5092,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.481825",
+            "y": "-34.589002"
+          },
+          "direccion": "ESTOCOLMO 3248, CABA",
+          "nombre_calle": "ESTOCOLMO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98298.85799405124,
+                  104463.09102276163
+                ],
+                [
+                  98299.059994051,
+                  104464.070022759
+                ],
+                [
+                  98300.56699404774,
+                  104465.08102275498
+                ],
+                [
+                  98300.73799404746,
+                  104465.1950227546
+                ],
+                [
+                  98302.30699404143,
+                  104462.87202276007
+                ],
+                [
+                  98302.82999403946,
+                  104462.09802276164
+                ],
+                [
+                  98304.01799403485,
+                  104460.3400227653
+                ],
+                [
+                  98304.56499403295,
+                  104459.52902276738
+                ],
+                [
+                  98305.91699402765,
+                  104457.52902277198
+                ],
+                [
+                  98307.27199402184,
+                  104455.52302277656
+                ],
+                [
+                  98307.73399402027,
+                  104454.83802277854
+                ],
+                [
+                  98308.75699401634,
+                  104453.32402278154
+                ],
+                [
+                  98310.25699401046,
+                  104451.10302278676
+                ],
+                [
+                  98308.99599401373,
+                  104450.65802278867
+                ],
+                [
+                  98308.30899401555,
+                  104450.41502279011
+                ],
+                [
+                  98307.46299401781,
+                  104450.11602279192
+                ],
+                [
+                  98302.63099402968,
+                  104448.41002280006
+                ],
+                [
+                  98301.99899403106,
+                  104448.18702280096
+                ],
+                [
+                  98301.84399403154,
+                  104448.58402279986
+                ],
+                [
+                  98299.75599404192,
+                  104453.94302278655
+                ],
+                [
+                  98297.93499405004,
+                  104458.61502277508
+                ],
+                [
+                  98298.15099405026,
+                  104459.66302277148
+                ],
+                [
+                  98298.33699405109,
+                  104460.56302276917
+                ],
+                [
+                  98298.85799405124,
+                  104463.09102276163
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "061-059-005",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ESTOCOLMO 3248",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.48179635600558,
+      -34.58910209583943
+    ],
+    "direccion": "",
+    "fondo": "9.82",
+    "frente": "11.10",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "059",
+    "parcela": "005",
+    "pdamatriz": "246831",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "061",
+    "smp": "061-059-005",
+    "smp_anterior": "061-059-004",
+    "smp_siguiente": "061-059-006",
+    "srid": 4326,
+    "superficie_cubierta": "230.00",
+    "superficie_total": "109.00",
+    "unidades_funcionales": "2",
+    "vuc": "0.00"
+  },
+  "smp": "061-059-005",
+  "_http_status": 200
+}

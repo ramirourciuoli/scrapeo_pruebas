@@ -1,0 +1,419 @@
+{
+  "area_m2": 352.6545572280884,
+  "centroide_lonlat": {
+    "lat": -34.606881,
+    "lon": -58.493447
+  },
+  "centroide_xy": {
+    "x": 97234.76815266532,
+    "y": 102483.22915458697
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.0,
+          "fot_perim_libre": 1.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/2/20/081-148-005_0000146220.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION081/081-148-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION081/PI-081-148-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "081-148-006",
+            "081-148-010",
+            "081-148-004",
+            "081-148-009"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R1b I",
+          "incidencia_uva": 100.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 7616.95
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 352.636599999888,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 352.7,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "081-148-005"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Villa Del Parque",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1417",
+    "codigo_postal_argentino": "C1417FYP",
+    "comisaria": "45",
+    "comisaria_vecinal": "11A",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "81"
+  },
+  "debug": {
+    "address": "MARCOS SASTRE 3366",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.49344650061374,
+        -34.60688095627887
+      ],
+      "direccion": "",
+      "fondo": "39.95",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "148",
+      "parcela": "005",
+      "pdamatriz": "264041",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "081",
+      "smp": "081-148-005",
+      "smp_anterior": "081-148-004",
+      "smp_siguiente": "081-148-006",
+      "srid": 4326,
+      "superficie_cubierta": "286.00",
+      "superficie_total": "346.00",
+      "unidades_funcionales": "3",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3366,
+      "cod_calle": 20079
+    },
+    "usig_direccion_elegida": {
+      "altura": 3366,
+      "cod_calle": 20079,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.493595",
+        "y": "-34.606709"
+      },
+      "direccion": "SASTRE, MARCOS 3366, CABA",
+      "nombre_calle": "SASTRE, MARCOS",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3366,
+          "cod_calle": 20079,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.493595",
+            "y": "-34.606709"
+          },
+          "direccion": "SASTRE, MARCOS 3366, CABA",
+          "nombre_calle": "SASTRE, MARCOS",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3366,
+          "cod_calle": 68512,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_miguel",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.739756067347,
+            "y": -34.5528111959184
+          },
+          "direccion": "Marcos Sastre 3366, San Miguel",
+          "nombre_calle": "Marcos Sastre",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Santa María",
+          "nombre_partido": "San Miguel",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97239.25299552153,
+                  102469.20602915104
+                ],
+                [
+                  97238.42899552471,
+                  102470.38302914845
+                ],
+                [
+                  97237.64999552853,
+                  102471.49402914551
+                ],
+                [
+                  97235.6939955359,
+                  102474.27502913962
+                ],
+                [
+                  97234.56699553995,
+                  102475.87802913517
+                ],
+                [
+                  97231.84599555057,
+                  102479.74802912647
+                ],
+                [
+                  97227.47199556768,
+                  102485.96802911299
+                ],
+                [
+                  97225.88399557337,
+                  102488.22602910732
+                ],
+                [
+                  97224.23299558018,
+                  102490.57402910214
+                ],
+                [
+                  97222.60199558645,
+                  102492.89302909706
+                ],
+                [
+                  97219.60699559792,
+                  102497.15202908698
+                ],
+                [
+                  97221.72799559342,
+                  102498.65602908179
+                ],
+                [
+                  97224.97699558586,
+                  102500.96002907242
+                ],
+                [
+                  97226.71199558223,
+                  102502.19102906738
+                ],
+                [
+                  97228.20399557607,
+                  102500.08602907261
+                ],
+                [
+                  97229.31399557213,
+                  102498.52002907562
+                ],
+                [
+                  97230.9159955659,
+                  102496.25902908077
+                ],
+                [
+                  97231.33799556454,
+                  102495.66302908226
+                ],
+                [
+                  97235.29599554883,
+                  102490.08002909526
+                ],
+                [
+                  97235.73299554706,
+                  102489.46302909701
+                ],
+                [
+                  97236.02099554567,
+                  102489.05602909735
+                ],
+                [
+                  97236.54299554357,
+                  102488.3210290997
+                ],
+                [
+                  97237.12099554198,
+                  102487.50502910098
+                ],
+                [
+                  97244.8029955123,
+                  102476.66502912572
+                ],
+                [
+                  97246.87799550357,
+                  102473.76302913256
+                ],
+                [
+                  97247.60499550164,
+                  102472.74602913487
+                ],
+                [
+                  97249.02299549576,
+                  102470.76302913934
+                ],
+                [
+                  97249.93299549243,
+                  102469.49002914215
+                ],
+                [
+                  97246.71099549967,
+                  102467.19102915048
+                ],
+                [
+                  97245.37399550239,
+                  102466.23702915426
+                ],
+                [
+                  97242.93799550817,
+                  102464.49902916106
+                ],
+                [
+                  97242.67999550836,
+                  102464.31502916233
+                ],
+                [
+                  97240.53199551665,
+                  102467.38002915485
+                ],
+                [
+                  97240.23199551798,
+                  102467.80802915414
+                ],
+                [
+                  97239.25299552153,
+                  102469.20602915104
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "081-148-005",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MARCOS SASTRE 3366",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.49344650061374,
+      -34.60688095627887
+    ],
+    "direccion": "",
+    "fondo": "39.95",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "148",
+    "parcela": "005",
+    "pdamatriz": "264041",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "081",
+    "smp": "081-148-005",
+    "smp_anterior": "081-148-004",
+    "smp_siguiente": "081-148-006",
+    "srid": 4326,
+    "superficie_cubierta": "286.00",
+    "superficie_total": "346.00",
+    "unidades_funcionales": "3",
+    "vuc": "0.00"
+  },
+  "smp": "081-148-005",
+  "_http_status": 200
+}

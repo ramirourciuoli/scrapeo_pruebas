@@ -1,0 +1,430 @@
+{
+  "area_m2": 186.04471015930176,
+  "centroide_lonlat": {
+    "lat": -34.639349,
+    "lon": -58.386965
+  },
+  "centroide_xy": {
+    "x": 106999.23753579379,
+    "y": 98879.15640864449
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "E-CCA",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.0,
+          "fot_perim_libre": 3.0,
+          "fot_semi_libre": 3.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/36/016-006-029_0000305736.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION016/016-006-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION016/PI-016-006-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": true,
+          "smp_linderas": [
+            "016-006-032",
+            "016-006-026a",
+            "016-006-030",
+            "016-006-031"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "E3",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 175.479654895801,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 186.0,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "016-006-029"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.M. PENNA",
+    "barrio": "Barracas",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1287",
+    "codigo_postal_argentino": "C1287ABM",
+    "comisaria": "28",
+    "comisaria_vecinal": "4D",
+    "comuna": "Comuna 4",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   V",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "16"
+  },
+  "debug": {
+    "address": "BRANDSEN 2715",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.38696473636489,
+        -34.63934858884294
+      ],
+      "direccion": "",
+      "fondo": "21.98",
+      "frente": "8.37",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "006",
+      "parcela": "029",
+      "pdamatriz": "113679",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "016",
+      "smp": "016-006-029",
+      "smp_anterior": "016-006-026A",
+      "smp_siguiente": "016-006-030",
+      "srid": 4326,
+      "superficie_cubierta": "155.00",
+      "superficie_total": "184.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2715,
+      "cod_calle": 2110
+    },
+    "usig_direccion_elegida": {
+      "altura": 2715,
+      "cod_calle": 2110,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.386970",
+        "y": "-34.639473"
+      },
+      "direccion": "BRANDSEN 2715, CABA",
+      "nombre_calle": "BRANDSEN",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2715,
+          "cod_calle": 2110,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.386970",
+            "y": "-34.639473"
+          },
+          "direccion": "BRANDSEN 2715, CABA",
+          "nombre_calle": "BRANDSEN",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2715,
+          "cod_calle": 54063,
+          "cod_calle_cruce": null,
+          "cod_partido": "avellaneda",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3505714357143,
+            "y": -34.6795078928571
+          },
+          "direccion": "Coronel Brandsen 2715, Avellaneda",
+          "nombre_calle": "Coronel Brandsen",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Sarandí",
+          "nombre_partido": "Avellaneda",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2715,
+          "cod_calle": 268124,
+          "cod_calle_cruce": null,
+          "cod_partido": "ituzaingo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6918230808081,
+            "y": -34.6379537111111
+          },
+          "direccion": "Coronel Brandsen 2715, Ituzaingó",
+          "nombre_calle": "Coronel Brandsen",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ituzaingó",
+          "nombre_partido": "Ituzaingó",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2715,
+          "cod_calle": 16313,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "direccion": "Coronel Brandsen 2715, La Matanza",
+          "nombre_calle": "Coronel Brandsen",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ramos Mejia",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2715,
+          "cod_calle": 138623,
+          "cod_calle_cruce": null,
+          "cod_partido": "presidente_peron",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3457312826531,
+            "y": -34.9202520142857
+          },
+          "direccion": "49 Brandsen 2715, Presidente Perón",
+          "nombre_calle": "49 Brandsen",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Presidente Perón",
+          "nombre_partido": "Presidente Perón",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2715,
+          "cod_calle": 114301,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_fernando",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5468032,
+            "y": -34.4536450714286
+          },
+          "direccion": "Coronel Brandsen 2715, San Fernando",
+          "nombre_calle": "Coronel Brandsen",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Victoria",
+          "nombre_partido": "San Fernando",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2715,
+          "cod_calle": 336810,
+          "cod_calle_cruce": null,
+          "cod_partido": "tres_de_febrero",
+          "direccion": "275 - Coronel Frédéric de Brandsen 2715, Tres de Febrero",
+          "nombre_calle": "275 - Coronel Frédéric de Brandsen",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "José Ingenieros",
+          "nombre_partido": "Tres de Febrero",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  106994.70596545446,
+                  98868.33803190617
+                ],
+                [
+                  106994.87096545825,
+                  98874.2160318901
+                ],
+                [
+                  106995.02396546106,
+                  98879.66203187231
+                ],
+                [
+                  106995.18396546502,
+                  98885.36603185869
+                ],
+                [
+                  106995.32396546798,
+                  98890.34403184312
+                ],
+                [
+                  106998.21496546015,
+                  98890.24203184241
+                ],
+                [
+                  106998.9669654584,
+                  98890.21503184113
+                ],
+                [
+                  106999.37896545717,
+                  98890.20103184241
+                ],
+                [
+                  107000.88996545285,
+                  98890.14803183958
+                ],
+                [
+                  107001.3779654509,
+                  98890.13003184012
+                ],
+                [
+                  107002.36196544798,
+                  98890.09603183845
+                ],
+                [
+                  107003.68396544542,
+                  98890.04903183776
+                ],
+                [
+                  107003.6699654444,
+                  98889.3420318402
+                ],
+                [
+                  107003.610965442,
+                  98886.39903184891
+                ],
+                [
+                  107003.51896543894,
+                  98881.84403186102
+                ],
+                [
+                  107003.44496543735,
+                  98878.19003187373
+                ],
+                [
+                  107003.35596543351,
+                  98873.73903188435
+                ],
+                [
+                  107003.24096542978,
+                  98868.04603190027
+                ],
+                [
+                  106994.70596545446,
+                  98868.33803190617
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "016-006-029",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "BRANDSEN 2715",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.38696473636489,
+      -34.63934858884294
+    ],
+    "direccion": "",
+    "fondo": "21.98",
+    "frente": "8.37",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "006",
+    "parcela": "029",
+    "pdamatriz": "113679",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "016",
+    "smp": "016-006-029",
+    "smp_anterior": "016-006-026A",
+    "smp_siguiente": "016-006-030",
+    "srid": 4326,
+    "superficie_cubierta": "155.00",
+    "superficie_total": "184.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "016-006-029",
+  "_http_status": 200
+}

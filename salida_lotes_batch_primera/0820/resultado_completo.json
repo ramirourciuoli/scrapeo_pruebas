@@ -1,0 +1,376 @@
+{
+  "area_m2": 377.44731426239014,
+  "centroide_lonlat": {
+    "lat": -34.630296,
+    "lon": -58.471868
+  },
+  "centroide_xy": {
+    "x": 99214.27600711885,
+    "y": 99886.08263121084
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 38.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 5.0,
+          "fot_perim_libre": 7.0,
+          "fot_semi_libre": 5.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/99/065-010-001j_0000141699.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION065/065-010-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION065/PI-065-010-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "065-010-001e",
+            "065-010-001d",
+            "065-010-023",
+            "065-010-001k"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "C2",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 377.439100000094,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 377.4,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "065-010-001J"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. P. PIÑERO",
+    "barrio": "Flores",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1406",
+    "codigo_postal_argentino": "C1406ALB",
+    "comisaria": "38",
+    "comisaria_vecinal": "7C",
+    "comuna": "Comuna 7",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "65"
+  },
+  "debug": {
+    "address": "ARGERICH 68",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.471868352271265,
+        -34.63029557003329
+      ],
+      "direccion": "",
+      "fondo": "36.29",
+      "frente": "10.39",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "010",
+      "parcela": "001J",
+      "pdamatriz": "137284",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "065",
+      "smp": "065-010-001J",
+      "smp_anterior": "065-010-001I",
+      "smp_siguiente": "065-010-001K",
+      "srid": 4326,
+      "superficie_cubierta": "523.00",
+      "superficie_total": "377.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 68,
+      "cod_calle": 1110
+    },
+    "usig_direccion_elegida": {
+      "altura": 68,
+      "cod_calle": 1110,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.471651",
+        "y": "-34.630228"
+      },
+      "direccion": "ARGERICH 68, CABA",
+      "nombre_calle": "ARGERICH",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 68,
+          "cod_calle": 1110,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.471651",
+            "y": "-34.630228"
+          },
+          "direccion": "ARGERICH 68, CABA",
+          "nombre_calle": "ARGERICH",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 68,
+          "cod_calle": 204880,
+          "cod_calle_cruce": null,
+          "cod_partido": "general_rodriguez",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.9603028142857,
+            "y": -34.6075725081633
+          },
+          "direccion": "Argerich 68, General Rodríguez",
+          "nombre_calle": "Argerich",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "General Rodríguez",
+          "nombre_partido": "General Rodríguez",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 68,
+          "cod_calle": 141077,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_isidro",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5558388244898,
+            "y": -34.4992472877551
+          },
+          "direccion": "Argerich 68, San Isidro",
+          "nombre_calle": "Argerich",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Boulogne Sur Mer",
+          "nombre_partido": "San Isidro",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99195.00598809283,
+                  99885.33603492464
+                ],
+                [
+                  99204.84798806733,
+                  99888.48703490844
+                ],
+                [
+                  99217.98698803352,
+                  99892.67803488736
+                ],
+                [
+                  99222.18398802303,
+                  99894.01703487939
+                ],
+                [
+                  99226.21598801191,
+                  99895.30303487403
+                ],
+                [
+                  99229.8719880032,
+                  99896.46903486783
+                ],
+                [
+                  99230.1709880019,
+                  99895.67703487017
+                ],
+                [
+                  99230.70298799849,
+                  99894.27203487267
+                ],
+                [
+                  99232.11898799162,
+                  99890.52503488294
+                ],
+                [
+                  99232.64998799023,
+                  99889.12003488623
+                ],
+                [
+                  99233.53598798582,
+                  99886.77803489257
+                ],
+                [
+                  99224.5619880083,
+                  99883.93603490561
+                ],
+                [
+                  99221.10898801718,
+                  99882.84303491106
+                ],
+                [
+                  99218.44798802416,
+                  99882.00003491662
+                ],
+                [
+                  99210.71398804373,
+                  99879.55103492859
+                ],
+                [
+                  99199.4209880736,
+                  99875.97503494716
+                ],
+                [
+                  99198.59598807475,
+                  99875.7140349482
+                ],
+                [
+                  99197.18298808252,
+                  99879.50203494052
+                ],
+                [
+                  99195.85698808817,
+                  99883.05503492849
+                ],
+                [
+                  99195.00598809283,
+                  99885.33603492464
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "065-010-001J",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ARGERICH 68",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.471868352271265,
+      -34.63029557003329
+    ],
+    "direccion": "",
+    "fondo": "36.29",
+    "frente": "10.39",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "010",
+    "parcela": "001J",
+    "pdamatriz": "137284",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "065",
+    "smp": "065-010-001J",
+    "smp_anterior": "065-010-001I",
+    "smp_siguiente": "065-010-001K",
+    "srid": 4326,
+    "superficie_cubierta": "523.00",
+    "superficie_total": "377.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "065-010-001J",
+  "_http_status": 200
+}

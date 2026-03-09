@@ -1,0 +1,363 @@
+{
+  "area_m2": 250.8355188369751,
+  "centroide_lonlat": {
+    "lat": -34.681868,
+    "lon": -58.481983
+  },
+  "centroide_xy": {
+    "x": 98287.82716453304,
+    "y": 94164.6579671061
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/4/62/080-040-005_0000000462.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION080/080-040-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION080/PI-080-040-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "080-040-004",
+            "080-040-032b",
+            "080-040-006",
+            "080-040-030b",
+            "080-040-031b"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 243.35910698081,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 250.8,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "080-040-005"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Villa Lugano",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1439",
+    "codigo_postal_argentino": "C1439GUB",
+    "comisaria": "48",
+    "comisaria_vecinal": "8A",
+    "comuna": "Comuna 8",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XXI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "80"
+  },
+  "debug": {
+    "address": "RIO NEGRO 6440",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.48198288259818,
+        -34.68186816839095
+      ],
+      "direccion": "",
+      "fondo": "28.75",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "040",
+      "parcela": "005",
+      "pdamatriz": "65896",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "080",
+      "smp": "080-040-005",
+      "smp_anterior": "080-040-004",
+      "smp_siguiente": "080-040-006",
+      "srid": 4326,
+      "superficie_cubierta": "255.00",
+      "superficie_total": "249.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 6440,
+      "cod_calle": 19102
+    },
+    "usig_direccion_elegida": {
+      "altura": 6440,
+      "cod_calle": 19102,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.482035",
+        "y": "-34.681721"
+      },
+      "direccion": "RIO NEGRO 6440, CABA",
+      "nombre_calle": "RIO NEGRO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 6440,
+          "cod_calle": 19102,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.482035",
+            "y": "-34.681721"
+          },
+          "direccion": "RIO NEGRO 6440, CABA",
+          "nombre_calle": "RIO NEGRO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98286.43098632639,
+                  94154.89705167714
+                ],
+                [
+                  98285.2169863335,
+                  94158.76705166954
+                ],
+                [
+                  98284.33098633842,
+                  94161.59405166097
+                ],
+                [
+                  98282.97298634572,
+                  94165.9240516492
+                ],
+                [
+                  98282.79298634588,
+                  94166.49705164878
+                ],
+                [
+                  98281.33698635333,
+                  94171.14005163591
+                ],
+                [
+                  98280.25698635925,
+                  94174.58305162811
+                ],
+                [
+                  98280.07798636041,
+                  94175.15505162737
+                ],
+                [
+                  98279.42998636307,
+                  94177.22105162177
+                ],
+                [
+                  98287.763986343,
+                  94179.70505160859
+                ],
+                [
+                  98289.75898633101,
+                  94173.35105162536
+                ],
+                [
+                  98290.48898632813,
+                  94171.02605163131
+                ],
+                [
+                  98290.72798632664,
+                  94170.26305163288
+                ],
+                [
+                  98292.08498631898,
+                  94165.94305164312
+                ],
+                [
+                  98292.42998631689,
+                  94164.84205164651
+                ],
+                [
+                  98292.84898631535,
+                  94163.51005164985
+                ],
+                [
+                  98293.37598631305,
+                  94161.82905165409
+                ],
+                [
+                  98293.46298631253,
+                  94161.55405165534
+                ],
+                [
+                  98295.12898630375,
+                  94156.24605166921
+                ],
+                [
+                  98295.82498630071,
+                  94154.03005167398
+                ],
+                [
+                  98295.73998630005,
+                  94153.95705167473
+                ],
+                [
+                  98293.12798630577,
+                  94151.72305168299
+                ],
+                [
+                  98288.6319863162,
+                  94147.87805169704
+                ],
+                [
+                  98287.5199863209,
+                  94151.42505168782
+                ],
+                [
+                  98286.43098632639,
+                  94154.89705167714
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "080-040-005",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "RIO NEGRO 6440",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.48198288259818,
+      -34.68186816839095
+    ],
+    "direccion": "",
+    "fondo": "28.75",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "040",
+    "parcela": "005",
+    "pdamatriz": "65896",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "080",
+    "smp": "080-040-005",
+    "smp_anterior": "080-040-004",
+    "smp_siguiente": "080-040-006",
+    "srid": 4326,
+    "superficie_cubierta": "255.00",
+    "superficie_total": "249.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "080-040-005",
+  "_http_status": 200
+}

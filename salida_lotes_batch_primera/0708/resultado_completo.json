@@ -1,0 +1,324 @@
+{
+  "area_m2": 291.34324741363525,
+  "centroide_lonlat": {
+    "lat": -34.643225,
+    "lon": -58.417793
+  },
+  "centroide_xy": {
+    "x": 104172.38925938221,
+    "y": 98450.80711976599
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.0,
+          "fot_perim_libre": 3.0,
+          "fot_semi_libre": 3.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/16/038-175-001_0000046616.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION038/038-175-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION038/PI-038-175-V3.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "038-175-036",
+            "038-175-002"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "E3",
+          "incidencia_uva": 80.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 289.453057078145,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 291.3,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "038-175-001"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.M. PENNA",
+    "barrio": "Nueva Pompeya",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1437",
+    "codigo_postal_argentino": "C1437IXH",
+    "comisaria": "34",
+    "comisaria_vecinal": "4B",
+    "comuna": "Comuna 4",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "38"
+  },
+  "debug": {
+    "address": "CORONEL PAGOLA 3902",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.41779286484901,
+        -34.643225201608416
+      ],
+      "direccion": "",
+      "fondo": "22.25",
+      "frente": "13.08",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "175",
+      "parcela": "001",
+      "pdamatriz": "43332",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "038",
+      "smp": "038-175-001",
+      "smp_anterior": "038-175-036",
+      "smp_siguiente": "038-175-002",
+      "srid": 4326,
+      "superficie_cubierta": "378.00",
+      "superficie_total": "291.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3902,
+      "cod_calle": 17006
+    },
+    "usig_direccion_elegida": {
+      "altura": 3902,
+      "cod_calle": 17006,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.417757",
+        "y": "-34.643104"
+      },
+      "direccion": "PAGOLA, CNEL. 3902, CABA",
+      "nombre_calle": "PAGOLA, CNEL.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3902,
+          "cod_calle": 17006,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.417757",
+            "y": "-34.643104"
+          },
+          "direccion": "PAGOLA, CNEL. 3902, CABA",
+          "nombre_calle": "PAGOLA, CNEL.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  104176.10097305074,
+                  98460.22403517252
+                ],
+                [
+                  104179.21897304057,
+                  98458.4520351743
+                ],
+                [
+                  104179.72497303897,
+                  98458.16503517615
+                ],
+                [
+                  104182.08197302546,
+                  98447.71103520229
+                ],
+                [
+                  104182.7819730198,
+                  98444.60503521026
+                ],
+                [
+                  104172.39797304735,
+                  98442.09503522544
+                ],
+                [
+                  104170.46897305237,
+                  98441.62803522666
+                ],
+                [
+                  104167.92497305872,
+                  98441.01303523255
+                ],
+                [
+                  104165.97997306487,
+                  98440.54303523488
+                ],
+                [
+                  104165.89697306533,
+                  98440.92803523489
+                ],
+                [
+                  104165.50397306752,
+                  98442.73903523016
+                ],
+                [
+                  104164.98697307057,
+                  98445.12403522106
+                ],
+                [
+                  104162.29497308748,
+                  98457.54803519044
+                ],
+                [
+                  104165.07197308028,
+                  98458.17203518609
+                ],
+                [
+                  104175.56497305258,
+                  98460.52803517226
+                ],
+                [
+                  104176.10097305074,
+                  98460.22403517252
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "038-175-001",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CORONEL PAGOLA 3902",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.41779286484901,
+      -34.643225201608416
+    ],
+    "direccion": "",
+    "fondo": "22.25",
+    "frente": "13.08",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "175",
+    "parcela": "001",
+    "pdamatriz": "43332",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "038",
+    "smp": "038-175-001",
+    "smp_anterior": "038-175-036",
+    "smp_siguiente": "038-175-002",
+    "srid": 4326,
+    "superficie_cubierta": "378.00",
+    "superficie_total": "291.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "038-175-001",
+  "_http_status": 200
+}

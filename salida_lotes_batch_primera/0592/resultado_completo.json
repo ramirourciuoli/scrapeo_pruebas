@@ -1,0 +1,309 @@
+{
+  "area_m2": 61.27316951751709,
+  "centroide_lonlat": {
+    "lat": -34.54046,
+    "lon": -58.465029
+  },
+  "centroide_xy": {
+    "x": 99841.25453804169,
+    "y": 109852.09343125875
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 4.14,
+          "fot_perim_libre": 4.14,
+          "fot_semi_libre": 4.14
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/29/029-100-007b_0000466629.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION029/029-100-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION029/PI-029-100-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "029-100-007a",
+            "029-100-008",
+            "029-100-006"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2a I",
+          "incidencia_uva": 560.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 61.2556000000951,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 61.3,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "029-100-007B"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Nuñez",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1429",
+    "codigo_postal_argentino": "C1429BJC",
+    "comisaria": "35",
+    "comisaria_vecinal": "13B",
+    "comuna": "Comuna 13",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   X",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "29"
+  },
+  "debug": {
+    "address": "11 DE SEPTIEMBRE DE 1888 4297",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.465029267824995,
+        -34.54045978574481
+      ],
+      "direccion": "",
+      "fondo": "8.62",
+      "frente": "7.31",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "100",
+      "parcela": "007B",
+      "pdamatriz": "375332",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "029",
+      "smp": "029-100-007B",
+      "smp_anterior": "029-100-007A",
+      "smp_siguiente": "029-100-008",
+      "srid": 4326,
+      "superficie_cubierta": "56.00",
+      "superficie_total": "63.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4297,
+      "cod_calle": 16025
+    },
+    "usig_direccion_elegida": {
+      "altura": 4297,
+      "cod_calle": 16025,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.465123",
+        "y": "-34.540468"
+      },
+      "direccion": "11 DE SEPTIEMBRE DE 1888 4297, CABA",
+      "nombre_calle": "11 DE SEPTIEMBRE DE 1888",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4297,
+          "cod_calle": 16025,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.465123",
+            "y": "-34.540468"
+          },
+          "direccion": "11 DE SEPTIEMBRE DE 1888 4297, CABA",
+          "nombre_calle": "11 DE SEPTIEMBRE DE 1888",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99835.65199379815,
+                  109852.87400648973
+                ],
+                [
+                  99841.14499378495,
+                  109856.10200647666
+                ],
+                [
+                  99843.12999378063,
+                  109857.26900647223
+                ],
+                [
+                  99843.70299377822,
+                  109856.3730064737
+                ],
+                [
+                  99844.37099377607,
+                  109855.33100647668
+                ],
+                [
+                  99845.19199377234,
+                  109854.04900647904
+                ],
+                [
+                  99846.91099376598,
+                  109851.36300648554
+                ],
+                [
+                  99841.06799377946,
+                  109847.93600649943
+                ],
+                [
+                  99840.67999378014,
+                  109847.7090065004
+                ],
+                [
+                  99839.64399378317,
+                  109847.10100650284
+                ],
+                [
+                  99839.29899378335,
+                  109846.89900650413
+                ],
+                [
+                  99835.65199379815,
+                  109852.87400648973
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "029-100-007B",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "11 DE SEPTIEMBRE DE 1888 4297",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.465029267824995,
+      -34.54045978574481
+    ],
+    "direccion": "",
+    "fondo": "8.62",
+    "frente": "7.31",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "100",
+    "parcela": "007B",
+    "pdamatriz": "375332",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "029",
+    "smp": "029-100-007B",
+    "smp_anterior": "029-100-007A",
+    "smp_siguiente": "029-100-008",
+    "srid": 4326,
+    "superficie_cubierta": "56.00",
+    "superficie_total": "63.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "029-100-007B",
+  "_http_status": 200
+}

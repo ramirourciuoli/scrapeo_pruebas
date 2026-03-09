@@ -1,0 +1,305 @@
+{
+  "area_m2": 101.22875118255615,
+  "centroide_lonlat": {
+    "lat": -34.631665,
+    "lon": -58.438848
+  },
+  "centroide_xy": {
+    "x": 102242.19572958974,
+    "y": 99733.97191367012
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 1,
+          "ensanche": 1,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 11.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "U",
+            "distrito_especifico": "U3 d"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 0.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/15/040-009C-001_0000049615.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION040/040-009C-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION040/PI-040-009C-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "DI-2022-690-GCABA-DGIUR",
+          "pdf": "040-009C.pdf"
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "040-009C-002",
+            "040-009C-003",
+            "040-009C-024"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "U3 d",
+          "incidencia_uva": 310.0,
+          "plusvalia_em": 0.0,
+          "plusvalia_pl": 0.0,
+          "plusvalia_sl": 0.0
+        },
+        "rivolta": 0,
+        "subzona": "EMILIO MITRE",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 101.2,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "040-009C-001"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Parque Chacabuco",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1424",
+    "codigo_postal_argentino": "C1424AVC",
+    "comisaria": "12",
+    "comisaria_vecinal": "7B",
+    "comuna": "Comuna 7",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "40"
+  },
+  "debug": {
+    "address": "DE LAS GARANTIAS 1007",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.438848357536386,
+        -34.63166457172822
+      ],
+      "direccion": "",
+      "fondo": "13.07",
+      "frente": "7.50",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "009C",
+      "parcela": "001",
+      "pdamatriz": "159364",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "040",
+      "smp": "040-009C-001",
+      "smp_anterior": "040-009C-024",
+      "smp_siguiente": "040-009C-002",
+      "srid": 4326,
+      "superficie_cubierta": "118.00",
+      "superficie_total": "98.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1007,
+      "cod_calle": 4032
+    },
+    "usig_direccion_elegida": {
+      "altura": 1007,
+      "cod_calle": 4032,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.438784",
+        "y": "-34.631640"
+      },
+      "direccion": "DE LAS GARANTIAS 1007, CABA",
+      "nombre_calle": "DE LAS GARANTIAS",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1007,
+          "cod_calle": 4032,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.438784",
+            "y": "-34.631640"
+          },
+          "direccion": "DE LAS GARANTIAS 1007, CABA",
+          "nombre_calle": "DE LAS GARANTIAS",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102235.1129794553,
+                  99737.27503305205
+                ],
+                [
+                  102236.97797945116,
+                  99738.48003304738
+                ],
+                [
+                  102239.15997944612,
+                  99739.89003304101
+                ],
+                [
+                  102244.83997942886,
+                  99738.50003304097
+                ],
+                [
+                  102247.06597941981,
+                  99735.03803304871
+                ],
+                [
+                  102249.27497941173,
+                  99731.60303305706
+                ],
+                [
+                  102241.84997942825,
+                  99726.84803307612
+                ],
+                [
+                  102239.63197943763,
+                  99730.28003306818
+                ],
+                [
+                  102237.56897944573,
+                  99733.47303306076
+                ],
+                [
+                  102236.27097945049,
+                  99735.48303305588
+                ],
+                [
+                  102235.1129794553,
+                  99737.27503305205
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "040-009C-001",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "DE LAS GARANTIAS 1007",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.438848357536386,
+      -34.63166457172822
+    ],
+    "direccion": "",
+    "fondo": "13.07",
+    "frente": "7.50",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "009C",
+    "parcela": "001",
+    "pdamatriz": "159364",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "040",
+    "smp": "040-009C-001",
+    "smp_anterior": "040-009C-024",
+    "smp_siguiente": "040-009C-002",
+    "srid": 4326,
+    "superficie_cubierta": "118.00",
+    "superficie_total": "98.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "040-009C-001",
+  "_http_status": 200
+}

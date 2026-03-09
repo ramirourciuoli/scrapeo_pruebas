@@ -1,0 +1,391 @@
+{
+  "area_m2": 416.96009635925293,
+  "centroide_lonlat": {
+    "lat": -34.573288,
+    "lon": -58.491935
+  },
+  "centroide_xy": {
+    "x": 97372.38369896139,
+    "y": 106209.97023634594
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/1/51/063-091-011_0000247151.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION063/063-091-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION063/PI-063-091-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "063-091-008",
+            "063-091-010",
+            "063-091-007",
+            "063-091-012a"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 340.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 196.492090993873,
+        "sup_max_edificable": 1445.1,
+        "superficie_parcela": 417.0,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "063-091-011"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Villa Urquiza",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1431",
+    "codigo_postal_argentino": "C1431DWG",
+    "comisaria": "39",
+    "comisaria_vecinal": "12C",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "63"
+  },
+  "debug": {
+    "address": "ANDONAEGUI 2785",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.49193469245452,
+        -34.573287585937095
+      ],
+      "direccion": "",
+      "fondo": "35.00",
+      "frente": "12.00",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "091",
+      "parcela": "011",
+      "pdamatriz": "352450",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "063",
+      "smp": "063-091-011",
+      "smp_anterior": "063-091-010",
+      "smp_siguiente": "063-091-012A",
+      "srid": 4326,
+      "superficie_cubierta": "259.00",
+      "superficie_total": "420.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2785,
+      "cod_calle": 1082
+    },
+    "usig_direccion_elegida": {
+      "altura": 2785,
+      "cod_calle": 1082,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.492147",
+        "y": "-34.573405"
+      },
+      "direccion": "ANDONAEGUI 2785, CABA",
+      "nombre_calle": "ANDONAEGUI",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2785,
+          "cod_calle": 1082,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.492147",
+            "y": "-34.573405"
+          },
+          "direccion": "ANDONAEGUI 2785, CABA",
+          "nombre_calle": "ANDONAEGUI",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2785,
+          "cod_calle": 71628,
+          "cod_calle_cruce": null,
+          "cod_partido": "hurlingham",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6617710675676,
+            "y": -34.5919284635135
+          },
+          "direccion": "José de Andonaegui 2785, Hurlingham",
+          "nombre_calle": "José de Andonaegui",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "William C. Morris",
+          "nombre_partido": "Hurlingham",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97378.23399795637,
+                  106220.97901852507
+                ],
+                [
+                  97380.5009979511,
+                  106222.45901851874
+                ],
+                [
+                  97383.73399794364,
+                  106224.57001851089
+                ],
+                [
+                  97388.85299792342,
+                  106216.83901852809
+                ],
+                [
+                  97389.95699791935,
+                  106215.1720185325
+                ],
+                [
+                  97390.2889979175,
+                  106214.67001853333
+                ],
+                [
+                  97387.43899792444,
+                  106212.7890185407
+                ],
+                [
+                  97381.84099793714,
+                  106209.09601855531
+                ],
+                [
+                  97380.37199794097,
+                  106208.12701855955
+                ],
+                [
+                  97379.45299794235,
+                  106207.52001856116
+                ],
+                [
+                  97376.68599794879,
+                  106205.69501856912
+                ],
+                [
+                  97376.38099794979,
+                  106205.49401856953
+                ],
+                [
+                  97374.90599795357,
+                  106204.520018573
+                ],
+                [
+                  97373.45599795671,
+                  106203.56401857748
+                ],
+                [
+                  97372.00399795956,
+                  106202.6060185807
+                ],
+                [
+                  97369.36399796593,
+                  106200.86401858792
+                ],
+                [
+                  97365.79199797452,
+                  106198.50701859739
+                ],
+                [
+                  97365.54099797491,
+                  106198.34101859786
+                ],
+                [
+                  97364.73599797617,
+                  106197.8100185995
+                ],
+                [
+                  97362.8999979812,
+                  106196.5990186051
+                ],
+                [
+                  97360.99199798485,
+                  106195.34001860951
+                ],
+                [
+                  97354.45299801072,
+                  106205.1600185872
+                ],
+                [
+                  97358.20699800273,
+                  106207.63401857691
+                ],
+                [
+                  97360.20299799743,
+                  106208.95001857227
+                ],
+                [
+                  97370.93799797315,
+                  106216.22001854336
+                ],
+                [
+                  97373.40499796759,
+                  106217.82601853763
+                ],
+                [
+                  97374.57699796422,
+                  106218.59101853427
+                ],
+                [
+                  97378.23399795637,
+                  106220.97901852507
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "063-091-011",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ANDONAEGUI 2785",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.49193469245452,
+      -34.573287585937095
+    ],
+    "direccion": "",
+    "fondo": "35.00",
+    "frente": "12.00",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "091",
+    "parcela": "011",
+    "pdamatriz": "352450",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "063",
+    "smp": "063-091-011",
+    "smp_anterior": "063-091-010",
+    "smp_siguiente": "063-091-012A",
+    "srid": 4326,
+    "superficie_cubierta": "259.00",
+    "superficie_total": "420.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "063-091-011",
+  "_http_status": 200
+}

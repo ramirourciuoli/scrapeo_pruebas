@@ -1,0 +1,350 @@
+{
+  "area_m2": 170.43410682678223,
+  "centroide_lonlat": {
+    "lat": -34.621105,
+    "lon": -58.454696
+  },
+  "centroide_xy": {
+    "x": 100789.11825899172,
+    "y": 100905.65324133217
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.16,
+          "fot_perim_libre": 3.16,
+          "fot_semi_libre": 3.16
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/2/58/057-051-007_0000386258.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION057/057-051-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION057/PI-057-051-V3.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "057-051-006",
+            "057-051-008",
+            "057-051-004",
+            "057-051-003"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2a II",
+          "incidencia_uva": 280.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 1,
+        "subzona": "",
+        "sup_edificable_planta": 138.851238044919,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 170.4,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "057-051-007"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. T. ÁLVAREZ",
+    "barrio": "Caballito",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1406",
+    "codigo_postal_argentino": "C1406BQC",
+    "comisaria": "13",
+    "comisaria_vecinal": "6A",
+    "comuna": "Comuna 6",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "57"
+  },
+  "debug": {
+    "address": "MORELOS 379",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.45469558371125,
+        -34.6211049707602
+      ],
+      "direccion": "",
+      "fondo": "20.14",
+      "frente": "8.69",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "051",
+      "parcela": "007",
+      "pdamatriz": "132242",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "7",
+      "propiedad_horizontal": "Si",
+      "seccion": "057",
+      "smp": "057-051-007",
+      "smp_anterior": "057-051-006",
+      "smp_siguiente": "057-051-008",
+      "srid": 4326,
+      "superficie_cubierta": "1007.00",
+      "superficie_total": "175.00",
+      "unidades_funcionales": "12",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 379,
+      "cod_calle": 13125
+    },
+    "usig_direccion_elegida": {
+      "altura": 379,
+      "cod_calle": 13125,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.454831",
+        "y": "-34.621147"
+      },
+      "direccion": "MORELOS 379, CABA",
+      "nombre_calle": "MORELOS",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 379,
+          "cod_calle": 13125,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.454831",
+            "y": "-34.621147"
+          },
+          "direccion": "MORELOS 379, CABA",
+          "nombre_calle": "MORELOS",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  100786.95688439142,
+                  100900.2104308799
+                ],
+                [
+                  100786.60098439248,
+                  100900.07603088161
+                ],
+                [
+                  100782.70878440284,
+                  100898.60573088811
+                ],
+                [
+                  100781.45998440614,
+                  100898.13403088984
+                ],
+                [
+                  100778.39698442063,
+                  100906.26503086791
+                ],
+                [
+                  100779.62598441755,
+                  100906.72723086574
+                ],
+                [
+                  100785.52088440227,
+                  100908.9448308569
+                ],
+                [
+                  100787.7669843965,
+                  100909.78903085217
+                ],
+                [
+                  100792.88798438478,
+                  100911.72503084195
+                ],
+                [
+                  100793.57118438269,
+                  100911.98323084228
+                ],
+                [
+                  100796.62398437428,
+                  100913.13703083718
+                ],
+                [
+                  100796.84398437262,
+                  100912.61303083718
+                ],
+                [
+                  100797.54798437022,
+                  100910.93203084203
+                ],
+                [
+                  100798.40098436558,
+                  100908.89803084772
+                ],
+                [
+                  100799.97998436006,
+                  100905.13003085647
+                ],
+                [
+                  100796.85628436666,
+                  100903.94993086203
+                ],
+                [
+                  100796.33498436792,
+                  100903.75303086315
+                ],
+                [
+                  100795.6349843696,
+                  100903.48903086386
+                ],
+                [
+                  100792.92098437733,
+                  100902.46403086846
+                ],
+                [
+                  100790.20898438306,
+                  100901.43893087472
+                ],
+                [
+                  100789.44998438636,
+                  100901.15203087515
+                ],
+                [
+                  100786.95688439142,
+                  100900.2104308799
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "057-051-007",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MORELOS 379",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.45469558371125,
+      -34.6211049707602
+    ],
+    "direccion": "",
+    "fondo": "20.14",
+    "frente": "8.69",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "051",
+    "parcela": "007",
+    "pdamatriz": "132242",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "7",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "057",
+    "smp": "057-051-007",
+    "smp_anterior": "057-051-006",
+    "smp_siguiente": "057-051-008",
+    "srid": 4326,
+    "superficie_cubierta": "1007.00",
+    "superficie_total": "175.00",
+    "unidades_funcionales": "12",
+    "vuc": "0.00"
+  },
+  "smp": "057-051-007",
+  "_http_status": 200
+}

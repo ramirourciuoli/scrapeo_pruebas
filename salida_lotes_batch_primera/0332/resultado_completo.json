@@ -1,0 +1,373 @@
+{
+  "area_m2": 219.44970226287842,
+  "centroide_lonlat": {
+    "lat": -34.630257,
+    "lon": -58.450425
+  },
+  "centroide_xy": {
+    "x": 101180.62539668527,
+    "y": 99890.27687008338
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 38.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 0.0,
+          "fot_perim_libre": 0.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/59/042-038-014_0000057059.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION042/042-038-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION042/PI-042-038-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "042-038-015",
+            "042-038-013"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "C3 II",
+          "incidencia_uva": 310.0,
+          "plusvalia_em": 19051.03,
+          "plusvalia_pl": 19051.03,
+          "plusvalia_sl": 19051.03
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 219.481950000151,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 219.4,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          31.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "042-038-014"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. P. PIÑERO",
+    "barrio": "Caballito",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1406",
+    "codigo_postal_argentino": "C1406CYD",
+    "comisaria": "12",
+    "comisaria_vecinal": "6B",
+    "comuna": "Comuna 6",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "42"
+  },
+  "debug": {
+    "address": "THORNE 494",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.450425236566616,
+        -34.63025738462418
+      ],
+      "direccion": "",
+      "fondo": "34.99",
+      "frente": "6.26",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "038",
+      "parcela": "014",
+      "pdamatriz": "139723",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "4",
+      "propiedad_horizontal": "Si",
+      "seccion": "042",
+      "smp": "042-038-014",
+      "smp_anterior": "042-038-013",
+      "smp_siguiente": "042-038-015",
+      "srid": 4326,
+      "superficie_cubierta": "485.00",
+      "superficie_total": "219.00",
+      "unidades_funcionales": "4",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 494,
+      "cod_calle": 21027
+    },
+    "usig_direccion_elegida": {
+      "altura": 494,
+      "cod_calle": 21027,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.450525",
+        "y": "-34.630285"
+      },
+      "direccion": "THORNE 494, CABA",
+      "nombre_calle": "THORNE",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 494,
+          "cod_calle": 21027,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.450525",
+            "y": "-34.630285"
+          },
+          "direccion": "THORNE 494, CABA",
+          "nombre_calle": "THORNE",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 494,
+          "cod_calle": 6866,
+          "cod_calle_cruce": null,
+          "cod_partido": "ituzaingo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6787991244898,
+            "y": -34.6338873
+          },
+          "direccion": "Thorne 494, Ituzaingó",
+          "nombre_calle": "Thorne",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ituzaingó",
+          "nombre_partido": "Ituzaingó",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 494,
+          "cod_calle": 48521,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "direccion": "Juan Thorne 494, La Matanza",
+          "nombre_calle": "Juan Thorne",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Madero",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  101186.37698251262,
+                  99891.22903340968
+                ],
+                [
+                  101187.34698250554,
+                  99885.77403342412
+                ],
+                [
+                  101188.15098249941,
+                  99881.25603343602
+                ],
+                [
+                  101187.88098250059,
+                  99881.21003343628
+                ],
+                [
+                  101182.69098251406,
+                  99880.32303344258
+                ],
+                [
+                  101181.96998251608,
+                  99880.20003344378
+                ],
+                [
+                  101176.60998253396,
+                  99883.17003343927
+                ],
+                [
+                  101176.43498253403,
+                  99883.62003343826
+                ],
+                [
+                  101175.45198253868,
+                  99886.15303343176
+                ],
+                [
+                  101175.17098254053,
+                  99886.87603343019
+                ],
+                [
+                  101173.12098255043,
+                  99892.15803341658
+                ],
+                [
+                  101171.52498255808,
+                  99896.26803340658
+                ],
+                [
+                  101175.91198254615,
+                  99897.79803339925
+                ],
+                [
+                  101183.69598252724,
+                  99900.51303338559
+                ],
+                [
+                  101184.66498252441,
+                  99900.85103338343
+                ],
+                [
+                  101185.16198252035,
+                  99898.05603339101
+                ],
+                [
+                  101185.36698251902,
+                  99896.90503339449
+                ],
+                [
+                  101185.77398251674,
+                  99894.61603340073
+                ],
+                [
+                  101185.92498251528,
+                  99893.76903340287
+                ],
+                [
+                  101186.19298251356,
+                  99892.26403340703
+                ],
+                [
+                  101186.37698251262,
+                  99891.22903340968
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "042-038-014",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "THORNE 494",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.450425236566616,
+      -34.63025738462418
+    ],
+    "direccion": "",
+    "fondo": "34.99",
+    "frente": "6.26",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "038",
+    "parcela": "014",
+    "pdamatriz": "139723",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "4",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "042",
+    "smp": "042-038-014",
+    "smp_anterior": "042-038-013",
+    "smp_siguiente": "042-038-015",
+    "srid": 4326,
+    "superficie_cubierta": "485.00",
+    "superficie_total": "219.00",
+    "unidades_funcionales": "4",
+    "vuc": "0.00"
+  },
+  "smp": "042-038-014",
+  "_http_status": 200
+}

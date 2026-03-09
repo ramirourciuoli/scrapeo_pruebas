@@ -1,0 +1,477 @@
+{
+  "area_m2": 223.8422451019287,
+  "centroide_lonlat": {
+    "lat": -34.602424,
+    "lon": -58.435972
+  },
+  "centroide_xy": {
+    "x": 102506.86908171863,
+    "y": 102977.69518294692
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.45,
+          "fot_perim_libre": 3.45,
+          "fot_semi_libre": 3.45
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/42/047-185-012_0000337742.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION047/047-185-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION047/PI-047-185-V3.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "047-185-006",
+            "047-185-013",
+            "047-185-011"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2a II",
+          "incidencia_uva": 250.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 212.410729682056,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 223.8,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "047-185-012"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C.G. DURAND",
+    "barrio": "Villa Crespo",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1414",
+    "codigo_postal_argentino": "C1414AIC",
+    "comisaria": "27",
+    "comisaria_vecinal": "15B",
+    "comuna": "Comuna 15",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   II",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "47"
+  },
+  "debug": {
+    "address": "LUIS MARIA DRAGO 161",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.43597161618555,
+        -34.602424389702094
+      ],
+      "direccion": "",
+      "fondo": "27.19",
+      "frente": "8.24",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "185",
+      "parcela": "012",
+      "pdamatriz": "225107",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "3",
+      "propiedad_horizontal": "Si",
+      "seccion": "047",
+      "smp": "047-185-012",
+      "smp_anterior": "047-185-011",
+      "smp_siguiente": "047-185-013",
+      "srid": 4326,
+      "superficie_cubierta": "791.00",
+      "superficie_total": "224.00",
+      "unidades_funcionales": "6",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 161,
+      "cod_calle": 4090
+    },
+    "usig_direccion_elegida": {
+      "altura": 161,
+      "cod_calle": 4090,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.436111",
+        "y": "-34.602519"
+      },
+      "direccion": "DRAGO, LUIS MARIA 161, CABA",
+      "nombre_calle": "DRAGO, LUIS MARIA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 161,
+          "cod_calle": 4090,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.436111",
+            "y": "-34.602519"
+          },
+          "direccion": "DRAGO, LUIS MARIA 161, CABA",
+          "nombre_calle": "DRAGO, LUIS MARIA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 161,
+          "cod_calle": 126462,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4308698459184,
+            "y": -34.8187737806123
+          },
+          "direccion": "Luis María Drago 161, Almirante Brown",
+          "nombre_calle": "Luis María Drago",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Malvinas Argentinas",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 161,
+          "cod_calle": 157046,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6137111897959,
+            "y": -34.690744227551
+          },
+          "direccion": "Luis Maria Drago 161, La Matanza",
+          "nombre_calle": "Luis Maria Drago",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Rafael Castillo",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 161,
+          "cod_calle": 50168,
+          "cod_calle_cruce": null,
+          "cod_partido": "malvinas_argentinas",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7607593939914,
+            "y": -34.4716366248927
+          },
+          "direccion": "Luis María Drago 161, Malvinas Argentinas",
+          "nombre_calle": "Luis María Drago",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Tortuguitas",
+          "nombre_partido": "Malvinas Argentinas",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 161,
+          "cod_calle": 58575,
+          "cod_calle_cruce": null,
+          "cod_partido": "quilmes",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.2795106375,
+            "y": -34.71511180625
+          },
+          "direccion": "Luis María Drago 161, Quilmes",
+          "nombre_calle": "Luis María Drago",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Bernal",
+          "nombre_partido": "Quilmes",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102515.07758111102,
+                  102979.11152374893
+                ],
+                [
+                  102508.91638112397,
+                  102973.97542376793
+                ],
+                [
+                  102508.65198112432,
+                  102973.75502376794
+                ],
+                [
+                  102508.54298112425,
+                  102973.66402376824
+                ],
+                [
+                  102505.92998113034,
+                  102971.48502377822
+                ],
+                [
+                  102505.60298113129,
+                  102971.21302378015
+                ],
+                [
+                  102503.42798113659,
+                  102969.40002378539
+                ],
+                [
+                  102500.32018114196,
+                  102966.809523796
+                ],
+                [
+                  102499.84098114342,
+                  102966.41002379783
+                ],
+                [
+                  102499.49598114457,
+                  102966.12202379922
+                ],
+                [
+                  102499.14998114534,
+                  102965.83402379928
+                ],
+                [
+                  102498.99198114582,
+                  102966.0280237981
+                ],
+                [
+                  102496.10398115718,
+                  102969.58002379118
+                ],
+                [
+                  102495.84678115798,
+                  102969.89632378909
+                ],
+                [
+                  102494.11598116434,
+                  102972.02502378734
+                ],
+                [
+                  102493.95798116366,
+                  102972.21902378337
+                ],
+                [
+                  102495.004981162,
+                  102973.10702378227
+                ],
+                [
+                  102496.3549811602,
+                  102974.25302377666
+                ],
+                [
+                  102496.73498115895,
+                  102974.57502377615
+                ],
+                [
+                  102497.00898115695,
+                  102974.80702377623
+                ],
+                [
+                  102500.35298115056,
+                  102977.64402376508
+                ],
+                [
+                  102500.66498114991,
+                  102977.90902376364
+                ],
+                [
+                  102503.30898114486,
+                  102980.15202375557
+                ],
+                [
+                  102503.39298114419,
+                  102980.22302375629
+                ],
+                [
+                  102503.98108114292,
+                  102980.72182375396
+                ],
+                [
+                  102505.05898114046,
+                  102981.63602375059
+                ],
+                [
+                  102509.73308113022,
+                  102985.60212373483
+                ],
+                [
+                  102510.14198112933,
+                  102985.94902373452
+                ],
+                [
+                  102510.96498112778,
+                  102986.64702373202
+                ],
+                [
+                  102511.72798112659,
+                  102987.29402372916
+                ],
+                [
+                  102514.354981121,
+                  102989.52202371956
+                ],
+                [
+                  102514.80798111914,
+                  102988.9870237227
+                ],
+                [
+                  102517.18898110984,
+                  102986.16902372762
+                ],
+                [
+                  102519.8159811003,
+                  102983.06102373489
+                ],
+                [
+                  102516.04698110803,
+                  102979.91902374817
+                ],
+                [
+                  102515.62998110878,
+                  102979.57202374801
+                ],
+                [
+                  102515.07758111102,
+                  102979.11152374893
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "047-185-012",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "LUIS MARIA DRAGO 161",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.43597161618555,
+      -34.602424389702094
+    ],
+    "direccion": "",
+    "fondo": "27.19",
+    "frente": "8.24",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "185",
+    "parcela": "012",
+    "pdamatriz": "225107",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "3",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "047",
+    "smp": "047-185-012",
+    "smp_anterior": "047-185-011",
+    "smp_siguiente": "047-185-013",
+    "srid": 4326,
+    "superficie_cubierta": "791.00",
+    "superficie_total": "224.00",
+    "unidades_funcionales": "6",
+    "vuc": "0.00"
+  },
+  "smp": "047-185-012",
+  "_http_status": 200
+}

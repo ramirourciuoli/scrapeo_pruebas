@@ -1,0 +1,364 @@
+{
+  "area_m2": 325.2701816558838,
+  "centroide_lonlat": {
+    "lat": -34.542306,
+    "lon": -58.46666
+  },
+  "centroide_xy": {
+    "x": 99691.5287189877,
+    "y": 109647.27468248848
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 31"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.0,
+          "fot_perim_libre": 1.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/8/73/029-058-001c_0000221873.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION029/029-058-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION029/PI-029-058-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "029-058-002",
+            "029-058-013"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R1b I",
+          "incidencia_uva": 520.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0.0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 325.3,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "029-058-001C"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Nuñez",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1429",
+    "codigo_postal_argentino": "C1429DND",
+    "comisaria": "35",
+    "comisaria_vecinal": "13B",
+    "comuna": "Comuna 13",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   X",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "29"
+  },
+  "debug": {
+    "address": "RUIZ HUIDOBRO 1918",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.46666034791786,
+        -34.54230604786879
+      ],
+      "direccion": "",
+      "fondo": "18.82",
+      "frente": "17.11",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "058",
+      "parcela": "001C",
+      "pdamatriz": "340044",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "029",
+      "smp": "029-058-001C",
+      "smp_anterior": "029-058-013",
+      "smp_siguiente": "029-058-002",
+      "srid": 4326,
+      "superficie_cubierta": "600.00",
+      "superficie_total": "322.00",
+      "unidades_funcionales": "3",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1918,
+      "cod_calle": 19093
+    },
+    "usig_direccion_elegida": {
+      "altura": 1918,
+      "cod_calle": 19093,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.466729",
+        "y": "-34.542209"
+      },
+      "direccion": "RUIZ HUIDOBRO 1918, CABA",
+      "nombre_calle": "RUIZ HUIDOBRO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1918,
+          "cod_calle": 19093,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.466729",
+            "y": "-34.542209"
+          },
+          "direccion": "RUIZ HUIDOBRO 1918, CABA",
+          "nombre_calle": "RUIZ HUIDOBRO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  99682.44199406917,
+                  109642.06000719598
+                ],
+                [
+                  99681.57199407263,
+                  109643.50800719339
+                ],
+                [
+                  99681.05199407517,
+                  109644.37400719081
+                ],
+                [
+                  99680.08899407863,
+                  109645.97600718698
+                ],
+                [
+                  99679.71099408061,
+                  109646.60500718615
+                ],
+                [
+                  99679.36799408164,
+                  109647.17600718435
+                ],
+                [
+                  99678.48699408513,
+                  109648.64200718093
+                ],
+                [
+                  99681.55799407844,
+                  109650.52200717322
+                ],
+                [
+                  99685.68099406845,
+                  109653.04600716327
+                ],
+                [
+                  99688.74999406142,
+                  109654.9250071554
+                ],
+                [
+                  99693.11999405126,
+                  109657.60000714447
+                ],
+                [
+                  99699.01999403306,
+                  109656.12000714461
+                ],
+                [
+                  99699.93599402954,
+                  109654.62100714832
+                ],
+                [
+                  99700.66599402705,
+                  109653.42500715068
+                ],
+                [
+                  99702.43799401978,
+                  109650.52400715786
+                ],
+                [
+                  99704.87599401001,
+                  109646.53300716678
+                ],
+                [
+                  99702.33199401619,
+                  109644.97600717307
+                ],
+                [
+                  99696.2309940298,
+                  109641.24200718795
+                ],
+                [
+                  99694.70999403362,
+                  109640.3110071918
+                ],
+                [
+                  99693.39199403676,
+                  109639.5040071951
+                ],
+                [
+                  99692.54399403851,
+                  109638.9850071978
+                ],
+                [
+                  99686.50899405252,
+                  109635.29100721254
+                ],
+                [
+                  99685.36299405745,
+                  109637.19900720785
+                ],
+                [
+                  99684.30699406186,
+                  109638.95600720399
+                ],
+                [
+                  99684.08399406253,
+                  109639.32700720246
+                ],
+                [
+                  99682.44199406917,
+                  109642.06000719598
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "029-058-001C",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "RUIZ HUIDOBRO 1918",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.46666034791786,
+      -34.54230604786879
+    ],
+    "direccion": "",
+    "fondo": "18.82",
+    "frente": "17.11",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "058",
+    "parcela": "001C",
+    "pdamatriz": "340044",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "029",
+    "smp": "029-058-001C",
+    "smp_anterior": "029-058-013",
+    "smp_siguiente": "029-058-002",
+    "srid": 4326,
+    "superficie_cubierta": "600.00",
+    "superficie_total": "322.00",
+    "unidades_funcionales": "3",
+    "vuc": "0.00"
+  },
+  "smp": "029-058-001C",
+  "_http_status": 200
+}

@@ -1,0 +1,78 @@
+{
+  "debug": {
+    "address": "AV. ESCALADA 3075",
+    "catastro_parcela_por_codcalle_altura": {},
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "ESCALADA AV.",
+      "puerta": 3075
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3075,
+      "cod_calle": 5067
+    },
+    "usig_direccion_elegida": {
+      "altura": 3075,
+      "cod_calle": 5067,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.468306",
+        "y": "-34.666151"
+      },
+      "direccion": "ESCALADA AV. 3075, CABA",
+      "nombre_calle": "ESCALADA AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.666151,
+      "lng": -58.468306
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3075,
+          "cod_calle": 5067,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.468306",
+            "y": "-34.666151"
+          },
+          "direccion": "ESCALADA AV. 3075, CABA",
+          "nombre_calle": "ESCALADA AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3075,
+          "cod_calle": 21835,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4116900438775,
+            "y": -34.67277245
+          },
+          "direccion": "Avenida Remedios de Escalada de San Martín 3075, Lanús",
+          "nombre_calle": "Avenida Remedios de Escalada de San Martín",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Valentín Alsina",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura.",
+  "ok": false,
+  "_http_status": 404
+}

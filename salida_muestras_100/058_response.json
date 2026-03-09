@@ -1,0 +1,389 @@
+{
+  "area_m2": 51.980427742004395,
+  "centroide_lonlat": {
+    "lat": -34.566149,
+    "lon": -58.458513
+  },
+  "centroide_xy": {
+    "x": 100439.2942503447,
+    "y": 107002.2139402771
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 2.56,
+          "fot_perim_libre": 2.56,
+          "fot_semi_libre": 2.56
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/1/55/039-074-001k_0000224155.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION039/039-074-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION039/PI-039-074-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "039-074-001e",
+            "039-074-001h",
+            "039-074-001j"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2a II",
+          "incidencia_uva": 400.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 51.9941500000103,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 52.0,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "039-074-001K"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Belgrano",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1428",
+    "codigo_postal_argentino": "C1428CSA",
+    "comisaria": "33",
+    "comisaria_vecinal": "13C",
+    "comuna": "Comuna 13",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   X",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "39"
+  },
+  "debug": {
+    "address": "VIDAL 1895",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.45851314726628,
+        -34.566149342017454
+      ],
+      "direccion": "VIDAL 1895",
+      "fondo": "10.00",
+      "frente": "5.00",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "074",
+      "parcela": "001K",
+      "pdamatriz": "367747",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "039",
+      "smp": "039-074-001K",
+      "smp_anterior": "039-074-001J",
+      "smp_siguiente": "039-074-001L",
+      "srid": 4326,
+      "superficie_cubierta": "123.00",
+      "superficie_total": "50.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1895,
+      "cod_calle": 23049
+    },
+    "usig_direccion_elegida": {
+      "altura": 1895,
+      "cod_calle": 23049,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.458577",
+        "y": "-34.566188"
+      },
+      "direccion": "VIDAL 1895, CABA",
+      "nombre_calle": "VIDAL",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1895,
+          "cod_calle": 23049,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.458577",
+            "y": "-34.566188"
+          },
+          "direccion": "VIDAL 1895, CABA",
+          "nombre_calle": "VIDAL",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1895,
+          "cod_calle": 45293,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4126115204082,
+            "y": -34.8272036632653
+          },
+          "direccion": "Francisco Vidal 1895, Almirante Brown",
+          "nombre_calle": "Francisco Vidal",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Burzaco",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1895,
+          "cod_calle": 186622,
+          "cod_calle_cruce": null,
+          "cod_partido": "ituzaingo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6734985283983,
+            "y": -34.6164475081138
+          },
+          "direccion": "De La Vidalita 1895, Ituzaingó",
+          "nombre_calle": "De La Vidalita",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Udaondo",
+          "nombre_partido": "Ituzaingó",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1895,
+          "cod_calle": 211030,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5964834346939,
+            "y": -34.7241953979592
+          },
+          "direccion": "Celestino Vidal 1895, La Matanza",
+          "nombre_calle": "Celestino Vidal",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Gregorio de Laferrere",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  100439.10298996276,
+                  107005.22001402132
+                ],
+                [
+                  100441.91198995577,
+                  107007.15701401368
+                ],
+                [
+                  100442.14498995492,
+                  107006.8240140148
+                ],
+                [
+                  100443.25198995139,
+                  107005.2440140183
+                ],
+                [
+                  100444.96698994456,
+                  107002.79501402384
+                ],
+                [
+                  100441.56628995234,
+                  107000.60361403268
+                ],
+                [
+                  100438.37288995954,
+                  106998.54821404084
+                ],
+                [
+                  100438.0519899606,
+                  106998.34201404182
+                ],
+                [
+                  100436.51598996384,
+                  106997.35301404569
+                ],
+                [
+                  100435.79898996642,
+                  106998.36301404322
+                ],
+                [
+                  100433.9059899745,
+                  107001.03101403767
+                ],
+                [
+                  100433.61698997482,
+                  107001.43801403636
+                ],
+                [
+                  100435.12298997145,
+                  107002.476014032
+                ],
+                [
+                  100436.0179899699,
+                  107003.09301403016
+                ],
+                [
+                  100436.81298996796,
+                  107003.6410140275
+                ],
+                [
+                  100438.96698996317,
+                  107005.12601402207
+                ],
+                [
+                  100439.10298996276,
+                  107005.22001402132
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "039-074-001K",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "VIDAL 1895",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 1,
+    "centroide": [
+      -58.45851314726628,
+      -34.566149342017454
+    ],
+    "direccion": "VIDAL 1895",
+    "fondo": "10.00",
+    "frente": "5.00",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "074",
+    "parcela": "001K",
+    "pdamatriz": "367747",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [
+      {
+        "altura": 1895,
+        "calle": "VIDAL",
+        "codigo_calle": 23049,
+        "fecha_actualizacion": "26/01/2026",
+        "fuente": "DGROC ENERO 2026",
+        "puerta_oficial": true,
+        "puerta_principal": true
+      }
+    ],
+    "seccion": "039",
+    "smp": "039-074-001K",
+    "smp_anterior": "039-074-001J",
+    "smp_siguiente": "039-074-001L",
+    "srid": 4326,
+    "superficie_cubierta": "123.00",
+    "superficie_total": "50.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "039-074-001K"
+}

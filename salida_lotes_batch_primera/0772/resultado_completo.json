@@ -1,0 +1,374 @@
+{
+  "area_m2": 218.78650093078613,
+  "centroide_lonlat": {
+    "lat": -34.574863,
+    "lon": -58.480452
+  },
+  "centroide_xy": {
+    "x": 98426.10575510513,
+    "y": 106035.43265850436
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/08/051-063-004_0000149508.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION051/051-063-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION051/PI-051-063-V3.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "051-063-003",
+            "051-063-049",
+            "051-063-005"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 350.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 218.775100000208,
+        "sup_max_edificable": 1078.3,
+        "superficie_parcela": 218.8,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "051-063-004"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. E. TORNÚ",
+    "barrio": "Villa Urquiza",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1431",
+    "codigo_postal_argentino": "C1431CIH",
+    "comisaria": "39",
+    "comisaria_vecinal": "12C",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "51"
+  },
+  "debug": {
+    "address": "MENDOZA 4824",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.48045197630395,
+        -34.57486306201593
+      ],
+      "direccion": "",
+      "fondo": "25.06",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "063",
+      "parcela": "004",
+      "pdamatriz": "344067",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "051",
+      "smp": "051-063-004",
+      "smp_anterior": "051-063-003",
+      "smp_siguiente": "051-063-005",
+      "srid": 4326,
+      "superficie_cubierta": "310.00",
+      "superficie_total": "217.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4824,
+      "cod_calle": 13071
+    },
+    "usig_direccion_elegida": {
+      "altura": 4824,
+      "cod_calle": 13071,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.480585",
+        "y": "-34.574762"
+      },
+      "direccion": "MENDOZA 4824, CABA",
+      "nombre_calle": "MENDOZA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4824,
+          "cod_calle": 13071,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.480585",
+            "y": "-34.574762"
+          },
+          "direccion": "MENDOZA 4824, CABA",
+          "nombre_calle": "MENDOZA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 4824,
+          "cod_calle": 290450,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_miguel",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7671773693878,
+            "y": -34.5523429428572
+          },
+          "direccion": "Pedro de Mendoza 4824, San Miguel",
+          "nombre_calle": "Pedro de Mendoza",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Santa María",
+          "nombre_partido": "San Miguel",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  98413.92899491567,
+                  106040.89601824994
+                ],
+                [
+                  98417.32099490985,
+                  106044.53901823735
+                ],
+                [
+                  98419.82299490424,
+                  106047.22701822798
+                ],
+                [
+                  98428.94699487204,
+                  106038.62201824572
+                ],
+                [
+                  98430.25999486749,
+                  106037.38301824819
+                ],
+                [
+                  98430.64899486654,
+                  106037.0160182484
+                ],
+                [
+                  98433.36099485643,
+                  106034.45901825349
+                ],
+                [
+                  98434.70999485203,
+                  106033.18701825614
+                ],
+                [
+                  98436.68799484521,
+                  106031.32101826044
+                ],
+                [
+                  98437.91099484114,
+                  106030.1680182619
+                ],
+                [
+                  98439.02299483697,
+                  106029.11901826429
+                ],
+                [
+                  98437.60299484034,
+                  106028.2290182682
+                ],
+                [
+                  98436.5639948429,
+                  106027.57801827032
+                ],
+                [
+                  98434.18299484841,
+                  106026.08501827647
+                ],
+                [
+                  98431.41399485455,
+                  106024.35001828312
+                ],
+                [
+                  98429.17399486221,
+                  106026.47001827898
+                ],
+                [
+                  98428.15999486628,
+                  106027.42901827686
+                ],
+                [
+                  98427.25799486967,
+                  106028.28201827523
+                ],
+                [
+                  98424.45299487891,
+                  106030.93701827014
+                ],
+                [
+                  98421.19999489078,
+                  106034.01501826374
+                ],
+                [
+                  98417.67099490308,
+                  106037.3550182578
+                ],
+                [
+                  98417.078994905,
+                  106037.91501825629
+                ],
+                [
+                  98415.49499491077,
+                  106039.41401825313
+                ],
+                [
+                  98413.92899491567,
+                  106040.89601824994
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "051-063-004",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MENDOZA 4824",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.48045197630395,
+      -34.57486306201593
+    ],
+    "direccion": "",
+    "fondo": "25.06",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "063",
+    "parcela": "004",
+    "pdamatriz": "344067",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "051",
+    "smp": "051-063-004",
+    "smp_anterior": "051-063-003",
+    "smp_siguiente": "051-063-005",
+    "srid": 4326,
+    "superficie_cubierta": "310.00",
+    "superficie_total": "217.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "051-063-004",
+  "_http_status": 200
+}

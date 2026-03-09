@@ -1,0 +1,359 @@
+{
+  "area_m2": 298.982008934021,
+  "centroide_lonlat": {
+    "lat": -34.648393,
+    "lon": -58.371332
+  },
+  "centroide_xy": {
+    "x": 108431.65757529097,
+    "y": 97874.61147059585
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 1,
+          "ensanche": 1,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "E-CCA",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.0,
+          "fot_perim_libre": 3.0,
+          "fot_semi_libre": 3.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/8/00/010-016-011_0000298800.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION010/010-016-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION010/PI-010-016-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "DI-2022-2662-GCABA-DGIUR",
+          "pdf": "010-016.pdf"
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "010-016-012",
+            "010-016-010"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "E3",
+          "incidencia_uva": 60.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 298.994250000196,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 299.0,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "010-016-011"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. C. ARGERICH",
+    "barrio": "Barracas",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1269",
+    "codigo_postal_argentino": "C1269ABL",
+    "comisaria": "30",
+    "comisaria_vecinal": "4D",
+    "comuna": "Comuna 4",
+    "distrito_economico": "DISTRITO DE DISEÑO",
+    "distrito_escolar": "Distrito Escolar   IV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "10"
+  },
+  "debug": {
+    "address": "ISABEL LA CATOLICA 1732",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.371332461142835,
+        -34.64839292769619
+      ],
+      "direccion": "",
+      "fondo": "74.75",
+      "frente": "4.00",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "016",
+      "parcela": "011",
+      "pdamatriz": "123835",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "010",
+      "smp": "010-016-011",
+      "smp_anterior": "010-016-010",
+      "smp_siguiente": "010-016-012",
+      "srid": 4326,
+      "superficie_cubierta": "299.00",
+      "superficie_total": "299.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1732,
+      "cod_calle": 9023
+    },
+    "usig_direccion_elegida": {
+      "altura": 1732,
+      "cod_calle": 9023,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.371472",
+        "y": "-34.648320"
+      },
+      "direccion": "ISABEL LA CATOLICA 1732, CABA",
+      "nombre_calle": "ISABEL LA CATOLICA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1732,
+          "cod_calle": 9023,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.371472",
+            "y": "-34.648320"
+          },
+          "direccion": "ISABEL LA CATOLICA 1732, CABA",
+          "nombre_calle": "ISABEL LA CATOLICA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1732,
+          "cod_calle": 183892,
+          "cod_calle_cruce": null,
+          "cod_partido": "hurlingham",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6337412636364,
+            "y": -34.5951663313131
+          },
+          "direccion": "Isabel La Católica 1732, Hurlingham",
+          "nombre_calle": "Isabel La Católica",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Hurlingham",
+          "nombre_partido": "Hurlingham",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1732,
+          "cod_calle": 39179,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "direccion": "Isabel La Católica 1732, La Matanza",
+          "nombre_calle": "Isabel La Católica",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Aldo Bonzi",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1732,
+          "cod_calle": 163552,
+          "cod_calle_cruce": null,
+          "cod_partido": "moreno",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7358313333333,
+            "y": -34.6210204414142
+          },
+          "direccion": "Isabel La Católica 1732, Moreno",
+          "nombre_calle": "Isabel La Católica",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Paso del Rey",
+          "nombre_partido": "Moreno",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1732,
+          "cod_calle": 71800,
+          "cod_calle_cruce": null,
+          "cod_partido": "san_miguel",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7488479734694,
+            "y": -34.5733597918367
+          },
+          "direccion": "Isabel La Católica 1732, San Miguel",
+          "nombre_calle": "Isabel La Católica",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Santa María",
+          "nombre_partido": "San Miguel",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  108441.2140719717,
+                  97867.24710393712
+                ],
+                [
+                  108428.94008518755,
+                  97864.39010932547
+                ],
+                [
+                  108423.93007543853,
+                  97867.77011420258
+                ],
+                [
+                  108421.8310764313,
+                  97881.51913760309
+                ],
+                [
+                  108436.04006076884,
+                  97884.67813416553
+                ],
+                [
+                  108438.27907443483,
+                  97885.17612000232
+                ],
+                [
+                  108440.118063679,
+                  97873.94015811835
+                ],
+                [
+                  108440.48506807085,
+                  97871.70212101506
+                ],
+                [
+                  108441.2140719717,
+                  97867.24710393712
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "010-016-011",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ISABEL LA CATOLICA 1732",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.371332461142835,
+      -34.64839292769619
+    ],
+    "direccion": "",
+    "fondo": "74.75",
+    "frente": "4.00",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "016",
+    "parcela": "011",
+    "pdamatriz": "123835",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "010",
+    "smp": "010-016-011",
+    "smp_anterior": "010-016-010",
+    "smp_siguiente": "010-016-012",
+    "srid": 4326,
+    "superficie_cubierta": "299.00",
+    "superficie_total": "299.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "010-016-011",
+  "_http_status": 200
+}

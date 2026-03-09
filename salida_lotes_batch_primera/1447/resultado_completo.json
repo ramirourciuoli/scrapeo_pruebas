@@ -1,0 +1,364 @@
+{
+  "area_m2": 119.81954574584961,
+  "centroide_lonlat": {
+    "lat": -34.648011,
+    "lon": -58.431436
+  },
+  "centroide_xy": {
+    "x": 102921.3094132152,
+    "y": 97920.38625649243
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 1
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/9/23/046-156B-001_0000067923.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION046/046-156B-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION046/PI-046-156B-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "DI-2022-2699-GCABA-DGIUR",
+          "pdf": "046-156B.pdf"
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "046-156B-002",
+            "046-156B-028"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "AE 26",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 119.804799999958,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 119.8,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "046-156B-001"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.M. PENNA",
+    "barrio": "Nueva Pompeya",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1437",
+    "codigo_postal_argentino": "C1437HBQ",
+    "comisaria": "34",
+    "comisaria_vecinal": "4B",
+    "comuna": "Comuna 4",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "46"
+  },
+  "debug": {
+    "address": "CORONEL MARTINIANO CHILAVERT 1841",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.431436216997646,
+        -34.64801081719108
+      ],
+      "direccion": "",
+      "fondo": "27.72",
+      "frente": "4.22",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "156B",
+      "parcela": "001",
+      "pdamatriz": "46532",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "046",
+      "smp": "046-156B-001",
+      "smp_anterior": "046-156B-028",
+      "smp_siguiente": "046-156B-002",
+      "srid": 4326,
+      "superficie_cubierta": "125.00",
+      "superficie_total": "117.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1841,
+      "cod_calle": 3229
+    },
+    "usig_direccion_elegida": {
+      "altura": 1841,
+      "cod_calle": 3229,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.431343",
+        "y": "-34.648088"
+      },
+      "direccion": "CHILAVERT, MARTINIANO, CORONEL 1841, CABA",
+      "nombre_calle": "CHILAVERT, MARTINIANO, CORONEL",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1841,
+          "cod_calle": 3229,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.431343",
+            "y": "-34.648088"
+          },
+          "direccion": "CHILAVERT, MARTINIANO, CORONEL 1841, CABA",
+          "nombre_calle": "CHILAVERT, MARTINIANO, CORONEL",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  102919.55797617404,
+                  97928.46003760837
+                ],
+                [
+                  102922.69697616361,
+                  97925.41803761502
+                ],
+                [
+                  102922.76997616279,
+                  97925.34703761563
+                ],
+                [
+                  102924.9909761555,
+                  97923.19403761948
+                ],
+                [
+                  102926.4779761501,
+                  97921.75303762316
+                ],
+                [
+                  102926.62197614936,
+                  97921.61403762325
+                ],
+                [
+                  102927.15097614753,
+                  97921.10103762467
+                ],
+                [
+                  102927.16097614272,
+                  97915.0610376407
+                ],
+                [
+                  102925.61397614615,
+                  97913.47003764595
+                ],
+                [
+                  102925.4749761465,
+                  97913.32703764556
+                ],
+                [
+                  102924.21397614895,
+                  97912.02903765184
+                ],
+                [
+                  102921.09897615985,
+                  97914.92903764569
+                ],
+                [
+                  102919.21797616695,
+                  97916.68203764077
+                ],
+                [
+                  102919.07097616715,
+                  97916.81803764257
+                ],
+                [
+                  102918.26197617032,
+                  97917.5710376408
+                ],
+                [
+                  102917.46297617265,
+                  97918.31403763924
+                ],
+                [
+                  102916.94397617465,
+                  97918.7970376382
+                ],
+                [
+                  102916.58397617497,
+                  97919.13303763664
+                ],
+                [
+                  102916.50997617524,
+                  97919.20103763795
+                ],
+                [
+                  102915.06197618112,
+                  97920.5490376344
+                ],
+                [
+                  102913.35797618721,
+                  97922.13603763093
+                ],
+                [
+                  102916.28397618128,
+                  97925.12003761978
+                ],
+                [
+                  102916.41797618027,
+                  97925.2560376206
+                ],
+                [
+                  102916.5039761802,
+                  97925.3440376193
+                ],
+                [
+                  102916.62697618034,
+                  97925.47103762065
+                ],
+                [
+                  102919.55797617404,
+                  97928.46003760837
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "046-156B-001",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CORONEL MARTINIANO CHILAVERT 1841",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.431436216997646,
+      -34.64801081719108
+    ],
+    "direccion": "",
+    "fondo": "27.72",
+    "frente": "4.22",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "156B",
+    "parcela": "001",
+    "pdamatriz": "46532",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "046",
+    "smp": "046-156B-001",
+    "smp_anterior": "046-156B-028",
+    "smp_siguiente": "046-156B-002",
+    "srid": 4326,
+    "superficie_cubierta": "125.00",
+    "superficie_total": "117.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "046-156B-001",
+  "_http_status": 200
+}

@@ -1,0 +1,368 @@
+{
+  "area_m2": 269.32148361206055,
+  "centroide_lonlat": {
+    "lat": -34.632158,
+    "lon": -58.491077
+  },
+  "centroide_xy": {
+    "x": 97452.86009159274,
+    "y": 99679.18007383775
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": true
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 1,
+          "ensanche": 1,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/8/09/077-052-016_0000468809.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION077/077-052-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION077/PI-077-052-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "077-052-022",
+            "077-052-021",
+            "077-052-017",
+            "077-052-020",
+            "077-052-015"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 50.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 269.241700000108,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 269.3,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "077-052-016"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Velez Sarsfield",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1407",
+    "codigo_postal_argentino": "C1407AVG",
+    "comisaria": "43",
+    "comisaria_vecinal": "10A",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "77"
+  },
+  "debug": {
+    "address": "CARRASCO 421",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.49107728559483,
+        -34.632157763476364
+      ],
+      "direccion": "",
+      "fondo": "34.66",
+      "frente": "7.79",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "052",
+      "parcela": "016",
+      "pdamatriz": "2935",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "077",
+      "smp": "077-052-016",
+      "smp_anterior": "077-052-015",
+      "smp_siguiente": "077-052-017",
+      "srid": 4326,
+      "superficie_cubierta": "323.00",
+      "superficie_total": "270.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 421,
+      "cod_calle": 3077
+    },
+    "usig_direccion_elegida": {
+      "altura": 421,
+      "cod_calle": 3077,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.491240",
+        "y": "-34.632297"
+      },
+      "direccion": "CARRASCO AV. 421, CABA",
+      "nombre_calle": "CARRASCO AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 421,
+          "cod_calle": 3077,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.491240",
+            "y": "-34.632297"
+          },
+          "direccion": "CARRASCO AV. 421, CABA",
+          "nombre_calle": "CARRASCO AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 421,
+          "cod_calle": 41562,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "direccion": "Carrasco 421, La Matanza",
+          "nombre_calle": "Carrasco",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Luzuriaga",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 421,
+          "cod_calle": 207633,
+          "cod_calle_cruce": null,
+          "cod_partido": "merlo",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.7163543091837,
+            "y": -34.7175126510204
+          },
+          "direccion": "Carrasco 421, Merlo",
+          "nombre_calle": "Carrasco",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Pontevedra",
+          "nombre_partido": "Merlo",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97438.01899285703,
+                  99669.41403685298
+                ],
+                [
+                  97448.72699283532,
+                  99680.51203681368
+                ],
+                [
+                  97452.6789928274,
+                  99684.6070367987
+                ],
+                [
+                  97458.70599281504,
+                  99690.85403677699
+                ],
+                [
+                  97461.98699280788,
+                  99694.25503676437
+                ],
+                [
+                  97464.93499279759,
+                  99691.46003677032
+                ],
+                [
+                  97466.21699279339,
+                  99690.24403677418
+                ],
+                [
+                  97467.69799278857,
+                  99688.84003677487
+                ],
+                [
+                  97465.4009927928,
+                  99686.48003678466
+                ],
+                [
+                  97462.22699279981,
+                  99683.21803679562
+                ],
+                [
+                  97460.04799280426,
+                  99680.97903680397
+                ],
+                [
+                  97457.01299281023,
+                  99677.86003681601
+                ],
+                [
+                  97456.07799281162,
+                  99676.90003681881
+                ],
+                [
+                  97454.99399281463,
+                  99675.78503682124
+                ],
+                [
+                  97451.76599282016,
+                  99672.46803683336
+                ],
+                [
+                  97449.0229928268,
+                  99669.65003684489
+                ],
+                [
+                  97448.32599282845,
+                  99668.93403684619
+                ],
+                [
+                  97443.5819928383,
+                  99664.05903686411
+                ],
+                [
+                  97438.01899285703,
+                  99669.41403685298
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "077-052-016",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "CARRASCO 421",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.49107728559483,
+      -34.632157763476364
+    ],
+    "direccion": "",
+    "fondo": "34.66",
+    "frente": "7.79",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "052",
+    "parcela": "016",
+    "pdamatriz": "2935",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "077",
+    "smp": "077-052-016",
+    "smp_anterior": "077-052-015",
+    "smp_siguiente": "077-052-017",
+    "srid": 4326,
+    "superficie_cubierta": "323.00",
+    "superficie_total": "270.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "077-052-016",
+  "_http_status": 200
+}

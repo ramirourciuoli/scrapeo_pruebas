@@ -1,0 +1,380 @@
+{
+  "area_m2": 542.677339553833,
+  "centroide_lonlat": {
+    "lat": -34.565909,
+    "lon": -58.5045
+  },
+  "centroide_xy": {
+    "x": 96219.05469261853,
+    "y": 107028.15436827946
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 0.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "U",
+            "distrito_especifico": "U 36"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.0,
+          "fot_perim_libre": 1.0,
+          "fot_semi_libre": 0.0
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/76/055-004-001_0000247676.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION055/055-004-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION055/PI-055-004-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "DI-2022-1452-GCABA-DGIUR",
+          "pdf": "055-004.pdf"
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "055-004-003",
+            "055-004-002"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "U36",
+          "incidencia_uva": 150.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0.0
+        },
+        "rivolta": 0,
+        "subzona": "Zona A",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 542.7,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "055-004-001"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Saavedra",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1431",
+    "codigo_postal_argentino": "C1431BCJ",
+    "comisaria": "49",
+    "comisaria_vecinal": "12A",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "55"
+  },
+  "debug": {
+    "address": "MACEDONIO FERNANDEZ 6026",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.50449956179724,
+        -34.56590865960261
+      ],
+      "direccion": "",
+      "fondo": "17.13",
+      "frente": "31.64",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "004",
+      "parcela": "001",
+      "pdamatriz": "374405",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "055",
+      "smp": "055-004-001",
+      "smp_anterior": "055-004-003",
+      "smp_siguiente": "055-004-002",
+      "srid": 4326,
+      "superficie_cubierta": "218.00",
+      "superficie_total": "542.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 6026,
+      "cod_calle": 6017
+    },
+    "usig_direccion_elegida": {
+      "altura": 6026,
+      "cod_calle": 6017,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.504598",
+        "y": "-34.565837"
+      },
+      "direccion": "FERNANDEZ, MACEDONIO 6026, CABA",
+      "nombre_calle": "FERNANDEZ, MACEDONIO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 6026,
+          "cod_calle": 6017,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.504598",
+            "y": "-34.565837"
+          },
+          "direccion": "FERNANDEZ, MACEDONIO 6026, CABA",
+          "nombre_calle": "FERNANDEZ, MACEDONIO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96202.49800186149,
+                  107029.30001714273
+                ],
+                [
+                  96212.6790018372,
+                  107035.1590171188
+                ],
+                [
+                  96228.69500179954,
+                  107043.77701708238
+                ],
+                [
+                  96229.12400179807,
+                  107044.0440170813
+                ],
+                [
+                  96229.55700179722,
+                  107044.23701708045
+                ],
+                [
+                  96230.01000179577,
+                  107044.37201708046
+                ],
+                [
+                  96230.47800179485,
+                  107044.4470170791
+                ],
+                [
+                  96230.9510017938,
+                  107044.46001707896
+                ],
+                [
+                  96231.4220017923,
+                  107044.41201707834
+                ],
+                [
+                  96231.88200179092,
+                  107044.30201707894
+                ],
+                [
+                  96232.3250017895,
+                  107044.13301707926
+                ],
+                [
+                  96232.74100178838,
+                  107043.90801707903
+                ],
+                [
+                  96233.12400178653,
+                  107043.63001707959
+                ],
+                [
+                  96233.46800178583,
+                  107043.3050170801
+                ],
+                [
+                  96233.76700178436,
+                  107042.93801708127
+                ],
+                [
+                  96234.01500178303,
+                  107042.5350170823
+                ],
+                [
+                  96234.20800178217,
+                  107042.10201708312
+                ],
+                [
+                  96234.34300178217,
+                  107041.64901708454
+                ],
+                [
+                  96234.41800178082,
+                  107041.18101708547
+                ],
+                [
+                  96234.43100178071,
+                  107040.70801708658
+                ],
+                [
+                  96234.38300178101,
+                  107040.23701708799
+                ],
+                [
+                  96234.27300178062,
+                  107039.7770170894
+                ],
+                [
+                  96234.10400178102,
+                  107039.33401709079
+                ],
+                [
+                  96233.87900178076,
+                  107038.91801709196
+                ],
+                [
+                  96225.19200179195,
+                  107021.2730171484
+                ],
+                [
+                  96224.0690017937,
+                  107018.99101715596
+                ],
+                [
+                  96219.90400179899,
+                  107010.53101718289
+                ],
+                [
+                  96211.60400182531,
+                  107014.34401717759
+                ],
+                [
+                  96203.6940018571,
+                  107027.33601714767
+                ],
+                [
+                  96202.49800186149,
+                  107029.30001714273
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "055-004-001",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MACEDONIO FERNANDEZ 6026",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.50449956179724,
+      -34.56590865960261
+    ],
+    "direccion": "",
+    "fondo": "17.13",
+    "frente": "31.64",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "004",
+    "parcela": "001",
+    "pdamatriz": "374405",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "055",
+    "smp": "055-004-001",
+    "smp_anterior": "055-004-003",
+    "smp_siguiente": "055-004-002",
+    "srid": 4326,
+    "superficie_cubierta": "218.00",
+    "superficie_total": "542.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "055-004-001",
+  "_http_status": 200
+}

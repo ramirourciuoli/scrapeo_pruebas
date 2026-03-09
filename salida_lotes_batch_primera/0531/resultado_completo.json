@@ -1,0 +1,343 @@
+{
+  "area_m2": 178.7209825515747,
+  "centroide_lonlat": {
+    "lat": -34.626758,
+    "lon": -58.497116
+  },
+  "centroide_xy": {
+    "x": 96898.89131075228,
+    "y": 100278.02987334933
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 24.2,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/23/085-067-032_0000188023.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION085/085-067-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION085/PI-085-067-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "085-067-031",
+            "085-067-003",
+            "085-067-033",
+            "085-067-030"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 90.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 178.47306597284,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 178.7,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          17.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "085-067-032"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. VELEZ SARSFIELD",
+    "barrio": "Velez Sarsfield",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1407",
+    "codigo_postal_argentino": "C1407CUF",
+    "comisaria": "43",
+    "comisaria_vecinal": "10A",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "85"
+  },
+  "debug": {
+    "address": "ATAHUALPA 1120",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.497116282132275,
+        -34.62675809865302
+      ],
+      "direccion": "",
+      "fondo": "20.34",
+      "frente": "8.80",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "067",
+      "parcela": "032",
+      "pdamatriz": "275566",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "085",
+      "smp": "085-067-032",
+      "smp_anterior": "085-067-031",
+      "smp_siguiente": "085-067-033",
+      "srid": 4326,
+      "superficie_cubierta": "153.00",
+      "superficie_total": "179.00",
+      "unidades_funcionales": "2",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1120,
+      "cod_calle": 1133
+    },
+    "usig_direccion_elegida": {
+      "altura": 1120,
+      "cod_calle": 1133,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.496964",
+        "y": "-34.626707"
+      },
+      "direccion": "ATAHUALPA 1120, CABA",
+      "nombre_calle": "ATAHUALPA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1120,
+          "cod_calle": 1133,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.496964",
+            "y": "-34.626707"
+          },
+          "direccion": "ATAHUALPA 1120, CABA",
+          "nombre_calle": "ATAHUALPA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1120,
+          "cod_calle": 26690,
+          "cod_calle_cruce": null,
+          "cod_partido": "moron",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.6020670795919,
+            "y": -34.6267789408163
+          },
+          "direccion": "Atahualpa 1120, Morón",
+          "nombre_calle": "Atahualpa",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "El Palomar",
+          "nombre_partido": "Morón",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96891.32012424443,
+                  100279.75314834563
+                ],
+                [
+                  96892.18010959361,
+                  100280.0701649448
+                ],
+                [
+                  96893.74810275421,
+                  100280.6491444351
+                ],
+                [
+                  96897.88012178635,
+                  100282.17313124429
+                ],
+                [
+                  96900.8550973643,
+                  100283.27115369972
+                ],
+                [
+                  96902.13207490084,
+                  100283.74216199838
+                ],
+                [
+                  96906.9981027206,
+                  100285.53714490024
+                ],
+                [
+                  96910.02410368175,
+                  100277.26212050609
+                ],
+                [
+                  96900.91308075629,
+                  100273.91110733955
+                ],
+                [
+                  96900.80407196734,
+                  100273.87112931247
+                ],
+                [
+                  96893.08806856838,
+                  100271.03415422738
+                ],
+                [
+                  96891.73906954899,
+                  100272.27615861865
+                ],
+                [
+                  96889.73499485065,
+                  100274.12203556873
+                ],
+                [
+                  96885.82299486335,
+                  100277.72503556227
+                ],
+                [
+                  96888.99212132038,
+                  100278.89413956102
+                ],
+                [
+                  96891.32012424443,
+                  100279.75314834563
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "085-067-032",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ATAHUALPA 1120",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.497116282132275,
+      -34.62675809865302
+    ],
+    "direccion": "",
+    "fondo": "20.34",
+    "frente": "8.80",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "067",
+    "parcela": "032",
+    "pdamatriz": "275566",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "085",
+    "smp": "085-067-032",
+    "smp_anterior": "085-067-031",
+    "smp_siguiente": "085-067-033",
+    "srid": 4326,
+    "superficie_cubierta": "153.00",
+    "superficie_total": "179.00",
+    "unidades_funcionales": "2",
+    "vuc": "0.00"
+  },
+  "smp": "085-067-032",
+  "_http_status": 200
+}

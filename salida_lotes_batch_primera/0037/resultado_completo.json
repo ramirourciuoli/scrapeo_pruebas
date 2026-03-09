@@ -1,0 +1,363 @@
+{
+  "area_m2": 357.2111701965332,
+  "centroide_lonlat": {
+    "lat": -34.58662,
+    "lon": -58.495753
+  },
+  "centroide_xy": {
+    "x": 97022.44073669308,
+    "y": 104730.81488149909
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/3/24/073-051-025_0000115324.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION073/073-051-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION073/PI-073-051-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 1,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "073-051-008",
+            "073-051-024",
+            "073-051-006",
+            "073-051-026",
+            "073-051-007"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 190.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 238.688528328235,
+        "sup_max_edificable": 239.8,
+        "superficie_parcela": 357.2,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "073-051-025"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. A. ZUBIZARRETA",
+    "barrio": "Villa Pueyrredon",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1419",
+    "codigo_postal_argentino": "C1419GPI",
+    "comisaria": "47",
+    "comisaria_vecinal": "12B",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "73"
+  },
+  "debug": {
+    "address": "HABANA 2555",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.49575340801719,
+        -34.5866201111198
+      ],
+      "direccion": "",
+      "fondo": "41.11",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "051",
+      "parcela": "025",
+      "pdamatriz": "360176",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "073",
+      "smp": "073-051-025",
+      "smp_anterior": "073-051-024",
+      "smp_siguiente": "073-051-026",
+      "srid": 4326,
+      "superficie_cubierta": "303.00",
+      "superficie_total": "356.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2555,
+      "cod_calle": 8001
+    },
+    "usig_direccion_elegida": {
+      "altura": 2555,
+      "cod_calle": 8001,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.495589",
+        "y": "-34.586802"
+      },
+      "direccion": "HABANA 2555, CABA",
+      "nombre_calle": "HABANA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2555,
+          "cod_calle": 8001,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.495589",
+            "y": "-34.586802"
+          },
+          "direccion": "HABANA 2555, CABA",
+          "nombre_calle": "HABANA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97036.21599778559,
+                  104719.69802299255
+                ],
+                [
+                  97038.25799777769,
+                  104716.98002299911
+                ],
+                [
+                  97031.27299779335,
+                  104711.7600230189
+                ],
+                [
+                  97028.45299780356,
+                  104715.53002300966
+                ],
+                [
+                  97027.1259978088,
+                  104717.30502300471
+                ],
+                [
+                  97025.73999781435,
+                  104719.15902300263
+                ],
+                [
+                  97025.04499781653,
+                  104720.08802300048
+                ],
+                [
+                  97020.84899783274,
+                  104725.69902298681
+                ],
+                [
+                  97019.09999783884,
+                  104728.03802298286
+                ],
+                [
+                  97017.80499784456,
+                  104729.77002297746
+                ],
+                [
+                  97016.74999784827,
+                  104731.18002297351
+                ],
+                [
+                  97015.35899785385,
+                  104733.04002297134
+                ],
+                [
+                  97009.84999787505,
+                  104740.40802295442
+                ],
+                [
+                  97006.62499788699,
+                  104744.720022945
+                ],
+                [
+                  97013.52299787209,
+                  104749.91002292492
+                ],
+                [
+                  97016.77399785987,
+                  104745.58202293381
+                ],
+                [
+                  97024.75199782966,
+                  104734.96102295912
+                ],
+                [
+                  97026.04499782338,
+                  104733.23902296304
+                ],
+                [
+                  97026.78299782137,
+                  104732.25802296301
+                ],
+                [
+                  97027.56399781856,
+                  104731.21902296518
+                ],
+                [
+                  97027.80199781735,
+                  104730.90002296693
+                ],
+                [
+                  97034.02499779359,
+                  104722.61502298512
+                ],
+                [
+                  97035.90499778694,
+                  104720.11202299056
+                ],
+                [
+                  97036.12599778705,
+                  104719.81802299237
+                ],
+                [
+                  97036.21599778559,
+                  104719.69802299255
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "073-051-025",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "HABANA 2555",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.49575340801719,
+      -34.5866201111198
+    ],
+    "direccion": "",
+    "fondo": "41.11",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "051",
+    "parcela": "025",
+    "pdamatriz": "360176",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "073",
+    "smp": "073-051-025",
+    "smp_anterior": "073-051-024",
+    "smp_siguiente": "073-051-026",
+    "srid": 4326,
+    "superficie_cubierta": "303.00",
+    "superficie_total": "356.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "073-051-025",
+  "_http_status": 200
+}

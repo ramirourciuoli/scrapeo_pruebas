@@ -1,0 +1,413 @@
+{
+  "area_m2": 232.785795211792,
+  "centroide_lonlat": {
+    "lat": -34.627799,
+    "lon": -58.485638
+  },
+  "centroide_xy": {
+    "x": 97951.531971763,
+    "y": 100162.8536350033
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 12.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/5/60/077-095-012_0000194560.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION077/077-095-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION077/PI-077-095-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "077-095-011",
+            "077-095-010",
+            "077-095-009",
+            "077-095-008",
+            "077-095-013"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b II",
+          "incidencia_uva": 80.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 232.752599999956,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 232.8,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          12.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "077-095-012"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. T. ÁLVAREZ",
+    "barrio": "Floresta",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1407",
+    "codigo_postal_argentino": "C1407AHI",
+    "comisaria": "43",
+    "comisaria_vecinal": "10A",
+    "comuna": "Comuna 10",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "77"
+  },
+  "debug": {
+    "address": "MERCEDES 581",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.48563796024926,
+        -34.62779896218202
+      ],
+      "direccion": "",
+      "fondo": "27.16",
+      "frente": "8.58",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "095",
+      "parcela": "012",
+      "pdamatriz": "1831",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "077",
+      "smp": "077-095-012",
+      "smp_anterior": "077-095-011",
+      "smp_siguiente": "077-095-013",
+      "srid": 4326,
+      "superficie_cubierta": "345.00",
+      "superficie_total": "233.00",
+      "unidades_funcionales": "4",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 581,
+      "cod_calle": 13074
+    },
+    "usig_direccion_elegida": {
+      "altura": 581,
+      "cod_calle": 13074,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.485802",
+        "y": "-34.627851"
+      },
+      "direccion": "MERCEDES 581, CABA",
+      "nombre_calle": "MERCEDES",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 581,
+          "cod_calle": 13074,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.485802",
+            "y": "-34.627851"
+          },
+          "direccion": "MERCEDES 581, CABA",
+          "nombre_calle": "MERCEDES",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 581,
+          "cod_calle": 14508,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5521137663265,
+            "y": -34.6425267408163
+          },
+          "direccion": "Maestra Mercedes Lascano 581, La Matanza",
+          "nombre_calle": "Maestra Mercedes Lascano",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ramos Mejía",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 581,
+          "cod_calle": 28007,
+          "cod_calle_cruce": null,
+          "cod_partido": "lomas_de_zamora",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.4141185979592,
+            "y": -34.8037887387755
+          },
+          "direccion": "Mercedes 581, Lomas de Zamora",
+          "nombre_calle": "Mercedes",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Llavallol",
+          "nombre_partido": "Lomas de Zamora",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97950.9559917931,
+                  100167.19503507047
+                ],
+                [
+                  97954.7409917839,
+                  100168.66803506302
+                ],
+                [
+                  97960.11699176977,
+                  100170.76603505321
+                ],
+                [
+                  97962.94699176299,
+                  100171.87103504804
+                ],
+                [
+                  97963.62399175897,
+                  100169.67203505512
+                ],
+                [
+                  97964.10399175712,
+                  100168.1130350598
+                ],
+                [
+                  97965.48499175043,
+                  100163.62903506946
+                ],
+                [
+                  97962.0459917589,
+                  100162.30603507668
+                ],
+                [
+                  97959.49499176498,
+                  100161.32503508267
+                ],
+                [
+                  97957.63399176914,
+                  100160.6090350849
+                ],
+                [
+                  97953.07199178117,
+                  100158.85403509176
+                ],
+                [
+                  97951.08899178592,
+                  100158.09103509647
+                ],
+                [
+                  97950.57999178745,
+                  100157.8950350967
+                ],
+                [
+                  97948.64499179152,
+                  100157.15103509932
+                ],
+                [
+                  97945.98099179837,
+                  100156.12703510569
+                ],
+                [
+                  97945.44199179979,
+                  100155.91903510614
+                ],
+                [
+                  97944.23199180291,
+                  100155.45403510964
+                ],
+                [
+                  97940.3119918137,
+                  100153.94603511656
+                ],
+                [
+                  97940.02699181382,
+                  100154.69303511313
+                ],
+                [
+                  97938.67299182092,
+                  100158.24303510584
+                ],
+                [
+                  97937.80399182459,
+                  100160.52003509921
+                ],
+                [
+                  97937.74399182503,
+                  100160.67703509887
+                ],
+                [
+                  97937.42999182633,
+                  100161.50003509648
+                ],
+                [
+                  97937.28699182696,
+                  100161.87403509492
+                ],
+                [
+                  97941.92199181626,
+                  100163.67803508762
+                ],
+                [
+                  97944.83499180888,
+                  100164.81203508098
+                ],
+                [
+                  97946.72699180417,
+                  100165.54903507745
+                ],
+                [
+                  97950.019991795,
+                  100166.83103507271
+                ],
+                [
+                  97950.9559917931,
+                  100167.19503507047
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "077-095-012",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MERCEDES 581",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.48563796024926,
+      -34.62779896218202
+    ],
+    "direccion": "",
+    "fondo": "27.16",
+    "frente": "8.58",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "095",
+    "parcela": "012",
+    "pdamatriz": "1831",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "077",
+    "smp": "077-095-012",
+    "smp_anterior": "077-095-011",
+    "smp_siguiente": "077-095-013",
+    "srid": 4326,
+    "superficie_cubierta": "345.00",
+    "superficie_total": "233.00",
+    "unidades_funcionales": "4",
+    "vuc": "0.00"
+  },
+  "smp": "077-095-012",
+  "_http_status": 200
+}

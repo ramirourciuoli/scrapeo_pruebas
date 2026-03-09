@@ -1,0 +1,342 @@
+{
+  "area_m2": 99.93887996673584,
+  "centroide_lonlat": {
+    "lat": -34.598936,
+    "lon": -58.513801
+  },
+  "centroide_xy": {
+    "x": 95367.27516361835,
+    "y": 103363.89614230981
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 0.0,
+        "catalogacion": {
+          "catalogacion": "APH",
+          "denominacion": null,
+          "estado": "LEY FIRME",
+          "ley_3056": "SI",
+          "proteccion": "GENERAL"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "APH",
+            "distrito_especifico": "APH 36"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/9/04/083-068-013_0000180904.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION083/083-068-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION083/PI-083-068-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "1",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": true,
+          "smp_linderas": [
+            "083-068-012",
+            "083-068-015",
+            "083-068-014c"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "APH 36",
+          "incidencia_uva": 380.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "Zona de amortiguación",
+        "sup_edificable_planta": 0.0,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 99.9,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "083-068-013"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. A. ZUBIZARRETA",
+    "barrio": "Villa Devoto",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1419",
+    "codigo_postal_argentino": "C1419BGM",
+    "comisaria": "45",
+    "comisaria_vecinal": "11B",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "83"
+  },
+  "debug": {
+    "address": "MERCEDES 4225",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.513801055529235,
+        -34.59893569977507
+      ],
+      "direccion": "",
+      "fondo": "11.98",
+      "frente": "8.43",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "068",
+      "parcela": "013",
+      "pdamatriz": "271312",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "083",
+      "smp": "083-068-013",
+      "smp_anterior": "083-068-012",
+      "smp_siguiente": "083-068-014C",
+      "srid": 4326,
+      "superficie_cubierta": "86.00",
+      "superficie_total": "101.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 4225,
+      "cod_calle": 13074
+    },
+    "usig_direccion_elegida": {
+      "altura": 4225,
+      "cod_calle": 13074,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.513892",
+        "y": "-34.598992"
+      },
+      "direccion": "MERCEDES 4225, CABA",
+      "nombre_calle": "MERCEDES",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 4225,
+          "cod_calle": 13074,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.513892",
+            "y": "-34.598992"
+          },
+          "direccion": "MERCEDES 4225, CABA",
+          "nombre_calle": "MERCEDES",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 4225,
+          "cod_calle": 53265,
+          "cod_calle_cruce": null,
+          "cod_partido": "general_san_martin",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5390585045454,
+            "y": -34.5438762727273
+          },
+          "direccion": "27 - Mercedes 4225, General San Martín",
+          "nombre_calle": "27 - Mercedes",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Villa Ballester",
+          "nombre_partido": "General San Martín",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  95374.50800142533,
+                  103364.05002804473
+                ],
+                [
+                  95371.33900143174,
+                  103361.64402805432
+                ],
+                [
+                  95371.08500143257,
+                  103361.45102805507
+                ],
+                [
+                  95370.66400143343,
+                  103361.13002805586
+                ],
+                [
+                  95368.7270014378,
+                  103359.66002806171
+                ],
+                [
+                  95368.31200143872,
+                  103359.3450280625
+                ],
+                [
+                  95367.45200144031,
+                  103358.69102806487
+                ],
+                [
+                  95365.13300144624,
+                  103356.93002807163
+                ],
+                [
+                  95361.33600146048,
+                  103362.02002806007
+                ],
+                [
+                  95360.07000146544,
+                  103363.70002805695
+                ],
+                [
+                  95363.43800145778,
+                  103366.31002804649
+                ],
+                [
+                  95365.6230014525,
+                  103368.00302804005
+                ],
+                [
+                  95366.57000145107,
+                  103368.73702803749
+                ],
+                [
+                  95369.33600144474,
+                  103370.88002802953
+                ],
+                [
+                  95371.759001435,
+                  103367.68102803666
+                ],
+                [
+                  95374.50800142533,
+                  103364.05002804473
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "083-068-013",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MERCEDES 4225",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.513801055529235,
+      -34.59893569977507
+    ],
+    "direccion": "",
+    "fondo": "11.98",
+    "frente": "8.43",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "068",
+    "parcela": "013",
+    "pdamatriz": "271312",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "083",
+    "smp": "083-068-013",
+    "smp_anterior": "083-068-012",
+    "smp_siguiente": "083-068-014C",
+    "srid": 4326,
+    "superficie_cubierta": "86.00",
+    "superficie_total": "101.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "083-068-013",
+  "_http_status": 200
+}

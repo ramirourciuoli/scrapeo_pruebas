@@ -1,0 +1,338 @@
+{
+  "area_m2": 150.73738193511963,
+  "centroide_lonlat": {
+    "lat": -34.629776,
+    "lon": -58.448601
+  },
+  "centroide_xy": {
+    "x": 101347.88670161623,
+    "y": 99943.65625330579
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 1,
+          "ensanche": 1,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.44,
+          "fot_perim_libre": 3.44,
+          "fot_semi_libre": 3.44
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/4/09/042-049-030_0000437409.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION042/042-049-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION042/PI-042-049-V4.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": true,
+          "smp_linderas": [
+            "042-049-031",
+            "042-049-029",
+            "042-049-025"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2a II",
+          "incidencia_uva": 350.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 141.621246275975,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 150.7,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "042-049-030"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. P. PIÑERO",
+    "barrio": "Caballito",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1406",
+    "codigo_postal_argentino": "C1406CWE",
+    "comisaria": "12",
+    "comisaria_vecinal": "6B",
+    "comuna": "Comuna 6",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   VIII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "42"
+  },
+  "debug": {
+    "address": "ACHAVAL 475",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.448601328782445,
+        -34.62977600542335
+      ],
+      "direccion": "",
+      "fondo": "16.90",
+      "frente": "8.70",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "049",
+      "parcela": "030",
+      "pdamatriz": "139363",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "10",
+      "propiedad_horizontal": "Si",
+      "seccion": "042",
+      "smp": "042-049-030",
+      "smp_anterior": "042-049-029",
+      "smp_siguiente": "042-049-031",
+      "srid": 4326,
+      "superficie_cubierta": "970.00",
+      "superficie_total": "147.00",
+      "unidades_funcionales": "9",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 475,
+      "cod_calle": 1011
+    },
+    "usig_direccion_elegida": {
+      "altura": 475,
+      "cod_calle": 1011,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.448480",
+        "y": "-34.629736"
+      },
+      "direccion": "ACHAVAL 475, CABA",
+      "nombre_calle": "ACHAVAL",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 475,
+          "cod_calle": 1011,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.448480",
+            "y": "-34.629736"
+          },
+          "direccion": "ACHAVAL 475, CABA",
+          "nombre_calle": "ACHAVAL",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 475,
+          "cod_calle": 28762,
+          "cod_calle_cruce": null,
+          "cod_partido": "tres_de_febrero",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.5500637244898,
+            "y": -34.6358879734694
+          },
+          "direccion": "Diagonal 21 - Nicolás Achával 475, Tres de Febrero",
+          "nombre_calle": "Diagonal 21 - Nicolás Achával",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Ciudadela",
+          "nombre_partido": "Tres de Febrero",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  101339.99698211794,
+                  99939.07713315988
+                ],
+                [
+                  101339.73993415448,
+                  99940.41866193118
+                ],
+                [
+                  101339.42008212114,
+                  99942.0914331518
+                ],
+                [
+                  101338.90598212526,
+                  99944.77903314444
+                ],
+                [
+                  101342.09948211642,
+                  99946.06143313833
+                ],
+                [
+                  101346.60578210563,
+                  99947.87563312985
+                ],
+                [
+                  101347.00793414001,
+                  99948.03066190507
+                ],
+                [
+                  101350.31308209621,
+                  99949.35803312296
+                ],
+                [
+                  101354.29298208596,
+                  99950.95603311571
+                ],
+                [
+                  101357.62098207122,
+                  99942.89903313576
+                ],
+                [
+                  101353.74268208099,
+                  99941.38473314303
+                ],
+                [
+                  101347.50938209619,
+                  99938.9507331542
+                ],
+                [
+                  101345.60598210081,
+                  99938.20753315734
+                ],
+                [
+                  101340.5419821142,
+                  99936.23003316755
+                ],
+                [
+                  101339.99698211794,
+                  99939.07713315988
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "042-049-030",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "ACHAVAL 475",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.448601328782445,
+      -34.62977600542335
+    ],
+    "direccion": "",
+    "fondo": "16.90",
+    "frente": "8.70",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "049",
+    "parcela": "030",
+    "pdamatriz": "139363",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "10",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "042",
+    "smp": "042-049-030",
+    "smp_anterior": "042-049-029",
+    "smp_siguiente": "042-049-031",
+    "srid": 4326,
+    "superficie_cubierta": "970.00",
+    "superficie_total": "147.00",
+    "unidades_funcionales": "9",
+    "vuc": "0.00"
+  },
+  "smp": "042-049-030",
+  "_http_status": 200
+}

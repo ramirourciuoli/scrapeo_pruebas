@@ -1,0 +1,344 @@
+{
+  "area_m2": 142.41695022583008,
+  "centroide_lonlat": {
+    "lat": -34.567391,
+    "lon": -58.498367
+  },
+  "centroide_xy": {
+    "x": 96781.88034131442,
+    "y": 106863.94682555633
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": "NOTA CAAP",
+          "ley_3056": "SI",
+          "proteccion": "DESESTIMADO"
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/9/35/063-085B-004_0000246935.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION063/063-085B-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION063/PI-063-085B-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "063-085B-003",
+            "063-085B-005"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 270.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 142.367400000004,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 142.4,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "063-085B-004"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Villa Urquiza",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1431",
+    "codigo_postal_argentino": "C1431AME",
+    "comisaria": "49",
+    "comisaria_vecinal": "12C",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "63"
+  },
+  "debug": {
+    "address": "PIRAN 5695",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.49836728537193,
+        -34.56739079057166
+      ],
+      "direccion": "",
+      "fondo": "32.28",
+      "frente": "4.43",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "085B",
+      "parcela": "004",
+      "pdamatriz": "354831",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "063",
+      "smp": "063-085B-004",
+      "smp_anterior": "063-085B-003",
+      "smp_siguiente": "063-085B-005",
+      "srid": 4326,
+      "superficie_cubierta": "248.00",
+      "superficie_total": "143.00",
+      "unidades_funcionales": "2",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 5695,
+      "cod_calle": 17089
+    },
+    "usig_direccion_elegida": {
+      "altura": 5695,
+      "cod_calle": 17089,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.498465",
+        "y": "-34.567257"
+      },
+      "direccion": "PIRAN 5695, CABA",
+      "nombre_calle": "PIRAN",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 5695,
+          "cod_calle": 17089,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.498465",
+            "y": "-34.567257"
+          },
+          "direccion": "PIRAN 5695, CABA",
+          "nombre_calle": "PIRAN",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  96788.43900009822,
+                  106869.01101715135
+                ],
+                [
+                  96789.22400009529,
+                  106867.83301715375
+                ],
+                [
+                  96791.00000008791,
+                  106865.17001716024
+                ],
+                [
+                  96788.94600009307,
+                  106863.75701716598
+                ],
+                [
+                  96785.2870001005,
+                  106861.23901717563
+                ],
+                [
+                  96785.06500010185,
+                  106861.08601717633
+                ],
+                [
+                  96784.88300010227,
+                  106860.96001717664
+                ],
+                [
+                  96782.39300010774,
+                  106859.24701718378
+                ],
+                [
+                  96779.286000115,
+                  106857.10901719186
+                ],
+                [
+                  96778.69000011643,
+                  106856.69901719334
+                ],
+                [
+                  96776.67200012087,
+                  106855.3100171983
+                ],
+                [
+                  96776.35700012174,
+                  106855.7790171977
+                ],
+                [
+                  96774.5670001287,
+                  106858.43801719163
+                ],
+                [
+                  96774.15600013093,
+                  106859.0500171899
+                ],
+                [
+                  96775.31200013167,
+                  106865.00001717257
+                ],
+                [
+                  96776.16200012935,
+                  106865.57201717002
+                ],
+                [
+                  96779.15700012258,
+                  106867.5880171629
+                ],
+                [
+                  96783.14200011379,
+                  106870.2690171522
+                ],
+                [
+                  96785.96800010762,
+                  106872.17101714449
+                ],
+                [
+                  96786.21900010627,
+                  106872.34001714361
+                ],
+                [
+                  96788.43900009822,
+                  106869.01101715135
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "063-085B-004",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "PIRAN 5695",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.49836728537193,
+      -34.56739079057166
+    ],
+    "direccion": "",
+    "fondo": "32.28",
+    "frente": "4.43",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "085B",
+    "parcela": "004",
+    "pdamatriz": "354831",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "063",
+    "smp": "063-085B-004",
+    "smp_anterior": "063-085B-003",
+    "smp_siguiente": "063-085B-005",
+    "srid": 4326,
+    "superficie_cubierta": "248.00",
+    "superficie_total": "143.00",
+    "unidades_funcionales": "2",
+    "vuc": "0.00"
+  },
+  "smp": "063-085B-004",
+  "_http_status": 200
+}

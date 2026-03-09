@@ -1,0 +1,416 @@
+{
+  "area_m2": 344.58306407928467,
+  "centroide_lonlat": {
+    "lat": -34.60872,
+    "lon": -58.487622
+  },
+  "centroide_xy": {
+    "x": 97769.08918348636,
+    "y": 102279.31921844679
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 3.44,
+          "fot_perim_libre": 3.44,
+          "fot_semi_libre": 3.44
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/6/23/069-002-007_0000328623.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION069/069-002-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION069/PI-069-002-V4.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "069-002-012",
+            "069-002-006",
+            "069-002-008",
+            "069-002-014",
+            "069-002-013"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2a II",
+          "incidencia_uva": 100.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 216.161268110371,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 344.6,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "069-002-007"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. T. ÁLVAREZ",
+    "barrio": "Villa Del Parque",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1417",
+    "codigo_postal_argentino": "C1417CQB",
+    "comisaria": "41",
+    "comisaria_vecinal": "11A",
+    "comuna": "Comuna 11",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVII",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "III (Oeste)",
+    "seccion_catastral": "69"
+  },
+  "debug": {
+    "address": "HELGUERA 2270",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.487621878394066,
+        -34.60872034222186
+      ],
+      "direccion": "",
+      "fondo": "39.86",
+      "frente": "8.63",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "002",
+      "parcela": "007",
+      "pdamatriz": "254902",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "069",
+      "smp": "069-002-007",
+      "smp_anterior": "069-002-006",
+      "smp_siguiente": "069-002-008",
+      "srid": 4326,
+      "superficie_cubierta": "382.00",
+      "superficie_total": "344.00",
+      "unidades_funcionales": "4",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 2270,
+      "cod_calle": 8007
+    },
+    "usig_direccion_elegida": {
+      "altura": 2270,
+      "cod_calle": 8007,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.487403",
+        "y": "-34.608592"
+      },
+      "direccion": "HELGUERA 2270, CABA",
+      "nombre_calle": "HELGUERA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 2270,
+          "cod_calle": 8007,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.487403",
+            "y": "-34.608592"
+          },
+          "direccion": "HELGUERA 2270, CABA",
+          "nombre_calle": "HELGUERA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 2270,
+          "cod_calle": 39509,
+          "cod_calle_cruce": null,
+          "cod_partido": "avellaneda",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3604880693877,
+            "y": -34.6924456877551
+          },
+          "direccion": "Helguera 2270, Avellaneda",
+          "nombre_calle": "Helguera",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Gerli",
+          "nombre_partido": "Avellaneda",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97757.37099391612,
+                  102265.61102933032
+                ],
+                [
+                  97755.46699392018,
+                  102264.25102933787
+                ],
+                [
+                  97750.53307499432,
+                  102271.5381152581
+                ],
+                [
+                  97757.53606570061,
+                  102276.48611328541
+                ],
+                [
+                  97758.67199392134,
+                  102277.28902929786
+                ],
+                [
+                  97761.73699391334,
+                  102279.45402929059
+                ],
+                [
+                  97764.75699390682,
+                  102281.58802928269
+                ],
+                [
+                  97766.06699390273,
+                  102282.51302927837
+                ],
+                [
+                  97767.53799390065,
+                  102283.5530292734
+                ],
+                [
+                  97768.99999389781,
+                  102284.58502927076
+                ],
+                [
+                  97772.21099389068,
+                  102286.85402926186
+                ],
+                [
+                  97775.23799388364,
+                  102288.99302925286
+                ],
+                [
+                  97775.74199388208,
+                  102289.34902925105
+                ],
+                [
+                  97776.0539938809,
+                  102289.56902925132
+                ],
+                [
+                  97781.58599386885,
+                  102293.47802923559
+                ],
+                [
+                  97782.81099386519,
+                  102294.34302923223
+                ],
+                [
+                  97783.04199386496,
+                  102294.01702923235
+                ],
+                [
+                  97783.67999386246,
+                  102293.12002923404
+                ],
+                [
+                  97787.55699384773,
+                  102287.66002924691
+                ],
+                [
+                  97787.78799384613,
+                  102287.33402924702
+                ],
+                [
+                  97786.97399384933,
+                  102286.75302924897
+                ],
+                [
+                  97784.74799385291,
+                  102285.16302925651
+                ],
+                [
+                  97781.14899386207,
+                  102282.59202926629
+                ],
+                [
+                  97776.43999387245,
+                  102279.23002927908
+                ],
+                [
+                  97773.74599387911,
+                  102277.30602928664
+                ],
+                [
+                  97773.09499387987,
+                  102276.84102928755
+                ],
+                [
+                  97770.6609938864,
+                  102275.10202929482
+                ],
+                [
+                  97768.84299388985,
+                  102273.80402929944
+                ],
+                [
+                  97766.17799389621,
+                  102271.90102930699
+                ],
+                [
+                  97765.19999389767,
+                  102271.20202931069
+                ],
+                [
+                  97763.28699390168,
+                  102269.83602931557
+                ],
+                [
+                  97760.37799390862,
+                  102267.7580293233
+                ],
+                [
+                  97757.90299391444,
+                  102265.99102932957
+                ],
+                [
+                  97757.37099391612,
+                  102265.61102933032
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "069-002-007",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "HELGUERA 2270",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.487621878394066,
+      -34.60872034222186
+    ],
+    "direccion": "",
+    "fondo": "39.86",
+    "frente": "8.63",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "002",
+    "parcela": "007",
+    "pdamatriz": "254902",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "069",
+    "smp": "069-002-007",
+    "smp_anterior": "069-002-006",
+    "smp_siguiente": "069-002-008",
+    "srid": 4326,
+    "superficie_cubierta": "382.00",
+    "superficie_total": "344.00",
+    "unidades_funcionales": "4",
+    "vuc": "0.00"
+  },
+  "smp": "069-002-007",
+  "_http_status": 200
+}

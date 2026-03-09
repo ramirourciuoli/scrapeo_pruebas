@@ -1,0 +1,353 @@
+{
+  "area_m2": 152.33126831054688,
+  "centroide_lonlat": {
+    "lat": -34.642356,
+    "lon": -58.427788
+  },
+  "centroide_xy": {
+    "x": 103255.99894555997,
+    "y": 98547.57760341342
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "SI",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.2,
+          "fot_perim_libre": 1.2,
+          "fot_semi_libre": 1.2
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/7/34/038-062B-001_0000051734.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION038/038-062B-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION038/PI-038-062B-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "038-062B-002",
+            "038-062B-028"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.1,
+          "distrito_cpu": "AE 26",
+          "incidencia_uva": 40.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 152.401800000032,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 152.3,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "038-062B-001"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. J.M. PENNA",
+    "barrio": "Nueva Pompeya",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1437",
+    "codigo_postal_argentino": "C1437JIF",
+    "comisaria": "34",
+    "comisaria_vecinal": "4B",
+    "comuna": "Comuna 4",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XIX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "I (Este)",
+    "seccion_catastral": "38"
+  },
+  "debug": {
+    "address": "SOMELLERA 1052",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.42778805699076,
+        -34.64235621475037
+      ],
+      "direccion": "",
+      "fondo": "25.08",
+      "frente": "5.98",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "062B",
+      "parcela": "001",
+      "pdamatriz": "41181",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "038",
+      "smp": "038-062B-001",
+      "smp_anterior": "038-062B-028",
+      "smp_siguiente": "038-062B-002",
+      "srid": 4326,
+      "superficie_cubierta": "163.00",
+      "superficie_total": "150.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1052,
+      "cod_calle": 20108
+    },
+    "usig_direccion_elegida": {
+      "altura": 1052,
+      "cod_calle": 20108,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.427806",
+        "y": "-34.642269"
+      },
+      "direccion": "SOMELLERA 1052, CABA",
+      "nombre_calle": "SOMELLERA",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1052,
+          "cod_calle": 20108,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.427806",
+            "y": "-34.642269"
+          },
+          "direccion": "SOMELLERA 1052, CABA",
+          "nombre_calle": "SOMELLERA",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1052,
+          "cod_calle": 22995,
+          "cod_calle_cruce": null,
+          "cod_partido": "almirante_brown",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3906427272727,
+            "y": -34.8022395454545
+          },
+          "direccion": "Somellera 1052, Almirante Brown",
+          "nombre_calle": "Somellera",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Adrogué",
+          "nombre_partido": "Almirante Brown",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1052,
+          "cod_calle": 39910,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "direccion": "Coronel Somellera 1052, La Matanza",
+          "nombre_calle": "Coronel Somellera",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Aldo Bonzi",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 1052,
+          "cod_calle": 39910,
+          "cod_calle_cruce": null,
+          "cod_partido": "la_matanza",
+          "direccion": "Coronel Somellera 1052, La Matanza",
+          "nombre_calle": "Coronel Somellera",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "La Tablada",
+          "nombre_partido": "La Matanza",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  103247.60097572251,
+                  98551.27003561519
+                ],
+                [
+                  103250.91497571411,
+                  98551.97603561066
+                ],
+                [
+                  103258.77997569389,
+                  98553.65003560059
+                ],
+                [
+                  103263.76997567719,
+                  98550.44003560749
+                ],
+                [
+                  103265.02597566925,
+                  98544.39303562231
+                ],
+                [
+                  103259.7969756834,
+                  98543.33003562724
+                ],
+                [
+                  103256.63497569096,
+                  98542.68703563258
+                ],
+                [
+                  103253.07697570053,
+                  98541.96403563791
+                ],
+                [
+                  103252.91697570127,
+                  98541.93103563815
+                ],
+                [
+                  103251.83297570383,
+                  98541.71103563916
+                ],
+                [
+                  103249.6539757101,
+                  98541.2680356424
+                ],
+                [
+                  103248.76397571611,
+                  98545.60503563189
+                ],
+                [
+                  103247.60097572251,
+                  98551.27003561519
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "038-062B-001",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "SOMELLERA 1052",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.42778805699076,
+      -34.64235621475037
+    ],
+    "direccion": "",
+    "fondo": "25.08",
+    "frente": "5.98",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "062B",
+    "parcela": "001",
+    "pdamatriz": "41181",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "038",
+    "smp": "038-062B-001",
+    "smp_anterior": "038-062B-028",
+    "smp_siguiente": "038-062B-002",
+    "srid": 4326,
+    "superficie_cubierta": "163.00",
+    "superficie_total": "150.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "038-062B-001",
+  "_http_status": 200
+}

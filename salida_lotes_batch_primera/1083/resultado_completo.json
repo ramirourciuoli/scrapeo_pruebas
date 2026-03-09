@@ -1,0 +1,346 @@
+{
+  "area_m2": 295.55769538879395,
+  "centroide_lonlat": {
+    "lat": -34.569976,
+    "lon": -58.508567
+  },
+  "centroide_xy": {
+    "x": 95846.02502686443,
+    "y": 106576.73097571777
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 29.8,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/1/68/063-013-022_0000243168.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION063/063-013-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION063/PI-063-013-V0.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "063-013-021c",
+            "063-013-018",
+            "063-013-019",
+            "063-013-023"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.35,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 90.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 261.782541125262,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 295.6,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          22.8,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "063-013-022"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Villa Urquiza",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1431",
+    "codigo_postal_argentino": "C1431FAA",
+    "comisaria": "49",
+    "comisaria_vecinal": "12C",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XVI",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "63"
+  },
+  "debug": {
+    "address": "AV. DE LOS CONSTITUYENTES 6285",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.50856653471985,
+        -34.569976474751705
+      ],
+      "direccion": "",
+      "fondo": "35.33",
+      "frente": "8.66",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "013",
+      "parcela": "022",
+      "pdamatriz": "356155",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "063",
+      "smp": "063-013-022",
+      "smp_anterior": "063-013-021D",
+      "smp_siguiente": "063-013-023",
+      "srid": 4326,
+      "superficie_cubierta": "198.00",
+      "superficie_total": "306.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 6285,
+      "cod_calle": 4043
+    },
+    "usig_direccion_elegida": {
+      "altura": 6285,
+      "cod_calle": 4043,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.508700",
+        "y": "-34.570126"
+      },
+      "direccion": "DE LOS CONSTITUYENTES AV. 6285, CABA",
+      "nombre_calle": "DE LOS CONSTITUYENTES AV.",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 6285,
+          "cod_calle": 4043,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.508700",
+            "y": "-34.570126"
+          },
+          "direccion": "DE LOS CONSTITUYENTES AV. 6285, CABA",
+          "nombre_calle": "DE LOS CONSTITUYENTES AV.",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  95839.8510025254,
+                  106560.09201873193
+                ],
+                [
+                  95833.66000254634,
+                  106564.32901872444
+                ],
+                [
+                  95832.74200254885,
+                  106564.95001872367
+                ],
+                [
+                  95839.82400253718,
+                  106575.32301868891
+                ],
+                [
+                  95841.23100253445,
+                  106577.38201868243
+                ],
+                [
+                  95846.82800252501,
+                  106585.5800186551
+                ],
+                [
+                  95849.16800252086,
+                  106589.00301864318
+                ],
+                [
+                  95849.72900252062,
+                  106589.8230186408
+                ],
+                [
+                  95851.64100251687,
+                  106592.62001863171
+                ],
+                [
+                  95855.25000250587,
+                  106591.20101863329
+                ],
+                [
+                  95859.78100249225,
+                  106589.42001863444
+                ],
+                [
+                  95856.22200249792,
+                  106584.18201865189
+                ],
+                [
+                  95854.58700250094,
+                  106581.77701865963
+                ],
+                [
+                  95852.89900250372,
+                  106579.2930186677
+                ],
+                [
+                  95852.07100250537,
+                  106578.07401867214
+                ],
+                [
+                  95848.97400251057,
+                  106573.51601868705
+                ],
+                [
+                  95847.36200251264,
+                  106571.14401869543
+                ],
+                [
+                  95845.62200251628,
+                  106568.5840187034
+                ],
+                [
+                  95843.97800251876,
+                  106566.16601871181
+                ],
+                [
+                  95843.11900252002,
+                  106564.9010187154
+                ],
+                [
+                  95839.8510025254,
+                  106560.09201873193
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "063-013-022",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "AV. DE LOS CONSTITUYENTES 6285",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.50856653471985,
+      -34.569976474751705
+    ],
+    "direccion": "",
+    "fondo": "35.33",
+    "frente": "8.66",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "013",
+    "parcela": "022",
+    "pdamatriz": "356155",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "063",
+    "smp": "063-013-022",
+    "smp_anterior": "063-013-021D",
+    "smp_siguiente": "063-013-023",
+    "srid": 4326,
+    "superficie_cubierta": "198.00",
+    "superficie_total": "306.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "063-013-022",
+  "_http_status": 200
+}

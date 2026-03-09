@@ -1,0 +1,61 @@
+{
+  "debug": {
+    "address": "RONDEAU 3850",
+    "catastro_parcela_por_codcalle_altura": {},
+    "catastro_parcela_por_latlng_aprox": {},
+    "catastroinformal": {},
+    "usig_calle_puerta": {
+      "calle": "RONDEAU",
+      "puerta": 3850
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3850,
+      "cod_calle": 19082
+    },
+    "usig_direccion_elegida": {
+      "altura": 3850,
+      "cod_calle": 19082,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.418677",
+        "y": "-34.637272"
+      },
+      "direccion": "RONDEAU 3850, CABA",
+      "nombre_calle": "RONDEAU",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_latlng": {
+      "lat": -34.637272,
+      "lng": -58.418677
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3850,
+          "cod_calle": 19082,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.418677",
+            "y": "-34.637272"
+          },
+          "direccion": "RONDEAU 3850, CABA",
+          "nombre_calle": "RONDEAU",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "error": "No se encontró parcela para esa altura.",
+  "ok": false,
+  "_http_status": 404
+}

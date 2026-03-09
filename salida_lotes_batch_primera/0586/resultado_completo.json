@@ -1,0 +1,361 @@
+{
+  "area_m2": 177.06570529937744,
+  "centroide_lonlat": {
+    "lat": -34.558667,
+    "lon": -58.487694
+  },
+  "centroide_xy": {
+    "x": 97761.15841882647,
+    "y": 107831.9611028461
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 9.0,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "AE",
+            "distrito_especifico": "AE 26"
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/2/03/055-163A-001_0000239203.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION055/055-163A-V1.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION055/PI-055-163A-V1.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "055-163A-022",
+            "055-163A-002"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.27,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 350.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 177.07089999999,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 177.1,
+        "tipica": "",
+        "unidad_edificabilidad": [
+          9.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "055-163A-001"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. PIROVANO",
+    "barrio": "Saavedra",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1430",
+    "codigo_postal_argentino": "C1430DYN",
+    "comisaria": "49",
+    "comisaria_vecinal": "12A",
+    "comuna": "Comuna 12",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XV",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "IV (Norte)",
+    "seccion_catastral": "55"
+  },
+  "debug": {
+    "address": "MACHAIN 3648",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.48769370809244,
+        -34.55866742961741
+      ],
+      "direccion": "",
+      "fondo": "12.32",
+      "frente": "14.29",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "163A",
+      "parcela": "001",
+      "pdamatriz": "356462",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "Si",
+      "seccion": "055",
+      "smp": "055-163A-001",
+      "smp_anterior": "055-163A-022",
+      "smp_siguiente": "055-163A-002",
+      "srid": 4326,
+      "superficie_cubierta": "217.00",
+      "superficie_total": "176.00",
+      "unidades_funcionales": "2",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 3648,
+      "cod_calle": 13003
+    },
+    "usig_direccion_elegida": {
+      "altura": 3648,
+      "cod_calle": 13003,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.487546",
+        "y": "-34.558624"
+      },
+      "direccion": "MACHAIN 3648, CABA",
+      "nombre_calle": "MACHAIN",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 3648,
+          "cod_calle": 13003,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.487546",
+            "y": "-34.558624"
+          },
+          "direccion": "MACHAIN 3648, CABA",
+          "nombre_calle": "MACHAIN",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        },
+        {
+          "altura": 3648,
+          "cod_calle": 19507,
+          "cod_calle_cruce": null,
+          "cod_partido": "lanus",
+          "coordenadas": {
+            "srid": 4326,
+            "x": -58.3997108204082,
+            "y": -34.7145224020408
+          },
+          "direccion": "Machain 3648, Lanús",
+          "nombre_calle": "Machain",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "Lanús Oeste",
+          "nombre_partido": "Lanús",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  97750.90399812383,
+                  107832.04501372617
+                ],
+                [
+                  97754.43999811576,
+                  107834.09101371781
+                ],
+                [
+                  97755.63499811233,
+                  107834.78201371469
+                ],
+                [
+                  97757.80399810692,
+                  107836.03801370953
+                ],
+                [
+                  97763.26999809398,
+                  107839.20001369709
+                ],
+                [
+                  97763.9899980925,
+                  107839.00201369723
+                ],
+                [
+                  97767.27199808229,
+                  107838.10101369675
+                ],
+                [
+                  97769.12999807668,
+                  107837.59001369678
+                ],
+                [
+                  97769.34099807593,
+                  107837.2180136982
+                ],
+                [
+                  97769.986998073,
+                  107836.07801370035
+                ],
+                [
+                  97771.9159980655,
+                  107832.6750137085
+                ],
+                [
+                  97768.5099980731,
+                  107830.6700137168
+                ],
+                [
+                  97766.43199807826,
+                  107829.44701372157
+                ],
+                [
+                  97765.44899808058,
+                  107828.86901372415
+                ],
+                [
+                  97764.99599808193,
+                  107828.60201372523
+                ],
+                [
+                  97762.83999808657,
+                  107827.33301373015
+                ],
+                [
+                  97761.54499808968,
+                  107826.57101373406
+                ],
+                [
+                  97759.50399809434,
+                  107825.37001373863
+                ],
+                [
+                  97755.96199810323,
+                  107823.2850137472
+                ],
+                [
+                  97754.30999810934,
+                  107826.14501373982
+                ],
+                [
+                  97750.90399812383,
+                  107832.04501372617
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "055-163A-001",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MACHAIN 3648",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.48769370809244,
+      -34.55866742961741
+    ],
+    "direccion": "",
+    "fondo": "12.32",
+    "frente": "14.29",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "163A",
+    "parcela": "001",
+    "pdamatriz": "356462",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "Si",
+    "puertas": [],
+    "seccion": "055",
+    "smp": "055-163A-001",
+    "smp_anterior": "055-163A-022",
+    "smp_siguiente": "055-163A-002",
+    "srid": 4326,
+    "superficie_cubierta": "217.00",
+    "superficie_total": "176.00",
+    "unidades_funcionales": "2",
+    "vuc": "0.00"
+  },
+  "smp": "055-163A-001",
+  "_http_status": 200
+}

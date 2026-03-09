@@ -1,0 +1,332 @@
+{
+  "area_m2": 236.57576656341553,
+  "centroide_lonlat": {
+    "lat": -34.653055,
+    "lon": -58.508005
+  },
+  "centroide_xy": {
+    "x": 95901.67147691459,
+    "y": 97360.39217923456
+  },
+  "ciudad3d": {
+    "cur3d": {
+      "constitucion_estado_parcelario": {
+        "data": [],
+        "has_error": false
+      },
+      "parcelas_plausibles_a_enrase": {
+        "enrase": false
+      },
+      "seccion_edificabilidad": {
+        "adps": "",
+        "afectaciones": {
+          "apertura": 0,
+          "ci_digital": 0,
+          "ensanche": 0,
+          "lep": 0,
+          "riesgo_hidrico": 0
+        },
+        "altura_max": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "altura_max_plano_limite": 14.6,
+        "catalogacion": {
+          "catalogacion": null,
+          "denominacion": null,
+          "estado": null,
+          "ley_3056": null,
+          "proteccion": null
+        },
+        "cca": "",
+        "distrito_especial": [
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          },
+          {
+            "distrito_agrupado": "",
+            "distrito_especifico": ""
+          }
+        ],
+        "fot": {
+          "fot_medianera": 1.6,
+          "fot_perim_libre": 1.6,
+          "fot_semi_libre": 1.6
+        },
+        "fot_2": {
+          "fot_em_2": 0.0,
+          "fot_pl_2": 0.0,
+          "fot_sl_2": 0.0
+        },
+        "irregular": false,
+        "link_imagen": {
+          "croquis_parcela": "http://www.ssplan.buenosaires.gov.ar/croquis_parcela/imagenes/0/54/074-102-001_0000061054.pdf",
+          "perimetro_manzana": "http://www.ssplan.buenosaires.gov.ar/peri_man/imagenes/pm/SECCION074/074-102-V0.jpg",
+          "plano_indice": "http://ssplan.buenosaires.gob.ar/planos_indices/imagenes/pi/SECCION074/PI-074-102-V2.pdf"
+        },
+        "lr": 0,
+        "manzanas_atipicas": {
+          "disposicio": "",
+          "pdf": ""
+        },
+        "memo": "",
+        "microcentr": "",
+        "modelba": 0,
+        "parcelas_linderas": {
+          "aph_linderas": false,
+          "smp_linderas": [
+            "074-102-002",
+            "074-102-024"
+          ]
+        },
+        "plusvalia": {
+          "alicuota": 0.18,
+          "distrito_cpu": "R2b I",
+          "incidencia_uva": 70.0,
+          "plusvalia_em": 0,
+          "plusvalia_pl": 0,
+          "plusvalia_sl": 0
+        },
+        "rivolta": 0,
+        "subzona": "",
+        "sup_edificable_planta": 236.563950000091,
+        "sup_max_edificable": 0,
+        "superficie_parcela": 236.6,
+        "tipica": "T",
+        "unidad_edificabilidad": [
+          14.6,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "ok": true,
+    "smp": "074-102-001"
+  },
+  "datos_utiles": {
+    "area_hospitalaria": "HTAL. DR. F. SANTOJANNI",
+    "barrio": "Mataderos",
+    "codigo_de_planeamiento_urbano": "",
+    "codigo_postal": "1440",
+    "codigo_postal_argentino": "C1440DYG",
+    "comisaria": "42",
+    "comisaria_vecinal": "9A",
+    "comuna": "Comuna 9",
+    "distrito_economico": "",
+    "distrito_escolar": "Distrito Escolar   XX",
+    "localidad_amba": "",
+    "partido_amba": "",
+    "region_sanitaria": "II (Sur)",
+    "seccion_catastral": "74"
+  },
+  "debug": {
+    "address": "MARTINIANO LEGUIZAMON 1501",
+    "catastro_parcela_por_codcalle_altura": {
+      "centroide": [
+        -58.50800465725863,
+        -34.653054664188616
+      ],
+      "direccion": "",
+      "fondo": "37.81",
+      "frente": "6.40",
+      "fuente": "AGIP (2008)",
+      "locales": "0",
+      "manzana": "102",
+      "parcela": "001",
+      "pdamatriz": "15390",
+      "pisos_bajo_rasante": "0",
+      "pisos_sobre_rasante": "1",
+      "propiedad_horizontal": "No",
+      "seccion": "074",
+      "smp": "074-102-001",
+      "smp_anterior": "074-102-024",
+      "smp_siguiente": "074-102-002",
+      "srid": 4326,
+      "superficie_cubierta": "135.00",
+      "superficie_total": "242.00",
+      "unidades_funcionales": "0",
+      "vuc": "0.00"
+    },
+    "usig_cod_calle_altura": {
+      "altura": 1501,
+      "cod_calle": 12094
+    },
+    "usig_direccion_elegida": {
+      "altura": 1501,
+      "cod_calle": 12094,
+      "cod_calle_cruce": null,
+      "cod_partido": "caba",
+      "coordenadas": {
+        "srid": 4326,
+        "x": "-58.507889",
+        "y": "-34.652941"
+      },
+      "direccion": "LEGUIZAMON, MARTINIANO 1501, CABA",
+      "nombre_calle": "LEGUIZAMON, MARTINIANO",
+      "nombre_calle_cruce": "",
+      "nombre_localidad": "CABA",
+      "nombre_partido": "CABA",
+      "tipo": "calle_altura"
+    },
+    "usig_normalizar": {
+      "direccionesNormalizadas": [
+        {
+          "altura": 1501,
+          "cod_calle": 12094,
+          "cod_calle_cruce": null,
+          "cod_partido": "caba",
+          "coordenadas": {
+            "srid": 4326,
+            "x": "-58.507889",
+            "y": "-34.652941"
+          },
+          "direccion": "LEGUIZAMON, MARTINIANO 1501, CABA",
+          "nombre_calle": "LEGUIZAMON, MARTINIANO",
+          "nombre_calle_cruce": "",
+          "nombre_localidad": "CABA",
+          "nombre_partido": "CABA",
+          "tipo": "calle_altura"
+        }
+      ]
+    }
+  },
+  "geometria": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                [
+                  95890.17199545643,
+                  97355.51204450702
+                ],
+                [
+                  95893.35199544992,
+                  97359.16004449446
+                ],
+                [
+                  95895.39199544601,
+                  97361.50004448625
+                ],
+                [
+                  95900.12299543651,
+                  97366.92904446696
+                ],
+                [
+                  95902.53099543262,
+                  97369.69104445749
+                ],
+                [
+                  95908.64099541525,
+                  97370.16104445225
+                ],
+                [
+                  95913.49399539865,
+                  97366.02404446012
+                ],
+                [
+                  95911.19599540363,
+                  97363.41504446897
+                ],
+                [
+                  95908.89199540763,
+                  97360.79804447843
+                ],
+                [
+                  95903.19099541841,
+                  97354.32404450048
+                ],
+                [
+                  95901.32199542211,
+                  97352.20204450743
+                ],
+                [
+                  95901.10699542266,
+                  97351.95704450904
+                ],
+                [
+                  95900.07099542533,
+                  97350.7820445124
+                ],
+                [
+                  95898.16499542863,
+                  97348.61704451987
+                ],
+                [
+                  95895.60499543784,
+                  97350.82504451618
+                ],
+                [
+                  95893.57599544477,
+                  97352.57504451278
+                ],
+                [
+                  95893.08299544576,
+                  97353.00104451197
+                ],
+                [
+                  95890.17199545643,
+                  97355.51204450702
+                ]
+              ]
+            ]
+          ],
+          "type": "MultiPolygon"
+        },
+        "properties": {
+          "codigo": "074-102-001",
+          "fecha_actualizacion": "02/03/2026",
+          "fuente": "UPDATE_MARZO",
+          "tipo": "parcela"
+        },
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  },
+  "input": "MARTINIANO LEGUIZAMON 1501",
+  "ok": true,
+  "parcela": {
+    "cantidad_puertas": 0,
+    "centroide": [
+      -58.50800465725863,
+      -34.653054664188616
+    ],
+    "direccion": "",
+    "fondo": "37.81",
+    "frente": "6.40",
+    "fuente": "AGIP (2008)",
+    "locales": "0",
+    "manzana": "102",
+    "parcela": "001",
+    "pdamatriz": "15390",
+    "pisos_bajo_rasante": "0",
+    "pisos_sobre_rasante": "1",
+    "propiedad_horizontal": "No",
+    "puertas": [],
+    "seccion": "074",
+    "smp": "074-102-001",
+    "smp_anterior": "074-102-024",
+    "smp_siguiente": "074-102-002",
+    "srid": 4326,
+    "superficie_cubierta": "135.00",
+    "superficie_total": "242.00",
+    "unidades_funcionales": "0",
+    "vuc": "0.00"
+  },
+  "smp": "074-102-001",
+  "_http_status": 200
+}
